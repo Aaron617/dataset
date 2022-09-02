@@ -1,0 +1,461 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_bridges_in_Calgary",
+    "title": "List of bridges in Calgary",
+    "header": [
+        [
+            "Bridge",
+            []
+        ],
+        [
+            "Carries",
+            []
+        ],
+        [
+            "Remarks",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Cushing Bridge",
+                []
+            ],
+            [
+                "Blackfoot Trail SE / International Avenue",
+                [
+                    "/wiki/International_Avenue,_Calgary"
+                ],
+                [
+                    {
+                        "entity id": "Q6048670",
+                        "label": "International Avenue"
+                    }
+                ]
+            ],
+            [
+                "Connects Inglewood with Forest Lawn ; named after William Henry Cushing , Calgary mayor from 1900 to 1901",
+                [
+                    "/wiki/Inglewood,_Calgary",
+                    "/wiki/Forest_Lawn,_Alberta",
+                    "/wiki/William_Henry_Cushing"
+                ],
+                [
+                    {
+                        "entity id": "Q6032698",
+                        "label": "Inglewood"
+                    },
+                    {},
+                    {
+                        "entity id": "Q8011954",
+                        "label": "William Henry Cushing"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "CPR Bonnybrook Bridge",
+                []
+            ],
+            [
+                "Canadian Pacific Railway",
+                [
+                    "/wiki/Canadian_Pacific_Railway"
+                ],
+                [
+                    {
+                        "entity id": "Q46974",
+                        "label": "Canadian Pacific Railway"
+                    }
+                ]
+            ],
+            [
+                "Pony truss railroad bridge , connects three main tracks ( P-1 mainline , P-2 lead and Old Ogden lead ) with CPR Alyth Yard . The bridge is partially collapsed after flooding of Bow River in June 2013 . Steel bridge added in 1971. and Old Ogden lead ,",
+                [
+                    "/wiki/CPR_Alyth_Yard"
+                ],
+                [
+                    {
+                        "entity id": "Q5013706",
+                        "label": "CPR Alyth Yard"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "CNR Bow River Bridge",
+                []
+            ],
+            [
+                "Canadian National Railway",
+                [
+                    "/wiki/Canadian_National_Railway"
+                ],
+                [
+                    {
+                        "entity id": "Q624798",
+                        "label": "Canadian National Railway"
+                    }
+                ]
+            ],
+            [
+                "Through truss bridge has a single track",
+                []
+            ]
+        ],
+        [
+            [
+                "Bonnybrook Bridge",
+                []
+            ],
+            [
+                "Ogden Road SE",
+                []
+            ],
+            [
+                "Vehicular bridge carries Ogden Road and connects Alyth with Foothills Industrial Park",
+                [
+                    "/wiki/Alyth/Bonnybrook/Manchester,_Calgary"
+                ],
+                [
+                    {
+                        "entity id": "Q4738792",
+                        "label": "Alyth/Bonnybrook/Manchester, Calgary"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Calf Robe Bridge",
+                []
+            ],
+            [
+                "Deerfoot Trail",
+                [
+                    "/wiki/Deerfoot_Trail"
+                ],
+                [
+                    {
+                        "entity id": "Q5250934",
+                        "label": "Deerfoot Trail"
+                    }
+                ]
+            ],
+            [
+                "Connects Deerfoot trail from Glenmore Trail to Peigan Road ; named after Ben Calf Robe , a Siksika chief",
+                [
+                    "/wiki/Glenmore_Trail",
+                    "/wiki/Ben_Calf_Robe",
+                    "/wiki/Siksika_Nation"
+                ],
+                [
+                    {
+                        "entity id": "Q105071996",
+                        "label": "Glenmore Trail"
+                    },
+                    {
+                        "entity id": "Q41450407",
+                        "label": "Ben Calf Robe"
+                    },
+                    {
+                        "entity id": "Q485070",
+                        "label": "Siksika Nation"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Canadian National Bridge",
+                []
+            ],
+            [
+                "CN Railway",
+                [
+                    "/wiki/Canadian_National_Railway"
+                ],
+                [
+                    {
+                        "entity id": "Q624798",
+                        "label": "Canadian National Railway"
+                    }
+                ]
+            ],
+            [
+                "Connects Canadian Pacific Railway to Canadian National Railway",
+                [
+                    "/wiki/Canadian_Pacific_Railway",
+                    "/wiki/Canadian_National_Railway"
+                ],
+                [
+                    {
+                        "entity id": "Q46974",
+                        "label": "Canadian Pacific Railway"
+                    },
+                    {
+                        "entity id": "Q624798",
+                        "label": "Canadian National Railway"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Graves Bridge",
+                []
+            ],
+            [
+                "Glenmore Trail",
+                [
+                    "/wiki/Glenmore_Trail"
+                ],
+                [
+                    {
+                        "entity id": "Q105071996",
+                        "label": "Glenmore Trail"
+                    }
+                ]
+            ],
+            [
+                "Connects Alyth to Riverbend and Ogden , leads to Highway 8 east ; twinned in 2009",
+                [
+                    "/wiki/Riverbend,_Calgary",
+                    "/wiki/Ogden,_Calgary",
+                    "/wiki/Alberta_Highway_8"
+                ],
+                [
+                    {
+                        "entity id": "Q7338077",
+                        "label": "Riverbend, Calgary"
+                    },
+                    {
+                        "entity id": "Q7079895",
+                        "label": "Ogden, Calgary"
+                    },
+                    {
+                        "entity id": "Q4711736",
+                        "label": "Alberta Highway 8"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Sue Higgins Bridge",
+                []
+            ],
+            [
+                "Pedestrian",
+                []
+            ],
+            [
+                "Connects Southland Drive and Acadia to Riverbend",
+                [
+                    "/wiki/Acadia,_Calgary",
+                    "/wiki/Riverbend,_Calgary"
+                ],
+                [
+                    {
+                        "entity id": "Q4671566",
+                        "label": "Acadia, Calgary"
+                    },
+                    {
+                        "entity id": "Q7338077",
+                        "label": "Riverbend, Calgary"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Lafarge Bridge",
+                []
+            ],
+            [
+                "Road",
+                []
+            ],
+            [
+                "Connects Lafarge cement plant to Douglasglen . Damaged in 2005 flood , subsequently removed",
+                [
+                    "/wiki/Lafarge_(company)",
+                    "/wiki/Douglasdale/Douglasglen,_Calgary"
+                ],
+                [
+                    {},
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Ivor Strong Bridge",
+                []
+            ],
+            [
+                "Deerfoot Trail",
+                [
+                    "/wiki/Deerfoot_Trail"
+                ],
+                [
+                    {
+                        "entity id": "Q5250934",
+                        "label": "Deerfoot Trail"
+                    }
+                ]
+            ],
+            [
+                "Connects Maple Ridge to Douglasdale at the Anderson Road alignment ; named after John Ivor Strong , Chief Commissioner for the City of Calgary from 1965 to 1971",
+                [
+                    "/wiki/Maple_Ridge,_Calgary",
+                    "/wiki/Douglasdale/Douglasglen,_Calgary"
+                ],
+                [
+                    {
+                        "entity id": "Q6753955",
+                        "label": "Maple Ridge, Calgary"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Douglasdale Park Pedestrian Bridge",
+                []
+            ],
+            [
+                "Pedestrian",
+                []
+            ],
+            [
+                "Connects Douglasdale Park to Queensland",
+                [
+                    "/wiki/Queensland,_Calgary"
+                ],
+                [
+                    {
+                        "entity id": "Q7270876",
+                        "label": "Queensland, Calgary"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "McKenzie Pedestrian Bridge",
+                []
+            ],
+            [
+                "Pedestrian",
+                []
+            ],
+            [
+                "Connects Deer Ridge with McKenzie Lake",
+                []
+            ]
+        ],
+        [
+            [
+                "Marquis de Lorne Bridge",
+                []
+            ],
+            [
+                "Stoney Trail",
+                [
+                    "/wiki/Stoney_Trail"
+                ],
+                [
+                    {
+                        "entity id": "Q7619428",
+                        "label": "Stoney Trail"
+                    }
+                ]
+            ],
+            [
+                "Connects Marquis de Lorne Trail from Sundance and Chaparral across Fish Creek Provincial Park to McKenzie Lake and Cranston",
+                [
+                    "/wiki/Sundance,_Calgary",
+                    "/wiki/Chaparral,_Calgary",
+                    "/wiki/Fish_Creek_Provincial_Park",
+                    "/wiki/McKenzie_Lake,_Calgary",
+                    "/wiki/Cranston,_Calgary"
+                ],
+                [
+                    {
+                        "entity id": "Q14874896",
+                        "label": "Sundance, Calgary"
+                    },
+                    {
+                        "entity id": "Q5072927",
+                        "label": "Chaparral, Calgary"
+                    },
+                    {
+                        "entity id": "Q2000879",
+                        "label": "Fish Creek Provincial Park"
+                    },
+                    {
+                        "entity id": "Q6801832",
+                        "label": "McKenzie Lake, Calgary"
+                    },
+                    {
+                        "entity id": "Q5182259",
+                        "label": "Cranston, Calgary"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dunbow Road Bridge",
+                []
+            ],
+            [
+                "Highway 2",
+                [
+                    "/wiki/Alberta_Highway_2"
+                ],
+                [
+                    {
+                        "entity id": "Q4711661",
+                        "label": "Alberta Highway 2"
+                    }
+                ]
+            ],
+            [
+                "Connects Deerfoot Trail to Macleod Trail south of Calgary , between Auburn Bay and Heritage Pointe",
+                [
+                    "/wiki/Deerfoot_Trail",
+                    "/wiki/Macleod_Trail",
+                    "/wiki/Auburn_Bay,_Calgary",
+                    "/wiki/Heritage_Pointe,_Alberta"
+                ],
+                [
+                    {
+                        "entity id": "Q5250934",
+                        "label": "Deerfoot Trail"
+                    },
+                    {
+                        "entity id": "Q6724686",
+                        "label": "Macleod Trail"
+                    },
+                    {
+                        "entity id": "Q4819246",
+                        "label": "Auburn Bay, Calgary"
+                    },
+                    {
+                        "entity id": "Q14874798",
+                        "label": "Heritage Pointe, Alberta"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Crossings -- Bow River ( south of downtown )",
+    "section_text": "",
+    "uid": "List_of_bridges_in_Calgary_2",
+    "intro": "The City of Calgary has a number of bridges, spanning the two main rivers that cross the city, Bow River and Elbow River, as well as some other geographical and physical features. The first building in Calgary was erected in 1872 by Alexis Cardinal, at the request of Fr Constantine Scollen, an Oblate missionary priest, at the confluence of the two rivers."
+}

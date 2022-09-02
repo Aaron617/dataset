@@ -1,0 +1,707 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Tri-state_area",
+    "title": "Tri-state area",
+    "header": [
+        [
+            "State 1",
+            []
+        ],
+        [
+            "State 2",
+            []
+        ],
+        [
+            "State 3",
+            []
+        ],
+        [
+            "Notes",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Alabama",
+                [
+                    "/wiki/Alabama"
+                ],
+                [
+                    {
+                        "entity id": "Q173",
+                        "label": "Alabama"
+                    }
+                ]
+            ],
+            [
+                "Florida",
+                [
+                    "/wiki/Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q812",
+                        "label": "Florida"
+                    }
+                ]
+            ],
+            [
+                "Mississippi",
+                [
+                    "/wiki/Mississippi"
+                ],
+                [
+                    {
+                        "entity id": "Q1494",
+                        "label": "Mississippi"
+                    }
+                ]
+            ],
+            [
+                "The Gulf Coast region",
+                [
+                    "/wiki/Gulf_Coast"
+                ],
+                [
+                    {
+                        "entity id": "Q5617399",
+                        "label": "Gulf Coast"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Connecticut",
+                [
+                    "/wiki/Connecticut"
+                ],
+                [
+                    {
+                        "entity id": "Q779",
+                        "label": "Connecticut"
+                    }
+                ]
+            ],
+            [
+                "New Jersey",
+                [
+                    "/wiki/New_Jersey"
+                ],
+                [
+                    {
+                        "entity id": "Q1408",
+                        "label": "New Jersey"
+                    }
+                ]
+            ],
+            [
+                "New York",
+                [
+                    "/wiki/New_York_(state)"
+                ],
+                [
+                    {
+                        "entity id": "Q1384",
+                        "label": "New York"
+                    }
+                ]
+            ],
+            [
+                "New York metropolitan area . See New York Metropolitan Area",
+                [
+                    "/wiki/New_York_City",
+                    "/wiki/New_York_Metropolitan_Area"
+                ],
+                [
+                    {
+                        "entity id": "Q60",
+                        "label": "New York City"
+                    },
+                    {
+                        "entity id": "Q683705",
+                        "label": "New York metropolitan area"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Delaware",
+                [
+                    "/wiki/Delaware"
+                ],
+                [
+                    {
+                        "entity id": "Q1393",
+                        "label": "Delaware"
+                    }
+                ]
+            ],
+            [
+                "Maryland",
+                [
+                    "/wiki/Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q1391",
+                        "label": "Maryland"
+                    }
+                ]
+            ],
+            [
+                "New Jersey",
+                [
+                    "/wiki/New_Jersey"
+                ],
+                [
+                    {
+                        "entity id": "Q1408",
+                        "label": "New Jersey"
+                    }
+                ]
+            ],
+            [
+                "Wilmington , Delaware , metropolitan area",
+                [
+                    "/wiki/Wilmington,_Delaware"
+                ],
+                [
+                    {
+                        "entity id": "Q174224",
+                        "label": "Wilmington"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Delaware",
+                [
+                    "/wiki/Delaware"
+                ],
+                [
+                    {
+                        "entity id": "Q1393",
+                        "label": "Delaware"
+                    }
+                ]
+            ],
+            [
+                "Maryland",
+                [
+                    "/wiki/Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q1391",
+                        "label": "Maryland"
+                    }
+                ]
+            ],
+            [
+                "Virginia",
+                [
+                    "/wiki/Virginia"
+                ],
+                [
+                    {
+                        "entity id": "Q1370",
+                        "label": "Virginia"
+                    }
+                ]
+            ],
+            [
+                "Delmarva Peninsula",
+                [
+                    "/wiki/Delmarva_Peninsula"
+                ],
+                [
+                    {
+                        "entity id": "Q1044515",
+                        "label": "Delmarva Peninsula"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Idaho",
+                [
+                    "/wiki/Idaho"
+                ],
+                [
+                    {
+                        "entity id": "Q1221",
+                        "label": "Idaho"
+                    }
+                ]
+            ],
+            [
+                "Montana",
+                [
+                    "/wiki/Montana"
+                ],
+                [
+                    {
+                        "entity id": "Q1212",
+                        "label": "Montana"
+                    }
+                ]
+            ],
+            [
+                "Washington",
+                [
+                    "/wiki/Washington_(state)"
+                ],
+                [
+                    {
+                        "entity id": "Q1223",
+                        "label": "Washington"
+                    }
+                ]
+            ],
+            [
+                "Spokane , Washington , area ; connected by Interstate 90",
+                [
+                    "/wiki/Spokane,_Washington",
+                    "/wiki/Interstate_90"
+                ],
+                [
+                    {
+                        "entity id": "Q187805",
+                        "label": "Spokane"
+                    },
+                    {
+                        "entity id": "Q94958",
+                        "label": "Interstate 90"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Illinois",
+                [
+                    "/wiki/Illinois"
+                ],
+                [
+                    {
+                        "entity id": "Q1204",
+                        "label": "Illinois"
+                    }
+                ]
+            ],
+            [
+                "Indiana",
+                [
+                    "/wiki/Indiana"
+                ],
+                [
+                    {
+                        "entity id": "Q1415",
+                        "label": "Indiana"
+                    }
+                ]
+            ],
+            [
+                "Wisconsin",
+                [
+                    "/wiki/Wisconsin"
+                ],
+                [
+                    {
+                        "entity id": "Q1537",
+                        "label": "Wisconsin"
+                    }
+                ]
+            ],
+            [
+                "Chicago metro area",
+                [
+                    "/wiki/Chicago_metro_area"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Kansas",
+                [
+                    "/wiki/Kansas"
+                ],
+                [
+                    {
+                        "entity id": "Q1558",
+                        "label": "Kansas"
+                    }
+                ]
+            ],
+            [
+                "Oklahoma",
+                [
+                    "/wiki/Oklahoma"
+                ],
+                [
+                    {
+                        "entity id": "Q1649",
+                        "label": "Oklahoma"
+                    }
+                ]
+            ],
+            [
+                "Texas",
+                [
+                    "/wiki/Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q1439",
+                        "label": "Texas"
+                    }
+                ]
+            ],
+            [
+                "The Liberal , Kansas , area has a close relationship with the Oklahoma and Texas panhandles",
+                [
+                    "/wiki/Liberal,_Kansas",
+                    "/wiki/Oklahoma_Panhandle",
+                    "/wiki/Texas_Panhandle",
+                    "/wiki/Salient_(geography)"
+                ],
+                [
+                    {
+                        "entity id": "Q1003630",
+                        "label": "Liberal"
+                    },
+                    {
+                        "entity id": "Q1414375",
+                        "label": "Oklahoma Panhandle"
+                    },
+                    {
+                        "entity id": "Q2297417",
+                        "label": "Texas Panhandle"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Massachusetts",
+                [
+                    "/wiki/Massachusetts"
+                ],
+                [
+                    {
+                        "entity id": "Q771",
+                        "label": "Massachusetts"
+                    }
+                ]
+            ],
+            [
+                "Maine",
+                [
+                    "/wiki/Maine"
+                ],
+                [
+                    {
+                        "entity id": "Q724",
+                        "label": "Maine"
+                    }
+                ]
+            ],
+            [
+                "New Hampshire",
+                [
+                    "/wiki/New_Hampshire"
+                ],
+                [
+                    {
+                        "entity id": "Q759",
+                        "label": "New Hampshire"
+                    }
+                ]
+            ],
+            [
+                "The Boston to Portland , Maine , metro area ; though the two are separated by New Hampshire , Maine was actually part of Massachusetts before becoming a separate state in 1820",
+                [
+                    "/wiki/Boston",
+                    "/wiki/Portland,_Maine"
+                ],
+                [
+                    {
+                        "entity id": "Q100",
+                        "label": "Boston"
+                    },
+                    {
+                        "entity id": "Q49201",
+                        "label": "Portland"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "New York",
+                [
+                    "/wiki/New_York_(state)"
+                ],
+                [
+                    {
+                        "entity id": "Q1384",
+                        "label": "New York"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                [
+                    "/wiki/Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q1400",
+                        "label": "Pennsylvania"
+                    }
+                ]
+            ],
+            [
+                "Ohio",
+                [
+                    "/wiki/Ohio"
+                ],
+                [
+                    {
+                        "entity id": "Q1397",
+                        "label": "Ohio"
+                    }
+                ]
+            ],
+            [
+                "Erie metropolitan area , a.k.a . Niagara Frontier and North Coast . Shares two tripoints with the province of Ontario ( PA-ON-OH and PA-ON-NY ) , both within Lake Erie",
+                [
+                    "/wiki/Erie,_Pennsylvania",
+                    "/wiki/Niagara_Frontier",
+                    "/wiki/Northeast_Ohio",
+                    "/wiki/Ontario",
+                    "/wiki/Lake_Erie"
+                ],
+                [
+                    {
+                        "entity id": "Q234061",
+                        "label": "Erie"
+                    },
+                    {
+                        "entity id": "Q27716156",
+                        "label": "Niagara frontier"
+                    },
+                    {
+                        "entity id": "Q7057945",
+                        "label": "Northeast Ohio"
+                    },
+                    {
+                        "entity id": "Q1904",
+                        "label": "Ontario"
+                    },
+                    {
+                        "entity id": "Q5492",
+                        "label": "Lake Erie"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "South Carolina",
+                [
+                    "/wiki/South_Carolina"
+                ],
+                [
+                    {
+                        "entity id": "Q1456",
+                        "label": "South Carolina"
+                    }
+                ]
+            ],
+            [
+                "North Carolina",
+                [
+                    "/wiki/North_Carolina"
+                ],
+                [
+                    {
+                        "entity id": "Q1454",
+                        "label": "North Carolina"
+                    }
+                ]
+            ],
+            [
+                "Tennessee",
+                [
+                    "/wiki/Tennessee"
+                ],
+                [
+                    {
+                        "entity id": "Q1509",
+                        "label": "Tennessee"
+                    }
+                ]
+            ],
+            [
+                "The Spartanburg , South Carolina , Asheville , North Carolina , Johnson City , Tennessee , and Kingsport , Tennessee metro areas along Interstate 26",
+                [
+                    "/wiki/Spartanburg,_South_Carolina",
+                    "/wiki/Asheville,_North_Carolina",
+                    "/wiki/Johnson_City,_Tennessee",
+                    "/wiki/Kingsport,_Tennessee",
+                    "/wiki/Interstate_26"
+                ],
+                [
+                    {
+                        "entity id": "Q773325",
+                        "label": "Spartanburg"
+                    },
+                    {
+                        "entity id": "Q648501",
+                        "label": "Asheville"
+                    },
+                    {
+                        "entity id": "Q770571",
+                        "label": "Johnson City"
+                    },
+                    {
+                        "entity id": "Q241814",
+                        "label": "Kingsport"
+                    },
+                    {
+                        "entity id": "Q93881",
+                        "label": "Interstate 26"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Vermont",
+                [
+                    "/wiki/Vermont"
+                ],
+                [
+                    {
+                        "entity id": "Q16551",
+                        "label": "Vermont"
+                    }
+                ]
+            ],
+            [
+                "Maine",
+                [
+                    "/wiki/Maine"
+                ],
+                [
+                    {
+                        "entity id": "Q724",
+                        "label": "Maine"
+                    }
+                ]
+            ],
+            [
+                "New Hampshire",
+                [
+                    "/wiki/New_Hampshire"
+                ],
+                [
+                    {
+                        "entity id": "Q759",
+                        "label": "New Hampshire"
+                    }
+                ]
+            ],
+            [
+                "Northern New England",
+                [
+                    "/wiki/New_England"
+                ],
+                [
+                    {
+                        "entity id": "Q18389",
+                        "label": "New England"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "West Virginia",
+                [
+                    "/wiki/West_Virginia"
+                ],
+                [
+                    {
+                        "entity id": "Q1371",
+                        "label": "West Virginia"
+                    }
+                ]
+            ],
+            [
+                "Virginia",
+                [
+                    "/wiki/Virginia"
+                ],
+                [
+                    {
+                        "entity id": "Q1370",
+                        "label": "Virginia"
+                    }
+                ]
+            ],
+            [
+                "North Carolina",
+                [
+                    "/wiki/North_Carolina"
+                ],
+                [
+                    {
+                        "entity id": "Q1454",
+                        "label": "North Carolina"
+                    }
+                ]
+            ],
+            [
+                "Important section of Interstate 77 connecting Charleston , West Virginia with Charlotte , North Carolina ; passes through Wytheville , Virginia",
+                [
+                    "/wiki/Interstate_77",
+                    "/wiki/Charleston,_West_Virginia",
+                    "/wiki/Charlotte,_North_Carolina",
+                    "/wiki/Wytheville,_Virginia"
+                ],
+                [
+                    {
+                        "entity id": "Q94764",
+                        "label": "Interstate 77"
+                    },
+                    {
+                        "entity id": "Q44564",
+                        "label": "Charleston"
+                    },
+                    {
+                        "entity id": "Q16565",
+                        "label": "Charlotte"
+                    },
+                    {
+                        "entity id": "Q1375266",
+                        "label": "Wytheville"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Regions with no tripoint",
+    "section_text": "The following tri-state areas are also notable , but have no tripoint :",
+    "uid": "Tri-state_area_2",
+    "intro": "Tri-state area is an informal term in the eastern contiguous United States for any of several regions associated with a particular town or metropolis that, with adjacent suburbs, lies across three states. Some of these involve a state boundary tripoint. Other tri-state areas have a more diffuse population that shares a connected economy and geography - especially with respect to geology, botany, or climate - such as the tri-state area of New York, New Jersey, and Connecticut. The term tri-state area is often present in movies, radio and television commercials."
+}

@@ -1,0 +1,688 @@
+{
+    "url": "https://en.wikipedia.org/wiki/SS_postcode_area",
+    "title": "SS postcode area",
+    "header": [
+        [
+            "Postcode district",
+            []
+        ],
+        [
+            "Post town",
+            [
+                "/wiki/Post_town"
+            ],
+            [
+                {
+                    "entity id": "Q1968403",
+                    "label": "post town"
+                }
+            ]
+        ],
+        [
+            "Coverage",
+            []
+        ],
+        [
+            "Local authority area",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "SS0",
+                []
+            ],
+            [
+                "WESTCLIFF-ON-SEA",
+                []
+            ],
+            [
+                "Westcliff-on-Sea , Chalkwell",
+                [
+                    "/wiki/Westcliff-on-Sea",
+                    "/wiki/Chalkwell"
+                ],
+                [
+                    {
+                        "entity id": "Q2584915",
+                        "label": "Westcliff-on-Sea"
+                    },
+                    {
+                        "entity id": "Q5068854",
+                        "label": "Chalkwell"
+                    }
+                ]
+            ],
+            [
+                "Southend-on-Sea",
+                [
+                    "/wiki/Southend-on-Sea"
+                ],
+                [
+                    {
+                        "entity id": "Q203995",
+                        "label": "Southend-on-Sea"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SS1",
+                []
+            ],
+            [
+                "WESTCLIFF-ON-SEA",
+                []
+            ],
+            [
+                "PO Boxes",
+                [
+                    "/wiki/PO_Box"
+                ],
+                [
+                    {
+                        "entity id": "Q1162282",
+                        "label": "post-office box"
+                    }
+                ]
+            ],
+            [
+                "non-geographic",
+                [
+                    "/wiki/Non-geographic_postcodes"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "SS1",
+                []
+            ],
+            [
+                "SOUTHEND-ON-SEA",
+                []
+            ],
+            [
+                "Southend-on-Sea , Thorpe Bay",
+                [
+                    "/wiki/Thorpe_Bay"
+                ],
+                [
+                    {
+                        "entity id": "Q2087947",
+                        "label": "Thorpe Bay"
+                    }
+                ]
+            ],
+            [
+                "Southend-on-Sea",
+                []
+            ]
+        ],
+        [
+            [
+                "SS2",
+                []
+            ],
+            [
+                "SOUTHEND-ON-SEA",
+                []
+            ],
+            [
+                "Southend-on-Sea , Prittlewell , Southchurch",
+                [
+                    "/wiki/Prittlewell",
+                    "/wiki/Southchurch"
+                ],
+                [
+                    {
+                        "entity id": "Q2997004",
+                        "label": "Prittlewell"
+                    },
+                    {
+                        "entity id": "Q2016855",
+                        "label": "Southchurch"
+                    }
+                ]
+            ],
+            [
+                "Southend-on-Sea",
+                []
+            ]
+        ],
+        [
+            [
+                "SS3",
+                []
+            ],
+            [
+                "SOUTHEND-ON-SEA",
+                []
+            ],
+            [
+                "Shoeburyness , Great Wakering , Little Wakering , Barling",
+                [
+                    "/wiki/Shoeburyness",
+                    "/wiki/Great_Wakering",
+                    "/wiki/Little_Wakering",
+                    "/wiki/Barling,_Essex"
+                ],
+                [
+                    {
+                        "entity id": "Q593890",
+                        "label": "Shoeburyness"
+                    },
+                    {
+                        "entity id": "Q2451497",
+                        "label": "Great Wakering"
+                    },
+                    {
+                        "entity id": "Q1867115",
+                        "label": "Little Wakering"
+                    },
+                    {
+                        "entity id": "Q3216964",
+                        "label": "Barling"
+                    }
+                ]
+            ],
+            [
+                "Rochford , Southend-on-Sea",
+                [
+                    "/wiki/Rochford_District"
+                ],
+                [
+                    {
+                        "entity id": "Q73072717",
+                        "label": "Rochford District Council"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SS4",
+                []
+            ],
+            [
+                "ROCHFORD",
+                []
+            ],
+            [
+                "Rochford , Ashingdon , Canewdon , Stambridge , Paglesham",
+                [
+                    "/wiki/Rochford",
+                    "/wiki/Ashingdon",
+                    "/wiki/Canewdon",
+                    "/wiki/Stambridge",
+                    "/wiki/Paglesham"
+                ],
+                [
+                    {
+                        "entity id": "Q1926981",
+                        "label": "Rochford"
+                    },
+                    {
+                        "entity id": "Q2331153",
+                        "label": "Ashingdon"
+                    },
+                    {
+                        "entity id": "Q2254041",
+                        "label": "Canewdon"
+                    },
+                    {
+                        "entity id": "Q3919681",
+                        "label": "Stambridge"
+                    },
+                    {
+                        "entity id": "Q4796458",
+                        "label": "Paglesham"
+                    }
+                ]
+            ],
+            [
+                "Rochford",
+                []
+            ]
+        ],
+        [
+            [
+                "SS5",
+                []
+            ],
+            [
+                "HOCKLEY",
+                []
+            ],
+            [
+                "Hockley , Hullbridge , Hawkwell",
+                [
+                    "/wiki/Hockley",
+                    "/wiki/Hullbridge",
+                    "/wiki/Hawkwell"
+                ],
+                [
+                    {
+                        "entity id": "Q2486218",
+                        "label": "Hockley"
+                    },
+                    {
+                        "entity id": "Q2433284",
+                        "label": "Hullbridge"
+                    },
+                    {
+                        "entity id": "Q2306605",
+                        "label": "Hawkwell"
+                    }
+                ]
+            ],
+            [
+                "Rochford",
+                []
+            ]
+        ],
+        [
+            [
+                "SS6",
+                []
+            ],
+            [
+                "RAYLEIGH",
+                []
+            ],
+            [
+                "Rayleigh",
+                [
+                    "/wiki/Rayleigh,_Essex"
+                ],
+                [
+                    {
+                        "entity id": "Q2117331",
+                        "label": "Rayleigh"
+                    }
+                ]
+            ],
+            [
+                "Rochford",
+                []
+            ]
+        ],
+        [
+            [
+                "SS7",
+                []
+            ],
+            [
+                "BENFLEET",
+                []
+            ],
+            [
+                "Hadleigh , South Benfleet , Thundersley",
+                [
+                    "/wiki/Hadleigh,_Essex",
+                    "/wiki/South_Benfleet",
+                    "/wiki/Thundersley"
+                ],
+                [
+                    {
+                        "entity id": "Q2346831",
+                        "label": "Hadleigh"
+                    },
+                    {
+                        "entity id": "Q2347600",
+                        "label": "South Benfleet"
+                    },
+                    {
+                        "entity id": "Q2139560",
+                        "label": "Thundersley"
+                    }
+                ]
+            ],
+            [
+                "Castle Point",
+                [
+                    "/wiki/Castle_Point"
+                ],
+                [
+                    {
+                        "entity id": "Q1049506",
+                        "label": "Castle Point"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SS8",
+                []
+            ],
+            [
+                "CANVEY ISLAND",
+                []
+            ],
+            [
+                "Canvey Island",
+                [
+                    "/wiki/Canvey_Island"
+                ],
+                [
+                    {
+                        "entity id": "Q1033978",
+                        "label": "Canvey Island"
+                    }
+                ]
+            ],
+            [
+                "Castle Point",
+                []
+            ]
+        ],
+        [
+            [
+                "SS9",
+                []
+            ],
+            [
+                "LEIGH-ON-SEA",
+                []
+            ],
+            [
+                "Eastwood , Leigh-on-Sea",
+                [
+                    "/wiki/Eastwood,_Essex",
+                    "/wiki/Leigh-on-Sea"
+                ],
+                [
+                    {
+                        "entity id": "Q2342582",
+                        "label": "Eastwood"
+                    },
+                    {
+                        "entity id": "Q541590",
+                        "label": "Leigh-on-Sea"
+                    }
+                ]
+            ],
+            [
+                "Southend-on-Sea",
+                []
+            ]
+        ],
+        [
+            [
+                "SS11",
+                []
+            ],
+            [
+                "WICKFORD",
+                []
+            ],
+            [
+                "Wickford",
+                [
+                    "/wiki/Wickford"
+                ],
+                [
+                    {
+                        "entity id": "Q932841",
+                        "label": "Wickford"
+                    }
+                ]
+            ],
+            [
+                "Basildon , Chelmsford , Rochford",
+                [
+                    "/wiki/Borough_of_Basildon",
+                    "/wiki/City_of_Chelmsford"
+                ],
+                [
+                    {
+                        "entity id": "Q810056",
+                        "label": "Basildon"
+                    },
+                    {
+                        "entity id": "Q894080",
+                        "label": "Chelmsford"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SS12",
+                []
+            ],
+            [
+                "WICKFORD",
+                []
+            ],
+            [
+                "Wickford , North Benfleet",
+                [
+                    "/wiki/North_Benfleet"
+                ],
+                [
+                    {
+                        "entity id": "Q1934766",
+                        "label": "North Benfleet"
+                    }
+                ]
+            ],
+            [
+                "Basildon",
+                []
+            ]
+        ],
+        [
+            [
+                "SS13",
+                []
+            ],
+            [
+                "BASILDON",
+                []
+            ],
+            [
+                "Pitsea",
+                [
+                    "/wiki/Pitsea"
+                ],
+                [
+                    {
+                        "entity id": "Q2236621",
+                        "label": "Pitsea"
+                    }
+                ]
+            ],
+            [
+                "Basildon",
+                []
+            ]
+        ],
+        [
+            [
+                "SS14",
+                []
+            ],
+            [
+                "BASILDON",
+                []
+            ],
+            [
+                "Basildon",
+                [
+                    "/wiki/Basildon"
+                ],
+                [
+                    {
+                        "entity id": "Q216649",
+                        "label": "Basildon"
+                    }
+                ]
+            ],
+            [
+                "Basildon",
+                []
+            ]
+        ],
+        [
+            [
+                "SS15",
+                []
+            ],
+            [
+                "BASILDON",
+                []
+            ],
+            [
+                "Laindon",
+                [
+                    "/wiki/Laindon"
+                ],
+                [
+                    {
+                        "entity id": "Q1612874",
+                        "label": "Laindon"
+                    }
+                ]
+            ],
+            [
+                "Basildon",
+                []
+            ]
+        ],
+        [
+            [
+                "SS16",
+                []
+            ],
+            [
+                "BASILDON",
+                []
+            ],
+            [
+                "Langdon Hills",
+                [
+                    "/wiki/Langdon_Hills"
+                ],
+                [
+                    {
+                        "entity id": "Q2144216",
+                        "label": "Langdon Hills"
+                    }
+                ]
+            ],
+            [
+                "Basildon",
+                []
+            ]
+        ],
+        [
+            [
+                "SS17",
+                []
+            ],
+            [
+                "STANFORD-LE-HOPE",
+                []
+            ],
+            [
+                "Stanford-le-Hope , Corringham , Horndon-on-the-Hill",
+                [
+                    "/wiki/Stanford-le-Hope",
+                    "/wiki/Corringham,_Essex",
+                    "/wiki/Horndon-on-the-Hill"
+                ],
+                [
+                    {
+                        "entity id": "Q2574529",
+                        "label": "Stanford-le-Hope"
+                    },
+                    {
+                        "entity id": "Q968631",
+                        "label": "Corringham"
+                    },
+                    {
+                        "entity id": "Q2205748",
+                        "label": "Horndon on the Hill"
+                    }
+                ]
+            ],
+            [
+                "Thurrock",
+                [
+                    "/wiki/Thurrock"
+                ],
+                [
+                    {
+                        "entity id": "Q1549155",
+                        "label": "Thurrock"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SS22",
+                []
+            ],
+            [
+                "SOUTHEND-ON-SEA",
+                []
+            ],
+            [
+                "International Masters Publishers",
+                []
+            ],
+            [
+                "non-geographic",
+                []
+            ]
+        ],
+        [
+            [
+                "SS99",
+                []
+            ],
+            [
+                "SOUTHEND-ON-SEA",
+                []
+            ],
+            [
+                "HM Revenue and Customs ( VAT ) , First Data",
+                [
+                    "/wiki/HM_Revenue_and_Customs",
+                    "/wiki/Value_Added_Tax_(United_Kingdom)",
+                    "/wiki/First_Data"
+                ],
+                [
+                    {
+                        "entity id": "Q166559",
+                        "label": "HM Revenue and Customs"
+                    },
+                    {
+                        "entity id": "Q7912726",
+                        "label": "value added tax in the United Kingdom"
+                    },
+                    {
+                        "entity id": "Q906406",
+                        "label": "First Data"
+                    }
+                ]
+            ],
+            [
+                "non-geographic",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Coverage",
+    "section_text": "The approximate coverage of the postcode districts :",
+    "uid": "SS_postcode_area_0",
+    "intro": "The SS postcode area, also known as the Southend-on-Sea postcode area, is a group of seventeen postcode districts in England, which are subdivisions of eleven post towns. These cover south-east Essex, including Southend-on-Sea, Basildon, Benfleet, Canvey Island, Hockley, Leigh-on-Sea, Rayleigh, Rochford, Stanford-le-Hope, Westcliff-on-Sea and Wickford."
+}

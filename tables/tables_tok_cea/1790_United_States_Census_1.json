@@ -1,0 +1,993 @@
+{
+    "url": "https://en.wikipedia.org/wiki/1790_United_States_Census",
+    "title": "1790 United States Census",
+    "header": [
+        [
+            "Rank",
+            []
+        ],
+        [
+            "City",
+            []
+        ],
+        [
+            "State",
+            []
+        ],
+        [
+            "Population",
+            []
+        ],
+        [
+            "Region ( 2016 )",
+            [
+                "/wiki/List_of_regions_of_the_United_States"
+            ],
+            [
+                {
+                    "entity id": "Q2264649",
+                    "label": "list of regions of the United States"
+                }
+            ]
+        ],
+        [
+            "Population ( 2010 )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "01",
+                []
+            ],
+            [
+                "New York",
+                [
+                    "/wiki/Manhattan"
+                ],
+                [
+                    {
+                        "entity id": "Q11299",
+                        "label": "Manhattan"
+                    }
+                ]
+            ],
+            [
+                "New York",
+                [
+                    "/wiki/New_York_(state)"
+                ],
+                [
+                    {
+                        "entity id": "Q1384",
+                        "label": "New York"
+                    }
+                ]
+            ],
+            [
+                "33,131",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1,585,873 [ Manhattan only ]",
+                []
+            ]
+        ],
+        [
+            [
+                "02",
+                []
+            ],
+            [
+                "Philadelphia",
+                [
+                    "/wiki/Philadelphia"
+                ],
+                [
+                    {
+                        "entity id": "Q1345",
+                        "label": "Philadelphia"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                [
+                    "/wiki/Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q1400",
+                        "label": "Pennsylvania"
+                    }
+                ]
+            ],
+            [
+                "28,522",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1,526,006",
+                []
+            ]
+        ],
+        [
+            [
+                "03",
+                []
+            ],
+            [
+                "Boston",
+                [
+                    "/wiki/Boston"
+                ],
+                [
+                    {
+                        "entity id": "Q100",
+                        "label": "Boston"
+                    }
+                ]
+            ],
+            [
+                "Massachusetts",
+                [
+                    "/wiki/Massachusetts"
+                ],
+                [
+                    {
+                        "entity id": "Q771",
+                        "label": "Massachusetts"
+                    }
+                ]
+            ],
+            [
+                "18,320",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "617,594",
+                []
+            ]
+        ],
+        [
+            [
+                "04",
+                []
+            ],
+            [
+                "Charleston",
+                [
+                    "/wiki/Charleston,_South_Carolina"
+                ],
+                [
+                    {
+                        "entity id": "Q47716",
+                        "label": "Charleston"
+                    }
+                ]
+            ],
+            [
+                "South Carolina",
+                [
+                    "/wiki/South_Carolina"
+                ],
+                [
+                    {
+                        "entity id": "Q1456",
+                        "label": "South Carolina"
+                    }
+                ]
+            ],
+            [
+                "16,359",
+                []
+            ],
+            [
+                "South",
+                [
+                    "/wiki/Southern_United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q49042",
+                        "label": "Southern United States"
+                    }
+                ]
+            ],
+            [
+                "120,083",
+                []
+            ]
+        ],
+        [
+            [
+                "05",
+                []
+            ],
+            [
+                "Baltimore",
+                [
+                    "/wiki/Baltimore"
+                ],
+                [
+                    {
+                        "entity id": "Q5092",
+                        "label": "Baltimore"
+                    }
+                ]
+            ],
+            [
+                "Maryland",
+                [
+                    "/wiki/Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q1391",
+                        "label": "Maryland"
+                    }
+                ]
+            ],
+            [
+                "13,503",
+                []
+            ],
+            [
+                "South",
+                [
+                    "/wiki/Southern_United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q49042",
+                        "label": "Southern United States"
+                    }
+                ]
+            ],
+            [
+                "620,961",
+                []
+            ]
+        ],
+        [
+            [
+                "06",
+                []
+            ],
+            [
+                "Northern Liberties",
+                [
+                    "/wiki/Northern_Liberties_Township,_Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q7058628",
+                        "label": "Northern Liberties Township, Pennsylvania"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                [
+                    "/wiki/Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q1400",
+                        "label": "Pennsylvania"
+                    }
+                ]
+            ],
+            [
+                "9,913",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "N/A",
+                []
+            ]
+        ],
+        [
+            [
+                "07",
+                []
+            ],
+            [
+                "Salem",
+                [
+                    "/wiki/Salem,_Massachusetts"
+                ],
+                [
+                    {
+                        "entity id": "Q54140",
+                        "label": "Salem"
+                    }
+                ]
+            ],
+            [
+                "Massachusetts",
+                [
+                    "/wiki/Massachusetts"
+                ],
+                [
+                    {
+                        "entity id": "Q771",
+                        "label": "Massachusetts"
+                    }
+                ]
+            ],
+            [
+                "7,921",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "41,340",
+                []
+            ]
+        ],
+        [
+            [
+                "08",
+                []
+            ],
+            [
+                "Newport",
+                [
+                    "/wiki/Newport,_Rhode_Island"
+                ],
+                [
+                    {
+                        "entity id": "Q54264",
+                        "label": "Newport"
+                    }
+                ]
+            ],
+            [
+                "Rhode Island",
+                [
+                    "/wiki/Rhode_Island"
+                ],
+                [
+                    {
+                        "entity id": "Q1387",
+                        "label": "Rhode Island"
+                    }
+                ]
+            ],
+            [
+                "6,716",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "24,672",
+                []
+            ]
+        ],
+        [
+            [
+                "09",
+                []
+            ],
+            [
+                "Providence",
+                [
+                    "/wiki/Providence,_Rhode_Island"
+                ],
+                [
+                    {
+                        "entity id": "Q18383",
+                        "label": "Providence"
+                    }
+                ]
+            ],
+            [
+                "Rhode Island",
+                [
+                    "/wiki/Rhode_Island"
+                ],
+                [
+                    {
+                        "entity id": "Q1387",
+                        "label": "Rhode Island"
+                    }
+                ]
+            ],
+            [
+                "6,380",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "178,042",
+                []
+            ]
+        ],
+        [
+            [
+                "10",
+                []
+            ],
+            [
+                "Marblehead",
+                [
+                    "/wiki/Marblehead,_Massachusetts"
+                ],
+                [
+                    {
+                        "entity id": "Q27416",
+                        "label": "Marblehead"
+                    }
+                ]
+            ],
+            [
+                "Massachusetts",
+                [
+                    "/wiki/Massachusetts"
+                ],
+                [
+                    {
+                        "entity id": "Q771",
+                        "label": "Massachusetts"
+                    }
+                ]
+            ],
+            [
+                "5,661",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "19,808",
+                []
+            ]
+        ],
+        [
+            [
+                "11",
+                []
+            ],
+            [
+                "Southwark",
+                [
+                    "/wiki/Southwark,_Philadelphia"
+                ],
+                [
+                    {
+                        "entity id": "Q7571113",
+                        "label": "Southwark"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                [
+                    "/wiki/Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q1400",
+                        "label": "Pennsylvania"
+                    }
+                ]
+            ],
+            [
+                "5,661",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "N/A",
+                []
+            ]
+        ],
+        [
+            [
+                "12",
+                []
+            ],
+            [
+                "Gloucester",
+                [
+                    "/wiki/Gloucester,_Massachusetts"
+                ],
+                [
+                    {
+                        "entity id": "Q49156",
+                        "label": "Gloucester"
+                    }
+                ]
+            ],
+            [
+                "Massachusetts",
+                [
+                    "/wiki/Massachusetts"
+                ],
+                [
+                    {
+                        "entity id": "Q771",
+                        "label": "Massachusetts"
+                    }
+                ]
+            ],
+            [
+                "5,317",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "28,789",
+                []
+            ]
+        ],
+        [
+            [
+                "13",
+                []
+            ],
+            [
+                "Newburyport",
+                [
+                    "/wiki/Newburyport,_Massachusetts"
+                ],
+                [
+                    {
+                        "entity id": "Q54134",
+                        "label": "Newburyport"
+                    }
+                ]
+            ],
+            [
+                "Massachusetts",
+                [
+                    "/wiki/Massachusetts"
+                ],
+                [
+                    {
+                        "entity id": "Q771",
+                        "label": "Massachusetts"
+                    }
+                ]
+            ],
+            [
+                "4,837",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "17,416",
+                []
+            ]
+        ],
+        [
+            [
+                "14",
+                []
+            ],
+            [
+                "Portsmouth",
+                [
+                    "/wiki/Portsmouth,_New_Hampshire"
+                ],
+                [
+                    {
+                        "entity id": "Q49191",
+                        "label": "Portsmouth"
+                    }
+                ]
+            ],
+            [
+                "New Hampshire",
+                [
+                    "/wiki/New_Hampshire"
+                ],
+                [
+                    {
+                        "entity id": "Q759",
+                        "label": "New Hampshire"
+                    }
+                ]
+            ],
+            [
+                "4,720",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "21,233",
+                []
+            ]
+        ],
+        [
+            [
+                "15",
+                []
+            ],
+            [
+                "Sherburne",
+                [
+                    "/wiki/Nantucket"
+                ],
+                [
+                    {
+                        "entity id": "Q49149",
+                        "label": "Nantucket"
+                    }
+                ]
+            ],
+            [
+                "Massachusetts",
+                [
+                    "/wiki/Massachusetts"
+                ],
+                [
+                    {
+                        "entity id": "Q771",
+                        "label": "Massachusetts"
+                    }
+                ]
+            ],
+            [
+                "4,555",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "10,172",
+                []
+            ]
+        ],
+        [
+            [
+                "16",
+                []
+            ],
+            [
+                "Middleborough",
+                [
+                    "/wiki/Middleborough,_Massachusetts"
+                ],
+                [
+                    {
+                        "entity id": "Q2536810",
+                        "label": "Middleborough"
+                    }
+                ]
+            ],
+            [
+                "Massachusetts",
+                [
+                    "/wiki/Massachusetts"
+                ],
+                [
+                    {
+                        "entity id": "Q771",
+                        "label": "Massachusetts"
+                    }
+                ]
+            ],
+            [
+                "4,526",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "23,116",
+                []
+            ]
+        ],
+        [
+            [
+                "17",
+                []
+            ],
+            [
+                "New Haven",
+                [
+                    "/wiki/New_Haven,_Connecticut"
+                ],
+                [
+                    {
+                        "entity id": "Q49145",
+                        "label": "New Haven"
+                    }
+                ]
+            ],
+            [
+                "Connecticut",
+                [
+                    "/wiki/Connecticut"
+                ],
+                [
+                    {
+                        "entity id": "Q779",
+                        "label": "Connecticut"
+                    }
+                ]
+            ],
+            [
+                "4,487",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "129,779",
+                []
+            ]
+        ],
+        [
+            [
+                "18",
+                []
+            ],
+            [
+                "Taunton",
+                [
+                    "/wiki/Taunton,_Massachusetts"
+                ],
+                [
+                    {
+                        "entity id": "Q127506",
+                        "label": "Taunton"
+                    }
+                ]
+            ],
+            [
+                "Massachusetts",
+                [
+                    "/wiki/Massachusetts"
+                ],
+                [
+                    {
+                        "entity id": "Q771",
+                        "label": "Massachusetts"
+                    }
+                ]
+            ],
+            [
+                "3,804",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "55,874",
+                []
+            ]
+        ],
+        [
+            [
+                "19",
+                []
+            ],
+            [
+                "Richmond",
+                [
+                    "/wiki/Richmond,_Virginia"
+                ],
+                [
+                    {
+                        "entity id": "Q43421",
+                        "label": "Richmond"
+                    }
+                ]
+            ],
+            [
+                "Virginia",
+                [
+                    "/wiki/Virginia"
+                ],
+                [
+                    {
+                        "entity id": "Q1370",
+                        "label": "Virginia"
+                    }
+                ]
+            ],
+            [
+                "3,761",
+                []
+            ],
+            [
+                "South",
+                [
+                    "/wiki/Southern_United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q49042",
+                        "label": "Southern United States"
+                    }
+                ]
+            ],
+            [
+                "204,214",
+                []
+            ]
+        ],
+        [
+            [
+                "20",
+                []
+            ],
+            [
+                "Albany",
+                [
+                    "/wiki/Albany,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q24861",
+                        "label": "Albany"
+                    }
+                ]
+            ],
+            [
+                "New York",
+                [
+                    "/wiki/New_York_(state)"
+                ],
+                [
+                    {
+                        "entity id": "Q1384",
+                        "label": "New York"
+                    }
+                ]
+            ],
+            [
+                "3,498",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "97,856",
+                []
+            ]
+        ]
+    ],
+    "section_title": "City rankings",
+    "section_text": "Commemorative pitcher with census results",
+    "uid": "1790_United_States_Census_1",
+    "intro": "The United States Census of 1790 was the first census of the whole United States. It recorded the population of the United States as of Census Day, August 2, 1790, as mandated by Article I, Section 2 of the United States Constitution and applicable laws. In the first census, the population of the United States was enumerated to be 3,929,214. Congress assigned responsibility for the 1790 census to the marshals of United States judicial districts under an act which, with minor modifications and extensions, governed census taking until the 1840 census. The law required that every household be visited, that completed census schedules be posted in 'two of the most public places within [each jurisdiction], there to remain for the inspection of all concerned.' and that 'the aggregate amount of each description of persons' for every district be transmitted to the president."
+}

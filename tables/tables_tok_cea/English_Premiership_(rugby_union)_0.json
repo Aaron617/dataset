@@ -1,0 +1,643 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Premiership_Rugby",
+    "title": "Premiership Rugby",
+    "header": [
+        [
+            "Club",
+            []
+        ],
+        [
+            "Established",
+            []
+        ],
+        [
+            "City",
+            []
+        ],
+        [
+            "Stadium",
+            []
+        ],
+        [
+            "Capacity*",
+            []
+        ],
+        [
+            "Titles ( Last ) **",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Bath",
+                [
+                    "/wiki/Bath_Rugby"
+                ],
+                [
+                    {
+                        "entity id": "Q810786",
+                        "label": "Bath Rugby"
+                    }
+                ]
+            ],
+            [
+                "1865",
+                []
+            ],
+            [
+                "Bath",
+                [
+                    "/wiki/Bath,_Somerset"
+                ],
+                [
+                    {
+                        "entity id": "Q22889",
+                        "label": "Bath"
+                    }
+                ]
+            ],
+            [
+                "The Recreation Ground",
+                [
+                    "/wiki/Recreation_Ground_(Bath)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "14,509",
+                []
+            ],
+            [
+                "6 ( 1996 )",
+                []
+            ]
+        ],
+        [
+            [
+                "Bristol Bears",
+                [
+                    "/wiki/Bristol_Bears"
+                ],
+                [
+                    {
+                        "entity id": "Q917973",
+                        "label": "Bristol Bears"
+                    }
+                ]
+            ],
+            [
+                "1888",
+                []
+            ],
+            [
+                "Bristol",
+                [
+                    "/wiki/Bristol"
+                ],
+                [
+                    {
+                        "entity id": "Q23154",
+                        "label": "Bristol"
+                    }
+                ]
+            ],
+            [
+                "Ashton Gate",
+                [
+                    "/wiki/Ashton_Gate_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q726370",
+                        "label": "Ashton Gate Stadium"
+                    }
+                ]
+            ],
+            [
+                "27,000",
+                []
+            ],
+            [
+                "0 ( N/A )",
+                []
+            ]
+        ],
+        [
+            [
+                "Exeter Chiefs",
+                [
+                    "/wiki/Exeter_Chiefs"
+                ],
+                [
+                    {
+                        "entity id": "Q675305",
+                        "label": "Exeter Chiefs"
+                    }
+                ]
+            ],
+            [
+                "1871",
+                []
+            ],
+            [
+                "Exeter",
+                [
+                    "/wiki/Exeter"
+                ],
+                [
+                    {
+                        "entity id": "Q134672",
+                        "label": "Exeter"
+                    }
+                ]
+            ],
+            [
+                "Sandy Park",
+                [
+                    "/wiki/Sandy_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q496170",
+                        "label": "Sandara Park"
+                    }
+                ]
+            ],
+            [
+                "13,593",
+                []
+            ],
+            [
+                "1 ( 2017 )",
+                []
+            ]
+        ],
+        [
+            [
+                "Gloucester",
+                [
+                    "/wiki/Gloucester_Rugby"
+                ],
+                [
+                    {
+                        "entity id": "Q745758",
+                        "label": "Gloucester Rugby"
+                    }
+                ]
+            ],
+            [
+                "1873",
+                []
+            ],
+            [
+                "Gloucester",
+                [
+                    "/wiki/Gloucester"
+                ],
+                [
+                    {
+                        "entity id": "Q170497",
+                        "label": "Gloucester"
+                    }
+                ]
+            ],
+            [
+                "Kingsholm Stadium",
+                [
+                    "/wiki/Kingsholm_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q1428807",
+                        "label": "Kingsholm Stadium"
+                    }
+                ]
+            ],
+            [
+                "16,115",
+                []
+            ],
+            [
+                "0 ( N/A )",
+                []
+            ]
+        ],
+        [
+            [
+                "Harlequins",
+                [
+                    "/wiki/Harlequin_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q1149835",
+                        "label": "Harlequin F.C."
+                    }
+                ]
+            ],
+            [
+                "1866",
+                []
+            ],
+            [
+                "London ( Twickenham )",
+                [
+                    "/wiki/London",
+                    "/wiki/Twickenham"
+                ],
+                [
+                    {
+                        "entity id": "Q84",
+                        "label": "London"
+                    },
+                    {
+                        "entity id": "Q1143278",
+                        "label": "Twickenham"
+                    }
+                ]
+            ],
+            [
+                "Twickenham Stoop",
+                [
+                    "/wiki/Twickenham_Stoop"
+                ],
+                [
+                    {
+                        "entity id": "Q1209258",
+                        "label": "Twickenham Stoop"
+                    }
+                ]
+            ],
+            [
+                "14,800",
+                []
+            ],
+            [
+                "1 ( 2012 )",
+                []
+            ]
+        ],
+        [
+            [
+                "Leicester Tigers",
+                [
+                    "/wiki/Leicester_Tigers"
+                ],
+                [
+                    {
+                        "entity id": "Q1071691",
+                        "label": "Leicester Tigers"
+                    }
+                ]
+            ],
+            [
+                "1880",
+                []
+            ],
+            [
+                "Leicester",
+                [
+                    "/wiki/Leicester"
+                ],
+                [
+                    {
+                        "entity id": "Q83065",
+                        "label": "Leicester"
+                    }
+                ]
+            ],
+            [
+                "Welford Road",
+                [
+                    "/wiki/Welford_Road_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q1210262",
+                        "label": "Welford Road Stadium"
+                    }
+                ]
+            ],
+            [
+                "25,849",
+                []
+            ],
+            [
+                "10 ( 2013 )",
+                []
+            ]
+        ],
+        [
+            [
+                "London Irish",
+                [
+                    "/wiki/London_Irish"
+                ],
+                [
+                    {
+                        "entity id": "Q15733106",
+                        "label": "London Irish"
+                    }
+                ]
+            ],
+            [
+                "1898",
+                []
+            ],
+            [
+                "Reading",
+                [
+                    "/wiki/Reading,_Berkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q161491",
+                        "label": "Reading"
+                    }
+                ]
+            ],
+            [
+                "Madejski Stadium",
+                [
+                    "/wiki/Madejski_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q31656",
+                        "label": "Madejski Stadium"
+                    }
+                ]
+            ],
+            [
+                "24,161",
+                []
+            ],
+            [
+                "0 ( N/A )",
+                []
+            ]
+        ],
+        [
+            [
+                "Northampton Saints",
+                [
+                    "/wiki/Northampton_Saints"
+                ],
+                [
+                    {
+                        "entity id": "Q1201283",
+                        "label": "Northampton Saints"
+                    }
+                ]
+            ],
+            [
+                "1880",
+                []
+            ],
+            [
+                "Northampton",
+                [
+                    "/wiki/Northampton"
+                ],
+                [
+                    {
+                        "entity id": "Q192240",
+                        "label": "Northampton"
+                    }
+                ]
+            ],
+            [
+                "Franklin 's Gardens",
+                [
+                    "/wiki/Franklin's_Gardens"
+                ],
+                [
+                    {
+                        "entity id": "Q626464",
+                        "label": "Franklin's Gardens"
+                    }
+                ]
+            ],
+            [
+                "15,200",
+                []
+            ],
+            [
+                "1 ( 2014 )",
+                []
+            ]
+        ],
+        [
+            [
+                "Sale Sharks",
+                [
+                    "/wiki/Sale_Sharks"
+                ],
+                [
+                    {
+                        "entity id": "Q928517",
+                        "label": "Sale Sharks"
+                    }
+                ]
+            ],
+            [
+                "1861",
+                []
+            ],
+            [
+                "Salford",
+                [
+                    "/wiki/Salford"
+                ],
+                [
+                    {
+                        "entity id": "Q47952",
+                        "label": "Salford"
+                    }
+                ]
+            ],
+            [
+                "AJ Bell Stadium",
+                [
+                    "/wiki/AJ_Bell_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q3469727",
+                        "label": "AJ Bell Stadium"
+                    }
+                ]
+            ],
+            [
+                "12,000",
+                []
+            ],
+            [
+                "1 ( 2006 )",
+                []
+            ]
+        ],
+        [
+            [
+                "Saracens",
+                [
+                    "/wiki/Saracens_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q9641",
+                        "label": "Saracens F.C."
+                    }
+                ]
+            ],
+            [
+                "1876",
+                []
+            ],
+            [
+                "London ( Hendon )",
+                [
+                    "/wiki/London",
+                    "/wiki/Hendon"
+                ],
+                [
+                    {
+                        "entity id": "Q84",
+                        "label": "London"
+                    },
+                    {
+                        "entity id": "Q149787",
+                        "label": "Hendon"
+                    }
+                ]
+            ],
+            [
+                "Allianz Park",
+                [
+                    "/wiki/Barnet_Copthall"
+                ],
+                [
+                    {
+                        "entity id": "Q4861594",
+                        "label": "Barnet Copthall"
+                    }
+                ]
+            ],
+            [
+                "8,500",
+                []
+            ],
+            [
+                "5 ( 2019 )",
+                []
+            ]
+        ],
+        [
+            [
+                "Wasps",
+                [
+                    "/wiki/Wasps_RFC"
+                ],
+                [
+                    {
+                        "entity id": "Q1150127",
+                        "label": "Wasps RFC"
+                    }
+                ]
+            ],
+            [
+                "1867",
+                []
+            ],
+            [
+                "Coventry",
+                [
+                    "/wiki/Coventry"
+                ],
+                [
+                    {
+                        "entity id": "Q6225",
+                        "label": "Coventry"
+                    }
+                ]
+            ],
+            [
+                "Ricoh Arena",
+                [
+                    "/wiki/Ricoh_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q842077",
+                        "label": "Ricoh Arena"
+                    }
+                ]
+            ],
+            [
+                "32,753",
+                []
+            ],
+            [
+                "6 ( 2008 )",
+                []
+            ]
+        ],
+        [
+            [
+                "Worcester Warriors",
+                [
+                    "/wiki/Worcester_Warriors"
+                ],
+                [
+                    {
+                        "entity id": "Q2094512",
+                        "label": "Worcester Warriors"
+                    }
+                ]
+            ],
+            [
+                "1871",
+                []
+            ],
+            [
+                "Worcester",
+                [
+                    "/wiki/Worcester"
+                ],
+                [
+                    {
+                        "entity id": "Q49179",
+                        "label": "Worcester"
+                    }
+                ]
+            ],
+            [
+                "Sixways Stadium",
+                [
+                    "/wiki/Sixways_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q1472896",
+                        "label": "Sixways Stadium"
+                    }
+                ]
+            ],
+            [
+                "11,499",
+                []
+            ],
+            [
+                "0 ( N/A )",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Clubs -- Current clubs chart",
+    "section_text": "",
+    "uid": "English_Premiership_(rugby_union)_0",
+    "intro": "Premiership Rugby (officially known as Gallagher Premiership Rugby, or the Gallagher Premiership due to sponsorship reasons) is an English professional rugby union competition. The Premiership consists of twelve clubs, and is the top division of the English rugby union system. Premiership clubs qualify for Europe's two main club competitions, the European Rugby Champions Cup and the European Rugby Challenge Cup. The team finishing at the bottom of the Premiership each season is relegated to the second division, the RFU Championship; the winner of the Championship is promoted to the Premiership. The competition has been played since 1987, and has evolved into the current Premiership system. The current champions are Saracens. The most recently promoted side are London Irish, who returned to the top flight in 2019."
+}

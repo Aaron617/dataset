@@ -1,0 +1,638 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Media_in_Victoria,_British_Columbia",
+    "title": "Media in Victoria, British Columbia",
+    "header": [
+        [
+            "Frequency",
+            []
+        ],
+        [
+            "Call sign",
+            []
+        ],
+        [
+            "Branding",
+            []
+        ],
+        [
+            "Format",
+            []
+        ],
+        [
+            "Owner",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "AM 1070",
+                []
+            ],
+            [
+                "CFAX",
+                [
+                    "/wiki/CFAX"
+                ],
+                [
+                    {
+                        "entity id": "Q5010433",
+                        "label": "CFAX"
+                    }
+                ]
+            ],
+            [
+                "CFAX 1070",
+                []
+            ],
+            [
+                "news / talk",
+                [
+                    "/wiki/News",
+                    "/wiki/Talk_radio"
+                ],
+                [
+                    {
+                        "entity id": "Q38926",
+                        "label": "news"
+                    },
+                    {
+                        "entity id": "Q502319",
+                        "label": "talk radio"
+                    }
+                ]
+            ],
+            [
+                "Bell Media Radio",
+                [
+                    "/wiki/Bell_Media_Radio"
+                ],
+                [
+                    {
+                        "entity id": "Q4883204",
+                        "label": "Bell Media Radio"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FM 88.9",
+                []
+            ],
+            [
+                "CBUX-FM-1",
+                [
+                    "/wiki/CBUX-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5009312",
+                        "label": "CBUX-FM"
+                    }
+                ]
+            ],
+            [
+                "Ici Musique",
+                [
+                    "/wiki/Ici_Musique"
+                ],
+                [
+                    {
+                        "entity id": "Q659512",
+                        "label": "Ici Musique"
+                    }
+                ]
+            ],
+            [
+                "public music",
+                [
+                    "/wiki/Public_broadcasting"
+                ],
+                [
+                    {
+                        "entity id": "Q26398",
+                        "label": "public broadcasting"
+                    }
+                ]
+            ],
+            [
+                "Canadian Broadcasting Corporation",
+                [
+                    "/wiki/Canadian_Broadcasting_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q461761",
+                        "label": "Canadian Broadcasting Corporation"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FM 90.5",
+                []
+            ],
+            [
+                "CBCV-FM",
+                [
+                    "/wiki/CBCV-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5008998",
+                        "label": "CBCV-FM"
+                    }
+                ]
+            ],
+            [
+                "CBC Radio One",
+                [
+                    "/wiki/CBC_Radio_One"
+                ],
+                [
+                    {
+                        "entity id": "Q5009037",
+                        "label": "CBC Radio One"
+                    }
+                ]
+            ],
+            [
+                "public news / talk",
+                [
+                    "/wiki/Public_broadcasting",
+                    "/wiki/News_radio",
+                    "/wiki/Talk_radio"
+                ],
+                [
+                    {
+                        "entity id": "Q26398",
+                        "label": "public broadcasting"
+                    },
+                    {
+                        "entity id": "Q427583",
+                        "label": "NewsRadio"
+                    },
+                    {
+                        "entity id": "Q502319",
+                        "label": "talk radio"
+                    }
+                ]
+            ],
+            [
+                "Canadian Broadcasting Corporation",
+                [
+                    "/wiki/Canadian_Broadcasting_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q461761",
+                        "label": "Canadian Broadcasting Corporation"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FM 91.3",
+                []
+            ],
+            [
+                "CJZN-FM",
+                [
+                    "/wiki/CJZN-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5012255",
+                        "label": "CJZN-FM"
+                    }
+                ]
+            ],
+            [
+                "The Zone",
+                []
+            ],
+            [
+                "modern rock",
+                [
+                    "/wiki/Modern_rock"
+                ],
+                [
+                    {
+                        "entity id": "Q1037693",
+                        "label": "modern rock"
+                    }
+                ]
+            ],
+            [
+                "Jim Pattison Group",
+                [
+                    "/wiki/Jim_Pattison_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q1356524",
+                        "label": "Jim Pattison Group"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FM 92.1",
+                []
+            ],
+            [
+                "CBU-FM-2",
+                [
+                    "/wiki/CBU-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5009306",
+                        "label": "CBU-FM"
+                    }
+                ]
+            ],
+            [
+                "CBC Music",
+                [
+                    "/wiki/CBC_Music"
+                ],
+                [
+                    {
+                        "entity id": "Q5009015",
+                        "label": "CBC Music"
+                    }
+                ]
+            ],
+            [
+                "public music",
+                [
+                    "/wiki/Public_broadcasting"
+                ],
+                [
+                    {
+                        "entity id": "Q26398",
+                        "label": "public broadcasting"
+                    }
+                ]
+            ],
+            [
+                "Canadian Broadcasting Corporation",
+                [
+                    "/wiki/Canadian_Broadcasting_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q461761",
+                        "label": "Canadian Broadcasting Corporation"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FM 98.5",
+                []
+            ],
+            [
+                "CIOC-FM",
+                [
+                    "/wiki/CIOC-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5011794",
+                        "label": "CIOC-FM"
+                    }
+                ]
+            ],
+            [
+                "The Ocean",
+                []
+            ],
+            [
+                "soft adult contemporary",
+                [
+                    "/wiki/Soft_adult_contemporary"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Rogers Communications",
+                [
+                    "/wiki/Rogers_Communications"
+                ],
+                [
+                    {
+                        "entity id": "Q165684",
+                        "label": "Rogers Communications"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FM 99.7",
+                []
+            ],
+            [
+                "CBUF-FM-9",
+                [
+                    "/wiki/CBUF-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5009308",
+                        "label": "CBUF-FM"
+                    }
+                ]
+            ],
+            [
+                "Ici Radio-Canada Premi\u00e8re",
+                [
+                    "/wiki/Ici_Radio-Canada_Premi\u00e8re"
+                ],
+                [
+                    {
+                        "entity id": "Q3401855",
+                        "label": "Premi\u00e8re Cha\u00eene"
+                    }
+                ]
+            ],
+            [
+                "public news / talk",
+                [
+                    "/wiki/Public_broadcasting",
+                    "/wiki/News_radio",
+                    "/wiki/Talk_radio"
+                ],
+                [
+                    {
+                        "entity id": "Q26398",
+                        "label": "public broadcasting"
+                    },
+                    {
+                        "entity id": "Q427583",
+                        "label": "NewsRadio"
+                    },
+                    {
+                        "entity id": "Q502319",
+                        "label": "talk radio"
+                    }
+                ]
+            ],
+            [
+                "Canadian Broadcasting Corporation",
+                [
+                    "/wiki/Canadian_Broadcasting_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q461761",
+                        "label": "Canadian Broadcasting Corporation"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FM 100.3",
+                []
+            ],
+            [
+                "CKKQ-FM",
+                [
+                    "/wiki/CKKQ-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5012412",
+                        "label": "CKKQ-FM"
+                    }
+                ]
+            ],
+            [
+                "The Q",
+                []
+            ],
+            [
+                "active rock",
+                [
+                    "/wiki/Active_rock"
+                ],
+                [
+                    {
+                        "entity id": "Q4677584",
+                        "label": "Active rock"
+                    }
+                ]
+            ],
+            [
+                "Jim Pattison Group",
+                [
+                    "/wiki/Jim_Pattison_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q1356524",
+                        "label": "Jim Pattison Group"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FM 101.9",
+                []
+            ],
+            [
+                "CFUV-FM",
+                [
+                    "/wiki/CFUV-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5010880",
+                        "label": "CFUV-FM"
+                    }
+                ]
+            ],
+            [
+                "CFUV",
+                []
+            ],
+            [
+                "campus radio",
+                [
+                    "/wiki/Campus_radio"
+                ],
+                [
+                    {
+                        "entity id": "Q1436229",
+                        "label": "campus radio"
+                    }
+                ]
+            ],
+            [
+                "University of Victoria",
+                [
+                    "/wiki/University_of_Victoria"
+                ],
+                [
+                    {
+                        "entity id": "Q1458113",
+                        "label": "University of Victoria"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FM 103.1",
+                []
+            ],
+            [
+                "CHTT-FM",
+                [
+                    "/wiki/CHTT-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5011387",
+                        "label": "CHTT-FM"
+                    }
+                ]
+            ],
+            [
+                "JACK FM",
+                []
+            ],
+            [
+                "Adult hits",
+                [
+                    "/wiki/Adult_hits"
+                ],
+                [
+                    {
+                        "entity id": "Q2510800",
+                        "label": "Adult hits"
+                    }
+                ]
+            ],
+            [
+                "Rogers Communications",
+                [
+                    "/wiki/Rogers_Communications"
+                ],
+                [
+                    {
+                        "entity id": "Q165684",
+                        "label": "Rogers Communications"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FM 107.3",
+                []
+            ],
+            [
+                "CHBE-FM",
+                [
+                    "/wiki/CHBE-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q1783767",
+                        "label": "CHBE-FM"
+                    }
+                ]
+            ],
+            [
+                "Virgin Radio",
+                [
+                    "/wiki/Virgin_Radio"
+                ],
+                [
+                    {
+                        "entity id": "Q3560647",
+                        "label": "Virgin Radio"
+                    }
+                ]
+            ],
+            [
+                "CHR",
+                [
+                    "/wiki/Contemporary_hit_radio"
+                ],
+                [
+                    {
+                        "entity id": "Q427487",
+                        "label": "contemporary hit radio"
+                    }
+                ]
+            ],
+            [
+                "Bell Media Radio",
+                [
+                    "/wiki/Bell_Media_Radio"
+                ],
+                [
+                    {
+                        "entity id": "Q4883204",
+                        "label": "Bell Media Radio"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FM 107.9",
+                []
+            ],
+            [
+                "CILS-FM",
+                [
+                    "/wiki/CILS-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q2421512",
+                        "label": "CILS-FM"
+                    }
+                ]
+            ],
+            [
+                "Radio Victoria",
+                []
+            ],
+            [
+                "community radio",
+                [
+                    "/wiki/Community_radio"
+                ],
+                [
+                    {
+                        "entity id": "Q1179112",
+                        "label": "community radio"
+                    }
+                ]
+            ],
+            [
+                "Soci\u00e9t\u00e9 Radio Communautaire Victoria",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Radio",
+    "section_text": "",
+    "uid": "Media_in_Victoria,_British_Columbia_0",
+    "intro": "This is a list of media in Victoria, British Columbia."
+}

@@ -1,0 +1,749 @@
+{
+    "url": "https://en.wikipedia.org/wiki/2012_Allsvenskan",
+    "title": "2012 Allsvenskan",
+    "header": [
+        [
+            "Team",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Stadium",
+            []
+        ],
+        [
+            "Turf",
+            []
+        ],
+        [
+            "Stadium capacity",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "AIK",
+                [
+                    "/wiki/AIK_Fotboll"
+                ],
+                [
+                    {
+                        "entity id": "Q221602",
+                        "label": "AIK Fotboll"
+                    }
+                ]
+            ],
+            [
+                "Stockholm",
+                [
+                    "/wiki/Stockholm"
+                ],
+                [
+                    {
+                        "entity id": "Q1754",
+                        "label": "Stockholm"
+                    }
+                ]
+            ],
+            [
+                "R\u00e5sunda Stadium",
+                [
+                    "/wiki/R\u00e5sunda_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q725623",
+                        "label": "R\u00e5sunda Stadium"
+                    }
+                ]
+            ],
+            [
+                "Natural",
+                [
+                    "/wiki/Grass"
+                ],
+                [
+                    {
+                        "entity id": "Q43238",
+                        "label": "Poaceae"
+                    }
+                ]
+            ],
+            [
+                "36,608",
+                []
+            ]
+        ],
+        [
+            [
+                "Djurg\u00e5rdens IF",
+                [
+                    "/wiki/Djurg\u00e5rdens_IF_Fotboll"
+                ],
+                [
+                    {
+                        "entity id": "Q622430",
+                        "label": "Djurg\u00e5rdens IF Fotboll"
+                    }
+                ]
+            ],
+            [
+                "Stockholm",
+                []
+            ],
+            [
+                "Stockholm Stadion",
+                [
+                    "/wiki/Stockholm_Olympic_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q727078",
+                        "label": "Stockholm Olympic Stadium"
+                    }
+                ]
+            ],
+            [
+                "Natural",
+                []
+            ],
+            [
+                "14,700",
+                []
+            ]
+        ],
+        [
+            [
+                "IF Elfsborg",
+                [
+                    "/wiki/IF_Elfsborg"
+                ],
+                [
+                    {
+                        "entity id": "Q211753",
+                        "label": "IF Elfsborg"
+                    }
+                ]
+            ],
+            [
+                "Bor\u00e5s",
+                [
+                    "/wiki/Bor\u00e5s"
+                ],
+                [
+                    {
+                        "entity id": "Q26040",
+                        "label": "Bor\u00e5s"
+                    }
+                ]
+            ],
+            [
+                "Bor\u00e5s Arena",
+                [
+                    "/wiki/Bor\u00e5s_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q627087",
+                        "label": "Bor\u00e5s Arena"
+                    }
+                ]
+            ],
+            [
+                "Artificial",
+                [
+                    "/wiki/Artificial_turf"
+                ],
+                [
+                    {
+                        "entity id": "Q311935",
+                        "label": "artificial turf"
+                    }
+                ]
+            ],
+            [
+                "16,899",
+                []
+            ]
+        ],
+        [
+            [
+                "GAIS",
+                [
+                    "/wiki/GAIS"
+                ],
+                [
+                    {
+                        "entity id": "Q391789",
+                        "label": "GAIS"
+                    }
+                ]
+            ],
+            [
+                "Gothenburg",
+                [
+                    "/wiki/Gothenburg"
+                ],
+                [
+                    {
+                        "entity id": "Q25287",
+                        "label": "Gothenburg"
+                    }
+                ]
+            ],
+            [
+                "Gamla Ullevi",
+                [
+                    "/wiki/Gamla_Ullevi"
+                ],
+                [
+                    {
+                        "entity id": "Q165944",
+                        "label": "Gamla Ullevi"
+                    }
+                ]
+            ],
+            [
+                "Natural",
+                []
+            ],
+            [
+                "18,416",
+                []
+            ]
+        ],
+        [
+            [
+                "Gefle IF",
+                [
+                    "/wiki/Gefle_IF"
+                ],
+                [
+                    {
+                        "entity id": "Q603333",
+                        "label": "Gefle IF"
+                    }
+                ]
+            ],
+            [
+                "G\u00e4vle",
+                [
+                    "/wiki/G\u00e4vle"
+                ],
+                [
+                    {
+                        "entity id": "Q25748",
+                        "label": "G\u00e4vle"
+                    }
+                ]
+            ],
+            [
+                "Str\u00f6mvallen",
+                [
+                    "/wiki/Str\u00f6mvallen"
+                ],
+                [
+                    {
+                        "entity id": "Q2301634",
+                        "label": "Str\u00f6mvallen"
+                    }
+                ]
+            ],
+            [
+                "Artificial",
+                []
+            ],
+            [
+                "6,711",
+                []
+            ]
+        ],
+        [
+            [
+                "IFK G\u00f6teborg",
+                [
+                    "/wiki/IFK_G\u00f6teborg"
+                ],
+                [
+                    {
+                        "entity id": "Q201567",
+                        "label": "IFK G\u00f6teborg"
+                    }
+                ]
+            ],
+            [
+                "Gothenburg",
+                []
+            ],
+            [
+                "Gamla Ullevi",
+                []
+            ],
+            [
+                "Natural",
+                []
+            ],
+            [
+                "18,416",
+                []
+            ]
+        ],
+        [
+            [
+                "Helsingborgs IF",
+                [
+                    "/wiki/Helsingborgs_IF"
+                ],
+                [
+                    {
+                        "entity id": "Q207503",
+                        "label": "Helsingborgs IF"
+                    }
+                ]
+            ],
+            [
+                "Helsingborg",
+                [
+                    "/wiki/Helsingborg"
+                ],
+                [
+                    {
+                        "entity id": "Q25411",
+                        "label": "Helsingborg"
+                    }
+                ]
+            ],
+            [
+                "Olympia",
+                [
+                    "/wiki/Olympia_(Helsingborg)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Natural",
+                []
+            ],
+            [
+                "16,500",
+                []
+            ]
+        ],
+        [
+            [
+                "BK H\u00e4cken",
+                [
+                    "/wiki/BK_H\u00e4cken"
+                ],
+                [
+                    {
+                        "entity id": "Q639723",
+                        "label": "BK H\u00e4cken"
+                    }
+                ]
+            ],
+            [
+                "Gothenburg",
+                []
+            ],
+            [
+                "Rambergsvallen",
+                [
+                    "/wiki/Rambergsvallen"
+                ],
+                [
+                    {
+                        "entity id": "Q1326393",
+                        "label": "Rambergsvallen"
+                    }
+                ]
+            ],
+            [
+                "Natural",
+                []
+            ],
+            [
+                "6,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Kalmar FF",
+                [
+                    "/wiki/Kalmar_FF"
+                ],
+                [
+                    {
+                        "entity id": "Q644157",
+                        "label": "Kalmar FF"
+                    }
+                ]
+            ],
+            [
+                "Kalmar",
+                [
+                    "/wiki/Kalmar"
+                ],
+                [
+                    {
+                        "entity id": "Q26345",
+                        "label": "Kalmar"
+                    }
+                ]
+            ],
+            [
+                "Guldf\u00e5geln Arena",
+                [
+                    "/wiki/Guldf\u00e5geln_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q1421187",
+                        "label": "Guldf\u00e5geln Arena"
+                    }
+                ]
+            ],
+            [
+                "Natural",
+                []
+            ],
+            [
+                "12,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Malm\u00f6 FF",
+                [
+                    "/wiki/Malm\u00f6_FF"
+                ],
+                [
+                    {
+                        "entity id": "Q204881",
+                        "label": "Malm\u00f6 FF"
+                    }
+                ]
+            ],
+            [
+                "Malm\u00f6",
+                [
+                    "/wiki/Malm\u00f6"
+                ],
+                [
+                    {
+                        "entity id": "Q2211",
+                        "label": "Malm\u00f6"
+                    }
+                ]
+            ],
+            [
+                "Swedbank Stadion",
+                [
+                    "/wiki/Swedbank_Stadion"
+                ],
+                [
+                    {
+                        "entity id": "Q867234",
+                        "label": "Swedbank Stadion"
+                    }
+                ]
+            ],
+            [
+                "Natural",
+                []
+            ],
+            [
+                "24,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Mj\u00e4llby AIF",
+                [
+                    "/wiki/Mj\u00e4llby_AIF"
+                ],
+                [
+                    {
+                        "entity id": "Q749138",
+                        "label": "Mj\u00e4llby AIF"
+                    }
+                ]
+            ],
+            [
+                "Mj\u00e4llby",
+                [
+                    "/wiki/Mj\u00e4llby"
+                ],
+                [
+                    {
+                        "entity id": "Q2012747",
+                        "label": "Mj\u00e4llby"
+                    }
+                ]
+            ],
+            [
+                "Strandvallen",
+                [
+                    "/wiki/Strandvallen"
+                ],
+                [
+                    {
+                        "entity id": "Q1848079",
+                        "label": "Strandvallen"
+                    }
+                ]
+            ],
+            [
+                "Natural",
+                []
+            ],
+            [
+                "7,000",
+                []
+            ]
+        ],
+        [
+            [
+                "IFK Norrk\u00f6ping",
+                [
+                    "/wiki/IFK_Norrk\u00f6ping"
+                ],
+                [
+                    {
+                        "entity id": "Q329607",
+                        "label": "IFK Norrk\u00f6ping"
+                    }
+                ]
+            ],
+            [
+                "Norrk\u00f6ping",
+                [
+                    "/wiki/Norrk\u00f6ping"
+                ],
+                [
+                    {
+                        "entity id": "Q25724",
+                        "label": "Norrk\u00f6ping"
+                    }
+                ]
+            ],
+            [
+                "Idrottsparken",
+                [
+                    "/wiki/Idrottsparken"
+                ],
+                [
+                    {
+                        "entity id": "Q571624",
+                        "label": "Idrottsparken"
+                    }
+                ]
+            ],
+            [
+                "Artificial",
+                []
+            ],
+            [
+                "17,234",
+                []
+            ]
+        ],
+        [
+            [
+                "GIF Sundsvall",
+                [
+                    "/wiki/GIF_Sundsvall"
+                ],
+                [
+                    {
+                        "entity id": "Q725332",
+                        "label": "GIF Sundsvall"
+                    }
+                ]
+            ],
+            [
+                "Sundsvall",
+                [
+                    "/wiki/Sundsvall"
+                ],
+                [
+                    {
+                        "entity id": "Q26476",
+                        "label": "Sundsvall"
+                    }
+                ]
+            ],
+            [
+                "Norrporten Arena",
+                [
+                    "/wiki/Norrporten_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q1780359",
+                        "label": "NP3 Arena"
+                    }
+                ]
+            ],
+            [
+                "Artificial",
+                []
+            ],
+            [
+                "7,700",
+                []
+            ]
+        ],
+        [
+            [
+                "Syrianska FC",
+                [
+                    "/wiki/Syrianska_FC"
+                ],
+                [
+                    {
+                        "entity id": "Q683351",
+                        "label": "Syrianska FC"
+                    }
+                ]
+            ],
+            [
+                "S\u00f6dert\u00e4lje",
+                [
+                    "/wiki/S\u00f6dert\u00e4lje"
+                ],
+                [
+                    {
+                        "entity id": "Q26518",
+                        "label": "S\u00f6dert\u00e4lje"
+                    }
+                ]
+            ],
+            [
+                "S\u00f6dert\u00e4lje Fotbollsarena",
+                [
+                    "/wiki/S\u00f6dert\u00e4lje_Fotbollsarena"
+                ],
+                [
+                    {
+                        "entity id": "Q1568614",
+                        "label": "S\u00f6dert\u00e4lje Fotbollsarena"
+                    }
+                ]
+            ],
+            [
+                "Artificial",
+                []
+            ],
+            [
+                "6,400",
+                []
+            ]
+        ],
+        [
+            [
+                "\u00c5tvidabergs FF",
+                [
+                    "/wiki/\u00c5tvidabergs_FF"
+                ],
+                [
+                    {
+                        "entity id": "Q271349",
+                        "label": "\u00c5tvidabergs FF"
+                    }
+                ]
+            ],
+            [
+                "\u00c5tvidaberg",
+                [
+                    "/wiki/\u00c5tvidaberg"
+                ],
+                [
+                    {
+                        "entity id": "Q271335",
+                        "label": "\u00c5tvidaberg"
+                    }
+                ]
+            ],
+            [
+                "Kopparvallen",
+                [
+                    "/wiki/Kopparvallen"
+                ],
+                [
+                    {
+                        "entity id": "Q1784085",
+                        "label": "Kopparvallen"
+                    }
+                ]
+            ],
+            [
+                "Artificial",
+                []
+            ],
+            [
+                "8,300",
+                []
+            ]
+        ],
+        [
+            [
+                "\u00d6rebro SK",
+                [
+                    "/wiki/\u00d6rebro_SK"
+                ],
+                [
+                    {
+                        "entity id": "Q260559",
+                        "label": "\u00d6rebro SK"
+                    }
+                ]
+            ],
+            [
+                "\u00d6rebro",
+                [
+                    "/wiki/\u00d6rebro"
+                ],
+                [
+                    {
+                        "entity id": "Q25732",
+                        "label": "\u00d6rebro"
+                    }
+                ]
+            ],
+            [
+                "Behrn Arena",
+                [
+                    "/wiki/Behrn_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q814577",
+                        "label": "Behrn Arena"
+                    }
+                ]
+            ],
+            [
+                "Artificial",
+                []
+            ],
+            [
+                "13,129",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Teams -- Stadia and locations",
+    "section_text": "AIKIF ElfsborgHelsingborgs IFBK H\u00e4ckenGAISIFK G\u00f6teborgMalm\u00f6 FFKalmar FFGefle IF\u00d6rebro SKMj\u00e4llby AIFDjurg\u00e5rdens IFIFK Norrk\u00f6ping\u00c5tvidabergs FFGIF SundsvallSyrianska FC Locations of the 2012 Allsvenskan teams",
+    "uid": "2012_Allsvenskan_0",
+    "intro": "The 2012 Allsvenskan, part of the 2012 Swedish football season, was the 88th season of Allsvenskan since its establishment in 1924. The 2012 fixtures were released on 12 December 2011. The season started on 31 March 2012 and ended on 4 November 2012. There was a five-week-long break between 24 May and 30 June during the UEFA Euro 2012. Helsingborgs IF were the defending champions, having won their fifth Swedish championship and their seventh Allsvenskan title the previous season. IF Elfsborg won the Swedish championship this season, their sixth one, in the 30th and last round on 4 November 2012 by drawing with \u00c5tvidabergs FF 1-1 at home, and by the only other title contender in the last round Malm\u00f6 FF losing 2-0 against AIK at the last Allsvenskan match at R\u00e5sunda. This was Elfsborg's second Swedish championship of the 21st century having won their last title in the 2006 Allsvenskan season. A total of 16 teams contested the league; 14 returned from the 2011 season and two had been promoted from Superettan."
+}

@@ -1,0 +1,792 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Disposable_household_and_per_capita_income",
+    "title": "Disposable household and per capita income",
+    "header": [
+        [
+            "Rank",
+            []
+        ],
+        [
+            "Country",
+            []
+        ],
+        [
+            "NCU",
+            []
+        ],
+        [
+            "Currency in 2004",
+            []
+        ],
+        [
+            "PPP rate 2004",
+            []
+        ],
+        [
+            "Mean Income ( PPP )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1",
+                []
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "32,195",
+                []
+            ],
+            [
+                "United States Dollar",
+                [
+                    "/wiki/United_States_Dollar"
+                ],
+                [
+                    {
+                        "entity id": "Q4917",
+                        "label": "United States dollar"
+                    }
+                ]
+            ],
+            [
+                "1",
+                []
+            ],
+            [
+                "32,195",
+                []
+            ]
+        ],
+        [
+            [
+                "2",
+                []
+            ],
+            [
+                "Canada",
+                [
+                    "/wiki/Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q16",
+                        "label": "Canada"
+                    }
+                ]
+            ],
+            [
+                "33,785",
+                []
+            ],
+            [
+                "Canadian Dollar",
+                [
+                    "/wiki/Canadian_Dollar"
+                ],
+                [
+                    {
+                        "entity id": "Q1104069",
+                        "label": "Canadian dollar"
+                    }
+                ]
+            ],
+            [
+                "1.27",
+                []
+            ],
+            [
+                "26,602",
+                []
+            ]
+        ],
+        [
+            [
+                "3",
+                []
+            ],
+            [
+                "Switzerland",
+                [
+                    "/wiki/Switzerland"
+                ],
+                [
+                    {
+                        "entity id": "Q39",
+                        "label": "Switzerland"
+                    }
+                ]
+            ],
+            [
+                "49,844",
+                []
+            ],
+            [
+                "Swiss Franc",
+                [
+                    "/wiki/Swiss_Franc"
+                ],
+                [
+                    {
+                        "entity id": "Q25344",
+                        "label": "Swiss franc"
+                    }
+                ]
+            ],
+            [
+                "1.88",
+                []
+            ],
+            [
+                "26,512",
+                []
+            ]
+        ],
+        [
+            [
+                "4",
+                []
+            ],
+            [
+                "United Kingdom",
+                [
+                    "/wiki/United_Kingdom"
+                ],
+                [
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    }
+                ]
+            ],
+            [
+                "16,685",
+                []
+            ],
+            [
+                "British Pound",
+                [
+                    "/wiki/British_Pound"
+                ],
+                [
+                    {
+                        "entity id": "Q25224",
+                        "label": "pound sterling"
+                    }
+                ]
+            ],
+            [
+                "0.64",
+                []
+            ],
+            [
+                "26,070",
+                []
+            ]
+        ],
+        [
+            [
+                "5",
+                []
+            ],
+            [
+                "Norway",
+                [
+                    "/wiki/Norway"
+                ],
+                [
+                    {
+                        "entity id": "Q20",
+                        "label": "Norway"
+                    }
+                ]
+            ],
+            [
+                "254,243",
+                []
+            ],
+            [
+                "Norwegian krone",
+                [
+                    "/wiki/Norwegian_krone"
+                ],
+                [
+                    {
+                        "entity id": "Q132643",
+                        "label": "Norwegian krone"
+                    }
+                ]
+            ],
+            [
+                "9.8",
+                []
+            ],
+            [
+                "25,943",
+                []
+            ]
+        ],
+        [
+            [
+                "6",
+                []
+            ],
+            [
+                "Austria",
+                [
+                    "/wiki/Austria"
+                ],
+                [
+                    {
+                        "entity id": "Q40",
+                        "label": "Austria"
+                    }
+                ]
+            ],
+            [
+                "22,527",
+                []
+            ],
+            [
+                "Euro",
+                [
+                    "/wiki/Euro"
+                ],
+                [
+                    {
+                        "entity id": "Q4916",
+                        "label": "euro"
+                    }
+                ]
+            ],
+            [
+                "0.89",
+                []
+            ],
+            [
+                "25,311",
+                []
+            ]
+        ],
+        [
+            [
+                "7",
+                []
+            ],
+            [
+                "Germany",
+                [
+                    "/wiki/Germany"
+                ],
+                [
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    }
+                ]
+            ],
+            [
+                "20,901",
+                []
+            ],
+            [
+                "Euro",
+                [
+                    "/wiki/Euro"
+                ],
+                [
+                    {
+                        "entity id": "Q4916",
+                        "label": "euro"
+                    }
+                ]
+            ],
+            [
+                "0.91",
+                []
+            ],
+            [
+                "22,968",
+                []
+            ]
+        ],
+        [
+            [
+                "8",
+                []
+            ],
+            [
+                "Denmark",
+                [
+                    "/wiki/Denmark"
+                ],
+                [
+                    {
+                        "entity id": "Q35",
+                        "label": "Denmark"
+                    }
+                ]
+            ],
+            [
+                "202,275",
+                []
+            ],
+            [
+                "Danish Krone",
+                [
+                    "/wiki/Danish_Krone"
+                ],
+                [
+                    {
+                        "entity id": "Q25417",
+                        "label": "Danish krone"
+                    }
+                ]
+            ],
+            [
+                "9.0",
+                []
+            ],
+            [
+                "22,475",
+                []
+            ]
+        ],
+        [
+            [
+                "9",
+                []
+            ],
+            [
+                "Netherlands",
+                [
+                    "/wiki/Netherlands"
+                ],
+                [
+                    {
+                        "entity id": "Q55",
+                        "label": "Netherlands"
+                    }
+                ]
+            ],
+            [
+                "20,607",
+                []
+            ],
+            [
+                "Euro",
+                [
+                    "/wiki/Euro"
+                ],
+                [
+                    {
+                        "entity id": "Q4916",
+                        "label": "euro"
+                    }
+                ]
+            ],
+            [
+                "0.92",
+                []
+            ],
+            [
+                "22,398",
+                []
+            ]
+        ],
+        [
+            [
+                "10",
+                []
+            ],
+            [
+                "Sweden",
+                [
+                    "/wiki/Sweden"
+                ],
+                [
+                    {
+                        "entity id": "Q34",
+                        "label": "Sweden"
+                    }
+                ]
+            ],
+            [
+                "203,460",
+                []
+            ],
+            [
+                "Swedish Krona",
+                [
+                    "/wiki/Swedish_Krona"
+                ],
+                [
+                    {
+                        "entity id": "Q122922",
+                        "label": "Swedish krona"
+                    }
+                ]
+            ],
+            [
+                "9.6",
+                []
+            ],
+            [
+                "21,193",
+                []
+            ]
+        ],
+        [
+            [
+                "11",
+                []
+            ],
+            [
+                "Belgium",
+                [
+                    "/wiki/Belgium"
+                ],
+                [
+                    {
+                        "entity id": "Q31",
+                        "label": "Belgium"
+                    }
+                ]
+            ],
+            [
+                "19,563",
+                []
+            ],
+            [
+                "Euro",
+                [
+                    "/wiki/Euro"
+                ],
+                [
+                    {
+                        "entity id": "Q4916",
+                        "label": "euro"
+                    }
+                ]
+            ],
+            [
+                "0.924",
+                []
+            ],
+            [
+                "21,173",
+                []
+            ]
+        ],
+        [
+            [
+                "12",
+                []
+            ],
+            [
+                "South Korea",
+                [
+                    "/wiki/South_Korea"
+                ],
+                [
+                    {
+                        "entity id": "Q884",
+                        "label": "South Korea"
+                    }
+                ]
+            ],
+            [
+                "18,587,000",
+                []
+            ],
+            [
+                "Won",
+                [
+                    "/wiki/South_Korean_won"
+                ],
+                [
+                    {
+                        "entity id": "Q202040",
+                        "label": "South Korean won"
+                    }
+                ]
+            ],
+            [
+                "886.2",
+                []
+            ],
+            [
+                "20,937",
+                []
+            ]
+        ],
+        [
+            [
+                "13",
+                []
+            ],
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "19,547",
+                []
+            ],
+            [
+                "Euro",
+                [
+                    "/wiki/Euro"
+                ],
+                [
+                    {
+                        "entity id": "Q4916",
+                        "label": "euro"
+                    }
+                ]
+            ],
+            [
+                "0.952",
+                []
+            ],
+            [
+                "20,532",
+                []
+            ]
+        ],
+        [
+            [
+                "14",
+                []
+            ],
+            [
+                "Australia",
+                [
+                    "/wiki/Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q408",
+                        "label": "Australia"
+                    }
+                ]
+            ],
+            [
+                "29,417",
+                []
+            ],
+            [
+                "Australian Dollar",
+                [
+                    "/wiki/Australian_Dollar"
+                ],
+                [
+                    {
+                        "entity id": "Q259502",
+                        "label": "Australian dollar"
+                    }
+                ]
+            ],
+            [
+                "1.44",
+                []
+            ],
+            [
+                "20,428",
+                []
+            ]
+        ],
+        [
+            [
+                "15",
+                []
+            ],
+            [
+                "Japan",
+                [
+                    "/wiki/Japan"
+                ],
+                [
+                    {
+                        "entity id": "Q17",
+                        "label": "Japan"
+                    }
+                ]
+            ],
+            [
+                "2,986,594",
+                []
+            ],
+            [
+                "Yen",
+                [
+                    "/wiki/Yen"
+                ],
+                [
+                    {
+                        "entity id": "Q3037",
+                        "label": "Kathmandu"
+                    }
+                ]
+            ],
+            [
+                "150.8",
+                []
+            ],
+            [
+                "19,805",
+                []
+            ]
+        ],
+        [
+            [
+                "16",
+                []
+            ],
+            [
+                "Spain",
+                [
+                    "/wiki/Spain"
+                ],
+                [
+                    {
+                        "entity id": "Q29",
+                        "label": "Spain"
+                    }
+                ]
+            ],
+            [
+                "14,003",
+                []
+            ],
+            [
+                "Euro",
+                [
+                    "/wiki/Euro"
+                ],
+                [
+                    {
+                        "entity id": "Q4916",
+                        "label": "euro"
+                    }
+                ]
+            ],
+            [
+                "0.788",
+                []
+            ],
+            [
+                "17,770",
+                []
+            ]
+        ],
+        [
+            [
+                "17",
+                []
+            ],
+            [
+                "Italy",
+                [
+                    "/wiki/Italy"
+                ],
+                [
+                    {
+                        "entity id": "Q38",
+                        "label": "Italy"
+                    }
+                ]
+            ],
+            [
+                "15,835",
+                []
+            ],
+            [
+                "Euro",
+                [
+                    "/wiki/Euro"
+                ],
+                [
+                    {
+                        "entity id": "Q4916",
+                        "label": "euro"
+                    }
+                ]
+            ],
+            [
+                "0.91",
+                []
+            ],
+            [
+                "17,401",
+                []
+            ]
+        ],
+        [
+            [
+                "18",
+                []
+            ],
+            [
+                "Poland",
+                [
+                    "/wiki/Poland"
+                ],
+                [
+                    {
+                        "entity id": "Q36",
+                        "label": "Poland"
+                    }
+                ]
+            ],
+            [
+                "14,844",
+                []
+            ],
+            [
+                "Polish z\u0142oty",
+                [
+                    "/wiki/Polish_z\u0142oty"
+                ],
+                [
+                    {
+                        "entity id": "Q123213",
+                        "label": "zloty"
+                    }
+                ]
+            ],
+            [
+                "2.08",
+                []
+            ],
+            [
+                "7,136",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Luxembourg Income Study -- Mean equivalized disposable household income ( PPP ) $",
+    "section_text": "This section needs to be updated . Please update this article to reflect recent events or newly available information . ( October 2016 )",
+    "uid": "Household_income_0",
+    "intro": "Household income is a measure of the combined incomes of all people sharing a particular household or place of residence. It includes every form of income, e.g., salaries and wages, retirement income, near cash government transfers like food stamps, and investment gains. Average household incomes need not map directly to measures of an individual's earnings such as per capita income as numbers of people sharing households and numbers of income earners per household can vary significantly between regions and over time. Average household income can be used as an indicator for the monetary well-being of a country's citizens. Mean or median net household income, after taxes and mandatory contributions, are taken as indicators of standard of living, because they include only disposable income and acknowledge people sharing accommodation benefit from pooling at least some of their living costs. It is important to note in the tables below the difference between median and mean income. Median income is the amount that divides the income distribution into two equal groups, half having income above that amount, and half having income below that amount. Mean income (average) is the amount obtained by dividing the total aggregate income of a group by the number of units in that group."
+}

@@ -1,0 +1,746 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Southern_United_States",
+    "title": "Southern United States",
+    "header": [
+        [
+            "Rank",
+            []
+        ],
+        [
+            "Metropolitan Statistical Area",
+            []
+        ],
+        [
+            "State ( s )",
+            []
+        ],
+        [
+            "Population ( 2018 est . )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1",
+                []
+            ],
+            [
+                "Dallas-Fort Worth-Arlington",
+                [
+                    "/wiki/Dallas-Fort_Worth_metroplex"
+                ],
+                [
+                    {
+                        "entity id": "Q179295",
+                        "label": "Dallas\u2013Fort Worth metroplex"
+                    }
+                ]
+            ],
+            [
+                "TX",
+                [
+                    "/wiki/Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q1439",
+                        "label": "Texas"
+                    }
+                ]
+            ],
+            [
+                "7,539,711",
+                []
+            ]
+        ],
+        [
+            [
+                "2",
+                []
+            ],
+            [
+                "Houston-The Woodlands-Sugar Land",
+                [
+                    "/wiki/Greater_Houston"
+                ],
+                [
+                    {
+                        "entity id": "Q426435",
+                        "label": "Greater Houston"
+                    }
+                ]
+            ],
+            [
+                "TX",
+                [
+                    "/wiki/Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q1439",
+                        "label": "Texas"
+                    }
+                ]
+            ],
+            [
+                "6,997,384",
+                []
+            ]
+        ],
+        [
+            [
+                "3",
+                []
+            ],
+            [
+                "Washington-Arlington-Alexandria",
+                [
+                    "/wiki/Washington-Arlington-Alexandria,_DC-VA-MD-WV_Metropolitan_Statistical_Area"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "VA - MD - WV - DC",
+                [
+                    "/wiki/Virginia",
+                    "/wiki/Maryland",
+                    "/wiki/West_Virginia",
+                    "/wiki/Washington,_D.C."
+                ],
+                [
+                    {
+                        "entity id": "Q1370",
+                        "label": "Virginia"
+                    },
+                    {
+                        "entity id": "Q1391",
+                        "label": "Maryland"
+                    },
+                    {
+                        "entity id": "Q1371",
+                        "label": "West Virginia"
+                    },
+                    {
+                        "entity id": "Q61",
+                        "label": "Washington, D.C."
+                    }
+                ]
+            ],
+            [
+                "6,249,950",
+                []
+            ]
+        ],
+        [
+            [
+                "4",
+                []
+            ],
+            [
+                "Miami-Fort Lauderdale-West Palm Beach",
+                [
+                    "/wiki/South_Florida_metropolitan_area"
+                ],
+                [
+                    {
+                        "entity id": "Q2915506",
+                        "label": "Miami metropolitan area"
+                    }
+                ]
+            ],
+            [
+                "FL",
+                [
+                    "/wiki/Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q812",
+                        "label": "Florida"
+                    }
+                ]
+            ],
+            [
+                "6,198,782",
+                []
+            ]
+        ],
+        [
+            [
+                "5",
+                []
+            ],
+            [
+                "Atlanta-Sandy Springs-Roswell",
+                [
+                    "/wiki/Atlanta_metropolitan_area"
+                ],
+                [
+                    {
+                        "entity id": "Q91648692",
+                        "label": "Atlanta metropolitan area amyotrophic lateral sclerosis (ALS) surveillance: incidence and prevalence 2009-2011 and survival characteristics through 2015"
+                    }
+                ]
+            ],
+            [
+                "GA",
+                [
+                    "/wiki/Georgia_(U.S._state)"
+                ],
+                [
+                    {
+                        "entity id": "Q5354684",
+                        "label": "election in Georgia"
+                    }
+                ]
+            ],
+            [
+                "5,949,951",
+                []
+            ]
+        ],
+        [
+            [
+                "6",
+                []
+            ],
+            [
+                "Tampa-St. Petersburg-Clearwater",
+                [
+                    "/wiki/Tampa_Bay_Area"
+                ],
+                [
+                    {
+                        "entity id": "Q2828677",
+                        "label": "Tampa Bay area"
+                    }
+                ]
+            ],
+            [
+                "FL",
+                [
+                    "/wiki/Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q812",
+                        "label": "Florida"
+                    }
+                ]
+            ],
+            [
+                "3,142,663",
+                []
+            ]
+        ],
+        [
+            [
+                "7",
+                []
+            ],
+            [
+                "Baltimore-Columbia-Towson",
+                [
+                    "/wiki/Baltimore_Metropolitan_Area"
+                ],
+                [
+                    {
+                        "entity id": "Q4852987",
+                        "label": "Baltimore metropolitan area"
+                    }
+                ]
+            ],
+            [
+                "MD",
+                [
+                    "/wiki/Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q1391",
+                        "label": "Maryland"
+                    }
+                ]
+            ],
+            [
+                "2,802,789",
+                []
+            ]
+        ],
+        [
+            [
+                "8",
+                []
+            ],
+            [
+                "Orlando-Kissimmee-Sanford",
+                [
+                    "/wiki/Greater_Orlando"
+                ],
+                [
+                    {
+                        "entity id": "Q1968039",
+                        "label": "Greater Orlando"
+                    }
+                ]
+            ],
+            [
+                "FL",
+                [
+                    "/wiki/Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q812",
+                        "label": "Florida"
+                    }
+                ]
+            ],
+            [
+                "2,572,692",
+                []
+            ]
+        ],
+        [
+            [
+                "9",
+                []
+            ],
+            [
+                "Charlotte-Concord-Gastonia",
+                [
+                    "/wiki/Charlotte_metropolitan_area"
+                ],
+                [
+                    {
+                        "entity id": "Q11705539",
+                        "label": "Charlotte metropolitan area"
+                    }
+                ]
+            ],
+            [
+                "NC - SC",
+                [
+                    "/wiki/North_Carolina",
+                    "/wiki/South_Carolina"
+                ],
+                [
+                    {
+                        "entity id": "Q1454",
+                        "label": "North Carolina"
+                    },
+                    {
+                        "entity id": "Q1456",
+                        "label": "South Carolina"
+                    }
+                ]
+            ],
+            [
+                "2,569,213",
+                []
+            ]
+        ],
+        [
+            [
+                "10",
+                []
+            ],
+            [
+                "San Antonio-New Braunfels",
+                [
+                    "/wiki/Greater_San_Antonio"
+                ],
+                [
+                    {
+                        "entity id": "Q5600744",
+                        "label": "Greater San Antonio"
+                    }
+                ]
+            ],
+            [
+                "TX",
+                [
+                    "/wiki/Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q1439",
+                        "label": "Texas"
+                    }
+                ]
+            ],
+            [
+                "2,518,036",
+                []
+            ]
+        ],
+        [
+            [
+                "11",
+                []
+            ],
+            [
+                "Cincinnati-Northern Kentucky *",
+                [
+                    "/wiki/Greater_Cincinnati"
+                ],
+                [
+                    {
+                        "entity id": "Q5120360",
+                        "label": "Cincinnati metropolitan area"
+                    }
+                ]
+            ],
+            [
+                "OH - IN - KY",
+                [
+                    "/wiki/Ohio",
+                    "/wiki/Indiana",
+                    "/wiki/Kentucky"
+                ],
+                [
+                    {
+                        "entity id": "Q1397",
+                        "label": "Ohio"
+                    },
+                    {
+                        "entity id": "Q1415",
+                        "label": "Indiana"
+                    },
+                    {
+                        "entity id": "Q1603",
+                        "label": "Kentucky"
+                    }
+                ]
+            ],
+            [
+                "2,190,209",
+                []
+            ]
+        ],
+        [
+            [
+                "12",
+                []
+            ],
+            [
+                "Austin-Round Rock-San Marcos",
+                [
+                    "/wiki/Greater_Austin"
+                ],
+                [
+                    {
+                        "entity id": "Q5600444",
+                        "label": "Greater Austin"
+                    }
+                ]
+            ],
+            [
+                "TX",
+                [
+                    "/wiki/Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q1439",
+                        "label": "Texas"
+                    }
+                ]
+            ],
+            [
+                "2,168,316",
+                []
+            ]
+        ],
+        [
+            [
+                "13",
+                []
+            ],
+            [
+                "Nashville-Davidson-Murfreesboro-Franklin",
+                [
+                    "/wiki/Nashville_Metropolitan_Statistical_Area"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "TN",
+                [
+                    "/wiki/Tennessee"
+                ],
+                [
+                    {
+                        "entity id": "Q1509",
+                        "label": "Tennessee"
+                    }
+                ]
+            ],
+            [
+                "1,930,961",
+                []
+            ]
+        ],
+        [
+            [
+                "14",
+                []
+            ],
+            [
+                "Virginia Beach-Norfolk-Newport News",
+                [
+                    "/wiki/Hampton_Roads"
+                ],
+                [
+                    {
+                        "entity id": "Q1011895",
+                        "label": "Hampton Roads"
+                    }
+                ]
+            ],
+            [
+                "VA - NC",
+                [
+                    "/wiki/Virginia",
+                    "/wiki/North_Carolina"
+                ],
+                [
+                    {
+                        "entity id": "Q1370",
+                        "label": "Virginia"
+                    },
+                    {
+                        "entity id": "Q1454",
+                        "label": "North Carolina"
+                    }
+                ]
+            ],
+            [
+                "1,728,733",
+                []
+            ]
+        ],
+        [
+            [
+                "15",
+                []
+            ],
+            [
+                "Jacksonville",
+                [
+                    "/wiki/Greater_Jacksonville_Metropolitan_Area"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "FL",
+                [
+                    "/wiki/Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q812",
+                        "label": "Florida"
+                    }
+                ]
+            ],
+            [
+                "1,534,701",
+                []
+            ]
+        ],
+        [
+            [
+                "16",
+                []
+            ],
+            [
+                "Oklahoma City-Norman",
+                [
+                    "/wiki/Oklahoma_City_metropolitan_area"
+                ],
+                [
+                    {
+                        "entity id": "Q7082164",
+                        "label": "Oklahoma City metropolitan area"
+                    }
+                ]
+            ],
+            [
+                "OK",
+                [
+                    "/wiki/Oklahoma_City"
+                ],
+                [
+                    {
+                        "entity id": "Q34863",
+                        "label": "Oklahoma City"
+                    }
+                ]
+            ],
+            [
+                "1,396,445",
+                []
+            ]
+        ],
+        [
+            [
+                "17",
+                []
+            ],
+            [
+                "Raleigh-Cary",
+                [
+                    "/wiki/Research_Triangle"
+                ],
+                [
+                    {
+                        "entity id": "Q767860",
+                        "label": "Research Triangle"
+                    }
+                ]
+            ],
+            [
+                "NC",
+                [
+                    "/wiki/North_Carolina"
+                ],
+                [
+                    {
+                        "entity id": "Q1454",
+                        "label": "North Carolina"
+                    }
+                ]
+            ],
+            [
+                "1,362,540",
+                []
+            ]
+        ],
+        [
+            [
+                "18",
+                []
+            ],
+            [
+                "Memphis-Forrest City",
+                [
+                    "/wiki/Memphis_metropolitan_area"
+                ],
+                [
+                    {
+                        "entity id": "Q1751012",
+                        "label": "Memphis metropolitan area"
+                    }
+                ]
+            ],
+            [
+                "TN - MS - AR",
+                [
+                    "/wiki/Tennessee",
+                    "/wiki/Mississippi",
+                    "/wiki/Arkansas"
+                ],
+                [
+                    {
+                        "entity id": "Q1509",
+                        "label": "Tennessee"
+                    },
+                    {
+                        "entity id": "Q1494",
+                        "label": "Mississippi"
+                    },
+                    {
+                        "entity id": "Q1612",
+                        "label": "Arkansas"
+                    }
+                ]
+            ],
+            [
+                "1,350,620",
+                []
+            ]
+        ],
+        [
+            [
+                "19",
+                []
+            ],
+            [
+                "Richmond-Petersburg",
+                [
+                    "/wiki/Richmond-Petersburg"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "VA",
+                [
+                    "/wiki/Virginia"
+                ],
+                [
+                    {
+                        "entity id": "Q1370",
+                        "label": "Virginia"
+                    }
+                ]
+            ],
+            [
+                "1,306,172",
+                []
+            ]
+        ],
+        [
+            [
+                "20",
+                []
+            ],
+            [
+                "Louisville-Jefferson County *",
+                [
+                    "/wiki/Louisville_metropolitan_area"
+                ],
+                [
+                    {
+                        "entity id": "Q3263896",
+                        "label": "Louisville metropolitan area"
+                    }
+                ]
+            ],
+            [
+                "KY - IN",
+                [
+                    "/wiki/Kentucky",
+                    "/wiki/Indiana"
+                ],
+                [
+                    {
+                        "entity id": "Q1603",
+                        "label": "Kentucky"
+                    },
+                    {
+                        "entity id": "Q1415",
+                        "label": "Indiana"
+                    }
+                ]
+            ],
+            [
+                "1,297,310",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Major metropolitan areas",
+    "section_text": "",
+    "uid": "Southern_United_States_3",
+    "intro": "The Southern United States, also known as the American South or simply the South, is a geographic and cultural region of the United States. It is located between the Atlantic Ocean and the Western United States, with the Midwestern United States and Northeastern United States to its north and the Gulf of Mexico and Mexico to its south. The South does not fully match the geographic south of the United States but is commonly defined as including the states that fought for the Confederate States of America in the American Civil War. The Deep South is fully located in the southeastern corner. California, Arizona and New Mexico, which are geographically in the southern part of the country, are rarely considered part, while West Virginia, which separated from Virginia in 1863, commonly is. Some scholars have proposed definitions of the South that do not coincide neatly with state boundaries. While the states of Delaware and Maryland, as well as the District of Columbia, permitted slavery prior to and during the Civil War, they remained with the Union. Since the Civil Rights Movement of the 1960s, they became more culturally, economically, and politically aligned with the industrial Northern states, and are often identified as part of the Mid-Atlantic or Northeast by many residents, businesses, public institutions, and private organizations; however, the United States Census Bureau continues to define them as in the South with regard to census regions. Usually, the South is defined as including the southeastern and south-central United States. The region is known for its culture and history, having developed its own customs, musical styles, and cuisines, which have distinguished it in some ways from the rest of the United States. The Southern ethnic heritage is diverse and includes strong European (mostly English, Italian, Scottish, Scotch-Irish, Irish, German, French, Portuguese and Spanish American), African and some Native American components. Some other aspects of the historical and cultural development of the South have been influenced by the institution of slave labor on plantations in the Deep South to an extent seen nowhere else in the United States; the presence of a large proportion of African Americans in the population; support for the doctrine of states' rights, and the legacy of racism magnified by the Civil War and Reconstruction Era, as seen in thousands of lynchings (mostly from 1880 to 1930), the segregated system of separate schools and public facilities known as Jim Crow laws, that lasted until the 1960s, and the widespread use of poll taxes and other methods to frequently deny black people of the right to vote or hold office until the 1960s."
+}

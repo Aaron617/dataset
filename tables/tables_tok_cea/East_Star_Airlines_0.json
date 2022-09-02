@@ -1,0 +1,624 @@
+{
+    "url": "https://en.wikipedia.org/wiki/East_Star_Airlines",
+    "title": "East Star Airlines",
+    "header": [
+        [
+            "City",
+            []
+        ],
+        [
+            "Country",
+            []
+        ],
+        [
+            "Airport",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Changde",
+                [
+                    "/wiki/Changde"
+                ],
+                [
+                    {
+                        "entity id": "Q416544",
+                        "label": "Changde"
+                    }
+                ]
+            ],
+            [
+                "China",
+                []
+            ],
+            [
+                "Changde Airport",
+                [
+                    "/wiki/Changde_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1000025",
+                        "label": "Changde Taohuayuan Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Changsha",
+                [
+                    "/wiki/Changsha"
+                ],
+                [
+                    {
+                        "entity id": "Q174091",
+                        "label": "Changsha"
+                    }
+                ]
+            ],
+            [
+                "China",
+                []
+            ],
+            [
+                "Changsha Huanghua International Airport",
+                [
+                    "/wiki/Changsha_Huanghua_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1330618",
+                        "label": "Changsha Huanghua International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Chongqing",
+                [
+                    "/wiki/Chongqing"
+                ],
+                [
+                    {
+                        "entity id": "Q11725",
+                        "label": "Chongqing"
+                    }
+                ]
+            ],
+            [
+                "China",
+                []
+            ],
+            [
+                "Chongqing Jiangbei International Airport",
+                [
+                    "/wiki/Chongqing_Jiangbei_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q788417",
+                        "label": "Chongqing Jiangbei International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dalian",
+                [
+                    "/wiki/Dalian"
+                ],
+                [
+                    {
+                        "entity id": "Q74881",
+                        "label": "Dalian"
+                    }
+                ]
+            ],
+            [
+                "China",
+                []
+            ],
+            [
+                "Dalian Zhoushuizi International Airport",
+                [
+                    "/wiki/Dalian_Zhoushuizi_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q965083",
+                        "label": "Dalian Zhoushuizi International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Guangzhou",
+                [
+                    "/wiki/Guangzhou"
+                ],
+                [
+                    {
+                        "entity id": "Q16572",
+                        "label": "Guangzhou"
+                    }
+                ]
+            ],
+            [
+                "China",
+                []
+            ],
+            [
+                "Guangzhou Baiyun International Airport",
+                [
+                    "/wiki/Guangzhou_Baiyun_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q44868",
+                        "label": "Guangzhou Baiyun International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Guilin",
+                [
+                    "/wiki/Guilin"
+                ],
+                [
+                    {
+                        "entity id": "Q189633",
+                        "label": "Guilin"
+                    }
+                ]
+            ],
+            [
+                "China",
+                []
+            ],
+            [
+                "Guilin Liangjiang International Airport",
+                [
+                    "/wiki/Guilin_Liangjiang_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1197688",
+                        "label": "Guilin Liangjiang International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Haikou",
+                [
+                    "/wiki/Haikou"
+                ],
+                [
+                    {
+                        "entity id": "Q189823",
+                        "label": "Haikou"
+                    }
+                ]
+            ],
+            [
+                "China",
+                []
+            ],
+            [
+                "Haikou Meilan International Airport",
+                [
+                    "/wiki/Haikou_Meilan_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1143116",
+                        "label": "Haikou Meilan International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Hangzhou",
+                [
+                    "/wiki/Hangzhou"
+                ],
+                [
+                    {
+                        "entity id": "Q4970",
+                        "label": "Hangzhou"
+                    }
+                ]
+            ],
+            [
+                "China",
+                []
+            ],
+            [
+                "Hangzhou Xiaoshan International Airport",
+                [
+                    "/wiki/Hangzhou_Xiaoshan_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1197691",
+                        "label": "Hangzhou Xiaoshan International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Hong Kong",
+                [
+                    "/wiki/Hong_Kong"
+                ],
+                [
+                    {
+                        "entity id": "Q8646",
+                        "label": "Hong Kong"
+                    }
+                ]
+            ],
+            [
+                "Hong Kong Special Administrative Region",
+                []
+            ],
+            [
+                "Hong Kong International Airport",
+                [
+                    "/wiki/Hong_Kong_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q17704",
+                        "label": "Hong Kong International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Macau",
+                [
+                    "/wiki/Macau"
+                ],
+                [
+                    {
+                        "entity id": "Q14773",
+                        "label": "Macau"
+                    }
+                ]
+            ],
+            [
+                "Macau Special Administrative Region",
+                []
+            ],
+            [
+                "Macau International Airport",
+                [
+                    "/wiki/Macau_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q525486",
+                        "label": "Macau International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Nanjing",
+                [
+                    "/wiki/Nanjing"
+                ],
+                [
+                    {
+                        "entity id": "Q16666",
+                        "label": "Nanjing"
+                    }
+                ]
+            ],
+            [
+                "China",
+                []
+            ],
+            [
+                "Nanjing Lukou International Airport",
+                [
+                    "/wiki/Nanjing_Lukou_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q559107",
+                        "label": "Nanjing Lukou International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Qingdao",
+                [
+                    "/wiki/Qingdao"
+                ],
+                [
+                    {
+                        "entity id": "Q170322",
+                        "label": "Qingdao"
+                    }
+                ]
+            ],
+            [
+                "China",
+                []
+            ],
+            [
+                "Qingdao Liuting International Airport",
+                [
+                    "/wiki/Qingdao_Liuting_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1156790",
+                        "label": "Qingdao Liuting International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Sanya",
+                [
+                    "/wiki/Sanya"
+                ],
+                [
+                    {
+                        "entity id": "Q319804",
+                        "label": "Sanya"
+                    }
+                ]
+            ],
+            [
+                "China",
+                []
+            ],
+            [
+                "Sanya Phoenix International Airport",
+                [
+                    "/wiki/Sanya_Phoenix_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q684964",
+                        "label": "Sanya Phoenix International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Shanghai",
+                [
+                    "/wiki/Shanghai"
+                ],
+                [
+                    {
+                        "entity id": "Q8686",
+                        "label": "Shanghai"
+                    }
+                ]
+            ],
+            [
+                "China",
+                []
+            ],
+            [
+                "Shanghai Hongqiao International Airport",
+                [
+                    "/wiki/Shanghai_Hongqiao_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q421811",
+                        "label": "Shanghai Hongqiao International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Shenyang",
+                [
+                    "/wiki/Shenyang"
+                ],
+                [
+                    {
+                        "entity id": "Q11720",
+                        "label": "Shenyang"
+                    }
+                ]
+            ],
+            [
+                "China",
+                []
+            ],
+            [
+                "Shenyang Taoxian International Airport",
+                [
+                    "/wiki/Shenyang_Taoxian_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1144167",
+                        "label": "Shenyang Taoxian International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Shenzhen",
+                [
+                    "/wiki/Shenzhen"
+                ],
+                [
+                    {
+                        "entity id": "Q15174",
+                        "label": "Shenzhen"
+                    }
+                ]
+            ],
+            [
+                "China",
+                []
+            ],
+            [
+                "Shenzhen Bao'an International Airport",
+                [
+                    "/wiki/Shenzhen_Bao'an_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q842297",
+                        "label": "Shenzhen Bao'an International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Tianjin",
+                [
+                    "/wiki/Tianjin"
+                ],
+                [
+                    {
+                        "entity id": "Q11736",
+                        "label": "Tianjin"
+                    }
+                ]
+            ],
+            [
+                "China",
+                []
+            ],
+            [
+                "Tianjin Binhai International Airport",
+                [
+                    "/wiki/Tianjin_Binhai_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q774669",
+                        "label": "Tianjin Binhai International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Wuhan",
+                [
+                    "/wiki/Wuhan"
+                ],
+                [
+                    {
+                        "entity id": "Q11746",
+                        "label": "Wuhan"
+                    }
+                ]
+            ],
+            [
+                "China",
+                []
+            ],
+            [
+                "Wuhan Tianhe International Airport",
+                [
+                    "/wiki/Wuhan_Tianhe_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q601091",
+                        "label": "Wuhan Tianhe International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Xi'an",
+                [
+                    "/wiki/Xi'an"
+                ],
+                [
+                    {
+                        "entity id": "Q5826",
+                        "label": "Xi'an"
+                    }
+                ]
+            ],
+            [
+                "China",
+                []
+            ],
+            [
+                "Xi'an Xianyang International Airport",
+                [
+                    "/wiki/Xi'an_Xianyang_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q141677",
+                        "label": "Xi'an Xianyang International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Xiamen",
+                [
+                    "/wiki/Xiamen"
+                ],
+                [
+                    {
+                        "entity id": "Q68744",
+                        "label": "Xiamen"
+                    }
+                ]
+            ],
+            [
+                "China",
+                []
+            ],
+            [
+                "Xiamen Gaoqi International Airport",
+                [
+                    "/wiki/Xiamen_Gaoqi_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q177216",
+                        "label": "Xiamen Gaoqi International Airport"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Destinations",
+    "section_text": "East Star Airlines destinations included ( at March 2009 ) :",
+    "uid": "East_Star_Airlines_0",
+    "intro": "East Star Airlines (Chinese: \u6771\u661f\u822a\u7a7a) was an airline based in Wuhan, Hubei, People's Republic of China. It was a privately owned airline and operated scheduled domestic services on 10 routes from Wuhan, and was expected to add more routes as its fleet grew. Its main base was at Wuhan Tianhe International Airport."
+}

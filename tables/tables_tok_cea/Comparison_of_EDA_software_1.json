@@ -1,0 +1,851 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_EDA_software",
+    "title": "Comparison of EDA software",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Architecture",
+            []
+        ],
+        [
+            "License",
+            []
+        ],
+        [
+            "Autorouter",
+            [
+                "/wiki/Routing_(EDA)"
+            ],
+            [
+                {}
+            ]
+        ],
+        [
+            "Comment",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Electric",
+                [
+                    "/wiki/Electric_(software)"
+                ],
+                [
+                    {
+                        "entity id": "Q1970665",
+                        "label": "Electric"
+                    }
+                ]
+            ],
+            [
+                "*BSD , Java",
+                [
+                    "/wiki/FreeBSD",
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "GPL",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "VLSI circuit design tool with connectivity at all levels . Can also be used for schematic entry and PCB design",
+                [
+                    "/wiki/Very-large-scale_integration",
+                    "/wiki/Printed_circuit_board"
+                ],
+                [
+                    {
+                        "entity id": "Q876049",
+                        "label": "very-large-scale integration"
+                    },
+                    {
+                        "entity id": "Q173350",
+                        "label": "printed circuit board"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FreePCB",
+                [
+                    "/wiki/FreePCB"
+                ],
+                [
+                    {
+                        "entity id": "Q5499660",
+                        "label": "FreePCB"
+                    }
+                ]
+            ],
+            [
+                "w32",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "A printed circuit board design program for Microsoft Windows . FreePCB allows for up to 16 copper layers , both metric and US customary units , and export of designs in Gerber format . Boards can be partially or fully autorouted with the FreeRouting autorouter by using the FpcROUTE Specctra DSN design file translator",
+                [
+                    "/wiki/Printed_circuit_board",
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Metric_system",
+                    "/wiki/US_customary_units",
+                    "/wiki/Gerber_format",
+                    "/wiki/Specctra"
+                ],
+                [
+                    {
+                        "entity id": "Q173350",
+                        "label": "printed circuit board"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q232405",
+                        "label": "metric system"
+                    },
+                    {},
+                    {
+                        "entity id": "Q605258",
+                        "label": "Gerber format"
+                    },
+                    {
+                        "entity id": "Q4049875",
+                        "label": "Specctra"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Fritzing",
+                [
+                    "/wiki/Fritzing"
+                ],
+                [
+                    {
+                        "entity id": "Q2463610",
+                        "label": "Fritzing"
+                    }
+                ]
+            ],
+            [
+                "Windows , Mac , Linux",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Mac_OS_X",
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Protoboard view , schematic view , PCB view , Code ( firmware ) view . Includes customizable design rule checker . Includes common shaped boards like Arduino and Raspberry Pi shields . Allows spline curve traces . Only two layers ( top and bottom ) . Outputs gerbers",
+                [
+                    "/wiki/Arduino",
+                    "/wiki/Raspberry_Pi"
+                ],
+                [
+                    {
+                        "entity id": "Q175957",
+                        "label": "Arduino"
+                    },
+                    {
+                        "entity id": "Q245",
+                        "label": "Raspberry Pi"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "gEDA",
+                [
+                    "/wiki/GEDA"
+                ],
+                [
+                    {
+                        "entity id": "Q287588",
+                        "label": "gEDA"
+                    }
+                ]
+            ],
+            [
+                "*BSD , Linux , Mac",
+                [
+                    "/wiki/FreeBSD",
+                    "/wiki/Linux",
+                    "/wiki/Mac_OS_X"
+                ],
+                [
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "schematic , simulation , PCB editor , gerber view",
+                []
+            ]
+        ],
+        [
+            [
+                "Gnucap",
+                [
+                    "/wiki/Gnucap"
+                ],
+                [
+                    {
+                        "entity id": "Q4039527",
+                        "label": "GNU Circuit Analysis Package"
+                    }
+                ]
+            ],
+            [
+                "any ( C++98 )",
+                []
+            ],
+            [
+                "GPL3",
+                [
+                    "/wiki/GPL3"
+                ],
+                [
+                    {
+                        "entity id": "Q10513445",
+                        "label": "GNU General Public License, version 3.0"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Mixed-signal circuit simulator",
+                []
+            ]
+        ],
+        [
+            [
+                "Icarus Verilog",
+                [
+                    "/wiki/Icarus_Verilog"
+                ],
+                [
+                    {
+                        "entity id": "Q2071661",
+                        "label": "Icarus Verilog"
+                    }
+                ]
+            ],
+            [
+                "*BSD , Linux , Mac",
+                [
+                    "/wiki/FreeBSD",
+                    "/wiki/Linux",
+                    "/wiki/Mac_OS_X"
+                ],
+                [
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                []
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Verilog simulator",
+                [
+                    "/wiki/Verilog"
+                ],
+                [
+                    {
+                        "entity id": "Q827773",
+                        "label": "Verilog"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "KiCad",
+                [
+                    "/wiki/KiCad"
+                ],
+                [
+                    {
+                        "entity id": "Q942363",
+                        "label": "KiCad"
+                    }
+                ]
+            ],
+            [
+                "Linux , Mac , Windows",
+                [
+                    "/wiki/Linux",
+                    "/wiki/Mac_OS_X",
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "GNU GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "Built-in , or FreeRouting",
+                []
+            ],
+            [
+                "Full package for schematic and board design , etc . Design rule checking . User-defined symbols and footprints . Gerber/ drill file creation . Graphic interface . Active user community",
+                []
+            ]
+        ],
+        [
+            [
+                "KTechLab",
+                [
+                    "/wiki/KTechLab"
+                ],
+                [
+                    {
+                        "entity id": "Q3191540",
+                        "label": "KTechLab"
+                    }
+                ]
+            ],
+            [
+                "Linux",
+                [
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                []
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "KTechLab is a schematic capture and simulator . It is specifically geared toward mixed signal simulation of analog components and small digital processors",
+                []
+            ]
+        ],
+        [
+            [
+                "LTspice",
+                [
+                    "/wiki/LTspice"
+                ],
+                [
+                    {
+                        "entity id": "Q1798391",
+                        "label": "LTspice"
+                    }
+                ]
+            ],
+            [
+                "Windows 7-10 , macOS 10.7+",
+                [
+                    "/wiki/Windows",
+                    "/wiki/MacOS"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "LTspice is a schematic capture and analog simulator . It was original started by Linear Technology , now part of Analog Devices",
+                [
+                    "/wiki/Linear_Technology",
+                    "/wiki/Analog_Devices"
+                ],
+                [
+                    {
+                        "entity id": "Q999567",
+                        "label": "Linear Technology"
+                    },
+                    {
+                        "entity id": "Q484930",
+                        "label": "Analog Devices"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Magic",
+                [
+                    "/wiki/Magic_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Linux",
+                []
+            ],
+            [
+                "BSD license",
+                []
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "A very-large-scale integration layout tool",
+                [
+                    "/wiki/Very-large-scale_integration"
+                ],
+                [
+                    {
+                        "entity id": "Q876049",
+                        "label": "very-large-scale integration"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Ngspice",
+                [
+                    "/wiki/Ngspice"
+                ],
+                [
+                    {
+                        "entity id": "Q4045331",
+                        "label": "Ngspice"
+                    }
+                ]
+            ],
+            [
+                "Linux , Solaris , Mac , NetBSD , FreeBSD , w32",
+                [
+                    "/wiki/Linux",
+                    "/wiki/Solaris_(operating_system)",
+                    "/wiki/Mac_OS_X",
+                    "/wiki/NetBSD",
+                    "/wiki/FreeBSD",
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {},
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q34225",
+                        "label": "NetBSD"
+                    },
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "BSD",
+                []
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "SPICE + XSPICE + Cider",
+                [
+                    "/wiki/SPICE"
+                ],
+                [
+                    {
+                        "entity id": "Q42527",
+                        "label": "spice"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Oregano",
+                [
+                    "/wiki/Oregano_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "GPL",
+                []
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Schematic capture + spice simulation",
+                []
+            ]
+        ],
+        [
+            [
+                "Quite Universal Circuit Simulator ( QUCS )",
+                [
+                    "/wiki/Quite_Universal_Circuit_Simulator"
+                ],
+                [
+                    {
+                        "entity id": "Q597877",
+                        "label": "Quite Universal Circuit Simulator"
+                    }
+                ]
+            ],
+            [
+                "Linux , Solaris , Mac , NetBSD , FreeBSD , w32",
+                [
+                    "/wiki/Linux",
+                    "/wiki/Solaris_(operating_system)",
+                    "/wiki/Mac_OS_X",
+                    "/wiki/NetBSD",
+                    "/wiki/FreeBSD",
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {},
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q34225",
+                        "label": "NetBSD"
+                    },
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                []
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Schematic capture + Verilog + VHDL + simulation",
+                [
+                    "/wiki/Schematic_capture"
+                ],
+                [
+                    {
+                        "entity id": "Q7431125",
+                        "label": "Schematic capture"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "pcb-rnd",
+                [
+                    "/wiki/Pcb-rnd"
+                ],
+                [
+                    {
+                        "entity id": "Q56276672",
+                        "label": "Pcb-rnd"
+                    }
+                ]
+            ],
+            [
+                "*BSD , Linux , Mac , w32",
+                [
+                    "/wiki/FreeBSD",
+                    "/wiki/Linux",
+                    "/wiki/Mac_OS_X",
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Circuit layout program with extended file format support , DRC , parametric footprints , query language , and GUI and command line operation for batch processing and automation",
+                [
+                    "/wiki/Design_rule_checking"
+                ],
+                [
+                    {
+                        "entity id": "Q1200669",
+                        "label": "Design rule checking"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Verilator",
+                [
+                    "/wiki/Verilator"
+                ],
+                [
+                    {
+                        "entity id": "Q7921335",
+                        "label": "Verilator"
+                    }
+                ]
+            ],
+            [
+                "Posix",
+                []
+            ],
+            [
+                "GPL",
+                []
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Verilator is the fastest free Verilog HDL simulator . It compiles synthesizable Verilog into cycle accurate C++ or SystemC code following 2-state synthesis ( zero delay ) semantics . Benchmarks reported on its website suggest it is several times faster than commercial event driven simulators such as ModelSim , NC-Verilog and VCS , while not quite as fast as commercial cycle accurate modeling tools such as Carbon ModelStudio and ARC VTOC",
+                [
+                    "/wiki/SystemC",
+                    "/wiki/ModelSim"
+                ],
+                [
+                    {
+                        "entity id": "Q1753563",
+                        "label": "SystemC"
+                    },
+                    {
+                        "entity id": "Q3317826",
+                        "label": "ModelSim"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "XCircuit",
+                [
+                    "/wiki/XCircuit"
+                ],
+                [
+                    {
+                        "entity id": "Q2597404",
+                        "label": "XCircuit"
+                    }
+                ]
+            ],
+            [
+                "Unix",
+                [
+                    "/wiki/Unix"
+                ],
+                [
+                    {
+                        "entity id": "Q14656",
+                        "label": "Unix-like operating system"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                []
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Used to produce netlists and publish high-quality drawings",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Free software",
+    "section_text": "",
+    "uid": "Comparison_of_EDA_software_1",
+    "intro": "Comparison of electronic design automation (EDA) software"
+}

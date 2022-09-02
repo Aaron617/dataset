@@ -1,0 +1,451 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Higher-speed_rail",
+    "title": "Higher-speed rail",
+    "header": [
+        [
+            "Line name",
+            []
+        ],
+        [
+            "Line name ( Chinese )",
+            []
+        ],
+        [
+            "start station",
+            []
+        ],
+        [
+            "end station",
+            []
+        ],
+        [
+            "Train identifiers",
+            []
+        ],
+        [
+            "Note",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Shanghai Area : Jinshan",
+                [
+                    "/wiki/Jinshan_railway"
+                ],
+                [
+                    {
+                        "entity id": "Q3338133",
+                        "label": "Jinshan railway"
+                    }
+                ]
+            ],
+            [
+                "\u91d1\u5c71\u7ebf",
+                []
+            ],
+            [
+                "Shanghai South",
+                [
+                    "/wiki/Shanghai_South_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q742675",
+                        "label": "Shanghainan Railway Station"
+                    }
+                ]
+            ],
+            [
+                "Jinshanwei",
+                [
+                    "/wiki/Jinshanwei_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q11647012",
+                        "label": "Jinshanwei Railway Station"
+                    }
+                ]
+            ],
+            [
+                "C ?",
+                []
+            ],
+            [
+                "Also called Shanghai Metro Line 22",
+                []
+            ]
+        ],
+        [
+            [
+                "Zhongchuan Airport intercity",
+                [
+                    "/wiki/Lanzhou\u2013Zhongchuan_Airport_intercity_railway"
+                ],
+                [
+                    {
+                        "entity id": "Q10893627",
+                        "label": "Lanzhou\u2013Zhongchuan Airport Intercity Railway"
+                    }
+                ]
+            ],
+            [
+                "\u4e2d\u5ddd\u673a\u573a\u57ce\u9645",
+                []
+            ],
+            [
+                "Lanzhou West",
+                [
+                    "/wiki/Lanzhou_West_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q6487722",
+                        "label": "Lanzhou West railway station"
+                    }
+                ]
+            ],
+            [
+                "Zhongchuan Airport",
+                [
+                    "/wiki/Zhongchuan_Airport_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q22079790",
+                        "label": "Zhongchuan Airport railway station"
+                    }
+                ]
+            ],
+            [
+                "C D",
+                []
+            ],
+            [
+                "Lanzhou Area only except a single round trip to/from Tianshui South",
+                []
+            ]
+        ],
+        [
+            [
+                "Beijing Subway Daxing Airport Express",
+                [
+                    "/wiki/Daxing_Airport_Express"
+                ],
+                [
+                    {
+                        "entity id": "Q19840478",
+                        "label": "Daxing Airport Express"
+                    }
+                ]
+            ],
+            [
+                "\u5317\u4eac\u5730\u94c1\u5927\u5174\u673a\u573a\u7ebf",
+                []
+            ],
+            [
+                "Caoqiao",
+                []
+            ],
+            [
+                "Daxing Airport",
+                [
+                    "/wiki/Daxing_Airport_railway_station"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Unknown",
+                []
+            ],
+            [
+                "Not part of CR System",
+                []
+            ]
+        ],
+        [
+            [
+                "Baotou-Xi'an *",
+                [
+                    "/wiki/Xi'an\u2013Yan'an_railway"
+                ],
+                [
+                    {
+                        "entity id": "Q13553636",
+                        "label": "Xi'an\u2013Yan'an Railway"
+                    }
+                ]
+            ],
+            [
+                "\u5305\u897f\u7ebf\u897f\u5ef6\u6bb5",
+                []
+            ],
+            [
+                "Xi'an",
+                [
+                    "/wiki/Xi'an_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q118055",
+                        "label": "Xi'an railway station"
+                    }
+                ]
+            ],
+            [
+                "Yan'an",
+                []
+            ],
+            [
+                "D Z T K",
+                []
+            ],
+            [
+                "Different from Baotou-Xi'an High-speed Railway ( under construction )",
+                []
+            ]
+        ],
+        [
+            [
+                "Nanjing-Chengdu *",
+                [
+                    "/wiki/Yichang\u2013Wanzhou_railway"
+                ],
+                [
+                    {
+                        "entity id": "Q1064044",
+                        "label": "Yichang\u2013Wanzhou railway"
+                    }
+                ]
+            ],
+            [
+                "\u5b81\u84c9\u7ebf\u5b9c\u51c9\u6bb5 ( \u5b9c\u4e07\u94c1\u8def )",
+                []
+            ],
+            [
+                "Yichang East",
+                [
+                    "/wiki/Yichang_East_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q8053510",
+                        "label": "Yichang East railway station"
+                    }
+                ]
+            ],
+            [
+                "Liangwu",
+                [
+                    "/wiki/Liangwu_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q6540057",
+                        "label": "Liangwu Railway Station"
+                    }
+                ]
+            ],
+            [
+                "G D Z K",
+                []
+            ],
+            [
+                "Passenger service branches at Lichuan",
+                [
+                    "/wiki/Lichuan_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q6543382",
+                        "label": "Lichuan Railway Station"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Lanzhou-Chongqing",
+                [
+                    "/wiki/Chongqing\u2013Lanzhou_railway"
+                ],
+                [
+                    {
+                        "entity id": "Q5104683",
+                        "label": "Chongqing\u2013Lanzhou railway"
+                    }
+                ]
+            ],
+            [
+                "\u5170\u6e1d\u94c1\u8def",
+                []
+            ],
+            [
+                "Lanzhou",
+                [
+                    "/wiki/Lanzhou_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q6487720",
+                        "label": "Lanzhou railway station"
+                    }
+                ]
+            ],
+            [
+                "Chongqing North",
+                [
+                    "/wiki/Chongqing_North_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q5104670",
+                        "label": "Chongqing North railway station"
+                    }
+                ]
+            ],
+            [
+                "G D Z K",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Changsha-Zhuzhou/Xiangtan",
+                [
+                    "/wiki/Changsha\u2013Zhuzhou\u2013Xiangtan_intercity_railway"
+                ],
+                [
+                    {
+                        "entity id": "Q15910488",
+                        "label": "Changsha\u2013Zhuzhou\u2013Xiangtan intercity railway"
+                    }
+                ]
+            ],
+            [
+                "\u957f\u682a\u6f6d\u57ce\u9645\u94c1\u8def",
+                []
+            ],
+            [
+                "Changsha West",
+                []
+            ],
+            [
+                "Zhuzhou South / Xiangtan",
+                [
+                    "/wiki/Xiangtan_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q17031416",
+                        "label": "Xiangtan Railway Station"
+                    }
+                ]
+            ],
+            [
+                "C",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Guiyang-Kaiyang",
+                [
+                    "/wiki/Guiyang\u2013Kaiyang_intercity_railway"
+                ],
+                [
+                    {
+                        "entity id": "Q19853751",
+                        "label": "Guiyang\u2013Kaiyang Intercity Railway"
+                    }
+                ]
+            ],
+            [
+                "\u8d35\u5f00\u57ce\u9645\u94c1\u8def",
+                []
+            ],
+            [
+                "Guiyang",
+                []
+            ],
+            [
+                "Kaiyang",
+                []
+            ],
+            [
+                "C",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Guangzhou-Shenzhen ( quadtuple track )",
+                [
+                    "/wiki/Guangzhou\u2013Shenzhen_railway"
+                ],
+                [
+                    {
+                        "entity id": "Q938748",
+                        "label": "Guangzhou\u2013Shenzhen railway"
+                    }
+                ]
+            ],
+            [
+                "\u5e7f\u6df1\u7ebf ( \u57ce\u9645\u7ebf )",
+                []
+            ],
+            [
+                "Foshan West",
+                [
+                    "/wiki/Foshan_West_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q9388554",
+                        "label": "Foshan West railway station"
+                    }
+                ]
+            ],
+            [
+                "Shenzhen",
+                [
+                    "/wiki/Shenzhen_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q837327",
+                        "label": "Shenzhen Railway Station"
+                    }
+                ]
+            ],
+            [
+                "C D",
+                []
+            ],
+            [
+                "Through operation to Huaiji ( Guiyang-Guangzhou high-speed line ) . Operates at 180km/h",
+                []
+            ]
+        ]
+    ],
+    "section_title": "In operation -- China",
+    "section_text": "This list is complete and up to date as of December 2019 .",
+    "uid": "Higher-speed_rail_1",
+    "intro": "Higher-speed rail (HrSR), also known as high-performance rail, higher-performance rail, or almost-high-speed rail, is a jargon used to describe inter-city passenger rail services that have top speeds of more than conventional rail but are not high enough to be called high-speed rail services. The term is also used by planners to identify the incremental rail improvements to increase train speeds and reduce travel time as alternatives to larger efforts to create or expand the high-speed rail networks. Some countries use the term medium-speed rail, or semi-high speed rail instead."
+}

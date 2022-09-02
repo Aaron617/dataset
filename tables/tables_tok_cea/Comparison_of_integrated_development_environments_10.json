@@ -1,0 +1,845 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments",
+    "title": "Comparison of integrated development environments",
+    "header": [
+        [
+            "IDE",
+            [
+                "/wiki/Integrated_development_environment"
+            ],
+            [
+                {
+                    "entity id": "Q13741",
+                    "label": "integrated development environment"
+                }
+            ]
+        ],
+        [
+            "License",
+            [
+                "/wiki/Software_license"
+            ],
+            [
+                {
+                    "entity id": "Q207621",
+                    "label": "software license"
+                }
+            ]
+        ],
+        [
+            "Platform",
+            [
+                "/wiki/Platform_(computing)"
+            ],
+            [
+                {}
+            ]
+        ],
+        [
+            "Developer",
+            [
+                "/wiki/Software_developer"
+            ],
+            [
+                {
+                    "entity id": "Q5482740",
+                    "label": "programmer"
+                }
+            ]
+        ],
+        [
+            "Latest stable release",
+            [
+                "/wiki/Software_release"
+            ],
+            [
+                {
+                    "entity id": "Q20631656",
+                    "label": "software release"
+                }
+            ]
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Code : :Blocks",
+                [
+                    "/wiki/Code::Blocks"
+                ],
+                [
+                    {
+                        "entity id": "Q835824",
+                        "label": "Code::Blocks"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "Windows , Linux , macOS , FreeBSD , OpenBSD , Solaris",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux",
+                    "/wiki/MacOS",
+                    "/wiki/FreeBSD",
+                    "/wiki/OpenBSD",
+                    "/wiki/Solaris_(operating_system)"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    },
+                    {
+                        "entity id": "Q34215",
+                        "label": "OpenBSD"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Code : :Blocks Team",
+                [
+                    "/wiki/Code::Blocks"
+                ],
+                [
+                    {
+                        "entity id": "Q835824",
+                        "label": "Code::Blocks"
+                    }
+                ]
+            ],
+            [
+                "17.12 / 2017-12-30",
+                []
+            ]
+        ],
+        [
+            [
+                "Geany",
+                [
+                    "/wiki/Geany"
+                ],
+                [
+                    {
+                        "entity id": "Q1122464",
+                        "label": "Geany"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "Windows , Linux , macOS , FreeBSD , AIX , OpenBSD , Solaris , other Unix",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux",
+                    "/wiki/MacOS",
+                    "/wiki/FreeBSD",
+                    "/wiki/IBM_AIX",
+                    "/wiki/OpenBSD",
+                    "/wiki/Solaris_(operating_system)",
+                    "/wiki/Unix"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    },
+                    {
+                        "entity id": "Q269856",
+                        "label": "IBM AIX"
+                    },
+                    {
+                        "entity id": "Q34215",
+                        "label": "OpenBSD"
+                    },
+                    {},
+                    {
+                        "entity id": "Q14656",
+                        "label": "Unix-like operating system"
+                    }
+                ]
+            ],
+            [
+                "Team",
+                []
+            ],
+            [
+                "1.27 / March 13 , 2016",
+                []
+            ]
+        ],
+        [
+            [
+                "GNAT Programming Studio",
+                [
+                    "/wiki/GNAT_Programming_Studio"
+                ],
+                [
+                    {
+                        "entity id": "Q841757",
+                        "label": "GNAT Programming Studio"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "Windows , Linux , macOS , DragonFly BSD , FreeBSD , NetBSD , OpenBSD , Solaris",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux",
+                    "/wiki/MacOS",
+                    "/wiki/DragonFly_BSD",
+                    "/wiki/FreeBSD",
+                    "/wiki/NetBSD",
+                    "/wiki/OpenBSD",
+                    "/wiki/Solaris_(operating_system)"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q751067",
+                        "label": "DragonFly BSD"
+                    },
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    },
+                    {
+                        "entity id": "Q34225",
+                        "label": "NetBSD"
+                    },
+                    {
+                        "entity id": "Q34215",
+                        "label": "OpenBSD"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "AdaCore",
+                [
+                    "/wiki/AdaCore"
+                ],
+                [
+                    {
+                        "entity id": "Q4678216",
+                        "label": "AdaCore"
+                    }
+                ]
+            ],
+            [
+                "4.3.1 / June 2009",
+                []
+            ]
+        ],
+        [
+            [
+                "KDevelop",
+                [
+                    "/wiki/KDevelop"
+                ],
+                [
+                    {
+                        "entity id": "Q468841",
+                        "label": "KDevelop"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "Linux",
+                [
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ],
+            [
+                "KDevelop Team",
+                []
+            ],
+            [
+                "5.2.3 ( November 24 , 2017 ; 2 years ago ( 2017-11-24 ) ) [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "NetBeans",
+                [
+                    "/wiki/NetBeans"
+                ],
+                [
+                    {
+                        "entity id": "Q264456",
+                        "label": "Apache NetBeans"
+                    }
+                ]
+            ],
+            [
+                "CDDL",
+                [
+                    "/wiki/CDDL"
+                ],
+                [
+                    {
+                        "entity id": "Q304628",
+                        "label": "Common Development and Distribution License"
+                    }
+                ]
+            ],
+            [
+                "Windows , Linux , macOS",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux",
+                    "/wiki/MacOS"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "NetBeans Community",
+                []
+            ],
+            [
+                "8.1 / November 4 , 2015",
+                []
+            ]
+        ],
+        [
+            [
+                "OpenWatcom",
+                [
+                    "/wiki/OpenWatcom"
+                ],
+                [
+                    {
+                        "entity id": "Q1059708",
+                        "label": "Watcom C/C++ compiler"
+                    }
+                ]
+            ],
+            [
+                "OSI Approved",
+                [
+                    "/wiki/Sybase_Open_Watcom_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7659488",
+                        "label": "Sybase Open Watcom Public License"
+                    }
+                ]
+            ],
+            [
+                "Windows , Linux , DOS , OS/2",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux",
+                    "/wiki/DOS",
+                    "/wiki/OS/2"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    },
+                    {
+                        "entity id": "Q189794",
+                        "label": "OS/2"
+                    }
+                ]
+            ],
+            [
+                "OpenWatcom Community",
+                []
+            ],
+            [
+                "1.9 / June 2 , 2010",
+                []
+            ]
+        ],
+        [
+            [
+                "Photran ( Eclipse )",
+                [
+                    "/wiki/Photran",
+                    "/wiki/Eclipse_(software)"
+                ],
+                [
+                    {},
+                    {}
+                ]
+            ],
+            [
+                "EPL",
+                [
+                    "/wiki/Eclipse_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q1281977",
+                        "label": "Eclipse Public License"
+                    }
+                ]
+            ],
+            [
+                "Windows , Linux , macOS , FreeBSD , JVM , Solaris",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux",
+                    "/wiki/MacOS",
+                    "/wiki/FreeBSD",
+                    "/wiki/Java_Virtual_Machine",
+                    "/wiki/Solaris_(operating_system)"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    },
+                    {
+                        "entity id": "Q193321",
+                        "label": "Java Virtual Machine"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "University of Illinois , Los Alamos National Laboratory",
+                [
+                    "/wiki/University_of_Illinois",
+                    "/wiki/Los_Alamos_National_Laboratory"
+                ],
+                [
+                    {
+                        "entity id": "Q457281",
+                        "label": "University of Illinois at Urbana\u2013Champaign"
+                    },
+                    {
+                        "entity id": "Q379848",
+                        "label": "Los Alamos National Laboratory"
+                    }
+                ]
+            ],
+            [
+                "9.1 / June 24 , 2015",
+                []
+            ]
+        ],
+        [
+            [
+                "Plato",
+                [
+                    "/wiki/Plato"
+                ],
+                [
+                    {
+                        "entity id": "Q859",
+                        "label": "Plato"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Silverfrost",
+                []
+            ],
+            [
+                "4.7.3.0",
+                []
+            ]
+        ],
+        [
+            [
+                "Understand",
+                [
+                    "/wiki/Understand_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Windows , Linux , macOS , Solaris , other Unix",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux",
+                    "/wiki/MacOS",
+                    "/wiki/Solaris_(operating_system)",
+                    "/wiki/Unix"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {},
+                    {
+                        "entity id": "Q14656",
+                        "label": "Unix-like operating system"
+                    }
+                ]
+            ],
+            [
+                "SciTools",
+                []
+            ],
+            [
+                "December 4 , 2015",
+                []
+            ]
+        ],
+        [
+            [
+                "Simply Fortran",
+                [
+                    "/wiki/Simply_Fortran"
+                ],
+                [
+                    {
+                        "entity id": "Q23680168",
+                        "label": "Simply Fortran"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Windows , Linux",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ],
+            [
+                "Approximatrix , LLC",
+                []
+            ],
+            [
+                "2.39 / August 30 , 2017",
+                []
+            ]
+        ],
+        [
+            [
+                "SlickEdit",
+                [
+                    "/wiki/SlickEdit"
+                ],
+                [
+                    {
+                        "entity id": "Q10852588",
+                        "label": "SlickEdit"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Windows , Linux , MacOS , AIX , Solaris , Solaris SPARC , HP-UX",
+                [
+                    "/wiki/Windows",
+                    "/wiki/Linux",
+                    "/wiki/MacOS",
+                    "/wiki/AIX",
+                    "/wiki/Solaris_(operating_system)",
+                    "/wiki/HP-UX"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q47465",
+                        "label": "Aix-en-Provence"
+                    },
+                    {},
+                    {
+                        "entity id": "Q847593",
+                        "label": "HP-UX"
+                    }
+                ]
+            ],
+            [
+                "SlickEdit",
+                []
+            ],
+            [
+                "October 2016",
+                []
+            ]
+        ],
+        [
+            [
+                "IntelliJ IDEA",
+                [
+                    "/wiki/IntelliJ_IDEA"
+                ],
+                [
+                    {
+                        "entity id": "Q1206660",
+                        "label": "IntelliJ IDEA"
+                    }
+                ]
+            ],
+            [
+                "ASLv2",
+                [
+                    "/wiki/Apache_License"
+                ],
+                [
+                    {
+                        "entity id": "Q616526",
+                        "label": "Apache License"
+                    }
+                ]
+            ],
+            [
+                "Windows , Linux , MacOS , FreeBSD , OpenBSD , Solaris",
+                [
+                    "/wiki/Windows",
+                    "/wiki/Linux",
+                    "/wiki/MacOS",
+                    "/wiki/FreeBSD",
+                    "/wiki/OpenBSD",
+                    "/wiki/Solaris_(operating_system)"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    },
+                    {
+                        "entity id": "Q34215",
+                        "label": "OpenBSD"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "JetBrains",
+                []
+            ],
+            [
+                "September 2017",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Fortran",
+    "section_text": "Main article : Fortran",
+    "uid": "Comparison_of_integrated_development_environments_10",
+    "intro": "The following tables list notable software packages that are nominal IDEs; standalone tools such as source code editors and GUI builders are not included. These IDEs are listed in alphabetical order of the supported language."
+}

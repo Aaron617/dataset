@@ -1,0 +1,618 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_solar_thermal_power_stations",
+    "title": "List of solar thermal power stations",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Country",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Electrical capacity ( MW )",
+            [
+                "/wiki/Nameplate_capacity",
+                "/wiki/Megawatt"
+            ],
+            [
+                {
+                    "entity id": "Q200974",
+                    "label": "nameplate capacity"
+                },
+                {
+                    "entity id": "Q6982035",
+                    "label": "megawatt"
+                }
+            ]
+        ],
+        [
+            "Technology",
+            []
+        ],
+        [
+            "Notes",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Sandstone Solar Energy Project",
+                [
+                    "/wiki/Sandstone_Solar_Energy_Project"
+                ],
+                [
+                    {
+                        "entity id": "Q27643254",
+                        "label": "Sandstone Solar Energy Project"
+                    }
+                ]
+            ],
+            [
+                "US",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Nye County , Nevada",
+                [
+                    "/wiki/Nye_County,_Nevada"
+                ],
+                [
+                    {
+                        "entity id": "Q484418",
+                        "label": "Nye County"
+                    }
+                ]
+            ],
+            [
+                "1,600",
+                []
+            ],
+            [
+                "solar power tower",
+                []
+            ],
+            [
+                "8 units with 10h heat storage",
+                []
+            ]
+        ],
+        [
+            [
+                "Blythe Solar Power Project",
+                [
+                    "/wiki/Blythe_Mesa_Solar_Power_Project"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "US",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Blythe , California",
+                [
+                    "/wiki/Blythe,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q886915",
+                        "label": "Blythe"
+                    }
+                ]
+            ],
+            [
+                "1,000",
+                []
+            ],
+            [
+                "Parabolic trough",
+                []
+            ],
+            [
+                "4 units , converted to 485 MW PV",
+                [
+                    "/wiki/Blythe_Mesa_Solar_Power_Project"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Stirling Energy Systems Solar One Project",
+                [
+                    "/wiki/Calico_Solar_Energy_Project"
+                ],
+                [
+                    {
+                        "entity id": "Q5019877",
+                        "label": "Calico Solar Energy Project"
+                    }
+                ]
+            ],
+            [
+                "US",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "San Bernardino County , California",
+                [
+                    "/wiki/San_Bernardino_County,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q108053",
+                        "label": "San Bernardino County"
+                    }
+                ]
+            ],
+            [
+                "850",
+                []
+            ],
+            [
+                "Dish Stirling",
+                [
+                    "/wiki/Dish_Stirling"
+                ],
+                [
+                    {
+                        "entity id": "Q7555942",
+                        "label": "Solar powered Stirling engines"
+                    }
+                ]
+            ],
+            [
+                "converted to 618 MW PV , license terminated 27 August 2013",
+                [
+                    "/wiki/Calico_Solar_Energy_Project"
+                ],
+                [
+                    {
+                        "entity id": "Q5019877",
+                        "label": "Calico Solar Energy Project"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Stirling Energy Systems Solar Two Project",
+                [
+                    "/wiki/Mount_Signal_Solar"
+                ],
+                [
+                    {
+                        "entity id": "Q18396031",
+                        "label": "Mount Signal Solar"
+                    }
+                ]
+            ],
+            [
+                "US",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Imperial County , California",
+                [
+                    "/wiki/Imperial_County,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q169952",
+                        "label": "Imperial County"
+                    }
+                ]
+            ],
+            [
+                "750",
+                []
+            ],
+            [
+                "Dish Stirling",
+                []
+            ],
+            [
+                "converted to 594 MW PV",
+                [
+                    "/wiki/Mount_Signal_Solar"
+                ],
+                [
+                    {
+                        "entity id": "Q18396031",
+                        "label": "Mount Signal Solar"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Palen Solar Power Project",
+                []
+            ],
+            [
+                "US",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Riverside County , California",
+                [
+                    "/wiki/Riverside_County,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q108111",
+                        "label": "Riverside County"
+                    }
+                ]
+            ],
+            [
+                "500",
+                []
+            ],
+            [
+                "Parabolic trough",
+                []
+            ],
+            [
+                "2 units , certification expired 15 December 2015",
+                []
+            ]
+        ],
+        [
+            [
+                "Ridgecrest Solar Power Project",
+                []
+            ],
+            [
+                "US",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Kern County , California",
+                [
+                    "/wiki/Kern_County,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q108047",
+                        "label": "Kern County"
+                    }
+                ]
+            ],
+            [
+                "250",
+                []
+            ],
+            [
+                "Parabolic trough",
+                []
+            ],
+            [
+                "2 units , license terminated 22 April 2014",
+                []
+            ]
+        ],
+        [
+            [
+                "Luz SEGS XI-XII Project",
+                [
+                    "/wiki/Solar_Energy_Generating_Systems"
+                ],
+                [
+                    {
+                        "entity id": "Q1078408",
+                        "label": "Solar Energy Generating Systems"
+                    }
+                ]
+            ],
+            [
+                "US",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "San Bernardino County , California",
+                [
+                    "/wiki/San_Bernardino_County,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q108053",
+                        "label": "San Bernardino County"
+                    }
+                ]
+            ],
+            [
+                "160",
+                []
+            ],
+            [
+                "Parabolic trough",
+                []
+            ],
+            [
+                "license expired 22 September 1989",
+                []
+            ]
+        ],
+        [
+            [
+                "Aurora Solar Thermal Power Project",
+                [
+                    "/wiki/Aurora_Solar_Thermal_Power_Project"
+                ],
+                [
+                    {
+                        "entity id": "Q38251653",
+                        "label": "Aurora Solar Thermal Power Project"
+                    }
+                ]
+            ],
+            [
+                "Australia",
+                [
+                    "/wiki/Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q408",
+                        "label": "Australia"
+                    }
+                ]
+            ],
+            [
+                "Port Augusta , South Australia",
+                [
+                    "/wiki/Port_Augusta,_South_Australia",
+                    "/wiki/South_Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q606288",
+                        "label": "Port Augusta"
+                    },
+                    {
+                        "entity id": "Q35715",
+                        "label": "South Australia"
+                    }
+                ]
+            ],
+            [
+                "150",
+                []
+            ],
+            [
+                "solar power tower",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "El Reboso 2+3",
+                []
+            ],
+            [
+                "Spain",
+                [
+                    "/wiki/Spain"
+                ],
+                [
+                    {
+                        "entity id": "Q29",
+                        "label": "Spain"
+                    }
+                ]
+            ],
+            [
+                "La Puebla del Rio ( Seville )",
+                [
+                    "/wiki/La_Puebla_del_Rio",
+                    "/wiki/Seville"
+                ],
+                [
+                    {
+                        "entity id": "Q1605737",
+                        "label": "La Puebla del R\u00edo"
+                    },
+                    {
+                        "entity id": "Q8717",
+                        "label": "Seville"
+                    }
+                ]
+            ],
+            [
+                "100",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Parabolic trough",
+                []
+            ]
+        ],
+        [
+            [
+                "SCE Solar 100",
+                []
+            ],
+            [
+                "US",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Johnson Valley , California",
+                [
+                    "/wiki/Johnson_Valley,_California"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "100",
+                []
+            ],
+            [
+                "Solar power tower",
+                []
+            ],
+            [
+                "license expired 1983",
+                []
+            ]
+        ],
+        [
+            [
+                "Diwakar",
+                []
+            ],
+            [
+                "India",
+                [
+                    "/wiki/India"
+                ],
+                [
+                    {
+                        "entity id": "Q668",
+                        "label": "India"
+                    }
+                ]
+            ],
+            [
+                "Askandra",
+                []
+            ],
+            [
+                "100",
+                []
+            ],
+            [
+                "Parabolic trough",
+                []
+            ],
+            [
+                "2014 , Parabolic trough with 3h heat storage",
+                []
+            ]
+        ],
+        [
+            [
+                "KVK Energy Solar Project",
+                []
+            ],
+            [
+                "India",
+                [
+                    "/wiki/India"
+                ],
+                [
+                    {
+                        "entity id": "Q668",
+                        "label": "India"
+                    }
+                ]
+            ],
+            [
+                "Askandra",
+                []
+            ],
+            [
+                "100",
+                []
+            ],
+            [
+                "Parabolic trough",
+                []
+            ],
+            [
+                "2014 , Parabolic trough with 4h heat storage",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Cancelled",
+    "section_text": "",
+    "uid": "List_of_solar_thermal_power_stations_3",
+    "intro": "This is a list of the largest facilities generating electricity through the use of solar thermal power, specifically concentrated solar power."
+}

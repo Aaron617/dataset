@@ -1,0 +1,607 @@
+{
+    "url": "https://en.wikipedia.org/wiki/First_Professional_Football_League_(Bulgaria)",
+    "title": "First Professional Football League (Bulgaria)",
+    "header": [
+        [
+            "Team",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Stadium",
+            []
+        ],
+        [
+            "Capacity ( seating )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Arda",
+                [
+                    "/wiki/FC_Arda_Kardzhali"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Kardzhali",
+                [
+                    "/wiki/Kardzhali"
+                ],
+                [
+                    {
+                        "entity id": "Q192875",
+                        "label": "Kardzhali"
+                    }
+                ]
+            ],
+            [
+                "Arena Arda",
+                [
+                    "/wiki/Arena_Arda"
+                ],
+                [
+                    {
+                        "entity id": "Q12279167",
+                        "label": "Arena Arda"
+                    }
+                ]
+            ],
+            [
+                "15,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Beroe",
+                [
+                    "/wiki/PFC_Beroe_Stara_Zagora"
+                ],
+                [
+                    {
+                        "entity id": "Q374254",
+                        "label": "PFC Beroe Stara Zagora"
+                    }
+                ]
+            ],
+            [
+                "Stara Zagora",
+                [
+                    "/wiki/Stara_Zagora"
+                ],
+                [
+                    {
+                        "entity id": "Q170415",
+                        "label": "Stara Zagora"
+                    }
+                ]
+            ],
+            [
+                "Beroe",
+                [
+                    "/wiki/Beroe_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q303387",
+                        "label": "Beroe Stadium"
+                    }
+                ]
+            ],
+            [
+                "12,128",
+                []
+            ]
+        ],
+        [
+            [
+                "Botev",
+                [
+                    "/wiki/PFC_Botev_Plovdiv"
+                ],
+                [
+                    {
+                        "entity id": "Q27313259",
+                        "label": "PFC Botev Plovdiv in European football"
+                    }
+                ]
+            ],
+            [
+                "Plovdiv",
+                [
+                    "/wiki/Plovdiv"
+                ],
+                [
+                    {
+                        "entity id": "Q459",
+                        "label": "Plovdiv"
+                    }
+                ]
+            ],
+            [
+                "Botev 1912 Football Complex",
+                [
+                    "/wiki/Botev_1912_Football_Complex"
+                ],
+                [
+                    {
+                        "entity id": "Q30644373",
+                        "label": "Botev 1912 Football Complex"
+                    }
+                ]
+            ],
+            [
+                "3,500",
+                []
+            ]
+        ],
+        [
+            [
+                "Botev",
+                [
+                    "/wiki/POFC_Botev_Vratsa"
+                ],
+                [
+                    {
+                        "entity id": "Q634701",
+                        "label": "POFC Botev Vratsa"
+                    }
+                ]
+            ],
+            [
+                "Vratsa",
+                [
+                    "/wiki/Vratsa"
+                ],
+                [
+                    {
+                        "entity id": "Q189502",
+                        "label": "Vratsa"
+                    }
+                ]
+            ],
+            [
+                "Hristo Botev",
+                [
+                    "/wiki/Hristo_Botev_Stadium_(Vratsa)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "25,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Cherno More",
+                [
+                    "/wiki/PFC_Cherno_More_Varna"
+                ],
+                [
+                    {
+                        "entity id": "Q290629",
+                        "label": "PFC Cherno More Varna"
+                    }
+                ]
+            ],
+            [
+                "Varna",
+                [
+                    "/wiki/Varna"
+                ],
+                [
+                    {
+                        "entity id": "Q6506",
+                        "label": "Varna"
+                    }
+                ]
+            ],
+            [
+                "Ticha",
+                [
+                    "/wiki/Ticha_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q849639",
+                        "label": "Ticha Stadium"
+                    }
+                ]
+            ],
+            [
+                "8,250",
+                []
+            ]
+        ],
+        [
+            [
+                "CSKA",
+                [
+                    "/wiki/PFC_CSKA_Sofia"
+                ],
+                [
+                    {
+                        "entity id": "Q7119062",
+                        "label": "PFC CSKA Sofia in European football"
+                    }
+                ]
+            ],
+            [
+                "Sofia",
+                [
+                    "/wiki/Sofia"
+                ],
+                [
+                    {
+                        "entity id": "Q472",
+                        "label": "Sofia"
+                    }
+                ]
+            ],
+            [
+                "Balgarska Armiya",
+                [
+                    "/wiki/Balgarska_Armia_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q804933",
+                        "label": "Balgarska Armia Stadium"
+                    }
+                ]
+            ],
+            [
+                "18,495",
+                []
+            ]
+        ],
+        [
+            [
+                "Dunav",
+                [
+                    "/wiki/FC_Dunav_Ruse"
+                ],
+                [
+                    {
+                        "entity id": "Q1387056",
+                        "label": "FC Dunav Ruse"
+                    }
+                ]
+            ],
+            [
+                "Ruse",
+                [
+                    "/wiki/Ruse,_Bulgaria"
+                ],
+                [
+                    {
+                        "entity id": "Q160173",
+                        "label": "Ruse"
+                    }
+                ]
+            ],
+            [
+                "Gradski",
+                [
+                    "/wiki/Gradski_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q3623321",
+                        "label": "Gradski Stadium"
+                    }
+                ]
+            ],
+            [
+                "12,400",
+                []
+            ]
+        ],
+        [
+            [
+                "Etar",
+                [
+                    "/wiki/SFC_Etar_Veliko_Tarnovo"
+                ],
+                [
+                    {
+                        "entity id": "Q16837310",
+                        "label": "OFC Etar Veliko Tarnovo"
+                    }
+                ]
+            ],
+            [
+                "Veliko Tarnovo",
+                [
+                    "/wiki/Veliko_Tarnovo"
+                ],
+                [
+                    {
+                        "entity id": "Q173474",
+                        "label": "Veliko Tarnovo"
+                    }
+                ]
+            ],
+            [
+                "Ivaylo",
+                [
+                    "/wiki/Ivaylo_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q3622953",
+                        "label": "Ivaylo Stadium"
+                    }
+                ]
+            ],
+            [
+                "15,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Levski",
+                [
+                    "/wiki/PFC_Levski_Sofia"
+                ],
+                [
+                    {
+                        "entity id": "Q144190",
+                        "label": "PFC Levski Sofia"
+                    }
+                ]
+            ],
+            [
+                "Sofia",
+                [
+                    "/wiki/Sofia"
+                ],
+                [
+                    {
+                        "entity id": "Q472",
+                        "label": "Sofia"
+                    }
+                ]
+            ],
+            [
+                "Vivacom Arena - Georgi Asparuhov",
+                [
+                    "/wiki/Georgi_Asparuhov_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q368232",
+                        "label": "Georgi Asparuhov Stadium"
+                    }
+                ]
+            ],
+            [
+                "25,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Lokomotiv",
+                [
+                    "/wiki/PFC_Lokomotiv_Plovdiv"
+                ],
+                [
+                    {
+                        "entity id": "Q1124841",
+                        "label": "PFC Lokomotiv Plovdiv"
+                    }
+                ]
+            ],
+            [
+                "Plovdiv",
+                [
+                    "/wiki/Plovdiv"
+                ],
+                [
+                    {
+                        "entity id": "Q459",
+                        "label": "Plovdiv"
+                    }
+                ]
+            ],
+            [
+                "Lokomotiv",
+                [
+                    "/wiki/Lokomotiv_Stadium_(Plovdiv)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "13,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Ludogorets",
+                [
+                    "/wiki/PFC_Ludogorets_Razgrad"
+                ],
+                [
+                    {
+                        "entity id": "Q1339086",
+                        "label": "PFC Ludogorets Razgrad"
+                    }
+                ]
+            ],
+            [
+                "Razgrad",
+                [
+                    "/wiki/Razgrad"
+                ],
+                [
+                    {
+                        "entity id": "Q189650",
+                        "label": "Razgrad"
+                    }
+                ]
+            ],
+            [
+                "Ludogorets Arena",
+                [
+                    "/wiki/Ludogorets_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q3625171",
+                        "label": "Ludogorets Arena"
+                    }
+                ]
+            ],
+            [
+                "10,422",
+                []
+            ]
+        ],
+        [
+            [
+                "Slavi\u0430",
+                [
+                    "/wiki/PFC_Slavia_Sofia"
+                ],
+                [
+                    {
+                        "entity id": "Q643434",
+                        "label": "PFC Slavia Sofia"
+                    }
+                ]
+            ],
+            [
+                "Sofia",
+                [
+                    "/wiki/Sofia"
+                ],
+                [
+                    {
+                        "entity id": "Q472",
+                        "label": "Sofia"
+                    }
+                ]
+            ],
+            [
+                "Slavia",
+                [
+                    "/wiki/Slavia_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q1859824",
+                        "label": "Ovcha Kupel Stadium"
+                    }
+                ]
+            ],
+            [
+                "25,556",
+                []
+            ]
+        ],
+        [
+            [
+                "Tsarsko Selo",
+                [
+                    "/wiki/FC_Tsarsko_Selo_Sofia"
+                ],
+                [
+                    {
+                        "entity id": "Q22047699",
+                        "label": "FC Tsarsko Selo (Sofia)"
+                    }
+                ]
+            ],
+            [
+                "Sofia",
+                [
+                    "/wiki/Sofia"
+                ],
+                [
+                    {
+                        "entity id": "Q472",
+                        "label": "Sofia"
+                    }
+                ]
+            ],
+            [
+                "Vasil Levski National Stadium",
+                [
+                    "/wiki/Vasil_Levski_National_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q1327903",
+                        "label": "Vasil Levski National Stadium"
+                    }
+                ]
+            ],
+            [
+                "43,230",
+                []
+            ]
+        ],
+        [
+            [
+                "Vitosha",
+                [
+                    "/wiki/FC_Vitosha_Bistritsa"
+                ],
+                [
+                    {
+                        "entity id": "Q5423737",
+                        "label": "F.C. Vitosha Bistritsa"
+                    }
+                ]
+            ],
+            [
+                "Bistritsa",
+                [
+                    "/wiki/Bistritsa,_Sofia"
+                ],
+                [
+                    {
+                        "entity id": "Q3394212",
+                        "label": "Bistritsa"
+                    }
+                ]
+            ],
+            [
+                "Bistritsa Stadium",
+                [
+                    "/wiki/Bistritsa_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q39046436",
+                        "label": "Bistritsa Stadium"
+                    }
+                ]
+            ],
+            [
+                "2,000",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Current clubs",
+    "section_text": "The following clubs are competing in the Prva profesionalna Liga during the 2019\u201320 season . SofiaArdaBeroeDunavCherno MoreEtarLudogoretsBotevLokomotivBotev VratsaVitosha Location of teams in 2019\u201320 First League CSKALevskiSlaviaTsarsko Selo Sofia 2019\u201320 First League football clubs",
+    "uid": "Bulgarian_A_Football_Group_0",
+    "intro": "The First Professional Football League (Bulgarian: \u041f\u044a\u0440\u0432\u0430 \u043f\u0440\u043e\u0444\u0435\u0441\u0438\u043e\u043d\u0430\u043b\u043d\u0430 \u0444\u0443\u0442\u0431\u043e\u043b\u043d\u0430 \u043b\u0438\u0433\u0430), also known as the Bulgarian First League or Parva liga, currently known as the efbet League for sponsorship reasons, is a professional association football league, located at the top of the Bulgarian football league system. Contested by 14 teams, it operates on a system of promotion and relegation with the Vtora liga. The Bulgarian football championship was inaugurated in 1924 as the Bulgarian State Football Championship and has been played in a league format since 1948, when the A Group was established. The champions of the First League have the right to participate in the qualifying rounds of the UEFA Champions League based on the league's European coefficient. Additionally, two UEFA Europa League spots are allocated to the second team in the final standings and the winner of the European playoffs. A further fourth spot may also be granted to the fourth placed team in the final league ranking, given that the Bulgarian Cup holder has finished among the top three teams at the end of the season. A total of 67 clubs have competed in the Bulgarian top-tier since its establishment. In the last decade, many teams such as the current champions Ludogorets were introduced for the first time in the league. In 2016-17, Vereya Stara Zagora became the 67th club to participate in the competition. Since 1948, eleven different teams have been crowned champions of Bulgaria. The three most successful clubs are CSKA Sofia with 31 titles, Levski Sofia with 26 titles and Ludogorets Razgrad with 8 titles respectively. The current champions Ludogorets Razgrad won their eight consecutive title in their eight First League season in 2018-19."
+}

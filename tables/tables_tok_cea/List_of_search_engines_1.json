@@ -1,0 +1,843 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_search_engines",
+    "title": "List of search engines",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Platform",
+            []
+        ],
+        [
+            "Remarks",
+            []
+        ],
+        [
+            "License",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Autonomy",
+                [
+                    "/wiki/Autonomy_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "IDOL Enterprise Desktop Search , HP Autonomy Universal Search",
+                []
+            ],
+            [
+                "Proprietary , commercial",
+                []
+            ]
+        ],
+        [
+            [
+                "Beagle",
+                [
+                    "/wiki/Beagle_(software)"
+                ],
+                [
+                    {
+                        "entity id": "Q791633",
+                        "label": "Beagle"
+                    }
+                ]
+            ],
+            [
+                "Linux",
+                [
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ],
+            [
+                "Open source desktop search tool for Linux based on Lucene . Unmaintained since 2009",
+                []
+            ],
+            [
+                "A mix of the X11/MIT License and the Apache License",
+                [
+                    "/wiki/X11/MIT_License",
+                    "/wiki/Apache_License"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q616526",
+                        "label": "Apache License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Copernic Desktop Search",
+                [
+                    "/wiki/Copernic_Desktop_Search"
+                ],
+                [
+                    {
+                        "entity id": "Q5168513",
+                        "label": "Copernic Desktop Search"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Major desktop search program . The full trial version downgrades after the trial period automatically to the free version , which is ( anno 2018 ) limited to indexing a maximum of 10.000 files",
+                []
+            ],
+            [
+                "Proprietary ( 30 day trial )",
+                []
+            ]
+        ],
+        [
+            [
+                "DocFetcher",
+                [
+                    "/wiki/DocFetcher"
+                ],
+                [
+                    {
+                        "entity id": "Q8561403",
+                        "label": "DocFetcher"
+                    }
+                ]
+            ],
+            [
+                "Cross-platform",
+                []
+            ],
+            [
+                "Open source desktop search tool for Windows and Linux , based on Apache Lucene",
+                [
+                    "/wiki/Apache_Lucene"
+                ],
+                [
+                    {
+                        "entity id": "Q773196",
+                        "label": "Apache Lucene"
+                    }
+                ]
+            ],
+            [
+                "Eclipse Public License",
+                [
+                    "/wiki/Eclipse_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q1281977",
+                        "label": "Eclipse Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "dtSearch Desktop",
+                [
+                    "/wiki/DtSearch"
+                ],
+                [
+                    {
+                        "entity id": "Q5309965",
+                        "label": "DtSearch Corp."
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Proprietary ( 30 day trial )",
+                []
+            ]
+        ],
+        [
+            [
+                "Everything",
+                [
+                    "/wiki/Everything_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Find files and folders by name instantly on NTFS volumes",
+                []
+            ],
+            [
+                "Freeware",
+                []
+            ]
+        ],
+        [
+            [
+                "GNOME Storage",
+                [
+                    "/wiki/GNOME_Storage"
+                ],
+                [
+                    {
+                        "entity id": "Q3756196",
+                        "label": "GNOME Storage"
+                    }
+                ]
+            ],
+            [
+                "Linux",
+                [
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ],
+            [
+                "Open Source desktop search tool for Unix/Linux",
+                []
+            ],
+            [
+                "GPL",
+                []
+            ]
+        ],
+        [
+            [
+                "Google Desktop",
+                [
+                    "/wiki/Google_Desktop"
+                ],
+                [
+                    {
+                        "entity id": "Q79536",
+                        "label": "Google Desktop"
+                    }
+                ]
+            ],
+            [
+                "Linux , Mac OS X , Windows",
+                [
+                    "/wiki/Linux",
+                    "/wiki/Mac_OS_X",
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Integrates with the main Google search engine page . 5.9 Release now supports x64 systems . As of September 14 , 2011 , Google has discontinued this product",
+                []
+            ],
+            [
+                "Freeware",
+                []
+            ]
+        ],
+        [
+            [
+                "ISYS Search Software",
+                [
+                    "/wiki/ISYS_Search_Software"
+                ],
+                [
+                    {
+                        "entity id": "Q5974620",
+                        "label": "ISYS Search Software"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "ISYS : desktop search software",
+                []
+            ],
+            [
+                "Proprietary ( 14-day trial )",
+                []
+            ]
+        ],
+        [
+            [
+                "Locate32",
+                [
+                    "/wiki/Locate32"
+                ],
+                [
+                    {
+                        "entity id": "Q6664751",
+                        "label": "Locate32"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Graphical port of Unix 's locate & updatedb",
+                [
+                    "/wiki/Unix"
+                ],
+                [
+                    {
+                        "entity id": "Q14656",
+                        "label": "Unix-like operating system"
+                    }
+                ]
+            ],
+            [
+                "BSD License",
+                [
+                    "/wiki/BSD_License"
+                ],
+                [
+                    {
+                        "entity id": "Q191307",
+                        "label": "BSD licenses"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Lookeen",
+                [
+                    "/wiki/Lookeen"
+                ],
+                [
+                    {
+                        "entity id": "Q1143608",
+                        "label": "Lookeen"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Desktop search product with Outlook plugin and limited support for other formats via IFilters , uses Lucene search engine",
+                []
+            ],
+            [
+                "Proprietary ( 14-day trial )",
+                []
+            ]
+        ],
+        [
+            [
+                "Nepomuk",
+                [
+                    "/wiki/NEPOMUK_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Linux",
+                [
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ],
+            [
+                "Open Source semantic desktop search tool for Linux . Has been replaced by Baloo in KDE Applications from release 4.13 onward",
+                [
+                    "/wiki/KDE_Applications"
+                ],
+                [
+                    {
+                        "entity id": "Q20712193",
+                        "label": "KDE Applications"
+                    }
+                ]
+            ],
+            [
+                "License SA 3.0 and the GNU Free Documentation License 1.2",
+                []
+            ]
+        ],
+        [
+            [
+                "Recoll",
+                [
+                    "/wiki/Recoll"
+                ],
+                [
+                    {
+                        "entity id": "Q15735774",
+                        "label": "Recoll"
+                    }
+                ]
+            ],
+            [
+                "Linux , Unix , Windows , macOS",
+                [
+                    "/wiki/Linux",
+                    "/wiki/Unix",
+                    "/wiki/Windows",
+                    "/wiki/MacOS"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14656",
+                        "label": "Unix-like operating system"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "Open Source desktop search tool for Unix/Linux",
+                []
+            ],
+            [
+                "GPL",
+                []
+            ]
+        ],
+        [
+            [
+                "Spotlight",
+                [
+                    "/wiki/Spotlight_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "macOS",
+                [
+                    "/wiki/MacOS"
+                ],
+                [
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "Found in Apple Mac OS X Tiger and later OS X releases",
+                [
+                    "/wiki/Apple_Inc.",
+                    "/wiki/Mac_OS_X",
+                    "/wiki/Mac_OS_X_v10.4"
+                ],
+                [
+                    {
+                        "entity id": "Q312",
+                        "label": "Apple Inc."
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q693478",
+                        "label": "Mac OS X Tiger"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                []
+            ]
+        ],
+        [
+            [
+                "Strigi",
+                [
+                    "/wiki/Strigi"
+                ],
+                [
+                    {
+                        "entity id": "Q1547291",
+                        "label": "Strigi"
+                    }
+                ]
+            ],
+            [
+                "Linux , Unix , Solaris , Mac OS X and Windows",
+                [
+                    "/wiki/Linux",
+                    "/wiki/Unix",
+                    "/wiki/Solaris_(operating_system)",
+                    "/wiki/Mac_OS_X",
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14656",
+                        "label": "Unix-like operating system"
+                    },
+                    {},
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Cross-platform open source desktop search engine",
+                []
+            ],
+            [
+                "LGPL v2",
+                []
+            ]
+        ],
+        [
+            [
+                "Terrier Search Engine",
+                [
+                    "/wiki/Terrier_Search_Engine"
+                ],
+                [
+                    {
+                        "entity id": "Q7703700",
+                        "label": "Terrier Search Engine"
+                    }
+                ]
+            ],
+            [
+                "Linux , Mac OS X , Unix",
+                [
+                    "/wiki/Linux",
+                    "/wiki/Mac_OS_X",
+                    "/wiki/Unix"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q14656",
+                        "label": "Unix-like operating system"
+                    }
+                ]
+            ],
+            [
+                "Desktop search for Windows , Mac OS X ( Tiger ) , Unix/Linux",
+                []
+            ],
+            [
+                "MPL v1.1",
+                [
+                    "/wiki/Mozilla_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q308915",
+                        "label": "Mozilla Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Tracker",
+                [
+                    "/wiki/Tracker_(search_software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Linux , Unix",
+                [
+                    "/wiki/Linux",
+                    "/wiki/Unix"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14656",
+                        "label": "Unix-like operating system"
+                    }
+                ]
+            ],
+            [
+                "Open source desktop search tool for Unix/Linux",
+                []
+            ],
+            [
+                "GPL v2",
+                []
+            ]
+        ],
+        [
+            [
+                "Tropes Zoom",
+                [
+                    "/wiki/Tropes_Zoom"
+                ],
+                [
+                    {
+                        "entity id": "Q3540345",
+                        "label": "Tropes Zoom"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Semantic Search Engine ( no longer available )",
+                []
+            ],
+            [
+                "Freeware and commercial",
+                []
+            ]
+        ],
+        [
+            [
+                "Unity Dash",
+                [
+                    "/wiki/Unity_Dash"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Linux",
+                [
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ],
+            [
+                "Part of Ubuntu Desktop",
+                [
+                    "/wiki/Ubuntu_Desktop"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "GPL v3 , LGPL v2.1",
+                []
+            ]
+        ],
+        [
+            [
+                "Windows Search",
+                [
+                    "/wiki/Windows_Search"
+                ],
+                [
+                    {
+                        "entity id": "Q1194815",
+                        "label": "Windows Search"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Part of Windows Vista and later OSs . Available as Windows Desktop Search for Windows XP and Server 2003 . Does not support indexing UNC paths on x64 systems",
+                [
+                    "/wiki/Windows_Vista",
+                    "/wiki/Windows_Desktop_Search",
+                    "/wiki/Windows_XP",
+                    "/wiki/Windows_Server_2003"
+                ],
+                [
+                    {
+                        "entity id": "Q11230",
+                        "label": "Windows Vista"
+                    },
+                    {
+                        "entity id": "Q1194815",
+                        "label": "Windows Search"
+                    },
+                    {
+                        "entity id": "Q11248",
+                        "label": "Windows XP"
+                    },
+                    {
+                        "entity id": "Q11246",
+                        "label": "Windows Server 2003"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                []
+            ]
+        ]
+    ],
+    "section_title": "By model -- Desktop search engines",
+    "section_text": "Desktop search engines listed on a light purple background are no longer in active development .",
+    "uid": "List_of_search_engines_1",
+    "intro": "This is a list of search engines, including web search engines, selection-based search engines, metasearch engines, desktop search tools, and web portals and vertical market websites that have a search facility for online databases. For a list of search engine software, see List of enterprise search vendors."
+}

@@ -1,0 +1,487 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Dutch_Antilles_Express",
+    "title": "Dutch Antilles Express",
+    "header": [
+        [
+            "City",
+            []
+        ],
+        [
+            "Country",
+            []
+        ],
+        [
+            "Airport",
+            []
+        ],
+        [
+            "Notes",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Oranjestad",
+                [
+                    "/wiki/Oranjestad,_Aruba"
+                ],
+                [
+                    {
+                        "entity id": "Q131243",
+                        "label": "Oranjestad"
+                    }
+                ]
+            ],
+            [
+                "Aruba",
+                [
+                    "/wiki/Aruba"
+                ],
+                [
+                    {
+                        "entity id": "Q21203",
+                        "label": "Aruba"
+                    }
+                ]
+            ],
+            [
+                "Queen Beatrix International Airport",
+                [
+                    "/wiki/Queen_Beatrix_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1139661",
+                        "label": "Queen Beatrix International Airport"
+                    }
+                ]
+            ],
+            [
+                "Focus City",
+                []
+            ]
+        ],
+        [
+            [
+                "Willemstad",
+                [
+                    "/wiki/Willemstad"
+                ],
+                [
+                    {
+                        "entity id": "Q132679",
+                        "label": "Willemstad"
+                    }
+                ]
+            ],
+            [
+                "Curacao",
+                [
+                    "/wiki/Curacao"
+                ],
+                [
+                    {
+                        "entity id": "Q25279",
+                        "label": "Cura\u00e7ao"
+                    }
+                ]
+            ],
+            [
+                "Hato International Airport",
+                [
+                    "/wiki/Hato_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1431168",
+                        "label": "Hato International Airport"
+                    }
+                ]
+            ],
+            [
+                "Hub",
+                []
+            ]
+        ],
+        [
+            [
+                "Santo Domingo",
+                [
+                    "/wiki/Santo_Domingo"
+                ],
+                [
+                    {
+                        "entity id": "Q34820",
+                        "label": "Santo Domingo"
+                    }
+                ]
+            ],
+            [
+                "Dominican Republic",
+                [
+                    "/wiki/Dominican_Republic"
+                ],
+                [
+                    {
+                        "entity id": "Q786",
+                        "label": "Dominican Republic"
+                    }
+                ]
+            ],
+            [
+                "Las Am\u00e9ricas International Airport",
+                [
+                    "/wiki/Las_Am\u00e9ricas_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1062676",
+                        "label": "Las Am\u00e9ricas International Airport"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Kralendijk",
+                [
+                    "/wiki/Kralendijk"
+                ],
+                [
+                    {
+                        "entity id": "Q331584",
+                        "label": "Kralendijk"
+                    }
+                ]
+            ],
+            [
+                "Bonaire",
+                [
+                    "/wiki/Bonaire"
+                ],
+                [
+                    {
+                        "entity id": "Q25396",
+                        "label": "Bonaire"
+                    }
+                ]
+            ],
+            [
+                "Flamingo International Airport",
+                [
+                    "/wiki/Flamingo_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1430982",
+                        "label": "Flamingo International Airport"
+                    }
+                ]
+            ],
+            [
+                "Focus City , Suspended",
+                []
+            ]
+        ],
+        [
+            [
+                "Paramaribo",
+                [
+                    "/wiki/Paramaribo"
+                ],
+                [
+                    {
+                        "entity id": "Q3001",
+                        "label": "Paramaribo"
+                    }
+                ]
+            ],
+            [
+                "Suriname",
+                [
+                    "/wiki/Suriname"
+                ],
+                [
+                    {
+                        "entity id": "Q730",
+                        "label": "Suriname"
+                    }
+                ]
+            ],
+            [
+                "Johan Adolf Pengel International Airport",
+                [
+                    "/wiki/Johan_Adolf_Pengel_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q183494",
+                        "label": "Johan Adolf Pengel International Airport"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Philipsburg",
+                [
+                    "/wiki/Philipsburg,_Sint_Maarten"
+                ],
+                [
+                    {
+                        "entity id": "Q30958",
+                        "label": "Philipsburg"
+                    }
+                ]
+            ],
+            [
+                "Sint Maarten",
+                [
+                    "/wiki/Sint_Maarten"
+                ],
+                [
+                    {
+                        "entity id": "Q26273",
+                        "label": "Sint Maarten"
+                    }
+                ]
+            ],
+            [
+                "Princess Juliana International Airport",
+                [
+                    "/wiki/Princess_Juliana_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q723325",
+                        "label": "Princess Juliana International Airport"
+                    }
+                ]
+            ],
+            [
+                "Focus City , Suspended",
+                []
+            ]
+        ],
+        [
+            [
+                "Caracas",
+                [
+                    "/wiki/Caracas"
+                ],
+                [
+                    {
+                        "entity id": "Q1533",
+                        "label": "Caracas"
+                    }
+                ]
+            ],
+            [
+                "Venezuela",
+                [
+                    "/wiki/Venezuela"
+                ],
+                [
+                    {
+                        "entity id": "Q717",
+                        "label": "Venezuela"
+                    }
+                ]
+            ],
+            [
+                "Sim\u00f3n Bol\u00edvar International Airport ( Venezuela )",
+                [
+                    "/wiki/Sim\u00f3n_Bol\u00edvar_International_Airport_(Venezuela)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Suspended",
+                []
+            ]
+        ],
+        [
+            [
+                "Maracaibo",
+                [
+                    "/wiki/Maracaibo"
+                ],
+                [
+                    {
+                        "entity id": "Q171632",
+                        "label": "Maracaibo"
+                    }
+                ]
+            ],
+            [
+                "Venezuela",
+                [
+                    "/wiki/Venezuela"
+                ],
+                [
+                    {
+                        "entity id": "Q717",
+                        "label": "Venezuela"
+                    }
+                ]
+            ],
+            [
+                "La Chinita International Airport",
+                [
+                    "/wiki/La_Chinita_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1335087",
+                        "label": "La Chinita International Airport"
+                    }
+                ]
+            ],
+            [
+                "Suspended",
+                []
+            ]
+        ],
+        [
+            [
+                "Valencia",
+                [
+                    "/wiki/Valencia,_Carabobo"
+                ],
+                [
+                    {
+                        "entity id": "Q54880",
+                        "label": "Valencia"
+                    }
+                ]
+            ],
+            [
+                "Venezuela",
+                [
+                    "/wiki/Venezuela"
+                ],
+                [
+                    {
+                        "entity id": "Q717",
+                        "label": "Venezuela"
+                    }
+                ]
+            ],
+            [
+                "Arturo Michelena International Airport",
+                [
+                    "/wiki/Arturo_Michelena_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2231898",
+                        "label": "Arturo Michelena International Airport"
+                    }
+                ]
+            ],
+            [
+                "Suspended",
+                []
+            ]
+        ],
+        [
+            [
+                "Port-au-Prince",
+                [
+                    "/wiki/Port-au-Prince"
+                ],
+                [
+                    {
+                        "entity id": "Q34261",
+                        "label": "Port-au-Prince"
+                    }
+                ]
+            ],
+            [
+                "Haiti",
+                [
+                    "/wiki/Haiti"
+                ],
+                [
+                    {
+                        "entity id": "Q790",
+                        "label": "Haiti"
+                    }
+                ]
+            ],
+            [
+                "Toussaint Louverture International Airport",
+                [
+                    "/wiki/Toussaint_Louverture_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q794560",
+                        "label": "Toussaint Louverture International Airport"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Bogot\u00e1",
+                [
+                    "/wiki/Bogot\u00e1"
+                ],
+                [
+                    {
+                        "entity id": "Q2841",
+                        "label": "Bogot\u00e1"
+                    }
+                ]
+            ],
+            [
+                "Colombia",
+                [
+                    "/wiki/Colombia"
+                ],
+                [
+                    {
+                        "entity id": "Q739",
+                        "label": "Colombia"
+                    }
+                ]
+            ],
+            [
+                "El Dorado International Airport",
+                [
+                    "/wiki/El_Dorado_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q201785",
+                        "label": "El Dorado International Airport"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ]
+    ],
+    "section_title": "",
+    "section_text": "",
+    "uid": "Dutch_Antilles_Express_0",
+    "intro": "Dutch Antilles Express was an airline of the Dutch country of Cura\u00e7ao. It operated high-frequency scheduled services in the Dutch Caribbean to United States, Dominican Republic, Colombia, Haiti, and Suriname. Its main base was at Hato International Airport, Cura\u00e7ao. Due to an escalating debt from poor market conditions, the government of Cura\u00e7ao stepped in on May 31, 2011, to keep the airline in the air. The airline has been purchased from Arnold Leonora by the Cura\u00e7ao government for a cash injection sum of two injections of 1.5m Guilders (approx US$838,000 each). In August 2013, the company's management and employees approached the Curacao government through various departments for a new loan of 5m Guilders (approx. US$2.8 million) to, among other items, pay employee salaries outstanding from July 2013. The appeal for the loan was denied by the Curacao Parliament on August 16, 2013. The Court of First Instance of Cura\u00e7ao declared the local airline Dutch Antilles Express (DAE) bankrupt on August 30, 2013. At the time of its bankruptcy, the airline operated two aircraft Fokker 100, one ATR-42, one ATR-72 and three McDonnell Douglas MD-83 wet-leased from Falcon Air Express. There were plans to eventually replace the Fokker 100s with newer A319-100s and A320-200s."
+}

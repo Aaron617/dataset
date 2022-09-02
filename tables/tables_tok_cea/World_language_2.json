@@ -1,0 +1,535 @@
+{
+    "url": "https://en.wikipedia.org/wiki/World_language",
+    "title": "World language",
+    "header": [
+        [
+            "Language",
+            []
+        ],
+        [
+            "Native speakers",
+            []
+        ],
+        [
+            "Total speakers",
+            []
+        ],
+        [
+            "Official status distribution",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Hindustani ( Hindi Belt , Urdu )",
+                [
+                    "/wiki/Hindustani_language",
+                    "/wiki/Hindi_Belt",
+                    "/wiki/Urdu"
+                ],
+                [
+                    {
+                        "entity id": "Q11051",
+                        "label": "Hindustani"
+                    },
+                    {
+                        "entity id": "Q3522980",
+                        "label": "Madhyadesh"
+                    },
+                    {
+                        "entity id": "Q1617",
+                        "label": "Urdu"
+                    }
+                ]
+            ],
+            [
+                "329 M ( 260M Hindi , 69 Urdu )",
+                []
+            ],
+            [
+                "697 M ( 534M Hindi , 163 Urdu )",
+                []
+            ],
+            [
+                "Official language in : India ( Hindi & Urdu ) , Pakistan ( Urdu ) & Fiji ( Fiji Hindi ) Recognised as minority language in : Mauritius ( Hindi ) and Surinam ( Sarnami Hindustani ) Widely spoken and understood in the Gulf Emirates",
+                [
+                    "/wiki/India",
+                    "/wiki/Hindi",
+                    "/wiki/Urdu",
+                    "/wiki/Pakistan",
+                    "/wiki/Urdu",
+                    "/wiki/Fiji",
+                    "/wiki/Fiji_Hindi",
+                    "/wiki/Mauritius",
+                    "/wiki/Hindi",
+                    "/wiki/Surinam",
+                    "/wiki/Caribbean_Hindustani"
+                ],
+                [
+                    {
+                        "entity id": "Q668",
+                        "label": "India"
+                    },
+                    {
+                        "entity id": "Q1568",
+                        "label": "Hindi"
+                    },
+                    {
+                        "entity id": "Q1617",
+                        "label": "Urdu"
+                    },
+                    {
+                        "entity id": "Q843",
+                        "label": "Pakistan"
+                    },
+                    {
+                        "entity id": "Q1617",
+                        "label": "Urdu"
+                    },
+                    {
+                        "entity id": "Q712",
+                        "label": "Fiji"
+                    },
+                    {
+                        "entity id": "Q46728",
+                        "label": "Fiji Hindi"
+                    },
+                    {
+                        "entity id": "Q1027",
+                        "label": "Mauritius"
+                    },
+                    {
+                        "entity id": "Q1568",
+                        "label": "Hindi"
+                    },
+                    {
+                        "entity id": "Q730",
+                        "label": "Suriname"
+                    },
+                    {
+                        "entity id": "Q1843468",
+                        "label": "Caribbean Hindustani"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dutch and Afrikaans",
+                [
+                    "/wiki/Dutch_language",
+                    "/wiki/Afrikaans"
+                ],
+                [
+                    {
+                        "entity id": "Q7411",
+                        "label": "Dutch"
+                    },
+                    {
+                        "entity id": "Q14196",
+                        "label": "Afrikaans"
+                    }
+                ]
+            ],
+            [
+                "29 M",
+                []
+            ],
+            [
+                "30 M",
+                []
+            ],
+            [
+                "List of territorial entities where Afrikaans and Dutch are official languages",
+                [
+                    "/wiki/List_of_territorial_entities_where_Afrikaans_and_Dutch_are_official_languages"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Bengali",
+                [
+                    "/wiki/Bengali_language"
+                ],
+                [
+                    {
+                        "entity id": "Q9610",
+                        "label": "Bengali"
+                    }
+                ]
+            ],
+            [
+                "243 M",
+                []
+            ],
+            [
+                "262 M",
+                []
+            ],
+            [
+                "Official language in : India ( in West Bengal , Tripura and Assam ) and Bangladesh",
+                [
+                    "/wiki/India",
+                    "/wiki/West_Bengal",
+                    "/wiki/Tripura",
+                    "/wiki/Assam",
+                    "/wiki/Bangladesh"
+                ],
+                [
+                    {
+                        "entity id": "Q668",
+                        "label": "India"
+                    },
+                    {
+                        "entity id": "Q1356",
+                        "label": "West Bengal"
+                    },
+                    {
+                        "entity id": "Q1363",
+                        "label": "Tripura"
+                    },
+                    {
+                        "entity id": "Q1164",
+                        "label": "Assam"
+                    },
+                    {
+                        "entity id": "Q902",
+                        "label": "Bangladesh"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Malay and Indonesian",
+                [
+                    "/wiki/Malay_language",
+                    "/wiki/Indonesian_language"
+                ],
+                [
+                    {
+                        "entity id": "Q9237",
+                        "label": "Malay"
+                    },
+                    {
+                        "entity id": "Q9240",
+                        "label": "Indonesian"
+                    }
+                ]
+            ],
+            [
+                "39 M",
+                []
+            ],
+            [
+                "218 M",
+                []
+            ],
+            [
+                "List of territorial entities where Malay is an official language",
+                [
+                    "/wiki/List_of_territorial_entities_where_Malay_is_an_official_language"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Swahili",
+                [
+                    "/wiki/Swahili_language"
+                ],
+                [
+                    {
+                        "entity id": "Q7838",
+                        "label": "Swahili"
+                    }
+                ]
+            ],
+            [
+                "16 M",
+                []
+            ],
+            [
+                "98 M",
+                []
+            ],
+            [
+                "Official language in : Tanzania , Kenya , Democratic Republic of the Congo , Rwanda , Uganda , African Union and East African Community",
+                [
+                    "/wiki/Tanzania",
+                    "/wiki/Kenya",
+                    "/wiki/Democratic_Republic_of_the_Congo",
+                    "/wiki/Rwanda",
+                    "/wiki/Uganda",
+                    "/wiki/African_Union",
+                    "/wiki/East_African_Community"
+                ],
+                [
+                    {
+                        "entity id": "Q924",
+                        "label": "Tanzania"
+                    },
+                    {
+                        "entity id": "Q114",
+                        "label": "Kenya"
+                    },
+                    {
+                        "entity id": "Q974",
+                        "label": "Democratic Republic of the Congo"
+                    },
+                    {
+                        "entity id": "Q1037",
+                        "label": "Rwanda"
+                    },
+                    {
+                        "entity id": "Q1036",
+                        "label": "Uganda"
+                    },
+                    {
+                        "entity id": "Q7159",
+                        "label": "African Union"
+                    },
+                    {
+                        "entity id": "Q337456",
+                        "label": "East African Community"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Persian",
+                [
+                    "/wiki/Persian_language"
+                ],
+                [
+                    {
+                        "entity id": "Q9168",
+                        "label": "Persian"
+                    }
+                ]
+            ],
+            [
+                "58 to 60 M",
+                []
+            ],
+            [
+                "61 M to 110 M",
+                []
+            ],
+            [
+                "Official language in : Iran , Afghanistan ( as Dari ) and Tajikistan ( as Tajik )",
+                [
+                    "/wiki/Iran",
+                    "/wiki/Afghanistan",
+                    "/wiki/Dari_language",
+                    "/wiki/Tajikistan",
+                    "/wiki/Tajik_language"
+                ],
+                [
+                    {
+                        "entity id": "Q794",
+                        "label": "Iran"
+                    },
+                    {
+                        "entity id": "Q889",
+                        "label": "Afghanistan"
+                    },
+                    {
+                        "entity id": "Q178440",
+                        "label": "Dari"
+                    },
+                    {
+                        "entity id": "Q863",
+                        "label": "Tajikistan"
+                    },
+                    {
+                        "entity id": "Q9260",
+                        "label": "Tajik"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Turkish",
+                [
+                    "/wiki/Turkish_language"
+                ],
+                [
+                    {
+                        "entity id": "Q256",
+                        "label": "Turkish"
+                    }
+                ]
+            ],
+            [
+                "74 M",
+                []
+            ],
+            [
+                "79 M to 100 M",
+                []
+            ],
+            [
+                "Official language in : Turkey , Cyprus , Northern Cyprus Recognized minority language in : Bosnia and Herzegovina , Macedonia , Romania , Iraq , Greece , Republic of Kosovo",
+                [
+                    "/wiki/Turkey",
+                    "/wiki/Cyprus",
+                    "/wiki/Northern_Cyprus",
+                    "/wiki/Bosnia_and_Herzegovina",
+                    "/wiki/Republic_of_Macedonia",
+                    "/wiki/Romania",
+                    "/wiki/Iraq",
+                    "/wiki/Greece",
+                    "/wiki/Republic_of_Kosovo"
+                ],
+                [
+                    {
+                        "entity id": "Q43",
+                        "label": "Turkey"
+                    },
+                    {
+                        "entity id": "Q229",
+                        "label": "Cyprus"
+                    },
+                    {
+                        "entity id": "Q23681",
+                        "label": "Turkish Republic of Northern Cyprus"
+                    },
+                    {
+                        "entity id": "Q225",
+                        "label": "Bosnia and Herzegovina"
+                    },
+                    {
+                        "entity id": "Q221",
+                        "label": "North Macedonia"
+                    },
+                    {
+                        "entity id": "Q218",
+                        "label": "Romania"
+                    },
+                    {
+                        "entity id": "Q796",
+                        "label": "Iraq"
+                    },
+                    {
+                        "entity id": "Q41",
+                        "label": "Greece"
+                    },
+                    {
+                        "entity id": "Q1246",
+                        "label": "Kosovo"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Italian",
+                [
+                    "/wiki/Italian_language"
+                ],
+                [
+                    {
+                        "entity id": "Q652",
+                        "label": "Italian"
+                    }
+                ]
+            ],
+            [
+                "65 M",
+                []
+            ],
+            [
+                "68 M to 85 M",
+                []
+            ],
+            [
+                "Official language in : Italy , Switzerland , San Marino , Sovereign Military Order of Malta , Vatican City . Italian is relevant in countries affected by the Italian diaspora and in former colonies and occupied territories of the Italian Empire",
+                [
+                    "/wiki/Italy",
+                    "/wiki/Switzerland",
+                    "/wiki/San_Marino",
+                    "/wiki/Sovereign_Military_Order_of_Malta",
+                    "/wiki/Vatican_City",
+                    "/wiki/Italian_diaspora",
+                    "/wiki/Italian_Empire"
+                ],
+                [
+                    {
+                        "entity id": "Q38",
+                        "label": "Italy"
+                    },
+                    {
+                        "entity id": "Q39",
+                        "label": "Switzerland"
+                    },
+                    {
+                        "entity id": "Q238",
+                        "label": "San Marino"
+                    },
+                    {
+                        "entity id": "Q190353",
+                        "label": "Sovereign Military Order of Malta"
+                    },
+                    {
+                        "entity id": "Q237",
+                        "label": "Vatican City"
+                    },
+                    {
+                        "entity id": "Q1675084",
+                        "label": "Italian diaspora"
+                    },
+                    {
+                        "entity id": "Q926295",
+                        "label": "Italian Empire"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Tamil",
+                [
+                    "/wiki/Tamil_language"
+                ],
+                [
+                    {
+                        "entity id": "Q5885",
+                        "label": "Tamil"
+                    }
+                ]
+            ],
+            [
+                "68 M",
+                []
+            ],
+            [
+                "75 M",
+                []
+            ],
+            [
+                "List of territorial entities where Tamil is an official language",
+                [
+                    "/wiki/List_of_territorial_entities_where_Tamil_is_an_official_language"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Other supra-regional languages",
+    "section_text": "This section possibly contains original research . Please improve it by verifying the claims made and adding inline citations . Statements consisting only of original research should be removed . ( June 2017 ) ( Learn how and when to remove this template message ) Further information : Lingua franca Other languages of supra-regional importance which fail some of the other criteria to be considered de facto world languages include :",
+    "uid": "World_language_2",
+    "intro": "A world language is one that is spoken internationally and learned and spoken by numerous people as a second language. A world language is characterized not only by the total number of speakers (native and second language speakers) but also by geographical distribution and its use in international organizations and diplomatic relations. The most widely spoken (and likely the fastest spreading) world language today is English, with over 1.1 billion native and second-language users worldwide. On similar grounds, French and Spanish are also commonly categorized as world languages. Other possible world languages include Arabic, Mandarin Chinese, Russian and Portuguese. Historically, Egyptian, Ancient Greek, Latin, Classical Chinese, Persian, Sanskrit, and Classical Arabic have also functioned as world languages due to their previous standings as lingua francas over large parts of the world."
+}

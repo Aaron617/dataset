@@ -1,0 +1,770 @@
+{
+    "url": "https://en.wikipedia.org/wiki/SW_postcode_area",
+    "title": "SW postcode area",
+    "header": [
+        [
+            "Postcode district",
+            []
+        ],
+        [
+            "Post town",
+            [
+                "/wiki/Post_town"
+            ],
+            [
+                {
+                    "entity id": "Q1968403",
+                    "label": "post town"
+                }
+            ]
+        ],
+        [
+            "Coverage",
+            []
+        ],
+        [
+            "Local authority area",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "SW1A",
+                []
+            ],
+            [
+                "LONDON",
+                []
+            ],
+            [
+                "Whitehall , Buckingham Palace , the Houses of Parliament and west of St James 's",
+                [
+                    "/wiki/Whitehall",
+                    "/wiki/Buckingham_Palace",
+                    "/wiki/Houses_of_Parliament",
+                    "/wiki/St_James's"
+                ],
+                [
+                    {
+                        "entity id": "Q214820",
+                        "label": "Whitehall"
+                    },
+                    {
+                        "entity id": "Q42182",
+                        "label": "Buckingham Palace"
+                    },
+                    {
+                        "entity id": "Q62408",
+                        "label": "Palace of Westminster"
+                    },
+                    {
+                        "entity id": "Q124234",
+                        "label": "St James\u2019s"
+                    }
+                ]
+            ],
+            [
+                "Westminster",
+                [
+                    "/wiki/City_of_Westminster"
+                ],
+                [
+                    {
+                        "entity id": "Q179351",
+                        "label": "City of Westminster"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SW1E",
+                []
+            ],
+            [
+                "LONDON",
+                []
+            ],
+            [
+                "Northern 'Victoria ' around Buckingham Gate ( a street ) to include both sides of part of Victoria Street",
+                [
+                    "/wiki/Buckingham_Gate",
+                    "/wiki/Victoria_Street,_London"
+                ],
+                [
+                    {
+                        "entity id": "Q4983212",
+                        "label": "Buckingham Gate"
+                    },
+                    {
+                        "entity id": "Q65969902",
+                        "label": "Victoria Street"
+                    }
+                ]
+            ],
+            [
+                "Westminster",
+                []
+            ]
+        ],
+        [
+            [
+                "SW1H",
+                []
+            ],
+            [
+                "LONDON",
+                []
+            ],
+            [
+                "Surrounds of St James 's Park tube station centred on Broadway , Queen Anne 's Gate and Old Queen Street to include both sides of part of Victoria Street - derivation : Horse Guards Parade",
+                [
+                    "/wiki/Horse_Guards_Parade"
+                ],
+                [
+                    {
+                        "entity id": "Q1254964",
+                        "label": "Horse Guards Parade"
+                    }
+                ]
+            ],
+            [
+                "Westminster",
+                []
+            ]
+        ],
+        [
+            [
+                "SW1P",
+                []
+            ],
+            [
+                "LONDON",
+                []
+            ],
+            [
+                "A projection around Parliament Square . Nearby Westminster School to Westminster Cathedral to CCAL , University of the Arts , London ( omitting all backstreets nearest to Vauxhall Bridge Road ) - derivation : Parliament Square",
+                [
+                    "/wiki/University_of_the_Arts,_London",
+                    "/wiki/Vauxhall_Bridge_Road"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q63319939",
+                        "label": "Vauxhall Bridge Road"
+                    }
+                ]
+            ],
+            [
+                "Westminster",
+                []
+            ]
+        ],
+        [
+            [
+                "SW1V",
+                []
+            ],
+            [
+                "LONDON",
+                []
+            ],
+            [
+                "between Vauxhall Bridge , Grosvenor ( or Victoria Railway ) Bridge and Victoria Station , taking in both sides of Vauxhall Bridge Road ; includes Pimlico",
+                [
+                    "/wiki/Vauxhall_Bridge",
+                    "/wiki/Grosvenor_Bridge"
+                ],
+                [
+                    {
+                        "entity id": "Q1142134",
+                        "label": "Vauxhall Bridge"
+                    },
+                    {
+                        "entity id": "Q693731",
+                        "label": "Grosvenor Bridge"
+                    }
+                ]
+            ],
+            [
+                "Westminster",
+                []
+            ]
+        ],
+        [
+            [
+                "SW1W",
+                []
+            ],
+            [
+                "LONDON",
+                []
+            ],
+            [
+                "South or lower Belgravia and Chelsea ( a corner ) , from Sloane Square to Victoria Station to Grosvenor Waterside basin",
+                [
+                    "/wiki/Belgravia",
+                    "/wiki/Chelsea,_London",
+                    "/wiki/Sloane_Square"
+                ],
+                [
+                    {
+                        "entity id": "Q123024",
+                        "label": "Belgravia"
+                    },
+                    {
+                        "entity id": "Q743535",
+                        "label": "Chelsea"
+                    },
+                    {
+                        "entity id": "Q2032089",
+                        "label": "Sloane Square"
+                    }
+                ]
+            ],
+            [
+                "Westminster , Kensington and Chelsea",
+                [
+                    "/wiki/Royal_Borough_of_Kensington_and_Chelsea"
+                ],
+                [
+                    {
+                        "entity id": "Q188801",
+                        "label": "Royal Borough of Kensington and Chelsea"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SW1X",
+                []
+            ],
+            [
+                "LONDON",
+                []
+            ],
+            [
+                "Rest of Belgravia ( north of Eaton Square ) , Knightsbridge ( eastern half ) and Chelsea ( a corner )",
+                [
+                    "/wiki/Belgravia",
+                    "/wiki/Eaton_Square",
+                    "/wiki/Knightsbridge",
+                    "/wiki/Chelsea,_London"
+                ],
+                [
+                    {
+                        "entity id": "Q123024",
+                        "label": "Belgravia"
+                    },
+                    {
+                        "entity id": "Q5192677",
+                        "label": "Eaton Square"
+                    },
+                    {
+                        "entity id": "Q26328",
+                        "label": "Knightsbridge"
+                    },
+                    {
+                        "entity id": "Q743535",
+                        "label": "Chelsea"
+                    }
+                ]
+            ],
+            [
+                "Westminster , Kensington and Chelsea",
+                []
+            ]
+        ],
+        [
+            [
+                "SW1Y",
+                []
+            ],
+            [
+                "LONDON",
+                []
+            ],
+            [
+                "All but the west of St James 's",
+                [
+                    "/wiki/St_James's"
+                ],
+                [
+                    {
+                        "entity id": "Q124234",
+                        "label": "St James\u2019s"
+                    }
+                ]
+            ],
+            [
+                "Westminster",
+                []
+            ]
+        ],
+        [
+            [
+                "SW2",
+                []
+            ],
+            [
+                "LONDON",
+                []
+            ],
+            [
+                "Brixton district : Brixton Hill , Tulse Hill ( part ) , Brixton ( part ) , Streatham Hill , Clapham ( part ) , Eastern parts of Balham , Lambeth",
+                [
+                    "/wiki/Brixton_Hill",
+                    "/wiki/Tulse_Hill",
+                    "/wiki/Brixton",
+                    "/wiki/Streatham_Hill",
+                    "/wiki/Clapham",
+                    "/wiki/Balham",
+                    "/wiki/Lambeth"
+                ],
+                [
+                    {
+                        "entity id": "Q4971717",
+                        "label": "Brixton Hill"
+                    },
+                    {
+                        "entity id": "Q146843",
+                        "label": "Tulse Hill"
+                    },
+                    {
+                        "entity id": "Q146690",
+                        "label": "Brixton"
+                    },
+                    {
+                        "entity id": "Q7622733",
+                        "label": "Streatham Hill"
+                    },
+                    {
+                        "entity id": "Q146659",
+                        "label": "Clapham"
+                    },
+                    {
+                        "entity id": "Q804946",
+                        "label": "Balham"
+                    },
+                    {
+                        "entity id": "Q202059",
+                        "label": "London Borough of Lambeth"
+                    }
+                ]
+            ],
+            [
+                "Lambeth",
+                [
+                    "/wiki/London_Borough_of_Lambeth"
+                ],
+                [
+                    {
+                        "entity id": "Q202059",
+                        "label": "London Borough of Lambeth"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SW3",
+                []
+            ],
+            [
+                "LONDON",
+                []
+            ],
+            [
+                "Chelsea district : Chelsea , Brompton , Knightsbridge ( part )",
+                [
+                    "/wiki/Chelsea,_London",
+                    "/wiki/Brompton,_Kensington",
+                    "/wiki/Knightsbridge"
+                ],
+                [
+                    {
+                        "entity id": "Q743535",
+                        "label": "Chelsea"
+                    },
+                    {
+                        "entity id": "Q2926028",
+                        "label": "Brompton"
+                    },
+                    {
+                        "entity id": "Q26328",
+                        "label": "Knightsbridge"
+                    }
+                ]
+            ],
+            [
+                "Kensington and Chelsea",
+                []
+            ]
+        ],
+        [
+            [
+                "SW4",
+                []
+            ],
+            [
+                "LONDON",
+                []
+            ],
+            [
+                "Clapham district : Clapham , Stockwell ( part )",
+                [
+                    "/wiki/Clapham",
+                    "/wiki/Stockwell"
+                ],
+                [
+                    {
+                        "entity id": "Q146659",
+                        "label": "Clapham"
+                    },
+                    {
+                        "entity id": "Q146891",
+                        "label": "Stockwell"
+                    }
+                ]
+            ],
+            [
+                "Lambeth , Wandsworth",
+                [
+                    "/wiki/London_Borough_of_Wandsworth"
+                ],
+                [
+                    {
+                        "entity id": "Q210563",
+                        "label": "London Borough of Wandsworth"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SW5",
+                []
+            ],
+            [
+                "LONDON",
+                []
+            ],
+            [
+                "Earls Court district : Earls Court",
+                [
+                    "/wiki/Earls_Court"
+                ],
+                [
+                    {
+                        "entity id": "Q597906",
+                        "label": "Earl's Court"
+                    }
+                ]
+            ],
+            [
+                "Kensington and Chelsea",
+                []
+            ]
+        ],
+        [
+            [
+                "SW6",
+                []
+            ],
+            [
+                "LONDON",
+                []
+            ],
+            [
+                "Fulham district : Fulham , Parsons Green",
+                [
+                    "/wiki/Fulham",
+                    "/wiki/Parsons_Green"
+                ],
+                [
+                    {
+                        "entity id": "Q18708",
+                        "label": "Fulham F.C."
+                    },
+                    {
+                        "entity id": "Q2292222",
+                        "label": "Parsons Green"
+                    }
+                ]
+            ],
+            [
+                "Hammersmith and Fulham",
+                [
+                    "/wiki/London_Borough_of_Hammersmith_and_Fulham"
+                ],
+                [
+                    {
+                        "entity id": "Q40478",
+                        "label": "London Borough of Hammersmith and Fulham"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SW7",
+                []
+            ],
+            [
+                "LONDON",
+                []
+            ],
+            [
+                "South Kensington district : South Kensington , Knightsbridge ( part )",
+                [
+                    "/wiki/South_Kensington",
+                    "/wiki/Knightsbridge"
+                ],
+                [
+                    {
+                        "entity id": "Q1045096",
+                        "label": "South Kensington"
+                    },
+                    {
+                        "entity id": "Q26328",
+                        "label": "Knightsbridge"
+                    }
+                ]
+            ],
+            [
+                "Kensington and Chelsea , Westminster",
+                []
+            ]
+        ],
+        [
+            [
+                "SW8",
+                []
+            ],
+            [
+                "LONDON",
+                []
+            ],
+            [
+                "South Lambeth district : South Lambeth , Wandsworth Road , Vauxhall , Battersea : Nine Elms ( part ) , Clapham ( part ) , NW area of Stockwell , Oval ( part )",
+                [
+                    "/wiki/South_Lambeth",
+                    "/wiki/Vauxhall",
+                    "/wiki/Battersea",
+                    "/wiki/Nine_Elms",
+                    "/wiki/Clapham",
+                    "/wiki/Stockwell",
+                    "/wiki/Oval_(ward)"
+                ],
+                [
+                    {
+                        "entity id": "Q91920467",
+                        "label": "South Lambeth Estate"
+                    },
+                    {
+                        "entity id": "Q59187",
+                        "label": "Vauxhall"
+                    },
+                    {
+                        "entity id": "Q1138912",
+                        "label": "Battersea"
+                    },
+                    {
+                        "entity id": "Q3092362",
+                        "label": "Nine Elms"
+                    },
+                    {
+                        "entity id": "Q146659",
+                        "label": "Clapham"
+                    },
+                    {
+                        "entity id": "Q146891",
+                        "label": "Stockwell"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Lambeth , Wandsworth",
+                []
+            ]
+        ],
+        [
+            [
+                "SW9",
+                []
+            ],
+            [
+                "LONDON",
+                []
+            ],
+            [
+                "Stockwell district : Brixton , Stockwell , Clapham ( part ) , Oval ( part )",
+                [
+                    "/wiki/Brixton",
+                    "/wiki/Stockwell",
+                    "/wiki/Clapham",
+                    "/wiki/Oval_(ward)"
+                ],
+                [
+                    {
+                        "entity id": "Q146690",
+                        "label": "Brixton"
+                    },
+                    {
+                        "entity id": "Q146891",
+                        "label": "Stockwell"
+                    },
+                    {
+                        "entity id": "Q146659",
+                        "label": "Clapham"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Lambeth",
+                []
+            ]
+        ],
+        [
+            [
+                "SW10",
+                []
+            ],
+            [
+                "LONDON",
+                []
+            ],
+            [
+                "West Brompton district : West Brompton , Chelsea ( part )",
+                [
+                    "/wiki/West_Brompton",
+                    "/wiki/Chelsea,_London"
+                ],
+                [
+                    {
+                        "entity id": "Q256382",
+                        "label": "West Brompton"
+                    },
+                    {
+                        "entity id": "Q743535",
+                        "label": "Chelsea"
+                    }
+                ]
+            ],
+            [
+                "Kensington and Chelsea , Hammersmith and Fulham",
+                []
+            ]
+        ],
+        [
+            [
+                "SW11",
+                []
+            ],
+            [
+                "LONDON",
+                []
+            ],
+            [
+                "Battersea head district : Battersea , Clapham South",
+                [
+                    "/wiki/Battersea",
+                    "/wiki/Clapham_South"
+                ],
+                [
+                    {
+                        "entity id": "Q1138912",
+                        "label": "Battersea"
+                    },
+                    {
+                        "entity id": "Q1095083",
+                        "label": "Clapham South tube station"
+                    }
+                ]
+            ],
+            [
+                "Wandsworth , Lambeth",
+                []
+            ]
+        ],
+        [
+            [
+                "SW12",
+                []
+            ],
+            [
+                "LONDON",
+                []
+            ],
+            [
+                "Balham district : Balham , Clapham South , Wandsworth Common ( part )",
+                [
+                    "/wiki/Balham",
+                    "/wiki/Clapham_South",
+                    "/wiki/Wandsworth_Common"
+                ],
+                [
+                    {
+                        "entity id": "Q804946",
+                        "label": "Balham"
+                    },
+                    {
+                        "entity id": "Q1095083",
+                        "label": "Clapham South tube station"
+                    },
+                    {
+                        "entity id": "Q7967303",
+                        "label": "Wandsworth Common"
+                    }
+                ]
+            ],
+            [
+                "Wandsworth , Lambeth",
+                []
+            ]
+        ],
+        [
+            [
+                "SW13",
+                []
+            ],
+            [
+                "LONDON",
+                []
+            ],
+            [
+                "Barnes district : Barnes",
+                [
+                    "/wiki/Barnes,_London"
+                ],
+                [
+                    {
+                        "entity id": "Q668140",
+                        "label": "Barnes"
+                    }
+                ]
+            ],
+            [
+                "Richmond upon Thames",
+                [
+                    "/wiki/London_Borough_of_Richmond_upon_Thames"
+                ],
+                [
+                    {
+                        "entity id": "Q32515",
+                        "label": "London Borough of Richmond upon Thames"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Postal administration -- List of postcode districts",
+    "section_text": "The approximate coverage of the postcode districts , with the historic postal district names shown in italics : [ 5 ]",
+    "uid": "SW_postcode_area_0",
+    "intro": "The SW (South Western) postcode area, also known as the London SW postcode area, is a group of postcode districts covering a broad radial swathe of southwest London, England as far as Mortlake, Streatham and Raynes Park. The area straightforwardly succeeds a shorter-lived South Western (SW1-SW10) and Battersea (SW11-SW20) split between its components of the London post town."
+}

@@ -1,0 +1,768 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Silicon_Wadi",
+    "title": "Silicon Wadi",
+    "header": [
+        [
+            "Company",
+            []
+        ],
+        [
+            "Year established in Israel",
+            []
+        ],
+        [
+            "No of employees in Israel",
+            []
+        ],
+        [
+            "Major acquisitions in Israel",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "IBM",
+                [
+                    "/wiki/IBM"
+                ],
+                [
+                    {
+                        "entity id": "Q37156",
+                        "label": "IBM"
+                    }
+                ]
+            ],
+            [
+                "1949",
+                []
+            ],
+            [
+                "2,000",
+                []
+            ],
+            [
+                "Ubique , I-Logix , XIV , Guardium , Diligent Technologies , Storwize , Worklight , Trusteer , EZSource Cloudigo",
+                [
+                    "/wiki/Ubique_(company)",
+                    "/wiki/I-Logix",
+                    "/wiki/IBM_XIV_Storage_System",
+                    "/wiki/IBM_Storwize_family",
+                    "/wiki/Trusteer"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q17063215",
+                        "label": "I-Logix"
+                    },
+                    {
+                        "entity id": "Q5969159",
+                        "label": "IBM XIV Storage System"
+                    },
+                    {},
+                    {
+                        "entity id": "Q7848207",
+                        "label": "Trusteer"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Motorola",
+                [
+                    "/wiki/Motorola"
+                ],
+                [
+                    {
+                        "entity id": "Q259011",
+                        "label": "Motorola"
+                    }
+                ]
+            ],
+            [
+                "1964",
+                []
+            ],
+            [
+                "1,500",
+                []
+            ],
+            [
+                "Terayon , Bitband",
+                [
+                    "/wiki/Terayon"
+                ],
+                [
+                    {
+                        "entity id": "Q7701648",
+                        "label": "Terayon"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Intel",
+                [
+                    "/wiki/Intel"
+                ],
+                [
+                    {
+                        "entity id": "Q248",
+                        "label": "Intel"
+                    }
+                ]
+            ],
+            [
+                "1974",
+                []
+            ],
+            [
+                "9,200",
+                []
+            ],
+            [
+                "DSPC Envara , Comsys , InVision Biometrics , Telmap Mobileye",
+                [
+                    "/wiki/Mobileye"
+                ],
+                [
+                    {
+                        "entity id": "Q2901365",
+                        "label": "Mobileye"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Microsoft",
+                [
+                    "/wiki/Microsoft"
+                ],
+                [
+                    {
+                        "entity id": "Q2283",
+                        "label": "Microsoft"
+                    }
+                ]
+            ],
+            [
+                "1989",
+                []
+            ],
+            [
+                "750",
+                []
+            ],
+            [
+                "Maximal , Peach Networks , Whale Communications , Gteko , YaData , 3DV Systems Secure Islands",
+                [
+                    "/wiki/Whale_Communications",
+                    "/wiki/ZCam",
+                    "/wiki/Secure_Islands"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q17091048",
+                        "label": "ZCam"
+                    },
+                    {
+                        "entity id": "Q21463504",
+                        "label": "Secure Islands"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Applied Materials",
+                [
+                    "/wiki/Applied_Materials"
+                ],
+                [
+                    {
+                        "entity id": "Q621610",
+                        "label": "Applied Materials"
+                    }
+                ]
+            ],
+            [
+                "1991",
+                []
+            ],
+            [
+                "1,200",
+                []
+            ],
+            [
+                "Orbot Instruments , Opal Technologies , Oramir Semiconductor",
+                [
+                    "/wiki/Oramir"
+                ],
+                [
+                    {
+                        "entity id": "Q7099426",
+                        "label": "Oramir"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Qualcomm",
+                [
+                    "/wiki/Qualcomm"
+                ],
+                [
+                    {
+                        "entity id": "Q544847",
+                        "label": "Qualcomm Inc."
+                    }
+                ]
+            ],
+            [
+                "1993",
+                []
+            ],
+            [
+                "450",
+                []
+            ],
+            [
+                "EPOS ( ultrasound positioning ) , DesignArt Networks ( femtocell ) , iSkoot , Wilocity ( WiGig ) , CSR / Zoran Israel imaging unit ; also invested in multiple Israeli startups via Qualcomm Ventures",
+                [
+                    "/wiki/Femtocell",
+                    "/wiki/Wilocity",
+                    "/wiki/WiGig",
+                    "/wiki/CSR_plc",
+                    "/wiki/Zoran_Corporation",
+                    "/wiki/Qualcomm_Ventures"
+                ],
+                [
+                    {
+                        "entity id": "Q572455",
+                        "label": "Femtocell"
+                    },
+                    {
+                        "entity id": "Q8022867",
+                        "label": "Wilocity"
+                    },
+                    {
+                        "entity id": "Q59325959",
+                        "label": "WiGig"
+                    },
+                    {
+                        "entity id": "Q5014255",
+                        "label": "CSR plc"
+                    },
+                    {
+                        "entity id": "Q220485",
+                        "label": "Zoran Corporation"
+                    },
+                    {
+                        "entity id": "Q18389853",
+                        "label": "Qualcomm Ventures"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Cisco Systems",
+                [
+                    "/wiki/Cisco_Systems"
+                ],
+                [
+                    {
+                        "entity id": "Q173395",
+                        "label": "Cisco Systems"
+                    }
+                ]
+            ],
+            [
+                "1997",
+                []
+            ],
+            [
+                "1,500",
+                []
+            ],
+            [
+                "CLASS Data Systems , HyNEX , Seagull Semiconductor , PentaCom , P-Cube , Riverhead Networks , Intucell , Sheer Networks , NDS Group",
+                [
+                    "/wiki/CLASS_Data_Systems",
+                    "/wiki/HyNEX",
+                    "/wiki/Seagull_Semiconductor",
+                    "/wiki/PentaCom",
+                    "/wiki/P-Cube",
+                    "/wiki/Riverhead_Networks",
+                    "/wiki/NDS_Group"
+                ],
+                [
+                    {},
+                    {},
+                    {},
+                    {
+                        "entity id": "Q5233025",
+                        "label": "Pentacomia"
+                    },
+                    {
+                        "entity id": "Q7116891",
+                        "label": "P-Cube"
+                    },
+                    {
+                        "entity id": "Q7338217",
+                        "label": "Riverhead Networks"
+                    },
+                    {
+                        "entity id": "Q961065",
+                        "label": "NDS Group"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Hewlett-Packard",
+                [
+                    "/wiki/Hewlett-Packard"
+                ],
+                [
+                    {
+                        "entity id": "Q80978",
+                        "label": "Hewlett-Packard"
+                    }
+                ]
+            ],
+            [
+                "1998",
+                []
+            ],
+            [
+                "6,000",
+                []
+            ],
+            [
+                "Indigo Digital Press , Scitex Vision , Nur Macroprints , Mercury Interactive , Shunra",
+                [
+                    "/wiki/Indigo_Digital_Press",
+                    "/wiki/Scitex_Vision",
+                    "/wiki/Mercury_Interactive",
+                    "/wiki/Shunra"
+                ],
+                [
+                    {
+                        "entity id": "Q694352",
+                        "label": "Indigo Digital Press"
+                    },
+                    {
+                        "entity id": "Q7434107",
+                        "label": "Scitex Vision"
+                    },
+                    {
+                        "entity id": "Q6818627",
+                        "label": "Mercury Interactive"
+                    },
+                    {
+                        "entity id": "Q7505111",
+                        "label": "Shunra"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SAP AG",
+                [
+                    "/wiki/SAP_AG"
+                ],
+                [
+                    {
+                        "entity id": "Q20658133",
+                        "label": "SAP AG"
+                    }
+                ]
+            ],
+            [
+                "1998",
+                []
+            ],
+            [
+                "800",
+                []
+            ],
+            [
+                "OFEK-Tech , TopTier Software , TopManage , A2i , Gigya",
+                []
+            ]
+        ],
+        [
+            [
+                "Alcatel Lucent",
+                [
+                    "/wiki/Alcatel_Lucent"
+                ],
+                [
+                    {
+                        "entity id": "Q509404",
+                        "label": "Alcatel-Lucent"
+                    }
+                ]
+            ],
+            [
+                "1998",
+                []
+            ],
+            [
+                "250",
+                []
+            ],
+            [
+                "LANNET , Chromatis Networks , Mobilitec",
+                [
+                    "/wiki/Madge_Networks",
+                    "/wiki/Mobilitec"
+                ],
+                [
+                    {
+                        "entity id": "Q6727195",
+                        "label": "Madge Networks"
+                    },
+                    {
+                        "entity id": "Q6887283",
+                        "label": "Mobilitec"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "GE Healthcare",
+                [
+                    "/wiki/GE_Healthcare"
+                ],
+                [
+                    {
+                        "entity id": "Q1152374",
+                        "label": "GE Healthcare"
+                    }
+                ]
+            ],
+            [
+                "1998",
+                []
+            ],
+            [
+                "400",
+                []
+            ],
+            [
+                "Nuclear and MR businesses of Elscint , Diasonics Vingmed",
+                [
+                    "/wiki/Elscint"
+                ],
+                [
+                    {
+                        "entity id": "Q5367476",
+                        "label": "Elscint"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BMC Software",
+                [
+                    "/wiki/BMC_Software"
+                ],
+                [
+                    {
+                        "entity id": "Q796309",
+                        "label": "BMC Software"
+                    }
+                ]
+            ],
+            [
+                "1999",
+                []
+            ],
+            [
+                "450",
+                []
+            ],
+            [
+                "New Dimension Software , Identify Software",
+                []
+            ]
+        ],
+        [
+            [
+                "CA Technologies",
+                [
+                    "/wiki/CA_Technologies"
+                ],
+                [
+                    {
+                        "entity id": "Q600624",
+                        "label": "CA Technologies"
+                    }
+                ]
+            ],
+            [
+                "1999",
+                []
+            ],
+            [
+                "300",
+                []
+            ],
+            [
+                "Security-7 , Abirnet , XOSoft , Oblicore , Nolio",
+                [
+                    "/wiki/Oblicore"
+                ],
+                [
+                    {
+                        "entity id": "Q7075143",
+                        "label": "Oblicore"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Philips Electronics",
+                [
+                    "/wiki/Philips_Electronics"
+                ],
+                [
+                    {
+                        "entity id": "Q170416",
+                        "label": "Koninklijke Philips NV"
+                    }
+                ]
+            ],
+            [
+                "1999",
+                []
+            ],
+            [
+                "700",
+                []
+            ],
+            [
+                "Elscint , Veon , CDP Medical",
+                [
+                    "/wiki/Elscint"
+                ],
+                [
+                    {
+                        "entity id": "Q5367476",
+                        "label": "Elscint"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Broadcom",
+                [
+                    "/wiki/Broadcom"
+                ],
+                [
+                    {
+                        "entity id": "Q555925",
+                        "label": "Broadcom"
+                    }
+                ]
+            ],
+            [
+                "2000",
+                []
+            ],
+            [
+                "500",
+                []
+            ],
+            [
+                "VisionTech , M-Stream , Siliquent Technologies , Dune Networks , Percello , Provigent , SC Square",
+                []
+            ]
+        ],
+        [
+            [
+                "Marvell Technology Group",
+                [
+                    "/wiki/Marvell_Technology_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q1347782",
+                        "label": "Marvell Technology Group"
+                    }
+                ]
+            ],
+            [
+                "2000",
+                []
+            ],
+            [
+                "1,600",
+                []
+            ],
+            [
+                "Galileo Technology",
+                []
+            ]
+        ],
+        [
+            [
+                "Siemens",
+                [
+                    "/wiki/Siemens"
+                ],
+                [
+                    {
+                        "entity id": "Q81230",
+                        "label": "Siemens"
+                    }
+                ]
+            ],
+            [
+                "2000",
+                []
+            ],
+            [
+                "900",
+                []
+            ],
+            [
+                "eship-4u , Tecnomatix Technologies , Solel Solar Systems",
+                [
+                    "/wiki/Tecnomatix",
+                    "/wiki/Solel"
+                ],
+                [
+                    {
+                        "entity id": "Q240146",
+                        "label": "Tecnomatix"
+                    },
+                    {
+                        "entity id": "Q4049713",
+                        "label": "Solel"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "EMC Corporation",
+                [
+                    "/wiki/EMC_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q877536",
+                        "label": "Dell EMC"
+                    }
+                ]
+            ],
+            [
+                "2004",
+                []
+            ],
+            [
+                "1,000",
+                []
+            ],
+            [
+                "Kashya , nLayers , proActivity , Illuminator , ZettaPoint , Cyota , XtremIO",
+                [
+                    "/wiki/NLayers"
+                ],
+                [
+                    {
+                        "entity id": "Q6954694",
+                        "label": "nLayers"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "eBay",
+                [
+                    "/wiki/EBay"
+                ],
+                [
+                    {
+                        "entity id": "Q58024",
+                        "label": "eBay"
+                    }
+                ]
+            ],
+            [
+                "2005",
+                []
+            ],
+            [
+                "400",
+                []
+            ],
+            [
+                "Shopping.com , Fraud Sciences , The Gift Project , SalesPredict , Corrigon Ltd",
+                [
+                    "/wiki/Shopping.com"
+                ],
+                [
+                    {
+                        "entity id": "Q2279861",
+                        "label": "Shopping.com"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SanDisk",
+                [
+                    "/wiki/SanDisk"
+                ],
+                [
+                    {
+                        "entity id": "Q260833",
+                        "label": "SanDisk"
+                    }
+                ]
+            ],
+            [
+                "2006",
+                []
+            ],
+            [
+                "650",
+                []
+            ],
+            [
+                "M-Systems",
+                [
+                    "/wiki/M-Systems"
+                ],
+                [
+                    {
+                        "entity id": "Q1228755",
+                        "label": "M-Systems"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Multinational technology companies operating in Israel",
+    "section_text": "Main article : List of multinational companies with research and development centres in Israel SanDisk 's Israel facility in Kfar Saba Marvell 's development center in Petah Tikva CA Technologies ' development center in Herzliya As of 2010 , more than 35,000 personnel were employed in multinationals research and development centers across Israel . In recent years , East Asian multinationals and investors , especially from Mainland China , have actively invested and opened up offices in Israel , including Chinese technology giants such as Alibaba , Baidu , Tencent and Kuang-Chi . [ 28 ] Around 60 foreign R & D centers are engaged in a diverse range of activities including biotechnology , chemicals , industrial machinery , communication equipment , scientific instruments , medical devices , flash memory storage equipment , computer hardware components , software , semiconductors and internet .",
+    "uid": "Silicon_Wadi_0",
+    "intro": "Silicon Wadi (Hebrew: \u05e1\u05d9\u05dc\u05d9\u05e7\u05d5\u05df \u05d5\u05d0\u05d3\u05d9 , lit: Silicon Valley) is an area with a high concentration of high-technology companies on the coastal plain of Israel, similar to Silicon Valley in the U.S. state of California, and is the reason Israel is nicknamed the Start-Up Nation. The area covers much of the country, although especially high concentrations of high-tech industry can be found in the area around Tel Aviv, including small clusters around the cities of Ra'anana, Petah Tikva, Herzliya, Netanya, the academic city of Rehovot and its neighbour Rishon Le Zion. In addition, high-tech clusters can be found in Haifa and Caesarea. More recent high-tech establishments have been raised in Jerusalem, and in towns such as Yokneam Illit and Israel's first private city, Airport City, near Tel Aviv."
+}

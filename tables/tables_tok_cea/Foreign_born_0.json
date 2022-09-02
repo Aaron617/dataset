@@ -1,0 +1,924 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Foreign_born",
+    "title": "Foreign born",
+    "header": [
+        [
+            "Rank",
+            []
+        ],
+        [
+            "City",
+            []
+        ],
+        [
+            "Country",
+            []
+        ],
+        [
+            "Estimate Source",
+            []
+        ],
+        [
+            "Foreign-Born Population",
+            []
+        ],
+        [
+            "Percentage",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1",
+                []
+            ],
+            [
+                "London",
+                [
+                    "/wiki/London"
+                ],
+                [
+                    {
+                        "entity id": "Q84",
+                        "label": "London"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom",
+                [
+                    "/wiki/United_Kingdom"
+                ],
+                [
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    }
+                ]
+            ],
+            [
+                "ONS 2018",
+                [
+                    "/wiki/Office_for_National_Statistics"
+                ],
+                [
+                    {
+                        "entity id": "Q1334971",
+                        "label": "Office for National Statistics"
+                    }
+                ]
+            ],
+            [
+                "3,236,000",
+                []
+            ],
+            [
+                "36.4%",
+                []
+            ]
+        ],
+        [
+            [
+                "2",
+                []
+            ],
+            [
+                "New York City",
+                [
+                    "/wiki/New_York_City"
+                ],
+                [
+                    {
+                        "entity id": "Q60",
+                        "label": "New York City"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "2016 ACS",
+                [
+                    "/wiki/American_Community_Survey"
+                ],
+                [
+                    {
+                        "entity id": "Q463769",
+                        "label": "American Community Survey"
+                    }
+                ]
+            ],
+            [
+                "3,200,219",
+                []
+            ],
+            [
+                "37.5%",
+                []
+            ]
+        ],
+        [
+            [
+                "3",
+                []
+            ],
+            [
+                "Sydney",
+                [
+                    "/wiki/Sydney"
+                ],
+                [
+                    {
+                        "entity id": "Q3130",
+                        "label": "Sydney"
+                    }
+                ]
+            ],
+            [
+                "Australia",
+                [
+                    "/wiki/Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q408",
+                        "label": "Australia"
+                    }
+                ]
+            ],
+            [
+                "2016 Census",
+                [
+                    "/wiki/2016_Australian_Census"
+                ],
+                [
+                    {
+                        "entity id": "Q33128519",
+                        "label": "Australian Census 2016"
+                    }
+                ]
+            ],
+            [
+                "1,961,977",
+                []
+            ],
+            [
+                "45.4%",
+                []
+            ]
+        ],
+        [
+            [
+                "4",
+                []
+            ],
+            [
+                "Melbourne",
+                [
+                    "/wiki/Melbourne"
+                ],
+                [
+                    {
+                        "entity id": "Q3141",
+                        "label": "Melbourne"
+                    }
+                ]
+            ],
+            [
+                "Australia",
+                [
+                    "/wiki/Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q408",
+                        "label": "Australia"
+                    }
+                ]
+            ],
+            [
+                "2016 Census",
+                [
+                    "/wiki/2016_Australian_Census"
+                ],
+                [
+                    {
+                        "entity id": "Q33128519",
+                        "label": "Australian Census 2016"
+                    }
+                ]
+            ],
+            [
+                "1,784,794",
+                []
+            ],
+            [
+                "41.3%",
+                []
+            ]
+        ],
+        [
+            [
+                "5",
+                []
+            ],
+            [
+                "Los Angeles",
+                [
+                    "/wiki/Los_Angeles"
+                ],
+                [
+                    {
+                        "entity id": "Q65",
+                        "label": "Los Angeles"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "2016 ACS",
+                []
+            ],
+            [
+                "1,499,418",
+                []
+            ],
+            [
+                "37.7%",
+                []
+            ]
+        ],
+        [
+            [
+                "6",
+                []
+            ],
+            [
+                "Toronto",
+                [
+                    "/wiki/Toronto"
+                ],
+                [
+                    {
+                        "entity id": "Q172",
+                        "label": "Toronto"
+                    }
+                ]
+            ],
+            [
+                "Canada",
+                [
+                    "/wiki/Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q16",
+                        "label": "Canada"
+                    }
+                ]
+            ],
+            [
+                "Canada 2016 Census",
+                [
+                    "/wiki/Canada_2016_Census"
+                ],
+                [
+                    {
+                        "entity id": "Q16955163",
+                        "label": "Canada 2016 Census"
+                    }
+                ]
+            ],
+            [
+                "1,266,005",
+                []
+            ],
+            [
+                "47.0%",
+                []
+            ]
+        ],
+        [
+            [
+                "7",
+                []
+            ],
+            [
+                "Madrid",
+                [
+                    "/wiki/Madrid"
+                ],
+                [
+                    {
+                        "entity id": "Q2807",
+                        "label": "Madrid"
+                    }
+                ]
+            ],
+            [
+                "Spain",
+                [
+                    "/wiki/Spain"
+                ],
+                [
+                    {
+                        "entity id": "Q29",
+                        "label": "Spain"
+                    }
+                ]
+            ],
+            [
+                "2019 Spain Census",
+                []
+            ],
+            [
+                "726,669",
+                []
+            ],
+            [
+                "22.2%",
+                []
+            ]
+        ],
+        [
+            [
+                "7",
+                []
+            ],
+            [
+                "Houston",
+                [
+                    "/wiki/Houston"
+                ],
+                [
+                    {
+                        "entity id": "Q16555",
+                        "label": "Houston"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "2016 ACS",
+                []
+            ],
+            [
+                "698,395",
+                []
+            ],
+            [
+                "30.3%",
+                []
+            ]
+        ],
+        [
+            [
+                "8",
+                []
+            ],
+            [
+                "Brisbane",
+                [
+                    "/wiki/Brisbane"
+                ],
+                [
+                    {
+                        "entity id": "Q34932",
+                        "label": "Brisbane"
+                    }
+                ]
+            ],
+            [
+                "Australia",
+                [
+                    "/wiki/Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q408",
+                        "label": "Australia"
+                    }
+                ]
+            ],
+            [
+                "2016 Census",
+                [
+                    "/wiki/2016_Australian_Census"
+                ],
+                [
+                    {
+                        "entity id": "Q33128519",
+                        "label": "Australian Census 2016"
+                    }
+                ]
+            ],
+            [
+                "682,132",
+                []
+            ],
+            [
+                "33.2%",
+                []
+            ]
+        ],
+        [
+            [
+                "9",
+                []
+            ],
+            [
+                "Chicago",
+                [
+                    "/wiki/Chicago"
+                ],
+                [
+                    {
+                        "entity id": "Q1297",
+                        "label": "Chicago"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "2016 ACS",
+                []
+            ],
+            [
+                "559,623",
+                []
+            ],
+            [
+                "20.7%",
+                []
+            ]
+        ],
+        [
+            [
+                "10",
+                []
+            ],
+            [
+                "Montr\u00e9al",
+                [
+                    "/wiki/Montreal"
+                ],
+                [
+                    {
+                        "entity id": "Q340",
+                        "label": "Montreal"
+                    }
+                ]
+            ],
+            [
+                "Canada",
+                [
+                    "/wiki/Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q16",
+                        "label": "Canada"
+                    }
+                ]
+            ],
+            [
+                "Canada 2016 Census",
+                []
+            ],
+            [
+                "570,940",
+                []
+            ],
+            [
+                "34.3%",
+                []
+            ]
+        ],
+        [
+            [
+                "11",
+                []
+            ],
+            [
+                "San Jose",
+                [
+                    "/wiki/San_Jose,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q16553",
+                        "label": "San Jose"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "2016 ACS",
+                []
+            ],
+            [
+                "402,776",
+                []
+            ],
+            [
+                "39.3%",
+                []
+            ]
+        ],
+        [
+            [
+                "12",
+                []
+            ],
+            [
+                "Calgary",
+                [
+                    "/wiki/Calgary"
+                ],
+                [
+                    {
+                        "entity id": "Q36312",
+                        "label": "Calgary"
+                    }
+                ]
+            ],
+            [
+                "Canada",
+                [
+                    "/wiki/Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q16",
+                        "label": "Canada"
+                    }
+                ]
+            ],
+            [
+                "Canada 2016 Census",
+                []
+            ],
+            [
+                "383,065",
+                []
+            ],
+            [
+                "31.3%",
+                []
+            ]
+        ],
+        [
+            [
+                "13",
+                []
+            ],
+            [
+                "San Diego",
+                [
+                    "/wiki/San_Diego"
+                ],
+                [
+                    {
+                        "entity id": "Q16552",
+                        "label": "San Diego"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "2016 ACS",
+                []
+            ],
+            [
+                "373,842",
+                []
+            ],
+            [
+                "26.7%",
+                []
+            ]
+        ],
+        [
+            [
+                "14",
+                []
+            ],
+            [
+                "Paris",
+                [
+                    "/wiki/Paris"
+                ],
+                [
+                    {
+                        "entity id": "Q90",
+                        "label": "Paris"
+                    }
+                ]
+            ],
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "2014 UrbiStat",
+                []
+            ],
+            [
+                "325,100",
+                []
+            ],
+            [
+                "14.6%",
+                []
+            ]
+        ],
+        [
+            [
+                "15",
+                []
+            ],
+            [
+                "Dallas",
+                [
+                    "/wiki/Dallas"
+                ],
+                [
+                    {
+                        "entity id": "Q16557",
+                        "label": "Dallas"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "2016 ACS",
+                []
+            ],
+            [
+                "324,972",
+                []
+            ],
+            [
+                "24.7%",
+                []
+            ]
+        ],
+        [
+            [
+                "16",
+                []
+            ],
+            [
+                "Milan",
+                [
+                    "/wiki/Milan"
+                ],
+                [
+                    {
+                        "entity id": "Q490",
+                        "label": "Milan"
+                    }
+                ]
+            ],
+            [
+                "Italy",
+                [
+                    "/wiki/Italy"
+                ],
+                [
+                    {
+                        "entity id": "Q38",
+                        "label": "Italy"
+                    }
+                ]
+            ],
+            [
+                "Istat 2011",
+                [
+                    "/wiki/Istituto_Nazionale_di_Statistica"
+                ],
+                [
+                    {
+                        "entity id": "Q214195",
+                        "label": "Italian National Institute of Statistics"
+                    }
+                ]
+            ],
+            [
+                "324,378",
+                []
+            ],
+            [
+                "10.7%",
+                []
+            ]
+        ],
+        [
+            [
+                "17",
+                []
+            ],
+            [
+                "Phoenix",
+                []
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "2016 ACS",
+                []
+            ],
+            [
+                "308,744",
+                []
+            ],
+            [
+                "19.6%",
+                []
+            ]
+        ],
+        [
+            [
+                "18",
+                []
+            ],
+            [
+                "San Francisco",
+                [
+                    "/wiki/San_Francisco"
+                ],
+                [
+                    {
+                        "entity id": "Q62",
+                        "label": "San Francisco"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "2016 ACS",
+                []
+            ],
+            [
+                "296,849",
+                []
+            ],
+            [
+                "34.9%",
+                []
+            ]
+        ],
+        [
+            [
+                "19",
+                []
+            ],
+            [
+                "Miami",
+                [
+                    "/wiki/Miami"
+                ],
+                [
+                    {
+                        "entity id": "Q8652",
+                        "label": "Miami"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "2016 ACS",
+                []
+            ],
+            [
+                "264,656",
+                []
+            ],
+            [
+                "58.3%",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Cities with largest foreign born populations",
+    "section_text": "",
+    "uid": "Foreign_born_0",
+    "intro": "Foreign-born (also non-native) people are those born outside of their country of residence. Foreign born are often non-citizens, but many are naturalized citizens of the country in which they live, and others are citizens by descent, typically through a parent. The term foreign born encompasses both immigrants and expatriates but is not synonymous with either. Foreign born may, like immigrants, have committed to living in a country permanently or, like expatriates, live abroad for a significant period with the plan to return to their birth-country eventually. The status of foreign born - particularly their access to citizenship - differs globally. The large groups of foreign-born guest workers in Arab states of the Persian Gulf, for example, have no right to citizenship no matter the length of their residence. In the United Kingdom, Canada, Australia and the United States, by contrast, foreign born are often citizens or in the process of becoming citizens. Certain countries have intermediary rules: in Germany and Japan it is often difficult but not impossible for the foreign born to become citizens."
+}

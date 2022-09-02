@@ -1,0 +1,618 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_SEPTA_Regional_Rail_stations",
+    "title": "List of SEPTA Regional Rail stations",
+    "header": [
+        [
+            "Line",
+            []
+        ],
+        [
+            "Weekday ridership ( FY 2018 )",
+            []
+        ],
+        [
+            "Inbound terminus",
+            []
+        ],
+        [
+            "Outbound terminus",
+            []
+        ],
+        [
+            "Former designation",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Airport Line",
+                [
+                    "/wiki/Airport_Line_(SEPTA)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "5,542",
+                []
+            ],
+            [
+                "Temple University",
+                [
+                    "/wiki/Temple_University_station"
+                ],
+                [
+                    {
+                        "entity id": "Q7698686",
+                        "label": "Temple University"
+                    }
+                ]
+            ],
+            [
+                "Airport Terminals E & F",
+                [
+                    "/wiki/Philadelphia_International_Airport_stations"
+                ],
+                [
+                    {
+                        "entity id": "Q7182722",
+                        "label": "Philadelphia International Airport stations"
+                    }
+                ]
+            ],
+            [
+                "R1 Airport",
+                []
+            ]
+        ],
+        [
+            [
+                "Chestnut Hill East Line",
+                [
+                    "/wiki/Chestnut_Hill_East_Line"
+                ],
+                [
+                    {
+                        "entity id": "Q5093950",
+                        "label": "Chestnut Hill East Line"
+                    }
+                ]
+            ],
+            [
+                "4,944",
+                []
+            ],
+            [
+                "30th Street Station",
+                [
+                    "/wiki/30th_Street_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q224214",
+                        "label": "30th Street Station"
+                    }
+                ]
+            ],
+            [
+                "Chestnut Hill East",
+                [
+                    "/wiki/Chestnut_Hill_East_station"
+                ],
+                [
+                    {
+                        "entity id": "Q5093949",
+                        "label": "Chestnut Hill East"
+                    }
+                ]
+            ],
+            [
+                "R7 Chestnut Hill East",
+                []
+            ]
+        ],
+        [
+            [
+                "Chestnut Hill West Line",
+                [
+                    "/wiki/Chestnut_Hill_West_Line"
+                ],
+                [
+                    {
+                        "entity id": "Q5093959",
+                        "label": "Chestnut Hill West Line"
+                    }
+                ]
+            ],
+            [
+                "4,968",
+                []
+            ],
+            [
+                "Temple University",
+                [
+                    "/wiki/Temple_University_station"
+                ],
+                [
+                    {
+                        "entity id": "Q7698686",
+                        "label": "Temple University"
+                    }
+                ]
+            ],
+            [
+                "Chestnut Hill West",
+                [
+                    "/wiki/Chestnut_Hill_West_station"
+                ],
+                [
+                    {
+                        "entity id": "Q5093958",
+                        "label": "Chestnut Hill West"
+                    }
+                ]
+            ],
+            [
+                "R8 Chestnut Hill West",
+                []
+            ]
+        ],
+        [
+            [
+                "Cynwyd Line",
+                [
+                    "/wiki/Cynwyd_Line"
+                ],
+                [
+                    {
+                        "entity id": "Q5200188",
+                        "label": "Cynwyd Line"
+                    }
+                ]
+            ],
+            [
+                "583",
+                []
+            ],
+            [
+                "Suburban Station",
+                [
+                    "/wiki/Suburban_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q1531481",
+                        "label": "Suburban Station"
+                    }
+                ]
+            ],
+            [
+                "Cynwyd",
+                [
+                    "/wiki/Cynwyd_station"
+                ],
+                [
+                    {
+                        "entity id": "Q5200186",
+                        "label": "Cynwyd"
+                    }
+                ]
+            ],
+            [
+                "R6 Cynwyd",
+                []
+            ]
+        ],
+        [
+            [
+                "Fox Chase Line",
+                [
+                    "/wiki/Fox_Chase_Line"
+                ],
+                [
+                    {
+                        "entity id": "Q8565193",
+                        "label": "Fox Chase Line"
+                    }
+                ]
+            ],
+            [
+                "4,955",
+                []
+            ],
+            [
+                "30th Street Station",
+                [
+                    "/wiki/30th_Street_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q224214",
+                        "label": "30th Street Station"
+                    }
+                ]
+            ],
+            [
+                "Fox Chase",
+                [
+                    "/wiki/Fox_Chase_station"
+                ],
+                [
+                    {
+                        "entity id": "Q8565192",
+                        "label": "Fox Chase"
+                    }
+                ]
+            ],
+            [
+                "R8 Fox Chase",
+                []
+            ]
+        ],
+        [
+            [
+                "Lansdale/\u200bDoylestown Line",
+                [
+                    "/wiki/Lansdale/Doylestown_Line"
+                ],
+                [
+                    {
+                        "entity id": "Q6487336",
+                        "label": "Lansdale/Doylestown Line"
+                    }
+                ]
+            ],
+            [
+                "16,016",
+                []
+            ],
+            [
+                "30th Street Station",
+                [
+                    "/wiki/30th_Street_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q224214",
+                        "label": "30th Street Station"
+                    }
+                ]
+            ],
+            [
+                "Doylestown",
+                [
+                    "/wiki/Doylestown_station"
+                ],
+                [
+                    {
+                        "entity id": "Q5303794",
+                        "label": "Doylestown"
+                    }
+                ]
+            ],
+            [
+                "R5 Lansdale/Doylestown",
+                []
+            ]
+        ],
+        [
+            [
+                "Manayunk/\u200bNorristown Line",
+                [
+                    "/wiki/Manayunk/Norristown_Line"
+                ],
+                [
+                    {
+                        "entity id": "Q6747157",
+                        "label": "Manayunk/Norristown Line"
+                    }
+                ]
+            ],
+            [
+                "9,839",
+                []
+            ],
+            [
+                "Penn Medicine",
+                [
+                    "/wiki/Penn_Medicine_station"
+                ],
+                [
+                    {
+                        "entity id": "Q7894579",
+                        "label": "Penn Medicine station"
+                    }
+                ]
+            ],
+            [
+                "Elm Street",
+                [
+                    "/wiki/Elm_Street_station"
+                ],
+                [
+                    {
+                        "entity id": "Q5366327",
+                        "label": "Elm Street"
+                    }
+                ]
+            ],
+            [
+                "R6 Norristown",
+                []
+            ]
+        ],
+        [
+            [
+                "Media/Elwyn Line",
+                [
+                    "/wiki/Media/Elwyn_Line"
+                ],
+                [
+                    {
+                        "entity id": "Q6805374",
+                        "label": "Media/Wawa Line"
+                    }
+                ]
+            ],
+            [
+                "11,098",
+                []
+            ],
+            [
+                "Temple University",
+                [
+                    "/wiki/Temple_University_station"
+                ],
+                [
+                    {
+                        "entity id": "Q7698686",
+                        "label": "Temple University"
+                    }
+                ]
+            ],
+            [
+                "Elwyn",
+                [
+                    "/wiki/Elwyn_station"
+                ],
+                [
+                    {
+                        "entity id": "Q5368365",
+                        "label": "Elwyn"
+                    }
+                ]
+            ],
+            [
+                "R3 Media/Elwyn",
+                []
+            ]
+        ],
+        [
+            [
+                "Paoli/\u200bThorndale Line",
+                [
+                    "/wiki/Paoli/Thorndale_Line"
+                ],
+                [
+                    {
+                        "entity id": "Q7132125",
+                        "label": "Paoli/Thorndale Line"
+                    }
+                ]
+            ],
+            [
+                "20,962",
+                []
+            ],
+            [
+                "Temple University",
+                [
+                    "/wiki/Temple_University_station"
+                ],
+                [
+                    {
+                        "entity id": "Q7698686",
+                        "label": "Temple University"
+                    }
+                ]
+            ],
+            [
+                "Thorndale",
+                [
+                    "/wiki/Thorndale_station"
+                ],
+                [
+                    {
+                        "entity id": "Q280905",
+                        "label": "Thorndale station"
+                    }
+                ]
+            ],
+            [
+                "R5 Paoli/Thorndale",
+                []
+            ]
+        ],
+        [
+            [
+                "Trenton Line",
+                [
+                    "/wiki/Trenton_Line_(SEPTA)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "11,087",
+                []
+            ],
+            [
+                "Temple University",
+                [
+                    "/wiki/Temple_University_station"
+                ],
+                [
+                    {
+                        "entity id": "Q7698686",
+                        "label": "Temple University"
+                    }
+                ]
+            ],
+            [
+                "Trenton Transit Center",
+                [
+                    "/wiki/Trenton_Transit_Center"
+                ],
+                [
+                    {
+                        "entity id": "Q7838611",
+                        "label": "Trenton Transit Center"
+                    }
+                ]
+            ],
+            [
+                "R7 Trenton",
+                []
+            ]
+        ],
+        [
+            [
+                "Warminster Line",
+                [
+                    "/wiki/Warminster_Line"
+                ],
+                [
+                    {
+                        "entity id": "Q7969637",
+                        "label": "Warminster Line"
+                    }
+                ]
+            ],
+            [
+                "9,426",
+                []
+            ],
+            [
+                "Penn Medicine",
+                [
+                    "/wiki/Penn_Medicine_station"
+                ],
+                [
+                    {
+                        "entity id": "Q7894579",
+                        "label": "Penn Medicine station"
+                    }
+                ]
+            ],
+            [
+                "Warminster",
+                [
+                    "/wiki/Warminster_station"
+                ],
+                [
+                    {
+                        "entity id": "Q7969634",
+                        "label": "Warminster"
+                    }
+                ]
+            ],
+            [
+                "R2 Warminster",
+                []
+            ]
+        ],
+        [
+            [
+                "West Trenton Line",
+                [
+                    "/wiki/West_Trenton_Line_(SEPTA)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "10,807",
+                []
+            ],
+            [
+                "Penn Medicine",
+                [
+                    "/wiki/Penn_Medicine_station"
+                ],
+                [
+                    {
+                        "entity id": "Q7894579",
+                        "label": "Penn Medicine station"
+                    }
+                ]
+            ],
+            [
+                "West Trenton",
+                [
+                    "/wiki/West_Trenton_station"
+                ],
+                [
+                    {
+                        "entity id": "Q7986697",
+                        "label": "West Trenton"
+                    }
+                ]
+            ],
+            [
+                "R3 West Trenton",
+                []
+            ]
+        ],
+        [
+            [
+                "Wilmington/\u200bNewark Line",
+                [
+                    "/wiki/Wilmington/Newark_Line"
+                ],
+                [
+                    {
+                        "entity id": "Q8022734",
+                        "label": "Wilmington/Newark Line"
+                    }
+                ]
+            ],
+            [
+                "9,995",
+                []
+            ],
+            [
+                "Temple University",
+                [
+                    "/wiki/Temple_University_station"
+                ],
+                [
+                    {
+                        "entity id": "Q7698686",
+                        "label": "Temple University"
+                    }
+                ]
+            ],
+            [
+                "Newark",
+                [
+                    "/wiki/Newark_station_(Delaware)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "R2 Wilmington/Newark",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Lines",
+    "section_text": "",
+    "uid": "List_of_SEPTA_Regional_Rail_stations_0",
+    "intro": "SEPTA Regional Rail is the commuter rail system serving Philadelphia, Pennsylvania, United States and its metropolitan region, known as the Delaware Valley. The system is operated by the Southeastern Pennsylvania Transportation Authority (SEPTA) and serves five counties in Pennsylvania - Bucks, Delaware, Montgomery, Chester, and Philadelphia - as well as Mercer County in New Jersey and New Castle County in Delaware. The system covers a total route length of 223 miles (359 km), 98 miles (158 km) of which are owned by SEPTA, with the remainder owned by Amtrak, CSX Transportation, and the City of Philadelphia. In the 2019 fiscal year, SEPTA Regional Rail had an annual ridership of 34.2 million, with an average weekday ridership of 118,800. There are 13 lines within the Regional Rail system, with 155 active stations. Six fare zones in the system determine the ticket price, based on the distance traveled. Fare zones are designated as Zones 1 through 4, based on the station's distance from Center City Philadelphia, with additional zones for stations in the Center City area (CCP zone) and stations in New Jersey (NJ zone). Despite its close proximity to Center City, the four Airport Terminal stations are located within Zone 4. The Regional Rail system was built in the early 20th century and originally consisted of two separate systems, operated by the Pennsylvania Railroad and the Reading Company, respectively. SEPTA was formed in 1963, and the Pennsylvania Railroad merged into the Penn Central Transportation Company in 1968. Penn Central and the Reading Company operated the railroads until they were taken over by Conrail in 1976, which operated the system through 1982. SEPTA commenced operation of the Regional Rail Division on January 1, 1983, which gave SEPTA complete operational control of its railroads."
+}

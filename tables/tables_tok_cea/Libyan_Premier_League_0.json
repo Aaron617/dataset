@@ -1,0 +1,854 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Libyan_Premier_League",
+    "title": "Libyan Premier League",
+    "header": [
+        [
+            "Team",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Sha'biyah",
+            []
+        ],
+        [
+            "Stadium",
+            []
+        ],
+        [
+            "Capacity",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Al Ahli",
+                [
+                    "/wiki/Al-Ahli_SC_(Tripoli)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Tripoli",
+                [
+                    "/wiki/Tripoli"
+                ],
+                [
+                    {
+                        "entity id": "Q3579",
+                        "label": "Tripoli"
+                    }
+                ]
+            ],
+            [
+                "Tripoli",
+                [
+                    "/wiki/Tripoli_District,_Libya"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "June 11 Stadium",
+                [
+                    "/wiki/June_11_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q1511121",
+                        "label": "Stadium Tripoli International"
+                    }
+                ]
+            ],
+            [
+                "65,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Al Ahly",
+                [
+                    "/wiki/Al-Ahly_SC_(Benghazi)"
+                ],
+                [
+                    {
+                        "entity id": "Q166724",
+                        "label": "Al Ahly SC (Benghazi)"
+                    }
+                ]
+            ],
+            [
+                "Benghazi",
+                [
+                    "/wiki/Benghazi"
+                ],
+                [
+                    {
+                        "entity id": "Q40816",
+                        "label": "Benghazi"
+                    }
+                ]
+            ],
+            [
+                "Benghazi",
+                [
+                    "/wiki/Benghazi"
+                ],
+                [
+                    {
+                        "entity id": "Q40816",
+                        "label": "Benghazi"
+                    }
+                ]
+            ],
+            [
+                "Martyrs of February Stadium",
+                [
+                    "/wiki/Martyrs_of_February_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q4118962",
+                        "label": "Martyrs of February Stadium"
+                    }
+                ]
+            ],
+            [
+                "10,550",
+                []
+            ]
+        ],
+        [
+            [
+                "Al Akhdar",
+                [
+                    "/wiki/Alakhdhar_S.C."
+                ],
+                [
+                    {
+                        "entity id": "Q1423655",
+                        "label": "Alakhdhar S.C."
+                    }
+                ]
+            ],
+            [
+                "Bayda",
+                [
+                    "/wiki/Bayda,_Libya"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Jabal al Akhdar",
+                [
+                    "/wiki/Jabal_al_Akhdar"
+                ],
+                [
+                    {
+                        "entity id": "Q32841",
+                        "label": "Jabal al Akhdar"
+                    }
+                ]
+            ],
+            [
+                "Sheikh Chadae Stadium",
+                [
+                    "/wiki/Sheikh_Chadae_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q7492912",
+                        "label": "Sheikh Chadae Stadium"
+                    }
+                ]
+            ],
+            [
+                "10,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Al Hilal",
+                [
+                    "/wiki/Al-Hilal_SC_(Benghazi)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Benghazi",
+                [
+                    "/wiki/Benghazi"
+                ],
+                [
+                    {
+                        "entity id": "Q40816",
+                        "label": "Benghazi"
+                    }
+                ]
+            ],
+            [
+                "Benghazi",
+                [
+                    "/wiki/Benghazi"
+                ],
+                [
+                    {
+                        "entity id": "Q40816",
+                        "label": "Benghazi"
+                    }
+                ]
+            ],
+            [
+                "Martyrs of February Stadium",
+                [
+                    "/wiki/Martyrs_of_February_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q4118962",
+                        "label": "Martyrs of February Stadium"
+                    }
+                ]
+            ],
+            [
+                "10,550",
+                []
+            ]
+        ],
+        [
+            [
+                "Al Ittihad",
+                [
+                    "/wiki/Al-Ittihad_Club_(Tripoli)"
+                ],
+                [
+                    {
+                        "entity id": "Q429501",
+                        "label": "Al-ittihad"
+                    }
+                ]
+            ],
+            [
+                "Tripoli",
+                [
+                    "/wiki/Tripoli"
+                ],
+                [
+                    {
+                        "entity id": "Q3579",
+                        "label": "Tripoli"
+                    }
+                ]
+            ],
+            [
+                "Tripoli",
+                [
+                    "/wiki/Tripoli_District,_Libya"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "June 11 Stadium",
+                [
+                    "/wiki/June_11_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q1511121",
+                        "label": "Stadium Tripoli International"
+                    }
+                ]
+            ],
+            [
+                "65,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Al Madina",
+                [
+                    "/wiki/Almadina_S.C."
+                ],
+                [
+                    {
+                        "entity id": "Q2217433",
+                        "label": "Almadina S.C."
+                    }
+                ]
+            ],
+            [
+                "Tripoli",
+                [
+                    "/wiki/Tripoli"
+                ],
+                [
+                    {
+                        "entity id": "Q3579",
+                        "label": "Tripoli"
+                    }
+                ]
+            ],
+            [
+                "Tripoli",
+                [
+                    "/wiki/Tripoli_District,_Libya"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "June 11 Stadium",
+                [
+                    "/wiki/June_11_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q1511121",
+                        "label": "Stadium Tripoli International"
+                    }
+                ]
+            ],
+            [
+                "65,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Al Najma",
+                [
+                    "/wiki/Annajma_S.C."
+                ],
+                [
+                    {
+                        "entity id": "Q338649",
+                        "label": "Annajma S.C."
+                    }
+                ]
+            ],
+            [
+                "Benghazi",
+                [
+                    "/wiki/Benghazi"
+                ],
+                [
+                    {
+                        "entity id": "Q40816",
+                        "label": "Benghazi"
+                    }
+                ]
+            ],
+            [
+                "Benghazi",
+                [
+                    "/wiki/Benghazi"
+                ],
+                [
+                    {
+                        "entity id": "Q40816",
+                        "label": "Benghazi"
+                    }
+                ]
+            ],
+            [
+                "Martyrs of February Stadium",
+                [
+                    "/wiki/Martyrs_of_February_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q4118962",
+                        "label": "Martyrs of February Stadium"
+                    }
+                ]
+            ],
+            [
+                "10,550",
+                []
+            ]
+        ],
+        [
+            [
+                "Al Nasr",
+                [
+                    "/wiki/Al-Nasr_SC_(Benghazi)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Benghazi",
+                [
+                    "/wiki/Benghazi"
+                ],
+                [
+                    {
+                        "entity id": "Q40816",
+                        "label": "Benghazi"
+                    }
+                ]
+            ],
+            [
+                "Benghazi",
+                [
+                    "/wiki/Benghazi"
+                ],
+                [
+                    {
+                        "entity id": "Q40816",
+                        "label": "Benghazi"
+                    }
+                ]
+            ],
+            [
+                "Martyrs of February Stadium",
+                [
+                    "/wiki/Martyrs_of_February_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q4118962",
+                        "label": "Martyrs of February Stadium"
+                    }
+                ]
+            ],
+            [
+                "10,550",
+                []
+            ]
+        ],
+        [
+            [
+                "Al Olympique",
+                [
+                    "/wiki/Olympic_Azzaweya_S.C."
+                ],
+                [
+                    {
+                        "entity id": "Q2829394",
+                        "label": "Olympic Azzaweya S.C."
+                    }
+                ]
+            ],
+            [
+                "Zawiya",
+                [
+                    "/wiki/Zawiya,_Libya"
+                ],
+                [
+                    {
+                        "entity id": "Q221503",
+                        "label": "Zawiya"
+                    }
+                ]
+            ],
+            [
+                "Zawiya",
+                [
+                    "/wiki/Zawiya_District"
+                ],
+                [
+                    {
+                        "entity id": "Q26153",
+                        "label": "Zawiya District"
+                    }
+                ]
+            ],
+            [
+                "Zaawia Stadium",
+                [
+                    "/wiki/Zaawia_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q4120648",
+                        "label": "Zaawia Stadium"
+                    }
+                ]
+            ],
+            [
+                "6,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Al Shat ( R )",
+                [
+                    "/wiki/Al-Shat_S.C."
+                ],
+                [
+                    {
+                        "entity id": "Q2690607",
+                        "label": "Al-Shat S.C."
+                    }
+                ]
+            ],
+            [
+                "Tripoli",
+                [
+                    "/wiki/Tripoli"
+                ],
+                [
+                    {
+                        "entity id": "Q3579",
+                        "label": "Tripoli"
+                    }
+                ]
+            ],
+            [
+                "Tripoli",
+                [
+                    "/wiki/Tripoli_District,_Libya"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "GMR Stadium",
+                [
+                    "/wiki/GMR_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q5513793",
+                        "label": "GMR Stadium"
+                    }
+                ]
+            ],
+            [
+                "20,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Al Swihli",
+                [
+                    "/wiki/Asswehly_S.C."
+                ],
+                [
+                    {
+                        "entity id": "Q2868328",
+                        "label": "AL SWEHLY  F.C"
+                    }
+                ]
+            ],
+            [
+                "Misrata",
+                [
+                    "/wiki/Misrata"
+                ],
+                [
+                    {
+                        "entity id": "Q131323",
+                        "label": "Misrata"
+                    }
+                ]
+            ],
+            [
+                "Misrata",
+                [
+                    "/wiki/Misrata_District"
+                ],
+                [
+                    {
+                        "entity id": "Q32845",
+                        "label": "Misrata District"
+                    }
+                ]
+            ],
+            [
+                "9th July Stadium",
+                [
+                    "/wiki/9th_July_Stadium"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "10,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Al Tahaddi ( R )",
+                [
+                    "/wiki/Attahaddy_Benghazi_S.C."
+                ],
+                [
+                    {
+                        "entity id": "Q1900777",
+                        "label": "Attahaddy Benghazi S.C."
+                    }
+                ]
+            ],
+            [
+                "Benghazi",
+                [
+                    "/wiki/Benghazi"
+                ],
+                [
+                    {
+                        "entity id": "Q40816",
+                        "label": "Benghazi"
+                    }
+                ]
+            ],
+            [
+                "Benghazi",
+                [
+                    "/wiki/Benghazi"
+                ],
+                [
+                    {
+                        "entity id": "Q40816",
+                        "label": "Benghazi"
+                    }
+                ]
+            ],
+            [
+                "March 28 Stadium",
+                [
+                    "/wiki/March_28_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q1848787",
+                        "label": "March 28 Stadium"
+                    }
+                ]
+            ],
+            [
+                "55,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Al Tirsana ( R )",
+                [
+                    "/wiki/Attersana_S.C."
+                ],
+                [
+                    {
+                        "entity id": "Q2742246",
+                        "label": "Attersana S.C."
+                    }
+                ]
+            ],
+            [
+                "Tripoli",
+                [
+                    "/wiki/Tripoli"
+                ],
+                [
+                    {
+                        "entity id": "Q3579",
+                        "label": "Tripoli"
+                    }
+                ]
+            ],
+            [
+                "Tripoli",
+                [
+                    "/wiki/Tripoli_District,_Libya"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "GMR Stadium",
+                [
+                    "/wiki/GMR_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q5513793",
+                        "label": "GMR Stadium"
+                    }
+                ]
+            ],
+            [
+                "20,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Al Wahda",
+                [
+                    "/wiki/Al-Wahda_SC_(Tripoli)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Tripoli",
+                [
+                    "/wiki/Tripoli"
+                ],
+                [
+                    {
+                        "entity id": "Q3579",
+                        "label": "Tripoli"
+                    }
+                ]
+            ],
+            [
+                "Tripoli",
+                [
+                    "/wiki/Tripoli_District,_Libya"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Ali Alsgozy Stadium",
+                [
+                    "/wiki/Ali_Alsgozy_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q4724646",
+                        "label": "Ali Alsgozy Stadium"
+                    }
+                ]
+            ],
+            [
+                "3,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Darnes",
+                [
+                    "/wiki/Darnes_Sports_Club"
+                ],
+                [
+                    {
+                        "entity id": "Q5224135",
+                        "label": "Darnes Sports Club"
+                    }
+                ]
+            ],
+            [
+                "Derna",
+                [
+                    "/wiki/Derna,_Libya"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Bayda",
+                [
+                    "/wiki/Bayda,_Libya"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Al Bayda Stadium",
+                [
+                    "/wiki/Al_Bayda_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q4703573",
+                        "label": "Al Bayda Stadium"
+                    }
+                ]
+            ],
+            [
+                "10,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Khaleej Sirte ( R )",
+                [
+                    "/wiki/Khaleej_Sirte_S.C."
+                ],
+                [
+                    {
+                        "entity id": "Q2700565",
+                        "label": "Khaleej Sirte S.C."
+                    }
+                ]
+            ],
+            [
+                "Sirte",
+                [
+                    "/wiki/Sirte"
+                ],
+                [
+                    {
+                        "entity id": "Q162413",
+                        "label": "Sirte"
+                    }
+                ]
+            ],
+            [
+                "Sirte",
+                [
+                    "/wiki/Sirte_District"
+                ],
+                [
+                    {
+                        "entity id": "Q26417",
+                        "label": "Sirte District"
+                    }
+                ]
+            ],
+            [
+                "2 March Stadium",
+                [
+                    "/wiki/Sirte_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q7530654",
+                        "label": "Sirte Stadium"
+                    }
+                ]
+            ],
+            [
+                "2,000",
+                []
+            ]
+        ]
+    ],
+    "section_title": "2013\u201314 Clubs",
+    "section_text": "",
+    "uid": "Libyan_Premier_League_0",
+    "intro": "The Libyan Premier League(Arabic: \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0644\u064a\u0628\u064a \u0627\u0644\u0645\u0645\u062a\u0627\u0632 ) is the men's top professional football division of the Libyan football league system. Administered by the Competition Organizing Committee in the Libyan Football Federation (Arabic: \u0644\u062c\u0646\u0629 \u062a\u0646\u0638\u064a\u0645 \u0627\u0644\u0645\u0633\u0627\u0628\u0642\u0627\u062a \u0628\u0627\u0644\u0625\u062a\u062d\u0627\u062f \u0627\u0644\u0644\u064a\u0628\u064a \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062f\u0645), Libyan Premier League is contested by 24 teams divided into two groups of 12, with the two lowest-placed teams of each group relegated to the First Division. 51 have competed in Libyan Premier League since its inception. Ten teams have been crowned champions, with Al-Ittihad winning the title a record 16 times and Al-Ahly Tripoli 12 times being the dominating clubs of the tournament. Al-Ahly Tripoli won the inaugural Premier League in 1963. Al-Ahly Tripoli and Al-Ahly Benghazi dominated the championship in the 1970s, winning four titles and two titles respectively throughout the decade. Al-Ittihad dominated the League through the 2000s, winning 8 titles. The league has been ranked by the IFFHS as the 56th highest in the world for 2009, making it the sixth highest ranked league in the Arab world, after the Saudi Professional League (32nd), the Egyptian Premier League (34th), the Algerian Ligue Professionnelle 1 (48th), the Tunisian Ligue Professionnelle 1 (54th) and the Sudan Premier League (55th), and the eighth highest in Africa, after the Nigerian Professional Football League (30th), Egyptian Premier League, the Girabola in Angola (42nd), Algerian Ligue Professionnelle 1, Zambia Super League (53rd), Tunisian Ligue Professionnelle 1 and Sudan Premier League."
+}

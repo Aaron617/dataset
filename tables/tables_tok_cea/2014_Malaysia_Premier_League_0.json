@@ -1,0 +1,668 @@
+{
+    "url": "https://en.wikipedia.org/wiki/2014_Malaysia_Premier_League",
+    "title": "2014 Malaysia Premier League",
+    "header": [
+        [
+            "Team",
+            []
+        ],
+        [
+            "Team Based",
+            []
+        ],
+        [
+            "Stadium Location",
+            []
+        ],
+        [
+            "Stadium",
+            []
+        ],
+        [
+            "Stadium Capacity",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "DRB-Hicom",
+                [
+                    "/wiki/DRB-Hicom_F.C."
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Kuala Lumpur",
+                [
+                    "/wiki/Kuala_Lumpur"
+                ],
+                [
+                    {
+                        "entity id": "Q1865",
+                        "label": "Kuala Lumpur"
+                    }
+                ]
+            ],
+            [
+                "Paya Rumput",
+                [
+                    "/wiki/Paya_Rumput"
+                ],
+                [
+                    {
+                        "entity id": "Q7156639",
+                        "label": "Paya Rumput"
+                    }
+                ]
+            ],
+            [
+                "Hang Jebat Stadium",
+                [
+                    "/wiki/Hang_Jebat_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q5647818",
+                        "label": "Hang Jebat Stadium"
+                    }
+                ]
+            ],
+            [
+                "40,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Felda United",
+                [
+                    "/wiki/Felda_United_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q5425354",
+                        "label": "FELDA United F.C."
+                    }
+                ]
+            ],
+            [
+                "Kuala Lumpur",
+                [
+                    "/wiki/Kuala_Lumpur"
+                ],
+                [
+                    {
+                        "entity id": "Q1865",
+                        "label": "Kuala Lumpur"
+                    }
+                ]
+            ],
+            [
+                "Kelana Jaya",
+                [
+                    "/wiki/Kelana_Jaya"
+                ],
+                [
+                    {
+                        "entity id": "Q6385461",
+                        "label": "Kelana Jaya"
+                    }
+                ]
+            ],
+            [
+                "Petaling Jaya Stadium",
+                [
+                    "/wiki/Petaling_Jaya_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q6120366",
+                        "label": "MBPJ Stadium"
+                    }
+                ]
+            ],
+            [
+                "25,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Johor Darul Takzim II",
+                [
+                    "/wiki/Johor_Darul_Takzim_II_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q16504430",
+                        "label": "Johor Darul Takzim II F.C."
+                    }
+                ]
+            ],
+            [
+                "Johor Bahru",
+                [
+                    "/wiki/Johor_Bahru"
+                ],
+                [
+                    {
+                        "entity id": "Q231318",
+                        "label": "Johor Bahru"
+                    }
+                ]
+            ],
+            [
+                "Pasir Gudang",
+                [
+                    "/wiki/Pasir_Gudang"
+                ],
+                [
+                    {
+                        "entity id": "Q1018693",
+                        "label": "Pasir Gudang"
+                    }
+                ]
+            ],
+            [
+                "Pasir Gudang Corporation Stadium",
+                [
+                    "/wiki/Pasir_Gudang_Corporation_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q7142148",
+                        "label": "Pasir Gudang Corporation Stadium"
+                    }
+                ]
+            ],
+            [
+                "15,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Kedah",
+                [
+                    "/wiki/Kedah_FA"
+                ],
+                [
+                    {
+                        "entity id": "Q1730906",
+                        "label": "Kedah Darul Aman F.C."
+                    }
+                ]
+            ],
+            [
+                "Alor Star",
+                [
+                    "/wiki/Alor_Star"
+                ],
+                [
+                    {
+                        "entity id": "Q474868",
+                        "label": "Alor Setar"
+                    }
+                ]
+            ],
+            [
+                "Alor Star",
+                [
+                    "/wiki/Alor_Star"
+                ],
+                [
+                    {
+                        "entity id": "Q474868",
+                        "label": "Alor Setar"
+                    }
+                ]
+            ],
+            [
+                "Darul Aman Stadium",
+                [
+                    "/wiki/Darul_Aman_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q5225771",
+                        "label": "Darul Aman Stadium"
+                    }
+                ]
+            ],
+            [
+                "32,387",
+                []
+            ]
+        ],
+        [
+            [
+                "Negeri Sembilan",
+                [
+                    "/wiki/Negeri_Sembilan_FA"
+                ],
+                [
+                    {
+                        "entity id": "Q288031",
+                        "label": "Negeri Sembilan FA"
+                    }
+                ]
+            ],
+            [
+                "Seremban",
+                [
+                    "/wiki/Seremban"
+                ],
+                [
+                    {
+                        "entity id": "Q847610",
+                        "label": "Seremban"
+                    }
+                ]
+            ],
+            [
+                "Seremban",
+                [
+                    "/wiki/Seremban"
+                ],
+                [
+                    {
+                        "entity id": "Q847610",
+                        "label": "Seremban"
+                    }
+                ]
+            ],
+            [
+                "Tuanku Abdul Rahman Stadium",
+                [
+                    "/wiki/Tuanku_Abdul_Rahman_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q7850635",
+                        "label": "Tuanku Abdul Rahman Stadium"
+                    }
+                ]
+            ],
+            [
+                "40,000",
+                []
+            ]
+        ],
+        [
+            [
+                "PBAPP",
+                [
+                    "/wiki/PBAPP_FC"
+                ],
+                [
+                    {
+                        "entity id": "Q15408446",
+                        "label": "PBAPP FC"
+                    }
+                ]
+            ],
+            [
+                "George Town",
+                [
+                    "/wiki/George_Town,_Penang"
+                ],
+                [
+                    {
+                        "entity id": "Q61092",
+                        "label": "Georgetown"
+                    }
+                ]
+            ],
+            [
+                "George Town",
+                [
+                    "/wiki/George_Town,_Penang"
+                ],
+                [
+                    {
+                        "entity id": "Q61092",
+                        "label": "Georgetown"
+                    }
+                ]
+            ],
+            [
+                "Bandaraya Stadium",
+                [
+                    "/wiki/City_Stadium_(Penang)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "16,000",
+                []
+            ]
+        ],
+        [
+            [
+                "PDRM",
+                [
+                    "/wiki/PDRM_FA"
+                ],
+                [
+                    {
+                        "entity id": "Q869090",
+                        "label": "Polis Di-Raja Malaysia FA"
+                    }
+                ]
+            ],
+            [
+                "Kuala Lumpur",
+                [
+                    "/wiki/Kuala_Lumpur"
+                ],
+                [
+                    {
+                        "entity id": "Q1865",
+                        "label": "Kuala Lumpur"
+                    }
+                ]
+            ],
+            [
+                "Kelana Jaya",
+                [
+                    "/wiki/Kelana_Jaya"
+                ],
+                [
+                    {
+                        "entity id": "Q6385461",
+                        "label": "Kelana Jaya"
+                    }
+                ]
+            ],
+            [
+                "Petaling Jaya Stadium",
+                [
+                    "/wiki/Petaling_Jaya_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q6120366",
+                        "label": "MBPJ Stadium"
+                    }
+                ]
+            ],
+            [
+                "40,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Penang",
+                [
+                    "/wiki/Penang_FA"
+                ],
+                [
+                    {
+                        "entity id": "Q918609",
+                        "label": "Penang F.C."
+                    }
+                ]
+            ],
+            [
+                "George Town",
+                [
+                    "/wiki/George_Town,_Penang"
+                ],
+                [
+                    {
+                        "entity id": "Q61092",
+                        "label": "Georgetown"
+                    }
+                ]
+            ],
+            [
+                "George Town",
+                [
+                    "/wiki/George_Town,_Penang"
+                ],
+                [
+                    {
+                        "entity id": "Q61092",
+                        "label": "Georgetown"
+                    }
+                ]
+            ],
+            [
+                "Bandaraya Stadium",
+                [
+                    "/wiki/City_Stadium_(Penang)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "16,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Perlis",
+                [
+                    "/wiki/Perlis_FA"
+                ],
+                [
+                    {
+                        "entity id": "Q1542155",
+                        "label": "Perlis FA"
+                    }
+                ]
+            ],
+            [
+                "Kangar",
+                [
+                    "/wiki/Kangar"
+                ],
+                [
+                    {
+                        "entity id": "Q921155",
+                        "label": "Kangar"
+                    }
+                ]
+            ],
+            [
+                "Alor Star",
+                [
+                    "/wiki/Alor_Star"
+                ],
+                [
+                    {
+                        "entity id": "Q474868",
+                        "label": "Alor Setar"
+                    }
+                ]
+            ],
+            [
+                "Darul Aman Stadium",
+                [
+                    "/wiki/Darul_Aman_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q5225771",
+                        "label": "Darul Aman Stadium"
+                    }
+                ]
+            ],
+            [
+                "32,387",
+                []
+            ]
+        ],
+        [
+            [
+                "Putrajaya SPA",
+                [
+                    "/wiki/Putrajaya_SPA_F.C."
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Putrajaya",
+                [
+                    "/wiki/Putrajaya"
+                ],
+                [
+                    {
+                        "entity id": "Q182378",
+                        "label": "Putrajaya"
+                    }
+                ]
+            ],
+            [
+                "Paya Rumput",
+                [
+                    "/wiki/Paya_Rumput"
+                ],
+                [
+                    {
+                        "entity id": "Q7156639",
+                        "label": "Paya Rumput"
+                    }
+                ]
+            ],
+            [
+                "Hang Jebat Stadium",
+                [
+                    "/wiki/Hang_Jebat_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q5647818",
+                        "label": "Hang Jebat Stadium"
+                    }
+                ]
+            ],
+            [
+                "40,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Sabah",
+                [
+                    "/wiki/Sabah_FA"
+                ],
+                [
+                    {
+                        "entity id": "Q3099791",
+                        "label": "Sabah F.C."
+                    }
+                ]
+            ],
+            [
+                "Kota Kinabalu",
+                [
+                    "/wiki/Kota_Kinabalu"
+                ],
+                [
+                    {
+                        "entity id": "Q137271",
+                        "label": "Kota Kinabalu"
+                    }
+                ]
+            ],
+            [
+                "Kota Kinabalu",
+                [
+                    "/wiki/Kota_Kinabalu"
+                ],
+                [
+                    {
+                        "entity id": "Q137271",
+                        "label": "Kota Kinabalu"
+                    }
+                ]
+            ],
+            [
+                "Likas Stadium",
+                [
+                    "/wiki/Likas_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q3277807",
+                        "label": "Likas Stadium"
+                    }
+                ]
+            ],
+            [
+                "30,000",
+                []
+            ]
+        ],
+        [
+            [
+                "UiTM",
+                [
+                    "/wiki/UiTM_FC"
+                ],
+                [
+                    {
+                        "entity id": "Q7878038",
+                        "label": "UiTM FC"
+                    }
+                ]
+            ],
+            [
+                "Shah Alam",
+                [
+                    "/wiki/Shah_Alam"
+                ],
+                [
+                    {
+                        "entity id": "Q500033",
+                        "label": "Shah Alam"
+                    }
+                ]
+            ],
+            [
+                "Shah Alam",
+                [
+                    "/wiki/Shah_Alam"
+                ],
+                [
+                    {
+                        "entity id": "Q500033",
+                        "label": "Shah Alam"
+                    }
+                ]
+            ],
+            [
+                "UiTM Stadium",
+                [
+                    "/wiki/UiTM_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q20465376",
+                        "label": "UiTM Stadium"
+                    }
+                ]
+            ],
+            [
+                "10,000",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Team Summaries -- Stadium",
+    "section_text": "",
+    "uid": "2014_malaysia_premier_league_0",
+    "intro": "The 2014 Liga Premier (English: 2014 Premier League) also known as the Astro Liga Premier for sponsorship reasons is the ninth season of the Liga Premier, the second-tier professional football league in Malaysia. The season was held from 24 January 2014. The Liga Premier champions for 2014 season was PDRM. The champions and runners-up were both promoted to 2015 Liga Super."
+}

@@ -1,0 +1,581 @@
+{
+    "url": "https://en.wikipedia.org/wiki/UAE_Pro_League",
+    "title": "UAE Pro League",
+    "header": [
+        [
+            "Club",
+            []
+        ],
+        [
+            "Home city",
+            []
+        ],
+        [
+            "Stadium",
+            []
+        ],
+        [
+            "Capacity",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Ajman",
+                [
+                    "/wiki/Ajman_Club"
+                ],
+                [
+                    {
+                        "entity id": "Q378368",
+                        "label": "Ajman Club"
+                    }
+                ]
+            ],
+            [
+                "Ajman City",
+                [
+                    "/wiki/Ajman_City"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Ajman Stadium",
+                [
+                    "/wiki/Ajman_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q4699899",
+                        "label": "Ajman Stadium"
+                    }
+                ]
+            ],
+            [
+                "5,537",
+                []
+            ]
+        ],
+        [
+            [
+                "Al Ain",
+                [
+                    "/wiki/Al_Ain_FC"
+                ],
+                [
+                    {
+                        "entity id": "Q812720",
+                        "label": "Al Ain FC"
+                    }
+                ]
+            ],
+            [
+                "Al-Ain",
+                [
+                    "/wiki/Al-Ain"
+                ],
+                [
+                    {
+                        "entity id": "Q234600",
+                        "label": "Al Ain"
+                    }
+                ]
+            ],
+            [
+                "Hazza Bin Zayed Stadium",
+                [
+                    "/wiki/Hazza_Bin_Zayed_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q15646927",
+                        "label": "Hazza bin Zayed Stadium"
+                    }
+                ]
+            ],
+            [
+                "22,965",
+                []
+            ]
+        ],
+        [
+            [
+                "Al Dhafra",
+                [
+                    "/wiki/Al_Dhafra_FC"
+                ],
+                [
+                    {
+                        "entity id": "Q96417600",
+                        "label": "Al Dhafra FC"
+                    }
+                ]
+            ],
+            [
+                "Madinat Zayed",
+                [
+                    "/wiki/Madinat_Zayed"
+                ],
+                [
+                    {
+                        "entity id": "Q12241857",
+                        "label": "Madinat Zayed"
+                    }
+                ]
+            ],
+            [
+                "Al Dhafra Stadium",
+                [
+                    "/wiki/Al_Dhafra_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q3607490",
+                        "label": "Al Dhafra Stadium"
+                    }
+                ]
+            ],
+            [
+                "5,020",
+                []
+            ]
+        ],
+        [
+            [
+                "Al Jazira",
+                [
+                    "/wiki/Al-Jazira_Club"
+                ],
+                [
+                    {
+                        "entity id": "Q429630",
+                        "label": "Al Jazira Club"
+                    }
+                ]
+            ],
+            [
+                "Abu Dhabi City ( Al Nahyan )",
+                [
+                    "/wiki/Abu_Dhabi_City",
+                    "/wiki/Al_Nahyan_neighbourhood"
+                ],
+                [
+                    {
+                        "entity id": "Q39055414",
+                        "label": "Abu Dhabi City Derby"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Mohammad Bin Zayed Stadium",
+                [
+                    "/wiki/Mohammad_Bin_Zayed_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q283849",
+                        "label": "Mohammed Bin Zayed Stadium"
+                    }
+                ]
+            ],
+            [
+                "42,056",
+                []
+            ]
+        ],
+        [
+            [
+                "Al Nasr",
+                [
+                    "/wiki/Al-Nasr_Dubai_SC"
+                ],
+                [
+                    {
+                        "entity id": "Q812723",
+                        "label": "Al Nasr SC"
+                    }
+                ]
+            ],
+            [
+                "Dubai City ( Al Nasr )",
+                [
+                    "/wiki/Dubai_City",
+                    "/wiki/Al_Nasr,_Dubai"
+                ],
+                [
+                    {
+                        "entity id": "Q612",
+                        "label": "Dubai"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Al-Maktoum Stadium",
+                [
+                    "/wiki/Al-Maktoum_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q3119433",
+                        "label": "Al-Maktoum Stadium"
+                    }
+                ]
+            ],
+            [
+                "15,058",
+                []
+            ]
+        ],
+        [
+            [
+                "Al Wahda",
+                [
+                    "/wiki/Al-Wahda_F.C."
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Abu Dhabi City ( Al Nahyan )",
+                []
+            ],
+            [
+                "Al Nahyan Stadium",
+                [
+                    "/wiki/Al_Nahyan_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q285692",
+                        "label": "Al Nahyan Stadium"
+                    }
+                ]
+            ],
+            [
+                "12,201",
+                []
+            ]
+        ],
+        [
+            [
+                "Al Wasl",
+                [
+                    "/wiki/Al-Wasl_F.C."
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Dubai City ( Zabeel )",
+                [
+                    "/wiki/Zabeel,_Dubai"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Zabeel Stadium",
+                [
+                    "/wiki/Zabeel_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q2701976",
+                        "label": "Za'abeel Stadium"
+                    }
+                ]
+            ],
+            [
+                "8,439",
+                []
+            ]
+        ],
+        [
+            [
+                "Baniyas",
+                [
+                    "/wiki/Baniyas_Club"
+                ],
+                [
+                    {
+                        "entity id": "Q1344302",
+                        "label": "Baniyas SC"
+                    }
+                ]
+            ],
+            [
+                "Abu Dhabi City ( Al Shamkha )",
+                []
+            ],
+            [
+                "Baniyas Stadium",
+                [
+                    "/wiki/Baniyas_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q4116974",
+                        "label": "Baniyas Stadium"
+                    }
+                ]
+            ],
+            [
+                "10,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Hatta",
+                [
+                    "/wiki/Hatta_Club"
+                ],
+                [
+                    {
+                        "entity id": "Q2756902",
+                        "label": "Hatta Club"
+                    }
+                ]
+            ],
+            [
+                "Hatta",
+                [
+                    "/wiki/Hatta,_United_Arab_Emirates"
+                ],
+                [
+                    {
+                        "entity id": "Q770233",
+                        "label": "Hatta, United Arab Emirates"
+                    }
+                ]
+            ],
+            [
+                "Hamdan Bin Rashid Stadium",
+                [
+                    "/wiki/Hamdan_Bin_Rashid_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q39050568",
+                        "label": "Hamdan Bin Rashid Stadium"
+                    }
+                ]
+            ],
+            [
+                "5,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Fujairah",
+                [
+                    "/wiki/Fujairah_FC"
+                ],
+                [
+                    {
+                        "entity id": "Q2084032",
+                        "label": "Al-Fujairah FC"
+                    }
+                ]
+            ],
+            [
+                "Fujairah City",
+                [
+                    "/wiki/Fujairah_City"
+                ],
+                [
+                    {
+                        "entity id": "Q17003358",
+                        "label": "Fujairah City Centre"
+                    }
+                ]
+            ],
+            [
+                "Fujairah Club Stadium",
+                [
+                    "/wiki/Fujairah_Club_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q5507334",
+                        "label": "Fujairah Club Stadium"
+                    }
+                ]
+            ],
+            [
+                "10,645",
+                []
+            ]
+        ],
+        [
+            [
+                "Kalba",
+                [
+                    "/wiki/Al-Ittihad_Kalba_SC"
+                ],
+                [
+                    {
+                        "entity id": "Q3804552",
+                        "label": "Ittihad Kalba'"
+                    }
+                ]
+            ],
+            [
+                "Kalba",
+                [
+                    "/wiki/Kalba"
+                ],
+                [
+                    {
+                        "entity id": "Q2204078",
+                        "label": "Kalba"
+                    }
+                ]
+            ],
+            [
+                "Ittihad Kalba Stadium",
+                [
+                    "/wiki/Ittihad_Kalba_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q28221604",
+                        "label": "Ittihad Kalba Stadium"
+                    }
+                ]
+            ],
+            [
+                "8,500",
+                []
+            ]
+        ],
+        [
+            [
+                "Khor Fakkan",
+                [
+                    "/wiki/Khor_Fakkan_Club"
+                ],
+                [
+                    {
+                        "entity id": "Q6878716",
+                        "label": "Khor Fakkan Club"
+                    }
+                ]
+            ],
+            [
+                "Khor Fakkan",
+                [
+                    "/wiki/Khor_Fakkan"
+                ],
+                [
+                    {
+                        "entity id": "Q764279",
+                        "label": "Khor Fakkan"
+                    }
+                ]
+            ],
+            [
+                "Saqr bin Mohammad al Qassimi Stadium",
+                []
+            ],
+            [
+                "4,373",
+                []
+            ]
+        ],
+        [
+            [
+                "Shabab Al Ahli",
+                [
+                    "/wiki/Shabab_Al-Ahli_Dubai_FC"
+                ],
+                [
+                    {
+                        "entity id": "Q424943",
+                        "label": "Shabab Al Ahli Club"
+                    }
+                ]
+            ],
+            [
+                "Dubai City ( Deira )",
+                [
+                    "/wiki/Deira,_Dubai"
+                ],
+                [
+                    {
+                        "entity id": "Q3021334",
+                        "label": "Deira"
+                    }
+                ]
+            ],
+            [
+                "Rashid Stadium",
+                [
+                    "/wiki/Rashid_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q2525218",
+                        "label": "Rashid Stadium"
+                    }
+                ]
+            ],
+            [
+                "12,052",
+                []
+            ]
+        ],
+        [
+            [
+                "Sharjah",
+                [
+                    "/wiki/Sharjah_FC"
+                ],
+                [
+                    {
+                        "entity id": "Q286801",
+                        "label": "Sharjah FC"
+                    }
+                ]
+            ],
+            [
+                "Sharjah City",
+                [
+                    "/wiki/Sharjah_City"
+                ],
+                [
+                    {
+                        "entity id": "Q43370107",
+                        "label": "Sharjah City Municipality"
+                    }
+                ]
+            ],
+            [
+                "Sharjah Stadium",
+                [
+                    "/wiki/Sharjah_Stadium_(football)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "20,000",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Member clubs ( 2019\u201320 )",
+    "section_text": "",
+    "uid": "UAE_Arabian_Gulf_League_1",
+    "intro": "The UAE Pro League, known for sponsorship reasons as the Arabian Gulf League, is the top professional football league in the United Arab Emirates (UAE). The first team to win the title was Al Orouba (Sharjah), whilst Al Ain has the record with 13 league titles to their name. Fourteen clubs compete in the League that operates on a system of promotion and relegation with the First Division League. The League was founded in 1973 as the UAE Football League. The first 1973-74 season was a trial championship but was declared official by the UAE FA in 2001. In February 2007, the Pro League Committee was formed, and became the organizing body of the League."
+}

@@ -1,0 +1,994 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Sports_in_Wisconsin",
+    "title": "Sports in Wisconsin",
+    "header": [
+        [
+            "Club",
+            []
+        ],
+        [
+            "City",
+            []
+        ],
+        [
+            "Sport",
+            []
+        ],
+        [
+            "League",
+            []
+        ],
+        [
+            "History",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Milwaukee Braves",
+                [
+                    "/wiki/Milwaukee_Braves"
+                ],
+                [
+                    {
+                        "entity id": "Q461595",
+                        "label": "Atlanta Braves"
+                    }
+                ]
+            ],
+            [
+                "Milwaukee",
+                []
+            ],
+            [
+                "Baseball",
+                []
+            ],
+            [
+                "Major League Baseball",
+                [
+                    "/wiki/Major_League_Baseball"
+                ],
+                [
+                    {
+                        "entity id": "Q1163715",
+                        "label": "Major League Baseball"
+                    }
+                ]
+            ],
+            [
+                "Moved to Atlanta and are now the Atlanta Braves",
+                [
+                    "/wiki/Atlanta",
+                    "/wiki/Atlanta_Braves"
+                ],
+                [
+                    {
+                        "entity id": "Q23556",
+                        "label": "Atlanta"
+                    },
+                    {
+                        "entity id": "Q461595",
+                        "label": "Atlanta Braves"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Milwaukee Brewers",
+                [
+                    "/wiki/Milwaukee_Brewers_(1901)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Milwaukee",
+                []
+            ],
+            [
+                "Baseball",
+                []
+            ],
+            [
+                "Western League ( now Major League Baseball )",
+                [
+                    "/wiki/Western_League_(original)",
+                    "/wiki/Major_League_Baseball"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q1163715",
+                        "label": "Major League Baseball"
+                    }
+                ]
+            ],
+            [
+                "Moved to St. Louis , Missouri , and became the St. Louis Browns ; moved to Baltimore and are now the Baltimore Orioles",
+                [
+                    "/wiki/St._Louis,_Missouri",
+                    "/wiki/St._Louis_Browns",
+                    "/wiki/Baltimore",
+                    "/wiki/Baltimore_Orioles"
+                ],
+                [
+                    {
+                        "entity id": "Q38022",
+                        "label": "St. Louis"
+                    },
+                    {
+                        "entity id": "Q504309",
+                        "label": "St. Louis Cardinals"
+                    },
+                    {
+                        "entity id": "Q5092",
+                        "label": "Baltimore"
+                    },
+                    {
+                        "entity id": "Q650816",
+                        "label": "Baltimore Orioles"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Milwaukee Grays",
+                [
+                    "/wiki/Milwaukee_Grays"
+                ],
+                [
+                    {
+                        "entity id": "Q1252990",
+                        "label": "Milwaukee Grays"
+                    }
+                ]
+            ],
+            [
+                "Milwaukee",
+                []
+            ],
+            [
+                "Baseball",
+                []
+            ],
+            [
+                "National League ( now part of Major League Baseball )",
+                [
+                    "/wiki/National_League",
+                    "/wiki/Major_League_Baseball"
+                ],
+                [
+                    {
+                        "entity id": "Q858082",
+                        "label": "National League"
+                    },
+                    {
+                        "entity id": "Q1163715",
+                        "label": "Major League Baseball"
+                    }
+                ]
+            ],
+            [
+                "Defunct",
+                []
+            ]
+        ],
+        [
+            [
+                "Milwaukee Hawks",
+                [
+                    "/wiki/Milwaukee_Hawks"
+                ],
+                [
+                    {
+                        "entity id": "Q159893",
+                        "label": "Atlanta Hawks"
+                    }
+                ]
+            ],
+            [
+                "Milwaukee",
+                []
+            ],
+            [
+                "Basketball",
+                []
+            ],
+            [
+                "National Basketball Association",
+                [
+                    "/wiki/National_Basketball_Association"
+                ],
+                [
+                    {
+                        "entity id": "Q155223",
+                        "label": "National Basketball Association"
+                    }
+                ]
+            ],
+            [
+                "Moved to St. Louis , Missouri , and became the St. Louis Hawks ; moved to Atlanta and are now the Atlanta Hawks",
+                [
+                    "/wiki/St._Louis,_Missouri",
+                    "/wiki/St._Louis_Hawks",
+                    "/wiki/Atlanta",
+                    "/wiki/Atlanta_Hawks"
+                ],
+                [
+                    {
+                        "entity id": "Q38022",
+                        "label": "St. Louis"
+                    },
+                    {
+                        "entity id": "Q159893",
+                        "label": "Atlanta Hawks"
+                    },
+                    {
+                        "entity id": "Q23556",
+                        "label": "Atlanta"
+                    },
+                    {
+                        "entity id": "Q159893",
+                        "label": "Atlanta Hawks"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Madison Hatters",
+                [
+                    "/wiki/Madison_Hatters"
+                ],
+                [
+                    {
+                        "entity id": "Q6727990",
+                        "label": "Madison Hatters"
+                    }
+                ]
+            ],
+            [
+                "Madison",
+                []
+            ],
+            [
+                "Baseball",
+                []
+            ],
+            [
+                "Midwest League",
+                [
+                    "/wiki/Midwest_League"
+                ],
+                [
+                    {
+                        "entity id": "Q1135495",
+                        "label": "Midwest League"
+                    }
+                ]
+            ],
+            [
+                "Moved to Midland , Michigan , and are now the Great Lakes Loons",
+                [
+                    "/wiki/Midland,_Michigan",
+                    "/wiki/Great_Lakes_Loons"
+                ],
+                [
+                    {
+                        "entity id": "Q1005953",
+                        "label": "Midland"
+                    },
+                    {
+                        "entity id": "Q3115960",
+                        "label": "Great Lakes Loons"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Madison Muskies",
+                [
+                    "/wiki/Madison_Muskies"
+                ],
+                [
+                    {
+                        "entity id": "Q6728064",
+                        "label": "Madison Muskies"
+                    }
+                ]
+            ],
+            [
+                "Madison",
+                []
+            ],
+            [
+                "Baseball",
+                []
+            ],
+            [
+                "Midwest League",
+                [
+                    "/wiki/Midwest_League"
+                ],
+                [
+                    {
+                        "entity id": "Q1135495",
+                        "label": "Midwest League"
+                    }
+                ]
+            ],
+            [
+                "Moved to Comstock Park , Michigan , and are now the West Michigan Whitecaps",
+                [
+                    "/wiki/Comstock_Park,_Michigan",
+                    "/wiki/West_Michigan_Whitecaps"
+                ],
+                [
+                    {
+                        "entity id": "Q2383121",
+                        "label": "Comstock Park"
+                    },
+                    {
+                        "entity id": "Q7985913",
+                        "label": "West Michigan Whitecaps"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Wausau Mets/Timbers",
+                [
+                    "/wiki/Wausau_Timbers"
+                ],
+                [
+                    {
+                        "entity id": "Q7975225",
+                        "label": "Wausau Timbers"
+                    }
+                ]
+            ],
+            [
+                "Wausau",
+                []
+            ],
+            [
+                "Baseball",
+                []
+            ],
+            [
+                "Midwest League",
+                [
+                    "/wiki/Midwest_League"
+                ],
+                [
+                    {
+                        "entity id": "Q1135495",
+                        "label": "Midwest League"
+                    }
+                ]
+            ],
+            [
+                "Moved to Geneva , Illinois , and are now the Kane County Cougars",
+                [
+                    "/wiki/Geneva,_Illinois",
+                    "/wiki/Kane_County_Cougars"
+                ],
+                [
+                    {
+                        "entity id": "Q576152",
+                        "label": "Geneva"
+                    },
+                    {
+                        "entity id": "Q12060951",
+                        "label": "Kane County Cougars"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Wisconsin Rapids Senators/Twins",
+                [
+                    "/wiki/Wisconsin_Rapids_Twins"
+                ],
+                [
+                    {
+                        "entity id": "Q8027258",
+                        "label": "Wisconsin Rapids Twins"
+                    }
+                ]
+            ],
+            [
+                "Wisconsin Rapids/ Kenosha",
+                []
+            ],
+            [
+                "Baseball",
+                []
+            ],
+            [
+                "Midwest League",
+                [
+                    "/wiki/Midwest_League"
+                ],
+                [
+                    {
+                        "entity id": "Q1135495",
+                        "label": "Midwest League"
+                    }
+                ]
+            ],
+            [
+                "Moved to Fort Wayne , Indiana , and are now the Fort Wayne TinCaps",
+                [
+                    "/wiki/Fort_Wayne,_Indiana",
+                    "/wiki/Fort_Wayne_TinCaps"
+                ],
+                [
+                    {
+                        "entity id": "Q49268",
+                        "label": "Fort Wayne"
+                    },
+                    {
+                        "entity id": "Q5472306",
+                        "label": "Fort Wayne TinCaps"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Duluth-Superior Dukes",
+                [
+                    "/wiki/Duluth\u2013Superior_Dukes"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Superior-Duluth",
+                []
+            ],
+            [
+                "Baseball",
+                []
+            ],
+            [
+                "Northern League",
+                [
+                    "/wiki/Northern_League_(baseball,_1993\u20132010)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Split time with Duluth , Minnesota ; moved to Kansas City , Kansas , and are now the Kansas City T-Bones",
+                [
+                    "/wiki/Duluth,_Minnesota",
+                    "/wiki/Kansas_City,_Kansas",
+                    "/wiki/Kansas_City_T-Bones"
+                ],
+                [
+                    {
+                        "entity id": "Q485708",
+                        "label": "Duluth"
+                    },
+                    {
+                        "entity id": "Q486472",
+                        "label": "Kansas City"
+                    },
+                    {
+                        "entity id": "Q6364900",
+                        "label": "Kansas City Monarchs"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Madison Black Wolf",
+                [
+                    "/wiki/Madison_Black_Wolf"
+                ],
+                [
+                    {
+                        "entity id": "Q6727880",
+                        "label": "Madison Black Wolf"
+                    }
+                ]
+            ],
+            [
+                "Madison",
+                []
+            ],
+            [
+                "Baseball",
+                []
+            ],
+            [
+                "Northern League",
+                [
+                    "/wiki/Northern_League_(baseball,_1993\u20132010)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Moved to Lincoln , Nebraska , and are now the Lincoln Saltdogs",
+                [
+                    "/wiki/Lincoln,_Nebraska",
+                    "/wiki/Lincoln_Saltdogs"
+                ],
+                [
+                    {
+                        "entity id": "Q28260",
+                        "label": "Lincoln"
+                    },
+                    {
+                        "entity id": "Q6550990",
+                        "label": "Lincoln Saltdogs"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kenosha Mammoths",
+                [
+                    "/wiki/Kenosha_Mammoths"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Kenosha",
+                []
+            ],
+            [
+                "Baseball",
+                []
+            ],
+            [
+                "Frontier League",
+                [
+                    "/wiki/Frontier_League"
+                ],
+                [
+                    {
+                        "entity id": "Q1141182",
+                        "label": "Frontier League"
+                    }
+                ]
+            ],
+            [
+                "Moved to Ozark , Missouri , and became the Springfield-Ozark Ducks ; moved to the Ohio Valley , shared time between Lorain , Ohio , Marietta , Ohio , and Lafayette , Indiana , and become the Ohio Valley Redcoats ; team suspended operations",
+                [
+                    "/wiki/Ozark,_Missouri",
+                    "/wiki/Ohio_Valley",
+                    "/wiki/Lorain,_Ohio",
+                    "/wiki/Marietta,_Ohio",
+                    "/wiki/Lafayette,_Indiana",
+                    "/wiki/Ohio_Valley_Redcoats"
+                ],
+                [
+                    {
+                        "entity id": "Q968766",
+                        "label": "Ozark"
+                    },
+                    {
+                        "entity id": "Q72054518",
+                        "label": "Ohio River Valley"
+                    },
+                    {
+                        "entity id": "Q609698",
+                        "label": "Lorain"
+                    },
+                    {
+                        "entity id": "Q985482",
+                        "label": "Marietta"
+                    },
+                    {
+                        "entity id": "Q638187",
+                        "label": "Lafayette"
+                    },
+                    {
+                        "entity id": "Q7081020",
+                        "label": "Ohio Valley Redcoats"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Milwaukee Brewers",
+                [
+                    "/wiki/Milwaukee_Brewers_(minor_league_baseball_team)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Milwaukee",
+                []
+            ],
+            [
+                "Baseball",
+                []
+            ],
+            [
+                "American Association",
+                [
+                    "/wiki/American_Association_(19th_century)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Moved to Toledo , Ohio , and became the Toledo Mud Hens ; moved to Wichita , Kansas , and became the Wichita Braves ; moved to Fort Worth , Texas , and became the Fort Worth Cats ; moved to Dallas , Texas , and were the Dallas Rangers for the rest of the team 's existence",
+                [
+                    "/wiki/Toledo,_Ohio",
+                    "/wiki/Wichita,_Kansas",
+                    "/wiki/Wichita_Braves",
+                    "/wiki/Fort_Worth,_Texas",
+                    "/wiki/Fort_Worth_Cats",
+                    "/wiki/Dallas,_Texas",
+                    "/wiki/Dallas_Rangers"
+                ],
+                [
+                    {
+                        "entity id": "Q49239",
+                        "label": "Toledo"
+                    },
+                    {
+                        "entity id": "Q49266",
+                        "label": "Wichita"
+                    },
+                    {
+                        "entity id": "Q7998117",
+                        "label": "Wichita Braves"
+                    },
+                    {
+                        "entity id": "Q16558",
+                        "label": "Fort Worth"
+                    },
+                    {
+                        "entity id": "Q981266",
+                        "label": "Fort Worth Cats"
+                    },
+                    {
+                        "entity id": "Q16557",
+                        "label": "Dallas"
+                    },
+                    {
+                        "entity id": "Q5211388",
+                        "label": "Dallas Rangers"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Madison Kodiaks",
+                [
+                    "/wiki/Madison_Kodiaks"
+                ],
+                [
+                    {
+                        "entity id": "Q1883375",
+                        "label": "Madison Kodiaks"
+                    }
+                ]
+            ],
+            [
+                "Madison",
+                []
+            ],
+            [
+                "Ice hockey",
+                []
+            ],
+            [
+                "United Hockey League",
+                [
+                    "/wiki/United_Hockey_League"
+                ],
+                [
+                    {
+                        "entity id": "Q1516893",
+                        "label": "United Hockey League"
+                    }
+                ]
+            ],
+            [
+                "Moved to Kalamazoo , Michigan , and are now the Kalamazoo Wings",
+                [
+                    "/wiki/Kalamazoo,_Michigan",
+                    "/wiki/Kalamazoo_Wings"
+                ],
+                [
+                    {
+                        "entity id": "Q167155",
+                        "label": "Kalamazoo"
+                    },
+                    {
+                        "entity id": "Q1498153",
+                        "label": "Kalamazoo Wings"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Milwaukee Wave United",
+                [
+                    "/wiki/Milwaukee_Wave_United"
+                ],
+                [
+                    {
+                        "entity id": "Q16845072",
+                        "label": "Milwaukee Wave United"
+                    }
+                ]
+            ],
+            [
+                "Milwaukee",
+                []
+            ],
+            [
+                "Soccer",
+                []
+            ],
+            [
+                "USL First Division",
+                [
+                    "/wiki/USL_First_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q1351694",
+                        "label": "USL First Division"
+                    }
+                ]
+            ],
+            [
+                "Defunct",
+                []
+            ]
+        ],
+        [
+            [
+                "Beloit Fairies",
+                []
+            ],
+            [
+                "Beloit",
+                []
+            ],
+            [
+                "Football",
+                []
+            ],
+            [
+                "National Football League",
+                [
+                    "/wiki/National_Football_League"
+                ],
+                [
+                    {
+                        "entity id": "Q1215884",
+                        "label": "National Football League"
+                    }
+                ]
+            ],
+            [
+                "Defunct",
+                []
+            ]
+        ],
+        [
+            [
+                "Kenosha Maroons",
+                [
+                    "/wiki/Kenosha_Maroons"
+                ],
+                [
+                    {
+                        "entity id": "Q6391311",
+                        "label": "Kenosha Maroons"
+                    }
+                ]
+            ],
+            [
+                "Kenosha",
+                []
+            ],
+            [
+                "Football",
+                []
+            ],
+            [
+                "National Football League",
+                [
+                    "/wiki/National_Football_League"
+                ],
+                [
+                    {
+                        "entity id": "Q1215884",
+                        "label": "National Football League"
+                    }
+                ]
+            ],
+            [
+                "Defunct",
+                []
+            ]
+        ],
+        [
+            [
+                "Milwaukee Badgers",
+                [
+                    "/wiki/Milwaukee_Badgers"
+                ],
+                [
+                    {
+                        "entity id": "Q833100",
+                        "label": "Milwaukee Badgers"
+                    }
+                ]
+            ],
+            [
+                "Milwaukee",
+                []
+            ],
+            [
+                "Football",
+                []
+            ],
+            [
+                "National Football League",
+                [
+                    "/wiki/National_Football_League"
+                ],
+                [
+                    {
+                        "entity id": "Q1215884",
+                        "label": "National Football League"
+                    }
+                ]
+            ],
+            [
+                "Defunct",
+                []
+            ]
+        ],
+        [
+            [
+                "Racine Legion/Tornadoes",
+                [
+                    "/wiki/Racine_Legion/Tornadoes"
+                ],
+                [
+                    {
+                        "entity id": "Q7279657",
+                        "label": "Racine Legion/Tornadoes"
+                    }
+                ]
+            ],
+            [
+                "Racine",
+                []
+            ],
+            [
+                "Football",
+                []
+            ],
+            [
+                "National Football League",
+                [
+                    "/wiki/National_Football_League"
+                ],
+                [
+                    {
+                        "entity id": "Q1215884",
+                        "label": "National Football League"
+                    }
+                ]
+            ],
+            [
+                "Defunct",
+                []
+            ]
+        ],
+        [
+            [
+                "Milwaukee Chiefs",
+                [
+                    "/wiki/Milwaukee_Chiefs_(AFL)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Milwaukee",
+                []
+            ],
+            [
+                "Football",
+                []
+            ],
+            [
+                "American Football League",
+                [
+                    "/wiki/American_Football_League_(1940)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Defunct",
+                []
+            ]
+        ],
+        [
+            [
+                "Sheboygan Redskins",
+                [
+                    "/wiki/Sheboygan_Redskins"
+                ],
+                [
+                    {
+                        "entity id": "Q2354728",
+                        "label": "Sheboygan Red Skins"
+                    }
+                ]
+            ],
+            [
+                "Sheboygan",
+                []
+            ],
+            [
+                "Basketball",
+                []
+            ],
+            [
+                "National Basketball Association / National Basketball League / National Professional Basketball League",
+                [
+                    "/wiki/National_Basketball_Association",
+                    "/wiki/National_Basketball_League_(United_States)",
+                    "/wiki/National_Professional_Basketball_League_(1950\u20131951)"
+                ],
+                [
+                    {
+                        "entity id": "Q155223",
+                        "label": "National Basketball Association"
+                    },
+                    {},
+                    {}
+                ]
+            ],
+            [
+                "Defunct",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Former professional teams",
+    "section_text": "",
+    "uid": "Sports_in_Wisconsin_1",
+    "intro": "Wisconsin sports includes numerous professional and amateur sporting teams, events, and venues located in the U.S. state of Wisconsin."
+}

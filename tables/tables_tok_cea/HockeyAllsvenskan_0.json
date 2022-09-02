@@ -1,0 +1,597 @@
+{
+    "url": "https://en.wikipedia.org/wiki/HockeyAllsvenskan",
+    "title": "HockeyAllsvenskan",
+    "header": [
+        [
+            "Team",
+            []
+        ],
+        [
+            "City",
+            []
+        ],
+        [
+            "Arena",
+            []
+        ],
+        [
+            "Capacity",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "AIK",
+                [
+                    "/wiki/AIK_IF"
+                ],
+                [
+                    {
+                        "entity id": "Q59583",
+                        "label": "AIK IF"
+                    }
+                ]
+            ],
+            [
+                "Stockholm",
+                [
+                    "/wiki/Stockholm"
+                ],
+                [
+                    {
+                        "entity id": "Q1754",
+                        "label": "Stockholm"
+                    }
+                ]
+            ],
+            [
+                "Hovet",
+                [
+                    "/wiki/Hovet"
+                ],
+                [
+                    {
+                        "entity id": "Q304362",
+                        "label": "Hovet"
+                    }
+                ]
+            ],
+            [
+                "8,094",
+                []
+            ]
+        ],
+        [
+            [
+                "Almtuna IS",
+                [
+                    "/wiki/Almtuna_IS"
+                ],
+                [
+                    {
+                        "entity id": "Q1814582",
+                        "label": "Almtuna IS"
+                    }
+                ]
+            ],
+            [
+                "Uppsala",
+                [
+                    "/wiki/Uppsala"
+                ],
+                [
+                    {
+                        "entity id": "Q25286",
+                        "label": "Uppsala"
+                    }
+                ]
+            ],
+            [
+                "Gr\u00e4nby Ishall",
+                [
+                    "/wiki/Gr\u00e4nby_Ishall"
+                ],
+                [
+                    {
+                        "entity id": "Q10509715",
+                        "label": "Upplands Bilforum Arena"
+                    }
+                ]
+            ],
+            [
+                "2,800",
+                []
+            ]
+        ],
+        [
+            [
+                "IF Bj\u00f6rkl\u00f6ven",
+                [
+                    "/wiki/IF_Bj\u00f6rkl\u00f6ven"
+                ],
+                [
+                    {
+                        "entity id": "Q1653574",
+                        "label": "IF Bj\u00f6rkl\u00f6ven"
+                    }
+                ]
+            ],
+            [
+                "Ume\u00e5",
+                [
+                    "/wiki/Ume\u00e5"
+                ],
+                [
+                    {
+                        "entity id": "Q25579",
+                        "label": "Ume\u00e5"
+                    }
+                ]
+            ],
+            [
+                "A3 Arena",
+                [
+                    "/wiki/A3_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q3303308",
+                        "label": "Ume\u00e5 Arena"
+                    }
+                ]
+            ],
+            [
+                "5,400",
+                []
+            ]
+        ],
+        [
+            [
+                "BIK Karlskoga",
+                [
+                    "/wiki/BIK_Karlskoga"
+                ],
+                [
+                    {
+                        "entity id": "Q795977",
+                        "label": "BIK Karlskoga"
+                    }
+                ]
+            ],
+            [
+                "Karlskoga",
+                [
+                    "/wiki/Karlskoga"
+                ],
+                [
+                    {
+                        "entity id": "Q54732",
+                        "label": "Karlskoga"
+                    }
+                ]
+            ],
+            [
+                "Nobelhallen",
+                [
+                    "/wiki/Nobelhallen"
+                ],
+                [
+                    {
+                        "entity id": "Q931441",
+                        "label": "Nobelhallen"
+                    }
+                ]
+            ],
+            [
+                "6,300",
+                []
+            ]
+        ],
+        [
+            [
+                "Karlskrona HK",
+                [
+                    "/wiki/Karlskrona_HK"
+                ],
+                [
+                    {
+                        "entity id": "Q1356458",
+                        "label": "Karlskrona HK"
+                    }
+                ]
+            ],
+            [
+                "Karlskrona",
+                [
+                    "/wiki/Karlskrona"
+                ],
+                [
+                    {
+                        "entity id": "Q25789",
+                        "label": "Karlskrona"
+                    }
+                ]
+            ],
+            [
+                "NKT Arena Karlskrona",
+                [
+                    "/wiki/NKT_Arena_Karlskrona"
+                ],
+                [
+                    {
+                        "entity id": "Q7696397",
+                        "label": "Telenor Arena Karlskrona"
+                    }
+                ]
+            ],
+            [
+                "5,050",
+                []
+            ]
+        ],
+        [
+            [
+                "Kristianstads IK",
+                [
+                    "/wiki/Kristianstads_IK"
+                ],
+                [
+                    {
+                        "entity id": "Q1356506",
+                        "label": "Kristianstads IK"
+                    }
+                ]
+            ],
+            [
+                "Kristianstad",
+                [
+                    "/wiki/Kristianstad"
+                ],
+                [
+                    {
+                        "entity id": "Q26937",
+                        "label": "Kristianstad"
+                    }
+                ]
+            ],
+            [
+                "Kristianstads ishall",
+                []
+            ],
+            [
+                "2,300",
+                []
+            ]
+        ],
+        [
+            [
+                "Modo Hockey",
+                [
+                    "/wiki/Modo_Hockey"
+                ],
+                [
+                    {
+                        "entity id": "Q1163263",
+                        "label": "Modo Hockey"
+                    }
+                ]
+            ],
+            [
+                "\u00d6rnsk\u00f6ldsvik",
+                [
+                    "/wiki/\u00d6rnsk\u00f6ldsvik"
+                ],
+                [
+                    {
+                        "entity id": "Q28327",
+                        "label": "\u00d6rnsk\u00f6ldsvik"
+                    }
+                ]
+            ],
+            [
+                "Fj\u00e4llr\u00e4ven Center",
+                [
+                    "/wiki/Fj\u00e4llr\u00e4ven_Center"
+                ],
+                [
+                    {
+                        "entity id": "Q970493",
+                        "label": "H\u00e4gglunds Arena"
+                    }
+                ]
+            ],
+            [
+                "7,600",
+                []
+            ]
+        ],
+        [
+            [
+                "Mora IK",
+                [
+                    "/wiki/Mora_IK"
+                ],
+                [
+                    {
+                        "entity id": "Q1422758",
+                        "label": "Mora IK"
+                    }
+                ]
+            ],
+            [
+                "Mora",
+                [
+                    "/wiki/Mora,_Sweden"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Jalas Arena",
+                [
+                    "/wiki/Jalas_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q3063336",
+                        "label": "Smidjegrav Arena"
+                    }
+                ]
+            ],
+            [
+                "4,500",
+                []
+            ]
+        ],
+        [
+            [
+                "S\u00f6dert\u00e4lje SK",
+                [
+                    "/wiki/S\u00f6dert\u00e4lje_SK"
+                ],
+                [
+                    {
+                        "entity id": "Q1472950",
+                        "label": "S\u00f6dert\u00e4lje SK"
+                    }
+                ]
+            ],
+            [
+                "S\u00f6dert\u00e4lje",
+                [
+                    "/wiki/S\u00f6dert\u00e4lje"
+                ],
+                [
+                    {
+                        "entity id": "Q26518",
+                        "label": "S\u00f6dert\u00e4lje"
+                    }
+                ]
+            ],
+            [
+                "Axa Sports Center",
+                [
+                    "/wiki/Axa_Sports_Center"
+                ],
+                [
+                    {
+                        "entity id": "Q300256",
+                        "label": "Scaniarinken"
+                    }
+                ]
+            ],
+            [
+                "6,200",
+                []
+            ]
+        ],
+        [
+            [
+                "Timr\u00e5 IK",
+                [
+                    "/wiki/Timr\u00e5_IK"
+                ],
+                [
+                    {
+                        "entity id": "Q1326078",
+                        "label": "Timr\u00e5 IK"
+                    }
+                ]
+            ],
+            [
+                "Timr\u00e5",
+                [
+                    "/wiki/Timr\u00e5"
+                ],
+                [
+                    {
+                        "entity id": "Q1195439",
+                        "label": "Timr\u00e5"
+                    }
+                ]
+            ],
+            [
+                "NHK Arena",
+                [
+                    "/wiki/NHK_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q1273393",
+                        "label": "NHC Arena"
+                    }
+                ]
+            ],
+            [
+                "6,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Tingsryds AIF",
+                [
+                    "/wiki/Tingsryds_AIF"
+                ],
+                [
+                    {
+                        "entity id": "Q1888714",
+                        "label": "Tingsryds AIF"
+                    }
+                ]
+            ],
+            [
+                "Tingsryd",
+                [
+                    "/wiki/Tingsryd"
+                ],
+                [
+                    {
+                        "entity id": "Q1813784",
+                        "label": "Tingsryd"
+                    }
+                ]
+            ],
+            [
+                "Nelson Garden Arena",
+                [
+                    "/wiki/Nelson_Garden_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q6990528",
+                        "label": "Nelson Garden Arena"
+                    }
+                ]
+            ],
+            [
+                "3,400",
+                []
+            ]
+        ],
+        [
+            [
+                "HC Vita H\u00e4sten",
+                [
+                    "/wiki/HC_Vita_H\u00e4sten"
+                ],
+                [
+                    {
+                        "entity id": "Q1356896",
+                        "label": "HC Vita H\u00e4sten"
+                    }
+                ]
+            ],
+            [
+                "Norrk\u00f6ping",
+                [
+                    "/wiki/Norrk\u00f6ping"
+                ],
+                [
+                    {
+                        "entity id": "Q25724",
+                        "label": "Norrk\u00f6ping"
+                    }
+                ]
+            ],
+            [
+                "Himmelstalundshallen",
+                [
+                    "/wiki/Himmelstalundshallen"
+                ],
+                [
+                    {
+                        "entity id": "Q3308214",
+                        "label": "Himmelstalundshallen"
+                    }
+                ]
+            ],
+            [
+                "4,280",
+                []
+            ]
+        ],
+        [
+            [
+                "V\u00e4sterviks IK",
+                [
+                    "/wiki/V\u00e4sterviks_IK"
+                ],
+                [
+                    {
+                        "entity id": "Q1670791",
+                        "label": "V\u00e4sterviks IK"
+                    }
+                ]
+            ],
+            [
+                "V\u00e4stervik",
+                [
+                    "/wiki/V\u00e4stervik"
+                ],
+                [
+                    {
+                        "entity id": "Q54764",
+                        "label": "V\u00e4stervik"
+                    }
+                ]
+            ],
+            [
+                "Plivit Trade-hallen",
+                []
+            ],
+            [
+                "2,500",
+                []
+            ]
+        ],
+        [
+            [
+                "V\u00e4ster\u00e5s IK",
+                [
+                    "/wiki/V\u00e4ster\u00e5s_IK"
+                ],
+                [
+                    {
+                        "entity id": "Q682307",
+                        "label": "V\u00e4ster\u00e5s IK"
+                    }
+                ]
+            ],
+            [
+                "V\u00e4ster\u00e5s",
+                [
+                    "/wiki/V\u00e4ster\u00e5s"
+                ],
+                [
+                    {
+                        "entity id": "Q25412",
+                        "label": "V\u00e4ster\u00e5s"
+                    }
+                ]
+            ],
+            [
+                "ABB Arena Nord",
+                [
+                    "/wiki/ABB_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q2583199",
+                        "label": "ABB Arena"
+                    }
+                ]
+            ],
+            [
+                "4,902",
+                []
+            ]
+        ]
+    ],
+    "section_title": "2019\u201320 participating teams",
+    "section_text": "This section is transcluded from 2019\u201320 HockeyAllsvenskan season . ( edit | history ) AIKAlmtunaKarlskogaKarlskronaKristianstadBj\u00f6rkl\u00f6venModoMoraS\u00f6dert\u00e4ljeTimr\u00e5TingsrydVita H\u00e4stenV\u00e4stervikV\u00e4ster\u00e5s HockeyAllsvenskan team map",
+    "uid": "HockeyAllsvenskan_0",
+    "intro": "HockeyAllsvenskan (previously Allsvenskan and SuperAllsvenskan) is a professional ice hockey league, and the second-highest league in the Swedish ice hockey system (after the SHL). Since the 2009-10 season, the league consists of fourteen teams."
+}

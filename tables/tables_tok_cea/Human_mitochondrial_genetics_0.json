@@ -1,0 +1,876 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Human_mitochondrial_genetics",
+    "title": "Human mitochondrial genetics",
+    "header": [
+        [
+            "Amino Acid",
+            []
+        ],
+        [
+            "3-Letter",
+            []
+        ],
+        [
+            "1-Letter",
+            []
+        ],
+        [
+            "MT DNA",
+            []
+        ],
+        [
+            "Positions",
+            []
+        ],
+        [
+            "Strand",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Alanine",
+                [
+                    "/wiki/Alanine"
+                ],
+                [
+                    {
+                        "entity id": "Q218642",
+                        "label": "L-Alanine"
+                    }
+                ]
+            ],
+            [
+                "Ala",
+                []
+            ],
+            [
+                "A",
+                []
+            ],
+            [
+                "MT-TA",
+                [
+                    "/wiki/MT-TA"
+                ],
+                [
+                    {
+                        "entity id": "Q15996832",
+                        "label": "MT-TA"
+                    }
+                ]
+            ],
+            [
+                "5,587-5,655",
+                []
+            ],
+            [
+                "H",
+                []
+            ]
+        ],
+        [
+            [
+                "Arginine",
+                [
+                    "/wiki/Arginine"
+                ],
+                [
+                    {
+                        "entity id": "Q173670",
+                        "label": "L-arginine"
+                    }
+                ]
+            ],
+            [
+                "Arg",
+                []
+            ],
+            [
+                "R",
+                []
+            ],
+            [
+                "MT-TR",
+                [
+                    "/wiki/MT-TR"
+                ],
+                [
+                    {
+                        "entity id": "Q6718356",
+                        "label": "MT-TR"
+                    }
+                ]
+            ],
+            [
+                "10,405-10,469",
+                []
+            ],
+            [
+                "L",
+                []
+            ]
+        ],
+        [
+            [
+                "Asparagine",
+                [
+                    "/wiki/Asparagine"
+                ],
+                [
+                    {
+                        "entity id": "Q185906",
+                        "label": "DL-asparagine"
+                    }
+                ]
+            ],
+            [
+                "Asn",
+                []
+            ],
+            [
+                "N",
+                []
+            ],
+            [
+                "MT-TN",
+                [
+                    "/wiki/MT-TN"
+                ],
+                [
+                    {
+                        "entity id": "Q6718350",
+                        "label": "MT-TN"
+                    }
+                ]
+            ],
+            [
+                "5,657-5,729",
+                []
+            ],
+            [
+                "H",
+                []
+            ]
+        ],
+        [
+            [
+                "Aspartic acid",
+                [
+                    "/wiki/Aspartic_acid"
+                ],
+                [
+                    {
+                        "entity id": "Q178450",
+                        "label": "L-aspartic acid"
+                    }
+                ]
+            ],
+            [
+                "Asp",
+                []
+            ],
+            [
+                "D",
+                []
+            ],
+            [
+                "MT-TD",
+                [
+                    "/wiki/MT-TD"
+                ],
+                [
+                    {
+                        "entity id": "Q6718335",
+                        "label": "MT-TD"
+                    }
+                ]
+            ],
+            [
+                "7,518-7,585",
+                []
+            ],
+            [
+                "L",
+                []
+            ]
+        ],
+        [
+            [
+                "Cysteine",
+                [
+                    "/wiki/Cysteine"
+                ],
+                [
+                    {
+                        "entity id": "Q186474",
+                        "label": "L-Cysteine"
+                    }
+                ]
+            ],
+            [
+                "Cys",
+                []
+            ],
+            [
+                "C",
+                []
+            ],
+            [
+                "MT-TC",
+                [
+                    "/wiki/MT-TC"
+                ],
+                [
+                    {
+                        "entity id": "Q6718333",
+                        "label": "MT-TC"
+                    }
+                ]
+            ],
+            [
+                "5,761-5,826",
+                []
+            ],
+            [
+                "H",
+                []
+            ]
+        ],
+        [
+            [
+                "Glutamic acid",
+                [
+                    "/wiki/Glutamic_acid"
+                ],
+                [
+                    {
+                        "entity id": "Q181136",
+                        "label": "DL-glutamic acid"
+                    }
+                ]
+            ],
+            [
+                "Glu",
+                []
+            ],
+            [
+                "E",
+                []
+            ],
+            [
+                "MT-TE",
+                [
+                    "/wiki/MT-TE"
+                ],
+                [
+                    {
+                        "entity id": "Q6718337",
+                        "label": "MT-TE"
+                    }
+                ]
+            ],
+            [
+                "14,674-14,742",
+                []
+            ],
+            [
+                "H",
+                []
+            ]
+        ],
+        [
+            [
+                "Glutamine",
+                [
+                    "/wiki/Glutamine"
+                ],
+                [
+                    {
+                        "entity id": "Q181619",
+                        "label": "L-glutamine"
+                    }
+                ]
+            ],
+            [
+                "Gln",
+                []
+            ],
+            [
+                "Q",
+                []
+            ],
+            [
+                "MT-TQ",
+                [
+                    "/wiki/MT-TQ"
+                ],
+                [
+                    {
+                        "entity id": "Q15996834",
+                        "label": "MT-TQ"
+                    }
+                ]
+            ],
+            [
+                "4,329-4,400",
+                []
+            ],
+            [
+                "H",
+                []
+            ]
+        ],
+        [
+            [
+                "Glycine",
+                [
+                    "/wiki/Glycine"
+                ],
+                [
+                    {
+                        "entity id": "Q620730",
+                        "label": "glycine"
+                    }
+                ]
+            ],
+            [
+                "Gly",
+                []
+            ],
+            [
+                "G",
+                []
+            ],
+            [
+                "MT-TG",
+                [
+                    "/wiki/MT-TG"
+                ],
+                [
+                    {
+                        "entity id": "Q6718340",
+                        "label": "MT-TG"
+                    }
+                ]
+            ],
+            [
+                "9,991-10,058",
+                []
+            ],
+            [
+                "L",
+                []
+            ]
+        ],
+        [
+            [
+                "Histidine",
+                [
+                    "/wiki/Histidine"
+                ],
+                [
+                    {
+                        "entity id": "Q485277",
+                        "label": "L-histidine"
+                    }
+                ]
+            ],
+            [
+                "His",
+                []
+            ],
+            [
+                "H",
+                []
+            ],
+            [
+                "MT-TH",
+                [
+                    "/wiki/MT-TH"
+                ],
+                [
+                    {
+                        "entity id": "Q6718342",
+                        "label": "MT-TH"
+                    }
+                ]
+            ],
+            [
+                "12,138-12,206",
+                []
+            ],
+            [
+                "L",
+                []
+            ]
+        ],
+        [
+            [
+                "Isoleucine",
+                [
+                    "/wiki/Isoleucine"
+                ],
+                [
+                    {
+                        "entity id": "Q484940",
+                        "label": "L-isoleucine"
+                    }
+                ]
+            ],
+            [
+                "Ile",
+                []
+            ],
+            [
+                "I",
+                []
+            ],
+            [
+                "MT-TI",
+                [
+                    "/wiki/MT-TI"
+                ],
+                [
+                    {
+                        "entity id": "Q6718344",
+                        "label": "MT-TI"
+                    }
+                ]
+            ],
+            [
+                "4,263-4,331",
+                []
+            ],
+            [
+                "L",
+                []
+            ]
+        ],
+        [
+            [
+                "Leucine",
+                [
+                    "/wiki/Leucine"
+                ],
+                [
+                    {
+                        "entity id": "Q483745",
+                        "label": "L-leucine"
+                    }
+                ]
+            ],
+            [
+                "Leu ( UUR )",
+                []
+            ],
+            [
+                "L",
+                []
+            ],
+            [
+                "MT-TL1",
+                [
+                    "/wiki/MT-TL1"
+                ],
+                [
+                    {
+                        "entity id": "Q24376856",
+                        "label": "Trnl1"
+                    }
+                ]
+            ],
+            [
+                "3,230-3,304",
+                []
+            ],
+            [
+                "L",
+                []
+            ]
+        ],
+        [
+            [
+                "Leucine",
+                [
+                    "/wiki/Leucine"
+                ],
+                [
+                    {
+                        "entity id": "Q483745",
+                        "label": "L-leucine"
+                    }
+                ]
+            ],
+            [
+                "Leu ( CUN )",
+                []
+            ],
+            [
+                "L",
+                []
+            ],
+            [
+                "MT-TL2",
+                [
+                    "/wiki/MT-TL2"
+                ],
+                [
+                    {
+                        "entity id": "Q15996833",
+                        "label": "MT-TL2"
+                    }
+                ]
+            ],
+            [
+                "12,266-12,336",
+                []
+            ],
+            [
+                "L",
+                []
+            ]
+        ],
+        [
+            [
+                "Lysine",
+                [
+                    "/wiki/Lysine"
+                ],
+                [
+                    {
+                        "entity id": "Q178430",
+                        "label": "DL-lysine"
+                    }
+                ]
+            ],
+            [
+                "Lys",
+                []
+            ],
+            [
+                "K",
+                []
+            ],
+            [
+                "MT-TK",
+                [
+                    "/wiki/MT-TK"
+                ],
+                [
+                    {
+                        "entity id": "Q18258798",
+                        "label": "Tk2"
+                    }
+                ]
+            ],
+            [
+                "8,295-8,364",
+                []
+            ],
+            [
+                "L",
+                []
+            ]
+        ],
+        [
+            [
+                "Methionine",
+                [
+                    "/wiki/Methionine"
+                ],
+                [
+                    {
+                        "entity id": "Q180341",
+                        "label": "DL-methionine"
+                    }
+                ]
+            ],
+            [
+                "Met",
+                []
+            ],
+            [
+                "M",
+                []
+            ],
+            [
+                "MT-TM",
+                [
+                    "/wiki/MT-TM"
+                ],
+                [
+                    {
+                        "entity id": "Q6718349",
+                        "label": "MT-TM"
+                    }
+                ]
+            ],
+            [
+                "4,402-4,469",
+                []
+            ],
+            [
+                "L",
+                []
+            ]
+        ],
+        [
+            [
+                "Phenylalanine",
+                [
+                    "/wiki/Phenylalanine"
+                ],
+                [
+                    {
+                        "entity id": "Q170545",
+                        "label": "phenylalanine"
+                    }
+                ]
+            ],
+            [
+                "Phe",
+                []
+            ],
+            [
+                "F",
+                []
+            ],
+            [
+                "MT-TF",
+                [
+                    "/wiki/MT-TF"
+                ],
+                [
+                    {
+                        "entity id": "Q6718339",
+                        "label": "MT-TF"
+                    }
+                ]
+            ],
+            [
+                "577-647",
+                []
+            ],
+            [
+                "L",
+                []
+            ]
+        ],
+        [
+            [
+                "Proline",
+                [
+                    "/wiki/Proline"
+                ],
+                [
+                    {
+                        "entity id": "Q484583",
+                        "label": "DL-proline"
+                    }
+                ]
+            ],
+            [
+                "Pro",
+                []
+            ],
+            [
+                "P",
+                []
+            ],
+            [
+                "MT-TP",
+                [
+                    "/wiki/MT-TP"
+                ],
+                [
+                    {
+                        "entity id": "Q6718352",
+                        "label": "MT-TP"
+                    }
+                ]
+            ],
+            [
+                "15,956-16,023",
+                []
+            ],
+            [
+                "H",
+                []
+            ]
+        ],
+        [
+            [
+                "Serine",
+                [
+                    "/wiki/Serine"
+                ],
+                [
+                    {
+                        "entity id": "Q183290",
+                        "label": "L-serine"
+                    }
+                ]
+            ],
+            [
+                "Ser ( UCN )",
+                []
+            ],
+            [
+                "S",
+                []
+            ],
+            [
+                "MT-TS1",
+                [
+                    "/wiki/MT-TS1"
+                ],
+                [
+                    {
+                        "entity id": "Q6718354",
+                        "label": "MT-TS1"
+                    }
+                ]
+            ],
+            [
+                "7,446-7,514",
+                []
+            ],
+            [
+                "H",
+                []
+            ]
+        ],
+        [
+            [
+                "Serine",
+                [
+                    "/wiki/Serine"
+                ],
+                [
+                    {
+                        "entity id": "Q183290",
+                        "label": "L-serine"
+                    }
+                ]
+            ],
+            [
+                "Ser ( AGY )",
+                []
+            ],
+            [
+                "S",
+                []
+            ],
+            [
+                "MT-TS2",
+                [
+                    "/wiki/MT-TS2"
+                ],
+                [
+                    {
+                        "entity id": "Q6718359",
+                        "label": "MT-TS2"
+                    }
+                ]
+            ],
+            [
+                "12,207-12,265",
+                []
+            ],
+            [
+                "L",
+                []
+            ]
+        ],
+        [
+            [
+                "Threonine",
+                [
+                    "/wiki/Threonine"
+                ],
+                [
+                    {
+                        "entity id": "Q186521",
+                        "label": "L-Threonine"
+                    }
+                ]
+            ],
+            [
+                "Thr",
+                []
+            ],
+            [
+                "T",
+                []
+            ],
+            [
+                "MT-TT",
+                [
+                    "/wiki/MT-TT"
+                ],
+                [
+                    {
+                        "entity id": "Q107639052",
+                        "label": "mt-Tt"
+                    }
+                ]
+            ],
+            [
+                "15,888-15,953",
+                []
+            ],
+            [
+                "L",
+                []
+            ]
+        ],
+        [
+            [
+                "Tryptophan",
+                [
+                    "/wiki/Tryptophan"
+                ],
+                [
+                    {
+                        "entity id": "Q181003",
+                        "label": "tryptophan"
+                    }
+                ]
+            ],
+            [
+                "Trp",
+                []
+            ],
+            [
+                "W",
+                []
+            ],
+            [
+                "MT-TW",
+                [
+                    "/wiki/MT-TW"
+                ],
+                [
+                    {
+                        "entity id": "Q6718363",
+                        "label": "MT-TW"
+                    }
+                ]
+            ],
+            [
+                "5,512-5,579",
+                []
+            ],
+            [
+                "L",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Genes -- tRNA",
+    "section_text": "The following genes encode tRNAs :",
+    "uid": "Human_mitochondrial_genetics_0",
+    "intro": "Human mitochondrial genetics is the study of the genetics of human mitochondrial DNA (the DNA contained in human mitochondria). The human mitochondrial genome is the entirety of hereditary information contained in human mitochondria. Mitochondria are small structures in cells that generate energy for the cell to use, and are hence referred to as the powerhouses of the cell. Mitochondrial DNA (mtDNA) is not transmitted through nuclear DNA (nDNA). In humans, as in most multicellular organisms, mitochondrial DNA is inherited only from the mother's ovum. There are theories, however, that paternal mtDNA transmission in humans can occur under certain circumstances. Mitochondrial inheritance is therefore non-Mendelian, as Mendelian inheritance presumes that half the genetic material of a fertilized egg (zygote) derives from each parent. Eighty percent of mitochondrial DNA codes for mitochondrial RNA, and therefore most mitochondrial DNA mutations lead to functional problems, which may be manifested as muscle disorders (myopathies). Because they provide 30 molecules of ATP per glucose molecule in contrast to the 2 ATP molecules produced by glycolysis, mitochondria are essential to all higher organisms for sustaining life. The mitochondrial diseases are genetic disorders carried in mitochondrial DNA, or nuclear DNA coding for mitochondrial components. Slight problems with any one of the numerous enzymes used by the mitochondria can be devastating to the cell, and in turn, to the organism."
+}

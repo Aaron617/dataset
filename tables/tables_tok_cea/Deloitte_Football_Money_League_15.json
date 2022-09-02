@@ -1,0 +1,716 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Deloitte_Football_Money_League",
+    "title": "Deloitte Football Money League",
+    "header": [
+        [
+            "Rank",
+            []
+        ],
+        [
+            "Club",
+            []
+        ],
+        [
+            "Income ( \u20ac million )",
+            [
+                "/wiki/Euro"
+            ],
+            [
+                {
+                    "entity id": "Q4916",
+                    "label": "euro"
+                }
+            ]
+        ],
+        [
+            "Country",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1",
+                []
+            ],
+            [
+                "Real Madrid",
+                [
+                    "/wiki/Real_Madrid_C.F."
+                ],
+                [
+                    {
+                        "entity id": "Q8682",
+                        "label": "Real Madrid CF"
+                    }
+                ]
+            ],
+            [
+                "275.7",
+                []
+            ],
+            [
+                "Spain",
+                [
+                    "/wiki/Spain"
+                ],
+                [
+                    {
+                        "entity id": "Q29",
+                        "label": "Spain"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2",
+                []
+            ],
+            [
+                "Manchester United",
+                [
+                    "/wiki/Manchester_United_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q18656",
+                        "label": "Manchester United F.C."
+                    }
+                ]
+            ],
+            [
+                "246.4",
+                []
+            ],
+            [
+                "England",
+                [
+                    "/wiki/England"
+                ],
+                [
+                    {
+                        "entity id": "Q21",
+                        "label": "England"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "3",
+                []
+            ],
+            [
+                "Milan",
+                [
+                    "/wiki/A.C._Milan"
+                ],
+                [
+                    {
+                        "entity id": "Q1543",
+                        "label": "A.C. Milan"
+                    }
+                ]
+            ],
+            [
+                "234.0",
+                []
+            ],
+            [
+                "Italy",
+                [
+                    "/wiki/Italy"
+                ],
+                [
+                    {
+                        "entity id": "Q38",
+                        "label": "Italy"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "4",
+                []
+            ],
+            [
+                "Juventus",
+                [
+                    "/wiki/Juventus_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q1422",
+                        "label": "Juventus F.C."
+                    }
+                ]
+            ],
+            [
+                "229.4",
+                []
+            ],
+            [
+                "Italy",
+                [
+                    "/wiki/Italy"
+                ],
+                [
+                    {
+                        "entity id": "Q38",
+                        "label": "Italy"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "5",
+                []
+            ],
+            [
+                "Chelsea",
+                [
+                    "/wiki/Chelsea_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q9616",
+                        "label": "Chelsea F.C."
+                    }
+                ]
+            ],
+            [
+                "220.8",
+                []
+            ],
+            [
+                "England",
+                [
+                    "/wiki/England"
+                ],
+                [
+                    {
+                        "entity id": "Q21",
+                        "label": "England"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "6",
+                []
+            ],
+            [
+                "Barcelona",
+                [
+                    "/wiki/FC_Barcelona"
+                ],
+                [
+                    {
+                        "entity id": "Q7156",
+                        "label": "FC Barcelona"
+                    }
+                ]
+            ],
+            [
+                "207.9",
+                []
+            ],
+            [
+                "Spain",
+                [
+                    "/wiki/Spain"
+                ],
+                [
+                    {
+                        "entity id": "Q29",
+                        "label": "Spain"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "7",
+                []
+            ],
+            [
+                "Bayern Munich",
+                [
+                    "/wiki/FC_Bayern_Munich"
+                ],
+                [
+                    {
+                        "entity id": "Q15789",
+                        "label": "FC Bayern Munich"
+                    }
+                ]
+            ],
+            [
+                "189.5",
+                []
+            ],
+            [
+                "Germany",
+                [
+                    "/wiki/Germany"
+                ],
+                [
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "8",
+                []
+            ],
+            [
+                "Liverpool",
+                [
+                    "/wiki/Liverpool_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q1130849",
+                        "label": "Liverpool F.C."
+                    }
+                ]
+            ],
+            [
+                "181.2",
+                []
+            ],
+            [
+                "England",
+                [
+                    "/wiki/England"
+                ],
+                [
+                    {
+                        "entity id": "Q21",
+                        "label": "England"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "9",
+                []
+            ],
+            [
+                "Internazionale",
+                [
+                    "/wiki/Inter_Milan"
+                ],
+                [
+                    {
+                        "entity id": "Q631",
+                        "label": "Inter Milan"
+                    }
+                ]
+            ],
+            [
+                "177.2",
+                []
+            ],
+            [
+                "Italy",
+                [
+                    "/wiki/Italy"
+                ],
+                [
+                    {
+                        "entity id": "Q38",
+                        "label": "Italy"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "10",
+                []
+            ],
+            [
+                "Arsenal",
+                [
+                    "/wiki/Arsenal_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q9617",
+                        "label": "Arsenal F.C."
+                    }
+                ]
+            ],
+            [
+                "171.3",
+                []
+            ],
+            [
+                "England",
+                [
+                    "/wiki/England"
+                ],
+                [
+                    {
+                        "entity id": "Q21",
+                        "label": "England"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "11",
+                []
+            ],
+            [
+                "Roma",
+                [
+                    "/wiki/A.S._Roma"
+                ],
+                [
+                    {
+                        "entity id": "Q2739",
+                        "label": "A.S. Roma"
+                    }
+                ]
+            ],
+            [
+                "131.8",
+                []
+            ],
+            [
+                "Italy",
+                [
+                    "/wiki/Italy"
+                ],
+                [
+                    {
+                        "entity id": "Q38",
+                        "label": "Italy"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "12",
+                []
+            ],
+            [
+                "Newcastle United",
+                [
+                    "/wiki/Newcastle_United_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q18716",
+                        "label": "Newcastle United F.C."
+                    }
+                ]
+            ],
+            [
+                "128.9",
+                []
+            ],
+            [
+                "England",
+                [
+                    "/wiki/England"
+                ],
+                [
+                    {
+                        "entity id": "Q21",
+                        "label": "England"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "13",
+                []
+            ],
+            [
+                "Tottenham Hotspur",
+                [
+                    "/wiki/Tottenham_Hotspur_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q18741",
+                        "label": "Tottenham Hotspur F.C."
+                    }
+                ]
+            ],
+            [
+                "104.5",
+                []
+            ],
+            [
+                "England",
+                [
+                    "/wiki/England"
+                ],
+                [
+                    {
+                        "entity id": "Q21",
+                        "label": "England"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "14",
+                []
+            ],
+            [
+                "Schalke 04",
+                [
+                    "/wiki/FC_Schalke_04"
+                ],
+                [
+                    {
+                        "entity id": "Q32494",
+                        "label": "FC Schalke 04"
+                    }
+                ]
+            ],
+            [
+                "97.4",
+                []
+            ],
+            [
+                "Germany",
+                [
+                    "/wiki/Germany"
+                ],
+                [
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "15",
+                []
+            ],
+            [
+                "Lyon",
+                [
+                    "/wiki/Olympique_Lyonnais"
+                ],
+                [
+                    {
+                        "entity id": "Q704",
+                        "label": "Olympique Lyonnais"
+                    }
+                ]
+            ],
+            [
+                "92.9",
+                []
+            ],
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "16",
+                []
+            ],
+            [
+                "Celtic",
+                [
+                    "/wiki/Celtic_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q19593",
+                        "label": "Celtic F.C."
+                    }
+                ]
+            ],
+            [
+                "92.7",
+                []
+            ],
+            [
+                "Scotland",
+                [
+                    "/wiki/Scotland"
+                ],
+                [
+                    {
+                        "entity id": "Q22",
+                        "label": "Scotland"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "17",
+                []
+            ],
+            [
+                "Manchester City",
+                [
+                    "/wiki/Manchester_City_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q50602",
+                        "label": "Manchester City F.C."
+                    }
+                ]
+            ],
+            [
+                "90.1",
+                []
+            ],
+            [
+                "England",
+                [
+                    "/wiki/England"
+                ],
+                [
+                    {
+                        "entity id": "Q21",
+                        "label": "England"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "18",
+                []
+            ],
+            [
+                "Everton",
+                [
+                    "/wiki/Everton_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q5794",
+                        "label": "Everton F.C."
+                    }
+                ]
+            ],
+            [
+                "88.8",
+                []
+            ],
+            [
+                "England",
+                [
+                    "/wiki/England"
+                ],
+                [
+                    {
+                        "entity id": "Q21",
+                        "label": "England"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "19",
+                []
+            ],
+            [
+                "Valencia",
+                [
+                    "/wiki/Valencia_CF"
+                ],
+                [
+                    {
+                        "entity id": "Q10333",
+                        "label": "Valencia CF"
+                    }
+                ]
+            ],
+            [
+                "84.6",
+                []
+            ],
+            [
+                "Spain",
+                [
+                    "/wiki/Spain"
+                ],
+                [
+                    {
+                        "entity id": "Q29",
+                        "label": "Spain"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "20",
+                []
+            ],
+            [
+                "Lazio",
+                [
+                    "/wiki/S.S._Lazio"
+                ],
+                [
+                    {
+                        "entity id": "Q2609",
+                        "label": "S.S. Lazio"
+                    }
+                ]
+            ],
+            [
+                "83.1",
+                []
+            ],
+            [
+                "Italy",
+                [
+                    "/wiki/Italy"
+                ],
+                [
+                    {
+                        "entity id": "Q38",
+                        "label": "Italy"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Rankings by season -- 2006",
+    "section_text": "In the rankings for the 2004\u201305 season , Real Madrid longs run at the top . Three clubs that had appeared in the previous season 's top twenty ( Marseille , Rangers , and Aston Villa ) were replaced by Lyon , Everton , and Valencia .",
+    "uid": "Deloitte_Football_Money_League_15",
+    "intro": "The Deloitte Football Money League is a ranking of football clubs by revenue generated from football operations. It is produced annually by the accountancy firm Deloitte and released in early February of each year, describing the season most recently finished."
+}

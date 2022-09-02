@@ -1,0 +1,450 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Rail_transport_in_Cardiff",
+    "title": "Rail transport in Cardiff",
+    "header": [
+        [
+            "Destination",
+            []
+        ],
+        [
+            "Time from Central",
+            []
+        ],
+        [
+            "Operator",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Aberdare",
+                [
+                    "/wiki/Aberdare"
+                ],
+                [
+                    {
+                        "entity id": "Q319369",
+                        "label": "Aberdare"
+                    }
+                ]
+            ],
+            [
+                "63 mins",
+                []
+            ],
+            [
+                "Transport for Wales",
+                [
+                    "/wiki/Transport_for_Wales_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q55074950",
+                        "label": "Transport for Wales Rail Services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Rhymney",
+                [
+                    "/wiki/Rhymney"
+                ],
+                [
+                    {
+                        "entity id": "Q3401116",
+                        "label": "Rhymney"
+                    }
+                ]
+            ],
+            [
+                "60 mins",
+                []
+            ],
+            [
+                "Transport for Wales",
+                [
+                    "/wiki/Transport_for_Wales_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q55074950",
+                        "label": "Transport for Wales Rail Services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Barry",
+                [
+                    "/wiki/Barry,_Vale_of_Glamorgan"
+                ],
+                [
+                    {
+                        "entity id": "Q809009",
+                        "label": "Barry"
+                    }
+                ]
+            ],
+            [
+                "24 mins",
+                []
+            ],
+            [
+                "Transport for Wales",
+                [
+                    "/wiki/Transport_for_Wales_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q55074950",
+                        "label": "Transport for Wales Rail Services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Bridgend",
+                [
+                    "/wiki/Bridgend"
+                ],
+                [
+                    {
+                        "entity id": "Q6497774",
+                        "label": "Bridgend"
+                    }
+                ]
+            ],
+            [
+                "22-59 mins",
+                []
+            ],
+            [
+                "Great Western Railway Transport for Wales",
+                [
+                    "/wiki/Great_Western_Railway_(train_operating_company)",
+                    "/wiki/Transport_for_Wales_Rail"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q55074950",
+                        "label": "Transport for Wales Rail Services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Coryton",
+                [
+                    "/wiki/Coryton_railway_station_(Cardiff)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "19 mins",
+                []
+            ],
+            [
+                "Transport for Wales",
+                [
+                    "/wiki/Transport_for_Wales_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q55074950",
+                        "label": "Transport for Wales Rail Services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Ebbw Vale",
+                [
+                    "/wiki/Ebbw_Vale"
+                ],
+                [
+                    {
+                        "entity id": "Q2297559",
+                        "label": "Ebbw Vale"
+                    }
+                ]
+            ],
+            [
+                "56 mins",
+                []
+            ],
+            [
+                "Transport for Wales",
+                [
+                    "/wiki/Transport_for_Wales_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q55074950",
+                        "label": "Transport for Wales Rail Services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Maesteg",
+                [
+                    "/wiki/Maesteg"
+                ],
+                [
+                    {
+                        "entity id": "Q2243637",
+                        "label": "Maesteg"
+                    }
+                ]
+            ],
+            [
+                "54 mins",
+                []
+            ],
+            [
+                "Transport for Wales",
+                [
+                    "/wiki/Transport_for_Wales_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q55074950",
+                        "label": "Transport for Wales Rail Services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Merthyr Tydfil",
+                [
+                    "/wiki/Merthyr_Tydfil"
+                ],
+                [
+                    {
+                        "entity id": "Q752762",
+                        "label": "Merthyr Tydfil"
+                    }
+                ]
+            ],
+            [
+                "62 mins",
+                []
+            ],
+            [
+                "Transport for Wales",
+                [
+                    "/wiki/Transport_for_Wales_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q55074950",
+                        "label": "Transport for Wales Rail Services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Newport",
+                [
+                    "/wiki/Newport_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q3397374",
+                        "label": "Newport railway station"
+                    }
+                ]
+            ],
+            [
+                "13-15 mins",
+                []
+            ],
+            [
+                "CrossCountry Great Western Railway Transport for Wales",
+                [
+                    "/wiki/CrossCountry",
+                    "/wiki/Great_Western_Railway_(train_operating_company)",
+                    "/wiki/Transport_for_Wales_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q1141120",
+                        "label": "CrossCountry"
+                    },
+                    {},
+                    {
+                        "entity id": "Q55074950",
+                        "label": "Transport for Wales Rail Services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Penarth",
+                [
+                    "/wiki/Penarth"
+                ],
+                [
+                    {
+                        "entity id": "Q427792",
+                        "label": "Penarth"
+                    }
+                ]
+            ],
+            [
+                "16 mins",
+                []
+            ],
+            [
+                "Transport for Wales",
+                [
+                    "/wiki/Transport_for_Wales_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q55074950",
+                        "label": "Transport for Wales Rail Services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Pontypridd",
+                [
+                    "/wiki/Pontypridd"
+                ],
+                [
+                    {
+                        "entity id": "Q1024900",
+                        "label": "Pontypridd"
+                    }
+                ]
+            ],
+            [
+                "30 mins",
+                []
+            ],
+            [
+                "Transport for Wales",
+                [
+                    "/wiki/Transport_for_Wales_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q55074950",
+                        "label": "Transport for Wales Rail Services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Radyr",
+                [
+                    "/wiki/Radyr"
+                ],
+                [
+                    {
+                        "entity id": "Q7281814",
+                        "label": "Radyr"
+                    }
+                ]
+            ],
+            [
+                "26 mins",
+                []
+            ],
+            [
+                "Transport for Wales",
+                [
+                    "/wiki/Transport_for_Wales_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q55074950",
+                        "label": "Transport for Wales Rail Services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Tredegar",
+                [
+                    "/wiki/Tredegar"
+                ],
+                [
+                    {
+                        "entity id": "Q1529978",
+                        "label": "Tredegar"
+                    }
+                ]
+            ],
+            [
+                "84 mins",
+                []
+            ],
+            [
+                "Transport for Wales",
+                [
+                    "/wiki/Transport_for_Wales_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q55074950",
+                        "label": "Transport for Wales Rail Services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Treherbert",
+                [
+                    "/wiki/Treherbert"
+                ],
+                [
+                    {
+                        "entity id": "Q7837902",
+                        "label": "Treherbert"
+                    }
+                ]
+            ],
+            [
+                "66 mins",
+                []
+            ],
+            [
+                "Transport for Wales",
+                [
+                    "/wiki/Transport_for_Wales_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q55074950",
+                        "label": "Transport for Wales Rail Services"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "",
+    "section_text": "Regional/Local",
+    "uid": "Rail_transport_in_Cardiff_1",
+    "intro": "Rail transport in Cardiff has developed to provide connections to many other major cities in the United Kingdom, and to provide an urban rail network for the city and its commuter towns in southeast Wales. Today, there are three train operating companies in Cardiff: Great Western Railway, CrossCountry and Transport for Wales."
+}

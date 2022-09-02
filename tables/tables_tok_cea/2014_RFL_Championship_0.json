@@ -1,0 +1,615 @@
+{
+    "url": "https://en.wikipedia.org/wiki/2014_RFL_Championship",
+    "title": "2014 RFL Championship",
+    "header": [
+        [
+            "Team & Current Season",
+            []
+        ],
+        [
+            "Stadium",
+            []
+        ],
+        [
+            "Capacity",
+            []
+        ],
+        [
+            "Location",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Barrow Raiders",
+                [
+                    "/wiki/Barrow_Raiders"
+                ],
+                [
+                    {
+                        "entity id": "Q2885699",
+                        "label": "Barrow Raiders"
+                    }
+                ]
+            ],
+            [
+                "Craven Park",
+                [
+                    "/wiki/Craven_Park_(Barrow)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "7,600",
+                []
+            ],
+            [
+                "Barrow-in-Furness , Cumbria",
+                [
+                    "/wiki/Barrow-in-Furness",
+                    "/wiki/Cumbria"
+                ],
+                [
+                    {
+                        "entity id": "Q671892",
+                        "label": "Barrow-in-Furness"
+                    },
+                    {
+                        "entity id": "Q23066",
+                        "label": "Cumbria"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Batley Bulldogs",
+                [
+                    "/wiki/Batley_Bulldogs"
+                ],
+                [
+                    {
+                        "entity id": "Q2891406",
+                        "label": "Batley Bulldogs"
+                    }
+                ]
+            ],
+            [
+                "loverugbyleague.com Stadium",
+                [
+                    "/wiki/Mount_Pleasant,_Batley"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "6,000",
+                []
+            ],
+            [
+                "Batley , West Yorkshire",
+                [
+                    "/wiki/Batley",
+                    "/wiki/West_Yorkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q810847",
+                        "label": "Batley"
+                    },
+                    {
+                        "entity id": "Q23083",
+                        "label": "West Yorkshire"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dewsbury Rams",
+                [
+                    "/wiki/Dewsbury_Rams"
+                ],
+                [
+                    {
+                        "entity id": "Q430166",
+                        "label": "Dewsbury Rams"
+                    }
+                ]
+            ],
+            [
+                "Tetley 's Stadium",
+                [
+                    "/wiki/Crown_Flatt"
+                ],
+                [
+                    {
+                        "entity id": "Q3005461",
+                        "label": "Crown Flatt"
+                    }
+                ]
+            ],
+            [
+                "5,100",
+                []
+            ],
+            [
+                "Dewsbury , West Yorkshire",
+                [
+                    "/wiki/Dewsbury"
+                ],
+                [
+                    {
+                        "entity id": "Q525508",
+                        "label": "Dewsbury"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Doncaster",
+                [
+                    "/wiki/Doncaster_R.L.F.C."
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Keepmoat Stadium",
+                [
+                    "/wiki/Keepmoat_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q1336402",
+                        "label": "Keepmoat Stadium"
+                    }
+                ]
+            ],
+            [
+                "15,231",
+                []
+            ],
+            [
+                "Doncaster , South Yorkshire",
+                [
+                    "/wiki/Doncaster",
+                    "/wiki/South_Yorkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q58900",
+                        "label": "Doncaster"
+                    },
+                    {
+                        "entity id": "Q23095",
+                        "label": "South Yorkshire"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Featherstone Rovers",
+                [
+                    "/wiki/Featherstone_Rovers"
+                ],
+                [
+                    {
+                        "entity id": "Q3067834",
+                        "label": "Featherstone Rovers"
+                    }
+                ]
+            ],
+            [
+                "Bigfellas Stadium",
+                [
+                    "/wiki/Post_Office_Road"
+                ],
+                [
+                    {
+                        "entity id": "Q7233696",
+                        "label": "Post Office Road"
+                    }
+                ]
+            ],
+            [
+                "6,750",
+                []
+            ],
+            [
+                "Featherstone , West Yorkshire",
+                [
+                    "/wiki/Featherstone"
+                ],
+                [
+                    {
+                        "entity id": "Q2125254",
+                        "label": "Featherstone"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Halifax",
+                [
+                    "/wiki/Halifax_R.L.F.C."
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "The Shay Stadium",
+                [
+                    "/wiki/The_Shay"
+                ],
+                [
+                    {
+                        "entity id": "Q7763725",
+                        "label": "The Shay"
+                    }
+                ]
+            ],
+            [
+                "6,561",
+                []
+            ],
+            [
+                "Halifax , West Yorkshire",
+                [
+                    "/wiki/Halifax,_West_Yorkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q826561",
+                        "label": "Halifax"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Keighley Cougars",
+                [
+                    "/wiki/Keighley_Cougars"
+                ],
+                [
+                    {
+                        "entity id": "Q3194676",
+                        "label": "Keighley Cougars"
+                    }
+                ]
+            ],
+            [
+                "Cougar Park",
+                [
+                    "/wiki/Cougar_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q5176046",
+                        "label": "Cougar Park"
+                    }
+                ]
+            ],
+            [
+                "7,800",
+                []
+            ],
+            [
+                "Keighley , West Yorkshire",
+                [
+                    "/wiki/Keighley"
+                ],
+                [
+                    {
+                        "entity id": "Q990168",
+                        "label": "Keighley"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Leigh Centurions",
+                [
+                    "/wiki/Leigh_Centurions"
+                ],
+                [
+                    {
+                        "entity id": "Q3229159",
+                        "label": "Leigh Centurions"
+                    }
+                ]
+            ],
+            [
+                "Leigh Sports Village",
+                [
+                    "/wiki/Leigh_Sports_Village"
+                ],
+                [
+                    {
+                        "entity id": "Q6519678",
+                        "label": "Leigh Sports Village"
+                    }
+                ]
+            ],
+            [
+                "12,700",
+                []
+            ],
+            [
+                "Leigh , Greater Manchester",
+                [
+                    "/wiki/Leigh,_Greater_Manchester",
+                    "/wiki/Greater_Manchester"
+                ],
+                [
+                    {
+                        "entity id": "Q2588021",
+                        "label": "Leigh"
+                    },
+                    {
+                        "entity id": "Q23099",
+                        "label": "Greater Manchester"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "North Wales Crusaders",
+                [
+                    "/wiki/North_Wales_Crusaders"
+                ],
+                [
+                    {
+                        "entity id": "Q16986416",
+                        "label": "North Wales Crusaders"
+                    }
+                ]
+            ],
+            [
+                "Racecourse Ground",
+                [
+                    "/wiki/Racecourse_Ground"
+                ],
+                [
+                    {
+                        "entity id": "Q1202579",
+                        "label": "Racecourse Ground"
+                    }
+                ]
+            ],
+            [
+                "10,500 ( 15,500 with The Kop open )",
+                []
+            ],
+            [
+                "Wrexham , Wales",
+                [
+                    "/wiki/Wrexham",
+                    "/wiki/Wales"
+                ],
+                [
+                    {
+                        "entity id": "Q496368",
+                        "label": "Wrexham"
+                    },
+                    {
+                        "entity id": "Q25",
+                        "label": "Wales"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Rochdale Hornets",
+                [
+                    "/wiki/Rochdale_Hornets"
+                ],
+                [
+                    {
+                        "entity id": "Q3437490",
+                        "label": "Rochdale Hornets"
+                    }
+                ]
+            ],
+            [
+                "Spotland",
+                [
+                    "/wiki/Spotland_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q619466",
+                        "label": "Spotland Stadium"
+                    }
+                ]
+            ],
+            [
+                "10,249",
+                []
+            ],
+            [
+                "Rochdale , Greater Manchester",
+                [
+                    "/wiki/Rochdale"
+                ],
+                [
+                    {
+                        "entity id": "Q48949",
+                        "label": "Rochdale A.F.C."
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Sheffield Eagles",
+                [
+                    "/wiki/Sheffield_Eagles"
+                ],
+                [
+                    {
+                        "entity id": "Q3481717",
+                        "label": "Sheffield Eagles"
+                    }
+                ]
+            ],
+            [
+                "Owlerton Stadium",
+                [
+                    "/wiki/Owlerton_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q7114883",
+                        "label": "Owlerton Stadium"
+                    }
+                ]
+            ],
+            [
+                "4,000",
+                []
+            ],
+            [
+                "Sheffield , South Yorkshire",
+                [
+                    "/wiki/Sheffield"
+                ],
+                [
+                    {
+                        "entity id": "Q42448",
+                        "label": "Sheffield"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Swinton Lions",
+                [
+                    "/wiki/Swinton_Lions"
+                ],
+                [
+                    {
+                        "entity id": "Q3506631",
+                        "label": "Swinton Lions"
+                    }
+                ]
+            ],
+            [
+                "Leigh Sports Village",
+                [
+                    "/wiki/Leigh_Sports_Village"
+                ],
+                [
+                    {
+                        "entity id": "Q6519678",
+                        "label": "Leigh Sports Village"
+                    }
+                ]
+            ],
+            [
+                "12,700",
+                []
+            ],
+            [
+                "Leigh , Greater Manchester",
+                []
+            ]
+        ],
+        [
+            [
+                "Whitehaven",
+                [
+                    "/wiki/Whitehaven_R.L.F.C."
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Recreation Ground",
+                [
+                    "/wiki/Recreation_Ground_(Whitehaven)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "7,500",
+                []
+            ],
+            [
+                "Whitehaven , Cumbria",
+                [
+                    "/wiki/Whitehaven"
+                ],
+                [
+                    {
+                        "entity id": "Q1012481",
+                        "label": "Whitehaven"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Workington Town",
+                [
+                    "/wiki/Workington_Town"
+                ],
+                [
+                    {
+                        "entity id": "Q8035013",
+                        "label": "Workington Town"
+                    }
+                ]
+            ],
+            [
+                "Derwent Park",
+                [
+                    "/wiki/Derwent_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q5263341",
+                        "label": "Derwent Park"
+                    }
+                ]
+            ],
+            [
+                "10,000",
+                []
+            ],
+            [
+                "Workington , Cumbria",
+                [
+                    "/wiki/Workington"
+                ],
+                [
+                    {
+                        "entity id": "Q1538358",
+                        "label": "Workington"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Teams",
+    "section_text": "The competition featured 12 of the 14 teams from 2013 plus the Champions and Play-off winner of the 2013 Championship 1 season , which were North Wales Crusaders and Rochdale Hornets . Hunslet Hawks and York City Knights , who finished in the bottom two in 2013 were relegated into Championship 1 . Legend Reigning champions Defending Northern Rail Cup Champions Promoted",
+    "uid": "2014_RFL_Championship_0",
+    "intro": "The 2014 Rugby Football League Championship, known as the Kingstone Press Championship due to sponsorship reasons, was a semi-professional rugby league football competition played in the UK, one tier below the first tier Super League. The 2014 season was the second and final season to consist of a 14-team division following the expansion of the league in 2013. Relegation to Championship 1 was in place for the 2014 season, along with the play-offs with the format for the play-offs remaining the same with no promotion to the Super League. With two Super League teams relegated in 2014 and the Championship reduced to 12 teams in 2015, as part of the reform of the leagues, five teams were relegated at the end of the regular season with one team promoted at the end of 2014 Championship 1."
+}

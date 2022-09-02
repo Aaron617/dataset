@@ -1,0 +1,374 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Vitamin",
+    "title": "Vitamin",
+    "header": [
+        [
+            "Previous name",
+            []
+        ],
+        [
+            "Chemical name",
+            []
+        ],
+        [
+            "Reason for name change",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Vitamin B 4",
+                []
+            ],
+            [
+                "Adenine",
+                [
+                    "/wiki/Adenine"
+                ],
+                [
+                    {
+                        "entity id": "Q15277",
+                        "label": "adenine"
+                    }
+                ]
+            ],
+            [
+                "DNA metabolite ; synthesized in body",
+                []
+            ]
+        ],
+        [
+            [
+                "Vitamin B 8",
+                []
+            ],
+            [
+                "Adenylic acid",
+                [
+                    "/wiki/Adenylic_acid"
+                ],
+                [
+                    {
+                        "entity id": "Q318369",
+                        "label": "adenosine monophosphate"
+                    }
+                ]
+            ],
+            [
+                "DNA metabolite ; synthesized in body",
+                []
+            ]
+        ],
+        [
+            [
+                "Vitamin B T",
+                []
+            ],
+            [
+                "Carnitine",
+                [
+                    "/wiki/Carnitine"
+                ],
+                [
+                    {
+                        "entity id": "Q243309",
+                        "label": "carnitine"
+                    }
+                ]
+            ],
+            [
+                "Synthesized in body",
+                []
+            ]
+        ],
+        [
+            [
+                "Vitamin F",
+                []
+            ],
+            [
+                "Essential fatty acids",
+                [
+                    "/wiki/Essential_fatty_acid"
+                ],
+                [
+                    {
+                        "entity id": "Q378154",
+                        "label": "essential fatty acid"
+                    }
+                ]
+            ],
+            [
+                "Needed in large quantities ( does not fit the definition of a vitamin )",
+                []
+            ]
+        ],
+        [
+            [
+                "Vitamin G",
+                []
+            ],
+            [
+                "Riboflavin",
+                [
+                    "/wiki/Riboflavin"
+                ],
+                [
+                    {
+                        "entity id": "Q130365",
+                        "label": "riboflavin"
+                    }
+                ]
+            ],
+            [
+                "Reclassified as Vitamin B 2",
+                [
+                    "/wiki/B_vitamins"
+                ],
+                [
+                    {
+                        "entity id": "Q183206",
+                        "label": "vitamin B"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Vitamin H",
+                []
+            ],
+            [
+                "Biotin",
+                [
+                    "/wiki/Biotin"
+                ],
+                [
+                    {
+                        "entity id": "Q181354",
+                        "label": "biotin"
+                    }
+                ]
+            ],
+            [
+                "Reclassified as Vitamin B 7",
+                [
+                    "/wiki/B_vitamins"
+                ],
+                [
+                    {
+                        "entity id": "Q183206",
+                        "label": "vitamin B"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Vitamin J",
+                []
+            ],
+            [
+                "Catechol , Flavin",
+                [
+                    "/wiki/Catechol",
+                    "/wiki/Flavin_group"
+                ],
+                [
+                    {
+                        "entity id": "Q282440",
+                        "label": "pyrocatechol"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Catechol nonessential ; flavin reclassified as Vitamin B 2",
+                [
+                    "/wiki/B_vitamins"
+                ],
+                [
+                    {
+                        "entity id": "Q183206",
+                        "label": "vitamin B"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Vitamin L 1",
+                []
+            ],
+            [
+                "Anthranilic acid",
+                [
+                    "/wiki/Anthranilic_acid"
+                ],
+                [
+                    {
+                        "entity id": "Q385140",
+                        "label": "anthranilic acid"
+                    }
+                ]
+            ],
+            [
+                "Nonessential",
+                []
+            ]
+        ],
+        [
+            [
+                "Vitamin L 2",
+                []
+            ],
+            [
+                "Adenylthiomethylpentose",
+                [
+                    "/wiki/Adenylthiomethylpentose"
+                ],
+                [
+                    {
+                        "entity id": "Q3599216",
+                        "label": "(4S,5S)-5'-methylthioadenosine"
+                    }
+                ]
+            ],
+            [
+                "RNA metabolite ; synthesized in body",
+                []
+            ]
+        ],
+        [
+            [
+                "Vitamin M or B c",
+                []
+            ],
+            [
+                "Folate",
+                [
+                    "/wiki/Folate"
+                ],
+                [
+                    {
+                        "entity id": "Q111271197",
+                        "label": "folate"
+                    }
+                ]
+            ],
+            [
+                "Reclassified as Vitamin B 9",
+                [
+                    "/wiki/B_vitamins"
+                ],
+                [
+                    {
+                        "entity id": "Q183206",
+                        "label": "vitamin B"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Vitamin P",
+                []
+            ],
+            [
+                "Flavonoids",
+                [
+                    "/wiki/Flavonoids"
+                ],
+                [
+                    {
+                        "entity id": "Q3561192",
+                        "label": "flavonoid"
+                    }
+                ]
+            ],
+            [
+                "Many compounds , not proven essential",
+                []
+            ]
+        ],
+        [
+            [
+                "Vitamin PP",
+                []
+            ],
+            [
+                "Niacin",
+                [
+                    "/wiki/Niacin"
+                ],
+                [
+                    {
+                        "entity id": "Q192423",
+                        "label": "niacinamide"
+                    }
+                ]
+            ],
+            [
+                "Reclassified as Vitamin B 3",
+                [
+                    "/wiki/B_vitamins"
+                ],
+                [
+                    {
+                        "entity id": "Q183206",
+                        "label": "vitamin B"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Vitamin S",
+                []
+            ],
+            [
+                "Salicylic acid",
+                [
+                    "/wiki/Salicylic_acid"
+                ],
+                [
+                    {
+                        "entity id": "Q193572",
+                        "label": "salicylic acid"
+                    }
+                ]
+            ],
+            [
+                "Nonessential",
+                []
+            ]
+        ],
+        [
+            [
+                "Vitamin U",
+                []
+            ],
+            [
+                "S-Methylmethionine",
+                [
+                    "/wiki/S-Methylmethionine"
+                ],
+                [
+                    {
+                        "entity id": "Q1329492",
+                        "label": "S-methylmethionine"
+                    }
+                ]
+            ],
+            [
+                "Protein metabolite ; synthesized in body",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Naming",
+    "section_text": "",
+    "uid": "Vitamin_2",
+    "intro": "A vitamin is an organic molecule (or related set of molecules) that is an essential micronutrient that an organism needs in small quantities for the proper functioning of its metabolism. Essential nutrients cannot be synthesized in the organism, either at all or not in sufficient quantities, and therefore must be obtained through the diet. Vitamin C can be synthesized by some species but not by others; it is not a vitamin in the first instance but is in the second. The term vitamin does not include the three other groups of essential nutrients: minerals, essential fatty acids, and essential amino acids. Most vitamins are not single molecules, but groups of related molecules called vitamers. For example, vitamin E consists of four tocopherols and four tocotrienols. The thirteen vitamins required by human metabolism are vitamin A (as all-trans-retinol, all-trans-retinyl-esters, as well as all-trans-beta-carotene and other provitamin A carotenoids), vitamin B1 (thiamine), vitamin B2 (riboflavin), vitamin B3 (niacin), vitamin B5 (pantothenic acid), vitamin B6 (pyridoxine), vitamin B7 (biotin), vitamin B9 (folic acid or folate), vitamin B12 (cobalamins), vitamin C (ascorbic acid), vitamin D (calciferols), vitamin E (tocopherols and tocotrienols), and vitamin K (quinones). Vitamins have diverse biochemical functions. Vitamin A acts as a regulator of cell and tissue growth and differentiation. Vitamin D provides a hormone-like function, regulating mineral metabolism for bones and other organs. The B complex vitamins function as enzyme cofactors (coenzymes) or the precursors for them. Vitamins C and E function as antioxidants."
+}

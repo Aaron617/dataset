@@ -1,0 +1,464 @@
+{
+    "url": "https://en.wikipedia.org/wiki/2013_International_Champions_Cup",
+    "title": "2013 International Champions Cup",
+    "header": [
+        [
+            "Country",
+            []
+        ],
+        [
+            "Team",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Confederation",
+            []
+        ],
+        [
+            "League",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "England",
+                []
+            ],
+            [
+                "Chelsea",
+                [
+                    "/wiki/Chelsea_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q9616",
+                        "label": "Chelsea F.C."
+                    }
+                ]
+            ],
+            [
+                "London",
+                [
+                    "/wiki/London"
+                ],
+                [
+                    {
+                        "entity id": "Q84",
+                        "label": "London"
+                    }
+                ]
+            ],
+            [
+                "UEFA",
+                [
+                    "/wiki/UEFA"
+                ],
+                [
+                    {
+                        "entity id": "Q35572",
+                        "label": "UEFA"
+                    }
+                ]
+            ],
+            [
+                "Premier League",
+                [
+                    "/wiki/Premier_League"
+                ],
+                [
+                    {
+                        "entity id": "Q9448",
+                        "label": "Premier League"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "England",
+                []
+            ],
+            [
+                "Everton",
+                [
+                    "/wiki/Everton_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q5794",
+                        "label": "Everton F.C."
+                    }
+                ]
+            ],
+            [
+                "Liverpool",
+                [
+                    "/wiki/Liverpool"
+                ],
+                [
+                    {
+                        "entity id": "Q24826",
+                        "label": "Liverpool"
+                    }
+                ]
+            ],
+            [
+                "UEFA",
+                [
+                    "/wiki/UEFA"
+                ],
+                [
+                    {
+                        "entity id": "Q35572",
+                        "label": "UEFA"
+                    }
+                ]
+            ],
+            [
+                "Premier League",
+                [
+                    "/wiki/Premier_League"
+                ],
+                [
+                    {
+                        "entity id": "Q9448",
+                        "label": "Premier League"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Italy",
+                []
+            ],
+            [
+                "Milan",
+                [
+                    "/wiki/A.C._Milan"
+                ],
+                [
+                    {
+                        "entity id": "Q1543",
+                        "label": "A.C. Milan"
+                    }
+                ]
+            ],
+            [
+                "Milan",
+                [
+                    "/wiki/Milan"
+                ],
+                [
+                    {
+                        "entity id": "Q490",
+                        "label": "Milan"
+                    }
+                ]
+            ],
+            [
+                "UEFA",
+                [
+                    "/wiki/UEFA"
+                ],
+                [
+                    {
+                        "entity id": "Q35572",
+                        "label": "UEFA"
+                    }
+                ]
+            ],
+            [
+                "Serie A",
+                [
+                    "/wiki/Serie_A"
+                ],
+                [
+                    {
+                        "entity id": "Q15804",
+                        "label": "Serie A"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Italy",
+                []
+            ],
+            [
+                "Inter Milan",
+                [
+                    "/wiki/Inter_Milan"
+                ],
+                [
+                    {
+                        "entity id": "Q631",
+                        "label": "Inter Milan"
+                    }
+                ]
+            ],
+            [
+                "Milan",
+                [
+                    "/wiki/Milan"
+                ],
+                [
+                    {
+                        "entity id": "Q490",
+                        "label": "Milan"
+                    }
+                ]
+            ],
+            [
+                "UEFA",
+                [
+                    "/wiki/UEFA"
+                ],
+                [
+                    {
+                        "entity id": "Q35572",
+                        "label": "UEFA"
+                    }
+                ]
+            ],
+            [
+                "Serie A",
+                [
+                    "/wiki/Serie_A"
+                ],
+                [
+                    {
+                        "entity id": "Q15804",
+                        "label": "Serie A"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Italy",
+                []
+            ],
+            [
+                "Juventus",
+                [
+                    "/wiki/Juventus_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q1422",
+                        "label": "Juventus F.C."
+                    }
+                ]
+            ],
+            [
+                "Turin",
+                [
+                    "/wiki/Turin"
+                ],
+                [
+                    {
+                        "entity id": "Q495",
+                        "label": "Turin"
+                    }
+                ]
+            ],
+            [
+                "UEFA",
+                [
+                    "/wiki/UEFA"
+                ],
+                [
+                    {
+                        "entity id": "Q35572",
+                        "label": "UEFA"
+                    }
+                ]
+            ],
+            [
+                "Serie A",
+                [
+                    "/wiki/Serie_A"
+                ],
+                [
+                    {
+                        "entity id": "Q15804",
+                        "label": "Serie A"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Spain",
+                []
+            ],
+            [
+                "Real Madrid",
+                [
+                    "/wiki/Real_Madrid_C.F."
+                ],
+                [
+                    {
+                        "entity id": "Q8682",
+                        "label": "Real Madrid CF"
+                    }
+                ]
+            ],
+            [
+                "Madrid",
+                [
+                    "/wiki/Madrid"
+                ],
+                [
+                    {
+                        "entity id": "Q2807",
+                        "label": "Madrid"
+                    }
+                ]
+            ],
+            [
+                "UEFA",
+                [
+                    "/wiki/UEFA"
+                ],
+                [
+                    {
+                        "entity id": "Q35572",
+                        "label": "UEFA"
+                    }
+                ]
+            ],
+            [
+                "La Liga",
+                [
+                    "/wiki/La_Liga"
+                ],
+                [
+                    {
+                        "entity id": "Q324867",
+                        "label": "La Liga"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Spain",
+                []
+            ],
+            [
+                "Valencia",
+                [
+                    "/wiki/Valencia_CF"
+                ],
+                [
+                    {
+                        "entity id": "Q10333",
+                        "label": "Valencia CF"
+                    }
+                ]
+            ],
+            [
+                "Valencia",
+                [
+                    "/wiki/Valencia"
+                ],
+                [
+                    {
+                        "entity id": "Q8818",
+                        "label": "Valencia"
+                    }
+                ]
+            ],
+            [
+                "UEFA",
+                [
+                    "/wiki/UEFA"
+                ],
+                [
+                    {
+                        "entity id": "Q35572",
+                        "label": "UEFA"
+                    }
+                ]
+            ],
+            [
+                "La Liga",
+                [
+                    "/wiki/La_Liga"
+                ],
+                [
+                    {
+                        "entity id": "Q324867",
+                        "label": "La Liga"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "U.S",
+                []
+            ],
+            [
+                "LA Galaxy",
+                [
+                    "/wiki/LA_Galaxy"
+                ],
+                [
+                    {
+                        "entity id": "Q204357",
+                        "label": "LA Galaxy"
+                    }
+                ]
+            ],
+            [
+                "Los Angeles",
+                [
+                    "/wiki/Los_Angeles"
+                ],
+                [
+                    {
+                        "entity id": "Q65",
+                        "label": "Los Angeles"
+                    }
+                ]
+            ],
+            [
+                "CONCACAF",
+                [
+                    "/wiki/CONCACAF"
+                ],
+                [
+                    {
+                        "entity id": "Q160549",
+                        "label": "CONCACAF"
+                    }
+                ]
+            ],
+            [
+                "Major League Soccer",
+                [
+                    "/wiki/Major_League_Soccer"
+                ],
+                [
+                    {
+                        "entity id": "Q18543",
+                        "label": "Major League Soccer"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Teams",
+    "section_text": "",
+    "uid": "2013_International_Champions_Cup_0",
+    "intro": "The 2013 International Champions Cup (or ICC) was an exhibition association football tournament played in the United States and Spain. It began on Saturday, July 27 and culminated on Wednesday, August 7. This tournament replaced the World Football Challenge and was staged mainly throughout the United States, and with one match in Valencia, Spain. The participating teams were LA Galaxy of the United States, Real Madrid and Valencia of Spain, Milan, Juventus and Inter Milan of Italy, and Chelsea and Everton of England. In the United States, Fox Soccer televised 11 of 12 matches live, and Fox Sports broadcast one match live on August 3. ESPN Deportes televised all matches live on TV and on WatchESPN in Spanish. Real Madrid won the tournament, defeating Chelsea 3-1 in the final."
+}

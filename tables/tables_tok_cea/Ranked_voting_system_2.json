@@ -1,0 +1,561 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Ranked_voting",
+    "title": "Ranked voting",
+    "header": [
+        [
+            "City/town",
+            []
+        ],
+        [
+            "Years in use",
+            []
+        ],
+        [
+            "Type",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Ann Arbor , MI",
+                [
+                    "/wiki/Ann_Arbor,_MI"
+                ],
+                [
+                    {
+                        "entity id": "Q485172",
+                        "label": "Ann Arbor"
+                    }
+                ]
+            ],
+            [
+                "1975 only",
+                []
+            ],
+            [
+                "Instant-runoff voting",
+                [
+                    "/wiki/Instant-runoff_voting"
+                ],
+                [
+                    {
+                        "entity id": "Q1491219",
+                        "label": "instant-runoff voting"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Aspen , CO",
+                [
+                    "/wiki/Aspen,_CO"
+                ],
+                [
+                    {
+                        "entity id": "Q205842",
+                        "label": "Aspen"
+                    }
+                ]
+            ],
+            [
+                "2009 only",
+                []
+            ],
+            [
+                "Instant-runoff voting",
+                [
+                    "/wiki/Instant-runoff_voting"
+                ],
+                [
+                    {
+                        "entity id": "Q1491219",
+                        "label": "instant-runoff voting"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Berkeley , CA",
+                [
+                    "/wiki/Berkeley,_CA"
+                ],
+                [
+                    {
+                        "entity id": "Q484678",
+                        "label": "Berkeley"
+                    }
+                ]
+            ],
+            [
+                "2010-present",
+                []
+            ],
+            [
+                "Instant-runoff voting",
+                [
+                    "/wiki/Instant-runoff_voting"
+                ],
+                [
+                    {
+                        "entity id": "Q1491219",
+                        "label": "instant-runoff voting"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Burlington , VT",
+                [
+                    "/wiki/Burlington,_VT"
+                ],
+                [
+                    {
+                        "entity id": "Q31058",
+                        "label": "Burlington"
+                    }
+                ]
+            ],
+            [
+                "2005-2010",
+                []
+            ],
+            [
+                "Instant-runoff voting",
+                [
+                    "/wiki/Instant-runoff_voting"
+                ],
+                [
+                    {
+                        "entity id": "Q1491219",
+                        "label": "instant-runoff voting"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Cambridge , MA",
+                [
+                    "/wiki/Cambridge,_MA"
+                ],
+                [
+                    {
+                        "entity id": "Q49111",
+                        "label": "Cambridge"
+                    }
+                ]
+            ],
+            [
+                "1941-present",
+                []
+            ],
+            [
+                "Single transferable vote",
+                [
+                    "/wiki/Single_transferable_vote"
+                ],
+                [
+                    {
+                        "entity id": "Q115807",
+                        "label": "single transferable vote"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Hendersonville , NC",
+                [
+                    "/wiki/Hendersonville,_NC"
+                ],
+                [
+                    {
+                        "entity id": "Q678740",
+                        "label": "Hendersonville"
+                    }
+                ]
+            ],
+            [
+                "2007-2013",
+                []
+            ],
+            [
+                "Instant-runoff voting",
+                [
+                    "/wiki/Instant-runoff_voting"
+                ],
+                [
+                    {
+                        "entity id": "Q1491219",
+                        "label": "instant-runoff voting"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "London",
+                [
+                    "/wiki/London"
+                ],
+                [
+                    {
+                        "entity id": "Q84",
+                        "label": "London"
+                    }
+                ]
+            ],
+            [
+                "2000-present",
+                []
+            ],
+            [
+                "Supplementary vote",
+                [
+                    "/wiki/Contingent_vote"
+                ],
+                [
+                    {
+                        "entity id": "Q5165370",
+                        "label": "contingent vote"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "London , Ontario",
+                [
+                    "/wiki/London,_Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q92561",
+                        "label": "London"
+                    }
+                ]
+            ],
+            [
+                "2018 - present",
+                []
+            ],
+            [
+                "Instant-runoff voting",
+                [
+                    "/wiki/Instant-runoff_voting"
+                ],
+                [
+                    {
+                        "entity id": "Q1491219",
+                        "label": "instant-runoff voting"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Memphis , TN",
+                [
+                    "/wiki/Memphis,_TN"
+                ],
+                [
+                    {
+                        "entity id": "Q16563",
+                        "label": "Memphis"
+                    }
+                ]
+            ],
+            [
+                "2011-present",
+                []
+            ],
+            [
+                "Instant-runoff voting",
+                [
+                    "/wiki/Instant-runoff_voting"
+                ],
+                [
+                    {
+                        "entity id": "Q1491219",
+                        "label": "instant-runoff voting"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Minneapolis , MN",
+                [
+                    "/wiki/Minneapolis,_MN"
+                ],
+                [
+                    {
+                        "entity id": "Q36091",
+                        "label": "Minneapolis"
+                    }
+                ]
+            ],
+            [
+                "2009-present",
+                []
+            ],
+            [
+                "Instant-runoff voting",
+                [
+                    "/wiki/Instant-runoff_voting"
+                ],
+                [
+                    {
+                        "entity id": "Q1491219",
+                        "label": "instant-runoff voting"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Oakland , CA",
+                [
+                    "/wiki/Oakland,_CA"
+                ],
+                [
+                    {
+                        "entity id": "Q17042",
+                        "label": "Oakland"
+                    }
+                ]
+            ],
+            [
+                "2010-present",
+                []
+            ],
+            [
+                "Instant-runoff voting",
+                [
+                    "/wiki/Instant-runoff_voting"
+                ],
+                [
+                    {
+                        "entity id": "Q1491219",
+                        "label": "instant-runoff voting"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Portland , ME",
+                [
+                    "/wiki/Portland,_ME"
+                ],
+                [
+                    {
+                        "entity id": "Q49201",
+                        "label": "Portland"
+                    }
+                ]
+            ],
+            [
+                "2011-present",
+                []
+            ],
+            [
+                "Instant-runoff voting",
+                [
+                    "/wiki/Instant-runoff_voting"
+                ],
+                [
+                    {
+                        "entity id": "Q1491219",
+                        "label": "instant-runoff voting"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "San Francisco , CA",
+                [
+                    "/wiki/San_Francisco,_CA"
+                ],
+                [
+                    {
+                        "entity id": "Q62",
+                        "label": "San Francisco"
+                    }
+                ]
+            ],
+            [
+                "2004-present",
+                []
+            ],
+            [
+                "Instant-runoff voting",
+                [
+                    "/wiki/Instant-runoff_voting"
+                ],
+                [
+                    {
+                        "entity id": "Q1491219",
+                        "label": "instant-runoff voting"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "San Leandro , CA",
+                [
+                    "/wiki/San_Leandro,_CA"
+                ],
+                [
+                    {
+                        "entity id": "Q851034",
+                        "label": "San Leandro"
+                    }
+                ]
+            ],
+            [
+                "2010-present",
+                []
+            ],
+            [
+                "Instant-runoff voting",
+                [
+                    "/wiki/Instant-runoff_voting"
+                ],
+                [
+                    {
+                        "entity id": "Q1491219",
+                        "label": "instant-runoff voting"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Santa Fe , NM",
+                [
+                    "/wiki/Santa_Fe,_NM"
+                ],
+                [
+                    {
+                        "entity id": "Q38555",
+                        "label": "Santa Fe"
+                    }
+                ]
+            ],
+            [
+                "2018-present",
+                []
+            ],
+            [
+                "Instant-runoff voting",
+                [
+                    "/wiki/Instant-runoff_voting"
+                ],
+                [
+                    {
+                        "entity id": "Q1491219",
+                        "label": "instant-runoff voting"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "St. Paul , MN",
+                [
+                    "/wiki/St._Paul,_MN"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "2011-present",
+                []
+            ],
+            [
+                "Instant-runoff voting",
+                [
+                    "/wiki/Instant-runoff_voting"
+                ],
+                [
+                    {
+                        "entity id": "Q1491219",
+                        "label": "instant-runoff voting"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Takoma Park , MD",
+                [
+                    "/wiki/Takoma_Park,_Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q754271",
+                        "label": "Takoma Park"
+                    }
+                ]
+            ],
+            [
+                "2006-present",
+                []
+            ],
+            [
+                "Instant-runoff voting",
+                [
+                    "/wiki/Instant-runoff_voting"
+                ],
+                [
+                    {
+                        "entity id": "Q1491219",
+                        "label": "instant-runoff voting"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Telluride , CO",
+                [
+                    "/wiki/Telluride,_CO"
+                ],
+                [
+                    {
+                        "entity id": "Q1641728",
+                        "label": "Telluride"
+                    }
+                ]
+            ],
+            [
+                "2011-present",
+                []
+            ],
+            [
+                "Instant-runoff voting",
+                [
+                    "/wiki/Instant-runoff_voting"
+                ],
+                [
+                    {
+                        "entity id": "Q1491219",
+                        "label": "instant-runoff voting"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Use by politics -- Municipalities",
+    "section_text": "",
+    "uid": "Ranked_voting_system_2",
+    "intro": "Ranked voting is any election voting system in which voters use a ranked (or preferential) ballot to rank choices in a sequence on the ordinal scale: 1st, 2nd, 3rd, etc. There are multiple ways in which the rankings can be counted to determine which candidate (or candidates) is (or are) elected (and different methods may choose different winners from the same set of ballots). The other major branch of voting systems is cardinal voting, where candidates are independently rated, rather than ranked. The similar term Ranked Choice Voting (RCV) is used by the US organization FairVote to refer to the use of ranked ballots with specific counting methods: either instant-runoff voting for single-winner elections or single transferable vote for multi-winner elections. In some locations, the term preferential voting is used to refer to this combination of ballot type and counting method, while in other locations this term has various more-specialized meanings. A ranked voting system collects more information from voters compared to the single-mark ballots currently used in most governmental elections, many of which use First-Past-The-Post and Mixed-Member Proportional voting systems. There are many types of ranked voting, with several used in governmental elections. Instant-runoff voting is used in Australian state and federal elections, in Ireland for its presidential elections, and by some jurisdictions in the United States, United Kingdom, and New Zealand. A type and classification of ranked voting is called the single transferable vote, which is used for national elections in Ireland and Malta, the Australian Senate, for regional and local elections in Northern Ireland, for all local elections in Scotland, and for some local elections in New Zealand and the United States. Borda count is used in Slovenia and Nauru. Contingent vote and Supplementary vote are also used in a few locations. Condorcet methods are used by private organizations and minor parties, but currently are not used in governmental elections."
+}

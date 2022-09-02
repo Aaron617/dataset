@@ -1,0 +1,769 @@
+{
+    "url": "https://en.wikipedia.org/wiki/EX_postcode_area",
+    "title": "EX postcode area",
+    "header": [
+        [
+            "Postcode district",
+            []
+        ],
+        [
+            "Post town",
+            [
+                "/wiki/Post_town"
+            ],
+            [
+                {
+                    "entity id": "Q1968403",
+                    "label": "post town"
+                }
+            ]
+        ],
+        [
+            "Coverage",
+            []
+        ],
+        [
+            "Local authority area",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "EX1",
+                []
+            ],
+            [
+                "EXETER",
+                []
+            ],
+            [
+                "Exeter ( east ) , Heavitree ( north ) , Monkerton , Newtown , Pinhoe , West Clyst",
+                [
+                    "/wiki/Exeter",
+                    "/wiki/Heavitree",
+                    "/wiki/Newtown,_Exeter",
+                    "/wiki/Pinhoe"
+                ],
+                [
+                    {
+                        "entity id": "Q134672",
+                        "label": "Exeter"
+                    },
+                    {
+                        "entity id": "Q5694972",
+                        "label": "Heavitree"
+                    },
+                    {
+                        "entity id": "Q15262208",
+                        "label": "Newtown"
+                    },
+                    {
+                        "entity id": "Q7195881",
+                        "label": "Pinhoe"
+                    }
+                ]
+            ],
+            [
+                "Exeter",
+                [
+                    "/wiki/Exeter_City_Council"
+                ],
+                [
+                    {
+                        "entity id": "Q5420103",
+                        "label": "Exeter City Council"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "EX2",
+                []
+            ],
+            [
+                "EXETER",
+                []
+            ],
+            [
+                "Exeter ( south ) , Heavitree ( south ) , St. Thomas ( south ) , Countess Wear , Wonford",
+                [
+                    "/wiki/St_Thomas,_Exeter",
+                    "/wiki/Countess_Wear",
+                    "/wiki/Wonford"
+                ],
+                [
+                    {
+                        "entity id": "Q7595547",
+                        "label": "St Thomas"
+                    },
+                    {
+                        "entity id": "Q5177074",
+                        "label": "Countess Wear"
+                    },
+                    {
+                        "entity id": "Q8031955",
+                        "label": "Wonford"
+                    }
+                ]
+            ],
+            [
+                "Exeter",
+                []
+            ]
+        ],
+        [
+            [
+                "EX3",
+                []
+            ],
+            [
+                "EXETER",
+                []
+            ],
+            [
+                "Clyst St. George , Ebford , Exton , Topsham",
+                [
+                    "/wiki/Topsham,_Devon"
+                ],
+                [
+                    {
+                        "entity id": "Q127095",
+                        "label": "Topsham"
+                    }
+                ]
+            ],
+            [
+                "Exeter",
+                []
+            ]
+        ],
+        [
+            [
+                "EX4",
+                []
+            ],
+            [
+                "EXETER",
+                []
+            ],
+            [
+                "Exeter ( north ) , Exwick , St. Thomas ( north ) , Beacon Heath , Redhills , Pennsylvania , St. James , Whitestone",
+                [
+                    "/wiki/Exwick",
+                    "/wiki/Pennsylvania,_Exeter",
+                    "/wiki/Whitestone,_Devon"
+                ],
+                [
+                    {
+                        "entity id": "Q5422518",
+                        "label": "Exwick"
+                    },
+                    {
+                        "entity id": "Q7163626",
+                        "label": "Pennsylvania, Exeter"
+                    },
+                    {
+                        "entity id": "Q2362567",
+                        "label": "Whitestone"
+                    }
+                ]
+            ],
+            [
+                "Exeter",
+                []
+            ]
+        ],
+        [
+            [
+                "EX5",
+                []
+            ],
+            [
+                "EXETER",
+                []
+            ],
+            [
+                "Bradninch , Broadclyst , Cadbury , Clyst Honiton , Clyst St. Mary , Cranbrook , Newton St. Cyres , Silverton , Talaton , Whimple , Woodbury",
+                [
+                    "/wiki/Bradninch",
+                    "/wiki/Broadclyst",
+                    "/wiki/Cadbury,_Devon",
+                    "/wiki/Clyst_Honiton",
+                    "/wiki/Clyst_St._Mary",
+                    "/wiki/Cranbrook,_Devon",
+                    "/wiki/Newton_St._Cyres",
+                    "/wiki/Silverton,_Devon",
+                    "/wiki/Talaton",
+                    "/wiki/Whimple",
+                    "/wiki/Woodbury,_Devon"
+                ],
+                [
+                    {
+                        "entity id": "Q928614",
+                        "label": "Bradninch"
+                    },
+                    {
+                        "entity id": "Q654026",
+                        "label": "Broadclyst"
+                    },
+                    {
+                        "entity id": "Q1961463",
+                        "label": "Cadbury"
+                    },
+                    {
+                        "entity id": "Q2281679",
+                        "label": "Clyst Honiton"
+                    },
+                    {
+                        "entity id": "Q2462640",
+                        "label": "Clyst St Mary"
+                    },
+                    {
+                        "entity id": "Q3696493",
+                        "label": "Cranbrook"
+                    },
+                    {
+                        "entity id": "Q111485608",
+                        "label": "Newton St. Cyres and Norton [Saxon manors]"
+                    },
+                    {
+                        "entity id": "Q3474744",
+                        "label": "Silverton"
+                    },
+                    {
+                        "entity id": "Q2160155",
+                        "label": "Talaton"
+                    },
+                    {
+                        "entity id": "Q2458749",
+                        "label": "Whimple"
+                    },
+                    {
+                        "entity id": "Q2380248",
+                        "label": "Woodbury"
+                    }
+                ]
+            ],
+            [
+                "East Devon , Mid Devon",
+                [
+                    "/wiki/East_Devon",
+                    "/wiki/Mid_Devon"
+                ],
+                [
+                    {
+                        "entity id": "Q1277825",
+                        "label": "East Devon"
+                    },
+                    {
+                        "entity id": "Q662238",
+                        "label": "Mid Devon"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "EX6",
+                []
+            ],
+            [
+                "EXETER",
+                []
+            ],
+            [
+                "Christow , Cockwood , Dunsford , Kennford , Kenton , Mamhead , Exminster",
+                [
+                    "/wiki/Christow",
+                    "/wiki/Cockwood",
+                    "/wiki/Dunsford",
+                    "/wiki/Kennford",
+                    "/wiki/Kenton,_Devon",
+                    "/wiki/Mamhead",
+                    "/wiki/Exminster"
+                ],
+                [
+                    {
+                        "entity id": "Q642592",
+                        "label": "Christow"
+                    },
+                    {
+                        "entity id": "Q5139716",
+                        "label": "Cockwood"
+                    },
+                    {
+                        "entity id": "Q2528179",
+                        "label": "Dunsford"
+                    },
+                    {
+                        "entity id": "Q6390897",
+                        "label": "Kennford"
+                    },
+                    {
+                        "entity id": "Q1893512",
+                        "label": "Kenton"
+                    },
+                    {
+                        "entity id": "Q674241",
+                        "label": "Mamhead"
+                    },
+                    {
+                        "entity id": "Q2388026",
+                        "label": "Exminster"
+                    }
+                ]
+            ],
+            [
+                "Teignbridge",
+                [
+                    "/wiki/Teignbridge"
+                ],
+                [
+                    {
+                        "entity id": "Q739432",
+                        "label": "Teignbridge"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "EX7",
+                []
+            ],
+            [
+                "DAWLISH",
+                []
+            ],
+            [
+                "Dawlish",
+                [
+                    "/wiki/Dawlish"
+                ],
+                [
+                    {
+                        "entity id": "Q1248368",
+                        "label": "Dawlish"
+                    }
+                ]
+            ],
+            [
+                "Teignbridge",
+                []
+            ]
+        ],
+        [
+            [
+                "EX8",
+                []
+            ],
+            [
+                "EXMOUTH",
+                []
+            ],
+            [
+                "Exmouth , Lympstone",
+                [
+                    "/wiki/Exmouth",
+                    "/wiki/Lympstone"
+                ],
+                [
+                    {
+                        "entity id": "Q1007093",
+                        "label": "Exmouth"
+                    },
+                    {
+                        "entity id": "Q2986492",
+                        "label": "Lympstone"
+                    }
+                ]
+            ],
+            [
+                "East Devon",
+                []
+            ]
+        ],
+        [
+            [
+                "EX9",
+                []
+            ],
+            [
+                "BUDLEIGH SALTERTON",
+                []
+            ],
+            [
+                "Budleigh Salterton , East Budleigh , Otterton",
+                [
+                    "/wiki/Budleigh_Salterton",
+                    "/wiki/East_Budleigh",
+                    "/wiki/Otterton"
+                ],
+                [
+                    {
+                        "entity id": "Q1001536",
+                        "label": "Budleigh Salterton"
+                    },
+                    {
+                        "entity id": "Q2368316",
+                        "label": "East Budleigh"
+                    },
+                    {
+                        "entity id": "Q984760",
+                        "label": "Otterton"
+                    }
+                ]
+            ],
+            [
+                "East Devon",
+                []
+            ]
+        ],
+        [
+            [
+                "EX10",
+                []
+            ],
+            [
+                "SIDMOUTH",
+                []
+            ],
+            [
+                "Sidmouth , Sidford , Sidbury",
+                [
+                    "/wiki/Sidmouth",
+                    "/wiki/Sidford",
+                    "/wiki/Sidbury"
+                ],
+                [
+                    {
+                        "entity id": "Q995647",
+                        "label": "Sidmouth"
+                    },
+                    {
+                        "entity id": "Q7508566",
+                        "label": "Sidford"
+                    },
+                    {
+                        "entity id": "Q652029",
+                        "label": "Sidbury"
+                    }
+                ]
+            ],
+            [
+                "East Devon",
+                []
+            ]
+        ],
+        [
+            [
+                "EX11",
+                []
+            ],
+            [
+                "OTTERY ST. MARY",
+                []
+            ],
+            [
+                "Ottery St. Mary",
+                [
+                    "/wiki/Ottery_St._Mary"
+                ],
+                [
+                    {
+                        "entity id": "Q24662868",
+                        "label": "Ottery St. Mary"
+                    }
+                ]
+            ],
+            [
+                "East Devon",
+                []
+            ]
+        ],
+        [
+            [
+                "EX12",
+                []
+            ],
+            [
+                "SEATON",
+                []
+            ],
+            [
+                "Seaton , Beer , Axmouth , Branscombe",
+                [
+                    "/wiki/Seaton,_Devon",
+                    "/wiki/Beer,_Devon",
+                    "/wiki/Axmouth",
+                    "/wiki/Branscombe"
+                ],
+                [
+                    {
+                        "entity id": "Q1235885",
+                        "label": "Seaton"
+                    },
+                    {
+                        "entity id": "Q682112",
+                        "label": "Beer"
+                    },
+                    {
+                        "entity id": "Q1242448",
+                        "label": "Axmouth"
+                    },
+                    {
+                        "entity id": "Q846774",
+                        "label": "Branscombe"
+                    }
+                ]
+            ],
+            [
+                "East Devon",
+                []
+            ]
+        ],
+        [
+            [
+                "EX13",
+                []
+            ],
+            [
+                "AXMINSTER",
+                []
+            ],
+            [
+                "Axminster",
+                [
+                    "/wiki/Axminster"
+                ],
+                [
+                    {
+                        "entity id": "Q792596",
+                        "label": "Axminster"
+                    }
+                ]
+            ],
+            [
+                "East Devon",
+                []
+            ]
+        ],
+        [
+            [
+                "EX14",
+                []
+            ],
+            [
+                "HONITON",
+                []
+            ],
+            [
+                "Honiton",
+                [
+                    "/wiki/Honiton"
+                ],
+                [
+                    {
+                        "entity id": "Q647123",
+                        "label": "Honiton"
+                    }
+                ]
+            ],
+            [
+                "East Devon",
+                []
+            ]
+        ],
+        [
+            [
+                "EX15",
+                []
+            ],
+            [
+                "CULLOMPTON",
+                []
+            ],
+            [
+                "Cullompton , Plymtree",
+                [
+                    "/wiki/Cullompton",
+                    "/wiki/Plymtree"
+                ],
+                [
+                    {
+                        "entity id": "Q668275",
+                        "label": "Cullompton"
+                    },
+                    {
+                        "entity id": "Q1961439",
+                        "label": "Plymtree"
+                    }
+                ]
+            ],
+            [
+                "Mid Devon",
+                []
+            ]
+        ],
+        [
+            [
+                "EX16",
+                []
+            ],
+            [
+                "TIVERTON",
+                []
+            ],
+            [
+                "Tiverton",
+                [
+                    "/wiki/Tiverton,_Devon"
+                ],
+                [
+                    {
+                        "entity id": "Q637298",
+                        "label": "Tiverton"
+                    }
+                ]
+            ],
+            [
+                "Mid Devon",
+                []
+            ]
+        ],
+        [
+            [
+                "EX17",
+                []
+            ],
+            [
+                "CREDITON",
+                []
+            ],
+            [
+                "Crediton",
+                [
+                    "/wiki/Crediton"
+                ],
+                [
+                    {
+                        "entity id": "Q1139440",
+                        "label": "Crediton"
+                    }
+                ]
+            ],
+            [
+                "Mid Devon",
+                []
+            ]
+        ],
+        [
+            [
+                "EX18",
+                []
+            ],
+            [
+                "CHULMLEIGH",
+                []
+            ],
+            [
+                "Chulmleigh",
+                [
+                    "/wiki/Chulmleigh"
+                ],
+                [
+                    {
+                        "entity id": "Q1218627",
+                        "label": "Chulmleigh"
+                    }
+                ]
+            ],
+            [
+                "North Devon",
+                [
+                    "/wiki/North_Devon"
+                ],
+                [
+                    {
+                        "entity id": "Q674940",
+                        "label": "North Devon"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "EX19",
+                []
+            ],
+            [
+                "WINKLEIGH",
+                []
+            ],
+            [
+                "Winkleigh",
+                [
+                    "/wiki/Winkleigh"
+                ],
+                [
+                    {
+                        "entity id": "Q643534",
+                        "label": "Winkleigh"
+                    }
+                ]
+            ],
+            [
+                "Torridge",
+                [
+                    "/wiki/Torridge_District"
+                ],
+                [
+                    {
+                        "entity id": "Q7827123",
+                        "label": "Torridge District Council election"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "EX20",
+                []
+            ],
+            [
+                "NORTH TAWTON , OKEHAMPTON",
+                []
+            ],
+            [
+                "Okehampton",
+                [
+                    "/wiki/Okehampton"
+                ],
+                [
+                    {
+                        "entity id": "Q1234883",
+                        "label": "Okehampton"
+                    }
+                ]
+            ],
+            [
+                "West Devon",
+                [
+                    "/wiki/West_Devon"
+                ],
+                [
+                    {
+                        "entity id": "Q370814",
+                        "label": "West Devon"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Coverage",
+    "section_text": "The approximate coverage of the postcode districts :",
+    "uid": "EX_postcode_area_0",
+    "intro": "The EX postcode area, also known as the Exeter postcode area, is a group of 33 postcode districts in South West England, which are subdivisions of 30 post towns. These cover north and east Devon, including Exeter, Barnstaple, Axminster, Beaworthy, Bideford, Braunton, Budleigh Salterton, Chulmleigh, Colyton, Crediton, Cullompton, Dawlish, Exmouth, Holsworthy, Honiton, Ilfracombe, Lynmouth, Lynton, North Tawton, Okehampton, Ottery St Mary, Seaton, Sidmouth, Sidford, Sidbury, South Molton, Tiverton, Torrington, Umberleigh, Winkleigh and Woolacombe, plus the northernmost part of Cornwall, including Bude."
+}

@@ -1,0 +1,640 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Australia",
+    "title": "List of airports in Australia",
+    "header": [
+        [
+            "City served/location",
+            [
+                "/wiki/List_of_cities_in_Australia"
+            ],
+            [
+                {
+                    "entity id": "Q207820",
+                    "label": "list of cities in Australia"
+                }
+            ]
+        ],
+        [
+            "ICAO",
+            [
+                "/wiki/ICAO_airport_code"
+            ],
+            [
+                {
+                    "entity id": "Q207529",
+                    "label": "ICAO airport code"
+                }
+            ]
+        ],
+        [
+            "IATA",
+            [
+                "/wiki/IATA_airport_code"
+            ],
+            [
+                {
+                    "entity id": "Q192824",
+                    "label": "IATA airport code"
+                }
+            ]
+        ],
+        [
+            "Airport name",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Albany",
+                [
+                    "/wiki/Albany,_Western_Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q704257",
+                        "label": "Albany"
+                    }
+                ]
+            ],
+            [
+                "YABA",
+                []
+            ],
+            [
+                "ALH",
+                []
+            ],
+            [
+                "Albany Airport",
+                [
+                    "/wiki/Albany_Airport_(Australia)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Argyle",
+                [
+                    "/wiki/Argyle_Downs"
+                ],
+                [
+                    {
+                        "entity id": "Q4789815",
+                        "label": "Argyle Downs"
+                    }
+                ]
+            ],
+            [
+                "YARG",
+                []
+            ],
+            [
+                "GYL",
+                []
+            ],
+            [
+                "Argyle Airport",
+                [
+                    "/wiki/Argyle_Downs_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q4789821",
+                        "label": "Argyle Downs Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Balgo",
+                [
+                    "/wiki/Balgo,_Western_Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q804942",
+                        "label": "Balgo"
+                    }
+                ]
+            ],
+            [
+                "YBGO",
+                []
+            ],
+            [
+                "BQW",
+                []
+            ],
+            [
+                "Balgo Hill Airport",
+                [
+                    "/wiki/Balgo_Hill_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q4850789",
+                        "label": "Balgo Hill Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Barimunya",
+                []
+            ],
+            [
+                "YBRY",
+                []
+            ],
+            [
+                "BYP",
+                []
+            ],
+            [
+                "Barimunya Airport",
+                [
+                    "/wiki/Barimunya_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q4860751",
+                        "label": "Barimunya Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Barrow Island",
+                [
+                    "/wiki/Barrow_Island_(Western_Australia)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "YBWX",
+                []
+            ],
+            [
+                "BWB",
+                []
+            ],
+            [
+                "Barrow Island Airport",
+                [
+                    "/wiki/Barrow_Island_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q4863892",
+                        "label": "Barrow Island Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Beagle Bay",
+                [
+                    "/wiki/Beagle_Bay_Community,_Western_Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q4876087",
+                        "label": "Beagle Bay Community"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "BEE",
+                []
+            ],
+            [
+                "Beagle Bay Airport",
+                []
+            ]
+        ],
+        [
+            [
+                "Bedford Downs",
+                [
+                    "/wiki/Bedford_Downs_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q17001286",
+                        "label": "Bedford Downs Station"
+                    }
+                ]
+            ],
+            [
+                "YBDF",
+                []
+            ],
+            [
+                "BDW",
+                []
+            ],
+            [
+                "Bedford Downs Airport",
+                []
+            ]
+        ],
+        [
+            [
+                "Beverley Springs",
+                []
+            ],
+            [
+                "YBYS",
+                []
+            ],
+            [
+                "BVZ",
+                []
+            ],
+            [
+                "Beverley Springs Airport",
+                []
+            ]
+        ],
+        [
+            [
+                "Boolgeeda",
+                [
+                    "/wiki/Brockman_4_mine"
+                ],
+                [
+                    {
+                        "entity id": "Q167806",
+                        "label": "Brockman 4 mine"
+                    }
+                ]
+            ],
+            [
+                "YBGD",
+                []
+            ],
+            [
+                "OCM",
+                []
+            ],
+            [
+                "Boolgeeda Airport",
+                [
+                    "/wiki/Boolgeeda_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q4943365",
+                        "label": "Boolgeeda Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Broome",
+                [
+                    "/wiki/Broome,_Western_Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q606294",
+                        "label": "Broome"
+                    }
+                ]
+            ],
+            [
+                "YBRM",
+                []
+            ],
+            [
+                "BME",
+                []
+            ],
+            [
+                "Broome International Airport",
+                [
+                    "/wiki/Broome_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1431002",
+                        "label": "Broome International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Bunbury",
+                [
+                    "/wiki/Bunbury,_Western_Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q256711",
+                        "label": "Bunbury"
+                    }
+                ]
+            ],
+            [
+                "YBUN",
+                []
+            ],
+            [
+                "BUY",
+                []
+            ],
+            [
+                "Bunbury Airport",
+                [
+                    "/wiki/Bunbury_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3887257",
+                        "label": "Bunbury Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Busselton",
+                [
+                    "/wiki/Busselton"
+                ],
+                [
+                    {
+                        "entity id": "Q642631",
+                        "label": "Busselton"
+                    }
+                ]
+            ],
+            [
+                "YBLN",
+                []
+            ],
+            [
+                "BQB",
+                []
+            ],
+            [
+                "Busselton Margaret River Airport",
+                [
+                    "/wiki/Busselton_Margaret_River_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3813501",
+                        "label": "Busselton Margaret River Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Caiguna",
+                [
+                    "/wiki/Caiguna,_Western_Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q1025841",
+                        "label": "Caiguna"
+                    }
+                ]
+            ],
+            [
+                "YCAG",
+                []
+            ],
+            [
+                "CGV",
+                []
+            ],
+            [
+                "Caiguna Airport",
+                [
+                    "/wiki/Caiguna_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q21924148",
+                        "label": "Caiguna Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Carlton Hill",
+                [
+                    "/wiki/Carlton_Hill_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q5043016",
+                        "label": "Carlton Hill Station"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "CRY",
+                []
+            ],
+            [
+                "Carlton Hill Airport",
+                []
+            ]
+        ],
+        [
+            [
+                "Carnarvon",
+                [
+                    "/wiki/Carnarvon,_Western_Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q1021880",
+                        "label": "Carnarvon"
+                    }
+                ]
+            ],
+            [
+                "YCAR",
+                []
+            ],
+            [
+                "CVQ",
+                []
+            ],
+            [
+                "Carnarvon Airport",
+                [
+                    "/wiki/Carnarvon_Airport_(Australia)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Cherrabun",
+                [
+                    "/wiki/Cherrabun"
+                ],
+                [
+                    {
+                        "entity id": "Q16890189",
+                        "label": "Cherrabun"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "CBC",
+                []
+            ],
+            [
+                "Cherrabun Airport",
+                []
+            ]
+        ],
+        [
+            [
+                "Christmas Creek Mine",
+                [
+                    "/wiki/Christmas_Creek_Mine"
+                ],
+                [
+                    {
+                        "entity id": "Q1084174",
+                        "label": "Christmas Creek mine"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "CKW",
+                []
+            ],
+            [
+                "Christmas Creek Mine Airport",
+                []
+            ]
+        ],
+        [
+            [
+                "Christmas Creek Station",
+                []
+            ],
+            [
+                "YCRK",
+                []
+            ],
+            [
+                "CXQ",
+                []
+            ],
+            [
+                "Christmas Creek Station Airport",
+                [
+                    "/wiki/Christmas_Creek_Station_Airport"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Collie",
+                [
+                    "/wiki/Collie,_Western_Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q130685",
+                        "label": "Collie"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "CIE",
+                []
+            ],
+            [
+                "Collie Airport",
+                []
+            ]
+        ],
+        [
+            [
+                "Coolawanyah Station",
+                [
+                    "/wiki/Coolawanyah_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q16890623",
+                        "label": "Coolawanyah Station"
+                    }
+                ]
+            ],
+            [
+                "YCWY",
+                []
+            ],
+            [
+                "COY",
+                []
+            ],
+            [
+                "Coolawanyah Station Airport",
+                [
+                    "/wiki/Coolawanyah_Station_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q16890624",
+                        "label": "Coolawanyah Station Airport"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Airports -- Western Australia ( WA )",
+    "section_text": "See also : List of airports in Western Australia",
+    "uid": "List_of_airports_in_Australia_7",
+    "intro": "This is a list of airports in Australia. It includes licensed airports, with the exception of private airports. Aerodromes here are listed with their 4-letter ICAO code, and 3-letter IATA code (where available). A more extensive list can be found in the En Route Supplement Australia (ERSA), available online from the Airservices Australia web site and in the individual lists for each state or territory."
+}

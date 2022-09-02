@@ -1,0 +1,1345 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Mobile_browser",
+    "title": "Mobile browser",
+    "header": [
+        [
+            "Browser",
+            []
+        ],
+        [
+            "Creator",
+            []
+        ],
+        [
+            "FOSS",
+            [
+                "/wiki/Free_and_open_source_software"
+            ],
+            [
+                {
+                    "entity id": "Q506883",
+                    "label": "free and open-source software"
+                }
+            ]
+        ],
+        [
+            "Current layout engine",
+            [
+                "/wiki/Browser_engine"
+            ],
+            [
+                {
+                    "entity id": "Q373442",
+                    "label": "web browser engine"
+                }
+            ]
+        ],
+        [
+            "Software license",
+            [
+                "/wiki/Software_license"
+            ],
+            [
+                {
+                    "entity id": "Q207621",
+                    "label": "software license"
+                }
+            ]
+        ],
+        [
+            "Notes",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Amazon Silk",
+                [
+                    "/wiki/Amazon_Silk"
+                ],
+                [
+                    {
+                        "entity id": "Q431171",
+                        "label": "Amazon Silk"
+                    }
+                ]
+            ],
+            [
+                "Amazon.com",
+                [
+                    "/wiki/Amazon.com"
+                ],
+                [
+                    {
+                        "entity id": "Q3884",
+                        "label": "Amazon"
+                    }
+                ]
+            ],
+            [
+                "Some",
+                []
+            ],
+            [
+                "Blink",
+                [
+                    "/wiki/Blink_(layout_engine)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "proprietary and LGPL",
+                [
+                    "/wiki/Proprietary_software",
+                    "/wiki/GNU_Lesser_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    },
+                    {
+                        "entity id": "Q192897",
+                        "label": "GNU Lesser General Public License"
+                    }
+                ]
+            ],
+            [
+                "Uses split architecture whereby all processing is performed on Amazon 's servers",
+                []
+            ]
+        ],
+        [
+            [
+                "Android browser",
+                [
+                    "/wiki/Android_(operating_system)"
+                ],
+                [
+                    {
+                        "entity id": "Q94",
+                        "label": "Android"
+                    }
+                ]
+            ],
+            [
+                "Google",
+                [
+                    "/wiki/Google"
+                ],
+                [
+                    {
+                        "entity id": "Q95",
+                        "label": "Google"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "WebKit",
+                [
+                    "/wiki/WebKit"
+                ],
+                [
+                    {
+                        "entity id": "Q654034",
+                        "label": "WebKit"
+                    }
+                ]
+            ],
+            [
+                "BSD and LGPL",
+                [
+                    "/wiki/BSD_licenses",
+                    "/wiki/GNU_Lesser_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q191307",
+                        "label": "BSD licenses"
+                    },
+                    {
+                        "entity id": "Q192897",
+                        "label": "GNU Lesser General Public License"
+                    }
+                ]
+            ],
+            [
+                "Browser included with Android version 1.5 to version 4.1",
+                []
+            ]
+        ],
+        [
+            [
+                "BlackBerry Browser",
+                [
+                    "/wiki/BlackBerry"
+                ],
+                [
+                    {
+                        "entity id": "Q161040",
+                        "label": "Morus nigra"
+                    }
+                ]
+            ],
+            [
+                "BlackBerry Ltd",
+                [
+                    "/wiki/BlackBerry_Limited"
+                ],
+                [
+                    {
+                        "entity id": "Q502121",
+                        "label": "BlackBerry"
+                    }
+                ]
+            ],
+            [
+                "Some",
+                []
+            ],
+            [
+                "Mango ( ver 4.5 , 4.6 , 4.7 , 5.0 ) Webkit ( ver 6.0+ )",
+                [
+                    "/wiki/Webkit"
+                ],
+                [
+                    {
+                        "entity id": "Q654034",
+                        "label": "WebKit"
+                    }
+                ]
+            ],
+            [
+                "proprietary and LGPL",
+                [
+                    "/wiki/Proprietary_software",
+                    "/wiki/GNU_Lesser_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    },
+                    {
+                        "entity id": "Q192897",
+                        "label": "GNU Lesser General Public License"
+                    }
+                ]
+            ],
+            [
+                "-",
+                []
+            ]
+        ],
+        [
+            [
+                "Blazer",
+                [
+                    "/wiki/Blazer_(web_browser)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Palm",
+                [
+                    "/wiki/Palm,_Inc."
+                ],
+                [
+                    {
+                        "entity id": "Q854437",
+                        "label": "Palm, Inc."
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "NetFront",
+                [
+                    "/wiki/NetFront"
+                ],
+                [
+                    {
+                        "entity id": "Q595374",
+                        "label": "NetFront"
+                    }
+                ]
+            ],
+            [
+                "proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "installed on all newer Palm Treos and PDAs",
+                [
+                    "/wiki/Palm_Treo"
+                ],
+                [
+                    {
+                        "entity id": "Q526252",
+                        "label": "Palm Treo"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Chrome",
+                [
+                    "/wiki/Google_Chrome"
+                ],
+                [
+                    {
+                        "entity id": "Q777",
+                        "label": "Google Chrome"
+                    }
+                ]
+            ],
+            [
+                "Google",
+                [
+                    "/wiki/Google"
+                ],
+                [
+                    {
+                        "entity id": "Q95",
+                        "label": "Google"
+                    }
+                ]
+            ],
+            [
+                "Some",
+                []
+            ],
+            [
+                "WebKit , Blink ( versions 28+ )",
+                [
+                    "/wiki/WebKit",
+                    "/wiki/Blink_(web_engine)"
+                ],
+                [
+                    {
+                        "entity id": "Q654034",
+                        "label": "WebKit"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Freeware under Google Chrome Terms of Service , but uses components from the Chromium ( web browser ) project",
+                [
+                    "/wiki/Freeware",
+                    "/wiki/Chromium_(web_browser)"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Installed as default on Google devices shipping with Android versions 4.1 ( Jelly Bean ) or higher",
+                [
+                    "/wiki/Android_(operating_system)",
+                    "/wiki/Android_Jelly_Bean"
+                ],
+                [
+                    {
+                        "entity id": "Q94",
+                        "label": "Android"
+                    },
+                    {
+                        "entity id": "Q2846924",
+                        "label": "Android Jelly Bean"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dolphin Browser",
+                [
+                    "/wiki/Dolphin_Browser"
+                ],
+                [
+                    {
+                        "entity id": "Q1236423",
+                        "label": "Dolphin Browser"
+                    }
+                ]
+            ],
+            [
+                "MoboTap",
+                []
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "WebKit",
+                [
+                    "/wiki/WebKit"
+                ],
+                [
+                    {
+                        "entity id": "Q654034",
+                        "label": "WebKit"
+                    }
+                ]
+            ],
+            [
+                "proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "installed on all Bada",
+                [
+                    "/wiki/Bada"
+                ],
+                [
+                    {
+                        "entity id": "Q242157",
+                        "label": "Bada"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Firefox for Mobile",
+                [
+                    "/wiki/Firefox_for_Mobile"
+                ],
+                [
+                    {
+                        "entity id": "Q550315",
+                        "label": "Firefox for Android"
+                    }
+                ]
+            ],
+            [
+                "Mozilla",
+                [
+                    "/wiki/Mozilla"
+                ],
+                [
+                    {
+                        "entity id": "Q698",
+                        "label": "Firefox"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Gecko , WebKit ( iOS version only )",
+                [
+                    "/wiki/Gecko_(software)",
+                    "/wiki/WebKit"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q654034",
+                        "label": "WebKit"
+                    }
+                ]
+            ],
+            [
+                "MPL",
+                [
+                    "/wiki/Mozilla_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q308915",
+                        "label": "Mozilla Public License"
+                    }
+                ]
+            ],
+            [
+                "Currently released for Android and iOS , but default browser for Firefox OS devices ( now discontinued )",
+                [
+                    "/wiki/Firefox_OS"
+                ],
+                [
+                    {
+                        "entity id": "Q550303",
+                        "label": "Firefox OS"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Internet Explorer Mobile",
+                [
+                    "/wiki/Internet_Explorer_Mobile"
+                ],
+                [
+                    {
+                        "entity id": "Q1140503",
+                        "label": "Internet Explorer Mobile"
+                    }
+                ]
+            ],
+            [
+                "Microsoft",
+                [
+                    "/wiki/Microsoft"
+                ],
+                [
+                    {
+                        "entity id": "Q2283",
+                        "label": "Microsoft"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Trident",
+                [
+                    "/wiki/Trident_(layout_engine)"
+                ],
+                [
+                    {
+                        "entity id": "Q432145",
+                        "label": "MSHTML"
+                    }
+                ]
+            ],
+            [
+                "proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "on Windows Phone and Windows Mobile only",
+                [
+                    "/wiki/Windows_Phone",
+                    "/wiki/Windows_Mobile"
+                ],
+                [
+                    {
+                        "entity id": "Q4885200",
+                        "label": "Windows Phone"
+                    },
+                    {
+                        "entity id": "Q21207",
+                        "label": "Windows Mobile"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Iris Browser",
+                [
+                    "/wiki/Iris_Browser"
+                ],
+                [
+                    {
+                        "entity id": "Q3511904",
+                        "label": "Iris Browser"
+                    }
+                ]
+            ],
+            [
+                "Torch Mobile",
+                [
+                    "/wiki/Torch_Mobile"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Some",
+                []
+            ],
+            [
+                "WebKit",
+                [
+                    "/wiki/WebKit"
+                ],
+                [
+                    {
+                        "entity id": "Q654034",
+                        "label": "WebKit"
+                    }
+                ]
+            ],
+            [
+                "proprietary and LGPL",
+                [
+                    "/wiki/Proprietary_software",
+                    "/wiki/GNU_Lesser_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    },
+                    {
+                        "entity id": "Q192897",
+                        "label": "GNU Lesser General Public License"
+                    }
+                ]
+            ],
+            [
+                "Acquired by Research in Motion - No longer supports Windows Mobile or Linux",
+                [
+                    "/wiki/Research_in_Motion",
+                    "/wiki/Windows_Mobile",
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q502121",
+                        "label": "BlackBerry"
+                    },
+                    {
+                        "entity id": "Q21207",
+                        "label": "Windows Mobile"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kindle web browser",
+                [
+                    "/wiki/Amazon_Kindle"
+                ],
+                [
+                    {
+                        "entity id": "Q136469",
+                        "label": "Amazon Kindle"
+                    }
+                ]
+            ],
+            [
+                "Amazon.com",
+                [
+                    "/wiki/Amazon.com"
+                ],
+                [
+                    {
+                        "entity id": "Q3884",
+                        "label": "Amazon"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "NetFront",
+                [
+                    "/wiki/NetFront"
+                ],
+                [
+                    {
+                        "entity id": "Q595374",
+                        "label": "NetFront"
+                    }
+                ]
+            ],
+            [
+                "proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Labeled experimental",
+                []
+            ]
+        ],
+        [
+            [
+                "Microsoft Edge",
+                [
+                    "/wiki/Microsoft_Edge"
+                ],
+                [
+                    {
+                        "entity id": "Q18698690",
+                        "label": "Microsoft Edge"
+                    }
+                ]
+            ],
+            [
+                "Microsoft",
+                [
+                    "/wiki/Microsoft"
+                ],
+                [
+                    {
+                        "entity id": "Q2283",
+                        "label": "Microsoft"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "EdgeHTML",
+                [
+                    "/wiki/EdgeHTML"
+                ],
+                [
+                    {
+                        "entity id": "Q19668903",
+                        "label": "EdgeHTML"
+                    }
+                ]
+            ],
+            [
+                "proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "on Windows 10 Mobile",
+                [
+                    "/wiki/Windows_10_Mobile"
+                ],
+                [
+                    {
+                        "entity id": "Q18845397",
+                        "label": "Windows\u00a010 Mobile"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Myriad Browser",
+                [
+                    "/wiki/Myriad_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q1567275",
+                        "label": "Myriad Group"
+                    }
+                ]
+            ],
+            [
+                "Myriad Group",
+                [
+                    "/wiki/Myriad_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q1567275",
+                        "label": "Myriad Group"
+                    }
+                ]
+            ],
+            [
+                "Some",
+                []
+            ],
+            [
+                "Magellan ( ver . 6.x ) Fugu ( ver 7.x ) WebKit ( ver 9 )",
+                [
+                    "/wiki/WebKit"
+                ],
+                [
+                    {
+                        "entity id": "Q654034",
+                        "label": "WebKit"
+                    }
+                ]
+            ],
+            [
+                "proprietary and LGPL",
+                [
+                    "/wiki/Proprietary_software",
+                    "/wiki/GNU_Lesser_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    },
+                    {
+                        "entity id": "Q192897",
+                        "label": "GNU Lesser General Public License"
+                    }
+                ]
+            ],
+            [
+                "Acquired from Openwave in 2008",
+                [
+                    "/wiki/Openwave"
+                ],
+                [
+                    {
+                        "entity id": "Q1111023",
+                        "label": "Openwave"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "NetFront",
+                [
+                    "/wiki/NetFront"
+                ],
+                [
+                    {
+                        "entity id": "Q595374",
+                        "label": "NetFront"
+                    }
+                ]
+            ],
+            [
+                "ACCESS Co. , Ltd",
+                [
+                    "/wiki/Access_Co._Ltd."
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "NetFront",
+                [
+                    "/wiki/NetFront"
+                ],
+                [
+                    {
+                        "entity id": "Q595374",
+                        "label": "NetFront"
+                    }
+                ]
+            ],
+            [
+                "proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "-",
+                []
+            ]
+        ],
+        [
+            [
+                "Nokia Series 40 Browser",
+                [
+                    "/wiki/Nokia_Series_40"
+                ],
+                [
+                    {
+                        "entity id": "Q1995656",
+                        "label": "Series 40"
+                    }
+                ]
+            ],
+            [
+                "Nokia",
+                [
+                    "/wiki/Nokia"
+                ],
+                [
+                    {
+                        "entity id": "Q1418",
+                        "label": "Nokia"
+                    }
+                ]
+            ],
+            [
+                "Some",
+                []
+            ],
+            [
+                "WebKit",
+                [
+                    "/wiki/WebKit"
+                ],
+                [
+                    {
+                        "entity id": "Q654034",
+                        "label": "WebKit"
+                    }
+                ]
+            ],
+            [
+                "proprietary and LGPL",
+                [
+                    "/wiki/Proprietary_software",
+                    "/wiki/GNU_Lesser_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    },
+                    {
+                        "entity id": "Q192897",
+                        "label": "GNU Lesser General Public License"
+                    }
+                ]
+            ],
+            [
+                "-",
+                []
+            ]
+        ],
+        [
+            [
+                "Opera Mini",
+                [
+                    "/wiki/Opera_Mini"
+                ],
+                [
+                    {
+                        "entity id": "Q819079",
+                        "label": "J2me"
+                    }
+                ]
+            ],
+            [
+                "Opera Software",
+                [
+                    "/wiki/Opera_Software"
+                ],
+                [
+                    {
+                        "entity id": "Q215639",
+                        "label": "Opera Software"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Presto",
+                [
+                    "/wiki/Presto_(layout_engine)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Capable of pre-processing web pages and formatting for small screens",
+                []
+            ]
+        ],
+        [
+            [
+                "Opera Mobile",
+                [
+                    "/wiki/Opera_Mobile"
+                ],
+                [
+                    {
+                        "entity id": "Q868865",
+                        "label": "Opera Mobile"
+                    }
+                ]
+            ],
+            [
+                "Opera Software",
+                [
+                    "/wiki/Opera_Software"
+                ],
+                [
+                    {
+                        "entity id": "Q215639",
+                        "label": "Opera Software"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Presto , Blink ( versions 15+ )",
+                [
+                    "/wiki/Presto_(layout_engine)",
+                    "/wiki/Blink_(web_engine)"
+                ],
+                [
+                    {},
+                    {}
+                ]
+            ],
+            [
+                "proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Capable of reading HTML and can reformat for small screens",
+                []
+            ]
+        ],
+        [
+            [
+                "PlayStation Portable web browser",
+                [
+                    "/wiki/PSP_browser"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Sony",
+                [
+                    "/wiki/Sony"
+                ],
+                [
+                    {
+                        "entity id": "Q41187",
+                        "label": "Sony"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "NetFront",
+                [
+                    "/wiki/NetFront"
+                ],
+                [
+                    {
+                        "entity id": "Q595374",
+                        "label": "NetFront"
+                    }
+                ]
+            ],
+            [
+                "proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "-",
+                []
+            ]
+        ],
+        [
+            [
+                "Polaris Browser",
+                [
+                    "/wiki/Polaris_Browser"
+                ],
+                [
+                    {
+                        "entity id": "Q7209125",
+                        "label": "Polaris Browser"
+                    }
+                ]
+            ],
+            [
+                "Infraware Inc",
+                []
+            ],
+            [
+                "Some",
+                []
+            ],
+            [
+                "Lumi ( Ver . 6.x ) WebKit ( Ver . 7.x )",
+                [
+                    "/wiki/WebKit"
+                ],
+                [
+                    {
+                        "entity id": "Q654034",
+                        "label": "WebKit"
+                    }
+                ]
+            ],
+            [
+                "proprietary and LGPL",
+                [
+                    "/wiki/Proprietary_software",
+                    "/wiki/GNU_Lesser_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    },
+                    {
+                        "entity id": "Q192897",
+                        "label": "GNU Lesser General Public License"
+                    }
+                ]
+            ],
+            [
+                "Nokia , Samsung , Kyocera and other phones sold in the US , China , South Korea , etc",
+                []
+            ]
+        ],
+        [
+            [
+                "S60 web browser",
+                [
+                    "/wiki/Web_Browser_for_S60"
+                ],
+                [
+                    {
+                        "entity id": "Q1046944",
+                        "label": "Nokia Browser for Symbian"
+                    }
+                ]
+            ],
+            [
+                "Nokia",
+                [
+                    "/wiki/Nokia"
+                ],
+                [
+                    {
+                        "entity id": "Q1418",
+                        "label": "Nokia"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "WebKit",
+                [
+                    "/wiki/WebKit"
+                ],
+                [
+                    {
+                        "entity id": "Q654034",
+                        "label": "WebKit"
+                    }
+                ]
+            ],
+            [
+                "LGPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "on S60 phones ( predominantly Nokia )",
+                [
+                    "/wiki/S60_(software_platform)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Safari",
+                [
+                    "/wiki/Safari_(web_browser)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Apple Inc",
+                [
+                    "/wiki/Apple_Inc."
+                ],
+                [
+                    {
+                        "entity id": "Q312",
+                        "label": "Apple Inc."
+                    }
+                ]
+            ],
+            [
+                "Some",
+                []
+            ],
+            [
+                "WebKit ( WebCore )",
+                [
+                    "/wiki/WebKit",
+                    "/wiki/WebCore"
+                ],
+                [
+                    {
+                        "entity id": "Q654034",
+                        "label": "WebKit"
+                    },
+                    {
+                        "entity id": "Q654034",
+                        "label": "WebKit"
+                    }
+                ]
+            ],
+            [
+                "proprietary and LGPL",
+                [
+                    "/wiki/Proprietary_software",
+                    "/wiki/GNU_Lesser_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    },
+                    {
+                        "entity id": "Q192897",
+                        "label": "GNU Lesser General Public License"
+                    }
+                ]
+            ],
+            [
+                "on iOS ( iPhone , iPod Touch and iPad )",
+                [
+                    "/wiki/IOS",
+                    "/wiki/IPhone",
+                    "/wiki/IPod_Touch",
+                    "/wiki/IPad"
+                ],
+                [
+                    {
+                        "entity id": "Q48493",
+                        "label": "iOS"
+                    },
+                    {
+                        "entity id": "Q2766",
+                        "label": "iPhone"
+                    },
+                    {
+                        "entity id": "Q14094",
+                        "label": "iPod Touch"
+                    },
+                    {
+                        "entity id": "Q2796",
+                        "label": "iPad"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Popular mobile browsers -- Default browsers for Mobile and Tablet",
+    "section_text": "",
+    "uid": "Mobile_browser_0",
+    "intro": "A mobile browser is a web browser designed for use on a mobile device such as a mobile phone or PDA. Mobile browsers are optimized so as to display Web content most effectively for small screens on portable devices. Mobile browser software must be small and efficient to accommodate the low memory capacity and low-bandwidth of wireless handheld devices. Typically, they were stripped-down web browsers, however, some recent mobile browsers can handle latest technologies also such as CSS 3, JavaScript, and Ajax. Websites designed so that they may be accessed from these browsers are referred to as wireless portals or collectively as the Mobile Web. They may automatically create mobile version of each page, for example the Wikipedia website."
+}

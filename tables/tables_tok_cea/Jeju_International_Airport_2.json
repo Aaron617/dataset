@@ -1,0 +1,492 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Jeju_International_Airport",
+    "title": "Jeju International Airport",
+    "header": [
+        [
+            "Rank",
+            []
+        ],
+        [
+            "Airport",
+            []
+        ],
+        [
+            "Passengers",
+            []
+        ],
+        [
+            "Aircraft Movements",
+            []
+        ],
+        [
+            "Carriers",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1",
+                []
+            ],
+            [
+                "Shanghai-Pudong",
+                [
+                    "/wiki/Shanghai_Pudong_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q36420",
+                        "label": "Shanghai Pudong International Airport"
+                    }
+                ]
+            ],
+            [
+                "633,394",
+                []
+            ],
+            [
+                "4,672",
+                []
+            ],
+            [
+                "China Eastern Airlines , China Southern Airlines , Jin Air , Juneyao Airlines , Spring Airlines",
+                [
+                    "/wiki/China_Eastern_Airlines",
+                    "/wiki/China_Southern_Airlines",
+                    "/wiki/Jin_Air",
+                    "/wiki/Juneyao_Airlines",
+                    "/wiki/Spring_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q291796",
+                        "label": "China Eastern Airlines"
+                    },
+                    {
+                        "entity id": "Q291090",
+                        "label": "China Southern Airlines"
+                    },
+                    {
+                        "entity id": "Q484872",
+                        "label": "Jin Air"
+                    },
+                    {
+                        "entity id": "Q1713277",
+                        "label": "Juneyao Air"
+                    },
+                    {
+                        "entity id": "Q1340408",
+                        "label": "Spring Airlines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2",
+                []
+            ],
+            [
+                "Tianjin",
+                [
+                    "/wiki/Tianjin_Binhai_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q774669",
+                        "label": "Tianjin Binhai International Airport"
+                    }
+                ]
+            ],
+            [
+                "181,340",
+                []
+            ],
+            [
+                "1,105",
+                []
+            ],
+            [
+                "Okay Airways , Spring Airlines , Tianjin Airlines",
+                [
+                    "/wiki/Okay_Airways",
+                    "/wiki/Spring_Airlines",
+                    "/wiki/Tianjin_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q582279",
+                        "label": "Okay Airways"
+                    },
+                    {
+                        "entity id": "Q1340408",
+                        "label": "Spring Airlines"
+                    },
+                    {
+                        "entity id": "Q1436155",
+                        "label": "Tianjin Airlines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "3",
+                []
+            ],
+            [
+                "Beijing-Capital",
+                [
+                    "/wiki/Beijing_Capital_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q32190",
+                        "label": "Beijing Capital International Airport"
+                    }
+                ]
+            ],
+            [
+                "142,725",
+                []
+            ],
+            [
+                "1,068",
+                []
+            ],
+            [
+                "Beijing Capital Airlines , China Eastern Airlines , Korean Air",
+                [
+                    "/wiki/Beijing_Capital_Airlines",
+                    "/wiki/China_Eastern_Airlines",
+                    "/wiki/Korean_Air"
+                ],
+                [
+                    {
+                        "entity id": "Q302642",
+                        "label": "Beijing Capital Airlines"
+                    },
+                    {
+                        "entity id": "Q291796",
+                        "label": "China Eastern Airlines"
+                    },
+                    {
+                        "entity id": "Q213147",
+                        "label": "Korean Air"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "4",
+                []
+            ],
+            [
+                "Hangzhou",
+                [
+                    "/wiki/Hangzhou_Xiaoshan_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1197691",
+                        "label": "Hangzhou Xiaoshan International Airport"
+                    }
+                ]
+            ],
+            [
+                "121,832",
+                []
+            ],
+            [
+                "925",
+                []
+            ],
+            [
+                "Air China , Beijing Capital Airlines , China Eastern Airlines , HK Express , Spring Airlines",
+                [
+                    "/wiki/Air_China",
+                    "/wiki/Beijing_Capital_Airlines",
+                    "/wiki/China_Eastern_Airlines",
+                    "/wiki/HK_Express",
+                    "/wiki/Spring_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q51747",
+                        "label": "Air China"
+                    },
+                    {
+                        "entity id": "Q302642",
+                        "label": "Beijing Capital Airlines"
+                    },
+                    {
+                        "entity id": "Q291796",
+                        "label": "China Eastern Airlines"
+                    },
+                    {
+                        "entity id": "Q1365358",
+                        "label": "HK Express"
+                    },
+                    {
+                        "entity id": "Q1340408",
+                        "label": "Spring Airlines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "5",
+                []
+            ],
+            [
+                "Bangkok-Suvarnabhumi",
+                [
+                    "/wiki/Suvarnabhumi_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q194316",
+                        "label": "Suvarnabhumi Airport"
+                    }
+                ]
+            ],
+            [
+                "91,675",
+                []
+            ],
+            [
+                "515",
+                []
+            ],
+            [
+                "Eastar Jet",
+                [
+                    "/wiki/Eastar_Jet"
+                ],
+                [
+                    {
+                        "entity id": "Q489392",
+                        "label": "Eastar Jet"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "6",
+                []
+            ],
+            [
+                "Ningbo",
+                [
+                    "/wiki/Ningbo_Lishe_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3243622",
+                        "label": "Ningbo Lishe International Airport"
+                    }
+                ]
+            ],
+            [
+                "64,369",
+                []
+            ],
+            [
+                "449",
+                []
+            ],
+            [
+                "China Eastern Airlines",
+                [
+                    "/wiki/China_Eastern_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q291796",
+                        "label": "China Eastern Airlines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "7",
+                []
+            ],
+            [
+                "Harbin",
+                [
+                    "/wiki/Harbin_Taiping_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1156786",
+                        "label": "Harbin Taiping International Airport"
+                    }
+                ]
+            ],
+            [
+                "61,840",
+                []
+            ],
+            [
+                "384",
+                []
+            ],
+            [
+                "China Southern Airlines , Spring Airlines",
+                [
+                    "/wiki/China_Southern_Airlines",
+                    "/wiki/Spring_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q291090",
+                        "label": "China Southern Airlines"
+                    },
+                    {
+                        "entity id": "Q1340408",
+                        "label": "Spring Airlines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "8",
+                []
+            ],
+            [
+                "Changchun",
+                [
+                    "/wiki/Changchun_Longjia_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1197677",
+                        "label": "Changchun Longjia International Airport"
+                    }
+                ]
+            ],
+            [
+                "48,934",
+                []
+            ],
+            [
+                "409",
+                []
+            ],
+            [
+                "China Eastern Airlines , China Southern Airlines , Okay Airways",
+                [
+                    "/wiki/China_Eastern_Airlines",
+                    "/wiki/China_Southern_Airlines",
+                    "/wiki/Okay_Airways"
+                ],
+                [
+                    {
+                        "entity id": "Q291796",
+                        "label": "China Eastern Airlines"
+                    },
+                    {
+                        "entity id": "Q291090",
+                        "label": "China Southern Airlines"
+                    },
+                    {
+                        "entity id": "Q582279",
+                        "label": "Okay Airways"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "9",
+                []
+            ],
+            [
+                "Tokyo-Narita",
+                [
+                    "/wiki/Narita_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q36454",
+                        "label": "Narita International Airport"
+                    }
+                ]
+            ],
+            [
+                "48,818",
+                []
+            ],
+            [
+                "433",
+                []
+            ],
+            [
+                "Korean Air",
+                [
+                    "/wiki/Korean_Air"
+                ],
+                [
+                    {
+                        "entity id": "Q213147",
+                        "label": "Korean Air"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "10",
+                []
+            ],
+            [
+                "Hong Kong",
+                [
+                    "/wiki/Hong_Kong_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q17704",
+                        "label": "Hong Kong International Airport"
+                    }
+                ]
+            ],
+            [
+                "48,050",
+                []
+            ],
+            [
+                "384",
+                []
+            ],
+            [
+                "Dragonair , HK Express",
+                [
+                    "/wiki/Dragonair",
+                    "/wiki/HK_Express"
+                ],
+                [
+                    {
+                        "entity id": "Q32436",
+                        "label": "Cathay Dragon"
+                    },
+                    {
+                        "entity id": "Q1365358",
+                        "label": "HK Express"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Traffic and statistics -- Busiest international routes",
+    "section_text": "",
+    "uid": "Jeju_International_Airport_2",
+    "intro": "Jeju International Airport (Hangul: \uc81c\uc8fc\uad6d\uc81c\uacf5\ud56d, Hanja: \u6fdf\u5dde\u570b\u969b\u7a7a\u6e2f, Revised Romanization of Korean: Jeju Gukje Gonghang, McCune-Reischauer: Cheju Kukche Konghang) (IATA: CJU, ICAO: RKPC) is the 2nd largest airport in South Korea, just behind Incheon Airport in Incheon. It is located in the city of Jeju. The airport opened in 1968. Jeju International Airport serves many mainland destinations in South Korea, as well as international destinations in China, Hong Kong, Japan, Taiwan, Thailand and Malaysia. In 2015, 26,237,562 passengers used the airport. It is home to the world's busiest airline route, to Seoul-Gimpo. Due to the large number of passengers using the airport and its limited capacity it was announced[when?] that a second airport would be constructed on the island near the southern city of Seogwipo with an investment of 3.8billion USD. It is expected to open to the public in 2025."
+}

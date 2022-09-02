@@ -1,0 +1,640 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Waldorf_Astoria_Hotels_&_Resorts",
+    "title": "Waldorf Astoria Hotels & Resorts",
+    "header": [
+        [
+            "Property",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Country",
+            []
+        ],
+        [
+            "Opened/Reopened",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Arizona Biltmore Hotel , A Waldorf Astoria Resort",
+                [
+                    "/wiki/Arizona_Biltmore_Hotel"
+                ],
+                [
+                    {
+                        "entity id": "Q979133",
+                        "label": "Arizona Biltmore Hotel"
+                    }
+                ]
+            ],
+            [
+                "Phoenix , Arizona",
+                [
+                    "/wiki/Phoenix,_Arizona"
+                ],
+                [
+                    {
+                        "entity id": "Q16556",
+                        "label": "Phoenix"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                []
+            ],
+            [
+                "1929",
+                []
+            ]
+        ],
+        [
+            [
+                "Boca Beach Club , A Waldorf Astoria Resort",
+                []
+            ],
+            [
+                "Boca Raton , Florida",
+                [
+                    "/wiki/Boca_Raton,_Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q29422",
+                        "label": "Boca Raton"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Boca Raton Resort & Club , A Waldorf Astoria Resort",
+                [
+                    "/wiki/Boca_Raton_Resort"
+                ],
+                [
+                    {
+                        "entity id": "Q4936105",
+                        "label": "Boca Raton Resort"
+                    }
+                ]
+            ],
+            [
+                "Boca Raton , Florida",
+                [
+                    "/wiki/Boca_Raton,_Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q29422",
+                        "label": "Boca Raton"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                []
+            ],
+            [
+                "1926 as the Ritz-Carlton Cloister Inn",
+                []
+            ]
+        ],
+        [
+            [
+                "Casa Marina Key West , A Waldorf Astoria Resort",
+                []
+            ],
+            [
+                "Key West , Florida",
+                [
+                    "/wiki/Key_West,_Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q485186",
+                        "label": "Key West"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Grand Wailea , A Waldorf Astoria Resort",
+                [
+                    "/wiki/Grand_Wailea_Resort"
+                ],
+                [
+                    {
+                        "entity id": "Q111887651",
+                        "label": "Grand Wailea Resort Hotel & Spa, A Waldorf Astoria Resort"
+                    }
+                ]
+            ],
+            [
+                "Wailea , Hawaii",
+                [
+                    "/wiki/Wailea,_Hawaii"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "United States",
+                []
+            ],
+            [
+                "1991 as the Grand Hyatt Wailea",
+                []
+            ]
+        ],
+        [
+            [
+                "Heliopolis Towers Hotel",
+                []
+            ],
+            [
+                "Cairo",
+                [
+                    "/wiki/Cairo"
+                ],
+                [
+                    {
+                        "entity id": "Q85",
+                        "label": "Cairo"
+                    }
+                ]
+            ],
+            [
+                "Egypt",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Ho'olei at Grand Wailea",
+                []
+            ],
+            [
+                "Wailea , Hawaii",
+                [
+                    "/wiki/Wailea,_Hawaii"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "United States",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "La Quinta Resort & Club , A Waldorf Astoria Resort",
+                [
+                    "/wiki/La_Quinta_Resort_&_Club"
+                ],
+                [
+                    {
+                        "entity id": "Q6464736",
+                        "label": "La Quinta Resort and Club"
+                    }
+                ]
+            ],
+            [
+                "La Quinta , California",
+                [
+                    "/wiki/La_Quinta,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q983614",
+                        "label": "La Quinta"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                []
+            ],
+            [
+                "1926",
+                []
+            ]
+        ],
+        [
+            [
+                "Rome Cavalieri , A Waldorf Astoria Resort",
+                []
+            ],
+            [
+                "Rome",
+                [
+                    "/wiki/Rome"
+                ],
+                [
+                    {
+                        "entity id": "Q220",
+                        "label": "Rome"
+                    }
+                ]
+            ],
+            [
+                "Italy",
+                []
+            ],
+            [
+                "1963 as the Cavalieri Hilton , 2008 as the Rome Cavalieri",
+                []
+            ]
+        ],
+        [
+            [
+                "The Roosevelt New Orleans , A Waldorf Astoria Resort",
+                [
+                    "/wiki/The_Roosevelt_New_Orleans"
+                ],
+                [
+                    {
+                        "entity id": "Q7761495",
+                        "label": "The Roosevelt New Orleans"
+                    }
+                ]
+            ],
+            [
+                "New Orleans , Louisiana",
+                [
+                    "/wiki/New_Orleans",
+                    "/wiki/Louisiana"
+                ],
+                [
+                    {
+                        "entity id": "Q34404",
+                        "label": "New Orleans"
+                    },
+                    {
+                        "entity id": "Q1588",
+                        "label": "Louisiana"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                []
+            ],
+            [
+                "2009 ( 1893 as The Hotel Grunewald )",
+                []
+            ]
+        ],
+        [
+            [
+                "Trianon Palace Versailles , A Waldorf Astoria Hotel",
+                []
+            ],
+            [
+                "Versailles",
+                [
+                    "/wiki/Versailles_(commune)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "France",
+                []
+            ],
+            [
+                "1910",
+                []
+            ]
+        ],
+        [
+            [
+                "Waldorf Astoria Amsterdam",
+                [
+                    "/wiki/Waldorf_Astoria_Amsterdam"
+                ],
+                [
+                    {
+                        "entity id": "Q18286846",
+                        "label": "Waldorf Astoria Amsterdam"
+                    }
+                ]
+            ],
+            [
+                "Amsterdam",
+                [
+                    "/wiki/Amsterdam"
+                ],
+                [
+                    {
+                        "entity id": "Q727",
+                        "label": "Amsterdam"
+                    }
+                ]
+            ],
+            [
+                "Netherlands",
+                [
+                    "/wiki/Netherlands"
+                ],
+                [
+                    {
+                        "entity id": "Q55",
+                        "label": "Netherlands"
+                    }
+                ]
+            ],
+            [
+                "2014 ( in buildings from 1665-1687 )",
+                []
+            ]
+        ],
+        [
+            [
+                "Waldorf Astoria Atlanta Buckhead",
+                [
+                    "/wiki/Waldorf_Astoria_Atlanta_Buckhead"
+                ],
+                [
+                    {
+                        "entity id": "Q111887956",
+                        "label": "Waldorf Astoria Atlanta Buckhead"
+                    }
+                ]
+            ],
+            [
+                "Atlanta , Georgia",
+                [
+                    "/wiki/Atlanta,_Georgia"
+                ],
+                [
+                    {
+                        "entity id": "Q23556",
+                        "label": "Atlanta"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                []
+            ],
+            [
+                "2018 ( 2008 as The Mansion on Peachtree ; 2012 as The Mandarin Oriental Atlanta )",
+                []
+            ]
+        ],
+        [
+            [
+                "Waldorf Astoria Beijing",
+                []
+            ],
+            [
+                "Beijing",
+                [
+                    "/wiki/Beijing"
+                ],
+                [
+                    {
+                        "entity id": "Q956",
+                        "label": "Beijing"
+                    }
+                ]
+            ],
+            [
+                "China",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Waldorf Astoria Bangkok",
+                []
+            ],
+            [
+                "Bangkok",
+                [
+                    "/wiki/Bangkok"
+                ],
+                [
+                    {
+                        "entity id": "Q1861",
+                        "label": "Bangkok"
+                    }
+                ]
+            ],
+            [
+                "Thailand",
+                []
+            ],
+            [
+                "2019",
+                []
+            ]
+        ],
+        [
+            [
+                "Waldorf Astoria Berlin",
+                [
+                    "/wiki/Waldorf_Astoria_Berlin"
+                ],
+                [
+                    {
+                        "entity id": "Q220141",
+                        "label": "Waldorf Astoria Berlin"
+                    }
+                ]
+            ],
+            [
+                "Berlin",
+                [
+                    "/wiki/Berlin"
+                ],
+                [
+                    {
+                        "entity id": "Q64",
+                        "label": "Berlin"
+                    }
+                ]
+            ],
+            [
+                "Germany",
+                []
+            ],
+            [
+                "2013",
+                []
+            ]
+        ],
+        [
+            [
+                "Waldorf Astoria Beverly Hills",
+                []
+            ],
+            [
+                "Beverly Hills , California",
+                [
+                    "/wiki/Beverly_Hills,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q127856",
+                        "label": "Beverly Hills"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Waldorf Astoria Chicago",
+                [
+                    "/wiki/Waldorf_Astoria_Chicago"
+                ],
+                [
+                    {
+                        "entity id": "Q1140508",
+                        "label": "Waldorf Astoria Chicago"
+                    }
+                ]
+            ],
+            [
+                "Chicago , Illinois",
+                [
+                    "/wiki/Chicago,_Illinois"
+                ],
+                [
+                    {
+                        "entity id": "Q1297",
+                        "label": "Chicago"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                []
+            ],
+            [
+                "2012 ( 2009 as The Elysian )",
+                []
+            ]
+        ],
+        [
+            [
+                "Waldorf Astoria Chengdu",
+                []
+            ],
+            [
+                "Chengdu",
+                [
+                    "/wiki/Chengdu"
+                ],
+                [
+                    {
+                        "entity id": "Q30002",
+                        "label": "Chengdu"
+                    }
+                ]
+            ],
+            [
+                "China",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Waldorf Astoria Dubai Palm Jumeirah",
+                [
+                    "/wiki/Waldorf_Astoria_Dubai_Palm_Jumeirah"
+                ],
+                [
+                    {
+                        "entity id": "Q34204337",
+                        "label": "Waldorf Astoria Dubai Palm Jumeirah"
+                    }
+                ]
+            ],
+            [
+                "Dubai",
+                [
+                    "/wiki/Dubai"
+                ],
+                [
+                    {
+                        "entity id": "Q612",
+                        "label": "Dubai"
+                    }
+                ]
+            ],
+            [
+                "UAE",
+                [
+                    "/wiki/United_Arab_Emirates"
+                ],
+                [
+                    {
+                        "entity id": "Q878",
+                        "label": "United Arab Emirates"
+                    }
+                ]
+            ],
+            [
+                "2013",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Properties",
+    "section_text": "The hotel 's name with the double hyphen , on the awning over the Park Avenue entrance of Waldorf Astoria New York Boca Raton Waldorf Astoria Hotel and Resort Waldorf Astoria in Jerusalem , Israel Waldorf Astoria in Chengdu , China The following tables detail the properties of Waldorf Astoria Hotels & Resorts as of May 2018 , in alphabetical order by the complete name of the property : [ 9 ]",
+    "uid": "Waldorf_Astoria_Hotels_&_Resorts_0",
+    "intro": "Waldorf Astoria Hotels & Resorts, formerly The Waldorf-Astoria Collection, is a Hilton Worldwide luxury hotel and resort brand. It is positioned as the flagship brand within Hilton's portfolio, being used on hotels which offer the highest standards of facilities and service. As of December 31, 2018, it has 31 locations with 10,502 rooms, including 3 that are owned or leased with 678 rooms, 27 that are managed with 8,840 rooms, and one franchised location with 984 rooms."
+}

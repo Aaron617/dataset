@@ -1,0 +1,888 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Principal_passes_of_the_Alps",
+    "title": "Principal passes of the Alps",
+    "header": [
+        [
+            "area",
+            []
+        ],
+        [
+            "name",
+            []
+        ],
+        [
+            "location",
+            []
+        ],
+        [
+            "countries",
+            []
+        ],
+        [
+            "elevation ( m )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "",
+                []
+            ],
+            [
+                "Colle di Cadibona",
+                [
+                    "/wiki/Colle_di_Cadibona"
+                ],
+                [
+                    {
+                        "entity id": "Q1108955",
+                        "label": "Colle di Cadibona"
+                    }
+                ]
+            ],
+            [
+                "Savona to Ceva",
+                [
+                    "/wiki/Savona",
+                    "/wiki/Ceva"
+                ],
+                [
+                    {
+                        "entity id": "Q13320",
+                        "label": "Savona"
+                    },
+                    {
+                        "entity id": "Q19944",
+                        "label": "Ceva"
+                    }
+                ]
+            ],
+            [
+                "Italy",
+                []
+            ],
+            [
+                "436",
+                []
+            ]
+        ],
+        [
+            [
+                "",
+                []
+            ],
+            [
+                "Colle del Melogno",
+                [
+                    "/wiki/Colle_del_Melogno"
+                ],
+                [
+                    {
+                        "entity id": "Q3682770",
+                        "label": "Colle del Melogno"
+                    }
+                ]
+            ],
+            [
+                "Finale Ligure to Ceva",
+                [
+                    "/wiki/Finale_Ligure",
+                    "/wiki/Ceva"
+                ],
+                [
+                    {
+                        "entity id": "Q270737",
+                        "label": "Finale Ligure"
+                    },
+                    {
+                        "entity id": "Q19944",
+                        "label": "Ceva"
+                    }
+                ]
+            ],
+            [
+                "Italy",
+                []
+            ],
+            [
+                "1028",
+                []
+            ]
+        ],
+        [
+            [
+                "",
+                []
+            ],
+            [
+                "Giogo di Toirano",
+                [
+                    "/wiki/Giogo_di_Toirano"
+                ],
+                [
+                    {
+                        "entity id": "Q17631666",
+                        "label": "Giogo di Toirano"
+                    }
+                ]
+            ],
+            [
+                "Toirano to Bardineto",
+                [
+                    "/wiki/Toirano",
+                    "/wiki/Bardineto"
+                ],
+                [
+                    {
+                        "entity id": "Q271264",
+                        "label": "Toirano"
+                    },
+                    {
+                        "entity id": "Q270527",
+                        "label": "Bardineto"
+                    }
+                ]
+            ],
+            [
+                "Italy",
+                []
+            ],
+            [
+                "801",
+                []
+            ]
+        ],
+        [
+            [
+                "",
+                []
+            ],
+            [
+                "Colle Scravaion",
+                [
+                    "/wiki/Colle_Scravaion"
+                ],
+                [
+                    {
+                        "entity id": "Q29060344",
+                        "label": "Colle Scravaion"
+                    }
+                ]
+            ],
+            [
+                "Albenga to Calizzano",
+                [
+                    "/wiki/Albenga",
+                    "/wiki/Calizzano"
+                ],
+                [
+                    {
+                        "entity id": "Q241298",
+                        "label": "Albenga"
+                    },
+                    {
+                        "entity id": "Q270578",
+                        "label": "Calizzano"
+                    }
+                ]
+            ],
+            [
+                "Italy",
+                []
+            ],
+            [
+                "814",
+                []
+            ]
+        ],
+        [
+            [
+                "",
+                []
+            ],
+            [
+                "Colle San Bernardo",
+                [
+                    "/wiki/Colle_San_Bernardo"
+                ],
+                [
+                    {
+                        "entity id": "Q3682746",
+                        "label": "Colle San Bernardo"
+                    }
+                ]
+            ],
+            [
+                "Albenga to Garessio",
+                [
+                    "/wiki/Albenga",
+                    "/wiki/Garessio"
+                ],
+                [
+                    {
+                        "entity id": "Q241298",
+                        "label": "Albenga"
+                    },
+                    {
+                        "entity id": "Q20090",
+                        "label": "Garessio"
+                    }
+                ]
+            ],
+            [
+                "Italy",
+                []
+            ],
+            [
+                "957",
+                []
+            ]
+        ],
+        [
+            [
+                "",
+                []
+            ],
+            [
+                "Passo di Prale",
+                []
+            ],
+            [
+                "Cisano sul Neva to Ormea",
+                [
+                    "/wiki/Cisano_sul_Neva",
+                    "/wiki/Ormea"
+                ],
+                [
+                    {
+                        "entity id": "Q270713",
+                        "label": "Cisano sul Neva"
+                    },
+                    {
+                        "entity id": "Q20278",
+                        "label": "Ormea"
+                    }
+                ]
+            ],
+            [
+                "Italy",
+                []
+            ],
+            [
+                "1258",
+                []
+            ]
+        ],
+        [
+            [
+                "",
+                []
+            ],
+            [
+                "Colle di Nava",
+                [
+                    "/wiki/Colle_di_Nava"
+                ],
+                [
+                    {
+                        "entity id": "Q3682802",
+                        "label": "Colle di Nava"
+                    }
+                ]
+            ],
+            [
+                "Imperia to Ormea",
+                [
+                    "/wiki/Imperia",
+                    "/wiki/Ormea"
+                ],
+                [
+                    {
+                        "entity id": "Q13318",
+                        "label": "Imperia"
+                    },
+                    {
+                        "entity id": "Q20278",
+                        "label": "Ormea"
+                    }
+                ]
+            ],
+            [
+                "Italy",
+                []
+            ],
+            [
+                "934",
+                []
+            ]
+        ],
+        [
+            [
+                "",
+                []
+            ],
+            [
+                "Colle San Bernardo di Mendatica",
+                [
+                    "/wiki/Colle_San_Bernardo_di_Mendatica"
+                ],
+                [
+                    {
+                        "entity id": "Q21661608",
+                        "label": "Colle San Bernardo di Mendatica"
+                    }
+                ]
+            ],
+            [
+                "Triora and Mendatica to Ormea ( through Colle di Nava )",
+                [
+                    "/wiki/Triora",
+                    "/wiki/Mendatica",
+                    "/wiki/Ormea",
+                    "/wiki/Colle_di_Nava"
+                ],
+                [
+                    {
+                        "entity id": "Q269831",
+                        "label": "Triora"
+                    },
+                    {
+                        "entity id": "Q269219",
+                        "label": "Mendatica"
+                    },
+                    {
+                        "entity id": "Q20278",
+                        "label": "Ormea"
+                    },
+                    {
+                        "entity id": "Q3682802",
+                        "label": "Colle di Nava"
+                    }
+                ]
+            ],
+            [
+                "Italy",
+                []
+            ],
+            [
+                "1262",
+                []
+            ]
+        ],
+        [
+            [
+                "Main",
+                []
+            ],
+            [
+                "Col de Tende",
+                [
+                    "/wiki/Col_de_Tende"
+                ],
+                [
+                    {
+                        "entity id": "Q1108953",
+                        "label": "Col de Tende"
+                    }
+                ]
+            ],
+            [
+                "Tende to Cuneo",
+                [
+                    "/wiki/Tende",
+                    "/wiki/Cuneo"
+                ],
+                [
+                    {
+                        "entity id": "Q236609",
+                        "label": "Tende"
+                    },
+                    {
+                        "entity id": "Q5968",
+                        "label": "Cuneo"
+                    }
+                ]
+            ],
+            [
+                "France , Italy",
+                []
+            ],
+            [
+                "1870",
+                []
+            ]
+        ],
+        [
+            [
+                "Main",
+                []
+            ],
+            [
+                "Col de la Lombarde",
+                [
+                    "/wiki/Col_de_la_Lombarde"
+                ],
+                [
+                    {
+                        "entity id": "Q779782",
+                        "label": "Col de la Lombarde"
+                    }
+                ]
+            ],
+            [
+                "Isola to Vinadio",
+                [
+                    "/wiki/Isola,_Alpes-Maritimes",
+                    "/wiki/Vinadio"
+                ],
+                [
+                    {
+                        "entity id": "Q288127",
+                        "label": "Isola"
+                    },
+                    {
+                        "entity id": "Q20602",
+                        "label": "Vinadio"
+                    }
+                ]
+            ],
+            [
+                "France , Italy",
+                []
+            ],
+            [
+                "2350",
+                []
+            ]
+        ],
+        [
+            [
+                "N/W",
+                []
+            ],
+            [
+                "Col de la Bonette",
+                [
+                    "/wiki/Col_de_la_Bonette"
+                ],
+                [
+                    {
+                        "entity id": "Q1107424",
+                        "label": "Col de la Bonette"
+                    }
+                ]
+            ],
+            [
+                "Jausiers to Saint-Etienne-de-Tin\u00e9e",
+                [
+                    "/wiki/Jausiers",
+                    "/wiki/Saint-Etienne-de-Tin\u00e9e"
+                ],
+                [
+                    {
+                        "entity id": "Q217065",
+                        "label": "Jausiers"
+                    },
+                    {
+                        "entity id": "Q993780",
+                        "label": "Saint-\u00c9tienne-de-Tin\u00e9e"
+                    }
+                ]
+            ],
+            [
+                "France",
+                []
+            ],
+            [
+                "2715",
+                []
+            ]
+        ],
+        [
+            [
+                "Main",
+                []
+            ],
+            [
+                "Maddalena Pass /Col de Larche",
+                [
+                    "/wiki/Maddalena_Pass"
+                ],
+                [
+                    {
+                        "entity id": "Q1107381",
+                        "label": "Maddalena Pass"
+                    }
+                ]
+            ],
+            [
+                "Barcelonnette to Cuneo",
+                [
+                    "/wiki/Barcelonnette",
+                    "/wiki/Cuneo"
+                ],
+                [
+                    {
+                        "entity id": "Q207577",
+                        "label": "Barcelonnette"
+                    },
+                    {
+                        "entity id": "Q5968",
+                        "label": "Cuneo"
+                    }
+                ]
+            ],
+            [
+                "France , Italy",
+                []
+            ],
+            [
+                "1996",
+                []
+            ]
+        ],
+        [
+            [
+                "Main",
+                []
+            ],
+            [
+                "Col Agnel",
+                [
+                    "/wiki/Col_Agnel"
+                ],
+                [
+                    {
+                        "entity id": "Q511182",
+                        "label": "Col Agnel"
+                    }
+                ]
+            ],
+            [
+                "Queyras to Sampeyre",
+                [
+                    "/wiki/Queyras",
+                    "/wiki/Sampeyre"
+                ],
+                [
+                    {
+                        "entity id": "Q2066577",
+                        "label": "Queyras"
+                    },
+                    {
+                        "entity id": "Q20464",
+                        "label": "Sampeyre"
+                    }
+                ]
+            ],
+            [
+                "France , Italy",
+                []
+            ],
+            [
+                "2744",
+                []
+            ]
+        ],
+        [
+            [
+                "Main",
+                []
+            ],
+            [
+                "Col de Montgen\u00e8vre",
+                [
+                    "/wiki/Col_de_Montgen\u00e8vre"
+                ],
+                [
+                    {
+                        "entity id": "Q973532",
+                        "label": "Col de Montgen\u00e8vre"
+                    }
+                ]
+            ],
+            [
+                "Brian\u00e7on to Susa",
+                [
+                    "/wiki/Brian\u00e7on",
+                    "/wiki/Susa,_Italy"
+                ],
+                [
+                    {
+                        "entity id": "Q203298",
+                        "label": "Brian\u00e7on"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "France",
+                []
+            ],
+            [
+                "1854",
+                []
+            ]
+        ],
+        [
+            [
+                "Main",
+                []
+            ],
+            [
+                "Col de l'\u00c9chelle",
+                [
+                    "/wiki/Col_de_l'\u00c9chelle"
+                ],
+                [
+                    {
+                        "entity id": "Q1107877",
+                        "label": "Col de l'\u00c9chelle"
+                    }
+                ]
+            ],
+            [
+                "Brian\u00e7on to Bardonecchia",
+                [
+                    "/wiki/Brian\u00e7on",
+                    "/wiki/Bardonecchia"
+                ],
+                [
+                    {
+                        "entity id": "Q203298",
+                        "label": "Brian\u00e7on"
+                    },
+                    {
+                        "entity id": "Q9039",
+                        "label": "Bardonecchia"
+                    }
+                ]
+            ],
+            [
+                "France , Italy",
+                []
+            ],
+            [
+                "1762",
+                []
+            ]
+        ],
+        [
+            [
+                "N/W",
+                []
+            ],
+            [
+                "Col du Galibier",
+                [
+                    "/wiki/Col_du_Galibier"
+                ],
+                [
+                    {
+                        "entity id": "Q732143",
+                        "label": "Col du Galibier"
+                    }
+                ]
+            ],
+            [
+                "Saint-Michel-de-Maurienne to Col du Lautaret",
+                [
+                    "/wiki/Saint-Michel-de-Maurienne",
+                    "/wiki/Col_du_Lautaret"
+                ],
+                [
+                    {
+                        "entity id": "Q910079",
+                        "label": "Saint-Michel-de-Maurienne"
+                    },
+                    {
+                        "entity id": "Q1107509",
+                        "label": "Col du Lautaret"
+                    }
+                ]
+            ],
+            [
+                "France",
+                []
+            ],
+            [
+                "2642",
+                []
+            ]
+        ],
+        [
+            [
+                "N/W",
+                []
+            ],
+            [
+                "Col du Lautaret",
+                [
+                    "/wiki/Col_du_Lautaret"
+                ],
+                [
+                    {
+                        "entity id": "Q1107509",
+                        "label": "Col du Lautaret"
+                    }
+                ]
+            ],
+            [
+                "Bourg d'Oisans to Briancon",
+                [
+                    "/wiki/Bourg_d'Oisans",
+                    "/wiki/Briancon"
+                ],
+                [
+                    {
+                        "entity id": "Q244679",
+                        "label": "Le Bourg-d'Oisans"
+                    },
+                    {
+                        "entity id": "Q203298",
+                        "label": "Brian\u00e7on"
+                    }
+                ]
+            ],
+            [
+                "France",
+                []
+            ],
+            [
+                "2058",
+                []
+            ]
+        ],
+        [
+            [
+                "Main",
+                []
+            ],
+            [
+                "Col du Mont Cenis",
+                [
+                    "/wiki/Col_du_Mont_Cenis"
+                ],
+                [
+                    {
+                        "entity id": "Q13411496",
+                        "label": "Mont Cenis Pass"
+                    }
+                ]
+            ],
+            [
+                "Modane to Susa",
+                [
+                    "/wiki/Modane",
+                    "/wiki/Susa,_Italy"
+                ],
+                [
+                    {
+                        "entity id": "Q537113",
+                        "label": "Modane"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "France",
+                []
+            ],
+            [
+                "2084",
+                []
+            ]
+        ],
+        [
+            [
+                "N/W",
+                []
+            ],
+            [
+                "Col de l'Iseran",
+                [
+                    "/wiki/Col_de_l'Iseran"
+                ],
+                [
+                    {
+                        "entity id": "Q547474",
+                        "label": "Col de l'Iseran"
+                    }
+                ]
+            ],
+            [
+                "Val d'Isere to Bonneval-sur-Arc",
+                [
+                    "/wiki/Val_d'Isere",
+                    "/wiki/Bonneval-sur-Arc"
+                ],
+                [
+                    {
+                        "entity id": "Q207589",
+                        "label": "Val-d'Is\u00e8re"
+                    },
+                    {
+                        "entity id": "Q736370",
+                        "label": "Bonneval-sur-Arc"
+                    }
+                ]
+            ],
+            [
+                "France",
+                []
+            ],
+            [
+                "2764",
+                []
+            ]
+        ],
+        [
+            [
+                "S/E",
+                []
+            ],
+            [
+                "Col du Nivolet",
+                [
+                    "/wiki/Col_du_Nivolet"
+                ],
+                [
+                    {
+                        "entity id": "Q1061556",
+                        "label": "Colle del Nivolet"
+                    }
+                ]
+            ],
+            [
+                "Noasca to Courmayeur ( no through road )",
+                [
+                    "/wiki/Noasca",
+                    "/wiki/Courmayeur"
+                ],
+                [
+                    {
+                        "entity id": "Q9501",
+                        "label": "Noasca"
+                    },
+                    {
+                        "entity id": "Q34993",
+                        "label": "Courmayeur"
+                    }
+                ]
+            ],
+            [
+                "Italy",
+                []
+            ],
+            [
+                "2641",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Main passes",
+    "section_text": "",
+    "uid": "Principal_passes_of_the_Alps_0",
+    "intro": "This article lists the principal mountain passes and tunnels in the Alps, and gives a history of transport across the Alps."
+}

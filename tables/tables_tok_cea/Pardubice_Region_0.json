@@ -1,0 +1,342 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Pardubice_Region",
+    "title": "Pardubice Region",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Population",
+            []
+        ],
+        [
+            "Area ( km\u00b2 )",
+            []
+        ],
+        [
+            "District",
+            [
+                "/wiki/District"
+            ],
+            [
+                {
+                    "entity id": "Q123705",
+                    "label": "neighborhood"
+                }
+            ]
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Pardubice",
+                [
+                    "/wiki/Pardubice"
+                ],
+                [
+                    {
+                        "entity id": "Q36989",
+                        "label": "Pardubice"
+                    }
+                ]
+            ],
+            [
+                "90,668",
+                []
+            ],
+            [
+                "78",
+                []
+            ],
+            [
+                "Pardubice District",
+                [
+                    "/wiki/Pardubice_District"
+                ],
+                [
+                    {
+                        "entity id": "Q838301",
+                        "label": "Pardubice District"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Chrudim",
+                [
+                    "/wiki/Chrudim"
+                ],
+                [
+                    {
+                        "entity id": "Q986070",
+                        "label": "Chrudim"
+                    }
+                ]
+            ],
+            [
+                "23,151",
+                []
+            ],
+            [
+                "33",
+                []
+            ],
+            [
+                "Chrudim District",
+                [
+                    "/wiki/Chrudim_District"
+                ],
+                [
+                    {
+                        "entity id": "Q838329",
+                        "label": "Chrudim District"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Svitavy",
+                [
+                    "/wiki/Svitavy"
+                ],
+                [
+                    {
+                        "entity id": "Q755698",
+                        "label": "Svitavy"
+                    }
+                ]
+            ],
+            [
+                "16,838",
+                []
+            ],
+            [
+                "31",
+                []
+            ],
+            [
+                "Svitavy District",
+                [
+                    "/wiki/Svitavy_District"
+                ],
+                [
+                    {
+                        "entity id": "Q852438",
+                        "label": "Svitavy District"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "\u010cesk\u00e1 T\u0159ebov\u00e1",
+                [
+                    "/wiki/\u010cesk\u00e1_T\u0159ebov\u00e1"
+                ],
+                [
+                    {
+                        "entity id": "Q341056",
+                        "label": "\u010cesk\u00e1 T\u0159ebov\u00e1"
+                    }
+                ]
+            ],
+            [
+                "15,508",
+                []
+            ],
+            [
+                "41",
+                []
+            ],
+            [
+                "\u00dast\u00ed nad Orlic\u00ed District",
+                [
+                    "/wiki/\u00dast\u00ed_nad_Orlic\u00ed_District"
+                ],
+                [
+                    {
+                        "entity id": "Q856824",
+                        "label": "\u00dast\u00ed nad Orlic\u00ed District"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "\u00dast\u00ed nad Orlic\u00ed",
+                [
+                    "/wiki/\u00dast\u00ed_nad_Orlic\u00ed"
+                ],
+                [
+                    {
+                        "entity id": "Q330409",
+                        "label": "\u00dast\u00ed nad Orlic\u00ed"
+                    }
+                ]
+            ],
+            [
+                "14,196",
+                []
+            ],
+            [
+                "36",
+                []
+            ],
+            [
+                "\u00dast\u00ed nad Orlic\u00ed District",
+                [
+                    "/wiki/\u00dast\u00ed_nad_Orlic\u00ed_District"
+                ],
+                [
+                    {
+                        "entity id": "Q856824",
+                        "label": "\u00dast\u00ed nad Orlic\u00ed District"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Vysok\u00e9 M\u00fdto",
+                [
+                    "/wiki/Vysok\u00e9_M\u00fdto"
+                ],
+                [
+                    {
+                        "entity id": "Q999916",
+                        "label": "Vysok\u00e9 M\u00fdto"
+                    }
+                ]
+            ],
+            [
+                "12,335",
+                []
+            ],
+            [
+                "42",
+                []
+            ],
+            [
+                "\u00dast\u00ed nad Orlic\u00ed District",
+                [
+                    "/wiki/\u00dast\u00ed_nad_Orlic\u00ed_District"
+                ],
+                [
+                    {
+                        "entity id": "Q856824",
+                        "label": "\u00dast\u00ed nad Orlic\u00ed District"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Litomy\u0161l",
+                [
+                    "/wiki/Litomy\u0161l"
+                ],
+                [
+                    {
+                        "entity id": "Q722732",
+                        "label": "Litomy\u0161l"
+                    }
+                ]
+            ],
+            [
+                "10,429",
+                []
+            ],
+            [
+                "33",
+                []
+            ],
+            [
+                "Svitavy District",
+                [
+                    "/wiki/Svitavy_District"
+                ],
+                [
+                    {
+                        "entity id": "Q852438",
+                        "label": "Svitavy District"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Moravsk\u00e1 T\u0159ebov\u00e1",
+                [
+                    "/wiki/Moravsk\u00e1_T\u0159ebov\u00e1"
+                ],
+                [
+                    {
+                        "entity id": "Q1000078",
+                        "label": "Moravsk\u00e1 T\u0159ebov\u00e1"
+                    }
+                ]
+            ],
+            [
+                "10,070",
+                []
+            ],
+            [
+                "42",
+                []
+            ],
+            [
+                "Svitavy District",
+                [
+                    "/wiki/Svitavy_District"
+                ],
+                [
+                    {
+                        "entity id": "Q852438",
+                        "label": "Svitavy District"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Lan\u0161kroun",
+                [
+                    "/wiki/Lan\u0161kroun"
+                ],
+                [
+                    {
+                        "entity id": "Q1000033",
+                        "label": "Lan\u0161kroun"
+                    }
+                ]
+            ],
+            [
+                "9,991",
+                []
+            ],
+            [
+                "21",
+                []
+            ],
+            [
+                "\u00dast\u00ed nad Orlic\u00ed District",
+                [
+                    "/wiki/\u00dast\u00ed_nad_Orlic\u00ed_District"
+                ],
+                [
+                    {
+                        "entity id": "Q856824",
+                        "label": "\u00dast\u00ed nad Orlic\u00ed District"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Population",
+    "section_text": "The total population of the Pardubice Region is about 520,000 . 17 municipalities have a higher population than 5,000 . The largest municipality of the region is Pardubice with a population of more than 90,000 . The table below shows the municipalities in Pardubice Region with the largest population ( as of 1 January 2019 ) . [ 2 ]",
+    "uid": "Pardubice_Region_0",
+    "intro": "Pardubice Region (Czech: Pardubick\u00fd kraj; Polish: Kraj pardubicki) is an administrative unit (Czech: kraj) of the Czech Republic, located mainly in the eastern part of its historical region of Bohemia, with a small part in northwestern Moravia. It is named after its capital Pardubice. As an administrative unit, Pardubice Region has existed three times in the course of history. It was established for the first time in 1850, and extended from \u010cesk\u00fd Brod to the Bohemian-Moravian border. In its second existence, it was one of 19 regions as they were set between 1949 and 1960. After 1960, Pardubice became the capital of Pardubice district, which was part of the Eastern Bohemian Region (capital Hradec Kr\u00e1lov\u00e9). The Pardubice Region, as it is now, was reestablished in 2000."
+}

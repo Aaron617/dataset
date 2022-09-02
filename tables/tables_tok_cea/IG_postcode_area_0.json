@@ -1,0 +1,415 @@
+{
+    "url": "https://en.wikipedia.org/wiki/IG_postcode_area",
+    "title": "IG postcode area",
+    "header": [
+        [
+            "Postcode district",
+            []
+        ],
+        [
+            "Post town",
+            [
+                "/wiki/Post_town"
+            ],
+            [
+                {
+                    "entity id": "Q1968403",
+                    "label": "post town"
+                }
+            ]
+        ],
+        [
+            "Coverage",
+            []
+        ],
+        [
+            "Local authority area",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "IG1",
+                []
+            ],
+            [
+                "ILFORD",
+                []
+            ],
+            [
+                "Ilford , Cranbrook , Loxford",
+                [
+                    "/wiki/Ilford",
+                    "/wiki/Cranbrook,_London",
+                    "/wiki/Loxford"
+                ],
+                [
+                    {
+                        "entity id": "Q2297044",
+                        "label": "Ilford"
+                    },
+                    {
+                        "entity id": "Q5181944",
+                        "label": "Cranbrook"
+                    },
+                    {
+                        "entity id": "Q6694262",
+                        "label": "Loxford"
+                    }
+                ]
+            ],
+            [
+                "Redbridge",
+                [
+                    "/wiki/London_Borough_of_Redbridge"
+                ],
+                [
+                    {
+                        "entity id": "Q208955",
+                        "label": "London Borough of Redbridge"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IG2",
+                []
+            ],
+            [
+                "ILFORD",
+                []
+            ],
+            [
+                "Gants Hill , Newbury Park , Aldborough Hatch",
+                [
+                    "/wiki/Gants_Hill",
+                    "/wiki/Newbury_Park,_London",
+                    "/wiki/Aldborough_Hatch"
+                ],
+                [
+                    {
+                        "entity id": "Q3634336",
+                        "label": "Gants Hill"
+                    },
+                    {
+                        "entity id": "Q2284627",
+                        "label": "Newbury Park"
+                    },
+                    {
+                        "entity id": "Q1800577",
+                        "label": "Aldborough Hatch"
+                    }
+                ]
+            ],
+            [
+                "Redbridge",
+                []
+            ]
+        ],
+        [
+            [
+                "IG3",
+                []
+            ],
+            [
+                "ILFORD",
+                []
+            ],
+            [
+                "Seven Kings , Goodmayes",
+                [
+                    "/wiki/Seven_Kings",
+                    "/wiki/Goodmayes"
+                ],
+                [
+                    {
+                        "entity id": "Q957351",
+                        "label": "Seven Kings"
+                    },
+                    {
+                        "entity id": "Q1942855",
+                        "label": "Goodmayes"
+                    }
+                ]
+            ],
+            [
+                "Redbridge",
+                []
+            ]
+        ],
+        [
+            [
+                "IG4",
+                []
+            ],
+            [
+                "ILFORD",
+                []
+            ],
+            [
+                "Redbridge",
+                [
+                    "/wiki/Redbridge,_London"
+                ],
+                [
+                    {
+                        "entity id": "Q3422834",
+                        "label": "Redbridge"
+                    }
+                ]
+            ],
+            [
+                "Redbridge",
+                []
+            ]
+        ],
+        [
+            [
+                "IG5",
+                []
+            ],
+            [
+                "ILFORD",
+                []
+            ],
+            [
+                "Clayhall",
+                [
+                    "/wiki/Clayhall"
+                ],
+                [
+                    {
+                        "entity id": "Q3634304",
+                        "label": "Clayhall"
+                    }
+                ]
+            ],
+            [
+                "Redbridge",
+                []
+            ]
+        ],
+        [
+            [
+                "IG6",
+                []
+            ],
+            [
+                "ILFORD",
+                []
+            ],
+            [
+                "Barkingside , Fullwell Cross , Hainault ( south ) , Fairlop",
+                [
+                    "/wiki/Barkingside",
+                    "/wiki/Fullwell_Cross",
+                    "/wiki/Hainault,_London",
+                    "/wiki/Fairlop"
+                ],
+                [
+                    {
+                        "entity id": "Q3634315",
+                        "label": "Barkingside"
+                    },
+                    {
+                        "entity id": "Q5508325",
+                        "label": "Fullwell Cross"
+                    },
+                    {},
+                    {
+                        "entity id": "Q56296030",
+                        "label": "Fairlop"
+                    }
+                ]
+            ],
+            [
+                "Redbridge",
+                []
+            ]
+        ],
+        [
+            [
+                "IG7",
+                []
+            ],
+            [
+                "CHIGWELL",
+                []
+            ],
+            [
+                "Chigwell , Chigwell Row , Hainault ( north )",
+                [
+                    "/wiki/Chigwell",
+                    "/wiki/Chigwell_Row",
+                    "/wiki/Hainault,_London"
+                ],
+                [
+                    {
+                        "entity id": "Q944734",
+                        "label": "Chigwell"
+                    },
+                    {
+                        "entity id": "Q5097249",
+                        "label": "Chigwell Row"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Epping Forest , Redbridge",
+                [
+                    "/wiki/Epping_Forest_(district)"
+                ],
+                [
+                    {
+                        "entity id": "Q1347659",
+                        "label": "Epping Forest"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IG8",
+                []
+            ],
+            [
+                "WOODFORD GREEN",
+                []
+            ],
+            [
+                "Woodford Green , Woodford Bridge , Highams Park ( part )",
+                [
+                    "/wiki/Woodford_Green",
+                    "/wiki/Woodford_Bridge",
+                    "/wiki/Highams_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q2679243",
+                        "label": "Woodford Green"
+                    },
+                    {
+                        "entity id": "Q11038311",
+                        "label": "Woodford Bridge"
+                    },
+                    {
+                        "entity id": "Q4576305",
+                        "label": "Highams Park"
+                    }
+                ]
+            ],
+            [
+                "Redbridge , Waltham Forest",
+                [
+                    "/wiki/London_Borough_of_Waltham_Forest"
+                ],
+                [
+                    {
+                        "entity id": "Q40608",
+                        "label": "London Borough of Waltham Forest"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IG9",
+                []
+            ],
+            [
+                "BUCKHURST HILL",
+                []
+            ],
+            [
+                "Buckhurst Hill",
+                [
+                    "/wiki/Buckhurst_Hill"
+                ],
+                [
+                    {
+                        "entity id": "Q2684024",
+                        "label": "Buckhurst Hill"
+                    }
+                ]
+            ],
+            [
+                "Epping Forest",
+                []
+            ]
+        ],
+        [
+            [
+                "IG10",
+                []
+            ],
+            [
+                "LOUGHTON",
+                []
+            ],
+            [
+                "Loughton , High Beach ( part )",
+                [
+                    "/wiki/Loughton",
+                    "/wiki/High_Beach"
+                ],
+                [
+                    {
+                        "entity id": "Q373971",
+                        "label": "Loughton"
+                    },
+                    {
+                        "entity id": "Q2794339",
+                        "label": "High Beach"
+                    }
+                ]
+            ],
+            [
+                "Epping Forest",
+                []
+            ]
+        ],
+        [
+            [
+                "IG11",
+                []
+            ],
+            [
+                "BARKING",
+                []
+            ],
+            [
+                "Barking , Creekmouth",
+                [
+                    "/wiki/Barking,_London",
+                    "/wiki/Creekmouth"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q1800567",
+                        "label": "Creekmouth"
+                    }
+                ]
+            ],
+            [
+                "Barking and Dagenham",
+                [
+                    "/wiki/London_Borough_of_Barking_and_Dagenham"
+                ],
+                [
+                    {
+                        "entity id": "Q205358",
+                        "label": "London Borough of Barking and Dagenham"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Coverage",
+    "section_text": "The approximate coverage of the postcode districts :",
+    "uid": "IG_postcode_area_0",
+    "intro": "The IG postcode area, also known as the Ilford postcode area, is a group of 11 postcode districts in England, which are subdivisions of six post towns. These cover parts of east London and southwest Essex. The area served includes much of the London Borough of Redbridge, the western part of the London Borough of Barking and Dagenham (namely Barking) and the southwestern part of the Epping Forest district of Essex, while the western part of IG8 covers a small part of the London Borough of Waltham Forest. The 'IG' is used instead of 'IL', as the latter could be confused with 'L11-L19' or 'LL1-9'. G was chosen in preference to J (or F as within the word Ilford) to reflect Chigwell and Barking in its area. Mail is assigned to local Delivery Offices at Romford along with the E and RM postcode area mail."
+}

@@ -1,0 +1,933 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Turkic_peoples",
+    "title": "Turkic peoples",
+    "header": [
+        [
+            "People",
+            []
+        ],
+        [
+            "Primary homeland",
+            []
+        ],
+        [
+            "Population",
+            []
+        ],
+        [
+            "Modern language",
+            []
+        ],
+        [
+            "Predominant religion and sect",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Turks",
+                [
+                    "/wiki/Turkish_people"
+                ],
+                [
+                    {
+                        "entity id": "Q84072",
+                        "label": "Turks"
+                    }
+                ]
+            ],
+            [
+                "Turkey",
+                [
+                    "/wiki/Turkey"
+                ],
+                [
+                    {
+                        "entity id": "Q43",
+                        "label": "Turkey"
+                    }
+                ]
+            ],
+            [
+                "60 70 M",
+                []
+            ],
+            [
+                "Turkish",
+                [
+                    "/wiki/Turkish_language"
+                ],
+                [
+                    {
+                        "entity id": "Q256",
+                        "label": "Turkish"
+                    }
+                ]
+            ],
+            [
+                "Sunni Islam",
+                []
+            ]
+        ],
+        [
+            [
+                "Azerbaijanis",
+                [
+                    "/wiki/Azerbaijanis"
+                ],
+                [
+                    {
+                        "entity id": "Q482942",
+                        "label": "Azerbaijanis"
+                    }
+                ]
+            ],
+            [
+                "Iranian Azerbaijan , Republic of Azerbaijan",
+                [
+                    "/wiki/Azerbaijan_(Iran)",
+                    "/wiki/Azerbaijan"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q227",
+                        "label": "Azerbaijan"
+                    }
+                ]
+            ],
+            [
+                "42 30-35 M",
+                []
+            ],
+            [
+                "Azerbaijani",
+                [
+                    "/wiki/Azerbaijani_language"
+                ],
+                [
+                    {
+                        "entity id": "Q9292",
+                        "label": "Azerbaijani"
+                    }
+                ]
+            ],
+            [
+                "Shia Islam ( 65% ) , Sunni Islam ( 35% ) ( Hanafi )",
+                [
+                    "/wiki/Hanafi"
+                ],
+                [
+                    {
+                        "entity id": "Q228986",
+                        "label": "Hanafi"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Uzbeks",
+                [
+                    "/wiki/Uzbeks"
+                ],
+                [
+                    {
+                        "entity id": "Q101210036",
+                        "label": "Uzbekistanis"
+                    }
+                ]
+            ],
+            [
+                "Uzbekistan",
+                [
+                    "/wiki/Uzbekistan"
+                ],
+                [
+                    {
+                        "entity id": "Q265",
+                        "label": "Uzbekistan"
+                    }
+                ]
+            ],
+            [
+                "32 28.3 M",
+                []
+            ],
+            [
+                "Uzbek",
+                [
+                    "/wiki/Uzbeks"
+                ],
+                [
+                    {
+                        "entity id": "Q101210036",
+                        "label": "Uzbekistanis"
+                    }
+                ]
+            ],
+            [
+                "Sunni Islam",
+                []
+            ]
+        ],
+        [
+            [
+                "Kazakhs",
+                [
+                    "/wiki/Kazakhs"
+                ],
+                [
+                    {
+                        "entity id": "Q80040",
+                        "label": "Kazakhs"
+                    }
+                ]
+            ],
+            [
+                "Kazakhstan",
+                [
+                    "/wiki/Kazakhstan"
+                ],
+                [
+                    {
+                        "entity id": "Q232",
+                        "label": "Kazakhstan"
+                    }
+                ]
+            ],
+            [
+                "15 13.8 M",
+                []
+            ],
+            [
+                "Kazakh",
+                [
+                    "/wiki/Kazakh_language"
+                ],
+                [
+                    {
+                        "entity id": "Q9252",
+                        "label": "Kazakh"
+                    }
+                ]
+            ],
+            [
+                "Sunni Islam",
+                []
+            ]
+        ],
+        [
+            [
+                "Uyghurs",
+                [
+                    "/wiki/Uyghurs"
+                ],
+                [
+                    {
+                        "entity id": "Q46118",
+                        "label": "Uyghur"
+                    }
+                ]
+            ],
+            [
+                "Altishahr ( China )",
+                [
+                    "/wiki/Altishahr"
+                ],
+                [
+                    {
+                        "entity id": "Q16432221",
+                        "label": "Altishahr"
+                    }
+                ]
+            ],
+            [
+                "15 9 M",
+                []
+            ],
+            [
+                "Uyghur",
+                [
+                    "/wiki/Uyghur_language"
+                ],
+                [
+                    {
+                        "entity id": "Q13263",
+                        "label": "Uyghur"
+                    }
+                ]
+            ],
+            [
+                "Sunni Islam",
+                []
+            ]
+        ],
+        [
+            [
+                "Turkmens",
+                [
+                    "/wiki/Turkmens"
+                ],
+                [
+                    {
+                        "entity id": "Q484472",
+                        "label": "Turkmens"
+                    }
+                ]
+            ],
+            [
+                "Turkmenistan",
+                [
+                    "/wiki/Turkmenistan"
+                ],
+                [
+                    {
+                        "entity id": "Q874",
+                        "label": "Turkmenistan"
+                    }
+                ]
+            ],
+            [
+                "03 8 M",
+                []
+            ],
+            [
+                "Turkmen",
+                [
+                    "/wiki/Turkmen_language"
+                ],
+                [
+                    {
+                        "entity id": "Q9267",
+                        "label": "Turkmen"
+                    }
+                ]
+            ],
+            [
+                "Sunni Islam",
+                []
+            ]
+        ],
+        [
+            [
+                "Tatars",
+                [
+                    "/wiki/Tatars"
+                ],
+                [
+                    {
+                        "entity id": "Q35565",
+                        "label": "Tatars"
+                    }
+                ]
+            ],
+            [
+                "Tatarstan ( Russia )",
+                [
+                    "/wiki/Tatarstan"
+                ],
+                [
+                    {
+                        "entity id": "Q5481",
+                        "label": "Republic of Tatarstan"
+                    }
+                ]
+            ],
+            [
+                "07 7 M",
+                []
+            ],
+            [
+                "Tatar",
+                [
+                    "/wiki/Tatar_language"
+                ],
+                [
+                    {
+                        "entity id": "Q25285",
+                        "label": "Tatar"
+                    }
+                ]
+            ],
+            [
+                "Sunni Islam",
+                []
+            ]
+        ],
+        [
+            [
+                "Kyrgyzs",
+                [
+                    "/wiki/Kyrgyz_people"
+                ],
+                [
+                    {
+                        "entity id": "Q484479",
+                        "label": "Kyrgyz people"
+                    }
+                ]
+            ],
+            [
+                "Kyrgyzstan",
+                [
+                    "/wiki/Kyrgyzstan"
+                ],
+                [
+                    {
+                        "entity id": "Q813",
+                        "label": "Kyrgyzstan"
+                    }
+                ]
+            ],
+            [
+                "026 4.5 M",
+                []
+            ],
+            [
+                "Kyrgyz",
+                [
+                    "/wiki/Kyrgyz_language"
+                ],
+                [
+                    {
+                        "entity id": "Q9255",
+                        "label": "Kyrgyz"
+                    }
+                ]
+            ],
+            [
+                "Sunni Islam",
+                []
+            ]
+        ],
+        [
+            [
+                "Bashkirs",
+                [
+                    "/wiki/Bashkir_people"
+                ],
+                [
+                    {
+                        "entity id": "Q485348",
+                        "label": "Bashkir people"
+                    }
+                ]
+            ],
+            [
+                "Bashkortostan ( Russia )",
+                [
+                    "/wiki/Bashkortostan"
+                ],
+                [
+                    {
+                        "entity id": "Q5710",
+                        "label": "Bashkortostan"
+                    }
+                ]
+            ],
+            [
+                "009 2 M",
+                []
+            ],
+            [
+                "Bashkir",
+                [
+                    "/wiki/Bashkir_language"
+                ],
+                [
+                    {
+                        "entity id": "Q13389",
+                        "label": "Bashkir"
+                    }
+                ]
+            ],
+            [
+                "Sunni Islam",
+                []
+            ]
+        ],
+        [
+            [
+                "Crimean Tatars",
+                [
+                    "/wiki/Crimean_Tatars"
+                ],
+                [
+                    {
+                        "entity id": "Q117458",
+                        "label": "Crimean Tatars"
+                    }
+                ]
+            ],
+            [
+                "Crimea ( Russia/Ukraine )",
+                [
+                    "/wiki/Crimea,_Ukraine"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "009 0.5 to 2 M",
+                []
+            ],
+            [
+                "Crimean Tatar",
+                [
+                    "/wiki/Crimean_Tatar_language"
+                ],
+                [
+                    {
+                        "entity id": "Q33357",
+                        "label": "Crimean Tatar"
+                    }
+                ]
+            ],
+            [
+                "Sunni Islam",
+                []
+            ]
+        ],
+        [
+            [
+                "Qashqai",
+                [
+                    "/wiki/Qashqai_people"
+                ],
+                [
+                    {
+                        "entity id": "Q249893",
+                        "label": "Qashqai people"
+                    }
+                ]
+            ],
+            [
+                "Southern Iran ( Iran )",
+                [
+                    "/wiki/Southern_Iran"
+                ],
+                [
+                    {
+                        "entity id": "Q7570043",
+                        "label": "Southern Iran"
+                    }
+                ]
+            ],
+            [
+                "009 0.9 M",
+                []
+            ],
+            [
+                "Qashqai",
+                [
+                    "/wiki/Qashqai_language"
+                ],
+                [
+                    {
+                        "entity id": "Q13192",
+                        "label": "Qashqai"
+                    }
+                ]
+            ],
+            [
+                "Shia Islam",
+                []
+            ]
+        ],
+        [
+            [
+                "Chuvashes",
+                [
+                    "/wiki/Chuvash_people"
+                ],
+                [
+                    {
+                        "entity id": "Q253410",
+                        "label": "Chuvash people"
+                    }
+                ]
+            ],
+            [
+                "Chuvashia ( Russia )",
+                [
+                    "/wiki/Chuvashia"
+                ],
+                [
+                    {
+                        "entity id": "Q5466",
+                        "label": "Chuvash Republic"
+                    }
+                ]
+            ],
+            [
+                "010 1.7 M",
+                []
+            ],
+            [
+                "Chuvash",
+                [
+                    "/wiki/Chuvash_language"
+                ],
+                [
+                    {
+                        "entity id": "Q33348",
+                        "label": "Chuvash"
+                    }
+                ]
+            ],
+            [
+                "Orthodox Christianity",
+                []
+            ]
+        ],
+        [
+            [
+                "Karakalpaks",
+                [
+                    "/wiki/Karakalpaks"
+                ],
+                [
+                    {
+                        "entity id": "Q276315",
+                        "label": "Karakalpaks"
+                    }
+                ]
+            ],
+            [
+                "Karakalpakstan ( Uzbekistan )",
+                [
+                    "/wiki/Karakalpakstan"
+                ],
+                [
+                    {
+                        "entity id": "Q484245",
+                        "label": "Karakalpakstan"
+                    }
+                ]
+            ],
+            [
+                "007 0.6 M",
+                []
+            ],
+            [
+                "Karakalpak",
+                [
+                    "/wiki/Karakalpak_language"
+                ],
+                [
+                    {
+                        "entity id": "Q33541",
+                        "label": "Karakalpak"
+                    }
+                ]
+            ],
+            [
+                "Sunni Islam",
+                []
+            ]
+        ],
+        [
+            [
+                "Yakuts",
+                [
+                    "/wiki/Yakuts"
+                ],
+                [
+                    {
+                        "entity id": "Q486316",
+                        "label": "Yakuts"
+                    }
+                ]
+            ],
+            [
+                "Yakutia ( Russia )",
+                [
+                    "/wiki/Yakutia"
+                ],
+                [
+                    {
+                        "entity id": "Q6605",
+                        "label": "Sakha Republic"
+                    }
+                ]
+            ],
+            [
+                "007 0.5 M",
+                []
+            ],
+            [
+                "Sakha",
+                [
+                    "/wiki/Sakha_language"
+                ],
+                [
+                    {
+                        "entity id": "Q34299",
+                        "label": "Sakha"
+                    }
+                ]
+            ],
+            [
+                "Orthodox Christianity",
+                []
+            ]
+        ],
+        [
+            [
+                "Kumyks",
+                [
+                    "/wiki/Kumyks"
+                ],
+                [
+                    {
+                        "entity id": "Q211018",
+                        "label": "Kumyks"
+                    }
+                ]
+            ],
+            [
+                "Dagestan ( Russia )",
+                [
+                    "/wiki/Dagestan"
+                ],
+                [
+                    {
+                        "entity id": "Q5118",
+                        "label": "Republic of Dagestan"
+                    }
+                ]
+            ],
+            [
+                "007 0.4 M",
+                []
+            ],
+            [
+                "Kumyk",
+                [
+                    "/wiki/Kumyk_language"
+                ],
+                [
+                    {
+                        "entity id": "Q36209",
+                        "label": "Kumyk"
+                    }
+                ]
+            ],
+            [
+                "Sunni Islam",
+                []
+            ]
+        ],
+        [
+            [
+                "Karachays and Balkars",
+                [
+                    "/wiki/Karachay",
+                    "/wiki/Balkar"
+                ],
+                [
+                    {
+                        "entity id": "Q4214448",
+                        "label": "Karachay"
+                    },
+                    {
+                        "entity id": "Q4883038",
+                        "label": "Balkar"
+                    }
+                ]
+            ],
+            [
+                "Karachay-Cherkessia and Kabardino-Balkaria ( Russia )",
+                [
+                    "/wiki/Karachay-Cherkessia",
+                    "/wiki/Kabardino-Balkaria"
+                ],
+                [
+                    {
+                        "entity id": "Q5328",
+                        "label": "Karachay-Cherkess Republic"
+                    },
+                    {
+                        "entity id": "Q5267",
+                        "label": "Kabardino-Balkaria"
+                    }
+                ]
+            ],
+            [
+                "007 0.4 M",
+                []
+            ],
+            [
+                "Karachay-Balkar",
+                [
+                    "/wiki/Karachay-Balkar_language"
+                ],
+                [
+                    {
+                        "entity id": "Q33714",
+                        "label": "Karachay-Balkar"
+                    }
+                ]
+            ],
+            [
+                "Sunni Islam",
+                []
+            ]
+        ],
+        [
+            [
+                "Tuvans",
+                [
+                    "/wiki/Tuvans"
+                ],
+                [
+                    {
+                        "entity id": "Q193067",
+                        "label": "Tuvans"
+                    }
+                ]
+            ],
+            [
+                "Tuva ( Russia )",
+                [
+                    "/wiki/Tuva"
+                ],
+                [
+                    {
+                        "entity id": "Q960",
+                        "label": "Tuva Republic"
+                    }
+                ]
+            ],
+            [
+                "009 0.3 M",
+                []
+            ],
+            [
+                "Tuvan",
+                [
+                    "/wiki/Tuvan_language"
+                ],
+                [
+                    {
+                        "entity id": "Q34119",
+                        "label": "Tuvan"
+                    }
+                ]
+            ],
+            [
+                "Tibetan Buddhism",
+                []
+            ]
+        ],
+        [
+            [
+                "Gagauzs",
+                [
+                    "/wiki/Gagauz_people"
+                ],
+                [
+                    {
+                        "entity id": "Q180361",
+                        "label": "Gagauz"
+                    }
+                ]
+            ],
+            [
+                "Gagauzia ( Moldova )",
+                [
+                    "/wiki/Gagauzia"
+                ],
+                [
+                    {
+                        "entity id": "Q164819",
+                        "label": "Gagauzia"
+                    }
+                ]
+            ],
+            [
+                "009 0.2 M",
+                []
+            ],
+            [
+                "Gagauz",
+                [
+                    "/wiki/Gagauz_language"
+                ],
+                [
+                    {
+                        "entity id": "Q33457",
+                        "label": "Gagauz"
+                    }
+                ]
+            ],
+            [
+                "Orthodox Christianity",
+                []
+            ]
+        ],
+        [
+            [
+                "Turkic Karaites and Krymchaks",
+                [
+                    "/wiki/Crimean_Karaites",
+                    "/wiki/Krymchaks"
+                ],
+                [
+                    {
+                        "entity id": "Q720982",
+                        "label": "Crimean Karaites"
+                    },
+                    {
+                        "entity id": "Q1140111",
+                        "label": "Krymchaks"
+                    }
+                ]
+            ],
+            [
+                "Ukraine",
+                [
+                    "/wiki/Ukraine"
+                ],
+                [
+                    {
+                        "entity id": "Q212",
+                        "label": "Ukraine"
+                    }
+                ]
+            ],
+            [
+                "007 0.2 M",
+                []
+            ],
+            [
+                "Karaim and Krymchak",
+                [
+                    "/wiki/Karaim_language",
+                    "/wiki/Krymchak_language"
+                ],
+                [
+                    {
+                        "entity id": "Q33725",
+                        "label": "Karaim"
+                    },
+                    {
+                        "entity id": "Q33723",
+                        "label": "Krymchak"
+                    }
+                ]
+            ],
+            [
+                "Judaism",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Demographics",
+    "section_text": "Bashkirs , painting from 1812 , Paris The distribution of people of Turkic cultural background ranges from Siberia , across Central Asia , to Southern Europe . As of 2011 [ update ] the largest groups of Turkic people live throughout Central Asia\u2014Kazakhstan , Kyrgyzstan , Turkmenistan , Uzbekistan , and Azerbaijan , in addition to Turkey and Iran . Additionally , Turkic people are found within Crimea , Altishahr region of western China , northern Iraq , Israel , Russia , Afghanistan , and the Balkans : Moldova , Bulgaria , Romania , and former Yugoslavia . A small number of Turkic people also live in Vilnius , the capital of Lithuania . Small numbers inhabit eastern Poland and the south-eastern part of Finland . [ 159 ] There are also considerable populations of Turkic people ( originating mostly from Turkey ) in Germany , United States , and Australia , largely because of migrations during the 20th century . Sometimes ethnographers group Turkic people into six branches : the Oghuz Turks , Kipchak , Karluk , Siberian , Chuvash , and Sakha/Yakut branches . The Oghuz have been termed Western Turks , while the remaining five , in such a classificatory scheme , are called Eastern Turks . Much of the Turkic population of Central Asia has significant Caucasoid and Mongoloid ancestry . The genetic distances between the different populations of Uzbeks scattered across Uzbekistan is no greater than the distance between many of them and the Karakalpaks . This suggests that Karakalpaks and Uzbeks have very similar origins . The Karakalpaks have a somewhat greater bias towards the eastern markers than the Uzbeks . [ 160 ] Historical population : Year Population 1 AD 2\u20132.5 million ? 2013 150\u2013200 million The Turkic people display a great variety of ethnic types . [ 161 ] They possess physical features ranging from Caucasoid to Northern Mongoloid . Mongoloid and Caucasoid facial structure is common among many Turkic groups , such as Chuvash people , Tatars , Kazakhs , Uzbeks , and Bashkirs .",
+    "uid": "Turkic_peoples_0",
+    "intro": "The Turkic peoples are a collection of ethno-linguistic groups of Central, Eastern, Northern and Western Asia as well as parts of Europe and North Africa. The origins of the Turkic people are a matter of contention among scholars. Yunusbayev suggested they may lie in a region stretching from the Transcaspian steppe to Manchuria. According to several linguists southern Mongolia is the homeland of the early Turkic language. The Turkic peoples speak related languages belonging to the Turkic language family. They share, to varying degrees, certain cultural traits, common ancestry and historical backgrounds. In time, different Turkic groups came in contact with other ethnicities, absorbing them, leaving some Turkic groups more diverse than the others. Many vastly differing ethnic groups have throughout history become part of the Turkic peoples through language shift, acculturation, intermixing, adoption and religious conversion. Despite this, many do share, to varying degrees, non-linguistic characteristics like cultural traits, ancestry from a common gene pool, and historical experiences. The most notable modern Turkic-speaking ethnic groups include Turkish people, Azerbaijanis, Uzbeks, Kazakhs, Turkmens, Kyrgyz and Uyghur people."
+}

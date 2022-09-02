@@ -1,0 +1,623 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Yeti_Airlines",
+    "title": "Yeti Airlines",
+    "header": [
+        [
+            "Destination",
+            []
+        ],
+        [
+            "Airport",
+            []
+        ],
+        [
+            "Notes",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Kathmandu",
+                [
+                    "/wiki/Kathmandu"
+                ],
+                [
+                    {
+                        "entity id": "Q3037",
+                        "label": "Kathmandu"
+                    }
+                ]
+            ],
+            [
+                "Tribhuvan International Airport",
+                [
+                    "/wiki/Tribhuvan_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q61066",
+                        "label": "Tribhuvan International Airport"
+                    }
+                ]
+            ],
+            [
+                "Hub",
+                [
+                    "/wiki/Airline_hub"
+                ],
+                [
+                    {
+                        "entity id": "Q4811588",
+                        "label": "airline hub"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Bajhang",
+                [
+                    "/wiki/Bajhang"
+                ],
+                [
+                    {
+                        "entity id": "Q28592",
+                        "label": "Bajhang District"
+                    }
+                ]
+            ],
+            [
+                "Bajhang Airport",
+                [
+                    "/wiki/Bajhang_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2901843",
+                        "label": "Bajhang Airport"
+                    }
+                ]
+            ],
+            [
+                "Terminated",
+                []
+            ]
+        ],
+        [
+            [
+                "Bajura",
+                [
+                    "/wiki/Bajura"
+                ],
+                [
+                    {
+                        "entity id": "Q12080260",
+                        "label": "Bajura"
+                    }
+                ]
+            ],
+            [
+                "Bajura Airport",
+                [
+                    "/wiki/Bajura_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q513344",
+                        "label": "Bajura Airport"
+                    }
+                ]
+            ],
+            [
+                "Terminated",
+                []
+            ]
+        ],
+        [
+            [
+                "Bhadrapur",
+                [
+                    "/wiki/Bhadrapur,_Mechi"
+                ],
+                [
+                    {
+                        "entity id": "Q1751446",
+                        "label": "Bhadrapur"
+                    }
+                ]
+            ],
+            [
+                "Bhadrapur Airport",
+                [
+                    "/wiki/Bhadrapur_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q620047",
+                        "label": "Bhadrapur Airport"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Bhairahawa",
+                [
+                    "/wiki/Bhairahawa"
+                ],
+                [
+                    {
+                        "entity id": "Q47073031",
+                        "label": "Bhairahawa Gladiators"
+                    }
+                ]
+            ],
+            [
+                "Gautam Buddha Airport",
+                [
+                    "/wiki/Gautam_Buddha_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3275873",
+                        "label": "Gautam Buddha Airport"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Bharatpur",
+                [
+                    "/wiki/Bharatpur,_Nepal"
+                ],
+                [
+                    {
+                        "entity id": "Q250220",
+                        "label": "Bharatpur"
+                    }
+                ]
+            ],
+            [
+                "Bharatpur Airport",
+                [
+                    "/wiki/Bharatpur_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q620005",
+                        "label": "Bharatpur Airport"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Biratnagar",
+                [
+                    "/wiki/Biratnagar"
+                ],
+                [
+                    {
+                        "entity id": "Q8247",
+                        "label": "Biratnagar"
+                    }
+                ]
+            ],
+            [
+                "Biratnagar Airport",
+                [
+                    "/wiki/Biratnagar_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q598652",
+                        "label": "Biratnagar Airport"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Birendranagar",
+                [
+                    "/wiki/Birendranagar"
+                ],
+                [
+                    {
+                        "entity id": "Q865146",
+                        "label": "Birendranagar"
+                    }
+                ]
+            ],
+            [
+                "Surkhet Airport",
+                [
+                    "/wiki/Surkhet_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1756900",
+                        "label": "Surkhet Airport"
+                    }
+                ]
+            ],
+            [
+                "Terminated",
+                []
+            ]
+        ],
+        [
+            [
+                "Dang",
+                [
+                    "/wiki/Dang_District,_Nepal"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Dang Airport",
+                [
+                    "/wiki/Dang_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3545478",
+                        "label": "Dang Airport"
+                    }
+                ]
+            ],
+            [
+                "Terminated",
+                []
+            ]
+        ],
+        [
+            [
+                "Dhangadhi",
+                [
+                    "/wiki/Dhangadhi"
+                ],
+                [
+                    {
+                        "entity id": "Q1446993",
+                        "label": "Dhangadhi"
+                    }
+                ]
+            ],
+            [
+                "Dhangadhi Airport",
+                [
+                    "/wiki/Dhangadhi_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1657560",
+                        "label": "Dhangadhi Airport"
+                    }
+                ]
+            ],
+            [
+                "Terminated",
+                []
+            ]
+        ],
+        [
+            [
+                "Janakpur",
+                [
+                    "/wiki/Janakpur"
+                ],
+                [
+                    {
+                        "entity id": "Q378649",
+                        "label": "Janakpurdham"
+                    }
+                ]
+            ],
+            [
+                "Janakpur Airport",
+                [
+                    "/wiki/Janakpur_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2901010",
+                        "label": "Janakpur Airport"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Jomsom",
+                [
+                    "/wiki/Jomsom"
+                ],
+                [
+                    {
+                        "entity id": "Q1702717",
+                        "label": "Jomsom"
+                    }
+                ]
+            ],
+            [
+                "Jomsom Airport",
+                [
+                    "/wiki/Jomsom_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1431605",
+                        "label": "Jomsom Airport"
+                    }
+                ]
+            ],
+            [
+                "Terminated",
+                []
+            ]
+        ],
+        [
+            [
+                "Jumla",
+                [
+                    "/wiki/Jumla_(town)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Jumla Airport",
+                [
+                    "/wiki/Jumla_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q6310989",
+                        "label": "Jumla Airport"
+                    }
+                ]
+            ],
+            [
+                "Terminated",
+                []
+            ]
+        ],
+        [
+            [
+                "Lamidanda",
+                [
+                    "/wiki/Lamidanda,_Khotang"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Lamidanda Airport",
+                [
+                    "/wiki/Lamidanda_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2798474",
+                        "label": "Lamidanda Airport"
+                    }
+                ]
+            ],
+            [
+                "Terminated",
+                []
+            ]
+        ],
+        [
+            [
+                "Lukla",
+                [
+                    "/wiki/Lukla"
+                ],
+                [
+                    {
+                        "entity id": "Q389190",
+                        "label": "Lukla"
+                    }
+                ]
+            ],
+            [
+                "Lukla Airport",
+                [
+                    "/wiki/Lukla_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1043277",
+                        "label": "Tenzing-Hillary Airport"
+                    }
+                ]
+            ],
+            [
+                "Terminated",
+                []
+            ]
+        ],
+        [
+            [
+                "Manang",
+                [
+                    "/wiki/Manang"
+                ],
+                [
+                    {
+                        "entity id": "Q735686",
+                        "label": "Manang"
+                    }
+                ]
+            ],
+            [
+                "Manang Airport",
+                [
+                    "/wiki/Manang_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2330037",
+                        "label": "Manang Airport"
+                    }
+                ]
+            ],
+            [
+                "Terminated",
+                []
+            ]
+        ],
+        [
+            [
+                "Meghauli",
+                [
+                    "/wiki/Meghauli"
+                ],
+                [
+                    {
+                        "entity id": "Q3427978",
+                        "label": "Meghauli"
+                    }
+                ]
+            ],
+            [
+                "Meghauli Airport",
+                [
+                    "/wiki/Meghauli_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q651687",
+                        "label": "Meghauli Airport"
+                    }
+                ]
+            ],
+            [
+                "Terminated",
+                []
+            ]
+        ],
+        [
+            [
+                "Nepalgunj",
+                [
+                    "/wiki/Nepalgunj"
+                ],
+                [
+                    {
+                        "entity id": "Q1025462",
+                        "label": "Nepalgunj"
+                    }
+                ]
+            ],
+            [
+                "Nepalgunj Airport",
+                [
+                    "/wiki/Nepalgunj_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1756906",
+                        "label": "Nepalgunj Airport"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Phaplu",
+                [
+                    "/wiki/Phaplu"
+                ],
+                [
+                    {
+                        "entity id": "Q2759601",
+                        "label": "Phaplu Airport"
+                    }
+                ]
+            ],
+            [
+                "Phaplu Airport",
+                [
+                    "/wiki/Phaplu_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2759601",
+                        "label": "Phaplu Airport"
+                    }
+                ]
+            ],
+            [
+                "Terminated",
+                []
+            ]
+        ],
+        [
+            [
+                "Pokhara",
+                [
+                    "/wiki/Pokhara"
+                ],
+                [
+                    {
+                        "entity id": "Q6640",
+                        "label": "Pokhara"
+                    }
+                ]
+            ],
+            [
+                "Pokhara Airport",
+                [
+                    "/wiki/Pokhara_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1432399",
+                        "label": "Pokhara Airport"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Destinations",
+    "section_text": "Yeti Airlines ATR 72-500 ( 9N-ALN ) at Gautam Buddha Airport , Bhairahawa Yeti Airlines offers scheduled flights to the following destinations ( as of January 2020 ) : [ 10 ]",
+    "uid": "Yeti_Airlines_0",
+    "intro": "Yeti Airlines Pvt. Ltd. (Nepali: \u092f\u0947\u0924\u0940 \u090f\u092f\u0930\u0932\u093e\u0907\u0928\u094d\u0938) is an airline based in Kathmandu, Nepal. The airline was established in May 1998 and received its Air Operators Certificate on 17 August 1998. Since 2019, Yeti Airlines is the first carbon neutral airline in Nepal and South Asia. It is the parent company of Tara Air. As of 2018, Yeti Airlines was the second largest domestic carrier in Nepal, after Buddha Air, with a market share of 23.5%."
+}

@@ -1,0 +1,817 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Bulgaria",
+    "title": "List of airports in Bulgaria",
+    "header": [
+        [
+            "City served",
+            [
+                "/wiki/List_of_cities_in_Bulgaria"
+            ],
+            [
+                {}
+            ]
+        ],
+        [
+            "Province",
+            [
+                "/wiki/Provinces_of_Bulgaria"
+            ],
+            [
+                {}
+            ]
+        ],
+        [
+            "ICAO",
+            [
+                "/wiki/ICAO_airport_code"
+            ],
+            [
+                {
+                    "entity id": "Q207529",
+                    "label": "ICAO airport code"
+                }
+            ]
+        ],
+        [
+            "Airport name",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Burgas / Sarafovo",
+                [
+                    "/wiki/Burgas",
+                    "/wiki/Sarafovo"
+                ],
+                [
+                    {
+                        "entity id": "Q6509",
+                        "label": "Burgas"
+                    },
+                    {
+                        "entity id": "Q2224290",
+                        "label": "Sarafovo"
+                    }
+                ]
+            ],
+            [
+                "Burgas",
+                [
+                    "/wiki/Burgas_Province"
+                ],
+                [
+                    {
+                        "entity id": "Q369220",
+                        "label": "Burgas Province"
+                    }
+                ]
+            ],
+            [
+                "LBBG",
+                []
+            ],
+            [
+                "Burgas Airport",
+                [
+                    "/wiki/Burgas_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1324587",
+                        "label": "Burgas Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Gorna Oryahovitsa",
+                [
+                    "/wiki/Gorna_Oryahovitsa"
+                ],
+                [
+                    {
+                        "entity id": "Q115998",
+                        "label": "Gorna Oryahovitsa"
+                    }
+                ]
+            ],
+            [
+                "Veliko Tarnovo",
+                [
+                    "/wiki/Veliko_Tarnovo_Province"
+                ],
+                [
+                    {
+                        "entity id": "Q2012621",
+                        "label": "Veliko Tarnovo Province"
+                    }
+                ]
+            ],
+            [
+                "LBGO",
+                []
+            ],
+            [
+                "Gorna Oryahovitsa Airport",
+                [
+                    "/wiki/Gorna_Oryahovitsa_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1431400",
+                        "label": "Gorna Oryahovitsa Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Plovdiv / Krumovo",
+                [
+                    "/wiki/Plovdiv",
+                    "/wiki/Krumovo"
+                ],
+                [
+                    {
+                        "entity id": "Q459",
+                        "label": "Plovdiv"
+                    },
+                    {
+                        "entity id": "Q2654185",
+                        "label": "Krumovo"
+                    }
+                ]
+            ],
+            [
+                "Plovdiv",
+                [
+                    "/wiki/Plovdiv_Province"
+                ],
+                [
+                    {
+                        "entity id": "Q187874",
+                        "label": "Plovdiv Province"
+                    }
+                ]
+            ],
+            [
+                "LBPD",
+                []
+            ],
+            [
+                "Plovdiv Airport",
+                [
+                    "/wiki/Plovdiv_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1370380",
+                        "label": "Plovdiv Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Rousse ( Ruse ) / Shtraklevo",
+                [
+                    "/wiki/Rousse",
+                    "/wiki/Shtraklevo"
+                ],
+                [
+                    {
+                        "entity id": "Q160173",
+                        "label": "Ruse"
+                    },
+                    {
+                        "entity id": "Q2654860",
+                        "label": "Shtraklevo"
+                    }
+                ]
+            ],
+            [
+                "Rousse",
+                [
+                    "/wiki/Rousse_Province"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "LBRS",
+                []
+            ],
+            [
+                "Ruse Airport ( not operational )",
+                [
+                    "/wiki/Ruse_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2875909",
+                        "label": "Ruse Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Sofia",
+                [
+                    "/wiki/Sofia"
+                ],
+                [
+                    {
+                        "entity id": "Q472",
+                        "label": "Sofia"
+                    }
+                ]
+            ],
+            [
+                "Sofia -oblast",
+                [
+                    "/wiki/Sofia"
+                ],
+                [
+                    {
+                        "entity id": "Q472",
+                        "label": "Sofia"
+                    }
+                ]
+            ],
+            [
+                "LBSF",
+                []
+            ],
+            [
+                "Sofia Airport",
+                [
+                    "/wiki/Sofia_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q127951",
+                        "label": "Sofia Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Stara Zagora",
+                [
+                    "/wiki/Stara_Zagora"
+                ],
+                [
+                    {
+                        "entity id": "Q170415",
+                        "label": "Stara Zagora"
+                    }
+                ]
+            ],
+            [
+                "Stara Zagora",
+                [
+                    "/wiki/Stara_Zagora_Province"
+                ],
+                [
+                    {
+                        "entity id": "Q2012583",
+                        "label": "Stara Zagora Province"
+                    }
+                ]
+            ],
+            [
+                "LBSZ",
+                []
+            ],
+            [
+                "Stara Zagora Airport ( not operational )",
+                [
+                    "/wiki/Stara_Zagora_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2875949",
+                        "label": "Stara Zagora Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Varna / Aksakovo",
+                [
+                    "/wiki/Varna",
+                    "/wiki/Aksakovo"
+                ],
+                [
+                    {
+                        "entity id": "Q6506",
+                        "label": "Varna"
+                    },
+                    {
+                        "entity id": "Q405433",
+                        "label": "Aksakovo"
+                    }
+                ]
+            ],
+            [
+                "Varna",
+                [
+                    "/wiki/Varna_Province"
+                ],
+                [
+                    {
+                        "entity id": "Q183487",
+                        "label": "Varna Province"
+                    }
+                ]
+            ],
+            [
+                "LBWN",
+                []
+            ],
+            [
+                "Varna Airport",
+                [
+                    "/wiki/Varna_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1423410",
+                        "label": "Varna Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Balchik ( Balchic )",
+                [
+                    "/wiki/Balchik"
+                ],
+                [
+                    {
+                        "entity id": "Q329437",
+                        "label": "Balchik"
+                    }
+                ]
+            ],
+            [
+                "Dobrich",
+                [
+                    "/wiki/Dobrich_Province"
+                ],
+                [
+                    {
+                        "entity id": "Q907395",
+                        "label": "Dobrich Province"
+                    }
+                ]
+            ],
+            [
+                "LBWB",
+                []
+            ],
+            [
+                "Balchik Airfield",
+                [
+                    "/wiki/Balchik_Airfield"
+                ],
+                [
+                    {
+                        "entity id": "Q2902106",
+                        "label": "Balchik Airfield"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Bohot",
+                [
+                    "/wiki/Bohot"
+                ],
+                [
+                    {
+                        "entity id": "Q759430",
+                        "label": "Artocarpus lacucha"
+                    }
+                ]
+            ],
+            [
+                "Pleven",
+                [
+                    "/wiki/Pleven_Province"
+                ],
+                [
+                    {
+                        "entity id": "Q2012242",
+                        "label": "Pleven Province"
+                    }
+                ]
+            ],
+            [
+                "LBBO",
+                []
+            ],
+            [
+                "Bohot Airfield",
+                [
+                    "/wiki/Bohot_Airfield"
+                ],
+                [
+                    {
+                        "entity id": "Q15294071",
+                        "label": "Bohot Airfield"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Grivitsa ( Grivitza , Grivica )",
+                [
+                    "/wiki/Grivitsa"
+                ],
+                [
+                    {
+                        "entity id": "Q2990475",
+                        "label": "Grivitsa"
+                    }
+                ]
+            ],
+            [
+                "Pleven",
+                [
+                    "/wiki/Pleven_Province"
+                ],
+                [
+                    {
+                        "entity id": "Q2012242",
+                        "label": "Pleven Province"
+                    }
+                ]
+            ],
+            [
+                "LBGR",
+                []
+            ],
+            [
+                "Grivitza Airfield",
+                [
+                    "/wiki/Grivitza_Airfield"
+                ],
+                [
+                    {
+                        "entity id": "Q16891912",
+                        "label": "Grivitza Airfield"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dolna Banya ( Dolna Bania )",
+                [
+                    "/wiki/Dolna_Banya"
+                ],
+                [
+                    {
+                        "entity id": "Q405248",
+                        "label": "Dolna Banya"
+                    }
+                ]
+            ],
+            [
+                "Sofia",
+                [
+                    "/wiki/Sofia_Province"
+                ],
+                [
+                    {
+                        "entity id": "Q202904",
+                        "label": "Sofia Province"
+                    }
+                ]
+            ],
+            [
+                "LBDB",
+                []
+            ],
+            [
+                "Dolna Bania Airfield",
+                [
+                    "/wiki/Dolna_Bania_Airfield"
+                ],
+                [
+                    {
+                        "entity id": "Q15293395",
+                        "label": "Dolna Banya Flying Center"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Erden / Bojchinovci",
+                [
+                    "/wiki/Erden,_Bulgaria",
+                    "/wiki/Bojchinovci"
+                ],
+                [
+                    {
+                        "entity id": "Q25247414",
+                        "label": "Erden, Bulgaria"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Montana",
+                [
+                    "/wiki/Montana_Province"
+                ],
+                [
+                    {
+                        "entity id": "Q2012057",
+                        "label": "Montana Province"
+                    }
+                ]
+            ],
+            [
+                "LBED",
+                []
+            ],
+            [
+                "Erden Airfield",
+                [
+                    "/wiki/Erden_Airfield"
+                ],
+                [
+                    {
+                        "entity id": "Q5385272",
+                        "label": "Erden Airfield"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Izgrev / Kalimantsi",
+                [
+                    "/wiki/Izgrev,_Varna_Province",
+                    "/wiki/Kalimantsi,_Varna_Province"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q2016108",
+                        "label": "Kalimantsi"
+                    }
+                ]
+            ],
+            [
+                "Varna",
+                [
+                    "/wiki/Varna_Province"
+                ],
+                [
+                    {
+                        "entity id": "Q183487",
+                        "label": "Varna Province"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Izgrev Airfield",
+                [
+                    "/wiki/Izgrev_Airfield"
+                ],
+                [
+                    {
+                        "entity id": "Q16850721",
+                        "label": "Izgrev Airfield"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Ihtiman",
+                [
+                    "/wiki/Ihtiman"
+                ],
+                [
+                    {
+                        "entity id": "Q405712",
+                        "label": "Ihtiman"
+                    }
+                ]
+            ],
+            [
+                "Sofia",
+                [
+                    "/wiki/Sofia_Province"
+                ],
+                [
+                    {
+                        "entity id": "Q202904",
+                        "label": "Sofia Province"
+                    }
+                ]
+            ],
+            [
+                "LBHT",
+                []
+            ],
+            [
+                "Ihtiman Airfield",
+                [
+                    "/wiki/Ihtiman_Airfield"
+                ],
+                [
+                    {
+                        "entity id": "Q16847144",
+                        "label": "Ihtiman Airfield"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kaynardzha",
+                [
+                    "/wiki/Kaynardzha"
+                ],
+                [
+                    {
+                        "entity id": "Q2346358",
+                        "label": "Kaynardzha"
+                    }
+                ]
+            ],
+            [
+                "Silistra",
+                [
+                    "/wiki/Silistra_Province"
+                ],
+                [
+                    {
+                        "entity id": "Q2012423",
+                        "label": "Silistra Province"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Kaynardzha Airfield",
+                [
+                    "/wiki/Kaynardzha_Airfield"
+                ],
+                [
+                    {
+                        "entity id": "Q16893215",
+                        "label": "Kaynardzha Airfield"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Lesnovo / Elin Pelin",
+                [
+                    "/wiki/Lesnovo,_Bulgaria",
+                    "/wiki/Elin_Pelin_(town)"
+                ],
+                [
+                    {
+                        "entity id": "Q2654069",
+                        "label": "Lesnovo"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Sofia",
+                [
+                    "/wiki/Sofia_Province"
+                ],
+                [
+                    {
+                        "entity id": "Q202904",
+                        "label": "Sofia Province"
+                    }
+                ]
+            ],
+            [
+                "LBLS",
+                []
+            ],
+            [
+                "Lesnovo Airfield",
+                [
+                    "/wiki/Lesnovo_Airfield"
+                ],
+                [
+                    {
+                        "entity id": "Q6531306",
+                        "label": "Lesnovo Airfield"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Polikraishte",
+                [
+                    "/wiki/Polikraishte"
+                ],
+                [
+                    {
+                        "entity id": "Q2460891",
+                        "label": "Polikraishte"
+                    }
+                ]
+            ],
+            [
+                "Veliko Tarnovo",
+                [
+                    "/wiki/Veliko_Tarnovo_Province"
+                ],
+                [
+                    {
+                        "entity id": "Q2012621",
+                        "label": "Veliko Tarnovo Province"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Polikraishte Airfield",
+                []
+            ]
+        ],
+        [
+            [
+                "Primorsko",
+                [
+                    "/wiki/Primorsko"
+                ],
+                [
+                    {
+                        "entity id": "Q405153",
+                        "label": "Primorsko"
+                    }
+                ]
+            ],
+            [
+                "Burgas",
+                [
+                    "/wiki/Burgas_Province"
+                ],
+                [
+                    {
+                        "entity id": "Q369220",
+                        "label": "Burgas Province"
+                    }
+                ]
+            ],
+            [
+                "LBPR",
+                []
+            ],
+            [
+                "Primorsko Airfield",
+                [
+                    "/wiki/Primorsko_Airfield"
+                ],
+                [
+                    {
+                        "entity id": "Q7243633",
+                        "label": "Primorsko Airfield"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Airports",
+    "section_text": "",
+    "uid": "List_of_airports_in_Bulgaria_1",
+    "intro": "This is a list of airports in Bulgaria. It is a partial list of public active aerodromes (airports and airfields), grouped by type and sorted by location. The Republic of Bulgaria is a country in the Balkans in southeastern Europe. It borders five other countries: Romania to the north (mostly along the River Danube), Serbia and North Macedonia to the west, and Greece and Turkey to the south. The Black Sea defines the extent of the country to the east. The country's capital city is Sofia. Bulgaria is divided into 28 provinces which are subdivided into 260 municipalities."
+}

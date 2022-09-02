@@ -1,0 +1,676 @@
+{
+    "url": "https://en.wikipedia.org/wiki/2015_Cricket_World_Cup",
+    "title": "2015 Cricket World Cup",
+    "header": [
+        [
+            "Venue",
+            []
+        ],
+        [
+            "City",
+            []
+        ],
+        [
+            "Country",
+            []
+        ],
+        [
+            "Capacity",
+            []
+        ],
+        [
+            "Matches",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Sydney Cricket Ground",
+                [
+                    "/wiki/Sydney_Cricket_Ground"
+                ],
+                [
+                    {
+                        "entity id": "Q856393",
+                        "label": "Sydney Cricket Ground"
+                    }
+                ]
+            ],
+            [
+                "Sydney",
+                [
+                    "/wiki/Sydney"
+                ],
+                [
+                    {
+                        "entity id": "Q3130",
+                        "label": "Sydney"
+                    }
+                ]
+            ],
+            [
+                "Australia",
+                [
+                    "/wiki/Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q408",
+                        "label": "Australia"
+                    }
+                ]
+            ],
+            [
+                "48,000",
+                []
+            ],
+            [
+                "5 ( quarter-final , semi-final )",
+                []
+            ]
+        ],
+        [
+            [
+                "Melbourne Cricket Ground",
+                [
+                    "/wiki/Melbourne_Cricket_Ground"
+                ],
+                [
+                    {
+                        "entity id": "Q330136",
+                        "label": "Melbourne Cricket Ground"
+                    }
+                ]
+            ],
+            [
+                "Melbourne",
+                [
+                    "/wiki/Melbourne"
+                ],
+                [
+                    {
+                        "entity id": "Q3141",
+                        "label": "Melbourne"
+                    }
+                ]
+            ],
+            [
+                "Australia",
+                [
+                    "/wiki/Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q408",
+                        "label": "Australia"
+                    }
+                ]
+            ],
+            [
+                "100,000",
+                []
+            ],
+            [
+                "5 ( quarter-final , final )",
+                []
+            ]
+        ],
+        [
+            [
+                "The 'Gabba",
+                [
+                    "/wiki/Brisbane_Cricket_Ground"
+                ],
+                [
+                    {
+                        "entity id": "Q2462392",
+                        "label": "Brisbane Cricket Ground"
+                    }
+                ]
+            ],
+            [
+                "Brisbane",
+                [
+                    "/wiki/Brisbane"
+                ],
+                [
+                    {
+                        "entity id": "Q34932",
+                        "label": "Brisbane"
+                    }
+                ]
+            ],
+            [
+                "Australia",
+                [
+                    "/wiki/Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q408",
+                        "label": "Australia"
+                    }
+                ]
+            ],
+            [
+                "42,000",
+                []
+            ],
+            [
+                "3",
+                []
+            ]
+        ],
+        [
+            [
+                "Adelaide Oval",
+                [
+                    "/wiki/Adelaide_Oval"
+                ],
+                [
+                    {
+                        "entity id": "Q2462430",
+                        "label": "Adelaide Oval"
+                    }
+                ]
+            ],
+            [
+                "Adelaide",
+                [
+                    "/wiki/Adelaide"
+                ],
+                [
+                    {
+                        "entity id": "Q5112",
+                        "label": "Adelaide"
+                    }
+                ]
+            ],
+            [
+                "Australia",
+                [
+                    "/wiki/Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q408",
+                        "label": "Australia"
+                    }
+                ]
+            ],
+            [
+                "53,500",
+                []
+            ],
+            [
+                "4 ( quarter-final )",
+                []
+            ]
+        ],
+        [
+            [
+                "WACA Ground",
+                [
+                    "/wiki/WACA_Ground"
+                ],
+                [
+                    {
+                        "entity id": "Q2738971",
+                        "label": "WACA Ground"
+                    }
+                ]
+            ],
+            [
+                "Perth",
+                [
+                    "/wiki/Perth"
+                ],
+                [
+                    {
+                        "entity id": "Q3183",
+                        "label": "Perth"
+                    }
+                ]
+            ],
+            [
+                "Australia",
+                [
+                    "/wiki/Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q408",
+                        "label": "Australia"
+                    }
+                ]
+            ],
+            [
+                "24,500",
+                []
+            ],
+            [
+                "3",
+                []
+            ]
+        ],
+        [
+            [
+                "Bellerive Oval",
+                [
+                    "/wiki/Bellerive_Oval"
+                ],
+                [
+                    {
+                        "entity id": "Q1134044",
+                        "label": "Bellerive Oval"
+                    }
+                ]
+            ],
+            [
+                "Hobart",
+                [
+                    "/wiki/Hobart"
+                ],
+                [
+                    {
+                        "entity id": "Q40191",
+                        "label": "Hobart"
+                    }
+                ]
+            ],
+            [
+                "Australia",
+                [
+                    "/wiki/Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q408",
+                        "label": "Australia"
+                    }
+                ]
+            ],
+            [
+                "20,000",
+                []
+            ],
+            [
+                "3",
+                []
+            ]
+        ],
+        [
+            [
+                "Manuka Oval",
+                [
+                    "/wiki/Manuka_Oval"
+                ],
+                [
+                    {
+                        "entity id": "Q1891865",
+                        "label": "Manuka Oval"
+                    }
+                ]
+            ],
+            [
+                "Canberra",
+                [
+                    "/wiki/Canberra"
+                ],
+                [
+                    {
+                        "entity id": "Q3114",
+                        "label": "Canberra"
+                    }
+                ]
+            ],
+            [
+                "Australia",
+                [
+                    "/wiki/Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q408",
+                        "label": "Australia"
+                    }
+                ]
+            ],
+            [
+                "13,550",
+                []
+            ],
+            [
+                "3",
+                []
+            ]
+        ],
+        [
+            [
+                "Eden Park",
+                [
+                    "/wiki/Eden_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q312411",
+                        "label": "Eden Park"
+                    }
+                ]
+            ],
+            [
+                "Auckland",
+                [
+                    "/wiki/Auckland"
+                ],
+                [
+                    {
+                        "entity id": "Q37100",
+                        "label": "Auckland"
+                    }
+                ]
+            ],
+            [
+                "New Zealand",
+                [
+                    "/wiki/New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q664",
+                        "label": "New Zealand"
+                    }
+                ]
+            ],
+            [
+                "50,000",
+                []
+            ],
+            [
+                "4 ( semi-final )",
+                []
+            ]
+        ],
+        [
+            [
+                "Hagley Oval",
+                [
+                    "/wiki/Hagley_Oval"
+                ],
+                [
+                    {
+                        "entity id": "Q5638760",
+                        "label": "Hagley Oval"
+                    }
+                ]
+            ],
+            [
+                "Christchurch",
+                [
+                    "/wiki/Christchurch"
+                ],
+                [
+                    {
+                        "entity id": "Q79990",
+                        "label": "Christchurch"
+                    }
+                ]
+            ],
+            [
+                "New Zealand",
+                [
+                    "/wiki/New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q664",
+                        "label": "New Zealand"
+                    }
+                ]
+            ],
+            [
+                "20,000",
+                []
+            ],
+            [
+                "3",
+                []
+            ]
+        ],
+        [
+            [
+                "Seddon Park",
+                [
+                    "/wiki/Seddon_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q7445167",
+                        "label": "Seddon Park"
+                    }
+                ]
+            ],
+            [
+                "Hamilton",
+                [
+                    "/wiki/Hamilton,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q200028",
+                        "label": "Hamilton"
+                    }
+                ]
+            ],
+            [
+                "New Zealand",
+                [
+                    "/wiki/New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q664",
+                        "label": "New Zealand"
+                    }
+                ]
+            ],
+            [
+                "12,000",
+                []
+            ],
+            [
+                "3",
+                []
+            ]
+        ],
+        [
+            [
+                "McLean Park",
+                [
+                    "/wiki/McLean_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q2743469",
+                        "label": "McLean Park"
+                    }
+                ]
+            ],
+            [
+                "Napier",
+                [
+                    "/wiki/Napier,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q203380",
+                        "label": "Napier"
+                    }
+                ]
+            ],
+            [
+                "New Zealand",
+                [
+                    "/wiki/New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q664",
+                        "label": "New Zealand"
+                    }
+                ]
+            ],
+            [
+                "22,500",
+                []
+            ],
+            [
+                "3",
+                []
+            ]
+        ],
+        [
+            [
+                "Wellington Regional Stadium",
+                [
+                    "/wiki/Wellington_Regional_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q1348677",
+                        "label": "Wellington Regional Stadium"
+                    }
+                ]
+            ],
+            [
+                "Wellington",
+                [
+                    "/wiki/Wellington"
+                ],
+                [
+                    {
+                        "entity id": "Q23661",
+                        "label": "Wellington"
+                    }
+                ]
+            ],
+            [
+                "New Zealand",
+                [
+                    "/wiki/New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q664",
+                        "label": "New Zealand"
+                    }
+                ]
+            ],
+            [
+                "37,000",
+                []
+            ],
+            [
+                "4 ( quarter-final )",
+                []
+            ]
+        ],
+        [
+            [
+                "Saxton Oval",
+                [
+                    "/wiki/Saxton_Oval"
+                ],
+                [
+                    {
+                        "entity id": "Q7428879",
+                        "label": "Saxton Oval"
+                    }
+                ]
+            ],
+            [
+                "Nelson",
+                [
+                    "/wiki/Nelson,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q206687",
+                        "label": "Nelson"
+                    }
+                ]
+            ],
+            [
+                "New Zealand",
+                [
+                    "/wiki/New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q664",
+                        "label": "New Zealand"
+                    }
+                ]
+            ],
+            [
+                "5,000",
+                []
+            ],
+            [
+                "3",
+                []
+            ]
+        ],
+        [
+            [
+                "University Oval",
+                [
+                    "/wiki/University_Oval,_Dunedin"
+                ],
+                [
+                    {
+                        "entity id": "Q7894851",
+                        "label": "University Oval"
+                    }
+                ]
+            ],
+            [
+                "Dunedin",
+                [
+                    "/wiki/Dunedin"
+                ],
+                [
+                    {
+                        "entity id": "Q133073",
+                        "label": "Dunedin"
+                    }
+                ]
+            ],
+            [
+                "New Zealand",
+                [
+                    "/wiki/New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q664",
+                        "label": "New Zealand"
+                    }
+                ]
+            ],
+            [
+                "6,000",
+                []
+            ],
+            [
+                "3",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Venues",
+    "section_text": "Each venue hosted 3 pool stage matches . The quarter-finals were in Sydney , Melbourne , Adelaide and Wellington , the semi-finals were played in Auckland and Sydney , and the final was played in Melbourne . Altogether there were 49 matches in 14 venues , with Australia hosting 26 games and New Zealand hosting 23 games . [ 54 ]",
+    "uid": "2015_Cricket_World_Cup_1",
+    "intro": "The 2015 ICC Cricket World Cup was a One Day International cricket tournament to decide the 11th Cricket World Cup. It was jointly hosted by Australia and New Zealand from 14 February to 29 March 2015, and was won by Australia. This was the second time the tournament was held in Australia and New Zealand, the first having been the 1992 Cricket World Cup. The tournament consisted of 14 teams, which were split into two pools of seven, with each team playing every other team in their pool once. The top four teams from each pool progressed to the knockout stage, which consisted of quarter-finals, semi-finals and a final. The final was between the co-hosts Australia and New Zealand. Australia won by seven wickets, to win their fifth Cricket World Cup. The total attendance was 1,016,420, with an average of 21,175 per game. The final at the Melbourne Cricket Ground had a crowd of 93,013, a record one day cricket crowd for Australia The tournament is estimated to have been watched by over 1.5 billion people; and the most widely watched match during the tournament was India vs. Pakistan, which is estimated to have drawn over 1 billion viewers. Tickets for this match reportedly sold out within 12 minutes of going on sale."
+}

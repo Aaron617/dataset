@@ -1,0 +1,939 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+    "title": "List of computer system emulators",
+    "header": [
+        [
+            "Emulator",
+            []
+        ],
+        [
+            "Latest version",
+            []
+        ],
+        [
+            "Released",
+            []
+        ],
+        [
+            "Guest emulation capabilities",
+            []
+        ],
+        [
+            "Host Operating System",
+            []
+        ],
+        [
+            "License",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "6502Em",
+                []
+            ],
+            [
+                "4.00",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "BBC Micro , BBC Master , Acorn Electron",
+                [
+                    "/wiki/BBC_Micro",
+                    "/wiki/BBC_Master",
+                    "/wiki/Acorn_Electron"
+                ],
+                [
+                    {
+                        "entity id": "Q749976",
+                        "label": "BBC Micro"
+                    },
+                    {
+                        "entity id": "Q795555",
+                        "label": "BBC Master"
+                    },
+                    {
+                        "entity id": "Q342163",
+                        "label": "Acorn Electron"
+                    }
+                ]
+            ],
+            [
+                "Windows , RISC OS",
+                [
+                    "/wiki/RISC_OS"
+                ],
+                [
+                    {
+                        "entity id": "Q1202514",
+                        "label": "RISC OS"
+                    }
+                ]
+            ],
+            [
+                "Commercial",
+                []
+            ]
+        ],
+        [
+            [
+                "65C12",
+                []
+            ],
+            [
+                "1.1",
+                []
+            ],
+            [
+                "November 4 , 1998",
+                []
+            ],
+            [
+                "BBC Micro",
+                [
+                    "/wiki/BBC_Micro"
+                ],
+                [
+                    {
+                        "entity id": "Q749976",
+                        "label": "BBC Micro"
+                    }
+                ]
+            ],
+            [
+                "DOS",
+                [
+                    "/wiki/DOS"
+                ],
+                [
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "65Host",
+                []
+            ],
+            [
+                "1.20",
+                []
+            ],
+            [
+                "May 18 , 1992",
+                []
+            ],
+            [
+                "BBC Micro",
+                [
+                    "/wiki/BBC_Micro"
+                ],
+                [
+                    {
+                        "entity id": "Q749976",
+                        "label": "BBC Micro"
+                    }
+                ]
+            ],
+            [
+                "RISC OS",
+                [
+                    "/wiki/RISC_OS"
+                ],
+                [
+                    {
+                        "entity id": "Q1202514",
+                        "label": "RISC OS"
+                    }
+                ]
+            ],
+            [
+                "Commercial",
+                [
+                    "/wiki/Commercial_software"
+                ],
+                [
+                    {
+                        "entity id": "Q1340793",
+                        "label": "commercial software"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "B-Em",
+                []
+            ],
+            [
+                "2.2",
+                []
+            ],
+            [
+                "June 3 , 2012",
+                []
+            ],
+            [
+                "BBC Micro",
+                [
+                    "/wiki/BBC_Micro"
+                ],
+                [
+                    {
+                        "entity id": "Q749976",
+                        "label": "BBC Micro"
+                    }
+                ]
+            ],
+            [
+                "DOS , Windows , OS X , Linux",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BBC 6502 Emulator",
+                []
+            ],
+            [
+                "-",
+                []
+            ],
+            [
+                "February 15 , 1992",
+                []
+            ],
+            [
+                "BBC Micro",
+                [
+                    "/wiki/BBC_Micro"
+                ],
+                [
+                    {
+                        "entity id": "Q749976",
+                        "label": "BBC Micro"
+                    }
+                ]
+            ],
+            [
+                "DOS/Windows",
+                []
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BBC Environment Emulator",
+                []
+            ],
+            [
+                "1.01AR",
+                []
+            ],
+            [
+                "1985",
+                []
+            ],
+            [
+                "BBC Micro",
+                [
+                    "/wiki/BBC_Micro"
+                ],
+                [
+                    {
+                        "entity id": "Q749976",
+                        "label": "BBC Micro"
+                    }
+                ]
+            ],
+            [
+                "Atari 520 ST",
+                []
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Beebdroid",
+                [
+                    "/wiki/Beebdroid"
+                ],
+                [
+                    {
+                        "entity id": "Q4879533",
+                        "label": "Beebdroid"
+                    }
+                ]
+            ],
+            [
+                "1.3",
+                []
+            ],
+            [
+                "February 17 , 2012",
+                []
+            ],
+            [
+                "BBC Micro",
+                [
+                    "/wiki/BBC_Micro"
+                ],
+                [
+                    {
+                        "entity id": "Q749976",
+                        "label": "BBC Micro"
+                    }
+                ]
+            ],
+            [
+                "Android",
+                [
+                    "/wiki/Android_(operating_system)"
+                ],
+                [
+                    {
+                        "entity id": "Q94",
+                        "label": "Android"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "BeebEm",
+                [
+                    "/wiki/BeebEm"
+                ],
+                [
+                    {
+                        "entity id": "Q4879530",
+                        "label": "BeebEm"
+                    }
+                ]
+            ],
+            [
+                "4.14",
+                []
+            ],
+            [
+                "February 13 , 2012",
+                []
+            ],
+            [
+                "BBC Micro , BBC Master 128",
+                [
+                    "/wiki/BBC_Micro",
+                    "/wiki/BBC_Master"
+                ],
+                [
+                    {
+                        "entity id": "Q749976",
+                        "label": "BBC Micro"
+                    },
+                    {
+                        "entity id": "Q795555",
+                        "label": "BBC Master"
+                    }
+                ]
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BeebInC",
+                []
+            ],
+            [
+                "0.99f",
+                []
+            ],
+            [
+                "1998",
+                []
+            ],
+            [
+                "BBC Micro",
+                [
+                    "/wiki/BBC_Micro"
+                ],
+                [
+                    {
+                        "entity id": "Q749976",
+                        "label": "BBC Micro"
+                    }
+                ]
+            ],
+            [
+                "DOS",
+                [
+                    "/wiki/DOS"
+                ],
+                [
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BeebIt",
+                []
+            ],
+            [
+                "0.65",
+                []
+            ],
+            [
+                "September 20 , 2015",
+                []
+            ],
+            [
+                "BBC Micro",
+                [
+                    "/wiki/BBC_Micro"
+                ],
+                [
+                    {
+                        "entity id": "Q749976",
+                        "label": "BBC Micro"
+                    }
+                ]
+            ],
+            [
+                "RISC OS",
+                [
+                    "/wiki/RISC_OS"
+                ],
+                [
+                    {
+                        "entity id": "Q1202514",
+                        "label": "RISC OS"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BeebItJ",
+                []
+            ],
+            [
+                "1.03",
+                []
+            ],
+            [
+                "November 7 , 2007",
+                []
+            ],
+            [
+                "BBC Micro",
+                [
+                    "/wiki/BBC_Micro"
+                ],
+                [
+                    {
+                        "entity id": "Q749976",
+                        "label": "BBC Micro"
+                    }
+                ]
+            ],
+            [
+                "RISC OS",
+                [
+                    "/wiki/RISC_OS"
+                ],
+                [
+                    {
+                        "entity id": "Q1202514",
+                        "label": "RISC OS"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Horizon",
+                []
+            ],
+            [
+                "2.1",
+                []
+            ],
+            [
+                "September 3 , 2012",
+                []
+            ],
+            [
+                "BBC Micro",
+                [
+                    "/wiki/BBC_Micro"
+                ],
+                [
+                    {
+                        "entity id": "Q749976",
+                        "label": "BBC Micro"
+                    }
+                ]
+            ],
+            [
+                "Windows , OS X",
+                [
+                    "/wiki/Windows",
+                    "/wiki/OS_X"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "jsbeeb",
+                []
+            ],
+            [
+                "-",
+                []
+            ],
+            [
+                "2014",
+                []
+            ],
+            [
+                "BBC Micro",
+                [
+                    "/wiki/BBC_Micro"
+                ],
+                [
+                    {
+                        "entity id": "Q749976",
+                        "label": "BBC Micro"
+                    }
+                ]
+            ],
+            [
+                "Web browser ( JavaScript )",
+                [
+                    "/wiki/Web_browser",
+                    "/wiki/JavaScript"
+                ],
+                [
+                    {
+                        "entity id": "Q6368",
+                        "label": "web browser"
+                    },
+                    {
+                        "entity id": "Q2005",
+                        "label": "JavaScript"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Jbeeb",
+                []
+            ],
+            [
+                "1.2",
+                []
+            ],
+            [
+                "2004",
+                []
+            ],
+            [
+                "BBC Micro",
+                [
+                    "/wiki/BBC_Micro"
+                ],
+                [
+                    {
+                        "entity id": "Q749976",
+                        "label": "BBC Micro"
+                    }
+                ]
+            ],
+            [
+                "Java Applet",
+                [
+                    "/wiki/Java_Applet"
+                ],
+                [
+                    {
+                        "entity id": "Q865817",
+                        "label": "Java applet"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MAME ( formerly MESS )",
+                [
+                    "/wiki/MAME",
+                    "/wiki/Multi_Emulator_Super_System"
+                ],
+                [
+                    {
+                        "entity id": "Q1054055",
+                        "label": "MAME"
+                    },
+                    {
+                        "entity id": "Q778644",
+                        "label": "MESS"
+                    }
+                ]
+            ],
+            [
+                "0.196",
+                []
+            ],
+            [
+                "March 28 , 2018",
+                []
+            ],
+            [
+                "Various computers , consoles , and arcade systems",
+                []
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "New BSD , GPLv2 or later",
+                [
+                    "/wiki/New_BSD",
+                    "/wiki/GPLv2"
+                ],
+                [
+                    {
+                        "entity id": "Q18491847",
+                        "label": "3-clause BSD License"
+                    },
+                    {
+                        "entity id": "Q10513450",
+                        "label": "GNU General Public License, version 2.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Model-B",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "April 10 , 2004",
+                []
+            ],
+            [
+                "BBC Micro",
+                [
+                    "/wiki/BBC_Micro"
+                ],
+                [
+                    {
+                        "entity id": "Q749976",
+                        "label": "BBC Micro"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                []
+            ],
+            [
+                "Open Source",
+                [
+                    "/wiki/Open_Source"
+                ],
+                [
+                    {
+                        "entity id": "Q39162",
+                        "label": "open source"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Owl",
+                []
+            ],
+            [
+                "1.1.0",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "BBC Micro",
+                [
+                    "/wiki/BBC_Micro"
+                ],
+                [
+                    {
+                        "entity id": "Q749976",
+                        "label": "BBC Micro"
+                    }
+                ]
+            ],
+            [
+                "NeXTStep",
+                [
+                    "/wiki/NeXTStep"
+                ],
+                [
+                    {
+                        "entity id": "Q831367",
+                        "label": "NeXTSTEP"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Xbeeb",
+                []
+            ],
+            [
+                "0.4.1",
+                []
+            ],
+            [
+                "January 15 , 2002",
+                []
+            ],
+            [
+                "BBC Micro",
+                [
+                    "/wiki/BBC_Micro"
+                ],
+                [
+                    {
+                        "entity id": "Q749976",
+                        "label": "BBC Micro"
+                    }
+                ]
+            ],
+            [
+                "Unix",
+                [
+                    "/wiki/Unix"
+                ],
+                [
+                    {
+                        "entity id": "Q14656",
+                        "label": "Unix-like operating system"
+                    }
+                ]
+            ],
+            [
+                "Open Source",
+                [
+                    "/wiki/Open_Source"
+                ],
+                [
+                    {
+                        "entity id": "Q39162",
+                        "label": "open source"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "8-bit guest systems -- BBC Micro",
+    "section_text": "",
+    "uid": "List_of_computer_system_emulators_50",
+    "intro": "This article lists software and hardware that emulates computing platforms. The host in this article is the system running the emulator, and the guest is the system being emulated. The list is organized by guest operating system (the system being emulated), grouped by bitness. Each section contains a list of emulators capable of emulating the specified guest, details of the range of guest systems able to be emulated, and the required host environment and licensing."
+}

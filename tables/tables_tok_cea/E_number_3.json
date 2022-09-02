@@ -1,0 +1,712 @@
+{
+    "url": "https://en.wikipedia.org/wiki/E_number",
+    "title": "E number",
+    "header": [
+        [
+            "Code",
+            []
+        ],
+        [
+            "Name ( s )",
+            []
+        ],
+        [
+            "Purpose",
+            []
+        ],
+        [
+            "Status",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "E400",
+                [
+                    "/wiki/Alginic_acid"
+                ],
+                [
+                    {
+                        "entity id": "Q422092",
+                        "label": "alginic acid"
+                    }
+                ]
+            ],
+            [
+                "Alginic acid ( thickener ) ( stabiliser ) ( gelling agent )",
+                [
+                    "/wiki/Alginic_acid",
+                    "/wiki/Gelling_agent"
+                ],
+                [
+                    {
+                        "entity id": "Q422092",
+                        "label": "alginic acid"
+                    },
+                    {
+                        "entity id": "Q27862636",
+                        "label": "gelling agent"
+                    }
+                ]
+            ],
+            [
+                "emulsifier",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E401",
+                [
+                    "/wiki/E401"
+                ],
+                [
+                    {
+                        "entity id": "Q1922885",
+                        "label": "European route E401"
+                    }
+                ]
+            ],
+            [
+                "Sodium alginate ( thickener ) ( stabiliser ) ( gelling agent )",
+                [
+                    "/wiki/Sodium_alginate",
+                    "/wiki/Gelling_agent"
+                ],
+                [
+                    {
+                        "entity id": "Q1187513",
+                        "label": "sodium alginate"
+                    },
+                    {
+                        "entity id": "Q27862636",
+                        "label": "gelling agent"
+                    }
+                ]
+            ],
+            [
+                "emulsifier",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E402",
+                [
+                    "/wiki/E402"
+                ],
+                [
+                    {
+                        "entity id": "Q644844",
+                        "label": "European route E402"
+                    }
+                ]
+            ],
+            [
+                "Potassium alginate ( thickener ) ( stabiliser ) ( gelling agent )",
+                [
+                    "/wiki/Potassium_alginate",
+                    "/wiki/Gelling_agent"
+                ],
+                [
+                    {
+                        "entity id": "Q1122863",
+                        "label": "potassium alginate"
+                    },
+                    {
+                        "entity id": "Q27862636",
+                        "label": "gelling agent"
+                    }
+                ]
+            ],
+            [
+                "emulsifier",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E403",
+                [
+                    "/wiki/E403"
+                ],
+                [
+                    {
+                        "entity id": "Q2679997",
+                        "label": "European route E403"
+                    }
+                ]
+            ],
+            [
+                "Ammonium alginate ( thickener ) ( stabiliser )",
+                []
+            ],
+            [
+                "emulsifier",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E404",
+                [
+                    "/wiki/E404"
+                ],
+                [
+                    {
+                        "entity id": "Q2771746",
+                        "label": "European route E404"
+                    }
+                ]
+            ],
+            [
+                "Calcium alginate ( thickener ) ( stabiliser ) ( gelling agent )",
+                [
+                    "/wiki/Calcium_alginate",
+                    "/wiki/Gelling_agent"
+                ],
+                [
+                    {
+                        "entity id": "Q2034064",
+                        "label": "Calcium alginate"
+                    },
+                    {
+                        "entity id": "Q27862636",
+                        "label": "gelling agent"
+                    }
+                ]
+            ],
+            [
+                "emulsifier",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E405",
+                [
+                    "/wiki/E405"
+                ],
+                [
+                    {
+                        "entity id": "Q2474785",
+                        "label": "propylene glycol alginate"
+                    }
+                ]
+            ],
+            [
+                "Propane-1,2-diol alginate ( Propylene glycol alginate ) ( thickener ) ( stabiliser )",
+                [
+                    "/wiki/Propane-1,2-diol_alginate",
+                    "/wiki/Propylene_glycol_alginate"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q2474785",
+                        "label": "propylene glycol alginate"
+                    }
+                ]
+            ],
+            [
+                "emulsifier",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E406",
+                [
+                    "/wiki/E406"
+                ],
+                [
+                    {
+                        "entity id": "Q177998",
+                        "label": "agar"
+                    }
+                ]
+            ],
+            [
+                "Agar ( thickener ) ( gelling agent )",
+                [
+                    "/wiki/Agar",
+                    "/wiki/Gelling_agent"
+                ],
+                [
+                    {
+                        "entity id": "Q177998",
+                        "label": "agar"
+                    },
+                    {
+                        "entity id": "Q27862636",
+                        "label": "gelling agent"
+                    }
+                ]
+            ],
+            [
+                "stabiliser",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E407",
+                [
+                    "/wiki/E407"
+                ],
+                [
+                    {
+                        "entity id": "Q421991",
+                        "label": "carrageenan"
+                    }
+                ]
+            ],
+            [
+                "Carrageenan ( thickener ) ( stabiliser ) ( gelling agent )",
+                [
+                    "/wiki/Carrageenan",
+                    "/wiki/Gelling_agent"
+                ],
+                [
+                    {
+                        "entity id": "Q421991",
+                        "label": "carrageenan"
+                    },
+                    {
+                        "entity id": "Q27862636",
+                        "label": "gelling agent"
+                    }
+                ]
+            ],
+            [
+                "emulsifier",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E407a",
+                [
+                    "/wiki/E407a"
+                ],
+                [
+                    {
+                        "entity id": "Q421991",
+                        "label": "carrageenan"
+                    }
+                ]
+            ],
+            [
+                "Processed eucheuma seaweed ( thickener ) ( stabiliser ) ( gelling agent )",
+                [
+                    "/wiki/Carrageenan",
+                    "/wiki/Gelling_agent"
+                ],
+                [
+                    {
+                        "entity id": "Q421991",
+                        "label": "carrageenan"
+                    },
+                    {
+                        "entity id": "Q27862636",
+                        "label": "gelling agent"
+                    }
+                ]
+            ],
+            [
+                "emulsifier",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E408",
+                []
+            ],
+            [
+                "Bakers yeast glycan",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "E409",
+                [
+                    "/wiki/E409"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Arabinogalactan",
+                [
+                    "/wiki/Arabinogalactan"
+                ],
+                [
+                    {
+                        "entity id": "Q4783458",
+                        "label": "arabinogalactan"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "E410",
+                [
+                    "/wiki/Locust_bean_gum"
+                ],
+                [
+                    {
+                        "entity id": "Q221391",
+                        "label": "locust bean gum"
+                    }
+                ]
+            ],
+            [
+                "Locust bean gum ( Carob gum ) ( thickener ) ( stabiliser ) ( gelling agent )",
+                [
+                    "/wiki/Locust_bean_gum",
+                    "/wiki/Gelling_agent"
+                ],
+                [
+                    {
+                        "entity id": "Q221391",
+                        "label": "locust bean gum"
+                    },
+                    {
+                        "entity id": "Q27862636",
+                        "label": "gelling agent"
+                    }
+                ]
+            ],
+            [
+                "emulsifier",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E411",
+                []
+            ],
+            [
+                "Oat gum ( thickener )",
+                []
+            ],
+            [
+                "stabiliser",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "E412",
+                [
+                    "/wiki/Guar_gum"
+                ],
+                [
+                    {
+                        "entity id": "Q422071",
+                        "label": "guar gum"
+                    }
+                ]
+            ],
+            [
+                "Guar gum ( thickener )",
+                [
+                    "/wiki/Guar_gum"
+                ],
+                [
+                    {
+                        "entity id": "Q422071",
+                        "label": "guar gum"
+                    }
+                ]
+            ],
+            [
+                "stabiliser",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E413",
+                [
+                    "/wiki/E413"
+                ],
+                [
+                    {
+                        "entity id": "Q423901",
+                        "label": "Tragacanth"
+                    }
+                ]
+            ],
+            [
+                "Tragacanth ( thickener ) ( stabiliser )",
+                [
+                    "/wiki/Tragacanth"
+                ],
+                [
+                    {
+                        "entity id": "Q423901",
+                        "label": "Tragacanth"
+                    }
+                ]
+            ],
+            [
+                "emulsifier",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E414",
+                [
+                    "/wiki/E414"
+                ],
+                [
+                    {
+                        "entity id": "Q535814",
+                        "label": "gum arabic"
+                    }
+                ]
+            ],
+            [
+                "Acacia gum ( gum arabic ) ( thickener ) ( stabiliser )",
+                [
+                    "/wiki/Acacia_gum",
+                    "/wiki/Gum_arabic"
+                ],
+                [
+                    {
+                        "entity id": "Q535814",
+                        "label": "gum arabic"
+                    },
+                    {
+                        "entity id": "Q535814",
+                        "label": "gum arabic"
+                    }
+                ]
+            ],
+            [
+                "emulsifier",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E415",
+                [
+                    "/wiki/E415"
+                ],
+                [
+                    {
+                        "entity id": "Q410768",
+                        "label": "Xanthan gum"
+                    }
+                ]
+            ],
+            [
+                "Xanthan gum ( thickener )",
+                [
+                    "/wiki/Xanthan_gum"
+                ],
+                [
+                    {
+                        "entity id": "Q410768",
+                        "label": "Xanthan gum"
+                    }
+                ]
+            ],
+            [
+                "stabiliser",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E416",
+                [
+                    "/wiki/E416"
+                ],
+                [
+                    {
+                        "entity id": "Q421167",
+                        "label": "gum karaya"
+                    }
+                ]
+            ],
+            [
+                "Karaya gum ( thickener ) ( stabiliser )",
+                [
+                    "/wiki/Karaya_gum"
+                ],
+                [
+                    {
+                        "entity id": "Q42994424",
+                        "label": "Karaya gum electrocardiographic electrodes for preterm infants."
+                    }
+                ]
+            ],
+            [
+                "emulsifier",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E417",
+                [
+                    "/wiki/E417"
+                ],
+                [
+                    {
+                        "entity id": "Q15089452",
+                        "label": "tara gum"
+                    }
+                ]
+            ],
+            [
+                "Tara gum ( thickener )",
+                [
+                    "/wiki/Tara_gum"
+                ],
+                [
+                    {
+                        "entity id": "Q15089452",
+                        "label": "tara gum"
+                    }
+                ]
+            ],
+            [
+                "stabiliser",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E418",
+                [
+                    "/wiki/E418"
+                ],
+                [
+                    {
+                        "entity id": "Q54831709",
+                        "label": "E4181324"
+                    }
+                ]
+            ],
+            [
+                "Gellan gum ( thickener ) ( stabiliser )",
+                [
+                    "/wiki/Gellan_gum"
+                ],
+                [
+                    {
+                        "entity id": "Q416694",
+                        "label": "gellan gum"
+                    }
+                ]
+            ],
+            [
+                "emulsifier",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Full list -- E400\u2013E499 ( thickeners , stabilisers , emulsifiers )",
+    "section_text": "",
+    "uid": "E_number_3",
+    "intro": "E numbers (E stands for Europe) are codes for substances used as food additives for use within the European Union (EU) and European Free Trade Association (EFTA). Commonly found on food labels, their safety assessment and approval are the responsibility of the European Food Safety Authority (EFSA). Having a single unified list for food additives was first agreed upon in 1962 with food colouring. In 1964, the directives for preservatives were added, 1970 for antioxidants and 1974 for the emulsifiers, stabilisers, thickeners and gelling agents."
+}

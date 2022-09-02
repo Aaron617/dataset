@@ -1,0 +1,601 @@
+{
+    "url": "https://en.wikipedia.org/wiki/EuroCity_in_Germany",
+    "title": "EuroCity in Germany",
+    "header": [
+        [
+            "#",
+            []
+        ],
+        [
+            "Line",
+            []
+        ],
+        [
+            "Route",
+            []
+        ],
+        [
+            "Countries",
+            []
+        ],
+        [
+            "Frequency",
+            []
+        ],
+        [
+            "Notes",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "118-119",
+                []
+            ],
+            [
+                "32",
+                []
+            ],
+            [
+                "M\u00fcnster - Cologne - Koblenz - Stuttgart - Lindau - Bregenz - Innsbruck - Salzburg",
+                [
+                    "/wiki/M\u00fcnster",
+                    "/wiki/Cologne",
+                    "/wiki/Koblenz",
+                    "/wiki/Stuttgart",
+                    "/wiki/Lindau",
+                    "/wiki/Bregenz",
+                    "/wiki/Innsbruck",
+                    "/wiki/Salzburg"
+                ],
+                [
+                    {
+                        "entity id": "Q2742",
+                        "label": "M\u00fcnster"
+                    },
+                    {
+                        "entity id": "Q365",
+                        "label": "Cologne"
+                    },
+                    {
+                        "entity id": "Q3104",
+                        "label": "Koblenz"
+                    },
+                    {
+                        "entity id": "Q1022",
+                        "label": "Stuttgart"
+                    },
+                    {
+                        "entity id": "Q153969",
+                        "label": "Lindau"
+                    },
+                    {
+                        "entity id": "Q1737",
+                        "label": "Bregenz"
+                    },
+                    {
+                        "entity id": "Q1735",
+                        "label": "Innsbruck"
+                    },
+                    {
+                        "entity id": "Q34713",
+                        "label": "Salzburg"
+                    }
+                ]
+            ],
+            [
+                "Austria",
+                [
+                    "/wiki/Austria"
+                ],
+                [
+                    {
+                        "entity id": "Q40",
+                        "label": "Austria"
+                    }
+                ]
+            ],
+            [
+                "1 per day",
+                []
+            ],
+            [
+                "\u00d6BB coaching stock",
+                [
+                    "/wiki/\u00d6BB"
+                ],
+                [
+                    {
+                        "entity id": "Q83822",
+                        "label": "\u00d6sterreichische Bundesbahnen"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "130-134 , 137 , 231",
+                []
+            ],
+            [
+                "35",
+                []
+            ],
+            [
+                "Norddeich Mole - Emden - M\u00fcnster - Oberhausen - D\u00fcsseldorf - Cologne - Koblenz - Trier - Luxembourg",
+                [
+                    "/wiki/Norddeich_Mole_station",
+                    "/wiki/Emden",
+                    "/wiki/M\u00fcnster",
+                    "/wiki/Oberhausen",
+                    "/wiki/D\u00fcsseldorf",
+                    "/wiki/Cologne",
+                    "/wiki/Koblenz",
+                    "/wiki/Trier",
+                    "/wiki/Luxembourg"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q4174",
+                        "label": "Emden"
+                    },
+                    {
+                        "entity id": "Q2742",
+                        "label": "M\u00fcnster"
+                    },
+                    {
+                        "entity id": "Q2838",
+                        "label": "Oberhausen"
+                    },
+                    {
+                        "entity id": "Q1718",
+                        "label": "D\u00fcsseldorf"
+                    },
+                    {
+                        "entity id": "Q365",
+                        "label": "Cologne"
+                    },
+                    {
+                        "entity id": "Q3104",
+                        "label": "Koblenz"
+                    },
+                    {
+                        "entity id": "Q3138",
+                        "label": "Trier"
+                    },
+                    {
+                        "entity id": "Q32",
+                        "label": "Luxembourg"
+                    }
+                ]
+            ],
+            [
+                "Luxembourg",
+                [
+                    "/wiki/Luxembourg"
+                ],
+                [
+                    {
+                        "entity id": "Q32",
+                        "label": "Luxembourg"
+                    }
+                ]
+            ],
+            [
+                "3 per day",
+                []
+            ],
+            [
+                "ex- InterRegio",
+                [
+                    "/wiki/InterRegio"
+                ],
+                [
+                    {
+                        "entity id": "Q621055",
+                        "label": "InterRegio"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "140-149 , 240-243",
+                []
+            ],
+            [
+                "77",
+                []
+            ],
+            [
+                "Berlin - Hannover - Osnabr\u00fcck - Bad Bentheim - Amsterdam",
+                [
+                    "/wiki/Berlin",
+                    "/wiki/Hannover",
+                    "/wiki/Osnabr\u00fcck",
+                    "/wiki/Bad_Bentheim",
+                    "/wiki/Amsterdam"
+                ],
+                [
+                    {
+                        "entity id": "Q64",
+                        "label": "Berlin"
+                    },
+                    {
+                        "entity id": "Q1715",
+                        "label": "Hanover"
+                    },
+                    {
+                        "entity id": "Q2916",
+                        "label": "Osnabr\u00fcck"
+                    },
+                    {
+                        "entity id": "Q574332",
+                        "label": "Bad Bentheim"
+                    },
+                    {
+                        "entity id": "Q727",
+                        "label": "Amsterdam"
+                    }
+                ]
+            ],
+            [
+                "Netherlands",
+                [
+                    "/wiki/Netherlands"
+                ],
+                [
+                    {
+                        "entity id": "Q55",
+                        "label": "Netherlands"
+                    }
+                ]
+            ],
+            [
+                "8 per day",
+                []
+            ],
+            [
+                "ex- InterRegio",
+                [
+                    "/wiki/InterRegio"
+                ],
+                [
+                    {
+                        "entity id": "Q621055",
+                        "label": "InterRegio"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "180-187 , 280-285",
+                []
+            ],
+            [
+                "87",
+                []
+            ],
+            [
+                "Stuttgart - Singen - Schaffhausen - Zurich",
+                [
+                    "/wiki/Stuttgart",
+                    "/wiki/Singen",
+                    "/wiki/Schaffhausen",
+                    "/wiki/Zurich"
+                ],
+                [
+                    {
+                        "entity id": "Q1022",
+                        "label": "Stuttgart"
+                    },
+                    {
+                        "entity id": "Q6979",
+                        "label": "Singen (Hohentwiel)"
+                    },
+                    {
+                        "entity id": "Q12697",
+                        "label": "canton of Schaffhausen"
+                    },
+                    {
+                        "entity id": "Q72",
+                        "label": "Z\u00fcrich"
+                    }
+                ]
+            ],
+            [
+                "Switzerland",
+                [
+                    "/wiki/Switzerland"
+                ],
+                [
+                    {
+                        "entity id": "Q39",
+                        "label": "Switzerland"
+                    }
+                ]
+            ],
+            [
+                "7 per day",
+                []
+            ],
+            [
+                "SBB coaching stock",
+                [
+                    "/wiki/SBB-CFF-FFS"
+                ],
+                [
+                    {
+                        "entity id": "Q83835",
+                        "label": "Swiss Federal Railways"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "360-361",
+                []
+            ],
+            [
+                "60",
+                []
+            ],
+            [
+                "Munich - Stuttgart - Karlsruhe - Strasbourg",
+                [
+                    "/wiki/Munich",
+                    "/wiki/Stuttgart",
+                    "/wiki/Karlsruhe",
+                    "/wiki/Strasbourg"
+                ],
+                [
+                    {
+                        "entity id": "Q1726",
+                        "label": "Munich"
+                    },
+                    {
+                        "entity id": "Q1022",
+                        "label": "Stuttgart"
+                    },
+                    {
+                        "entity id": "Q1040",
+                        "label": "Karlsruhe"
+                    },
+                    {
+                        "entity id": "Q6602",
+                        "label": "Strasbourg"
+                    }
+                ]
+            ],
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "1 per day",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "382-387",
+                []
+            ],
+            [
+                "76",
+                []
+            ],
+            [
+                "Hamburg - Flensburg - Fredericia - Aarhus",
+                [
+                    "/wiki/Hamburg",
+                    "/wiki/Flensburg",
+                    "/wiki/Fredericia",
+                    "/wiki/Aarhus"
+                ],
+                [
+                    {
+                        "entity id": "Q1055",
+                        "label": "Hamburg"
+                    },
+                    {
+                        "entity id": "Q3798",
+                        "label": "Flensburg"
+                    },
+                    {
+                        "entity id": "Q21181",
+                        "label": "Fredericia"
+                    },
+                    {
+                        "entity id": "Q25319",
+                        "label": "Aarhus"
+                    }
+                ]
+            ],
+            [
+                "Denmark",
+                [
+                    "/wiki/Denmark"
+                ],
+                [
+                    {
+                        "entity id": "Q35",
+                        "label": "Denmark"
+                    }
+                ]
+            ],
+            [
+                "3 per day",
+                []
+            ],
+            [
+                "DSB",
+                [
+                    "/wiki/DSB_(railway_company)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "392-399",
+                []
+            ],
+            [
+                "75",
+                []
+            ],
+            [
+                "Hamburg - Kolding - Odense - Copenhagen",
+                [
+                    "/wiki/Hamburg",
+                    "/wiki/Kolding",
+                    "/wiki/Odense",
+                    "/wiki/Copenhagen"
+                ],
+                [
+                    {
+                        "entity id": "Q1055",
+                        "label": "Hamburg"
+                    },
+                    {
+                        "entity id": "Q27119",
+                        "label": "Kolding"
+                    },
+                    {
+                        "entity id": "Q25331",
+                        "label": "Odense"
+                    },
+                    {
+                        "entity id": "Q1748",
+                        "label": "Copenhagen"
+                    }
+                ]
+            ],
+            [
+                "Denmark",
+                [
+                    "/wiki/Denmark"
+                ],
+                [
+                    {
+                        "entity id": "Q35",
+                        "label": "Denmark"
+                    }
+                ]
+            ],
+            [
+                "4 per day",
+                []
+            ],
+            [
+                "DSB",
+                [
+                    "/wiki/DSB_(railway_company)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "1280-1284",
+                []
+            ],
+            [
+                "26",
+                []
+            ],
+            [
+                "Flensburg - Hamburg - Hannover - W\u00fcrzburg - Augsburg - Munich - Zell am See - Schwarzach St. Veit",
+                [
+                    "/wiki/Flensburg",
+                    "/wiki/Hamburg",
+                    "/wiki/Hannover",
+                    "/wiki/W\u00fcrzburg",
+                    "/wiki/Augsburg",
+                    "/wiki/Munich",
+                    "/wiki/Zell_am_See",
+                    "/wiki/Schwarzach_im_Pongau"
+                ],
+                [
+                    {
+                        "entity id": "Q3798",
+                        "label": "Flensburg"
+                    },
+                    {
+                        "entity id": "Q1055",
+                        "label": "Hamburg"
+                    },
+                    {
+                        "entity id": "Q1715",
+                        "label": "Hanover"
+                    },
+                    {
+                        "entity id": "Q2999",
+                        "label": "W\u00fcrzburg"
+                    },
+                    {
+                        "entity id": "Q2749",
+                        "label": "Augsburg"
+                    },
+                    {
+                        "entity id": "Q1726",
+                        "label": "Munich"
+                    },
+                    {
+                        "entity id": "Q187572",
+                        "label": "Zell am See"
+                    },
+                    {
+                        "entity id": "Q253179",
+                        "label": "Schwarzach im Pongau"
+                    }
+                ]
+            ],
+            [
+                "Austria",
+                [
+                    "/wiki/Austria"
+                ],
+                [
+                    {
+                        "entity id": "Q40",
+                        "label": "Austria"
+                    }
+                ]
+            ],
+            [
+                "1 per day",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Intercity services that cross borders",
+    "section_text": "A number of trains provide international connections , but are classed as Intercity rather than Eurocity . This may be because the routes were former InterRegio services , or they only travel a short distance over the border .",
+    "uid": "EuroCity_in_Germany_1",
+    "intro": "The German rail network provides connections to each of its neighbouring countries, many of which are under the EuroCity classification. EuroCity services are part of the Intercity network - many EC services represented a couple of train pairs on an IC route extended across the border, while other routes are served primarily by EuroCity services. EuroCity services are generally locomotive-hauled, using Intercity rolling stock, either from Deutsche Bahn or one of the other countries along the route."
+}

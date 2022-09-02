@@ -1,0 +1,495 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_TLS_implementations",
+    "title": "Comparison of TLS implementations",
+    "header": [
+        [
+            "Implementation",
+            []
+        ],
+        [
+            "TPM support",
+            [
+                "/wiki/Trusted_Platform_Module"
+            ],
+            [
+                {
+                    "entity id": "Q1140366",
+                    "label": "Trusted Platform Module"
+                }
+            ]
+        ],
+        [
+            "Hardware token support",
+            []
+        ],
+        [
+            "Objects identified via",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Botan",
+                [
+                    "/wiki/Botan_(programming_library)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Partial",
+                []
+            ],
+            [
+                "PKCS11",
+                [
+                    "/wiki/PKCS11"
+                ],
+                [
+                    {
+                        "entity id": "Q4046206",
+                        "label": "Public Key Cryptography Standard 11"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "cryptlib",
+                [
+                    "/wiki/Cryptlib"
+                ],
+                [
+                    {
+                        "entity id": "Q309604",
+                        "label": "cryptlib"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "PKCS11",
+                [
+                    "/wiki/PKCS11"
+                ],
+                [
+                    {
+                        "entity id": "Q4046206",
+                        "label": "Public Key Cryptography Standard 11"
+                    }
+                ]
+            ],
+            [
+                "User-defined label",
+                []
+            ]
+        ],
+        [
+            [
+                "GnuTLS",
+                [
+                    "/wiki/GnuTLS"
+                ],
+                [
+                    {
+                        "entity id": "Q1533305",
+                        "label": "GnuTLS"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "PKCS11",
+                [
+                    "/wiki/PKCS11"
+                ],
+                [
+                    {
+                        "entity id": "Q4046206",
+                        "label": "Public Key Cryptography Standard 11"
+                    }
+                ]
+            ],
+            [
+                "RFC7512 PKCS # 11 URLs",
+                []
+            ]
+        ],
+        [
+            [
+                "JSSE",
+                [
+                    "/wiki/Java_Secure_Socket_Extension"
+                ],
+                [
+                    {
+                        "entity id": "Q1041302",
+                        "label": "Java Secure Socket Extension"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "PKCS11 Java Cryptography Architecture , Java Cryptography Extension",
+                [
+                    "/wiki/PKCS11",
+                    "/wiki/Java_Cryptography_Architecture",
+                    "/wiki/Java_Cryptography_Extension"
+                ],
+                [
+                    {
+                        "entity id": "Q4046206",
+                        "label": "Public Key Cryptography Standard 11"
+                    },
+                    {
+                        "entity id": "Q4041804",
+                        "label": "Java Cryptography Architecture"
+                    },
+                    {
+                        "entity id": "Q1684186",
+                        "label": "Java Cryptography Extension"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "LibreSSL",
+                [
+                    "/wiki/LibreSSL"
+                ],
+                [
+                    {
+                        "entity id": "Q16590706",
+                        "label": "LibreSSL"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "PKCS11 ( via 3rd party module )",
+                [
+                    "/wiki/PKCS11"
+                ],
+                [
+                    {
+                        "entity id": "Q4046206",
+                        "label": "Public Key Cryptography Standard 11"
+                    }
+                ]
+            ],
+            [
+                "Custom method",
+                []
+            ]
+        ],
+        [
+            [
+                "MatrixSSL",
+                [
+                    "/wiki/MatrixSSL"
+                ],
+                [
+                    {
+                        "entity id": "Q6787839",
+                        "label": "MatrixSSL"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "PKCS11",
+                [
+                    "/wiki/PKCS11"
+                ],
+                [
+                    {
+                        "entity id": "Q4046206",
+                        "label": "Public Key Cryptography Standard 11"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Mbed TLS",
+                [
+                    "/wiki/Mbed_TLS"
+                ],
+                [
+                    {
+                        "entity id": "Q7208994",
+                        "label": "mbed TLS"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "PKCS11 ( via libpkcs11-helper ) or standard hooks",
+                [
+                    "/wiki/PKCS11"
+                ],
+                [
+                    {
+                        "entity id": "Q4046206",
+                        "label": "Public Key Cryptography Standard 11"
+                    }
+                ]
+            ],
+            [
+                "Custom method",
+                []
+            ]
+        ],
+        [
+            [
+                "NSS",
+                [
+                    "/wiki/Network_Security_Services"
+                ],
+                [
+                    {
+                        "entity id": "Q7000904",
+                        "label": "Network Security Services"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "PKCS11",
+                [
+                    "/wiki/PKCS11"
+                ],
+                [
+                    {
+                        "entity id": "Q4046206",
+                        "label": "Public Key Cryptography Standard 11"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "OpenSSL",
+                [
+                    "/wiki/OpenSSL"
+                ],
+                [
+                    {
+                        "entity id": "Q1052790",
+                        "label": "OpenSSL"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "PKCS11 ( via 3rd party module )",
+                [
+                    "/wiki/PKCS11"
+                ],
+                [
+                    {
+                        "entity id": "Q4046206",
+                        "label": "Public Key Cryptography Standard 11"
+                    }
+                ]
+            ],
+            [
+                "RFC7512 PKCS # 11 URLs",
+                []
+            ]
+        ],
+        [
+            [
+                "RSA BSAFE Micro-Edition Suite",
+                [
+                    "/wiki/RSA_BSAFE"
+                ],
+                [
+                    {
+                        "entity id": "Q17083990",
+                        "label": "RSA BSAFE"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "PKCS11 ( via 3rd party module )",
+                [
+                    "/wiki/PKCS11"
+                ],
+                [
+                    {
+                        "entity id": "Q4046206",
+                        "label": "Public Key Cryptography Standard 11"
+                    }
+                ]
+            ],
+            [
+                "User-defined label",
+                []
+            ]
+        ],
+        [
+            [
+                "RSA BSAFE SSL-J",
+                [
+                    "/wiki/RSA_BSAFE"
+                ],
+                [
+                    {
+                        "entity id": "Q17083990",
+                        "label": "RSA BSAFE"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "SChannel",
+                [
+                    "/wiki/SChannel"
+                ],
+                [
+                    {
+                        "entity id": "Q4049250",
+                        "label": "Security Support Provider Interface"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Microsoft CryptoAPI",
+                [
+                    "/wiki/Microsoft_CryptoAPI"
+                ],
+                [
+                    {
+                        "entity id": "Q1142291",
+                        "label": "Microsoft CryptoAPI"
+                    }
+                ]
+            ],
+            [
+                "UUID , User-defined label",
+                []
+            ]
+        ],
+        [
+            [
+                "wolfSSL",
+                [
+                    "/wiki/WolfSSL"
+                ],
+                [
+                    {
+                        "entity id": "Q5197351",
+                        "label": "wolfSSL"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "PKCS11",
+                [
+                    "/wiki/PKCS11"
+                ],
+                [
+                    {
+                        "entity id": "Q4046206",
+                        "label": "Public Key Cryptography Standard 11"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Implementation",
+                []
+            ],
+            [
+                "TPM support",
+                []
+            ],
+            [
+                "Hardware token support",
+                []
+            ],
+            [
+                "Objects identified via",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Cryptographic module/token support",
+    "section_text": "",
+    "uid": "Comparison_of_TLS_implementations_17",
+    "intro": "The Transport Layer Security (TLS) protocol provides the ability to secure communications across networks. This comparison of TLS implementations compares several of the most notable libraries. There are several TLS implementations which are free software and open source. All comparison categories use the stable version of each implementation listed in the overview section. The comparison is limited to features that directly relate to the TLS protocol."
+}

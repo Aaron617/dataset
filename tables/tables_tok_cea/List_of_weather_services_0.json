@@ -1,0 +1,696 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_weather_services",
+    "title": "List of weather services",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Coverage",
+            []
+        ],
+        [
+            "Type",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "NBC Weather Plus",
+                [
+                    "/wiki/NBC_Weather_Plus"
+                ],
+                [
+                    {
+                        "entity id": "Q6952799",
+                        "label": "NBC Weather Plus"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Global",
+                []
+            ],
+            [
+                "TV",
+                []
+            ]
+        ],
+        [
+            [
+                "The Weather Channel",
+                [
+                    "/wiki/The_Weather_Channel"
+                ],
+                [
+                    {
+                        "entity id": "Q2043935",
+                        "label": "The Weather Channel"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Global",
+                []
+            ],
+            [
+                "TV",
+                []
+            ]
+        ],
+        [
+            [
+                "Weather Underground",
+                [
+                    "/wiki/Weather_Underground_(weather_service)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Global",
+                []
+            ],
+            [
+                "Web",
+                []
+            ]
+        ],
+        [
+            [
+                "The Weather Network",
+                [
+                    "/wiki/The_Weather_Network"
+                ],
+                [
+                    {
+                        "entity id": "Q664520",
+                        "label": "The Weather Network"
+                    }
+                ]
+            ],
+            [
+                "Canada",
+                [
+                    "/wiki/Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q16",
+                        "label": "Canada"
+                    }
+                ]
+            ],
+            [
+                "National",
+                []
+            ],
+            [
+                "TV",
+                []
+            ]
+        ],
+        [
+            [
+                "M\u00e9t\u00e9oM\u00e9dia",
+                [
+                    "/wiki/M\u00e9t\u00e9oM\u00e9dia"
+                ],
+                [
+                    {
+                        "entity id": "Q3333904",
+                        "label": "M\u00e9t\u00e9oM\u00e9dia"
+                    }
+                ]
+            ],
+            [
+                "Canada",
+                [
+                    "/wiki/Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q16",
+                        "label": "Canada"
+                    }
+                ]
+            ],
+            [
+                "National",
+                []
+            ],
+            [
+                "TV",
+                []
+            ]
+        ],
+        [
+            [
+                "AccuWeather",
+                [
+                    "/wiki/AccuWeather"
+                ],
+                [
+                    {
+                        "entity id": "Q2822885",
+                        "label": "AccuWeather"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "National",
+                []
+            ],
+            [
+                "WEB",
+                []
+            ]
+        ],
+        [
+            [
+                "The Local AccuWeather Channel",
+                [
+                    "/wiki/The_Local_AccuWeather_Channel"
+                ],
+                [
+                    {
+                        "entity id": "Q7747948",
+                        "label": "The Local AccuWeather Channel"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "National",
+                []
+            ],
+            [
+                "TV",
+                []
+            ]
+        ],
+        [
+            [
+                "NOAA Weather Radio",
+                [
+                    "/wiki/NOAA_Weather_Radio"
+                ],
+                [
+                    {
+                        "entity id": "Q10751397",
+                        "label": "NOAA Weather Radio"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "National",
+                []
+            ],
+            [
+                "Radio",
+                []
+            ]
+        ],
+        [
+            [
+                "Weatheradio Canada",
+                [
+                    "/wiki/Weatheradio_Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q17034793",
+                        "label": "Weatheradio Canada"
+                    }
+                ]
+            ],
+            [
+                "Canada",
+                [
+                    "/wiki/Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q16",
+                        "label": "Canada"
+                    }
+                ]
+            ],
+            [
+                "National",
+                []
+            ],
+            [
+                "Radio",
+                []
+            ]
+        ],
+        [
+            [
+                "Bermuda Radio",
+                [
+                    "/wiki/Bermuda_Radio"
+                ],
+                [
+                    {
+                        "entity id": "Q4892651",
+                        "label": "Bermuda Radio"
+                    }
+                ]
+            ],
+            [
+                "Bermuda",
+                [
+                    "/wiki/Bermuda"
+                ],
+                [
+                    {
+                        "entity id": "Q23635",
+                        "label": "Bermuda"
+                    }
+                ]
+            ],
+            [
+                "Regional",
+                []
+            ],
+            [
+                "Radio",
+                []
+            ]
+        ],
+        [
+            [
+                "National Severe Weather Warning Service",
+                [
+                    "/wiki/National_Severe_Weather_Warning_Service"
+                ],
+                [
+                    {
+                        "entity id": "Q6978403",
+                        "label": "National Severe Weather Warning Service"
+                    }
+                ]
+            ],
+            [
+                "UK",
+                [
+                    "/wiki/UK"
+                ],
+                [
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    }
+                ]
+            ],
+            [
+                "National",
+                []
+            ],
+            [
+                "TV , Radio , Web",
+                []
+            ]
+        ],
+        [
+            [
+                "Servizio Meteorologico",
+                [
+                    "/wiki/Servizio_Meteorologico"
+                ],
+                [
+                    {
+                        "entity id": "Q913858",
+                        "label": "Servizio Meteorologico"
+                    }
+                ]
+            ],
+            [
+                "Italy",
+                [
+                    "/wiki/Italy"
+                ],
+                [
+                    {
+                        "entity id": "Q38",
+                        "label": "Italy"
+                    }
+                ]
+            ],
+            [
+                "National",
+                []
+            ],
+            [
+                "TV , Radio ; Web",
+                []
+            ]
+        ],
+        [
+            [
+                "WTV Weather TV",
+                [
+                    "/wiki/WTV_Weather_TV"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Greece",
+                [
+                    "/wiki/Greece"
+                ],
+                [
+                    {
+                        "entity id": "Q41",
+                        "label": "Greece"
+                    }
+                ]
+            ],
+            [
+                "National",
+                []
+            ],
+            [
+                "TV",
+                []
+            ]
+        ],
+        [
+            [
+                "ITV Weather",
+                [
+                    "/wiki/ITV_Weather"
+                ],
+                [
+                    {
+                        "entity id": "Q3179379",
+                        "label": "ITV Weather"
+                    }
+                ]
+            ],
+            [
+                "UK",
+                [
+                    "/wiki/UK"
+                ],
+                [
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    }
+                ]
+            ],
+            [
+                "National",
+                []
+            ],
+            [
+                "TV",
+                []
+            ]
+        ],
+        [
+            [
+                "Weather Channel ( New Zealand )",
+                [
+                    "/wiki/Weather_Channel_(New_Zealand)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "New Zealand",
+                [
+                    "/wiki/New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q664",
+                        "label": "New Zealand"
+                    }
+                ]
+            ],
+            [
+                "National",
+                []
+            ],
+            [
+                "TV",
+                []
+            ]
+        ],
+        [
+            [
+                "BBC Weather",
+                [
+                    "/wiki/BBC_Weather"
+                ],
+                [
+                    {
+                        "entity id": "Q4835011",
+                        "label": "BBC Weather"
+                    }
+                ]
+            ],
+            [
+                "UK",
+                [
+                    "/wiki/UK"
+                ],
+                [
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    }
+                ]
+            ],
+            [
+                "National",
+                []
+            ],
+            [
+                "TV , Web",
+                []
+            ]
+        ],
+        [
+            [
+                "News 12 Traffic & Weather",
+                [
+                    "/wiki/News_12_Traffic_&_Weather"
+                ],
+                [
+                    {
+                        "entity id": "Q7019312",
+                        "label": "News 12+"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Regional",
+                []
+            ],
+            [
+                "TV",
+                []
+            ]
+        ],
+        [
+            [
+                "Sirius XM Weather & Emergency",
+                [
+                    "/wiki/Sirius_XM_Weather_&_Emergency"
+                ],
+                [
+                    {
+                        "entity id": "Q7530422",
+                        "label": "Sirius XM Weather & Emergency"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Regional",
+                []
+            ],
+            [
+                "Radio",
+                []
+            ]
+        ],
+        [
+            [
+                "The Weather Channel ( Australia )",
+                [
+                    "/wiki/The_Weather_Channel_(Australia)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Australia",
+                [
+                    "/wiki/Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q408",
+                        "label": "Australia"
+                    }
+                ]
+            ],
+            [
+                "National",
+                []
+            ],
+            [
+                "TV , Web",
+                []
+            ]
+        ],
+        [
+            [
+                "Continuous marine broadcast",
+                [
+                    "/wiki/Continuous_marine_broadcast"
+                ],
+                [
+                    {
+                        "entity id": "Q5165490",
+                        "label": "Continuous marine broadcast"
+                    }
+                ]
+            ],
+            [
+                "Canada",
+                [
+                    "/wiki/Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q16",
+                        "label": "Canada"
+                    }
+                ]
+            ],
+            [
+                "National",
+                []
+            ],
+            [
+                "Radio",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Radio , TV and online services",
+    "section_text": "",
+    "uid": "List_of_weather_services_0",
+    "intro": "This is a list of notable weather services. Criteria for inclusion:"
+}

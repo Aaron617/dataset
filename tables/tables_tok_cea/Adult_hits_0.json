@@ -1,0 +1,748 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Adult_hits",
+    "title": "Adult hits",
+    "header": [
+        [
+            "Location",
+            []
+        ],
+        [
+            "Call sign",
+            []
+        ],
+        [
+            "Frequency",
+            []
+        ],
+        [
+            "Brand Name",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Belleville , Ontario",
+                [
+                    "/wiki/Belleville,_Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q34227",
+                        "label": "Belleville"
+                    }
+                ]
+            ],
+            [
+                "CJOJ",
+                [
+                    "/wiki/CJOJ-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5012155",
+                        "label": "CJOJ-FM"
+                    }
+                ]
+            ],
+            [
+                "95.5 FM",
+                []
+            ],
+            [
+                "95-5 Hits FM",
+                []
+            ]
+        ],
+        [
+            [
+                "Brockville , Ontario",
+                [
+                    "/wiki/Brockville",
+                    "/wiki/Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q34047",
+                        "label": "Brockville"
+                    },
+                    {
+                        "entity id": "Q1904",
+                        "label": "Ontario"
+                    }
+                ]
+            ],
+            [
+                "CJPT",
+                [
+                    "/wiki/CJPT-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5012172",
+                        "label": "CJPT-FM"
+                    }
+                ]
+            ],
+            [
+                "103.7 FM",
+                []
+            ],
+            [
+                "Bob FM",
+                []
+            ]
+        ],
+        [
+            [
+                "Calgary , Alberta",
+                [
+                    "/wiki/Calgary",
+                    "/wiki/Alberta"
+                ],
+                [
+                    {
+                        "entity id": "Q36312",
+                        "label": "Calgary"
+                    },
+                    {
+                        "entity id": "Q1951",
+                        "label": "Alberta"
+                    }
+                ]
+            ],
+            [
+                "CJAQ",
+                [
+                    "/wiki/CJAQ-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5011996",
+                        "label": "CJAQ-FM"
+                    }
+                ]
+            ],
+            [
+                "96.9 FM",
+                []
+            ],
+            [
+                "Jack FM",
+                []
+            ]
+        ],
+        [
+            [
+                "Chatham / Windsor , Ontario",
+                [
+                    "/wiki/Chatham,_Ontario",
+                    "/wiki/Windsor,_Ontario",
+                    "/wiki/Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q5087616",
+                        "label": "Chatham"
+                    },
+                    {
+                        "entity id": "Q182625",
+                        "label": "Windsor"
+                    },
+                    {
+                        "entity id": "Q1904",
+                        "label": "Ontario"
+                    }
+                ]
+            ],
+            [
+                "CKUE",
+                [
+                    "/wiki/CKUE-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5012578",
+                        "label": "CKUE-FM"
+                    }
+                ]
+            ],
+            [
+                "95.1 and 100.7 FM",
+                []
+            ],
+            [
+                "Cool FM",
+                []
+            ]
+        ],
+        [
+            [
+                "Edmonton , Alberta",
+                [
+                    "/wiki/Edmonton",
+                    "/wiki/Alberta"
+                ],
+                [
+                    {
+                        "entity id": "Q2096",
+                        "label": "Edmonton"
+                    },
+                    {
+                        "entity id": "Q1951",
+                        "label": "Alberta"
+                    }
+                ]
+            ],
+            [
+                "CKNG",
+                [
+                    "/wiki/CKNG-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5012458",
+                        "label": "CKNG-FM"
+                    }
+                ]
+            ],
+            [
+                "92.5 FM",
+                []
+            ],
+            [
+                "Joe FM",
+                []
+            ]
+        ],
+        [
+            [
+                "Espanola , Ontario",
+                [
+                    "/wiki/Espanola,_Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q3058383",
+                        "label": "Espanola"
+                    }
+                ]
+            ],
+            [
+                "CJJM",
+                [
+                    "/wiki/CJJM-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5012091",
+                        "label": "CJJM-FM"
+                    }
+                ]
+            ],
+            [
+                "99.3 FM",
+                []
+            ],
+            [
+                "Moose FM",
+                []
+            ]
+        ],
+        [
+            [
+                "Halifax , Nova Scotia",
+                [
+                    "/wiki/Halifax_Regional_Municipality"
+                ],
+                [
+                    {
+                        "entity id": "Q2141",
+                        "label": "Halifax"
+                    }
+                ]
+            ],
+            [
+                "CFLT",
+                [
+                    "/wiki/CFLT-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5010678",
+                        "label": "CFLT-FM"
+                    }
+                ]
+            ],
+            [
+                "92.9 FM",
+                []
+            ],
+            [
+                "Jack FM",
+                []
+            ]
+        ],
+        [
+            [
+                "Kawartha Lakes , Ontario",
+                [
+                    "/wiki/Kawartha_Lakes,_Ontario",
+                    "/wiki/Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q384755",
+                        "label": "Kawartha Lakes"
+                    },
+                    {
+                        "entity id": "Q1904",
+                        "label": "Ontario"
+                    }
+                ]
+            ],
+            [
+                "CKLY",
+                [
+                    "/wiki/CKLY-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5012435",
+                        "label": "CKLY-FM"
+                    }
+                ]
+            ],
+            [
+                "91.9 FM",
+                []
+            ],
+            [
+                "Bob FM",
+                []
+            ]
+        ],
+        [
+            [
+                "Kelowna , British Columbia",
+                [
+                    "/wiki/Kelowna",
+                    "/wiki/British_Columbia"
+                ],
+                [
+                    {
+                        "entity id": "Q232226",
+                        "label": "Kelowna"
+                    },
+                    {
+                        "entity id": "Q1973",
+                        "label": "British Columbia"
+                    }
+                ]
+            ],
+            [
+                "CJUI",
+                [
+                    "/wiki/CJUI-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5012226",
+                        "label": "CJUI-FM"
+                    }
+                ]
+            ],
+            [
+                "103.9 FM",
+                []
+            ],
+            [
+                "Juice FM",
+                []
+            ]
+        ],
+        [
+            [
+                "London , Ontario",
+                [
+                    "/wiki/London,_Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q92561",
+                        "label": "London"
+                    }
+                ]
+            ],
+            [
+                "CHST",
+                [
+                    "/wiki/CHST-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5011359",
+                        "label": "CHST-FM"
+                    }
+                ]
+            ],
+            [
+                "102.3 FM",
+                []
+            ],
+            [
+                "Jack FM",
+                []
+            ]
+        ],
+        [
+            [
+                "Montreal , Quebec",
+                [
+                    "/wiki/Montreal",
+                    "/wiki/Quebec"
+                ],
+                [
+                    {
+                        "entity id": "Q340",
+                        "label": "Montreal"
+                    },
+                    {
+                        "entity id": "Q176",
+                        "label": "Quebec"
+                    }
+                ]
+            ],
+            [
+                "CKDG",
+                [
+                    "/wiki/CKDG-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5012336",
+                        "label": "CKDG-FM"
+                    }
+                ]
+            ],
+            [
+                "105.1 FM",
+                []
+            ],
+            [
+                "Mike FM",
+                []
+            ]
+        ],
+        [
+            [
+                "North Bay , Ontario",
+                [
+                    "/wiki/North_Bay,_Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q912253",
+                        "label": "North Bay"
+                    }
+                ]
+            ],
+            [
+                "CFXN",
+                [
+                    "/wiki/CFXN-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5010905",
+                        "label": "CFXN-FM"
+                    }
+                ]
+            ],
+            [
+                "106.3 FM",
+                []
+            ],
+            [
+                "Moose FM",
+                []
+            ]
+        ],
+        [
+            [
+                "Parry Sound , Ontario",
+                [
+                    "/wiki/Parry_Sound,_Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q2219667",
+                        "label": "Parry Sound"
+                    }
+                ]
+            ],
+            [
+                "CKLP",
+                [
+                    "/wiki/CKLP-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5012428",
+                        "label": "CKLP-FM"
+                    }
+                ]
+            ],
+            [
+                "103.3 FM",
+                []
+            ],
+            [
+                "Moose FM",
+                []
+            ]
+        ],
+        [
+            [
+                "Grande Prairie , Alberta",
+                [
+                    "/wiki/Grande_Prairie,_Alberta"
+                ],
+                [
+                    {
+                        "entity id": "Q642900",
+                        "label": "Grande Prairie"
+                    }
+                ]
+            ],
+            [
+                "CIKT",
+                [
+                    "/wiki/CIKT-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5011713",
+                        "label": "CIKT-FM"
+                    }
+                ]
+            ],
+            [
+                "98.9 FM",
+                []
+            ],
+            [
+                "Q99",
+                []
+            ]
+        ],
+        [
+            [
+                "Red Deer , Alberta",
+                [
+                    "/wiki/Red_Deer,_Alberta"
+                ],
+                [
+                    {
+                        "entity id": "Q23025",
+                        "label": "Red Deer"
+                    }
+                ]
+            ],
+            [
+                "CKRI",
+                [
+                    "/wiki/CKRI-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5012521",
+                        "label": "CKRI-FM"
+                    }
+                ]
+            ],
+            [
+                "100.7 FM",
+                []
+            ],
+            [
+                "Cruz FM",
+                []
+            ]
+        ],
+        [
+            [
+                "Regina , Saskatchewan",
+                [
+                    "/wiki/Regina,_Saskatchewan"
+                ],
+                [
+                    {
+                        "entity id": "Q2123",
+                        "label": "Regina"
+                    }
+                ]
+            ],
+            [
+                "CKCK",
+                [
+                    "/wiki/CKCK-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5012315",
+                        "label": "CKCK-FM"
+                    }
+                ]
+            ],
+            [
+                "94.5 FM",
+                []
+            ],
+            [
+                "Jack FM",
+                []
+            ]
+        ],
+        [
+            [
+                "Saskatoon , Saskatchewan",
+                [
+                    "/wiki/Saskatoon,_Saskatchewan"
+                ],
+                [
+                    {
+                        "entity id": "Q10566",
+                        "label": "Saskatoon"
+                    }
+                ]
+            ],
+            [
+                "CFWD",
+                [
+                    "/wiki/CFWD-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5010891",
+                        "label": "CFWD-FM"
+                    }
+                ]
+            ],
+            [
+                "96.3 FM",
+                []
+            ],
+            [
+                "Cruz FM",
+                []
+            ]
+        ],
+        [
+            [
+                "Smiths Falls , Ontario",
+                [
+                    "/wiki/Smiths_Falls,_Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q1938153",
+                        "label": "Smiths Falls"
+                    }
+                ]
+            ],
+            [
+                "CJET",
+                [
+                    "/wiki/CJET-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5012053",
+                        "label": "CJET-FM"
+                    }
+                ]
+            ],
+            [
+                "92.3 FM",
+                []
+            ],
+            [
+                "Jack FM",
+                []
+            ]
+        ],
+        [
+            [
+                "St. John 's , Newfoundland and Labrador",
+                [
+                    "/wiki/St._John's,_Newfoundland_and_Labrador"
+                ],
+                [
+                    {
+                        "entity id": "Q2082",
+                        "label": "St. John's"
+                    }
+                ]
+            ],
+            [
+                "CKSJ",
+                [
+                    "/wiki/CKSJ-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5012551",
+                        "label": "CKSJ-FM"
+                    }
+                ]
+            ],
+            [
+                "101.1 FM",
+                []
+            ],
+            [
+                "Coast 101.1",
+                []
+            ]
+        ],
+        [
+            [
+                "Sudbury , Ontario",
+                [
+                    "/wiki/Sudbury,_Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q383434",
+                        "label": "Greater Sudbury"
+                    }
+                ]
+            ],
+            [
+                "CHNO",
+                [
+                    "/wiki/CHNO-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5011239",
+                        "label": "CHNO-FM"
+                    }
+                ]
+            ],
+            [
+                "103.9 FM",
+                []
+            ],
+            [
+                "Rewind 103.9",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Radio stations -- Canada",
+    "section_text": "",
+    "uid": "Adult_hits_0",
+    "intro": "Adult hits (sometimes also called variety hits) is a radio format that draws from a wide array of popular music. The format typically focuses on adult contemporary, pop, and rock hits from the 1970s through at least the 1990s. Adult hits is essentially a deeper version of the classic hits format today, but at the inception of the format in the mid-2000s, the two formats were separate entities."
+}

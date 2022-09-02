@@ -1,0 +1,1075 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Sofia_Airport",
+    "title": "Sofia Airport",
+    "header": [
+        [
+            "City",
+            []
+        ],
+        [
+            "Airport ( s )",
+            []
+        ],
+        [
+            "Weekly Departures ( January 2020 )",
+            []
+        ],
+        [
+            "Airline ( s )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "London",
+                [
+                    "/wiki/London"
+                ],
+                [
+                    {
+                        "entity id": "Q84",
+                        "label": "London"
+                    }
+                ]
+            ],
+            [
+                "Gatwick Airport Heathrow Airport Luton Airport Southend Airport Stansted Airport",
+                [
+                    "/wiki/Gatwick_Airport",
+                    "/wiki/Heathrow_Airport",
+                    "/wiki/Luton_Airport",
+                    "/wiki/London_Southend_Airport",
+                    "/wiki/London_Stansted_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8703",
+                        "label": "Gatwick Airport"
+                    },
+                    {
+                        "entity id": "Q8691",
+                        "label": "Heathrow Airport"
+                    },
+                    {
+                        "entity id": "Q8712",
+                        "label": "London Luton Airport"
+                    },
+                    {
+                        "entity id": "Q1415441",
+                        "label": "London Southend Airport"
+                    },
+                    {
+                        "entity id": "Q8709",
+                        "label": "London Stansted Airport"
+                    }
+                ]
+            ],
+            [
+                "61",
+                []
+            ],
+            [
+                "easyJet , Norwegian Air Shuttle , TUI Airways British Airways , Bulgaria Air Wizz Air easyJet Ryanair",
+                [
+                    "/wiki/EasyJet",
+                    "/wiki/Norwegian_Air_Shuttle",
+                    "/wiki/TUI_Airways",
+                    "/wiki/British_Airways",
+                    "/wiki/Bulgaria_Air",
+                    "/wiki/Wizz_Air",
+                    "/wiki/EasyJet",
+                    "/wiki/Ryanair"
+                ],
+                [
+                    {
+                        "entity id": "Q191551",
+                        "label": "easyJet"
+                    },
+                    {
+                        "entity id": "Q215392",
+                        "label": "Norwegian Air Shuttle"
+                    },
+                    {
+                        "entity id": "Q1156859",
+                        "label": "TUI Airways"
+                    },
+                    {
+                        "entity id": "Q8766",
+                        "label": "British Airways"
+                    },
+                    {
+                        "entity id": "Q822130",
+                        "label": "Bulgaria Air"
+                    },
+                    {
+                        "entity id": "Q335147",
+                        "label": "Wizz Air"
+                    },
+                    {
+                        "entity id": "Q191551",
+                        "label": "easyJet"
+                    },
+                    {
+                        "entity id": "Q170614",
+                        "label": "Ryanair"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Vienna",
+                [
+                    "/wiki/Vienna"
+                ],
+                [
+                    {
+                        "entity id": "Q1741",
+                        "label": "Vienna"
+                    }
+                ]
+            ],
+            [
+                "Schwechat Airport",
+                [
+                    "/wiki/Schwechat_Airport"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "31",
+                []
+            ],
+            [
+                "Austrian Airlines , Bulgaria Air , Lauda",
+                [
+                    "/wiki/Austrian_Airlines",
+                    "/wiki/Bulgaria_Air",
+                    "/wiki/Lauda_(airline)"
+                ],
+                [
+                    {
+                        "entity id": "Q781770",
+                        "label": "Austrian Airlines"
+                    },
+                    {
+                        "entity id": "Q822130",
+                        "label": "Bulgaria Air"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Munich",
+                [
+                    "/wiki/Munich"
+                ],
+                [
+                    {
+                        "entity id": "Q1726",
+                        "label": "Munich"
+                    }
+                ]
+            ],
+            [
+                "Memmingen Airport Munich Airport",
+                [
+                    "/wiki/Memmingen_Airport",
+                    "/wiki/Munich_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q651281",
+                        "label": "Memmingen Airport"
+                    },
+                    {
+                        "entity id": "Q131402",
+                        "label": "Munich Airport"
+                    }
+                ]
+            ],
+            [
+                "26",
+                []
+            ],
+            [
+                "Ryanair , Wizz Air Lufthansa",
+                [
+                    "/wiki/Ryanair",
+                    "/wiki/Wizz_Air",
+                    "/wiki/Lufthansa"
+                ],
+                [
+                    {
+                        "entity id": "Q170614",
+                        "label": "Ryanair"
+                    },
+                    {
+                        "entity id": "Q335147",
+                        "label": "Wizz Air"
+                    },
+                    {
+                        "entity id": "Q9325",
+                        "label": "Lufthansa"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Frankfurt",
+                [
+                    "/wiki/Frankfurt"
+                ],
+                [
+                    {
+                        "entity id": "Q4024",
+                        "label": "Frankfurt (Oder)"
+                    }
+                ]
+            ],
+            [
+                "Frankfurt Airport",
+                [
+                    "/wiki/Frankfurt_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q46033",
+                        "label": "Frankfurt Airport"
+                    }
+                ]
+            ],
+            [
+                "22",
+                []
+            ],
+            [
+                "Bulgaria Air , Lufthansa , Wizz Air",
+                [
+                    "/wiki/Bulgaria_Air",
+                    "/wiki/Lufthansa",
+                    "/wiki/Wizz_Air"
+                ],
+                [
+                    {
+                        "entity id": "Q822130",
+                        "label": "Bulgaria Air"
+                    },
+                    {
+                        "entity id": "Q9325",
+                        "label": "Lufthansa"
+                    },
+                    {
+                        "entity id": "Q335147",
+                        "label": "Wizz Air"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Tel Aviv",
+                [
+                    "/wiki/Tel_Aviv"
+                ],
+                [
+                    {
+                        "entity id": "Q33935",
+                        "label": "Tel Aviv"
+                    }
+                ]
+            ],
+            [
+                "Ben Gurion Airport",
+                [
+                    "/wiki/Ben_Gurion_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q181479",
+                        "label": "Ben Gurion Airport"
+                    }
+                ]
+            ],
+            [
+                "22",
+                []
+            ],
+            [
+                "Bulgaria Air , El Al , Israir Airlines , Ryanair , Wizz Air",
+                [
+                    "/wiki/Bulgaria_Air",
+                    "/wiki/El_Al",
+                    "/wiki/Israir_Airlines",
+                    "/wiki/Ryanair",
+                    "/wiki/Wizz_Air"
+                ],
+                [
+                    {
+                        "entity id": "Q822130",
+                        "label": "Bulgaria Air"
+                    },
+                    {
+                        "entity id": "Q208489",
+                        "label": "El Al"
+                    },
+                    {
+                        "entity id": "Q558002",
+                        "label": "Israir Airlines"
+                    },
+                    {
+                        "entity id": "Q170614",
+                        "label": "Ryanair"
+                    },
+                    {
+                        "entity id": "Q335147",
+                        "label": "Wizz Air"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Istanbul",
+                [
+                    "/wiki/Istanbul"
+                ],
+                [
+                    {
+                        "entity id": "Q406",
+                        "label": "Istanbul"
+                    }
+                ]
+            ],
+            [
+                "Istanbul Airport",
+                [
+                    "/wiki/Istanbul_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3661908",
+                        "label": "Istanbul Airport"
+                    }
+                ]
+            ],
+            [
+                "21",
+                []
+            ],
+            [
+                "Turkish Airlines",
+                [
+                    "/wiki/Turkish_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q4548",
+                        "label": "Turkish Airlines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Varna",
+                [
+                    "/wiki/Varna"
+                ],
+                [
+                    {
+                        "entity id": "Q6506",
+                        "label": "Varna"
+                    }
+                ]
+            ],
+            [
+                "Varna Airport",
+                [
+                    "/wiki/Varna_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1423410",
+                        "label": "Varna Airport"
+                    }
+                ]
+            ],
+            [
+                "19",
+                []
+            ],
+            [
+                "Bulgaria Air",
+                [
+                    "/wiki/Bulgaria_Air"
+                ],
+                [
+                    {
+                        "entity id": "Q822130",
+                        "label": "Bulgaria Air"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Milan",
+                [
+                    "/wiki/Milan"
+                ],
+                [
+                    {
+                        "entity id": "Q490",
+                        "label": "Milan"
+                    }
+                ]
+            ],
+            [
+                "Bergamo-Il Caravaggio Airport Malpensa Airport",
+                [
+                    "/wiki/Bergamo_Airport",
+                    "/wiki/Malpensa_Airport"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q60910",
+                        "label": "Milan\u2013Malpensa Airport"
+                    }
+                ]
+            ],
+            [
+                "18",
+                []
+            ],
+            [
+                "Ryanair , Wizz Air Bulgaria Air",
+                [
+                    "/wiki/Ryanair",
+                    "/wiki/Wizz_Air",
+                    "/wiki/Bulgaria_Air"
+                ],
+                [
+                    {
+                        "entity id": "Q170614",
+                        "label": "Ryanair"
+                    },
+                    {
+                        "entity id": "Q335147",
+                        "label": "Wizz Air"
+                    },
+                    {
+                        "entity id": "Q822130",
+                        "label": "Bulgaria Air"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Athens",
+                [
+                    "/wiki/Athens"
+                ],
+                [
+                    {
+                        "entity id": "Q1524",
+                        "label": "Athens"
+                    }
+                ]
+            ],
+            [
+                "Eleftherios Venizelos Airport",
+                [
+                    "/wiki/Eleftherios_Venizelos_Airport"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "17",
+                []
+            ],
+            [
+                "Aegean Airlines , Bulgaria Air , Ryanair",
+                [
+                    "/wiki/Aegean_Airlines",
+                    "/wiki/Bulgaria_Air",
+                    "/wiki/Ryanair"
+                ],
+                [
+                    {
+                        "entity id": "Q380580",
+                        "label": "Aegean Airlines"
+                    },
+                    {
+                        "entity id": "Q822130",
+                        "label": "Bulgaria Air"
+                    },
+                    {
+                        "entity id": "Q170614",
+                        "label": "Ryanair"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Brussels",
+                [
+                    "/wiki/Brussels"
+                ],
+                [
+                    {
+                        "entity id": "Q239",
+                        "label": "City of Brussels"
+                    }
+                ]
+            ],
+            [
+                "Charleroi Airport Zaventem Airport",
+                [
+                    "/wiki/Charleroi_Airport",
+                    "/wiki/Zaventem_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1431012",
+                        "label": "Brussels South Charleroi Airport"
+                    },
+                    {
+                        "entity id": "Q28934",
+                        "label": "Brussels Airport"
+                    }
+                ]
+            ],
+            [
+                "14",
+                []
+            ],
+            [
+                "Ryanair , Wizz Air Bulgaria Air",
+                [
+                    "/wiki/Ryanair",
+                    "/wiki/Wizz_Air",
+                    "/wiki/Bulgaria_Air"
+                ],
+                [
+                    {
+                        "entity id": "Q170614",
+                        "label": "Ryanair"
+                    },
+                    {
+                        "entity id": "Q335147",
+                        "label": "Wizz Air"
+                    },
+                    {
+                        "entity id": "Q822130",
+                        "label": "Bulgaria Air"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Warsaw",
+                [
+                    "/wiki/Warsaw"
+                ],
+                [
+                    {
+                        "entity id": "Q270",
+                        "label": "Warsaw"
+                    }
+                ]
+            ],
+            [
+                "Chopin Airport",
+                [
+                    "/wiki/Chopin_Airport"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "14",
+                []
+            ],
+            [
+                "LOT Polish Airlines",
+                [
+                    "/wiki/LOT_Polish_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q204268",
+                        "label": "LOT Polish Airlines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Moscow",
+                [
+                    "/wiki/Moscow"
+                ],
+                [
+                    {
+                        "entity id": "Q649",
+                        "label": "Moscow"
+                    }
+                ]
+            ],
+            [
+                "Domodedovo Airport Sheremetyevo Airport",
+                [
+                    "/wiki/Domodedovo_Airport",
+                    "/wiki/Sheremetyevo_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q186614",
+                        "label": "Domodedovo International Airport"
+                    },
+                    {
+                        "entity id": "Q192733",
+                        "label": "Sheremetyevo International Airport"
+                    }
+                ]
+            ],
+            [
+                "13",
+                []
+            ],
+            [
+                "Ural Airlines Aeroflot , Bulgaria Air",
+                [
+                    "/wiki/Ural_Airlines",
+                    "/wiki/Aeroflot",
+                    "/wiki/Bulgaria_Air"
+                ],
+                [
+                    {
+                        "entity id": "Q581161",
+                        "label": "Ural Airlines"
+                    },
+                    {
+                        "entity id": "Q58707",
+                        "label": "Aeroflot"
+                    },
+                    {
+                        "entity id": "Q822130",
+                        "label": "Bulgaria Air"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Bucharest",
+                [
+                    "/wiki/Bucharest"
+                ],
+                [
+                    {
+                        "entity id": "Q19660",
+                        "label": "Bucharest"
+                    }
+                ]
+            ],
+            [
+                "Henri Coand\u0103 Airport",
+                [
+                    "/wiki/Henri_Coand\u0103_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q257631",
+                        "label": "Henri Coand\u0103 International Airport"
+                    }
+                ]
+            ],
+            [
+                "12",
+                []
+            ],
+            [
+                "TAROM",
+                [
+                    "/wiki/TAROM"
+                ],
+                [
+                    {
+                        "entity id": "Q240656",
+                        "label": "TAROM"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Paris",
+                [
+                    "/wiki/Paris"
+                ],
+                [
+                    {
+                        "entity id": "Q90",
+                        "label": "Paris"
+                    }
+                ]
+            ],
+            [
+                "Beauvais-Till\u00e9 Airport Charles de Gaulle Airport",
+                [
+                    "/wiki/Beauvais\u2013Till\u00e9_Airport",
+                    "/wiki/Charles_de_Gaulle_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q611983",
+                        "label": "Beauvais-Till\u00e9 Airport"
+                    },
+                    {
+                        "entity id": "Q46280",
+                        "label": "Paris-Charles de Gaulle Airport"
+                    }
+                ]
+            ],
+            [
+                "12",
+                []
+            ],
+            [
+                "Ryanair , Wizz Air Bulgaria Air",
+                [
+                    "/wiki/Ryanair",
+                    "/wiki/Wizz_Air",
+                    "/wiki/Bulgaria_Air"
+                ],
+                [
+                    {
+                        "entity id": "Q170614",
+                        "label": "Ryanair"
+                    },
+                    {
+                        "entity id": "Q335147",
+                        "label": "Wizz Air"
+                    },
+                    {
+                        "entity id": "Q822130",
+                        "label": "Bulgaria Air"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Rome",
+                [
+                    "/wiki/Rome"
+                ],
+                [
+                    {
+                        "entity id": "Q220",
+                        "label": "Rome"
+                    }
+                ]
+            ],
+            [
+                "Ciampino-G. B. Pastine Airport Leonardo da Vinci-Fiumicino Airport",
+                [
+                    "/wiki/Ciampino\u2013G._B._Pastine_International_Airport",
+                    "/wiki/Leonardo_da_Vinci\u2013Fiumicino_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1132616",
+                        "label": "Ciampino\u2013G.B. Pastine International Airport"
+                    },
+                    {
+                        "entity id": "Q19101",
+                        "label": "Leonardo da Vinci\u2013Fiumicino Airport"
+                    }
+                ]
+            ],
+            [
+                "12",
+                []
+            ],
+            [
+                "Ryanair Alitalia , Bulgaria Air",
+                [
+                    "/wiki/Ryanair",
+                    "/wiki/Alitalia",
+                    "/wiki/Bulgaria_Air"
+                ],
+                [
+                    {
+                        "entity id": "Q170614",
+                        "label": "Ryanair"
+                    },
+                    {
+                        "entity id": "Q153975",
+                        "label": "Alitalia"
+                    },
+                    {
+                        "entity id": "Q822130",
+                        "label": "Bulgaria Air"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Doha",
+                [
+                    "/wiki/Doha"
+                ],
+                [
+                    {
+                        "entity id": "Q3861",
+                        "label": "Doha"
+                    }
+                ]
+            ],
+            [
+                "Hamad Airport",
+                [
+                    "/wiki/Hamad_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1198791",
+                        "label": "Hamad International Airport"
+                    }
+                ]
+            ],
+            [
+                "11",
+                []
+            ],
+            [
+                "Qatar Airways",
+                [
+                    "/wiki/Qatar_Airways"
+                ],
+                [
+                    {
+                        "entity id": "Q208033",
+                        "label": "Qatar Airways"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Berlin",
+                [
+                    "/wiki/Berlin"
+                ],
+                [
+                    {
+                        "entity id": "Q64",
+                        "label": "Berlin"
+                    }
+                ]
+            ],
+            [
+                "Sch\u00f6nefeld Airport Tegel Airport",
+                [
+                    "/wiki/Sch\u00f6nefeld_Airport",
+                    "/wiki/Tegel_Airport"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q9688",
+                        "label": "Berlin-Tegel Airport"
+                    }
+                ]
+            ],
+            [
+                "10",
+                []
+            ],
+            [
+                "Ryanair Bulgaria Air",
+                [
+                    "/wiki/Ryanair",
+                    "/wiki/Bulgaria_Air"
+                ],
+                [
+                    {
+                        "entity id": "Q170614",
+                        "label": "Ryanair"
+                    },
+                    {
+                        "entity id": "Q822130",
+                        "label": "Bulgaria Air"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Amsterdam",
+                [
+                    "/wiki/Amsterdam"
+                ],
+                [
+                    {
+                        "entity id": "Q727",
+                        "label": "Amsterdam"
+                    }
+                ]
+            ],
+            [
+                "Schiphol Airport",
+                [
+                    "/wiki/Schiphol_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q9694",
+                        "label": "Amsterdam Airport Schiphol"
+                    }
+                ]
+            ],
+            [
+                "9",
+                []
+            ],
+            [
+                "Bulgaria Air , Transavia",
+                [
+                    "/wiki/Bulgaria_Air",
+                    "/wiki/Transavia"
+                ],
+                [
+                    {
+                        "entity id": "Q822130",
+                        "label": "Bulgaria Air"
+                    },
+                    {
+                        "entity id": "Q246952",
+                        "label": "Transavia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Madrid",
+                [
+                    "/wiki/Madrid"
+                ],
+                [
+                    {
+                        "entity id": "Q2807",
+                        "label": "Madrid"
+                    }
+                ]
+            ],
+            [
+                "Adolfo Su\u00e1rez-Barajas Airport",
+                [
+                    "/wiki/Adolfo_Su\u00e1rez_Madrid\u2013Barajas_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q166276",
+                        "label": "Adolfo Suarez Madrid-Barajas Airport"
+                    }
+                ]
+            ],
+            [
+                "9",
+                []
+            ],
+            [
+                "Bulgaria Air , Ryanair , Wizz Air",
+                [
+                    "/wiki/Bulgaria_Air",
+                    "/wiki/Ryanair",
+                    "/wiki/Wizz_Air"
+                ],
+                [
+                    {
+                        "entity id": "Q822130",
+                        "label": "Bulgaria Air"
+                    },
+                    {
+                        "entity id": "Q170614",
+                        "label": "Ryanair"
+                    },
+                    {
+                        "entity id": "Q335147",
+                        "label": "Wizz Air"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Barcelona",
+                [
+                    "/wiki/Barcelona"
+                ],
+                [
+                    {
+                        "entity id": "Q1492",
+                        "label": "Barcelona"
+                    }
+                ]
+            ],
+            [
+                "El Prat Airport",
+                [
+                    "/wiki/El_Prat_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q56973",
+                        "label": "Josep Tarradellas Airport Barcelona-El Prat"
+                    }
+                ]
+            ],
+            [
+                "7",
+                []
+            ],
+            [
+                "Ryanair , Wizz Air",
+                [
+                    "/wiki/Ryanair",
+                    "/wiki/Wizz_Air"
+                ],
+                [
+                    {
+                        "entity id": "Q170614",
+                        "label": "Ryanair"
+                    },
+                    {
+                        "entity id": "Q335147",
+                        "label": "Wizz Air"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Statistics -- Busiest routes",
+    "section_text": "This section possibly contains original research . Please improve it by verifying the claims made and adding inline citations . Statements consisting only of original research should be removed . ( August 2019 ) ( Learn how and when to remove this template message )",
+    "uid": "Sofia_Airport_1",
+    "intro": "Sofia Airport (IATA: SOF, ICAO: LBSF) (Bulgarian: \u041b\u0435\u0442\u0438\u0449\u0435 \u0421\u043e\u0444\u0438\u044f, Letishte Sofiya) is the main international airport of Bulgaria, located 10 km (6.2 mi) east of the centre of the capital Sofia. In 2019 the airport surpassed 7 million passengers for the first time. The airport serves as the home base for BH Air, Bulgaria Air, and Bulgarian Air Charter and as a base for both Ryanair and Wizz Air. The Vrazhdebna Air Base of the Bulgarian Air Force is at the airport."
+}

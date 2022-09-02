@@ -1,0 +1,448 @@
+{
+    "url": "https://en.wikipedia.org/wiki/WWE_Diva_Search",
+    "title": "WWE Diva Search",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Age",
+            []
+        ],
+        [
+            "Hometown",
+            []
+        ],
+        [
+            "Selected/Not selected",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Amy Weber",
+                [
+                    "/wiki/Amy_Weber"
+                ],
+                [
+                    {
+                        "entity id": "Q2844588",
+                        "label": "Amy Weber"
+                    }
+                ]
+            ],
+            [
+                "34",
+                []
+            ],
+            [
+                "Mapleton , Illinois",
+                [
+                    "/wiki/Mapleton,_Illinois"
+                ],
+                [
+                    {
+                        "entity id": "Q1829160",
+                        "label": "Mapleton"
+                    }
+                ]
+            ],
+            [
+                "Selected ( Finalist )",
+                []
+            ]
+        ],
+        [
+            [
+                "Alison Weder",
+                []
+            ],
+            [
+                "23",
+                []
+            ],
+            [
+                "Minooka , Illinois",
+                [
+                    "/wiki/Minooka,_Illinois"
+                ],
+                [
+                    {
+                        "entity id": "Q2742114",
+                        "label": "Minooka"
+                    }
+                ]
+            ],
+            [
+                "Not selected ( Semi-finalist )",
+                []
+            ]
+        ],
+        [
+            [
+                "Bobbi Sue Luther",
+                [
+                    "/wiki/Bobbi_Sue_Luther"
+                ],
+                [
+                    {
+                        "entity id": "Q1633173",
+                        "label": "Bobbi Sue Luther"
+                    }
+                ]
+            ],
+            [
+                "25",
+                []
+            ],
+            [
+                "Silver Spring , Maryland",
+                [
+                    "/wiki/Silver_Spring,_Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q755741",
+                        "label": "Silver Spring"
+                    }
+                ]
+            ],
+            [
+                "Not selected ( Semi-finalist )",
+                []
+            ]
+        ],
+        [
+            [
+                "Camille Anderson",
+                [
+                    "/wiki/Camille_Anderson"
+                ],
+                [
+                    {
+                        "entity id": "Q1065027",
+                        "label": "Camille Anderson"
+                    }
+                ]
+            ],
+            [
+                "26",
+                []
+            ],
+            [
+                "Dallas , Texas",
+                [
+                    "/wiki/Dallas,_Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q16557",
+                        "label": "Dallas"
+                    }
+                ]
+            ],
+            [
+                "Selected ( Finalist )",
+                []
+            ]
+        ],
+        [
+            [
+                "Candice Michelle",
+                [
+                    "/wiki/Candice_Michelle"
+                ],
+                [
+                    {
+                        "entity id": "Q233615",
+                        "label": "Candice Michelle"
+                    }
+                ]
+            ],
+            [
+                "25",
+                []
+            ],
+            [
+                "Milwaukee , Wisconsin",
+                [
+                    "/wiki/Milwaukee,_Wisconsin"
+                ],
+                [
+                    {
+                        "entity id": "Q37836",
+                        "label": "Milwaukee"
+                    }
+                ]
+            ],
+            [
+                "Not selected ( Semi-finalist )",
+                []
+            ]
+        ],
+        [
+            [
+                "Carmella DeCesare",
+                [
+                    "/wiki/Carmella_DeCesare"
+                ],
+                [
+                    {
+                        "entity id": "Q263420",
+                        "label": "Carmella DeCesare"
+                    }
+                ]
+            ],
+            [
+                "23",
+                []
+            ],
+            [
+                "Avon Lake , Ohio",
+                [
+                    "/wiki/Avon_Lake,_Ohio"
+                ],
+                [
+                    {
+                        "entity id": "Q791279",
+                        "label": "Avon Lake"
+                    }
+                ]
+            ],
+            [
+                "Selected ( Finalist )",
+                []
+            ]
+        ],
+        [
+            [
+                "CeCe Wagner",
+                []
+            ],
+            [
+                "22",
+                []
+            ],
+            [
+                "Chicago , Illinois",
+                [
+                    "/wiki/Chicago,_Illinois"
+                ],
+                [
+                    {
+                        "entity id": "Q1297",
+                        "label": "Chicago"
+                    }
+                ]
+            ],
+            [
+                "Not selected ( Semi-finalist )",
+                []
+            ]
+        ],
+        [
+            [
+                "Chandra Costello",
+                []
+            ],
+            [
+                "28",
+                []
+            ],
+            [
+                "Liberty , Kentucky",
+                [
+                    "/wiki/Liberty,_Kentucky"
+                ],
+                [
+                    {
+                        "entity id": "Q2912504",
+                        "label": "Liberty"
+                    }
+                ]
+            ],
+            [
+                "Selected ( Finalist )",
+                []
+            ]
+        ],
+        [
+            [
+                "Christina Hernandez",
+                []
+            ],
+            [
+                "24",
+                []
+            ],
+            [
+                "Odessa , Texas",
+                [
+                    "/wiki/Odessa,_Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q128361",
+                        "label": "Odessa"
+                    }
+                ]
+            ],
+            [
+                "Not selected ( Semi-finalist )",
+                []
+            ]
+        ],
+        [
+            [
+                "Christy Hemme",
+                [
+                    "/wiki/Christy_Hemme"
+                ],
+                [
+                    {
+                        "entity id": "Q236513",
+                        "label": "Christy Hemme"
+                    }
+                ]
+            ],
+            [
+                "23",
+                []
+            ],
+            [
+                "Poway , California",
+                [
+                    "/wiki/Poway,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q540727",
+                        "label": "Poway"
+                    }
+                ]
+            ],
+            [
+                "Selected ( Finalist )",
+                []
+            ]
+        ],
+        [
+            [
+                "Erin Kelly Britz",
+                []
+            ],
+            [
+                "25",
+                []
+            ],
+            [
+                "Kansas City , Kansas",
+                [
+                    "/wiki/Kansas_City,_Kansas"
+                ],
+                [
+                    {
+                        "entity id": "Q486472",
+                        "label": "Kansas City"
+                    }
+                ]
+            ],
+            [
+                "Not selected ( Semi-finalist )",
+                []
+            ]
+        ],
+        [
+            [
+                "Gabrielle Tuite",
+                [
+                    "/wiki/Gabrielle_Tuite"
+                ],
+                [
+                    {
+                        "entity id": "Q11837480",
+                        "label": "Gabrielle Tuite"
+                    }
+                ]
+            ],
+            [
+                "26",
+                []
+            ],
+            [
+                "Brooklyn , New York",
+                [
+                    "/wiki/Brooklyn,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q18419",
+                        "label": "Brooklyn"
+                    }
+                ]
+            ],
+            [
+                "Not selected ( Semi-finalist )",
+                []
+            ]
+        ],
+        [
+            [
+                "Jaynie Mae Baker",
+                []
+            ],
+            [
+                "23",
+                []
+            ],
+            [
+                "New York , New York",
+                [
+                    "/wiki/New_York,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q60",
+                        "label": "New York City"
+                    }
+                ]
+            ],
+            [
+                "Not selected ( Semi-finalist )",
+                []
+            ]
+        ],
+        [
+            [
+                "Jennifer R. Lopez",
+                []
+            ],
+            [
+                "26",
+                []
+            ],
+            [
+                "Lodi , New Jersey",
+                [
+                    "/wiki/Lodi,_New_Jersey"
+                ],
+                [
+                    {
+                        "entity id": "Q1085972",
+                        "label": "Lodi"
+                    }
+                ]
+            ],
+            [
+                "Not selected ( Semi-finalist )",
+                []
+            ]
+        ]
+    ],
+    "section_title": "",
+    "section_text": "",
+    "uid": "WWE_Diva_Search_0",
+    "intro": "WWE Diva Search (formerly WWE Raw Diva Search) was a talent competition held by WWE. The first winner was Jaime Koeppe, but she did not receive a contract like subsequent winners of the contest. Other winners included Christy Hemme, Ashley Massaro, Layla El, and Eve Torres. In addition to the winners of the yearly contest, WWE has hired several contestants as Divas, the name that WWE gave at the time to the female performers. As of 2019, Maryse Ouellet and Maria Kanellis are the last remaining female talents to come from the contest, with the two acting largely as valets for their respective husbands. There were many failed attempts at bringing back the competition over the years following the cancellation of the 2008 season, and was at one point going to return in 2019 under the new name Superstar Search. But those plans were scrapped."
+}

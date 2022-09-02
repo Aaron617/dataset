@@ -1,0 +1,669 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Let's_Dance_2012",
+    "title": "Let's Dance 2012",
+    "header": [
+        [
+            "Dance",
+            []
+        ],
+        [
+            "Best dancer ( s )",
+            []
+        ],
+        [
+            "Best score",
+            []
+        ],
+        [
+            "Worst dancer ( s )",
+            []
+        ],
+        [
+            "Worst score",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Cha Cha Cha",
+                [
+                    "/wiki/Cha-cha-cha_(dance)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Camilla L\u00e4ckberg",
+                [
+                    "/wiki/Camilla_L\u00e4ckberg"
+                ],
+                [
+                    {
+                        "entity id": "Q231320",
+                        "label": "Camilla L\u00e4ckberg"
+                    }
+                ]
+            ],
+            [
+                "22",
+                []
+            ],
+            [
+                "Bengt Frithiofsson",
+                [
+                    "/wiki/Bengt_Frithiofsson"
+                ],
+                [
+                    {
+                        "entity id": "Q4887792",
+                        "label": "Bengt Frithiofsson"
+                    }
+                ]
+            ],
+            [
+                "7",
+                []
+            ]
+        ],
+        [
+            [
+                "Waltz",
+                [
+                    "/wiki/Waltz"
+                ],
+                [
+                    {
+                        "entity id": "Q193434",
+                        "label": "waltz"
+                    }
+                ]
+            ],
+            [
+                "Molly Nutley",
+                [
+                    "/wiki/Molly_Nutley"
+                ],
+                [
+                    {
+                        "entity id": "Q4355567",
+                        "label": "Molly Nutley"
+                    }
+                ]
+            ],
+            [
+                "28",
+                []
+            ],
+            [
+                "Anders Timell P\u00e4r-Ola Nystr\u00f6m",
+                [
+                    "/wiki/Anders_Timell",
+                    "/wiki/P\u00e4r-Ola_Nystr\u00f6m"
+                ],
+                [
+                    {
+                        "entity id": "Q6211214",
+                        "label": "Anders Timell"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "8",
+                []
+            ]
+        ],
+        [
+            [
+                "Rumba",
+                [
+                    "/wiki/Rhumba"
+                ],
+                [
+                    {
+                        "entity id": "Q221438",
+                        "label": "rhumba"
+                    }
+                ]
+            ],
+            [
+                "Anton Hys\u00e9n",
+                [
+                    "/wiki/Anton_Hys\u00e9n"
+                ],
+                [
+                    {
+                        "entity id": "Q590433",
+                        "label": "Anton Hys\u00e9n"
+                    }
+                ]
+            ],
+            [
+                "28",
+                []
+            ],
+            [
+                "P\u00e4r-Ola Nystr\u00f6m",
+                [
+                    "/wiki/P\u00e4r-Ola_Nystr\u00f6m"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "5",
+                []
+            ]
+        ],
+        [
+            [
+                "Quickstep",
+                [
+                    "/wiki/Quickstep"
+                ],
+                [
+                    {
+                        "entity id": "Q663529",
+                        "label": "Quickstep"
+                    }
+                ]
+            ],
+            [
+                "Camilla L\u00e4ckberg Molly Nutley",
+                [
+                    "/wiki/Camilla_L\u00e4ckberg",
+                    "/wiki/Molly_Nutley"
+                ],
+                [
+                    {
+                        "entity id": "Q231320",
+                        "label": "Camilla L\u00e4ckberg"
+                    },
+                    {
+                        "entity id": "Q4355567",
+                        "label": "Molly Nutley"
+                    }
+                ]
+            ],
+            [
+                "29",
+                []
+            ],
+            [
+                "Bengt Frithiofsson",
+                [
+                    "/wiki/Bengt_Frithiofsson"
+                ],
+                [
+                    {
+                        "entity id": "Q4887792",
+                        "label": "Bengt Frithiofsson"
+                    }
+                ]
+            ],
+            [
+                "12",
+                []
+            ]
+        ],
+        [
+            [
+                "Jive",
+                [
+                    "/wiki/Jive_(dance)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Anton Hys\u00e9n",
+                [
+                    "/wiki/Anton_Hys\u00e9n"
+                ],
+                [
+                    {
+                        "entity id": "Q590433",
+                        "label": "Anton Hys\u00e9n"
+                    }
+                ]
+            ],
+            [
+                "27",
+                []
+            ],
+            [
+                "Bengt Frithiofsson",
+                [
+                    "/wiki/Bengt_Frithiofsson"
+                ],
+                [
+                    {
+                        "entity id": "Q4887792",
+                        "label": "Bengt Frithiofsson"
+                    }
+                ]
+            ],
+            [
+                "9",
+                []
+            ]
+        ],
+        [
+            [
+                "Tango",
+                [
+                    "/wiki/Tango_(dance)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Molly Nutley",
+                [
+                    "/wiki/Molly_Nutley"
+                ],
+                [
+                    {
+                        "entity id": "Q4355567",
+                        "label": "Molly Nutley"
+                    }
+                ]
+            ],
+            [
+                "30",
+                []
+            ],
+            [
+                "Anders Timell",
+                [
+                    "/wiki/Anders_Timell"
+                ],
+                [
+                    {
+                        "entity id": "Q6211214",
+                        "label": "Anders Timell"
+                    }
+                ]
+            ],
+            [
+                "13",
+                []
+            ]
+        ],
+        [
+            [
+                "Paso Doble",
+                [
+                    "/wiki/Paso_Doble"
+                ],
+                [
+                    {
+                        "entity id": "Q208341",
+                        "label": "pasodoble"
+                    }
+                ]
+            ],
+            [
+                "Molly Nutley",
+                [
+                    "/wiki/Molly_Nutley"
+                ],
+                [
+                    {
+                        "entity id": "Q4355567",
+                        "label": "Molly Nutley"
+                    }
+                ]
+            ],
+            [
+                "30",
+                []
+            ],
+            [
+                "Helena Paparizou",
+                [
+                    "/wiki/Helena_Paparizou"
+                ],
+                [
+                    {
+                        "entity id": "Q183008",
+                        "label": "Helena Paparizou"
+                    }
+                ]
+            ],
+            [
+                "16",
+                []
+            ]
+        ],
+        [
+            [
+                "Foxtrot",
+                [
+                    "/wiki/Foxtrot"
+                ],
+                [
+                    {
+                        "entity id": "Q9765",
+                        "label": "F"
+                    }
+                ]
+            ],
+            [
+                "Marcus Schenkenberg",
+                [
+                    "/wiki/Marcus_Schenkenberg"
+                ],
+                [
+                    {
+                        "entity id": "Q503962",
+                        "label": "Marcus Schenkenberg"
+                    }
+                ]
+            ],
+            [
+                "25",
+                []
+            ],
+            [
+                "Camilla Henemark",
+                [
+                    "/wiki/Camilla_Henemark"
+                ],
+                [
+                    {
+                        "entity id": "Q455839",
+                        "label": "Camilla Henemark"
+                    }
+                ]
+            ],
+            [
+                "5",
+                []
+            ]
+        ],
+        [
+            [
+                "Samba",
+                [
+                    "/wiki/Samba_(ballroom)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Anton Hys\u00e9n",
+                [
+                    "/wiki/Anton_Hys\u00e9n"
+                ],
+                [
+                    {
+                        "entity id": "Q590433",
+                        "label": "Anton Hys\u00e9n"
+                    }
+                ]
+            ],
+            [
+                "30",
+                []
+            ],
+            [
+                "Camilla Henemark",
+                [
+                    "/wiki/Camilla_Henemark"
+                ],
+                [
+                    {
+                        "entity id": "Q455839",
+                        "label": "Camilla Henemark"
+                    }
+                ]
+            ],
+            [
+                "7",
+                []
+            ]
+        ],
+        [
+            [
+                "Rock ' n ' Roll",
+                [
+                    "/wiki/Rock_'n'_Roll"
+                ],
+                [
+                    {
+                        "entity id": "Q7749",
+                        "label": "rock and roll"
+                    }
+                ]
+            ],
+            [
+                "Marcus Schenkenberg",
+                [
+                    "/wiki/Marcus_Schenkenberg"
+                ],
+                [
+                    {
+                        "entity id": "Q503962",
+                        "label": "Marcus Schenkenberg"
+                    }
+                ]
+            ],
+            [
+                "12",
+                []
+            ],
+            [
+                "Camilla L\u00e4ckberg",
+                [
+                    "/wiki/Camilla_L\u00e4ckberg"
+                ],
+                [
+                    {
+                        "entity id": "Q231320",
+                        "label": "Camilla L\u00e4ckberg"
+                    }
+                ]
+            ],
+            [
+                "2",
+                []
+            ]
+        ],
+        [
+            [
+                "Salsa",
+                [
+                    "/wiki/Salsa_(dance)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Anton Hys\u00e9n",
+                [
+                    "/wiki/Anton_Hys\u00e9n"
+                ],
+                [
+                    {
+                        "entity id": "Q590433",
+                        "label": "Anton Hys\u00e9n"
+                    }
+                ]
+            ],
+            [
+                "10",
+                []
+            ],
+            [
+                "Camilla Henemark",
+                [
+                    "/wiki/Camilla_Henemark"
+                ],
+                [
+                    {
+                        "entity id": "Q455839",
+                        "label": "Camilla Henemark"
+                    }
+                ]
+            ],
+            [
+                "2",
+                []
+            ]
+        ],
+        [
+            [
+                "Viennese Waltz",
+                [
+                    "/wiki/Viennese_Waltz"
+                ],
+                [
+                    {
+                        "entity id": "Q878948",
+                        "label": "Viennese waltz"
+                    }
+                ]
+            ],
+            [
+                "Marcus Schenkenberg",
+                [
+                    "/wiki/Marcus_Schenkenberg"
+                ],
+                [
+                    {
+                        "entity id": "Q503962",
+                        "label": "Marcus Schenkenberg"
+                    }
+                ]
+            ],
+            [
+                "3",
+                []
+            ],
+            [
+                "Anton Hys\u00e9n Molly Nutley Anders Timell Pernilla Wahlgren",
+                [
+                    "/wiki/Anton_Hys\u00e9n",
+                    "/wiki/Molly_Nutley",
+                    "/wiki/Anders_Timell",
+                    "/wiki/Pernilla_Wahlgren"
+                ],
+                [
+                    {
+                        "entity id": "Q590433",
+                        "label": "Anton Hys\u00e9n"
+                    },
+                    {
+                        "entity id": "Q4355567",
+                        "label": "Molly Nutley"
+                    },
+                    {
+                        "entity id": "Q6211214",
+                        "label": "Anders Timell"
+                    },
+                    {
+                        "entity id": "Q941210",
+                        "label": "Pernilla Wahlgren"
+                    }
+                ]
+            ],
+            [
+                "0",
+                []
+            ]
+        ],
+        [
+            [
+                "Bugg",
+                [
+                    "/wiki/Bugg"
+                ],
+                [
+                    {
+                        "entity id": "Q16865132",
+                        "label": "Bugg"
+                    }
+                ]
+            ],
+            [
+                "Molly Nutley",
+                [
+                    "/wiki/Molly_Nutley"
+                ],
+                [
+                    {
+                        "entity id": "Q4355567",
+                        "label": "Molly Nutley"
+                    }
+                ]
+            ],
+            [
+                "30",
+                []
+            ],
+            [
+                "Camilla L\u00e4ckberg",
+                [
+                    "/wiki/Camilla_L\u00e4ckberg"
+                ],
+                [
+                    {
+                        "entity id": "Q231320",
+                        "label": "Camilla L\u00e4ckberg"
+                    }
+                ]
+            ],
+            [
+                "22",
+                []
+            ]
+        ],
+        [
+            [
+                "Showdance",
+                []
+            ],
+            [
+                "Molly Nutley Anton Hys\u00e9n",
+                [
+                    "/wiki/Molly_Nutley",
+                    "/wiki/Anton_Hys\u00e9n"
+                ],
+                [
+                    {
+                        "entity id": "Q4355567",
+                        "label": "Molly Nutley"
+                    },
+                    {
+                        "entity id": "Q590433",
+                        "label": "Anton Hys\u00e9n"
+                    }
+                ]
+            ],
+            [
+                "30",
+                []
+            ],
+            [
+                "-",
+                []
+            ],
+            [
+                "-",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Highest and lowest scoring performances",
+    "section_text": "The best and worst performances in each dance according to the judges ' marks are as follows :",
+    "uid": "Let's_Dance_2012_2",
+    "intro": "Let's Dance 2012 was the seventh season of the Swedish version of Strictly Come Dancing, and was broadcast on the Swedish television channel TV4 starting on March 30, 2012."
+}

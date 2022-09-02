@@ -1,0 +1,848 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Warsaw_Film_Festival",
+    "title": "Warsaw Film Festival",
+    "header": [
+        [
+            "Year",
+            []
+        ],
+        [
+            "Film",
+            []
+        ],
+        [
+            "Director",
+            []
+        ],
+        [
+            "Country",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1987",
+                []
+            ],
+            [
+                "Birdy",
+                [
+                    "/wiki/Birdy_(film)"
+                ],
+                [
+                    {
+                        "entity id": "Q700725",
+                        "label": "Birdy"
+                    }
+                ]
+            ],
+            [
+                "Alan Parker",
+                [
+                    "/wiki/Alan_Parker"
+                ],
+                [
+                    {
+                        "entity id": "Q271284",
+                        "label": "Alan Parker"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1988",
+                []
+            ],
+            [
+                "Koyaanisqatsi",
+                [
+                    "/wiki/Koyaanisqatsi"
+                ],
+                [
+                    {
+                        "entity id": "Q1127828",
+                        "label": "Koyaanisqatsi"
+                    }
+                ]
+            ],
+            [
+                "Godfrey Reggio",
+                [
+                    "/wiki/Godfrey_Reggio"
+                ],
+                [
+                    {
+                        "entity id": "Q1348531",
+                        "label": "Godfrey Reggio"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1989",
+                []
+            ],
+            [
+                "Drowning By Numbers",
+                [
+                    "/wiki/Drowning_By_Numbers"
+                ],
+                [
+                    {
+                        "entity id": "Q2297293",
+                        "label": "Drowning by Numbers"
+                    }
+                ]
+            ],
+            [
+                "Peter Greenaway",
+                [
+                    "/wiki/Peter_Greenaway"
+                ],
+                [
+                    {
+                        "entity id": "Q55282",
+                        "label": "Peter Greenaway"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom",
+                [
+                    "/wiki/United_Kingdom"
+                ],
+                [
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1990",
+                []
+            ],
+            [
+                "Dead Poets Society",
+                [
+                    "/wiki/Dead_Poets_Society"
+                ],
+                [
+                    {
+                        "entity id": "Q106316",
+                        "label": "Dead Poets Society"
+                    }
+                ]
+            ],
+            [
+                "Peter Weir \u2248",
+                [
+                    "/wiki/Peter_Weir"
+                ],
+                [
+                    {
+                        "entity id": "Q55424",
+                        "label": "Peter Weir"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1991",
+                []
+            ],
+            [
+                "The Double Life of V\u00e9ronique",
+                [
+                    "/wiki/The_Double_Life_of_V\u00e9ronique"
+                ],
+                [
+                    {
+                        "entity id": "Q1130211",
+                        "label": "The Double Life of V\u00e9ronique"
+                    }
+                ]
+            ],
+            [
+                "Krzysztof Kie\u015blowski",
+                [
+                    "/wiki/Krzysztof_Kie\u015blowski"
+                ],
+                [
+                    {
+                        "entity id": "Q55165",
+                        "label": "Krzysztof Kie\u015blowski"
+                    }
+                ]
+            ],
+            [
+                "Poland / France",
+                [
+                    "/wiki/Poland",
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q36",
+                        "label": "Poland"
+                    },
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1992",
+                []
+            ],
+            [
+                "Prospero 's Books",
+                [
+                    "/wiki/Prospero's_Books"
+                ],
+                [
+                    {
+                        "entity id": "Q1236153",
+                        "label": "Prospero's Books"
+                    }
+                ]
+            ],
+            [
+                "Peter Greenaway",
+                [
+                    "/wiki/Peter_Greenaway"
+                ],
+                [
+                    {
+                        "entity id": "Q55282",
+                        "label": "Peter Greenaway"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom",
+                [
+                    "/wiki/United_Kingdom"
+                ],
+                [
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1993",
+                []
+            ],
+            [
+                "Coffee and Cigarettes III",
+                [
+                    "/wiki/Coffee_and_Cigarettes_III"
+                ],
+                [
+                    {
+                        "entity id": "Q3700710",
+                        "label": "Coffee and Cigarettes: Somewhere in California"
+                    }
+                ]
+            ],
+            [
+                "Jim Jarmusch",
+                [
+                    "/wiki/Jim_Jarmusch"
+                ],
+                [
+                    {
+                        "entity id": "Q191755",
+                        "label": "Jim Jarmusch"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1994",
+                []
+            ],
+            [
+                "Arizona Dream",
+                [
+                    "/wiki/Arizona_Dream"
+                ],
+                [
+                    {
+                        "entity id": "Q260616",
+                        "label": "Arizona Dream"
+                    }
+                ]
+            ],
+            [
+                "Emir Kusturica",
+                [
+                    "/wiki/Emir_Kusturica"
+                ],
+                [
+                    {
+                        "entity id": "Q94882",
+                        "label": "Emir Kusturica"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1995",
+                []
+            ],
+            [
+                "Before the Rain",
+                [
+                    "/wiki/Before_the_Rain_(1994_film)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Milcho Manchevski \u2248",
+                [
+                    "/wiki/Milcho_Manchevski"
+                ],
+                [
+                    {
+                        "entity id": "Q558481",
+                        "label": "Milcho Manchevski"
+                    }
+                ]
+            ],
+            [
+                "North Macedonia",
+                [
+                    "/wiki/North_Macedonia"
+                ],
+                [
+                    {
+                        "entity id": "Q221",
+                        "label": "North Macedonia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1996",
+                []
+            ],
+            [
+                "Trainspotting",
+                [
+                    "/wiki/Trainspotting_(film)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Danny Boyle \u2248",
+                [
+                    "/wiki/Danny_Boyle"
+                ],
+                [
+                    {
+                        "entity id": "Q134867",
+                        "label": "Danny Boyle"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom",
+                [
+                    "/wiki/United_Kingdom"
+                ],
+                [
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1997",
+                []
+            ],
+            [
+                "The Full Monty",
+                [
+                    "/wiki/The_Full_Monty"
+                ],
+                [
+                    {
+                        "entity id": "Q775970",
+                        "label": "The Full Monty"
+                    }
+                ]
+            ],
+            [
+                "Peter Cattaneo \u2248",
+                [
+                    "/wiki/Peter_Cattaneo"
+                ],
+                [
+                    {
+                        "entity id": "Q1241761",
+                        "label": "Peter Cattaneo"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom",
+                [
+                    "/wiki/United_Kingdom"
+                ],
+                [
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1998",
+                []
+            ],
+            [
+                "Life Is Beautiful",
+                [
+                    "/wiki/Life_Is_Beautiful"
+                ],
+                [
+                    {
+                        "entity id": "Q19355",
+                        "label": "Life is Beautiful"
+                    }
+                ]
+            ],
+            [
+                "Roberto Benigni \u2260",
+                [
+                    "/wiki/Roberto_Benigni"
+                ],
+                [
+                    {
+                        "entity id": "Q23301",
+                        "label": "Roberto Benigni"
+                    }
+                ]
+            ],
+            [
+                "Italy",
+                [
+                    "/wiki/Italy"
+                ],
+                [
+                    {
+                        "entity id": "Q38",
+                        "label": "Italy"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1999",
+                []
+            ],
+            [
+                "Children of Heaven",
+                [
+                    "/wiki/Children_of_Heaven"
+                ],
+                [
+                    {
+                        "entity id": "Q339804",
+                        "label": "Children of Heaven"
+                    }
+                ]
+            ],
+            [
+                "Majid Majidi",
+                [
+                    "/wiki/Majid_Majidi"
+                ],
+                [
+                    {
+                        "entity id": "Q81770",
+                        "label": "Majid Majidi"
+                    }
+                ]
+            ],
+            [
+                "Iran",
+                [
+                    "/wiki/Iran"
+                ],
+                [
+                    {
+                        "entity id": "Q794",
+                        "label": "Iran"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2000",
+                []
+            ],
+            [
+                "Loners",
+                [
+                    "/wiki/Loners"
+                ],
+                [
+                    {
+                        "entity id": "Q2894483",
+                        "label": "The Loners"
+                    }
+                ]
+            ],
+            [
+                "David Ond\u0159\u00ed\u010dek",
+                []
+            ],
+            [
+                "Czech Republic",
+                [
+                    "/wiki/Czech_Republic"
+                ],
+                [
+                    {
+                        "entity id": "Q213",
+                        "label": "Czech Republic"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2001",
+                []
+            ],
+            [
+                "Italian for Beginners",
+                [
+                    "/wiki/Italian_for_Beginners"
+                ],
+                [
+                    {
+                        "entity id": "Q643268",
+                        "label": "Italian for Beginners"
+                    }
+                ]
+            ],
+            [
+                "Lone Scherfig",
+                [
+                    "/wiki/Lone_Scherfig"
+                ],
+                [
+                    {
+                        "entity id": "Q241546",
+                        "label": "Lone Scherfig"
+                    }
+                ]
+            ],
+            [
+                "Denmark",
+                [
+                    "/wiki/Denmark"
+                ],
+                [
+                    {
+                        "entity id": "Q35",
+                        "label": "Denmark"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2002",
+                []
+            ],
+            [
+                "Elling",
+                [
+                    "/wiki/Elling"
+                ],
+                [
+                    {
+                        "entity id": "Q303312",
+                        "label": "Elling"
+                    }
+                ]
+            ],
+            [
+                "Petter N\u00e6ss",
+                [
+                    "/wiki/Petter_N\u00e6ss"
+                ],
+                [
+                    {
+                        "entity id": "Q777790",
+                        "label": "Petter N\u00e6ss"
+                    }
+                ]
+            ],
+            [
+                "Norway",
+                [
+                    "/wiki/Norway"
+                ],
+                [
+                    {
+                        "entity id": "Q20",
+                        "label": "Norway"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2003",
+                []
+            ],
+            [
+                "Buddy",
+                [
+                    "/wiki/Buddy_(2003_film)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Morten Tyldum",
+                [
+                    "/wiki/Morten_Tyldum"
+                ],
+                [
+                    {
+                        "entity id": "Q3425142",
+                        "label": "Morten Tyldum"
+                    }
+                ]
+            ],
+            [
+                "Norway",
+                [
+                    "/wiki/Norway"
+                ],
+                [
+                    {
+                        "entity id": "Q20",
+                        "label": "Norway"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2004",
+                []
+            ],
+            [
+                "Kontroll",
+                [
+                    "/wiki/Kontroll"
+                ],
+                [
+                    {
+                        "entity id": "Q1073297",
+                        "label": "Kontroll"
+                    }
+                ]
+            ],
+            [
+                "Nimr\u00f3d Antal",
+                [
+                    "/wiki/Nimr\u00f3d_Antal"
+                ],
+                [
+                    {
+                        "entity id": "Q771774",
+                        "label": "Nimr\u00f3d Antal"
+                    }
+                ]
+            ],
+            [
+                "Hungary",
+                [
+                    "/wiki/Hungary"
+                ],
+                [
+                    {
+                        "entity id": "Q28",
+                        "label": "Hungary"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2005",
+                []
+            ],
+            [
+                "Adam 's Apples",
+                [
+                    "/wiki/Adam's_Apples"
+                ],
+                [
+                    {
+                        "entity id": "Q352000",
+                        "label": "Adam's Apples"
+                    }
+                ]
+            ],
+            [
+                "Anders Thomas Jensen",
+                [
+                    "/wiki/Anders_Thomas_Jensen"
+                ],
+                [
+                    {
+                        "entity id": "Q491314",
+                        "label": "Anders Thomas Jensen"
+                    }
+                ]
+            ],
+            [
+                "Denmark",
+                [
+                    "/wiki/Denmark"
+                ],
+                [
+                    {
+                        "entity id": "Q35",
+                        "label": "Denmark"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2006",
+                []
+            ],
+            [
+                "The Lives of Others",
+                [
+                    "/wiki/The_Lives_of_Others"
+                ],
+                [
+                    {
+                        "entity id": "Q153882",
+                        "label": "The Lives of Others"
+                    }
+                ]
+            ],
+            [
+                "Florian Henckel von Donnersmarck \u2260",
+                []
+            ],
+            [
+                "Germany",
+                [
+                    "/wiki/Germany"
+                ],
+                [
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Award winners -- Audience award",
+    "section_text": "",
+    "uid": "Warsaw_International_Film_Festival_0",
+    "intro": "Warsaw Film Festival (Polish: Warszawski Festiwal Filmowy, abbreviated as WFF) is an annual film festival held every October in Warsaw, Poland which previews new films of all genres, including documentaries from all around the world. The festival has been held every year since 1985. In 2008, it was recognized by FIAPF as a competitive film festival specialised in first and second features and films from Central and Eastern Europe. The festival is host to the International Federation of Film Critics awards for enterprising filmmaking in Central Europe and beyond (i.e. Denmark and Israel). The 35th edition will take place between 11 October to 20 October 2019."
+}

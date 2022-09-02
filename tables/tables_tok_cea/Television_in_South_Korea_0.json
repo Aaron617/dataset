@@ -1,0 +1,551 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Television_in_South_Korea",
+    "title": "Television in South Korea",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Owner",
+            []
+        ],
+        [
+            "Launch",
+            []
+        ],
+        [
+            "Covers",
+            []
+        ],
+        [
+            "Genre",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "MBC TV",
+                [
+                    "/wiki/Munhwa_Broadcasting_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q482607",
+                        "label": "Munhwa Broadcasting Corporation"
+                    }
+                ]
+            ],
+            [
+                "MBC",
+                [
+                    "/wiki/Munhwa_Broadcasting_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q482607",
+                        "label": "Munhwa Broadcasting Corporation"
+                    }
+                ]
+            ],
+            [
+                "August 1 , 1969",
+                []
+            ],
+            [
+                "Nationwide",
+                []
+            ],
+            [
+                "News and entertainment",
+                []
+            ]
+        ],
+        [
+            [
+                "SBS TV",
+                [
+                    "/wiki/Seoul_Broadcasting_System"
+                ],
+                [
+                    {
+                        "entity id": "Q928831",
+                        "label": "Seoul Broadcasting System"
+                    }
+                ]
+            ],
+            [
+                "SBS Media Holdings",
+                [
+                    "/wiki/Seoul_Broadcasting_System"
+                ],
+                [
+                    {
+                        "entity id": "Q928831",
+                        "label": "Seoul Broadcasting System"
+                    }
+                ]
+            ],
+            [
+                "March 20 , 1991",
+                []
+            ],
+            [
+                "Previously Seoul National Capital Area ; now nationwide",
+                [
+                    "/wiki/Seoul_National_Capital_Area"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "News and entertainment",
+                []
+            ]
+        ],
+        [
+            [
+                "KNN",
+                [
+                    "/wiki/Korea_New_Network"
+                ],
+                [
+                    {
+                        "entity id": "Q483657",
+                        "label": "Korea New Network"
+                    }
+                ]
+            ],
+            [
+                "Korea New Network Corporation",
+                []
+            ],
+            [
+                "March 14 , 1995",
+                []
+            ],
+            [
+                "Busan and Gyeongnam",
+                [
+                    "/wiki/Busan",
+                    "/wiki/Gyeongsangnam-do"
+                ],
+                [
+                    {
+                        "entity id": "Q16520",
+                        "label": "Busan"
+                    },
+                    {
+                        "entity id": "Q41151",
+                        "label": "South Gyeongsang"
+                    }
+                ]
+            ],
+            [
+                "Local entertainment and news",
+                []
+            ]
+        ],
+        [
+            [
+                "TBC",
+                [
+                    "/wiki/Daegu_Broadcasting_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q5208189",
+                        "label": "TBC"
+                    }
+                ]
+            ],
+            [
+                "Daegu Broadcasting Corporation",
+                [
+                    "/wiki/Daegu_Broadcasting_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q5208189",
+                        "label": "TBC"
+                    }
+                ]
+            ],
+            [
+                "March 14 , 1995",
+                []
+            ],
+            [
+                "Daegu and Gyeongbuk",
+                [
+                    "/wiki/Daegu",
+                    "/wiki/Gyeongsangbuk-do"
+                ],
+                [
+                    {
+                        "entity id": "Q20927",
+                        "label": "Daegu"
+                    },
+                    {
+                        "entity id": "Q41154",
+                        "label": "North Gyeongsang"
+                    }
+                ]
+            ],
+            [
+                "Local entertainment and news",
+                []
+            ]
+        ],
+        [
+            [
+                "KBC",
+                [
+                    "/wiki/Kwangju_Broadcasting_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q624341",
+                        "label": "Kwangju Broadcasting Corporation"
+                    }
+                ]
+            ],
+            [
+                "Broadcasting Corporation",
+                []
+            ],
+            [
+                "March 14 , 1995",
+                []
+            ],
+            [
+                "Gwangju and Jeonnam",
+                [
+                    "/wiki/Gwangju",
+                    "/wiki/Jeollanam-do"
+                ],
+                [
+                    {
+                        "entity id": "Q41283",
+                        "label": "Gwangju"
+                    },
+                    {
+                        "entity id": "Q41161",
+                        "label": "South Jeolla"
+                    }
+                ]
+            ],
+            [
+                "Local entertainment and news",
+                []
+            ]
+        ],
+        [
+            [
+                "TJB",
+                [
+                    "/wiki/Taejon_Broadcasting_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q7674760",
+                        "label": "Taejon Broadcasting Corporation"
+                    }
+                ]
+            ],
+            [
+                "Taejon Broadcasting Corporation",
+                [
+                    "/wiki/Taejon_Broadcasting_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q7674760",
+                        "label": "Taejon Broadcasting Corporation"
+                    }
+                ]
+            ],
+            [
+                "March 14 , 1995",
+                []
+            ],
+            [
+                "Daejeon , Sejong City and Chungnam",
+                [
+                    "/wiki/Daejeon",
+                    "/wiki/Sejong_City",
+                    "/wiki/Chungcheongnam-do"
+                ],
+                [
+                    {
+                        "entity id": "Q20921",
+                        "label": "Daejeon"
+                    },
+                    {
+                        "entity id": "Q20929",
+                        "label": "Sejong City"
+                    },
+                    {
+                        "entity id": "Q41070",
+                        "label": "South Chungcheong Province"
+                    }
+                ]
+            ],
+            [
+                "Local entertainment and news",
+                []
+            ]
+        ],
+        [
+            [
+                "UBC",
+                [
+                    "/wiki/Ulsan_Broadcasting_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q7879923",
+                        "label": "Ulsan Broadcasting Corporation"
+                    }
+                ]
+            ],
+            [
+                "Ulsan Broadcasting Corporation",
+                [
+                    "/wiki/Ulsan_Broadcasting_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q7879923",
+                        "label": "Ulsan Broadcasting Corporation"
+                    }
+                ]
+            ],
+            [
+                "September 1 , 1997",
+                []
+            ],
+            [
+                "Ulsan , eastern part of Gyeongnam",
+                [
+                    "/wiki/Ulsan",
+                    "/wiki/Gyeongsangnam-do"
+                ],
+                [
+                    {
+                        "entity id": "Q41278",
+                        "label": "Ulsan"
+                    },
+                    {
+                        "entity id": "Q41151",
+                        "label": "South Gyeongsang"
+                    }
+                ]
+            ],
+            [
+                "Local entertainment and news",
+                []
+            ]
+        ],
+        [
+            [
+                "JTV",
+                [
+                    "/wiki/Jeonju_Television"
+                ],
+                [
+                    {
+                        "entity id": "Q6180346",
+                        "label": "Jeonju Television"
+                    }
+                ]
+            ],
+            [
+                "Jeonju Television",
+                [
+                    "/wiki/Jeonju_Television"
+                ],
+                [
+                    {
+                        "entity id": "Q6180346",
+                        "label": "Jeonju Television"
+                    }
+                ]
+            ],
+            [
+                "September 17 , 1997",
+                []
+            ],
+            [
+                "Jeonbuk",
+                [
+                    "/wiki/Jeollabuk-do"
+                ],
+                [
+                    {
+                        "entity id": "Q41157",
+                        "label": "North Jeolla"
+                    }
+                ]
+            ],
+            [
+                "Local entertainment and news",
+                []
+            ]
+        ],
+        [
+            [
+                "CJB",
+                [
+                    "/wiki/Cheongju_Broadcasting"
+                ],
+                [
+                    {
+                        "entity id": "Q5091651",
+                        "label": "Cheongju Broadcasting"
+                    }
+                ]
+            ],
+            [
+                "Cheongju Broadcasting Corporation",
+                []
+            ],
+            [
+                "October 18 , 1997",
+                []
+            ],
+            [
+                "Chungbuk",
+                [
+                    "/wiki/Chungcheongbuk-do"
+                ],
+                [
+                    {
+                        "entity id": "Q41066",
+                        "label": "North Chungcheong Province"
+                    }
+                ]
+            ],
+            [
+                "Local entertainment and news",
+                []
+            ]
+        ],
+        [
+            [
+                "G1",
+                [
+                    "/wiki/Gangwon_No.1_Broadcasting"
+                ],
+                [
+                    {
+                        "entity id": "Q5521286",
+                        "label": "Gangwon No.1 Broadcasting"
+                    }
+                ]
+            ],
+            [
+                "Gangwon No.1 Broadcasting Corporation",
+                []
+            ],
+            [
+                "December 15 , 2001",
+                []
+            ],
+            [
+                "Gangwon",
+                [
+                    "/wiki/Gangwon-do_(South_Korea)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Local entertainment and news",
+                []
+            ]
+        ],
+        [
+            [
+                "JIBS",
+                [
+                    "/wiki/Jeju_Free_International_City_Broadcasting_System"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Jeju Free International City Broadcasting System Corporation",
+                []
+            ],
+            [
+                "May 31 , 2002",
+                []
+            ],
+            [
+                "Jeju",
+                [
+                    "/wiki/Jeju-do"
+                ],
+                [
+                    {
+                        "entity id": "Q41164",
+                        "label": "Jeju Province"
+                    }
+                ]
+            ],
+            [
+                "Local entertainment and news",
+                []
+            ]
+        ],
+        [
+            [
+                "OBS",
+                [
+                    "/wiki/OBS_Gyeongin_TV"
+                ],
+                [
+                    {
+                        "entity id": "Q483438",
+                        "label": "OBS Gyeongin TV"
+                    }
+                ]
+            ],
+            [
+                "Yeong An Hat Company",
+                []
+            ],
+            [
+                "December 28 , 2007",
+                []
+            ],
+            [
+                "Seoul National Capital Area",
+                [
+                    "/wiki/Seoul_National_Capital_Area"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Metropolitan entertainment",
+                [
+                    "/wiki/Seoul_National_Capital_Area"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ]
+    ],
+    "section_title": "List of television channels -- Commercial broadcasting channels",
+    "section_text": "In South Korea , many commercial television networks have been created after the deregulation taken in 1961 till 1990 . [ 4 ] SBS is responsible in distributing its programming content nationally , but is not responsible for producing local content aired by their affiliates .",
+    "uid": "Television_in_South_Korea_0",
+    "intro": "In South Korea, there are a number of national television networks, the three largest of which are KBS, MBC, and SBS. Most of the major television studios are located on Yeouido and Sangam-dong. South Korea became the third adopter in Asia when television broadcasting began on 12 May 1956 with the opening of HLKZ-TV, a commercially operated television station. HLKZ-TV was established by the RCA Distribution Company (KORCAD) in Seoul with 186-192 MHz, 100-watt output, and 525 scanning lines. Important genres of television shows include serial dramas, historical dramas, variety shows, game shows, news programs, and documentaries. All three networks have produced increasingly lavish historical dramas in recent years. Some South Korean television programs are available on satellite and multicultural channels in foreign countries. Korean television dramas have been widely popular in other East Asian, South Asian and Southeast Asian countries, and became popularized internationally at a later stage, with whole sets of videotapes or DVDs of series available with completed subtitles in different languages, online subtitle websites are also created by numerous fan clubs to cater to a global audience. Shopping channels have become quite popular in recent years as well, and the models sometimes put on entertaining acts during product pitches. There are many cable operators in South Korea, such as Tbroad, C&M, CMB, and CJ HelloVision. There are approximately 14 million cable TV subscribers nationwide. The cable operator provides TPS to its subscribers."
+}

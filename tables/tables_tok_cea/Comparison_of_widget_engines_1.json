@@ -1,0 +1,703 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_widget_engines",
+    "title": "Comparison of widget engines",
+    "header": [
+        [
+            "Engine",
+            []
+        ],
+        [
+            "IDE",
+            [
+                "/wiki/Integrated_development_environment"
+            ],
+            [
+                {
+                    "entity id": "Q13741",
+                    "label": "integrated development environment"
+                }
+            ]
+        ],
+        [
+            "Widget Container",
+            []
+        ],
+        [
+            "Widget MIME Type",
+            [
+                "/wiki/Internet_media_type"
+            ],
+            [
+                {
+                    "entity id": "Q1667978",
+                    "label": "media type"
+                }
+            ]
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Adobe AIR",
+                [
+                    "/wiki/Adobe_Integrated_Runtime"
+                ],
+                [
+                    {
+                        "entity id": "Q360310",
+                        "label": "Adobe AIR"
+                    }
+                ]
+            ],
+            [
+                "Flex Builder 3 , Flash CS4 , Dreamweaver CS4",
+                [
+                    "/wiki/Adobe_Flex",
+                    "/wiki/Adobe_Flash",
+                    "/wiki/Adobe_Dreamweaver"
+                ],
+                [
+                    {
+                        "entity id": "Q616759",
+                        "label": "Apache Flex"
+                    },
+                    {
+                        "entity id": "Q165658",
+                        "label": "Adobe Flash"
+                    },
+                    {
+                        "entity id": "Q192324",
+                        "label": "Adobe Dreamweaver"
+                    }
+                ]
+            ],
+            [
+                "ZIP",
+                [
+                    "/wiki/ZIP_(file_format)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "application/vnd.adobe.air-application-installer-package+zip",
+                []
+            ]
+        ],
+        [
+            [
+                "AveDesk",
+                [
+                    "/wiki/AveDesk"
+                ],
+                [
+                    {
+                        "entity id": "Q4827928",
+                        "label": "AveDesk"
+                    }
+                ]
+            ],
+            [
+                "AveScripter",
+                []
+            ],
+            [
+                "ZIP",
+                [
+                    "/wiki/ZIP_(file_format)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "?",
+                []
+            ]
+        ],
+        [
+            [
+                "Dashboard",
+                [
+                    "/wiki/Dashboard_(Mac_OS)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Dashcode",
+                [
+                    "/wiki/Dashcode"
+                ],
+                [
+                    {
+                        "entity id": "Q1171875",
+                        "label": "Dashcode"
+                    }
+                ]
+            ],
+            [
+                "ZIP",
+                [
+                    "/wiki/ZIP_(file_format)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "application/x-macbinary",
+                []
+            ]
+        ],
+        [
+            [
+                "DesktopX",
+                [
+                    "/wiki/DesktopX"
+                ],
+                [
+                    {
+                        "entity id": "Q5264564",
+                        "label": "DesktopX"
+                    }
+                ]
+            ],
+            [
+                "Desktop X Pro",
+                [
+                    "/wiki/DesktopX"
+                ],
+                [
+                    {
+                        "entity id": "Q5264564",
+                        "label": "DesktopX"
+                    }
+                ]
+            ],
+            [
+                "EXE",
+                [
+                    "/wiki/EXE"
+                ],
+                [
+                    {
+                        "entity id": "Q1238790",
+                        "label": "River Exe"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ]
+        ],
+        [
+            [
+                "gDesklets",
+                [
+                    "/wiki/GDesklets"
+                ],
+                [
+                    {
+                        "entity id": "Q287798",
+                        "label": "gDesklets"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Tar.gz",
+                [
+                    "/wiki/Tar.gz"
+                ],
+                [
+                    {
+                        "entity id": "Q283579",
+                        "label": "tar"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ]
+        ],
+        [
+            [
+                "Google Desktop Gadgets",
+                [
+                    "/wiki/Google_Desktop"
+                ],
+                [
+                    {
+                        "entity id": "Q79536",
+                        "label": "Google Desktop"
+                    }
+                ]
+            ],
+            [
+                "Google Desktop Gadget Designer",
+                []
+            ],
+            [
+                "ZIP",
+                [
+                    "/wiki/ZIP_(file_format)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "app/gg",
+                []
+            ]
+        ],
+        [
+            [
+                "Kapsules",
+                [
+                    "/wiki/Kapsules"
+                ],
+                [
+                    {
+                        "entity id": "Q16998125",
+                        "label": "Kapsules"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "ZIP",
+                [
+                    "/wiki/ZIP_(file_format)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "?",
+                []
+            ]
+        ],
+        [
+            [
+                "KlipFolio",
+                [
+                    "/wiki/KlipFolio"
+                ],
+                [
+                    {
+                        "entity id": "Q6421108",
+                        "label": "Klipfolio Dashboard"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Proprietary XML Format",
+                [
+                    "/wiki/XML"
+                ],
+                [
+                    {
+                        "entity id": "Q2115",
+                        "label": "Extensible Markup Language"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ]
+        ],
+        [
+            [
+                "Microsoft Gadgets",
+                [
+                    "/wiki/Microsoft_Gadgets"
+                ],
+                [
+                    {
+                        "entity id": "Q909466",
+                        "label": "Microsoft Gadgets"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "ZIP",
+                [
+                    "/wiki/ZIP_(file_format)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "application/x-windows-gadget",
+                []
+            ]
+        ],
+        [
+            [
+                "NetFront",
+                [
+                    "/wiki/NetFront"
+                ],
+                [
+                    {
+                        "entity id": "Q595374",
+                        "label": "NetFront"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "ZIP",
+                [
+                    "/wiki/ZIP_(file_format)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "application/x-opera-widgets",
+                []
+            ]
+        ],
+        [
+            [
+                "Netvibes",
+                [
+                    "/wiki/Netvibes"
+                ],
+                [
+                    {
+                        "entity id": "Q938171",
+                        "label": "Netvibes"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Online",
+                []
+            ],
+            [
+                "?",
+                []
+            ]
+        ],
+        [
+            [
+                "Opera",
+                [
+                    "/wiki/Opera_(web_browser)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Opera Dragonfly",
+                [
+                    "/wiki/Opera_Dragonfly"
+                ],
+                [
+                    {
+                        "entity id": "Q7096589",
+                        "label": "Opera Dragonfly"
+                    }
+                ]
+            ],
+            [
+                "ZIP",
+                [
+                    "/wiki/ZIP_(file_format)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "application/x-opera-widgets",
+                []
+            ]
+        ],
+        [
+            [
+                "Plasma",
+                [
+                    "/wiki/KDE_Plasma_4"
+                ],
+                [
+                    {
+                        "entity id": "Q1138977",
+                        "label": "KDE Plasma 4"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "ZIP , with plasmoid as extension instead of zip",
+                [
+                    "/wiki/ZIP_(file_format)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "?",
+                []
+            ]
+        ],
+        [
+            [
+                "Screenlets",
+                [
+                    "/wiki/Screenlets"
+                ],
+                [
+                    {
+                        "entity id": "Q7439063",
+                        "label": "Screenlets"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Tar.gz",
+                [
+                    "/wiki/Tar.gz"
+                ],
+                [
+                    {
+                        "entity id": "Q283579",
+                        "label": "tar"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ]
+        ],
+        [
+            [
+                "Serious Samurize",
+                [
+                    "/wiki/Serious_Samurize"
+                ],
+                [
+                    {
+                        "entity id": "Q444255",
+                        "label": "Samurize"
+                    }
+                ]
+            ],
+            [
+                "Serious Samurize Config Editor",
+                []
+            ],
+            [
+                "ZIP",
+                [
+                    "/wiki/ZIP_(file_format)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "?",
+                []
+            ]
+        ],
+        [
+            [
+                "SuperKaramba",
+                [
+                    "/wiki/SuperKaramba"
+                ],
+                [
+                    {
+                        "entity id": "Q1895005",
+                        "label": "SuperKaramba"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Tar.gz",
+                [
+                    "/wiki/Tar.gz"
+                ],
+                [
+                    {
+                        "entity id": "Q283579",
+                        "label": "tar"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ]
+        ],
+        [
+            [
+                "WebKit",
+                [
+                    "/wiki/WebKit"
+                ],
+                [
+                    {
+                        "entity id": "Q654034",
+                        "label": "WebKit"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "?",
+                []
+            ]
+        ],
+        [
+            [
+                "WidSets",
+                [
+                    "/wiki/WidSets"
+                ],
+                [
+                    {
+                        "entity id": "Q12010601",
+                        "label": "WidSets"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "?",
+                []
+            ]
+        ],
+        [
+            [
+                "Yahoo ! Widgets",
+                [
+                    "/wiki/Yahoo!_Widgets"
+                ],
+                [
+                    {
+                        "entity id": "Q1779772",
+                        "label": "Yahoo! Widgets"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Proprietary Format , ZIP",
+                [
+                    "/wiki/ZIP_(file_format)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "application/vnd.yahoo.Widget",
+                []
+            ]
+        ],
+        [
+            [
+                "Engine",
+                []
+            ],
+            [
+                "IDE",
+                [
+                    "/wiki/Integrated_development_environment"
+                ],
+                [
+                    {
+                        "entity id": "Q13741",
+                        "label": "integrated development environment"
+                    }
+                ]
+            ],
+            [
+                "Widget Container",
+                []
+            ],
+            [
+                "Widget MIME Type",
+                [
+                    "/wiki/Internet_media_type"
+                ],
+                [
+                    {
+                        "entity id": "Q1667978",
+                        "label": "media type"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Technical -- Formats and Development",
+    "section_text": "",
+    "uid": "Comparison_of_widget_engines_1",
+    "intro": "This is a comparison of widget engines. This article is not about widget toolkits that are used in computer programming to build graphical user interfaces."
+}

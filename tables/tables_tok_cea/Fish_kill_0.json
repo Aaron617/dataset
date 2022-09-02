@@ -1,0 +1,967 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Fish_kill",
+    "title": "Fish kill",
+    "header": [
+        [
+            "Event/Location",
+            []
+        ],
+        [
+            "Date",
+            []
+        ],
+        [
+            "Count",
+            []
+        ],
+        [
+            "Species",
+            []
+        ],
+        [
+            "Remarks",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Gulf of Mexico ( Corpus Christi )",
+                [
+                    "/wiki/Gulf_of_Mexico",
+                    "/wiki/Corpus_Christi,_Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q12630",
+                        "label": "Gulf of Mexico"
+                    },
+                    {
+                        "entity id": "Q49242",
+                        "label": "Corpus Christi"
+                    }
+                ]
+            ],
+            [
+                "1935",
+                []
+            ],
+            [
+                "22,000,000",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Caused by red tide . This event caused coughing , sneezing and watery red eyes in humans",
+                [
+                    "/wiki/Red_tide"
+                ],
+                [
+                    {
+                        "entity id": "Q1211248",
+                        "label": "red tide"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "River Aeron",
+                [
+                    "/wiki/River_Aeron"
+                ],
+                [
+                    {
+                        "entity id": "Q2066304",
+                        "label": "River Aeron"
+                    }
+                ]
+            ],
+            [
+                "1974",
+                []
+            ],
+            [
+                "10,000",
+                []
+            ],
+            [
+                "salmon , trout",
+                [
+                    "/wiki/Salmon",
+                    "/wiki/Trout"
+                ],
+                [
+                    {
+                        "entity id": "Q2796766",
+                        "label": "salmon"
+                    },
+                    {
+                        "entity id": "Q2258881",
+                        "label": "trout"
+                    }
+                ]
+            ],
+            [
+                "Discharge of creamery waste through poorly maintained sewer . Successful prosecution followed",
+                [
+                    "/wiki/Creamery"
+                ],
+                [
+                    {
+                        "entity id": "Q61140231",
+                        "label": "creamery"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "River Neath",
+                [
+                    "/wiki/River_Neath"
+                ],
+                [
+                    {
+                        "entity id": "Q2089585",
+                        "label": "River Neath"
+                    }
+                ]
+            ],
+            [
+                "1976",
+                []
+            ],
+            [
+                "50,000",
+                []
+            ],
+            [
+                "salmon , trout",
+                [
+                    "/wiki/Salmon",
+                    "/wiki/Trout"
+                ],
+                [
+                    {
+                        "entity id": "Q2796766",
+                        "label": "salmon"
+                    },
+                    {
+                        "entity id": "Q2258881",
+                        "label": "trout"
+                    }
+                ]
+            ],
+            [
+                "Extreme drought left fish stranded in stagnant pools into which sewers drained",
+                []
+            ]
+        ],
+        [
+            [
+                "River Ogmore",
+                [
+                    "/wiki/River_Ogmore"
+                ],
+                [
+                    {
+                        "entity id": "Q3406402",
+                        "label": "River Ogmore"
+                    }
+                ]
+            ],
+            [
+                "1979",
+                []
+            ],
+            [
+                "50,000",
+                []
+            ],
+            [
+                "salmon , trout",
+                [
+                    "/wiki/Salmon",
+                    "/wiki/Trout"
+                ],
+                [
+                    {
+                        "entity id": "Q2796766",
+                        "label": "salmon"
+                    },
+                    {
+                        "entity id": "Q2258881",
+                        "label": "trout"
+                    }
+                ]
+            ],
+            [
+                "Spillage of Kymene from a paper mill on the River Llynfi a tributary of the Ogmore . Successful prosecution followed and substantial compensation",
+                [
+                    "/wiki/Paper_mill",
+                    "/wiki/River_Llynfi"
+                ],
+                [
+                    {
+                        "entity id": "Q2283886",
+                        "label": "pulp and paper industry"
+                    },
+                    {
+                        "entity id": "Q7337600",
+                        "label": "River Llynfi"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Gulf of Mexico",
+                [
+                    "/wiki/Gulf_of_Mexico"
+                ],
+                [
+                    {
+                        "entity id": "Q12630",
+                        "label": "Gulf of Mexico"
+                    }
+                ]
+            ],
+            [
+                "1986",
+                []
+            ],
+            [
+                "22,000,000",
+                []
+            ],
+            [
+                "Gulf menhaden , striped mullet , various other species",
+                [
+                    "/wiki/Gulf_menhaden",
+                    "/wiki/Striped_mullet"
+                ],
+                [
+                    {
+                        "entity id": "Q2053687",
+                        "label": "Gulf menhaden"
+                    },
+                    {
+                        "entity id": "Q60464164",
+                        "label": "Striped mullet (Mugil cephalus) hemoglobin system: multiplicity and functional properties"
+                    }
+                ]
+            ],
+            [
+                "Caused by red tide",
+                [
+                    "/wiki/Red_tide"
+                ],
+                [
+                    {
+                        "entity id": "Q1211248",
+                        "label": "red tide"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Rhine River",
+                [
+                    "/wiki/Rhine_River"
+                ],
+                [
+                    {
+                        "entity id": "Q83639022",
+                        "label": "Rhine River"
+                    }
+                ]
+            ],
+            [
+                "1986 01",
+                []
+            ],
+            [
+                "500,000",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Caused by spill from Swiss chemical warehouse",
+                []
+            ]
+        ],
+        [
+            [
+                "Texas coast",
+                []
+            ],
+            [
+                "1997-1998",
+                []
+            ],
+            [
+                "21,000,000",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Caused by a bloom of Karenia brevis",
+                [
+                    "/wiki/Karenia_brevis"
+                ],
+                [
+                    {
+                        "entity id": "Q293143",
+                        "label": "Karenia brevis"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "White River ; West Fork , Indiana",
+                [
+                    "/wiki/White_River_(Indiana)",
+                    "/wiki/West_Fork,_Indiana"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q7985172",
+                        "label": "West Fork"
+                    }
+                ]
+            ],
+            [
+                "1999",
+                []
+            ],
+            [
+                "4,800,000",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Caused by an automotive parts maker in Anderson , Indiana , which had discharged 10,000 gallons of the chemical HMP 2000 into the river",
+                [
+                    "/wiki/Anderson,_Indiana"
+                ],
+                [
+                    {
+                        "entity id": "Q491461",
+                        "label": "Anderson"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "River Dee ( United Kingdom )",
+                [
+                    "/wiki/River_Dee_(United_Kingdom)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "2000 07",
+                []
+            ],
+            [
+                "100,000",
+                []
+            ],
+            [
+                "salmon , trout , perch",
+                [
+                    "/wiki/Salmon",
+                    "/wiki/Trout",
+                    "/wiki/Perch"
+                ],
+                [
+                    {
+                        "entity id": "Q2796766",
+                        "label": "salmon"
+                    },
+                    {
+                        "entity id": "Q2258881",
+                        "label": "trout"
+                    },
+                    {
+                        "entity id": "Q166812",
+                        "label": "European perch"
+                    }
+                ]
+            ],
+            [
+                "Unconfirmed link to release of whey into river",
+                [
+                    "/wiki/Whey"
+                ],
+                [
+                    {
+                        "entity id": "Q185009",
+                        "label": "whey"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Klamath River",
+                [
+                    "/wiki/2002_Klamath_River_fish_kill"
+                ],
+                [
+                    {
+                        "entity id": "Q4600209",
+                        "label": "2002 Klamath River fish kill"
+                    }
+                ]
+            ],
+            [
+                "2002 09",
+                []
+            ],
+            [
+                "70,000",
+                []
+            ],
+            [
+                "salmon",
+                [
+                    "/wiki/Salmon"
+                ],
+                [
+                    {
+                        "entity id": "Q2796766",
+                        "label": "salmon"
+                    }
+                ]
+            ],
+            [
+                "Low flow of water due to drought and water diversions for agriculture led to heated and shallow water , increasing vulnerability to a gill disease",
+                []
+            ]
+        ],
+        [
+            [
+                "Neuse River , North Carolina",
+                [
+                    "/wiki/Neuse_River",
+                    "/wiki/North_Carolina"
+                ],
+                [
+                    {
+                        "entity id": "Q1606944",
+                        "label": "Neuse River"
+                    },
+                    {
+                        "entity id": "Q1454",
+                        "label": "North Carolina"
+                    }
+                ]
+            ],
+            [
+                "2004 09",
+                []
+            ],
+            [
+                "1,900,000",
+                []
+            ],
+            [
+                "menhaden",
+                [
+                    "/wiki/Menhaden"
+                ],
+                [
+                    {
+                        "entity id": "Q218526",
+                        "label": "menhaden"
+                    }
+                ]
+            ],
+            [
+                "Natural upwelling of an acknowledged polluted river . Hydrogen sulfide smell reported",
+                []
+            ]
+        ],
+        [
+            [
+                "Taal Lake , Luzon , Philippines",
+                [
+                    "/wiki/Taal_Lake",
+                    "/wiki/Luzon"
+                ],
+                [
+                    {
+                        "entity id": "Q537695",
+                        "label": "Taal Lake"
+                    },
+                    {
+                        "entity id": "Q125384",
+                        "label": "Luzon"
+                    }
+                ]
+            ],
+            [
+                "2008 01 05",
+                []
+            ],
+            [
+                "50 metric tons",
+                []
+            ],
+            [
+                "tilapia",
+                [
+                    "/wiki/Tilapia"
+                ],
+                [
+                    {
+                        "entity id": "Q1770703",
+                        "label": "Tilapia"
+                    }
+                ]
+            ],
+            [
+                "May be linked to volcanic activity and large fish farms",
+                [
+                    "/wiki/Volcanic_activity",
+                    "/wiki/Fish_farms"
+                ],
+                [
+                    {
+                        "entity id": "Q26254161",
+                        "label": "volcanic activity"
+                    },
+                    {
+                        "entity id": "Q31816058",
+                        "label": "Fish Farms Mounds Wildlife Management Area"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Liuxihe River Guangzhou People 's Republic of China",
+                [
+                    "/wiki/Liuxihe_River",
+                    "/wiki/Guangzhou"
+                ],
+                [
+                    {
+                        "entity id": "Q11147873",
+                        "label": "Liuxihe River"
+                    },
+                    {
+                        "entity id": "Q16572",
+                        "label": "Guangzhou"
+                    }
+                ]
+            ],
+            [
+                "2008 09 09",
+                []
+            ],
+            [
+                "10,000",
+                []
+            ],
+            [
+                "carp",
+                [
+                    "/wiki/Carp"
+                ],
+                [
+                    {
+                        "entity id": "Q247577",
+                        "label": "Hiroshima Toyo Carp"
+                    }
+                ]
+            ],
+            [
+                "Unknown",
+                []
+            ]
+        ],
+        [
+            [
+                "Beaches at Thanet , Kent , England",
+                [
+                    "/wiki/Thanet_District"
+                ],
+                [
+                    {
+                        "entity id": "Q1752642",
+                        "label": "Thanet"
+                    }
+                ]
+            ],
+            [
+                "2010 01",
+                []
+            ],
+            [
+                "20,000",
+                []
+            ],
+            [
+                "velvet crab",
+                [
+                    "/wiki/Velvet_crab"
+                ],
+                [
+                    {
+                        "entity id": "Q853487",
+                        "label": "Velvet crab"
+                    }
+                ]
+            ],
+            [
+                "20000 + dead crabs - along with dead starfish , lobsters , sponges and anemones . Probably killed by hypothermia",
+                [
+                    "/wiki/Hypothermia"
+                ],
+                [
+                    {
+                        "entity id": "Q1036696",
+                        "label": "hypothermia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Ting River Fujian People 's Republic of China",
+                [
+                    "/wiki/Ting_River",
+                    "/wiki/Fujian"
+                ],
+                [
+                    {
+                        "entity id": "Q2510193",
+                        "label": "Ting River"
+                    },
+                    {
+                        "entity id": "Q41705",
+                        "label": "Fujian"
+                    }
+                ]
+            ],
+            [
+                "2010 07",
+                []
+            ],
+            [
+                "> 1,000,000 Enough to feed 70,000 people a year",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Part of the Zijin mining disaster",
+                [
+                    "/wiki/Zijin_Mining"
+                ],
+                [
+                    {
+                        "entity id": "Q202841",
+                        "label": "Zijin Mining Group"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mississippi River ; Plaquemines Parish , Louisiana",
+                [
+                    "/wiki/Mississippi_River",
+                    "/wiki/Plaquemines_Parish,_Louisiana"
+                ],
+                [
+                    {
+                        "entity id": "Q1497",
+                        "label": "Mississippi River"
+                    },
+                    {
+                        "entity id": "Q503864",
+                        "label": "Plaquemines Parish"
+                    }
+                ]
+            ],
+            [
+                "2010 09",
+                []
+            ],
+            [
+                "100,000",
+                []
+            ],
+            [
+                "redfish , trout , flounder",
+                [
+                    "/wiki/Redfish",
+                    "/wiki/Trout",
+                    "/wiki/Flounder"
+                ],
+                [
+                    {
+                        "entity id": "Q44064",
+                        "label": "sockeye salmon"
+                    },
+                    {
+                        "entity id": "Q2258881",
+                        "label": "trout"
+                    },
+                    {
+                        "entity id": "Q32020",
+                        "label": "JH-7"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Arkansas River ; Ozark , Arkansas",
+                [
+                    "/wiki/Arkansas_River",
+                    "/wiki/Ozark,_Arkansas"
+                ],
+                [
+                    {
+                        "entity id": "Q8319",
+                        "label": "Arkansas River"
+                    },
+                    {
+                        "entity id": "Q80049",
+                        "label": "Ozark"
+                    }
+                ]
+            ],
+            [
+                "2010 12",
+                []
+            ],
+            [
+                "100,000",
+                []
+            ],
+            [
+                "freshwater drum",
+                [
+                    "/wiki/Freshwater_drum"
+                ],
+                [
+                    {
+                        "entity id": "Q1961720",
+                        "label": "Aplodinotus grunniens"
+                    }
+                ]
+            ],
+            [
+                "Coincided with death of 5,000 red-winged blackbirds that fell from the sky",
+                [
+                    "/wiki/Red-winged_blackbird"
+                ],
+                [
+                    {
+                        "entity id": "Q754043",
+                        "label": "Red-winged Blackbird"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Chesapeake Bay",
+                [
+                    "/wiki/Chesapeake_Bay"
+                ],
+                [
+                    {
+                        "entity id": "Q216868",
+                        "label": "Chesapeake Bay"
+                    }
+                ]
+            ],
+            [
+                "2011 01",
+                []
+            ],
+            [
+                "2,000,000",
+                []
+            ],
+            [
+                "spot croakers",
+                [
+                    "/wiki/Spot_croaker"
+                ],
+                [
+                    {
+                        "entity id": "Q760307",
+                        "label": "Leiostomus xanthurus"
+                    }
+                ]
+            ],
+            [
+                "Included some juvenile croakers . Cold water stress was believed to be the cause",
+                [
+                    "/wiki/Croakers"
+                ],
+                [
+                    {
+                        "entity id": "Q108434501",
+                        "label": "Croakers and Swift Croakers"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Jiaxing Xiuzhou District People 's Republic of China",
+                [
+                    "/wiki/Jiaxing",
+                    "/wiki/Xiuzhou_District"
+                ],
+                [
+                    {
+                        "entity id": "Q58178",
+                        "label": "Jiaxing"
+                    },
+                    {
+                        "entity id": "Q1334143",
+                        "label": "Xiuzhou District"
+                    }
+                ]
+            ],
+            [
+                "2011 01 06",
+                []
+            ],
+            [
+                "250,000",
+                []
+            ],
+            [
+                "bream , carp , murrel , silver carp , grass carp",
+                [
+                    "/wiki/Bream",
+                    "/wiki/Carp",
+                    "/wiki/Murrel",
+                    "/wiki/Silver_carp",
+                    "/wiki/Grass_carp"
+                ],
+                [
+                    {
+                        "entity id": "Q4959718",
+                        "label": "Bream"
+                    },
+                    {
+                        "entity id": "Q247577",
+                        "label": "Hiroshima Toyo Carp"
+                    },
+                    {
+                        "entity id": "Q37476921",
+                        "label": "Murrel"
+                    },
+                    {
+                        "entity id": "Q76115",
+                        "label": "Silver carp"
+                    },
+                    {
+                        "entity id": "Q76098",
+                        "label": "Grass Carp"
+                    }
+                ]
+            ],
+            [
+                "Fish caught and transported to market held in large fish tanks fed with river water . Very rapid die-off and loss exceeded 100 tonnes . Only fish caught from a river under China National Highway 320 east died",
+                [
+                    "/wiki/China_National_Highway_320"
+                ],
+                [
+                    {
+                        "entity id": "Q1553135",
+                        "label": "China National Highway 320"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Redondo Beach , California",
+                [
+                    "/wiki/Redondo_Beach,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q840678",
+                        "label": "Redondo Beach"
+                    }
+                ]
+            ],
+            [
+                "2011 03",
+                []
+            ],
+            [
+                "millions",
+                []
+            ],
+            [
+                "anchovies , mackerel , sardines and other small fish",
+                [
+                    "/wiki/Anchovies",
+                    "/wiki/Mackerel",
+                    "/wiki/Sardines"
+                ],
+                [
+                    {
+                        "entity id": "Q65076575",
+                        "label": "Anchovies"
+                    },
+                    {
+                        "entity id": "Q8064278",
+                        "label": "mackerel"
+                    },
+                    {
+                        "entity id": "Q42195296",
+                        "label": "Sardines"
+                    }
+                ]
+            ],
+            [
+                "Caused by oxygen deprivation",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Notable events",
+    "section_text": "The counts given below are all estimates . They tend to be underestimates , and may omit , for example , small fish , those removed by scavengers and those that settle to the bottom . [ 29 ]",
+    "uid": "Fish_kill_0",
+    "intro": "The term fish kill, known also as fish die-off, refers to a localized die-off of fish populations which may also be associated with more generalized mortality of aquatic life. The most common cause is reduced oxygen in the water, which in turn may be due to factors such as drought, algae bloom, overpopulation, or a sustained increase in water temperature. Infectious diseases and parasites can also lead to fish kill. Toxicity is a real but far less common cause of fish kill. Fish kills are often the first visible signs of environmental stress and are usually investigated as a matter of urgency by environmental agencies to determine the cause of the kill. Many fish species have a relatively low tolerance of variations in environmental conditions and their death is often a potent indicator of problems in their environment that may be affecting other animals and plants and may have a direct impact on other uses of the water such as for drinking water production. Pollution events may affect fish species and fish age classes in different ways. If it is a cold-related fish kill, juvenile fish or species that are not cold-tolerant may be selectively affected. If toxicity is the cause, species are more generally affected and the event may include amphibians and shellfish as well. A reduction in dissolved oxygen may affect larger specimens more than smaller fish as these may be able to access oxygen richer water at the surface, at least for a short time."
+}

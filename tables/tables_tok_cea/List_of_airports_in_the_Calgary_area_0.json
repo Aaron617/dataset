@@ -1,0 +1,341 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Calgary_area",
+    "title": "List of airports in the Calgary area",
+    "header": [
+        [
+            "Airport name",
+            []
+        ],
+        [
+            "ICAO / TC LID / IATA",
+            [
+                "/wiki/International_Civil_Aviation_Organization_airport_code",
+                "/wiki/Transport_Canada",
+                "/wiki/Location_identifier",
+                "/wiki/International_Air_Transport_Association_airport_code"
+            ],
+            [
+                {
+                    "entity id": "Q207529",
+                    "label": "ICAO airport code"
+                },
+                {
+                    "entity id": "Q2035496",
+                    "label": "Transport Canada"
+                },
+                {
+                    "entity id": "Q28758335",
+                    "label": "location identifier"
+                },
+                {
+                    "entity id": "Q192824",
+                    "label": "IATA airport code"
+                }
+            ]
+        ],
+        [
+            "Location",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Airdrie Aerodrome",
+                [
+                    "/wiki/Airdrie_Aerodrome"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "CEF4",
+                []
+            ],
+            [
+                "Airdrie",
+                [
+                    "/wiki/Airdrie,_Alberta"
+                ],
+                [
+                    {
+                        "entity id": "Q408537",
+                        "label": "Airdrie"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Calgary International Airport",
+                [
+                    "/wiki/Calgary_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1160343",
+                        "label": "Calgary International Airport"
+                    }
+                ]
+            ],
+            [
+                "CYYC ( YYC )",
+                []
+            ],
+            [
+                "Calgary",
+                [
+                    "/wiki/Calgary"
+                ],
+                [
+                    {
+                        "entity id": "Q36312",
+                        "label": "Calgary"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Calgary/Christiansen Field Aerodrome",
+                [
+                    "/wiki/Calgary/Christiansen_Field_Aerodrome"
+                ],
+                [
+                    {
+                        "entity id": "Q3813433",
+                        "label": "Calgary/Christiansen Field Aerodrome"
+                    }
+                ]
+            ],
+            [
+                "CRS3",
+                []
+            ],
+            [
+                "Okotoks",
+                [
+                    "/wiki/Okotoks"
+                ],
+                [
+                    {
+                        "entity id": "Q1363726",
+                        "label": "Okotoks"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Calgary/Okotoks Airranch Airport",
+                [
+                    "/wiki/Calgary/Okotoks_Airranch_Airport"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "CFX2",
+                []
+            ],
+            [
+                "Okotoks",
+                [
+                    "/wiki/Okotoks"
+                ],
+                [
+                    {
+                        "entity id": "Q1363726",
+                        "label": "Okotoks"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Calgary/Okotoks ( Rowland Field ) Aerodrome",
+                [
+                    "/wiki/Calgary/Okotoks_(Rowland_Field)_Aerodrome"
+                ],
+                [
+                    {
+                        "entity id": "Q3813559",
+                        "label": "Calgary/Okotoks (Rowland Field) Aerodrome"
+                    }
+                ]
+            ],
+            [
+                "CRF4",
+                []
+            ],
+            [
+                "Okotoks",
+                [
+                    "/wiki/Okotoks"
+                ],
+                [
+                    {
+                        "entity id": "Q1363726",
+                        "label": "Okotoks"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Calgary/Springbank Airport",
+                [
+                    "/wiki/Calgary/Springbank_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3813640",
+                        "label": "Calgary/Springbank Airport"
+                    }
+                ]
+            ],
+            [
+                "CYBW ( YBW )",
+                []
+            ],
+            [
+                "Springbank",
+                [
+                    "/wiki/Springbank,_Alberta"
+                ],
+                [
+                    {
+                        "entity id": "Q7580791",
+                        "label": "Springbank, Alberta"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Chestermere ( Kirkby Field ) Airport",
+                [
+                    "/wiki/Chestermere_(Kirkby_Field)_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1708865",
+                        "label": "Chestermere (Kirkby Field) Airport"
+                    }
+                ]
+            ],
+            [
+                "CFX8",
+                []
+            ],
+            [
+                "Chestermere",
+                [
+                    "/wiki/Chestermere"
+                ],
+                [
+                    {
+                        "entity id": "Q999303",
+                        "label": "Chestermere"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Cheadle Airport",
+                [
+                    "/wiki/Cheadle_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1708916",
+                        "label": "Cheadle Airport"
+                    }
+                ]
+            ],
+            [
+                "CFQ4",
+                []
+            ],
+            [
+                "Cheadle",
+                [
+                    "/wiki/Cheadle,_Alberta"
+                ],
+                [
+                    {
+                        "entity id": "Q5088786",
+                        "label": "Cheadle"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "De Winton/South Calgary Airport",
+                [
+                    "/wiki/De_Winton/South_Calgary_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1708906",
+                        "label": "De Winton/South Calgary Airport"
+                    }
+                ]
+            ],
+            [
+                "CEH4",
+                []
+            ],
+            [
+                "De Winton",
+                [
+                    "/wiki/De_Winton,_Alberta"
+                ],
+                [
+                    {
+                        "entity id": "Q5244854",
+                        "label": "De Winton, Alberta"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Indus/Winters Aire Park Airport",
+                [
+                    "/wiki/Indus/Winters_Aire_Park_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3016916",
+                        "label": "Indus/Winters Aire Park Airport"
+                    }
+                ]
+            ],
+            [
+                "CFY4",
+                []
+            ],
+            [
+                "Indus",
+                [
+                    "/wiki/Indus,_Alberta"
+                ],
+                [
+                    {
+                        "entity id": "Q6027368",
+                        "label": "Indus, Alberta"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "",
+    "section_text": "Map all coordinates using : OpenStreetMap Download coordinates as : KML \u00b7 GPX The following is a list of active airports that serve the area around Calgary , Alberta , Canada :",
+    "uid": "List_of_airports_in_the_Calgary_area_0",
+    "intro": "The following is a list of active airports that serve the area around Calgary, Alberta, Canada:"
+}

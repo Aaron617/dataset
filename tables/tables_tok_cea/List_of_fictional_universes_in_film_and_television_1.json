@@ -1,0 +1,460 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_fictional_shared_universes_in_film_and_television",
+    "title": "List of fictional shared universes in film and television",
+    "header": [
+        [
+            "Universe",
+            []
+        ],
+        [
+            "Origin film",
+            []
+        ],
+        [
+            "Start date",
+            []
+        ],
+        [
+            "End date",
+            []
+        ],
+        [
+            "Connecting franchises",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Rocky",
+                [
+                    "/wiki/Rocky_(film_series)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Rocky",
+                [
+                    "/wiki/Rocky"
+                ],
+                [
+                    {
+                        "entity id": "Q188652",
+                        "label": "Rocky"
+                    }
+                ]
+            ],
+            [
+                "1976",
+                []
+            ],
+            [
+                "Present",
+                []
+            ],
+            [
+                "Rocky and Creed",
+                [
+                    "/wiki/Rocky",
+                    "/wiki/Creed_(film)"
+                ],
+                [
+                    {
+                        "entity id": "Q188652",
+                        "label": "Rocky"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "The Mummy",
+                [
+                    "/wiki/The_Mummy_(franchise)"
+                ],
+                [
+                    {
+                        "entity id": "Q3823300",
+                        "label": "The Mummy"
+                    }
+                ]
+            ],
+            [
+                "The Mummy",
+                [
+                    "/wiki/The_Mummy_(1999_film)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1999",
+                []
+            ],
+            [
+                "2017",
+                []
+            ],
+            [
+                "The Mummy and The Scorpion King",
+                [
+                    "/wiki/The_Mummy_(1999_film)",
+                    "/wiki/The_Scorpion_King_(film_series)"
+                ],
+                [
+                    {},
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "The X-Men Saga",
+                [
+                    "/wiki/X-Men_(film_series)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "X-Men",
+                [
+                    "/wiki/X-Men_(film)"
+                ],
+                [
+                    {
+                        "entity id": "Q106182",
+                        "label": "X-Men"
+                    }
+                ]
+            ],
+            [
+                "2000",
+                []
+            ],
+            [
+                "2020",
+                []
+            ],
+            [
+                "X-Men , Wolverine and Deadpool",
+                [
+                    "/wiki/X-Men_(film)",
+                    "/wiki/Wolverine_(film_series)",
+                    "/wiki/Deadpool_(film_series)"
+                ],
+                [
+                    {
+                        "entity id": "Q106182",
+                        "label": "X-Men"
+                    },
+                    {},
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Middle-earth",
+                [
+                    "/wiki/Middle-earth_(film_franchise)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "The Lord of the Rings : The Fellowship of the Ring",
+                [
+                    "/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring"
+                ],
+                [
+                    {
+                        "entity id": "Q127367",
+                        "label": "The Lord of the Rings: The Fellowship of the Ring"
+                    }
+                ]
+            ],
+            [
+                "2001",
+                []
+            ],
+            [
+                "2014",
+                []
+            ],
+            [
+                "The Lord of the Rings and The Hobbit",
+                [
+                    "/wiki/The_Lord_of_the_Rings_(film_series)",
+                    "/wiki/The_Hobbit_(film_series)"
+                ],
+                [
+                    {},
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Wizarding World",
+                [
+                    "/wiki/Wizarding_World"
+                ],
+                [
+                    {
+                        "entity id": "Q5410773",
+                        "label": "Harry Potter universe"
+                    }
+                ]
+            ],
+            [
+                "Harry Potter and the Philosopher 's Stone",
+                [
+                    "/wiki/Harry_Potter_and_the_Philosopher's_Stone_(film)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "2001",
+                []
+            ],
+            [
+                "Present",
+                []
+            ],
+            [
+                "Harry Potter and Fantastic Beasts",
+                [
+                    "/wiki/Harry_Potter_(film_series)",
+                    "/wiki/Wizarding_World"
+                ],
+                [
+                    {
+                        "entity id": "Q216930",
+                        "label": "Harry Potter film series"
+                    },
+                    {
+                        "entity id": "Q5410773",
+                        "label": "Harry Potter universe"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Cars",
+                [
+                    "/wiki/Cars_(franchise)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Cars",
+                [
+                    "/wiki/Cars_(film)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "2006",
+                []
+            ],
+            [
+                "Present",
+                []
+            ],
+            [
+                "Cars and Planes",
+                [
+                    "/wiki/Cars_(film)",
+                    "/wiki/Planes_(film)"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q1657080",
+                        "label": "Planes"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Despicable Me",
+                [
+                    "/wiki/Despicable_Me_(franchise)"
+                ],
+                [
+                    {
+                        "entity id": "Q5264979",
+                        "label": "Despicable Me"
+                    }
+                ]
+            ],
+            [
+                "Despicable Me",
+                [
+                    "/wiki/Despicable_Me"
+                ],
+                [
+                    {
+                        "entity id": "Q4447",
+                        "label": "Despicable Me"
+                    }
+                ]
+            ],
+            [
+                "2010",
+                []
+            ],
+            [
+                "Present",
+                []
+            ],
+            [
+                "Despicable Me and Minions",
+                [
+                    "/wiki/Despicable_Me",
+                    "/wiki/Minions_(film)"
+                ],
+                [
+                    {
+                        "entity id": "Q4447",
+                        "label": "Despicable Me"
+                    },
+                    {
+                        "entity id": "Q13619743",
+                        "label": "Minions"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "The Conjuring Universe",
+                [
+                    "/wiki/The_Conjuring_Universe"
+                ],
+                [
+                    {
+                        "entity id": "Q25339704",
+                        "label": "The Conjuring Universe"
+                    }
+                ]
+            ],
+            [
+                "The Conjuring",
+                [
+                    "/wiki/The_Conjuring"
+                ],
+                [
+                    {
+                        "entity id": "Q5540479",
+                        "label": "The Conjuring"
+                    }
+                ]
+            ],
+            [
+                "2013",
+                []
+            ],
+            [
+                "Present",
+                []
+            ],
+            [
+                "The Conjuring , Annabelle , The Nun and The Curse of La Llorona",
+                [
+                    "/wiki/The_Conjuring",
+                    "/wiki/Annabelle_(film)",
+                    "/wiki/The_Nun_(2018_film)",
+                    "/wiki/The_Curse_of_La_Llorona"
+                ],
+                [
+                    {
+                        "entity id": "Q5540479",
+                        "label": "The Conjuring"
+                    },
+                    {},
+                    {},
+                    {
+                        "entity id": "Q48674258",
+                        "label": "The Curse of La Llorona"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "The Lego Movie",
+                [
+                    "/wiki/The_Lego_Movie_(franchise)"
+                ],
+                [
+                    {
+                        "entity id": "Q29835750",
+                        "label": "The Lego Movie"
+                    }
+                ]
+            ],
+            [
+                "The Lego Movie",
+                [
+                    "/wiki/The_Lego_Movie"
+                ],
+                [
+                    {
+                        "entity id": "Q2608065",
+                        "label": "The Lego Movie"
+                    }
+                ]
+            ],
+            [
+                "2014",
+                []
+            ],
+            [
+                "Present",
+                []
+            ],
+            [
+                "The Lego Movie , The Lego Batman Movie and The Lego Ninjago Movie",
+                [
+                    "/wiki/The_Lego_Movie",
+                    "/wiki/The_Lego_Batman_Movie",
+                    "/wiki/The_Lego_Ninjago_Movie"
+                ],
+                [
+                    {
+                        "entity id": "Q2608065",
+                        "label": "The Lego Movie"
+                    },
+                    {
+                        "entity id": "Q23013169",
+                        "label": "The Lego Batman Movie"
+                    },
+                    {
+                        "entity id": "Q22131901",
+                        "label": "The Lego Ninjago Movie"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Film -- Common origin",
+    "section_text": "Some definitions of shared universe allow a single original work if later works can be split into loosely connected groups with different characters , sometimes sharing an overall continuity .",
+    "uid": "List_of_fictional_universes_in_film_and_television_1",
+    "intro": "This is a list of shared universes in film. There are different definitions of shared universe. It is a requirement that two or more previously unconnected characters come together into one film."
+}

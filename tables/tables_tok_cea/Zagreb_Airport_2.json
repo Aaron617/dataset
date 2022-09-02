@@ -1,0 +1,907 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Zagreb_Airport",
+    "title": "Zagreb Airport",
+    "header": [
+        [
+            "City",
+            []
+        ],
+        [
+            "Airport ( s )",
+            []
+        ],
+        [
+            "Weekly Departures ( Summer 2018 )",
+            []
+        ],
+        [
+            "Airlines",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Frankfurt",
+                [
+                    "/wiki/Frankfurt"
+                ],
+                [
+                    {
+                        "entity id": "Q4024",
+                        "label": "Frankfurt (Oder)"
+                    }
+                ]
+            ],
+            [
+                "Frankfurt Airport",
+                [
+                    "/wiki/Frankfurt_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q46033",
+                        "label": "Frankfurt Airport"
+                    }
+                ]
+            ],
+            [
+                "35",
+                []
+            ],
+            [
+                "Croatia Airlines , Lufthansa",
+                [
+                    "/wiki/Croatia_Airlines",
+                    "/wiki/Lufthansa"
+                ],
+                [
+                    {
+                        "entity id": "Q308974",
+                        "label": "Croatia Airlines"
+                    },
+                    {
+                        "entity id": "Q9325",
+                        "label": "Lufthansa"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dubrovnik",
+                [
+                    "/wiki/Dubrovnik"
+                ],
+                [
+                    {
+                        "entity id": "Q1722",
+                        "label": "Dubrovnik"
+                    }
+                ]
+            ],
+            [
+                "Dubrovnik Airport",
+                [
+                    "/wiki/Dubrovnik_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1147000",
+                        "label": "Dubrovnik Airport"
+                    }
+                ]
+            ],
+            [
+                "34",
+                []
+            ],
+            [
+                "Croatia Airlines",
+                [
+                    "/wiki/Croatia_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q308974",
+                        "label": "Croatia Airlines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Vienna",
+                [
+                    "/wiki/Vienna"
+                ],
+                [
+                    {
+                        "entity id": "Q1741",
+                        "label": "Vienna"
+                    }
+                ]
+            ],
+            [
+                "Schwechat Airport",
+                [
+                    "/wiki/Vienna_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q32999",
+                        "label": "Wien-Schwechat Airport"
+                    }
+                ]
+            ],
+            [
+                "33",
+                []
+            ],
+            [
+                "Austrian Airlines , Croatia Airlines",
+                [
+                    "/wiki/Austrian_Airlines",
+                    "/wiki/Croatia_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q781770",
+                        "label": "Austrian Airlines"
+                    },
+                    {
+                        "entity id": "Q308974",
+                        "label": "Croatia Airlines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Split",
+                [
+                    "/wiki/Split,_Croatia"
+                ],
+                [
+                    {
+                        "entity id": "Q1663",
+                        "label": "Split"
+                    }
+                ]
+            ],
+            [
+                "Split Airport",
+                [
+                    "/wiki/Split_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1125392",
+                        "label": "Split Airport"
+                    }
+                ]
+            ],
+            [
+                "33",
+                []
+            ],
+            [
+                "Croatia Airlines",
+                [
+                    "/wiki/Croatia_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q308974",
+                        "label": "Croatia Airlines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Munich",
+                [
+                    "/wiki/Munich"
+                ],
+                [
+                    {
+                        "entity id": "Q1726",
+                        "label": "Munich"
+                    }
+                ]
+            ],
+            [
+                "Franz Josef Strauss Airport",
+                [
+                    "/wiki/Munich_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q131402",
+                        "label": "Munich Airport"
+                    }
+                ]
+            ],
+            [
+                "28",
+                []
+            ],
+            [
+                "Croatia Airlines , Lufthansa",
+                [
+                    "/wiki/Croatia_Airlines",
+                    "/wiki/Lufthansa"
+                ],
+                [
+                    {
+                        "entity id": "Q308974",
+                        "label": "Croatia Airlines"
+                    },
+                    {
+                        "entity id": "Q9325",
+                        "label": "Lufthansa"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Z\u00fcrich",
+                [
+                    "/wiki/Z\u00fcrich"
+                ],
+                [
+                    {
+                        "entity id": "Q72",
+                        "label": "Z\u00fcrich"
+                    }
+                ]
+            ],
+            [
+                "Z\u00fcrich Airport",
+                [
+                    "/wiki/Z\u00fcrich_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q15114",
+                        "label": "Zurich Airport"
+                    }
+                ]
+            ],
+            [
+                "17",
+                []
+            ],
+            [
+                "Croatia Airlines , Swiss Air Lines",
+                [
+                    "/wiki/Croatia_Airlines",
+                    "/wiki/Swiss_Air_Lines"
+                ],
+                [
+                    {
+                        "entity id": "Q308974",
+                        "label": "Croatia Airlines"
+                    },
+                    {
+                        "entity id": "Q156776",
+                        "label": "Swiss International Air Lines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Brussels",
+                [
+                    "/wiki/Brussels"
+                ],
+                [
+                    {
+                        "entity id": "Q239",
+                        "label": "City of Brussels"
+                    }
+                ]
+            ],
+            [
+                "Brussels Airport",
+                [
+                    "/wiki/Brussels_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q28934",
+                        "label": "Brussels Airport"
+                    }
+                ]
+            ],
+            [
+                "16",
+                []
+            ],
+            [
+                "Brussels Airlines , Croatia Airlines",
+                [
+                    "/wiki/Brussels_Airlines",
+                    "/wiki/Croatia_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q153571",
+                        "label": "Brussels Airlines"
+                    },
+                    {
+                        "entity id": "Q308974",
+                        "label": "Croatia Airlines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "London",
+                [
+                    "/wiki/London"
+                ],
+                [
+                    {
+                        "entity id": "Q84",
+                        "label": "London"
+                    }
+                ]
+            ],
+            [
+                "Heathrow Airport",
+                [
+                    "/wiki/Heathrow_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8691",
+                        "label": "Heathrow Airport"
+                    }
+                ]
+            ],
+            [
+                "15",
+                []
+            ],
+            [
+                "British Airways , Croatia Airlines",
+                [
+                    "/wiki/British_Airways",
+                    "/wiki/Croatia_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q8766",
+                        "label": "British Airways"
+                    },
+                    {
+                        "entity id": "Q308974",
+                        "label": "Croatia Airlines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Paris",
+                [
+                    "/wiki/Paris"
+                ],
+                [
+                    {
+                        "entity id": "Q90",
+                        "label": "Paris"
+                    }
+                ]
+            ],
+            [
+                "Charles de Gaulle Airport",
+                [
+                    "/wiki/Charles_de_Gaulle_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q46280",
+                        "label": "Paris-Charles de Gaulle Airport"
+                    }
+                ]
+            ],
+            [
+                "14",
+                []
+            ],
+            [
+                "Air France , Croatia Airlines",
+                [
+                    "/wiki/Air_France",
+                    "/wiki/Croatia_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q131005",
+                        "label": "Air France"
+                    },
+                    {
+                        "entity id": "Q308974",
+                        "label": "Croatia Airlines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Amsterdam",
+                [
+                    "/wiki/Amsterdam"
+                ],
+                [
+                    {
+                        "entity id": "Q727",
+                        "label": "Amsterdam"
+                    }
+                ]
+            ],
+            [
+                "Schiphol Airport",
+                [
+                    "/wiki/Schiphol_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q9694",
+                        "label": "Amsterdam Airport Schiphol"
+                    }
+                ]
+            ],
+            [
+                "14",
+                []
+            ],
+            [
+                "Croatia Airlines , KLM",
+                [
+                    "/wiki/Croatia_Airlines",
+                    "/wiki/KLM"
+                ],
+                [
+                    {
+                        "entity id": "Q308974",
+                        "label": "Croatia Airlines"
+                    },
+                    {
+                        "entity id": "Q181912",
+                        "label": "KLM"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Doha",
+                [
+                    "/wiki/Doha"
+                ],
+                [
+                    {
+                        "entity id": "Q3861",
+                        "label": "Doha"
+                    }
+                ]
+            ],
+            [
+                "Hamad International Airport",
+                [
+                    "/wiki/Hamad_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1198791",
+                        "label": "Hamad International Airport"
+                    }
+                ]
+            ],
+            [
+                "14",
+                []
+            ],
+            [
+                "Qatar Airways",
+                [
+                    "/wiki/Qatar_Airways"
+                ],
+                [
+                    {
+                        "entity id": "Q208033",
+                        "label": "Qatar Airways"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Istanbul",
+                [
+                    "/wiki/Istanbul"
+                ],
+                [
+                    {
+                        "entity id": "Q406",
+                        "label": "Istanbul"
+                    }
+                ]
+            ],
+            [
+                "Atat\u00fcrk Airport",
+                [
+                    "/wiki/Istanbul_Atat\u00fcrk_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q86473",
+                        "label": "Atat\u00fcrk International Airport"
+                    }
+                ]
+            ],
+            [
+                "14",
+                []
+            ],
+            [
+                "Turkish Airlines",
+                [
+                    "/wiki/Turkish_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q4548",
+                        "label": "Turkish Airlines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Madrid",
+                [
+                    "/wiki/Madrid"
+                ],
+                [
+                    {
+                        "entity id": "Q2807",
+                        "label": "Madrid"
+                    }
+                ]
+            ],
+            [
+                "Adolfo Su\u00e1rez Madrid-Barajas Airport",
+                [
+                    "/wiki/Madrid_Barajas_International_Airport"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "14",
+                []
+            ],
+            [
+                "Iberia",
+                [
+                    "/wiki/Iberia_(airline)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Warsaw",
+                [
+                    "/wiki/Warsaw"
+                ],
+                [
+                    {
+                        "entity id": "Q270",
+                        "label": "Warsaw"
+                    }
+                ]
+            ],
+            [
+                "Warsaw Chopin Airport",
+                [
+                    "/wiki/Warsaw_Chopin_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q465071",
+                        "label": "Warsaw Chopin Airport"
+                    }
+                ]
+            ],
+            [
+                "14",
+                []
+            ],
+            [
+                "LOT Polish Airlines",
+                [
+                    "/wiki/LOT_Polish_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q204268",
+                        "label": "LOT Polish Airlines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Sarajevo",
+                [
+                    "/wiki/Sarajevo"
+                ],
+                [
+                    {
+                        "entity id": "Q11194",
+                        "label": "Sarajevo"
+                    }
+                ]
+            ],
+            [
+                "Sarajevo Airport",
+                [
+                    "/wiki/Sarajevo_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q740392",
+                        "label": "Sarajevo International Airport"
+                    }
+                ]
+            ],
+            [
+                "13",
+                []
+            ],
+            [
+                "Croatia Airlines",
+                [
+                    "/wiki/Croatia_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q308974",
+                        "label": "Croatia Airlines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Zadar",
+                [
+                    "/wiki/Zadar"
+                ],
+                [
+                    {
+                        "entity id": "Q3370",
+                        "label": "Zadar"
+                    }
+                ]
+            ],
+            [
+                "Zadar Airport",
+                [
+                    "/wiki/Zadar_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q155359",
+                        "label": "Zadar Airport"
+                    }
+                ]
+            ],
+            [
+                "13",
+                []
+            ],
+            [
+                "Croatia Airlines",
+                [
+                    "/wiki/Croatia_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q308974",
+                        "label": "Croatia Airlines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Pula",
+                [
+                    "/wiki/Pula"
+                ],
+                [
+                    {
+                        "entity id": "Q4656",
+                        "label": "Pula"
+                    }
+                ]
+            ],
+            [
+                "Pula Airport",
+                [
+                    "/wiki/Pula_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q389327",
+                        "label": "Pula Airport"
+                    }
+                ]
+            ],
+            [
+                "13",
+                []
+            ],
+            [
+                "Croatia Airlines ( via Zadar )",
+                [
+                    "/wiki/Croatia_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q308974",
+                        "label": "Croatia Airlines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Skopje",
+                [
+                    "/wiki/Skopje"
+                ],
+                [
+                    {
+                        "entity id": "Q384",
+                        "label": "Skopje"
+                    }
+                ]
+            ],
+            [
+                "Skopje International Airport",
+                [
+                    "/wiki/Skopje_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1142389",
+                        "label": "Skopje International Airport"
+                    }
+                ]
+            ],
+            [
+                "12",
+                []
+            ],
+            [
+                "Croatia Airlines",
+                [
+                    "/wiki/Croatia_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q308974",
+                        "label": "Croatia Airlines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Belgrade",
+                [
+                    "/wiki/Belgrade"
+                ],
+                [
+                    {
+                        "entity id": "Q3711",
+                        "label": "Belgrade"
+                    }
+                ]
+            ],
+            [
+                "Belgrade Nikola Tesla Airport",
+                [
+                    "/wiki/Belgrade_Nikola_Tesla_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q127955",
+                        "label": "Belgrade Nikola Tesla Airport"
+                    }
+                ]
+            ],
+            [
+                "11",
+                []
+            ],
+            [
+                "Air Serbia",
+                [
+                    "/wiki/Air_Serbia"
+                ],
+                [
+                    {
+                        "entity id": "Q460373",
+                        "label": "Air Serbia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Prague",
+                [
+                    "/wiki/Prague"
+                ],
+                [
+                    {
+                        "entity id": "Q1085",
+                        "label": "Prague"
+                    }
+                ]
+            ],
+            [
+                "V\u00e1clav Havel Airport",
+                [
+                    "/wiki/V\u00e1clav_Havel_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q99172",
+                        "label": "V\u00e1clav Havel Airport Prague"
+                    }
+                ]
+            ],
+            [
+                "11",
+                []
+            ],
+            [
+                "Croatia Airlines , Czech Airlines",
+                [
+                    "/wiki/Croatia_Airlines",
+                    "/wiki/Czech_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q308974",
+                        "label": "Croatia Airlines"
+                    },
+                    {
+                        "entity id": "Q192653",
+                        "label": "Czech Airlines"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Statistics -- Busiest routes",
+    "section_text": "This section possibly contains original research . Please improve it by verifying the claims made and adding inline citations . Statements consisting only of original research should be removed . ( May 2019 ) ( Learn how and when to remove this template message )",
+    "uid": "Zagreb_Airport_2",
+    "intro": "Zagreb Airport (IATA: ZAG, ICAO: LDZA) is the largest and busiest international airport in Croatia. In 2019 it handled 3.45 million passengers and some 13,000 tons of cargo. Named after Franjo Tu\u0111man, the first President of Croatia, the airport is located some 10 km (6.2 mi) southeast of Zagreb Central Station in Velika Gorica. It is the hub of the Croatian flag carrier Croatia Airlines and a focus city for Trade Air. The main base of the Croatian Air Force is also located at the airport's premises. Moreover, the Croatian Air Traffic Control has its administratration situated on the grounds of the airport. The airport was awarded to the ZAIC consortium (Zagreb Airport International Company) in a 30-year concession under the terms of a contract signed by the Government of Croatia with the aforementioned. The contract includes the financing, designing and construction of a new passenger terminal which was opened in March 2017. For the purpose of managing the airport ZAIC registered a company called MZLZ d.d. (Me\u0111unarodna zra\u010dna luka Zagreb d.d.) that is now the operator of the Airport."
+}

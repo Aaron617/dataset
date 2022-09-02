@@ -1,0 +1,717 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Ampang_and_Sri_Petaling_lines",
+    "title": "Ampang and Sri Petaling lines",
+    "header": [
+        [
+            "Code",
+            []
+        ],
+        [
+            "Name",
+            []
+        ],
+        [
+            "Platform type",
+            []
+        ],
+        [
+            "Interchange/Notes",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "AG1 SP1",
+                []
+            ],
+            [
+                "Sentul Timur",
+                [
+                    "/wiki/Sentul_Timur_LRT_station"
+                ],
+                [
+                    {
+                        "entity id": "Q27146",
+                        "label": "Sentul Timur LRT station"
+                    }
+                ]
+            ],
+            [
+                "Terminus ( Side )",
+                [
+                    "/wiki/Terminus_station"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Northern terminus",
+                []
+            ]
+        ],
+        [
+            [
+                "AG2 SP2",
+                []
+            ],
+            [
+                "Sentul",
+                [
+                    "/wiki/Sentul_LRT_station"
+                ],
+                [
+                    {
+                        "entity id": "Q27140",
+                        "label": "Sentul LRT station"
+                    }
+                ]
+            ],
+            [
+                "Side",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "AG3 SP3",
+                []
+            ],
+            [
+                "Titiwangsa",
+                [
+                    "/wiki/Titiwangsa_station"
+                ],
+                [
+                    {
+                        "entity id": "Q27144",
+                        "label": "Titiwangsa station"
+                    }
+                ]
+            ],
+            [
+                "Side",
+                []
+            ],
+            [
+                "Interchange station with MR11 KL Monorail as well as future interchange with SSP13 MRT Sungai Buloh-Serdang-Putrajaya Line . ( Opening 2022 )",
+                [
+                    "/wiki/KL_Monorail",
+                    "/wiki/MRT_Sungai_Buloh_Serdang_Putrajaya_Line"
+                ],
+                [
+                    {
+                        "entity id": "Q1790833",
+                        "label": "KL Monorail"
+                    },
+                    {
+                        "entity id": "Q17053935",
+                        "label": "Putrajaya line"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "AG4 SP4",
+                []
+            ],
+            [
+                "PWTC",
+                [
+                    "/wiki/PWTC_LRT_station"
+                ],
+                [
+                    {
+                        "entity id": "Q4383723",
+                        "label": "PWTC LRT station"
+                    }
+                ]
+            ],
+            [
+                "Side",
+                []
+            ],
+            [
+                "Pedestrian access to KA04 Putra for KTM Seremban Line and KTM Port Klang Line walking a distance of 600 metres",
+                [
+                    "/wiki/Putra_Komuter_station",
+                    "/wiki/Seremban_Line",
+                    "/wiki/Port_Klang_Line"
+                ],
+                [
+                    {
+                        "entity id": "Q4384012",
+                        "label": "Putra Komuter station"
+                    },
+                    {
+                        "entity id": "Q4207166",
+                        "label": "Seremban Line"
+                    },
+                    {
+                        "entity id": "Q4873303",
+                        "label": "Port Klang Line"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "AG5 SP5",
+                []
+            ],
+            [
+                "Sultan Ismail",
+                [
+                    "/wiki/Sultan_Ismail_LRT_station"
+                ],
+                [
+                    {
+                        "entity id": "Q6150771",
+                        "label": "Sultan Ismail LRT station"
+                    }
+                ]
+            ],
+            [
+                "Side",
+                []
+            ],
+            [
+                "Pedestrian access to MR9 Medan Tuanku for KL Monorail",
+                [
+                    "/wiki/Medan_Tuanku_Monorail_station",
+                    "/wiki/KL_Monorail"
+                ],
+                [
+                    {
+                        "entity id": "Q31544",
+                        "label": "Medan Tuanku Monorail station"
+                    },
+                    {
+                        "entity id": "Q1790833",
+                        "label": "KL Monorail"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "AG6 SP6",
+                []
+            ],
+            [
+                "Bandaraya",
+                [
+                    "/wiki/Bandaraya_LRT_station"
+                ],
+                [
+                    {
+                        "entity id": "Q4854452",
+                        "label": "Bandaraya LRT station"
+                    }
+                ]
+            ],
+            [
+                "Side",
+                []
+            ],
+            [
+                "Connecting station to KA03 Bank Negara or KTM Seremban Line and KTM Port Klang Line via a 250-meter pedestrian access",
+                [
+                    "/wiki/Bank_Negara_Komuter_station",
+                    "/wiki/Seremban_Line",
+                    "/wiki/Port_Klang_Line"
+                ],
+                [
+                    {
+                        "entity id": "Q4383726",
+                        "label": "Bank Negara Komuter station"
+                    },
+                    {
+                        "entity id": "Q4207166",
+                        "label": "Seremban Line"
+                    },
+                    {
+                        "entity id": "Q4873303",
+                        "label": "Port Klang Line"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "AG7 SP7",
+                []
+            ],
+            [
+                "Masjid Jamek",
+                [
+                    "/wiki/Masjid_Jamek_LRT_station"
+                ],
+                [
+                    {
+                        "entity id": "Q1055044",
+                        "label": "Masjid Jamek LRT station"
+                    }
+                ]
+            ],
+            [
+                "Side",
+                []
+            ],
+            [
+                "Interchange station with KJ13 LRT Kelana Jaya Line",
+                [
+                    "/wiki/LRT_Kelana_Jaya_Line"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "AG8 SP8",
+                []
+            ],
+            [
+                "Plaza Rakyat",
+                [
+                    "/wiki/Plaza_Rakyat_station"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Side",
+                []
+            ],
+            [
+                "Interchange station to SBK17 Merdeka for MRT Sungai Buloh-Kajang Line via 180-metre air-conditioned covered walkway",
+                [
+                    "/wiki/Merdeka_station",
+                    "/wiki/MRT_Sungai_Buloh\u2013Kajang_line"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q6717618",
+                        "label": "Kajang line"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "AG9 SP9",
+                []
+            ],
+            [
+                "Hang Tuah",
+                [
+                    "/wiki/Hang_Tuah_station"
+                ],
+                [
+                    {
+                        "entity id": "Q27142",
+                        "label": "Hang Tuah station"
+                    }
+                ]
+            ],
+            [
+                "Side",
+                []
+            ],
+            [
+                "Interchange station with MR4 KL Monorail",
+                [
+                    "/wiki/KL_Monorail"
+                ],
+                [
+                    {
+                        "entity id": "Q1790833",
+                        "label": "KL Monorail"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "AG10 SP10",
+                []
+            ],
+            [
+                "Pudu",
+                [
+                    "/wiki/Pudu_LRT_station"
+                ],
+                [
+                    {
+                        "entity id": "Q6150815",
+                        "label": "Pudu LRT station"
+                    }
+                ]
+            ],
+            [
+                "Side",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "AG11 SP11",
+                []
+            ],
+            [
+                "Chan Sow Lin",
+                [
+                    "/wiki/Chan_Sow_Lin_LRT_station"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Island",
+                []
+            ],
+            [
+                "Future interchange SSP20 with the MRT Sungai Buloh-Serdang-Putrajaya Line ( Opening 2022 )",
+                [
+                    "/wiki/MRT_Sungai_Buloh_Serdang_Putrajaya_Line"
+                ],
+                [
+                    {
+                        "entity id": "Q17053935",
+                        "label": "Putrajaya line"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SP12",
+                []
+            ],
+            [
+                "Cheras",
+                [
+                    "/wiki/Cheras_LRT_station"
+                ],
+                [
+                    {
+                        "entity id": "Q567251",
+                        "label": "Cheras LRT station"
+                    }
+                ]
+            ],
+            [
+                "Side",
+                []
+            ],
+            [
+                "Feeder Bus T401 to SBK21 Cochrane for the MRT Sungai Buloh-Kajang Line",
+                [
+                    "/wiki/Cochrane_MRT_station",
+                    "/wiki/Sungai_Buloh\u2013Kajang_MRT_line"
+                ],
+                [
+                    {
+                        "entity id": "Q22087849",
+                        "label": "Cochrane MRT station"
+                    },
+                    {
+                        "entity id": "Q6717618",
+                        "label": "Kajang line"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SP13",
+                []
+            ],
+            [
+                "Salak Selatan",
+                [
+                    "/wiki/Salak_Selatan_LRT_station"
+                ],
+                [
+                    {
+                        "entity id": "Q7403493",
+                        "label": "Salak Selatan LRT station"
+                    }
+                ]
+            ],
+            [
+                "Side",
+                []
+            ],
+            [
+                "Feeder Bus T402 to SBK24 Taman Midah for the MRT Sungai Buloh-Kajang Line",
+                [
+                    "/wiki/Taman_Midah_MRT_station",
+                    "/wiki/Sungai_Buloh\u2013Kajang_MRT_line"
+                ],
+                [
+                    {
+                        "entity id": "Q22087879",
+                        "label": "Taman Midah MRT station"
+                    },
+                    {
+                        "entity id": "Q6717618",
+                        "label": "Kajang line"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SP14",
+                []
+            ],
+            [
+                "Bandar Tun Razak",
+                [
+                    "/wiki/Bandar_Tun_Razak_LRT_station"
+                ],
+                [
+                    {
+                        "entity id": "Q4854435",
+                        "label": "Bandar Tun Razak LRT station"
+                    }
+                ]
+            ],
+            [
+                "Side",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "SP15",
+                []
+            ],
+            [
+                "Bandar Tasik Selatan",
+                [
+                    "/wiki/Bandar_Tasik_Selatan_station"
+                ],
+                [
+                    {
+                        "entity id": "Q4854431",
+                        "label": "Bandar Tasik Selatan station"
+                    }
+                ]
+            ],
+            [
+                "Island",
+                []
+            ],
+            [
+                "Interchange station , without paid area integration , to : KB04 KTM Seremban Line and ETS KTM ETS ; KT2 ERL KLIA Transit ; Terminal Bersepadu Selatan ( TBS ) Bus Hub Feeder bus T410 to SBK26 Taman Connaught for the MRT Sungai Buloh-Kajang Line",
+                [
+                    "/wiki/Seremban_Line",
+                    "/wiki/KTM_ETS",
+                    "/wiki/KTM_ETS",
+                    "/wiki/KLIA_Transit",
+                    "/wiki/Terminal_Bersepadu_Selatan",
+                    "/wiki/Taman_Connaught_MRT_station",
+                    "/wiki/MRT_Sungai_Buloh-Kajang_Line"
+                ],
+                [
+                    {
+                        "entity id": "Q4207166",
+                        "label": "Seremban Line"
+                    },
+                    {
+                        "entity id": "Q5357521",
+                        "label": "KTM ETS"
+                    },
+                    {
+                        "entity id": "Q5357521",
+                        "label": "KTM ETS"
+                    },
+                    {
+                        "entity id": "Q6151888",
+                        "label": "KLIA Transit"
+                    },
+                    {
+                        "entity id": "Q7702639",
+                        "label": "Terminal Bersepadu Selatan"
+                    },
+                    {
+                        "entity id": "Q22087877",
+                        "label": "Taman Connaught MRT station"
+                    },
+                    {
+                        "entity id": "Q6717618",
+                        "label": "Kajang line"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SP16",
+                []
+            ],
+            [
+                "Sungai Besi",
+                [
+                    "/wiki/Sungai_Besi_LRT_station"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Side",
+                []
+            ],
+            [
+                "Future interchange SSP25 with the MRT Sungai Buloh-Serdang-Putrajaya Line ( Opening 2022 )",
+                [
+                    "/wiki/MRT_Sungai_Buloh_Serdang_Putrajaya_Line"
+                ],
+                [
+                    {
+                        "entity id": "Q17053935",
+                        "label": "Putrajaya line"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SP17",
+                []
+            ],
+            [
+                "Bukit Jalil",
+                [
+                    "/wiki/Bukit_Jalil_LRT_station"
+                ],
+                [
+                    {
+                        "entity id": "Q4986903",
+                        "label": "Bukit Jalil LRT station"
+                    }
+                ]
+            ],
+            [
+                "Side",
+                []
+            ],
+            [
+                "Exit to Bukit Jalil National Stadium",
+                [
+                    "/wiki/Bukit_Jalil_National_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q635363",
+                        "label": "National Stadium, Bukit Jalil"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SP18",
+                []
+            ],
+            [
+                "Sri Petaling",
+                [
+                    "/wiki/Sri_Petaling_LRT_station"
+                ],
+                [
+                    {
+                        "entity id": "Q7586185",
+                        "label": "Sri Petaling LRT station"
+                    }
+                ]
+            ],
+            [
+                "Side",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "SP19",
+                []
+            ],
+            [
+                "Awan Besar",
+                [
+                    "/wiki/Awan_Besar_LRT_station"
+                ],
+                [
+                    {
+                        "entity id": "Q21005945",
+                        "label": "Awan Besar LRT station"
+                    }
+                ]
+            ],
+            [
+                "Island",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "SP20",
+                []
+            ],
+            [
+                "Muhibbah",
+                [
+                    "/wiki/Muhibbah_LRT_station"
+                ],
+                [
+                    {
+                        "entity id": "Q25109920",
+                        "label": "Muhibbah LRT station"
+                    }
+                ]
+            ],
+            [
+                "Side",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Stations -- LRT Sri Petaling Line",
+    "section_text": "",
+    "uid": "Ampang_Line_1",
+    "intro": "The LRT Ampang Line and the LRT Sri Petaling Line are light rapid transit lines in Klang Valley, Malaysia. The combined network comprises 45.1 kilometres of track (28.0 miles) with 36 stations, and is the first to use the standard gauge track and semi-automated trains in Klang Valley. A trip from one end to another takes 41 minutes on the Ampang Line, and 74 minutes on the Sri Petaling Line. The Ampang Line is named after its terminus, Ampang station, while the Sri Petaling Line is named after its former terminus, Sri Petaling station. The Ampang and Sri Petaling Lines form part of the Klang Valley Integrated Transit System, numbered 3 and 4, and are coloured Orange and Maroon on the rail map respectively."
+}

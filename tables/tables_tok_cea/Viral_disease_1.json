@@ -1,0 +1,1636 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Viral_disease",
+    "title": "Viral disease",
+    "header": [
+        [
+            "Type",
+            []
+        ],
+        [
+            "Family",
+            []
+        ],
+        [
+            "Transmission",
+            [
+                "/wiki/Transmission_(medicine)"
+            ],
+            [
+                {
+                    "entity id": "Q1662340",
+                    "label": "Transmission (medicine)"
+                }
+            ]
+        ],
+        [
+            "Diseases",
+            []
+        ],
+        [
+            "Treatment",
+            []
+        ],
+        [
+            "Prevention",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Adenovirus",
+                [
+                    "/wiki/Adenovirus_infection"
+                ],
+                [
+                    {
+                        "entity id": "Q34057627",
+                        "label": "Adenovirus infections in immunocompetent and immunocompromised patients"
+                    }
+                ]
+            ],
+            [
+                "Adenoviridae",
+                [
+                    "/wiki/Adenoviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q193447",
+                        "label": "Adenoviridae"
+                    }
+                ]
+            ],
+            [
+                "droplet contact fecal-oral venereal direct eye contact",
+                []
+            ],
+            [
+                "gastroenteritis keratoconjunctivitis pharyngitis croup pharyngoconjunctival fever pneumonia pneumonia cystitis",
+                [
+                    "/wiki/Gastroenteritis",
+                    "/wiki/Keratoconjunctivitis",
+                    "/wiki/Pharyngitis",
+                    "/wiki/Croup",
+                    "/wiki/Pharyngoconjunctival_fever",
+                    "/wiki/Pneumonia",
+                    "/wiki/Pneumonia",
+                    "/wiki/Cystitis"
+                ],
+                [
+                    {
+                        "entity id": "Q156103",
+                        "label": "gastroenteritis"
+                    },
+                    {
+                        "entity id": "Q1623006",
+                        "label": "keratoconjunctivitis"
+                    },
+                    {
+                        "entity id": "Q2085267",
+                        "label": "pharyngitis"
+                    },
+                    {
+                        "entity id": "Q836356",
+                        "label": "croup"
+                    },
+                    {
+                        "entity id": "Q18554607",
+                        "label": "pharyngoconjunctival fever"
+                    },
+                    {
+                        "entity id": "Q12192",
+                        "label": "pneumonia"
+                    },
+                    {
+                        "entity id": "Q12192",
+                        "label": "pneumonia"
+                    },
+                    {
+                        "entity id": "Q246084",
+                        "label": "cystitis"
+                    }
+                ]
+            ],
+            [
+                "None",
+                []
+            ],
+            [
+                "Adenovirus vaccine hand washing covering mouth when coughing or sneezing avoiding close contact with the sick",
+                [
+                    "/wiki/Adenovirus_vaccine"
+                ],
+                [
+                    {
+                        "entity id": "Q4682307",
+                        "label": "adenovirus vaccine"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Coxsackievirus",
+                [
+                    "/wiki/Coxsackievirus"
+                ],
+                [
+                    {
+                        "entity id": "Q1138287",
+                        "label": "Coxsackievirus"
+                    }
+                ]
+            ],
+            [
+                "Picornaviridae",
+                [
+                    "/wiki/Picornaviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q936600",
+                        "label": "Picornavirus"
+                    }
+                ]
+            ],
+            [
+                "fecal-oral respiratory droplet contact",
+                []
+            ],
+            [
+                "Hand , foot and mouth disease pleurodynia aseptic meningitis pericarditis myocarditis",
+                [
+                    "/wiki/Hand,_foot_and_mouth_disease",
+                    "/wiki/Pleurodynia",
+                    "/wiki/Aseptic_meningitis",
+                    "/wiki/Pericarditis",
+                    "/wiki/Myocarditis"
+                ],
+                [
+                    {
+                        "entity id": "Q652744",
+                        "label": "hand, foot and mouth disease"
+                    },
+                    {
+                        "entity id": "Q2099421",
+                        "label": "pleurodynia"
+                    },
+                    {
+                        "entity id": "Q4804182",
+                        "label": "aseptic meningitis"
+                    },
+                    {
+                        "entity id": "Q501561",
+                        "label": "pericarditis"
+                    },
+                    {
+                        "entity id": "Q186235",
+                        "label": "myocarditis"
+                    }
+                ]
+            ],
+            [
+                "None",
+                []
+            ],
+            [
+                "hand washing covering mouth when coughing/sneezing avoiding contaminated food/water improved sanitation",
+                []
+            ]
+        ],
+        [
+            [
+                "Epstein-Barr virus",
+                [
+                    "/wiki/Epstein\u2013Barr_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q6900",
+                        "label": "Epstein\u2013Barr virus"
+                    }
+                ]
+            ],
+            [
+                "Herpesviridae",
+                [
+                    "/wiki/Herpesviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q149348",
+                        "label": "Herpesviridae"
+                    }
+                ]
+            ],
+            [
+                "saliva",
+                []
+            ],
+            [
+                "infectious mononucleosis Burkitt 's lymphoma Hodgkin 's lymphoma nasopharyngeal carcinoma",
+                [
+                    "/wiki/Infectious_mononucleosis",
+                    "/wiki/Burkitt's_lymphoma",
+                    "/wiki/Hodgkin's_lymphoma",
+                    "/wiki/Nasopharyngeal_carcinoma"
+                ],
+                [
+                    {
+                        "entity id": "Q207367",
+                        "label": "Infectious mononucleosis"
+                    },
+                    {
+                        "entity id": "Q1016605",
+                        "label": "Burkitt lymphoma"
+                    },
+                    {
+                        "entity id": "Q209369",
+                        "label": "Hodgkin lymphoma"
+                    },
+                    {
+                        "entity id": "Q1693598",
+                        "label": "nasopharynx carcinoma"
+                    }
+                ]
+            ],
+            [
+                "None",
+                []
+            ],
+            [
+                "avoiding close contact with the sick",
+                []
+            ]
+        ],
+        [
+            [
+                "Hepatitis A virus",
+                [
+                    "/wiki/Hepatitis_A_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q4112120",
+                        "label": "Hepatitis A virus"
+                    }
+                ]
+            ],
+            [
+                "Picornaviridae",
+                [
+                    "/wiki/Picornaviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q936600",
+                        "label": "Picornavirus"
+                    }
+                ]
+            ],
+            [
+                "fecal-oral",
+                []
+            ],
+            [
+                "acute hepatitis",
+                [
+                    "/wiki/Acute_hepatitis"
+                ],
+                [
+                    {
+                        "entity id": "Q131742",
+                        "label": "hepatitis"
+                    }
+                ]
+            ],
+            [
+                "Immunoglobulin ( post-exposure prophylaxis )",
+                [
+                    "/wiki/Immunoglobulin",
+                    "/wiki/Post-exposure_prophylaxis"
+                ],
+                [
+                    {
+                        "entity id": "Q24770541",
+                        "label": "Immunoglobulin domain"
+                    },
+                    {
+                        "entity id": "Q1361206",
+                        "label": "post-exposure prophylaxis"
+                    }
+                ]
+            ],
+            [
+                "Hepatitis A vaccine avoiding contaminated food/water improved sanitation",
+                [
+                    "/wiki/Hepatitis_A_vaccine"
+                ],
+                [
+                    {
+                        "entity id": "Q3553093",
+                        "label": "hepatitis A vaccine"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Hepatitis B virus",
+                [
+                    "/wiki/Hepatitis_B_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q6844",
+                        "label": "Hepatitis B virus"
+                    }
+                ]
+            ],
+            [
+                "Hepadnaviridae",
+                [
+                    "/wiki/Hepadnaviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q1356878",
+                        "label": "Hepadnaviridae"
+                    }
+                ]
+            ],
+            [
+                "bodily fluids Vertical and sexual",
+                [
+                    "/wiki/Body_fluids",
+                    "/wiki/Vertical_transmission",
+                    "/wiki/Sexually_transmitted_disease"
+                ],
+                [
+                    {
+                        "entity id": "Q1058795",
+                        "label": "body fluids"
+                    },
+                    {
+                        "entity id": "Q2834381",
+                        "label": "vertical transmission"
+                    },
+                    {
+                        "entity id": "Q12198",
+                        "label": "sexually transmitted infection"
+                    }
+                ]
+            ],
+            [
+                "acute hepatitis chronic hepatitis hepatic cirrhosis hepatocellular carcinoma",
+                [
+                    "/wiki/Acute_hepatitis",
+                    "/wiki/Chronic_hepatitis",
+                    "/wiki/Cirrhosis",
+                    "/wiki/Hepatocellular_carcinoma"
+                ],
+                [
+                    {
+                        "entity id": "Q131742",
+                        "label": "hepatitis"
+                    },
+                    {
+                        "entity id": "Q62019625",
+                        "label": "chronic hepatitis"
+                    },
+                    {
+                        "entity id": "Q147778",
+                        "label": "liver cirrhosis"
+                    },
+                    {
+                        "entity id": "Q1148337",
+                        "label": "hepatocellular carcinoma"
+                    }
+                ]
+            ],
+            [
+                "Lamivudine immunoglobulin Adefovir Entecavir Pegylated interferon alfa-2",
+                [
+                    "/wiki/Lamivudine",
+                    "/wiki/Adefovir",
+                    "/wiki/Entecavir",
+                    "/wiki/Pegylated_interferon_alfa-2"
+                ],
+                [
+                    {
+                        "entity id": "Q422631",
+                        "label": "lamivudine"
+                    },
+                    {
+                        "entity id": "Q353551",
+                        "label": "adefovir"
+                    },
+                    {
+                        "entity id": "Q418586",
+                        "label": "entecavir"
+                    },
+                    {
+                        "entity id": "Q66033166",
+                        "label": "Pegylated Interferon Alfa-2b Plus Ribavirin in Chronic Hepatitis B and Delta"
+                    }
+                ]
+            ],
+            [
+                "Hepatitis B vaccine immunoglobulin ( perinatal and post-exposure prophylaxis ) avoiding shared needles/syringes safe sex",
+                [
+                    "/wiki/Hepatitis_B_vaccine"
+                ],
+                [
+                    {
+                        "entity id": "Q117749",
+                        "label": "Hepatitis B vaccine"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Hepatitis C virus",
+                [
+                    "/wiki/Hepatitis_C_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q708693",
+                        "label": "Hepatitis C virus"
+                    }
+                ]
+            ],
+            [
+                "Flaviviridae",
+                [
+                    "/wiki/Flaviviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q1331256",
+                        "label": "Flaviviridae"
+                    }
+                ]
+            ],
+            [
+                "blood sexual contact",
+                []
+            ],
+            [
+                "acute hepatitis chronic hepatitis hepatic cirrhosis hepatocellular carcinoma",
+                [
+                    "/wiki/Acute_hepatitis",
+                    "/wiki/Hepatocellular_carcinoma"
+                ],
+                [
+                    {
+                        "entity id": "Q131742",
+                        "label": "hepatitis"
+                    },
+                    {
+                        "entity id": "Q1148337",
+                        "label": "hepatocellular carcinoma"
+                    }
+                ]
+            ],
+            [
+                "Ribavirin Pegylated interferon alfa-2",
+                [
+                    "/wiki/Ribavirin",
+                    "/wiki/Pegylated_interferon_alfa-2"
+                ],
+                [
+                    {
+                        "entity id": "Q421862",
+                        "label": "ribavirin"
+                    },
+                    {
+                        "entity id": "Q66033166",
+                        "label": "Pegylated Interferon Alfa-2b Plus Ribavirin in Chronic Hepatitis B and Delta"
+                    }
+                ]
+            ],
+            [
+                "avoiding shared needles/syringes safe sex",
+                []
+            ]
+        ],
+        [
+            [
+                "Herpes simplex virus , type 1",
+                [
+                    "/wiki/Herpes_simplex_virus,_type_1"
+                ],
+                [
+                    {
+                        "entity id": "Q45842445",
+                        "label": "Herpes simplex virus, type 1 invasion of the rabbit and mouse nervous systems revealed by in situ hybridization."
+                    }
+                ]
+            ],
+            [
+                "Herpesviridae",
+                [
+                    "/wiki/Herpesviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q149348",
+                        "label": "Herpesviridae"
+                    }
+                ]
+            ],
+            [
+                "direct contact saliva",
+                []
+            ],
+            [
+                "herpes labialis , cold sores - can recur by latency gingivostomatitis in children tonsillitis & pharyngitis in adults keratoconjunctivitis",
+                [
+                    "/wiki/Herpes_labialis",
+                    "/wiki/Cold_sores",
+                    "/wiki/Virus_latency",
+                    "/wiki/Gingivostomatitis",
+                    "/wiki/Tonsillitis",
+                    "/wiki/Pharyngitis",
+                    "/wiki/Keratoconjunctivitis"
+                ],
+                [
+                    {
+                        "entity id": "Q2364836",
+                        "label": "Herpes labialis"
+                    },
+                    {
+                        "entity id": "Q36304271",
+                        "label": "Cold sores-an epidemiological survey"
+                    },
+                    {
+                        "entity id": "Q4115619",
+                        "label": "virus latency"
+                    },
+                    {
+                        "entity id": "Q911386",
+                        "label": "stomatitis"
+                    },
+                    {
+                        "entity id": "Q186470",
+                        "label": "tonsillitis"
+                    },
+                    {
+                        "entity id": "Q2085267",
+                        "label": "pharyngitis"
+                    },
+                    {
+                        "entity id": "Q1623006",
+                        "label": "keratoconjunctivitis"
+                    }
+                ]
+            ],
+            [
+                "acyclovir famciclovir foscarnet penciclovir",
+                [
+                    "/wiki/Acyclovir",
+                    "/wiki/Famciclovir",
+                    "/wiki/Foscarnet",
+                    "/wiki/Penciclovir"
+                ],
+                [
+                    {
+                        "entity id": "Q147101",
+                        "label": "aciclovir"
+                    },
+                    {
+                        "entity id": "Q420186",
+                        "label": "famciclovir"
+                    },
+                    {
+                        "entity id": "Q420387",
+                        "label": "foscarnet"
+                    },
+                    {
+                        "entity id": "Q420364",
+                        "label": "penciclovir"
+                    }
+                ]
+            ],
+            [
+                "avoiding close contact with lesions safe sex",
+                []
+            ]
+        ],
+        [
+            [
+                "Herpes simplex virus , type 2",
+                [
+                    "/wiki/Herpes_simplex_virus,_type_2"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Herpesviridae",
+                [
+                    "/wiki/Herpesviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q149348",
+                        "label": "Herpesviridae"
+                    }
+                ]
+            ],
+            [
+                "sexual contact vertical transmission",
+                []
+            ],
+            [
+                "Skin vesicles , mucosal ulcers , Oral and/or genital Can be latent Aseptic meningitis",
+                [
+                    "/wiki/Virus_latency",
+                    "/wiki/Aseptic_meningitis"
+                ],
+                [
+                    {
+                        "entity id": "Q4115619",
+                        "label": "virus latency"
+                    },
+                    {
+                        "entity id": "Q4804182",
+                        "label": "aseptic meningitis"
+                    }
+                ]
+            ],
+            [
+                "acyclovir famciclovir foscarnet penciclovir cidofovir",
+                [
+                    "/wiki/Acyclovir",
+                    "/wiki/Famciclovir",
+                    "/wiki/Foscarnet",
+                    "/wiki/Penciclovir",
+                    "/wiki/Cidofovir"
+                ],
+                [
+                    {
+                        "entity id": "Q147101",
+                        "label": "aciclovir"
+                    },
+                    {
+                        "entity id": "Q420186",
+                        "label": "famciclovir"
+                    },
+                    {
+                        "entity id": "Q420387",
+                        "label": "foscarnet"
+                    },
+                    {
+                        "entity id": "Q420364",
+                        "label": "penciclovir"
+                    },
+                    {
+                        "entity id": "Q423445",
+                        "label": "cidofovir"
+                    }
+                ]
+            ],
+            [
+                "avoiding close contact with lesions safe sex",
+                []
+            ]
+        ],
+        [
+            [
+                "Cytomegalovirus",
+                [
+                    "/wiki/Cytomegalovirus"
+                ],
+                [
+                    {
+                        "entity id": "Q6946",
+                        "label": "Cytomegalovirus"
+                    }
+                ]
+            ],
+            [
+                "Herpesviridae",
+                [
+                    "/wiki/Herpesviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q149348",
+                        "label": "Herpesviridae"
+                    }
+                ]
+            ],
+            [
+                "vertical transmission bodily fluids",
+                [
+                    "/wiki/Vertical_transmission",
+                    "/wiki/Bodily_fluid"
+                ],
+                [
+                    {
+                        "entity id": "Q2834381",
+                        "label": "vertical transmission"
+                    },
+                    {
+                        "entity id": "Q1058795",
+                        "label": "body fluids"
+                    }
+                ]
+            ],
+            [
+                "infectious mononucleosis Cytomegalic inclusion disease Premature birth liver , lung and spleen diseases in the newborn Small size at birth Small head size congenital seizures in the newborn",
+                [
+                    "/wiki/Infectious_mononucleosis",
+                    "/wiki/Cytomegalic_inclusion_disease",
+                    "/wiki/Premature_birth",
+                    "/wiki/Liver_disease",
+                    "/wiki/Lung_disease",
+                    "/wiki/Spleen",
+                    "/wiki/Small_for_gestational_age",
+                    "/wiki/Microcephaly",
+                    "/wiki/Seizures"
+                ],
+                [
+                    {
+                        "entity id": "Q207367",
+                        "label": "Infectious mononucleosis"
+                    },
+                    {
+                        "entity id": "Q5201359",
+                        "label": "cytomegalic inclusion body disease"
+                    },
+                    {
+                        "entity id": "Q625506",
+                        "label": "preterm birth"
+                    },
+                    {
+                        "entity id": "Q929737",
+                        "label": "liver disease"
+                    },
+                    {
+                        "entity id": "Q3392853",
+                        "label": "lung disease"
+                    },
+                    {
+                        "entity id": "Q9371",
+                        "label": "spleen"
+                    },
+                    {
+                        "entity id": "Q1298973",
+                        "label": "small for gestational age"
+                    },
+                    {
+                        "entity id": "Q431643",
+                        "label": "microcephaly"
+                    },
+                    {
+                        "entity id": "Q852376",
+                        "label": "convulsion"
+                    }
+                ]
+            ],
+            [
+                "ganciclovir cidofovir foscarnet",
+                [
+                    "/wiki/Ganciclovir",
+                    "/wiki/Cidofovir",
+                    "/wiki/Foscarnet"
+                ],
+                [
+                    {
+                        "entity id": "Q417640",
+                        "label": "ganciclovir"
+                    },
+                    {
+                        "entity id": "Q423445",
+                        "label": "cidofovir"
+                    },
+                    {
+                        "entity id": "Q420387",
+                        "label": "foscarnet"
+                    }
+                ]
+            ],
+            [
+                "hand washing avoid sharing food and drinks with others safe sex",
+                []
+            ]
+        ],
+        [
+            [
+                "Human herpesvirus , type 8",
+                [
+                    "/wiki/Human_herpesvirus,_type_8"
+                ],
+                [
+                    {
+                        "entity id": "Q77977596",
+                        "label": "Human Herpesvirus, Type 8. Early Days"
+                    }
+                ]
+            ],
+            [
+                "Herpesviridae",
+                [
+                    "/wiki/Herpesviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q149348",
+                        "label": "Herpesviridae"
+                    }
+                ]
+            ],
+            [
+                "Saliva Sexual",
+                []
+            ],
+            [
+                "Kaposi sarcoma multicentric Castleman disease primary effusion lymphoma",
+                [
+                    "/wiki/Kaposi_sarcoma",
+                    "/wiki/Castleman_disease",
+                    "/wiki/Primary_effusion_lymphoma"
+                ],
+                [
+                    {
+                        "entity id": "Q725345",
+                        "label": "Kaposi's sarcoma"
+                    },
+                    {
+                        "entity id": "Q1947302",
+                        "label": "Castleman's disease"
+                    },
+                    {
+                        "entity id": "Q3832899",
+                        "label": "primary effusion lymphoma"
+                    }
+                ]
+            ],
+            [
+                "many in evaluation-stage",
+                []
+            ],
+            [
+                "avoid close contact with lesions safe sex",
+                []
+            ]
+        ],
+        [
+            [
+                "HIV",
+                [
+                    "/wiki/HIV"
+                ],
+                [
+                    {
+                        "entity id": "Q15787",
+                        "label": "HIV"
+                    }
+                ]
+            ],
+            [
+                "Retroviridae",
+                [
+                    "/wiki/Retroviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q189308",
+                        "label": "retrovirus"
+                    }
+                ]
+            ],
+            [
+                "sexual contact blood breast milk vertical transmission",
+                [
+                    "/wiki/Blood",
+                    "/wiki/Breast_milk"
+                ],
+                [
+                    {
+                        "entity id": "Q7873",
+                        "label": "blood"
+                    },
+                    {
+                        "entity id": "Q22728",
+                        "label": "human breast milk"
+                    }
+                ]
+            ],
+            [
+                "AIDS",
+                [
+                    "/wiki/AIDS"
+                ],
+                [
+                    {
+                        "entity id": "Q12199",
+                        "label": "HIV/AIDS"
+                    }
+                ]
+            ],
+            [
+                "HAART , such as protease inhibitors and reverse-transcriptase inhibitors",
+                [
+                    "/wiki/HAART",
+                    "/wiki/Protease_inhibitor_(pharmacology)",
+                    "/wiki/Reverse-transcriptase_inhibitor"
+                ],
+                [
+                    {
+                        "entity id": "Q3536652",
+                        "label": "highly active antiretroviral therapy"
+                    },
+                    {},
+                    {
+                        "entity id": "Q421559",
+                        "label": "reverse-transcriptase inhibitor"
+                    }
+                ]
+            ],
+            [
+                "zidovudine ( perinatally ) blood product screening safe sex avoiding shared needles/syringes",
+                [
+                    "/wiki/Zidovudine"
+                ],
+                [
+                    {
+                        "entity id": "Q198504",
+                        "label": "zidovudine"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Influenza virus",
+                [
+                    "/wiki/Influenza_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q287246",
+                        "label": "Orthomyxoviridae"
+                    }
+                ]
+            ],
+            [
+                "Orthomyxoviridae",
+                [
+                    "/wiki/Orthomyxoviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q287246",
+                        "label": "Orthomyxoviridae"
+                    }
+                ]
+            ],
+            [
+                "droplet contact",
+                []
+            ],
+            [
+                "influenza ( Reye syndrome )",
+                [
+                    "/wiki/Influenza",
+                    "/wiki/Reye_syndrome"
+                ],
+                [
+                    {
+                        "entity id": "Q2840",
+                        "label": "influenza"
+                    },
+                    {
+                        "entity id": "Q826103",
+                        "label": "Reye syndrome"
+                    }
+                ]
+            ],
+            [
+                "amantadine rimantadine zanamivir oseltamivir",
+                [
+                    "/wiki/Amantadine",
+                    "/wiki/Rimantadine",
+                    "/wiki/Zanamivir",
+                    "/wiki/Oseltamivir"
+                ],
+                [
+                    {
+                        "entity id": "Q409761",
+                        "label": "amantadine"
+                    },
+                    {
+                        "entity id": "Q42171",
+                        "label": "rimantadine"
+                    },
+                    {
+                        "entity id": "Q146075",
+                        "label": "zanamivir"
+                    },
+                    {
+                        "entity id": "Q211509",
+                        "label": "oseltamivir"
+                    }
+                ]
+            ],
+            [
+                "influenza vaccine amantadine rimantadine hand washing covering mouth when coughing/sneezing avoiding close contact with the sick",
+                [
+                    "/wiki/Influenza_vaccine",
+                    "/wiki/Amantadine",
+                    "/wiki/Rimantadine"
+                ],
+                [
+                    {
+                        "entity id": "Q383260",
+                        "label": "influenza vaccine"
+                    },
+                    {
+                        "entity id": "Q409761",
+                        "label": "amantadine"
+                    },
+                    {
+                        "entity id": "Q42171",
+                        "label": "rimantadine"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Measles virus",
+                [
+                    "/wiki/Measles_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q573943",
+                        "label": "Measles virus"
+                    }
+                ]
+            ],
+            [
+                "Paramyxoviridae",
+                [
+                    "/wiki/Paramyxoviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q911129",
+                        "label": "Paramyxoviridae"
+                    }
+                ]
+            ],
+            [
+                "droplet contact",
+                []
+            ],
+            [
+                "measles postinfectious encephalomyelitis",
+                [
+                    "/wiki/Measles",
+                    "/wiki/Postinfectious_encephalomyelitis"
+                ],
+                [
+                    {
+                        "entity id": "Q79793",
+                        "label": "measles"
+                    },
+                    {
+                        "entity id": "Q33965417",
+                        "label": "Postinfectious encephalomyelitis"
+                    }
+                ]
+            ],
+            [
+                "None",
+                []
+            ],
+            [
+                "MMR vaccine quarantining the sick avoiding contact with the sick",
+                [
+                    "/wiki/MMR_vaccine"
+                ],
+                [
+                    {
+                        "entity id": "Q908104",
+                        "label": "MMR vaccine"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mumps virus",
+                [
+                    "/wiki/Mumps_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q1952649",
+                        "label": "mumps virus"
+                    }
+                ]
+            ],
+            [
+                "Paramyxoviridae",
+                [
+                    "/wiki/Paramyxoviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q911129",
+                        "label": "Paramyxoviridae"
+                    }
+                ]
+            ],
+            [
+                "droplet contact",
+                []
+            ],
+            [
+                "mumps",
+                [
+                    "/wiki/Mumps"
+                ],
+                [
+                    {
+                        "entity id": "Q176741",
+                        "label": "mumps"
+                    }
+                ]
+            ],
+            [
+                "None",
+                []
+            ],
+            [
+                "MMR vaccine avoiding close contact with the sick",
+                [
+                    "/wiki/MMR_vaccine"
+                ],
+                [
+                    {
+                        "entity id": "Q908104",
+                        "label": "MMR vaccine"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Human papillomavirus",
+                [
+                    "/wiki/Human_papillomavirus"
+                ],
+                [
+                    {
+                        "entity id": "Q69999790",
+                        "label": "human papilloma virus"
+                    }
+                ]
+            ],
+            [
+                "Papillomaviridae",
+                [
+                    "/wiki/Papillomaviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q9055203",
+                        "label": "Papillomaviridae"
+                    }
+                ]
+            ],
+            [
+                "direct contact sexual contact vertical transmission",
+                [
+                    "/wiki/Transmission_(medicine)",
+                    "/wiki/Transmission_(medicine)"
+                ],
+                [
+                    {
+                        "entity id": "Q1662340",
+                        "label": "Transmission (medicine)"
+                    },
+                    {
+                        "entity id": "Q1662340",
+                        "label": "Transmission (medicine)"
+                    }
+                ]
+            ],
+            [
+                "hyperplastic epithelial lesions ( common , flat , plantar and anogenital warts , laryngeal papillomas , epidermodysplasia verruciformis ) Malignancies for some species ( cervical carcinoma , squamous cell carcinomas )",
+                [
+                    "/wiki/Common_warts",
+                    "/wiki/Flat_wart",
+                    "/wiki/Plantar_wart",
+                    "/wiki/Anogenital_warts",
+                    "/wiki/Laryngeal_papilloma",
+                    "/wiki/Epidermodysplasia_verruciformis",
+                    "/wiki/Cervical_carcinoma",
+                    "/wiki/Squamous_cell_carcinomas"
+                ],
+                [
+                    {
+                        "entity id": "Q45304992",
+                        "label": "Common warts from immunocompetent patients show the same distribution of human papillomavirus types as common warts from immunocompromised patients."
+                    },
+                    {
+                        "entity id": "Q7922590",
+                        "label": "verruca plana"
+                    },
+                    {
+                        "entity id": "Q2251669",
+                        "label": "plantar wart"
+                    },
+                    {
+                        "entity id": "Q208726",
+                        "label": "anogenital venereal wart"
+                    },
+                    {
+                        "entity id": "Q18553776",
+                        "label": "larynx squamous papilloma"
+                    },
+                    {
+                        "entity id": "Q974691",
+                        "label": "epidermodysplasia verruciformis"
+                    },
+                    {
+                        "entity id": "Q54808737",
+                        "label": "CC3/CUHK3"
+                    },
+                    {
+                        "entity id": "Q18348812",
+                        "label": "head and neck squamous cell carcinoma"
+                    }
+                ]
+            ],
+            [
+                "liquid nitrogen laser vaporization cytotoxic chemicals interferon cidofovir",
+                [
+                    "/wiki/Liquid_nitrogen",
+                    "/wiki/Laser_vaporization",
+                    "/wiki/Cytotoxic",
+                    "/wiki/Interferon",
+                    "/wiki/Cidofovir"
+                ],
+                [
+                    {
+                        "entity id": "Q1139370",
+                        "label": "liquid nitrogen"
+                    },
+                    {
+                        "entity id": "Q112601254",
+                        "label": "laser vaporization"
+                    },
+                    {
+                        "entity id": "Q246181",
+                        "label": "cytotoxicity"
+                    },
+                    {
+                        "entity id": "Q188269",
+                        "label": "interferon"
+                    },
+                    {
+                        "entity id": "Q423445",
+                        "label": "cidofovir"
+                    }
+                ]
+            ],
+            [
+                "HPV vaccine avoiding close contact with lesions safe sex",
+                [
+                    "/wiki/HPV_vaccine"
+                ],
+                [
+                    {
+                        "entity id": "Q900189",
+                        "label": "HPV vaccine"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Parainfluenza virus",
+                [
+                    "/wiki/Parainfluenza_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q18967920",
+                        "label": "parainfluenzal pneumonia"
+                    }
+                ]
+            ],
+            [
+                "Paramyxoviridae",
+                [
+                    "/wiki/Paramyxoviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q911129",
+                        "label": "Paramyxoviridae"
+                    }
+                ]
+            ],
+            [
+                "droplet contact",
+                []
+            ],
+            [
+                "croup pneumonia bronchiolitis common cold",
+                [
+                    "/wiki/Croup",
+                    "/wiki/Pneumonia",
+                    "/wiki/Bronchiolitis",
+                    "/wiki/Common_cold"
+                ],
+                [
+                    {
+                        "entity id": "Q836356",
+                        "label": "croup"
+                    },
+                    {
+                        "entity id": "Q12192",
+                        "label": "pneumonia"
+                    },
+                    {
+                        "entity id": "Q424227",
+                        "label": "bronchiolitis"
+                    },
+                    {
+                        "entity id": "Q12125",
+                        "label": "common cold"
+                    }
+                ]
+            ],
+            [
+                "None",
+                []
+            ],
+            [
+                "hand washing covering mouth when coughing/sneezing",
+                []
+            ]
+        ],
+        [
+            [
+                "Poliovirus",
+                [
+                    "/wiki/Poliovirus"
+                ],
+                [
+                    {
+                        "entity id": "Q12438936",
+                        "label": "poliovirus"
+                    }
+                ]
+            ],
+            [
+                "Picornaviridae",
+                [
+                    "/wiki/Picornaviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q936600",
+                        "label": "Picornavirus"
+                    }
+                ]
+            ],
+            [
+                "fecal-oral",
+                []
+            ],
+            [
+                "poliomyelitis",
+                [
+                    "/wiki/Poliomyelitis"
+                ],
+                [
+                    {
+                        "entity id": "Q12195",
+                        "label": "poliomyelitis"
+                    }
+                ]
+            ],
+            [
+                "None",
+                []
+            ],
+            [
+                "Polio vaccine avoiding contaminated food and water improved sanitation",
+                [
+                    "/wiki/Polio_vaccine"
+                ],
+                [
+                    {
+                        "entity id": "Q1519099",
+                        "label": "polio vaccine"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Rabies virus",
+                [
+                    "/wiki/Rabies_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q698976",
+                        "label": "rabies virus"
+                    }
+                ]
+            ],
+            [
+                "Rhabdoviridae",
+                [
+                    "/wiki/Rhabdoviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q1356983",
+                        "label": "Rhabdoviridae"
+                    }
+                ]
+            ],
+            [
+                "animal bite droplet contact",
+                []
+            ],
+            [
+                "rabies ( fatal encephalitis )",
+                [
+                    "/wiki/Rabies"
+                ],
+                [
+                    {
+                        "entity id": "Q39222",
+                        "label": "rabies"
+                    }
+                ]
+            ],
+            [
+                "Post-exposure prophylaxis",
+                []
+            ],
+            [
+                "rabies vaccine avoiding rabid animals",
+                [
+                    "/wiki/Rabies_vaccine"
+                ],
+                [
+                    {
+                        "entity id": "Q4007169",
+                        "label": "rabies vaccine"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Respiratory syncytial virus",
+                [
+                    "/wiki/Respiratory_syncytial_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q1052913",
+                        "label": "human respiratory syncytial virus"
+                    }
+                ]
+            ],
+            [
+                "Paramyxoviridae",
+                [
+                    "/wiki/Paramyxoviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q911129",
+                        "label": "Paramyxoviridae"
+                    }
+                ]
+            ],
+            [
+                "droplet contact hand to mouth",
+                []
+            ],
+            [
+                "bronchiolitis pneumonia influenza-like syndrome severe bronchiolitis with pneumonia",
+                [
+                    "/wiki/Pneumonia"
+                ],
+                [
+                    {
+                        "entity id": "Q12192",
+                        "label": "pneumonia"
+                    }
+                ]
+            ],
+            [
+                "( ribavirin )",
+                [
+                    "/wiki/Ribavirin"
+                ],
+                [
+                    {
+                        "entity id": "Q421862",
+                        "label": "ribavirin"
+                    }
+                ]
+            ],
+            [
+                "hand washing avoiding close contact with the sick palivizumab in high risk individuals covering mouth when coughing/sneezing",
+                [
+                    "/wiki/Palivizumab"
+                ],
+                [
+                    {
+                        "entity id": "Q412765",
+                        "label": "palivizumab"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Rubella virus",
+                [
+                    "/wiki/Rubella_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q701609",
+                        "label": "Rubella virus"
+                    }
+                ]
+            ],
+            [
+                "Togaviridae",
+                [
+                    "/wiki/Togaviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q1413137",
+                        "label": "Togaviridae"
+                    }
+                ]
+            ],
+            [
+                "Respiratory droplet contact",
+                []
+            ],
+            [
+                "congenital rubella German measles",
+                [
+                    "/wiki/Congenital_rubella",
+                    "/wiki/German_measles"
+                ],
+                [
+                    {
+                        "entity id": "Q1724539",
+                        "label": "congenital rubella syndrome"
+                    },
+                    {
+                        "entity id": "Q155857",
+                        "label": "rubella"
+                    }
+                ]
+            ],
+            [
+                "None",
+                []
+            ],
+            [
+                "MMR vaccine avoiding close contact with the sick",
+                [
+                    "/wiki/MMR_vaccine"
+                ],
+                [
+                    {
+                        "entity id": "Q908104",
+                        "label": "MMR vaccine"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Structural characteristics -- Clinical characteristics",
+    "section_text": "The clinical characteristics of viruses may differ substantially among species within the same family :",
+    "uid": "Viral_disease_1",
+    "intro": "A viral disease (or viral infection, or infectious disease) occurs when an organism's body is invaded by pathogenic viruses, and infectious virus particles (virions) attach to and enter susceptible cells."
+}

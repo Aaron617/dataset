@@ -1,0 +1,1258 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_New_Zealand_state_highways",
+    "title": "List of New Zealand state highways",
+    "header": [
+        [
+            "No",
+            []
+        ],
+        [
+            "From",
+            []
+        ],
+        [
+            "To",
+            []
+        ],
+        [
+            "Via",
+            []
+        ],
+        [
+            "Length ( km )",
+            []
+        ],
+        [
+            "Notes",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1S",
+                [
+                    "/wiki/New_Zealand_State_Highway_1"
+                ],
+                [
+                    {
+                        "entity id": "Q1983350",
+                        "label": "New Zealand State Highway 12"
+                    }
+                ]
+            ],
+            [
+                "Picton Ferry Terminal",
+                [
+                    "/wiki/Picton,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q1362879",
+                        "label": "Picton"
+                    }
+                ]
+            ],
+            [
+                "Bluff",
+                [
+                    "/wiki/Bluff,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q152028",
+                        "label": "Bluff"
+                    }
+                ]
+            ],
+            [
+                "Blenheim , Kaikoura , Christchurch , Timaru , Dunedin , Gore , Invercargill",
+                [
+                    "/wiki/Blenheim,_New_Zealand",
+                    "/wiki/Kaikoura",
+                    "/wiki/Christchurch",
+                    "/wiki/Timaru",
+                    "/wiki/Dunedin",
+                    "/wiki/Gore,_New_Zealand",
+                    "/wiki/Invercargill"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q25834",
+                        "label": "Kaik\u014dura"
+                    },
+                    {
+                        "entity id": "Q79990",
+                        "label": "Christchurch"
+                    },
+                    {
+                        "entity id": "Q1016574",
+                        "label": "Timaru"
+                    },
+                    {
+                        "entity id": "Q133073",
+                        "label": "Dunedin"
+                    },
+                    {
+                        "entity id": "Q5586090",
+                        "label": "Gore Aerodrome"
+                    },
+                    {
+                        "entity id": "Q31805",
+                        "label": "Invercargill"
+                    }
+                ]
+            ],
+            [
+                "940.7",
+                []
+            ],
+            [
+                "SH 1S is used in official documentation , SH 1 on maps and signs . Interislander ferry connects State Highway 1N and State Highway 1S between Wellington and Picton",
+                [
+                    "/wiki/Interislander",
+                    "/wiki/New_Zealand_State_Highway_1",
+                    "/wiki/New_Zealand_State_Highway_1"
+                ],
+                [
+                    {
+                        "entity id": "Q1666118",
+                        "label": "Interislander"
+                    },
+                    {
+                        "entity id": "Q1983350",
+                        "label": "New Zealand State Highway 12"
+                    },
+                    {
+                        "entity id": "Q1983350",
+                        "label": "New Zealand State Highway 12"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "6",
+                [
+                    "/wiki/New_Zealand_State_Highway_6"
+                ],
+                [
+                    {
+                        "entity id": "Q1716999",
+                        "label": "State Highway 6"
+                    }
+                ]
+            ],
+            [
+                "SH 1 at Blenheim",
+                [
+                    "/wiki/Blenheim,_New_Zealand"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "SH 1 at Invercargill",
+                [
+                    "/wiki/Invercargill"
+                ],
+                [
+                    {
+                        "entity id": "Q31805",
+                        "label": "Invercargill"
+                    }
+                ]
+            ],
+            [
+                "Nelson , Westport , Greymouth , Hokitika",
+                [
+                    "/wiki/Nelson,_New_Zealand",
+                    "/wiki/Westport,_New_Zealand",
+                    "/wiki/Greymouth",
+                    "/wiki/Hokitika"
+                ],
+                [
+                    {
+                        "entity id": "Q206687",
+                        "label": "Nelson"
+                    },
+                    {
+                        "entity id": "Q1349217",
+                        "label": "Westport"
+                    },
+                    {
+                        "entity id": "Q934790",
+                        "label": "Greymouth"
+                    },
+                    {
+                        "entity id": "Q1549557",
+                        "label": "Hokitika"
+                    }
+                ]
+            ],
+            [
+                "1162.2",
+                []
+            ],
+            [
+                "The longest single-island State Highway",
+                []
+            ]
+        ],
+        [
+            [
+                "6A",
+                [
+                    "/wiki/New_Zealand_State_Highway_6"
+                ],
+                [
+                    {
+                        "entity id": "Q1716999",
+                        "label": "State Highway 6"
+                    }
+                ]
+            ],
+            [
+                "SH 6 at Frankton",
+                [
+                    "/wiki/Frankton,_Otago"
+                ],
+                [
+                    {
+                        "entity id": "Q2451937",
+                        "label": "Frankton"
+                    }
+                ]
+            ],
+            [
+                "Queenstown",
+                [
+                    "/wiki/Queenstown,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q613602",
+                        "label": "Queenstown"
+                    }
+                ]
+            ],
+            [
+                "Frankton , Queenstown central",
+                [
+                    "/wiki/Queenstown,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q613602",
+                        "label": "Queenstown"
+                    }
+                ]
+            ],
+            [
+                "6.9",
+                []
+            ],
+            [
+                "Connection between Queenstown International Airport and Queenstown central",
+                [
+                    "/wiki/Queenstown_International_Airport",
+                    "/wiki/Queenstown,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q1204970",
+                        "label": "Queenstown Airport"
+                    },
+                    {
+                        "entity id": "Q613602",
+                        "label": "Queenstown"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "7",
+                [
+                    "/wiki/New_Zealand_State_Highway_7"
+                ],
+                [
+                    {
+                        "entity id": "Q1558580",
+                        "label": "New Zealand State Highway 7"
+                    }
+                ]
+            ],
+            [
+                "SH 1 at Waipara ( 60 km north of Christchurch )",
+                [
+                    "/wiki/Waipara",
+                    "/wiki/Christchurch"
+                ],
+                [
+                    {
+                        "entity id": "Q985544",
+                        "label": "Waipara"
+                    },
+                    {
+                        "entity id": "Q79990",
+                        "label": "Christchurch"
+                    }
+                ]
+            ],
+            [
+                "SH 6 at Greymouth",
+                [
+                    "/wiki/Greymouth"
+                ],
+                [
+                    {
+                        "entity id": "Q934790",
+                        "label": "Greymouth"
+                    }
+                ]
+            ],
+            [
+                "Lewis Pass",
+                [
+                    "/wiki/Lewis_Pass"
+                ],
+                [
+                    {
+                        "entity id": "Q1822139",
+                        "label": "Lewis Pass"
+                    }
+                ]
+            ],
+            [
+                "272.4",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "7A",
+                [
+                    "/wiki/New_Zealand_State_Highway_7"
+                ],
+                [
+                    {
+                        "entity id": "Q1558580",
+                        "label": "New Zealand State Highway 7"
+                    }
+                ]
+            ],
+            [
+                "SH 7 at Waiau Bridge",
+                []
+            ],
+            [
+                "Hanmer Springs",
+                [
+                    "/wiki/Hanmer_Springs"
+                ],
+                [
+                    {
+                        "entity id": "Q995544",
+                        "label": "Hanmer Springs"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "9.4",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "8",
+                [
+                    "/wiki/New_Zealand_State_Highway_8"
+                ],
+                [
+                    {
+                        "entity id": "Q1555095",
+                        "label": "New Zealand State Highway 8"
+                    }
+                ]
+            ],
+            [
+                "SH 1 at Timaru",
+                [
+                    "/wiki/Timaru"
+                ],
+                [
+                    {
+                        "entity id": "Q1016574",
+                        "label": "Timaru"
+                    }
+                ]
+            ],
+            [
+                "SH 1 at Milton",
+                [
+                    "/wiki/Milton,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q203424",
+                        "label": "Milton"
+                    }
+                ]
+            ],
+            [
+                "Fairlie , Tekapo , Twizel , Cromwell , Alexandra",
+                [
+                    "/wiki/Fairlie,_New_Zealand",
+                    "/wiki/Lake_Tekapo_(town)",
+                    "/wiki/Twizel",
+                    "/wiki/Cromwell,_New_Zealand",
+                    "/wiki/Alexandra,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q839581",
+                        "label": "Fairlie"
+                    },
+                    {},
+                    {
+                        "entity id": "Q837901",
+                        "label": "Twizel"
+                    },
+                    {
+                        "entity id": "Q973355",
+                        "label": "Cromwell"
+                    },
+                    {
+                        "entity id": "Q2058593",
+                        "label": "Alexandra"
+                    }
+                ]
+            ],
+            [
+                "456.7",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "8A",
+                [
+                    "/wiki/New_Zealand_State_Highway_8"
+                ],
+                [
+                    {
+                        "entity id": "Q1555095",
+                        "label": "New Zealand State Highway 8"
+                    }
+                ]
+            ],
+            [
+                "SH 6 at Luggate",
+                [
+                    "/wiki/Luggate"
+                ],
+                [
+                    {
+                        "entity id": "Q6699788",
+                        "label": "Luggate"
+                    }
+                ]
+            ],
+            [
+                "SH 8 at Tarras",
+                [
+                    "/wiki/Tarras"
+                ],
+                [
+                    {
+                        "entity id": "Q2394602",
+                        "label": "Tarras"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "21",
+                []
+            ],
+            [
+                "Northern route crossing Lake Dunstan",
+                [
+                    "/wiki/Lake_Dunstan"
+                ],
+                [
+                    {
+                        "entity id": "Q1303872",
+                        "label": "Lake Dunstan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "8B",
+                [
+                    "/wiki/New_Zealand_State_Highway_8"
+                ],
+                [
+                    {
+                        "entity id": "Q1555095",
+                        "label": "New Zealand State Highway 8"
+                    }
+                ]
+            ],
+            [
+                "SH 8 at Deadmans Point",
+                []
+            ],
+            [
+                "SH6 at Cromwell",
+                [
+                    "/wiki/Cromwell,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q973355",
+                        "label": "Cromwell"
+                    }
+                ]
+            ],
+            [
+                "Cromwell",
+                [
+                    "/wiki/Cromwell,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q973355",
+                        "label": "Cromwell"
+                    }
+                ]
+            ],
+            [
+                "2.6",
+                []
+            ],
+            [
+                "Southern route crossing Lake Dunstan",
+                [
+                    "/wiki/Lake_Dunstan"
+                ],
+                [
+                    {
+                        "entity id": "Q1303872",
+                        "label": "Lake Dunstan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "60",
+                [
+                    "/wiki/New_Zealand_State_Highway_60"
+                ],
+                [
+                    {
+                        "entity id": "Q3660867",
+                        "label": "New Zealand State Highway 60"
+                    }
+                ]
+            ],
+            [
+                "Collingwood",
+                [
+                    "/wiki/Collingwood,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q1109703",
+                        "label": "Collingwood"
+                    }
+                ]
+            ],
+            [
+                "SH 6 near Richmond",
+                [
+                    "/wiki/Richmond,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q1208462",
+                        "label": "Richmond"
+                    }
+                ]
+            ],
+            [
+                "Motueka , Takaka",
+                [
+                    "/wiki/Motueka",
+                    "/wiki/Takaka"
+                ],
+                [
+                    {
+                        "entity id": "Q489458",
+                        "label": "Motueka"
+                    },
+                    {
+                        "entity id": "Q151841",
+                        "label": "T\u0101kaka"
+                    }
+                ]
+            ],
+            [
+                "116.5",
+                []
+            ],
+            [
+                "Was shortened by 2 km in 2010 after the opening of the Ruby Bay bypass",
+                []
+            ]
+        ],
+        [
+            [
+                "62",
+                [
+                    "/wiki/New_Zealand_State_Highway_62"
+                ],
+                [
+                    {
+                        "entity id": "Q17055536",
+                        "label": "New Zealand State Highway 62"
+                    }
+                ]
+            ],
+            [
+                "SH 1 at Spring Creek",
+                []
+            ],
+            [
+                "SH 6 2 km North of Renwick",
+                []
+            ],
+            [
+                "Rapaura",
+                [
+                    "/wiki/Rapaura"
+                ],
+                [
+                    {
+                        "entity id": "Q7293864",
+                        "label": "Rapaura"
+                    }
+                ]
+            ],
+            [
+                "12.8",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "63",
+                [
+                    "/wiki/New_Zealand_State_Highway_63"
+                ],
+                [
+                    {
+                        "entity id": "Q1983357",
+                        "label": "New Zealand State Highway 63"
+                    }
+                ]
+            ],
+            [
+                "SH 6 Renwick",
+                [
+                    "/wiki/Renwick,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q2144437",
+                        "label": "Renwick"
+                    }
+                ]
+            ],
+            [
+                "SH 6 at Kawatiri Junction",
+                []
+            ],
+            [
+                "Wairau Valley , Saint Arnaud",
+                [
+                    "/wiki/Wairau_Valley",
+                    "/wiki/Saint_Arnaud,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q7960325",
+                        "label": "Wairau Valley"
+                    },
+                    {
+                        "entity id": "Q1725073",
+                        "label": "St. Arnaud"
+                    }
+                ]
+            ],
+            [
+                "117.3",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "65",
+                [
+                    "/wiki/New_Zealand_State_Highway_65"
+                ],
+                [
+                    {
+                        "entity id": "Q1729475",
+                        "label": "New Zealand State Highway 65"
+                    }
+                ]
+            ],
+            [
+                "SH 7 at Springs Junction",
+                []
+            ],
+            [
+                "SH 6 11 km west of Murchison ,",
+                [
+                    "/wiki/Murchison,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q971172",
+                        "label": "Murchison"
+                    }
+                ]
+            ],
+            [
+                "Maruia",
+                [
+                    "/wiki/Maruia"
+                ],
+                [
+                    {
+                        "entity id": "Q1905946",
+                        "label": "Maruia"
+                    }
+                ]
+            ],
+            [
+                "71.4",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "67",
+                [
+                    "/wiki/New_Zealand_State_Highway_67"
+                ],
+                [
+                    {
+                        "entity id": "Q762161",
+                        "label": "New Zealand State Highway 67"
+                    }
+                ]
+            ],
+            [
+                "SH 6 near Westport",
+                [
+                    "/wiki/Westport,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q1349217",
+                        "label": "Westport"
+                    }
+                ]
+            ],
+            [
+                "4 km past Summerlea ,",
+                [
+                    "/wiki/Summerlea,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q7637620",
+                        "label": "Summerlea"
+                    }
+                ]
+            ],
+            [
+                "Westport , Waimangaroa , Granity , Hector / Ngakawau",
+                [
+                    "/wiki/Waimangaroa",
+                    "/wiki/Granity",
+                    "/wiki/Hector,_New_Zealand",
+                    "/wiki/Hector,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q7960094",
+                        "label": "Waimangaroa"
+                    },
+                    {
+                        "entity id": "Q2076873",
+                        "label": "Granity"
+                    },
+                    {
+                        "entity id": "Q65430027",
+                        "label": "Hector"
+                    },
+                    {
+                        "entity id": "Q65430027",
+                        "label": "Hector"
+                    }
+                ]
+            ],
+            [
+                "52.3",
+                []
+            ],
+            [
+                "The road continues for a further 44 km to Karamea but not as a State Highway",
+                [
+                    "/wiki/Karamea"
+                ],
+                [
+                    {
+                        "entity id": "Q1728935",
+                        "label": "Karamea"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "67A",
+                [
+                    "/wiki/New_Zealand_State_Highway_67"
+                ],
+                [
+                    {
+                        "entity id": "Q762161",
+                        "label": "New Zealand State Highway 67"
+                    }
+                ]
+            ],
+            [
+                "SH 67 at Westport",
+                [
+                    "/wiki/Westport,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q1349217",
+                        "label": "Westport"
+                    }
+                ]
+            ],
+            [
+                "Cape Foulwind",
+                [
+                    "/wiki/Cape_Foulwind"
+                ],
+                [
+                    {
+                        "entity id": "Q673817",
+                        "label": "Cape Foulwind"
+                    }
+                ]
+            ],
+            [
+                "Carters Beach",
+                [
+                    "/wiki/Carters_Beach"
+                ],
+                [
+                    {
+                        "entity id": "Q5047247",
+                        "label": "Carters Beach"
+                    }
+                ]
+            ],
+            [
+                "9",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "69",
+                [
+                    "/wiki/New_Zealand_State_Highway_69"
+                ],
+                [
+                    {
+                        "entity id": "Q1983364",
+                        "label": "New Zealand State Highway 69"
+                    }
+                ]
+            ],
+            [
+                "SH 6 at Inangahua Junction",
+                [
+                    "/wiki/Inangahua_Junction"
+                ],
+                [
+                    {
+                        "entity id": "Q1015661",
+                        "label": "Inangahua Junction"
+                    }
+                ]
+            ],
+            [
+                "SH 7 at Reefton",
+                [
+                    "/wiki/Reefton"
+                ],
+                [
+                    {
+                        "entity id": "Q2136549",
+                        "label": "Reefton"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "33.3",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "71",
+                [
+                    "/wiki/New_Zealand_State_Highway_71"
+                ],
+                [
+                    {
+                        "entity id": "Q15262119",
+                        "label": "New Zealand State Highway 71"
+                    }
+                ]
+            ],
+            [
+                "SH 1 at Kaiapoi Interchange",
+                [
+                    "/wiki/Kaiapoi"
+                ],
+                [
+                    {
+                        "entity id": "Q1013339",
+                        "label": "Kaiapoi"
+                    }
+                ]
+            ],
+            [
+                "Rangiora",
+                [
+                    "/wiki/Rangiora"
+                ],
+                [
+                    {
+                        "entity id": "Q2034575",
+                        "label": "Rangiora"
+                    }
+                ]
+            ],
+            [
+                "Lineside Rd",
+                []
+            ],
+            [
+                "6.4",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "73",
+                [
+                    "/wiki/New_Zealand_State_Highway_73"
+                ],
+                [
+                    {
+                        "entity id": "Q7015716",
+                        "label": "New Zealand State Highway 73"
+                    }
+                ]
+            ],
+            [
+                "SH 75/SH 76 interchange near Hillmorton , Christchurch",
+                [
+                    "/wiki/Christchurch"
+                ],
+                [
+                    {
+                        "entity id": "Q79990",
+                        "label": "Christchurch"
+                    }
+                ]
+            ],
+            [
+                "SH 6 at Kumara Junction",
+                [
+                    "/wiki/Kumara,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q574530",
+                        "label": "Kumara"
+                    }
+                ]
+            ],
+            [
+                "Darfield , Springfield , Porters Pass , Arthur 's Pass and Kumara",
+                [
+                    "/wiki/Darfield,_New_Zealand",
+                    "/wiki/Springfield,_New_Zealand",
+                    "/wiki/Porters_Pass",
+                    "/wiki/Arthur's_Pass",
+                    "/wiki/Kumara,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q1165830",
+                        "label": "Darfield"
+                    },
+                    {
+                        "entity id": "Q994854",
+                        "label": "Springfield"
+                    },
+                    {
+                        "entity id": "Q7231692",
+                        "label": "Porters Pass"
+                    },
+                    {
+                        "entity id": "Q474342",
+                        "label": "Arthur's Pass"
+                    },
+                    {
+                        "entity id": "Q574530",
+                        "label": "Kumara"
+                    }
+                ]
+            ],
+            [
+                "224",
+                []
+            ],
+            [
+                "Great Alpine Highway",
+                []
+            ]
+        ],
+        [
+            [
+                "74",
+                [
+                    "/wiki/New_Zealand_State_Highway_74"
+                ],
+                [
+                    {
+                        "entity id": "Q2766655",
+                        "label": "New Zealand State Highway 74"
+                    }
+                ]
+            ],
+            [
+                "SH 1 at Belfast",
+                [
+                    "/wiki/Belfast,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q3459122",
+                        "label": "Belfast"
+                    }
+                ]
+            ],
+            [
+                "Lyttelton",
+                [
+                    "/wiki/Lyttelton,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q911909",
+                        "label": "Lyttelton"
+                    }
+                ]
+            ],
+            [
+                "Lyttelton road tunnel",
+                [
+                    "/wiki/Lyttelton_road_tunnel"
+                ],
+                [
+                    {
+                        "entity id": "Q6710403",
+                        "label": "Lyttelton road tunnel"
+                    }
+                ]
+            ],
+            [
+                "28.8",
+                []
+            ],
+            [
+                "Has followed the eastern part of the Christchurch Ring Road since January 2004",
+                []
+            ]
+        ],
+        [
+            [
+                "74A",
+                [
+                    "/wiki/New_Zealand_State_Highway_74"
+                ],
+                [
+                    {
+                        "entity id": "Q2766655",
+                        "label": "New Zealand State Highway 74"
+                    }
+                ]
+            ],
+            [
+                "SH 76 at Brougham St/Garlands/Opawa Rds , Christchurch",
+                []
+            ],
+            [
+                "SH 74 at Palinurus/Dyers Rds",
+                []
+            ],
+            [
+                "Garlands Rd , Rutherford St and Palinurus Rd",
+                []
+            ],
+            [
+                "2.1",
+                []
+            ],
+            [
+                "Part of the Christchurch Ring Road",
+                []
+            ]
+        ],
+        [
+            [
+                "75",
+                [
+                    "/wiki/New_Zealand_State_Highway_75"
+                ],
+                [
+                    {
+                        "entity id": "Q16926692",
+                        "label": "New Zealand State Highway 75"
+                    }
+                ]
+            ],
+            [
+                "SH 73/SH 76 interchange near Hillmorton , Christchurch",
+                [
+                    "/wiki/Christchurch"
+                ],
+                [
+                    {
+                        "entity id": "Q79990",
+                        "label": "Christchurch"
+                    }
+                ]
+            ],
+            [
+                "Akaroa",
+                [
+                    "/wiki/Akaroa"
+                ],
+                [
+                    {
+                        "entity id": "Q416098",
+                        "label": "Akaroa"
+                    }
+                ]
+            ],
+            [
+                "Halswell Tai Tapu , Little River and Duvauchelle",
+                [
+                    "/wiki/Halswell",
+                    "/wiki/Little_River,_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q5643588",
+                        "label": "Halswell"
+                    },
+                    {
+                        "entity id": "Q2843146",
+                        "label": "Little River"
+                    }
+                ]
+            ],
+            [
+                "77.3",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Current -- South Island",
+    "section_text": "",
+    "uid": "List_of_New_Zealand_State_Highways_1",
+    "intro": "This is a list of highways of the New Zealand state highway network and some touring routes. State highways are administered by the NZ Transport Agency, while all other roads are the responsibility of territorial authorities."
+}

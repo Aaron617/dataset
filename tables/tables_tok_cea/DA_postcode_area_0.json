@@ -1,0 +1,772 @@
+{
+    "url": "https://en.wikipedia.org/wiki/DA_postcode_area",
+    "title": "DA postcode area",
+    "header": [
+        [
+            "Postcode district",
+            []
+        ],
+        [
+            "Post town",
+            [
+                "/wiki/Post_town"
+            ],
+            [
+                {
+                    "entity id": "Q1968403",
+                    "label": "post town"
+                }
+            ]
+        ],
+        [
+            "Coverage",
+            []
+        ],
+        [
+            "Local authority area",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "DA1",
+                []
+            ],
+            [
+                "DARTFORD",
+                []
+            ],
+            [
+                "Dartford , Crayford , Barnes Cray",
+                [
+                    "/wiki/Dartford",
+                    "/wiki/Crayford",
+                    "/wiki/Barnes_Cray"
+                ],
+                [
+                    {
+                        "entity id": "Q858775",
+                        "label": "Dartford"
+                    },
+                    {
+                        "entity id": "Q146676",
+                        "label": "Crayford"
+                    },
+                    {
+                        "entity id": "Q147110",
+                        "label": "Barnes Cray"
+                    }
+                ]
+            ],
+            [
+                "Dartford , Bexley",
+                [
+                    "/wiki/Dartford_(borough)",
+                    "/wiki/London_Borough_of_Bexley"
+                ],
+                [
+                    {
+                        "entity id": "Q894082",
+                        "label": "Dartford"
+                    },
+                    {
+                        "entity id": "Q207208",
+                        "label": "London Borough of Bexley"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "DA2",
+                []
+            ],
+            [
+                "DARTFORD",
+                []
+            ],
+            [
+                "Dartford ( east ) , Stone , Wilmington , Bean , Hawley , Darenth , part of Joyden 's Wood",
+                [
+                    "/wiki/Dartford",
+                    "/wiki/Stone,_Kent",
+                    "/wiki/Wilmington,_Kent",
+                    "/wiki/Bean,_Kent",
+                    "/wiki/Hawley,_Kent",
+                    "/wiki/Darenth",
+                    "/wiki/Joyden's_Wood"
+                ],
+                [
+                    {
+                        "entity id": "Q858775",
+                        "label": "Dartford"
+                    },
+                    {
+                        "entity id": "Q7618827",
+                        "label": "Stone"
+                    },
+                    {
+                        "entity id": "Q2480324",
+                        "label": "Wilmington"
+                    },
+                    {
+                        "entity id": "Q2268333",
+                        "label": "Bean"
+                    },
+                    {
+                        "entity id": "Q2347219",
+                        "label": "Hawley"
+                    },
+                    {
+                        "entity id": "Q963988",
+                        "label": "Darenth"
+                    },
+                    {
+                        "entity id": "Q6297685",
+                        "label": "Joyden's Wood"
+                    }
+                ]
+            ],
+            [
+                "Dartford , Sevenoaks",
+                [
+                    "/wiki/Sevenoaks_(district)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "DA3",
+                []
+            ],
+            [
+                "LONGFIELD",
+                []
+            ],
+            [
+                "Longfield , Hartley , New Ash Green , New Barn , Fawkham",
+                [
+                    "/wiki/Longfield",
+                    "/wiki/Hartley,_Kent",
+                    "/wiki/New_Ash_Green",
+                    "/wiki/New_Barn",
+                    "/wiki/Fawkham"
+                ],
+                [
+                    {
+                        "entity id": "Q3259094",
+                        "label": "Longfield"
+                    },
+                    {
+                        "entity id": "Q3243365",
+                        "label": "Hartley"
+                    },
+                    {
+                        "entity id": "Q7005379",
+                        "label": "New Ash Green"
+                    },
+                    {
+                        "entity id": "Q7005438",
+                        "label": "New Barn"
+                    },
+                    {
+                        "entity id": "Q5438746",
+                        "label": "Fawkham"
+                    }
+                ]
+            ],
+            [
+                "Dartford , Sevenoaks , Gravesham",
+                [
+                    "/wiki/Gravesham"
+                ],
+                [
+                    {
+                        "entity id": "Q1459781",
+                        "label": "Gravesham"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "DA4",
+                []
+            ],
+            [
+                "DARTFORD",
+                []
+            ],
+            [
+                "Farningham , Eynsford , South Darenth , Sutton-at-Hone , Horton Kirby",
+                [
+                    "/wiki/Farningham",
+                    "/wiki/Eynsford",
+                    "/wiki/South_Darenth",
+                    "/wiki/Sutton-at-Hone",
+                    "/wiki/Horton_Kirby"
+                ],
+                [
+                    {
+                        "entity id": "Q2706208",
+                        "label": "Farningham"
+                    },
+                    {
+                        "entity id": "Q1877197",
+                        "label": "Eynsford"
+                    },
+                    {
+                        "entity id": "Q7567016",
+                        "label": "South Darenth"
+                    },
+                    {
+                        "entity id": "Q7650204",
+                        "label": "Sutton-at-Hone"
+                    },
+                    {
+                        "entity id": "Q9293945",
+                        "label": "Horton Kirby"
+                    }
+                ]
+            ],
+            [
+                "Sevenoaks , Dartford",
+                []
+            ]
+        ],
+        [
+            [
+                "DA5",
+                []
+            ],
+            [
+                "BEXLEY",
+                []
+            ],
+            [
+                "Bexley , Bexley Village , Blendon , parts of Albany Park and Joyden 's Wood",
+                [
+                    "/wiki/Bexley",
+                    "/wiki/Blendon,_London",
+                    "/wiki/Albany_Park,_Bexley",
+                    "/wiki/Joyden's_Wood"
+                ],
+                [
+                    {
+                        "entity id": "Q207208",
+                        "label": "London Borough of Bexley"
+                    },
+                    {},
+                    {},
+                    {
+                        "entity id": "Q6297685",
+                        "label": "Joyden's Wood"
+                    }
+                ]
+            ],
+            [
+                "Bexley , Dartford",
+                []
+            ]
+        ],
+        [
+            [
+                "DA6",
+                []
+            ],
+            [
+                "BEXLEYHEATH",
+                []
+            ],
+            [
+                "Bexleyheath , Upton",
+                [
+                    "/wiki/Bexleyheath",
+                    "/wiki/Upton,_Bexley"
+                ],
+                [
+                    {
+                        "entity id": "Q146732",
+                        "label": "Bexleyheath"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Bexley",
+                []
+            ]
+        ],
+        [
+            [
+                "DA7",
+                []
+            ],
+            [
+                "BEXLEYHEATH",
+                []
+            ],
+            [
+                "Bexleyheath ( north ) , Barnehurst",
+                [
+                    "/wiki/Bexleyheath",
+                    "/wiki/Barnehurst"
+                ],
+                [
+                    {
+                        "entity id": "Q146732",
+                        "label": "Bexleyheath"
+                    },
+                    {
+                        "entity id": "Q146340",
+                        "label": "Barnehurst"
+                    }
+                ]
+            ],
+            [
+                "Bexley",
+                []
+            ]
+        ],
+        [
+            [
+                "DA8",
+                []
+            ],
+            [
+                "ERITH",
+                []
+            ],
+            [
+                "Erith , Northumberland Heath , Slade Green",
+                [
+                    "/wiki/Erith",
+                    "/wiki/Northumberland_Heath",
+                    "/wiki/Slade_Green"
+                ],
+                [
+                    {
+                        "entity id": "Q146671",
+                        "label": "Erith"
+                    },
+                    {
+                        "entity id": "Q146288",
+                        "label": "Northumberland Heath"
+                    },
+                    {
+                        "entity id": "Q146225",
+                        "label": "Slade Green"
+                    }
+                ]
+            ],
+            [
+                "Bexley",
+                []
+            ]
+        ],
+        [
+            [
+                "DA9",
+                []
+            ],
+            [
+                "GREENHITHE",
+                []
+            ],
+            [
+                "Greenhithe , Stone",
+                [
+                    "/wiki/Greenhithe",
+                    "/wiki/Stone,_Kent"
+                ],
+                [
+                    {
+                        "entity id": "Q3028239",
+                        "label": "Greenhithe"
+                    },
+                    {
+                        "entity id": "Q7618827",
+                        "label": "Stone"
+                    }
+                ]
+            ],
+            [
+                "Dartford",
+                []
+            ]
+        ],
+        [
+            [
+                "DA10",
+                []
+            ],
+            [
+                "SWANSCOMBE",
+                []
+            ],
+            [
+                "Swanscombe , Ebbsfleet",
+                [
+                    "/wiki/Swanscombe",
+                    "/wiki/Ebbsfleet_Valley"
+                ],
+                [
+                    {
+                        "entity id": "Q1083051",
+                        "label": "Swanscombe"
+                    },
+                    {
+                        "entity id": "Q5331561",
+                        "label": "Ebbsfleet Valley"
+                    }
+                ]
+            ],
+            [
+                "Dartford",
+                []
+            ]
+        ],
+        [
+            [
+                "DA11",
+                []
+            ],
+            [
+                "GRAVESEND",
+                []
+            ],
+            [
+                "Gravesend ( west ) , Northfleet",
+                [
+                    "/wiki/Gravesend,_Kent",
+                    "/wiki/Northfleet"
+                ],
+                [
+                    {
+                        "entity id": "Q676689",
+                        "label": "Gravesend"
+                    },
+                    {
+                        "entity id": "Q2087380",
+                        "label": "Northfleet"
+                    }
+                ]
+            ],
+            [
+                "Gravesham , Dartford",
+                []
+            ]
+        ],
+        [
+            [
+                "DA12",
+                []
+            ],
+            [
+                "GRAVESEND",
+                []
+            ],
+            [
+                "Gravesend ( east ) , Chalk , Shorne , Cobham",
+                [
+                    "/wiki/Gravesend,_Kent",
+                    "/wiki/Chalk,_Kent",
+                    "/wiki/Shorne",
+                    "/wiki/Cobham,_Kent"
+                ],
+                [
+                    {
+                        "entity id": "Q676689",
+                        "label": "Gravesend"
+                    },
+                    {
+                        "entity id": "Q5068781",
+                        "label": "Chalk"
+                    },
+                    {
+                        "entity id": "Q2598092",
+                        "label": "Shorne"
+                    },
+                    {
+                        "entity id": "Q949561",
+                        "label": "Cobham"
+                    }
+                ]
+            ],
+            [
+                "Gravesham",
+                []
+            ]
+        ],
+        [
+            [
+                "DA13",
+                []
+            ],
+            [
+                "GRAVESEND",
+                []
+            ],
+            [
+                "Meopham , Istead Rise , Vigo , Southfleet",
+                [
+                    "/wiki/Meopham",
+                    "/wiki/Istead_Rise",
+                    "/wiki/Vigo,_Kent",
+                    "/wiki/Southfleet"
+                ],
+                [
+                    {
+                        "entity id": "Q3133261",
+                        "label": "Meopham"
+                    },
+                    {
+                        "entity id": "Q6088751",
+                        "label": "Istead Rise"
+                    },
+                    {
+                        "entity id": "Q2468399",
+                        "label": "Vigo Village"
+                    },
+                    {
+                        "entity id": "Q1888467",
+                        "label": "Southfleet"
+                    }
+                ]
+            ],
+            [
+                "Gravesham , Dartford , Sevenoaks , Tonbridge and Malling",
+                [
+                    "/wiki/Tonbridge_and_Malling"
+                ],
+                [
+                    {
+                        "entity id": "Q596743",
+                        "label": "Tonbridge and Malling"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "DA14",
+                []
+            ],
+            [
+                "SIDCUP",
+                []
+            ],
+            [
+                "Sidcup , Foots Cray , North Cray , Longlands , Ruxley , part of Albany Park",
+                [
+                    "/wiki/Sidcup",
+                    "/wiki/Foots_Cray",
+                    "/wiki/North_Cray",
+                    "/wiki/Longlands",
+                    "/wiki/Ruxley",
+                    "/wiki/Albany_Park,_Bexley"
+                ],
+                [
+                    {
+                        "entity id": "Q146705",
+                        "label": "Sidcup"
+                    },
+                    {
+                        "entity id": "Q146254",
+                        "label": "Foots Cray"
+                    },
+                    {
+                        "entity id": "Q146279",
+                        "label": "North Cray"
+                    },
+                    {
+                        "entity id": "Q146283",
+                        "label": "Longlands"
+                    },
+                    {
+                        "entity id": "Q121626",
+                        "label": "Ruxley"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Bexley , Bromley",
+                [
+                    "/wiki/London_Borough_of_Bromley"
+                ],
+                [
+                    {
+                        "entity id": "Q208201",
+                        "label": "London Borough of Bromley"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "DA15",
+                []
+            ],
+            [
+                "SIDCUP",
+                []
+            ],
+            [
+                "Sidcup ( north ) , Blackfen , Lamorbey , Longlands , Avery Hill ( part )",
+                [
+                    "/wiki/Sidcup",
+                    "/wiki/Blackfen",
+                    "/wiki/Lamorbey",
+                    "/wiki/Longlands",
+                    "/wiki/Avery_Hill"
+                ],
+                [
+                    {
+                        "entity id": "Q146705",
+                        "label": "Sidcup"
+                    },
+                    {
+                        "entity id": "Q147123",
+                        "label": "Blackfen"
+                    },
+                    {
+                        "entity id": "Q146251",
+                        "label": "Lamorbey"
+                    },
+                    {
+                        "entity id": "Q146283",
+                        "label": "Longlands"
+                    },
+                    {
+                        "entity id": "Q110879787",
+                        "label": "Avery Hill"
+                    }
+                ]
+            ],
+            [
+                "Bexley , Greenwich",
+                [
+                    "/wiki/Royal_Borough_of_Greenwich"
+                ],
+                [
+                    {
+                        "entity id": "Q693450",
+                        "label": "Royal Borough of Greenwich"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "DA16",
+                []
+            ],
+            [
+                "WELLING",
+                []
+            ],
+            [
+                "Welling , Falconwood , East Wickham",
+                [
+                    "/wiki/Welling",
+                    "/wiki/Falconwood",
+                    "/wiki/East_Wickham"
+                ],
+                [
+                    {
+                        "entity id": "Q955872",
+                        "label": "Welling United F.C."
+                    },
+                    {
+                        "entity id": "Q146298",
+                        "label": "Falconwood"
+                    },
+                    {
+                        "entity id": "Q146408",
+                        "label": "East Wickham"
+                    }
+                ]
+            ],
+            [
+                "Bexley , Greenwich",
+                []
+            ]
+        ],
+        [
+            [
+                "DA17",
+                []
+            ],
+            [
+                "BELVEDERE",
+                []
+            ],
+            [
+                "Belvedere , Lessness Heath , Abbey Wood ( part )",
+                [
+                    "/wiki/Belvedere,_London",
+                    "/wiki/Lessness_Heath",
+                    "/wiki/Abbey_Wood"
+                ],
+                [
+                    {
+                        "entity id": "Q147108",
+                        "label": "Belvedere"
+                    },
+                    {
+                        "entity id": "Q146235",
+                        "label": "Lessness Heath"
+                    },
+                    {
+                        "entity id": "Q147104",
+                        "label": "Abbey Wood"
+                    }
+                ]
+            ],
+            [
+                "Bexley",
+                []
+            ]
+        ],
+        [
+            [
+                "DA18",
+                []
+            ],
+            [
+                "ERITH",
+                []
+            ],
+            [
+                "Erith Marshes , Thamesmead ( part )",
+                [
+                    "/wiki/Erith_Marshes",
+                    "/wiki/Thamesmead"
+                ],
+                [
+                    {
+                        "entity id": "Q5389573",
+                        "label": "Erith Marshes"
+                    },
+                    {
+                        "entity id": "Q146774",
+                        "label": "Thamesmead"
+                    }
+                ]
+            ],
+            [
+                "Bexley",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Coverage",
+    "section_text": "The approximate coverage of the postcode districts :",
+    "uid": "DA_postcode_area_0",
+    "intro": "The DA postcode area, also known as the Dartford postcode area, is a group of eighteen postcode districts in England, within eleven post towns. These cover parts of south-east London and north-west Kent. The main sorting office in Dartford ceased operating in 2012 and became a Delivery Office. The area served includes most of the London Borough of Bexley and very small parts of the London Borough of Bromley and the Royal Borough of Greenwich, while in Kent it covers almost all of the Borough of Dartford, most of the Gravesham district, the northeastern part of the Sevenoaks district and a very small part of the borough of Tonbridge and Malling."
+}

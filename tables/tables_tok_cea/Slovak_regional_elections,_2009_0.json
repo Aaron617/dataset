@@ -1,0 +1,429 @@
+{
+    "url": "https://en.wikipedia.org/wiki/2009_Slovak_regional_elections",
+    "title": "2009 Slovak regional elections",
+    "header": [
+        [
+            "Region",
+            []
+        ],
+        [
+            "Winner",
+            []
+        ],
+        [
+            "Party",
+            []
+        ],
+        [
+            "Endorsing parties",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Bratislava",
+                [
+                    "/wiki/Bratislava_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q183498",
+                        "label": "Bratislava Region"
+                    }
+                ]
+            ],
+            [
+                "Pavol Fre\u0161o",
+                [
+                    "/wiki/Pavol_Fre\u0161o"
+                ],
+                [
+                    {
+                        "entity id": "Q3495028",
+                        "label": "Pavol Fre\u0161o"
+                    }
+                ]
+            ],
+            [
+                "SDK\u00da-DS",
+                [
+                    "/wiki/Slovak_Democratic_and_Christian_Union_\u2013_Democratic_Party"
+                ],
+                [
+                    {
+                        "entity id": "Q837296",
+                        "label": "Slovak Democratic and Christian Union \u2013 Democratic Party"
+                    }
+                ]
+            ],
+            [
+                "KDH , SMK , OKS , SaS",
+                [
+                    "/wiki/Christian_Democratic_Movement",
+                    "/wiki/Party_of_the_Hungarian_Coalition",
+                    "/wiki/Civic_Conservative_Party",
+                    "/wiki/Freedom_and_Solidarity"
+                ],
+                [
+                    {
+                        "entity id": "Q904070",
+                        "label": "Christian Democratic Movement"
+                    },
+                    {
+                        "entity id": "Q904585",
+                        "label": "Party of the Hungarian Community"
+                    },
+                    {
+                        "entity id": "Q3182266",
+                        "label": "Civic Conservative Party"
+                    },
+                    {
+                        "entity id": "Q220847",
+                        "label": "Freedom and Solidarity"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Trnava",
+                [
+                    "/wiki/Trnava_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q181342",
+                        "label": "Trnava Region"
+                    }
+                ]
+            ],
+            [
+                "Tibor Miku\u0161",
+                []
+            ],
+            [
+                "Smer",
+                [
+                    "/wiki/Direction_\u2013_Social_Democracy"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "ND , SNS , SZ",
+                [
+                    "/wiki/New_Democracy_(Slovakia)",
+                    "/wiki/Slovak_National_Party",
+                    "/wiki/Green_Party_(Slovakia)"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q221480",
+                        "label": "Slovak National Party"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Tren\u010d\u00edn",
+                [
+                    "/wiki/Tren\u010d\u00edn_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q183139",
+                        "label": "Tren\u010d\u00edn Region"
+                    }
+                ]
+            ],
+            [
+                "Pavol Sedl\u00e1\u010dek",
+                []
+            ],
+            [
+                "\u013dS-HZDS",
+                [
+                    "/wiki/People's_Party_\u2013_Movement_for_a_Democratic_Slovakia"
+                ],
+                [
+                    {
+                        "entity id": "Q828392",
+                        "label": "People's Party \u2013 Movement for a Democratic Slovakia"
+                    }
+                ]
+            ],
+            [
+                "Smer , SNS",
+                [
+                    "/wiki/Direction_\u2013_Social_Democracy",
+                    "/wiki/Slovak_National_Party"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q221480",
+                        "label": "Slovak National Party"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Nitra",
+                [
+                    "/wiki/Nitra_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q184548",
+                        "label": "Nitra Region"
+                    }
+                ]
+            ],
+            [
+                "Milan Belica",
+                []
+            ],
+            [
+                "Smer",
+                [
+                    "/wiki/Direction_\u2013_Social_Democracy"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "SDK\u00da-DS , KDH",
+                [
+                    "/wiki/Slovak_Democratic_and_Christian_Union_\u2013_Democratic_Party",
+                    "/wiki/Christian_Democratic_Movement"
+                ],
+                [
+                    {
+                        "entity id": "Q837296",
+                        "label": "Slovak Democratic and Christian Union \u2013 Democratic Party"
+                    },
+                    {
+                        "entity id": "Q904070",
+                        "label": "Christian Democratic Movement"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "\u017dilina",
+                [
+                    "/wiki/\u017dilina_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q184228",
+                        "label": "\u017dilina region"
+                    }
+                ]
+            ],
+            [
+                "Juraj Blan\u00e1r",
+                []
+            ],
+            [
+                "Smer",
+                [
+                    "/wiki/Direction_\u2013_Social_Democracy"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "SNS , \u013dS-HZDS , SZ , SF",
+                [
+                    "/wiki/Slovak_National_Party",
+                    "/wiki/People's_Party_\u2013_Movement_for_a_Democratic_Slovakia",
+                    "/wiki/Green_Party_(Slovakia)",
+                    "/wiki/Free_Forum"
+                ],
+                [
+                    {
+                        "entity id": "Q221480",
+                        "label": "Slovak National Party"
+                    },
+                    {
+                        "entity id": "Q828392",
+                        "label": "People's Party \u2013 Movement for a Democratic Slovakia"
+                    },
+                    {},
+                    {
+                        "entity id": "Q3078673",
+                        "label": "Free Forum"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Bansk\u00e1 Bystrica",
+                [
+                    "/wiki/Bansk\u00e1_Bystrica_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q183640",
+                        "label": "Bansk\u00e1 Bystrica Region"
+                    }
+                ]
+            ],
+            [
+                "Vladim\u00edr Ma\u0148ka",
+                [
+                    "/wiki/Vladim\u00edr_Ma\u0148ka"
+                ],
+                [
+                    {
+                        "entity id": "Q7938821",
+                        "label": "Vladim\u00edr Ma\u0148ka"
+                    }
+                ]
+            ],
+            [
+                "Smer",
+                [
+                    "/wiki/Direction_\u2013_Social_Democracy"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "\u013dS-HZDS",
+                [
+                    "/wiki/People's_Party_\u2013_Movement_for_a_Democratic_Slovakia"
+                ],
+                [
+                    {
+                        "entity id": "Q828392",
+                        "label": "People's Party \u2013 Movement for a Democratic Slovakia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Pre\u0161ov",
+                [
+                    "/wiki/Pre\u0161ov_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q189001",
+                        "label": "Pre\u0161ov Region"
+                    }
+                ]
+            ],
+            [
+                "Peter Chud\u00edk",
+                []
+            ],
+            [
+                "Smer",
+                [
+                    "/wiki/Direction_\u2013_Social_Democracy"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "\u013dS-HZDS , HZD , SZS",
+                [
+                    "/wiki/People's_Party_\u2013_Movement_for_a_Democratic_Slovakia",
+                    "/wiki/Movement_for_Democracy_(Slovakia)",
+                    "/wiki/Green_Party_of_Slovakia"
+                ],
+                [
+                    {
+                        "entity id": "Q828392",
+                        "label": "People's Party \u2013 Movement for a Democratic Slovakia"
+                    },
+                    {},
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Ko\u0161ice",
+                [
+                    "/wiki/Ko\u0161ice_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q186295",
+                        "label": "Ko\u0161ice Region"
+                    }
+                ]
+            ],
+            [
+                "Zdenko Trebu\u013ea",
+                [
+                    "/wiki/Zdenko_Trebu\u013ea"
+                ],
+                [
+                    {
+                        "entity id": "Q8067932",
+                        "label": "Zdenko Trebu\u013ea"
+                    }
+                ]
+            ],
+            [
+                "Smer",
+                [
+                    "/wiki/Direction_\u2013_Social_Democracy"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "SMK , \u013dS-HZDS , SF , HZD , SOS , Most-H\u00edd , Liga",
+                [
+                    "/wiki/Party_of_the_Hungarian_Coalition",
+                    "/wiki/People's_Party_\u2013_Movement_for_a_Democratic_Slovakia",
+                    "/wiki/Free_Forum",
+                    "/wiki/Movement_for_Democracy_(Slovakia)",
+                    "/wiki/Most\u2013H\u00edd"
+                ],
+                [
+                    {
+                        "entity id": "Q904585",
+                        "label": "Party of the Hungarian Community"
+                    },
+                    {
+                        "entity id": "Q828392",
+                        "label": "People's Party \u2013 Movement for a Democratic Slovakia"
+                    },
+                    {
+                        "entity id": "Q3078673",
+                        "label": "Free Forum"
+                    },
+                    {},
+                    {
+                        "entity id": "Q1068853",
+                        "label": "Most\u2013H\u00edd"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Results -- Presidencies",
+    "section_text": "",
+    "uid": "Slovak_regional_elections,_2009_0",
+    "intro": "Elections were held in Slovakia's eight self-governing regions on 14 November 2009. Six of the regional presidencies were won by centre-left Direction - Social Democracy (Smer), with one being won by Smer's national conservative allies, the People's Party - Movement for a Democratic Slovakia (\u013dS-HZDS). Bratislava was won by the centre-right Slovak Democratic and Christian Union - Democratic Party, having previously been held by \u013dS-HZDS-backed Vladim\u00edr Bajan"
+}

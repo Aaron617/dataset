@@ -1,0 +1,560 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Wind_farm",
+    "title": "Wind farm",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Capacity ( MW )",
+            [
+                "/wiki/Megawatt"
+            ],
+            [
+                {
+                    "entity id": "Q6982035",
+                    "label": "megawatt"
+                }
+            ]
+        ],
+        [
+            "Location",
+            [
+                "/wiki/Geographic_coordinate_system"
+            ],
+            [
+                {
+                    "entity id": "Q22664",
+                    "label": "geographic coordinate system"
+                }
+            ]
+        ],
+        [
+            "Province",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Anse-\u00e0-Valleau Wind Farm",
+                [
+                    "/wiki/Anse-\u00e0-Valleau_Wind_Farm"
+                ],
+                [
+                    {
+                        "entity id": "Q4770545",
+                        "label": "Anse-\u00e0-Valleau Wind Farm"
+                    }
+                ]
+            ],
+            [
+                "100",
+                []
+            ],
+            [
+                "Gasp\u00e9",
+                [
+                    "/wiki/Gasp\u00e9,_Quebec"
+                ],
+                [
+                    {
+                        "entity id": "Q141903",
+                        "label": "Gasp\u00e9"
+                    }
+                ]
+            ],
+            [
+                "Quebec",
+                [
+                    "/wiki/Quebec"
+                ],
+                [
+                    {
+                        "entity id": "Q176",
+                        "label": "Quebec"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Caribou Wind Park",
+                [
+                    "/wiki/Caribou_Wind_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q5039523",
+                        "label": "Caribou Wind Park"
+                    }
+                ]
+            ],
+            [
+                "99",
+                []
+            ],
+            [
+                "70 km west of Bathurst",
+                [
+                    "/wiki/Bathurst,_New_Brunswick"
+                ],
+                [
+                    {
+                        "entity id": "Q810807",
+                        "label": "Bathurst"
+                    }
+                ]
+            ],
+            [
+                "New Brunswick",
+                [
+                    "/wiki/New_Brunswick"
+                ],
+                [
+                    {
+                        "entity id": "Q1965",
+                        "label": "New Brunswick"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Bear Mountain Wind Park",
+                [
+                    "/wiki/Bear_Mountain_Wind_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q4876515",
+                        "label": "Bear Mountain Wind Park"
+                    }
+                ]
+            ],
+            [
+                "120",
+                []
+            ],
+            [
+                "Dawson Creek",
+                [
+                    "/wiki/Dawson_Creek"
+                ],
+                [
+                    {
+                        "entity id": "Q1012625",
+                        "label": "Dawson Creek"
+                    }
+                ]
+            ],
+            [
+                "British Columbia",
+                [
+                    "/wiki/British_Columbia"
+                ],
+                [
+                    {
+                        "entity id": "Q1973",
+                        "label": "British Columbia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Centennial Wind Power Facility",
+                [
+                    "/wiki/Centennial_Wind_Power_Facility"
+                ],
+                [
+                    {
+                        "entity id": "Q5059233",
+                        "label": "Centennial Wind Power Facility"
+                    }
+                ]
+            ],
+            [
+                "150",
+                []
+            ],
+            [
+                "Swift Current",
+                [
+                    "/wiki/Swift_Current"
+                ],
+                [
+                    {
+                        "entity id": "Q619937",
+                        "label": "Swift Current"
+                    }
+                ]
+            ],
+            [
+                "Saskatchewan",
+                [
+                    "/wiki/Saskatchewan"
+                ],
+                [
+                    {
+                        "entity id": "Q1989",
+                        "label": "Saskatchewan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Enbridge Ontario Wind Farm",
+                [
+                    "/wiki/Enbridge_Ontario_Wind_Farm"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "181",
+                []
+            ],
+            [
+                "Kincardine",
+                [
+                    "/wiki/Kincardine,_Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q14875237",
+                        "label": "Kincardine, Ontario (community)"
+                    }
+                ]
+            ],
+            [
+                "Ontario",
+                [
+                    "/wiki/Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q1904",
+                        "label": "Ontario"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Erie Shores Wind Farm",
+                [
+                    "/wiki/Erie_Shores_Wind_Farm"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "99",
+                []
+            ],
+            [
+                "Port Burwell",
+                [
+                    "/wiki/Port_Burwell,_Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q7230517",
+                        "label": "Port Burwell, Ontario"
+                    }
+                ]
+            ],
+            [
+                "Ontario",
+                []
+            ]
+        ],
+        [
+            [
+                "Jardin d'Eole Wind Farm",
+                [
+                    "/wiki/Jardin_d'Eole_Wind_Farm"
+                ],
+                [
+                    {
+                        "entity id": "Q6159781",
+                        "label": "Jardin d'Eole Wind Farm"
+                    }
+                ]
+            ],
+            [
+                "127",
+                []
+            ],
+            [
+                "Saint-Ulric",
+                [
+                    "/wiki/Saint-Ulric,_Qu\u00e9bec"
+                ],
+                [
+                    {
+                        "entity id": "Q3463458",
+                        "label": "Saint-Ulric"
+                    }
+                ]
+            ],
+            [
+                "Quebec",
+                []
+            ]
+        ],
+        [
+            [
+                "Kent Hills Wind Farm",
+                [
+                    "/wiki/Kent_Hills_Wind_Farm"
+                ],
+                [
+                    {
+                        "entity id": "Q6391767",
+                        "label": "Kent Hills Wind Farm"
+                    }
+                ]
+            ],
+            [
+                "96",
+                []
+            ],
+            [
+                "Riverside-Albert",
+                [
+                    "/wiki/Riverside-Albert,_New_Brunswick"
+                ],
+                [
+                    {
+                        "entity id": "Q3433517",
+                        "label": "Riverside-Albert"
+                    }
+                ]
+            ],
+            [
+                "New Brunswick",
+                []
+            ]
+        ],
+        [
+            [
+                "Melancthon EcoPower Centre",
+                [
+                    "/wiki/Melancthon_EcoPower_Centre"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "199",
+                []
+            ],
+            [
+                "Melancthon",
+                [
+                    "/wiki/Melancthon,_Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q6811207",
+                        "label": "Melancthon"
+                    }
+                ]
+            ],
+            [
+                "Ontario",
+                []
+            ]
+        ],
+        [
+            [
+                "Port Alma Wind Farm",
+                [
+                    "/wiki/Port_Alma_Wind_Farm"
+                ],
+                [
+                    {
+                        "entity id": "Q7230472",
+                        "label": "Port Alma Wind Farm"
+                    }
+                ]
+            ],
+            [
+                "101",
+                []
+            ],
+            [
+                "Chatham-Kent",
+                [
+                    "/wiki/Chatham-Kent"
+                ],
+                [
+                    {
+                        "entity id": "Q113464",
+                        "label": "Chatham-Kent"
+                    }
+                ]
+            ],
+            [
+                "Ontario",
+                []
+            ]
+        ],
+        [
+            [
+                "Chatham Wind Farm",
+                []
+            ],
+            [
+                "101",
+                []
+            ],
+            [
+                "Chatham-Kent",
+                []
+            ],
+            [
+                "Ontario",
+                []
+            ]
+        ],
+        [
+            [
+                "Prince Township Wind Farm",
+                [
+                    "/wiki/Prince_Township_Wind_Farm"
+                ],
+                [
+                    {
+                        "entity id": "Q7244261",
+                        "label": "Prince Township Wind Farm"
+                    }
+                ]
+            ],
+            [
+                "189",
+                []
+            ],
+            [
+                "Sault Ste . Marie",
+                [
+                    "/wiki/Sault_Ste._Marie,_Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q463165",
+                        "label": "Sault Ste. Marie"
+                    }
+                ]
+            ],
+            [
+                "Ontario",
+                []
+            ]
+        ],
+        [
+            [
+                "St. Joseph Wind Farm",
+                []
+            ],
+            [
+                "138",
+                []
+            ],
+            [
+                "Montcalm",
+                [
+                    "/wiki/Montcalm,_Manitoba"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Manitoba",
+                [
+                    "/wiki/Manitoba"
+                ],
+                [
+                    {
+                        "entity id": "Q1948",
+                        "label": "Manitoba"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "St. Leon Wind Farm",
+                [
+                    "/wiki/St._Leon_Wind_Farm"
+                ],
+                [
+                    {
+                        "entity id": "Q7589524",
+                        "label": "St. Leon Wind Farm"
+                    }
+                ]
+            ],
+            [
+                "99",
+                []
+            ],
+            [
+                "St. Leon",
+                [
+                    "/wiki/St._Leon,_Manitoba"
+                ],
+                [
+                    {
+                        "entity id": "Q3462825",
+                        "label": "St. Leon, Manitoba"
+                    }
+                ]
+            ],
+            [
+                "Manitoba",
+                []
+            ]
+        ],
+        [
+            [
+                "Wolfe Island Wind Project",
+                [
+                    "/wiki/Wolfe_Island_Wind_Project"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "197",
+                []
+            ],
+            [
+                "Frontenac Islands",
+                [
+                    "/wiki/Frontenac_Islands,_Ontario"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Ontario",
+                []
+            ]
+        ]
+    ],
+    "section_title": "By region -- Canada",
+    "section_text": "The Pubnico Wind Farm taken from Beach Point , Lower East Pubnico , Nova Scotia Main article : List of wind farms in Canada",
+    "uid": "Wind_farm_2",
+    "intro": "A wind farm or wind park, also called a wind power station or wind power plant, is a group of wind turbines in the same location used to produce electricity. Wind farms vary in size from a small number of turbines to several hundred wind turbines covering an extensive area. Wind farms can be either onshore or offshore. Many of the largest operational onshore wind farms are located in China, India, and the United States. For example, the largest wind farm in the world, Gansu Wind Farm in China had a capacity of over 6,000 MW by 2012, with a goal of 20,000 MW by 2020. As of September 2018, the 659 MW Walney Wind Farm in the UK is the largest offshore wind farm in the world. Individual wind turbine designs continue to increase in power, resulting in fewer turbines being needed for the same total output. Wind farms tend to have much less impact on the environment than many other power stations. Onshore wind farms are also criticized for their visual impact and impact on the landscape, as typically they need to take up more land than other power stations and need to be built in wild and rural areas, which can lead to industrialization of the countryside, habitat loss, and a drop in tourism. Critics have linked wind farms to adverse health effects (see wind turbine syndrome). Wind farms have also been criticized for interfering with radar, radio and television reception."
+}

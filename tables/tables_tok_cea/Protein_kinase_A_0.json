@@ -1,0 +1,974 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Protein_kinase_A",
+    "title": "Protein kinase A",
+    "header": [
+        [
+            "Cell type",
+            [
+                "/wiki/Cell_type"
+            ],
+            [
+                {
+                    "entity id": "Q189118",
+                    "label": "cell type"
+                }
+            ]
+        ],
+        [
+            "Organ/system",
+            []
+        ],
+        [
+            "Stimulators ligands \u2192 G s - GPCRs or PDE inhibitors",
+            [
+                "/wiki/Ligands",
+                "/wiki/Gs_alpha_subunit",
+                "/wiki/G_protein-coupled_receptor",
+                "/wiki/Phosphodiesterase_inhibitor"
+            ],
+            [
+                {
+                    "entity id": "Q193161",
+                    "label": "ligand"
+                },
+                {
+                    "entity id": "Q5513929",
+                    "label": "GNAS complex locus"
+                },
+                {
+                    "entity id": "Q38173",
+                    "label": "G protein-coupled receptor"
+                },
+                {
+                    "entity id": "Q418251",
+                    "label": "phosphodiesterase inhibitors"
+                }
+            ]
+        ],
+        [
+            "Effects",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "adipocyte",
+                [
+                    "/wiki/Adipocyte"
+                ],
+                [
+                    {
+                        "entity id": "Q357519",
+                        "label": "adipocyte"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "epinephrine \u2192 \u03b2-adrenergic receptor glucagon \u2192 Glucagon receptor",
+                [
+                    "/wiki/Epinephrine",
+                    "/wiki/Beta-adrenergic_receptor",
+                    "/wiki/Glucagon",
+                    "/wiki/Glucagon_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q132621",
+                        "label": "epinephrine"
+                    },
+                    {
+                        "entity id": "Q830806",
+                        "label": "beta adrenergic receptor"
+                    },
+                    {
+                        "entity id": "Q170617",
+                        "label": "glucagon"
+                    },
+                    {
+                        "entity id": "Q14904911",
+                        "label": "GCGR"
+                    }
+                ]
+            ],
+            [
+                "enhance lipolysis stimulate lipase",
+                [
+                    "/wiki/Lipolysis",
+                    "/wiki/Lipase"
+                ],
+                [
+                    {
+                        "entity id": "Q14762268",
+                        "label": "lipid catabolic process"
+                    },
+                    {
+                        "entity id": "Q380967",
+                        "label": "lipases"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "myocyte ( skeletal muscle )",
+                [
+                    "/wiki/Myocyte",
+                    "/wiki/Skeletal_muscle"
+                ],
+                [
+                    {
+                        "entity id": "Q428914",
+                        "label": "myocyte"
+                    },
+                    {
+                        "entity id": "Q1048687",
+                        "label": "skeletal striated muscle"
+                    }
+                ]
+            ],
+            [
+                "muscular system",
+                [
+                    "/wiki/Muscular_system"
+                ],
+                [
+                    {
+                        "entity id": "Q7060553",
+                        "label": "muscular system"
+                    }
+                ]
+            ],
+            [
+                "epinephrine \u2192 \u03b2-adrenergic receptor",
+                [
+                    "/wiki/Epinephrine",
+                    "/wiki/Beta-adrenergic_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q132621",
+                        "label": "epinephrine"
+                    },
+                    {
+                        "entity id": "Q830806",
+                        "label": "beta adrenergic receptor"
+                    }
+                ]
+            ],
+            [
+                "produce glucose stimulate glycogenolysis phosphorylate glycogen phosphorylase via phosphorylase kinase ( activating it ) phosphorylate Acetyl-CoA carboxylase ( inhibiting it ) inhibit glycogenesis phosphorylate glycogen synthase ( inhibiting it ) stimulate glycolysis phosphorylate phosphofructokinase 2 ( stimulating it , cardiomyocytes only )",
+                [
+                    "/wiki/Glucose",
+                    "/wiki/Glycogenolysis",
+                    "/wiki/Glycogen_phosphorylase",
+                    "/wiki/Phosphorylase_kinase",
+                    "/wiki/Acetyl-CoA_carboxylase",
+                    "/wiki/Glycogenesis",
+                    "/wiki/Glycogen_synthase",
+                    "/wiki/Glycolysis",
+                    "/wiki/Phosphofructokinase_2"
+                ],
+                [
+                    {
+                        "entity id": "Q37525",
+                        "label": "glucose"
+                    },
+                    {
+                        "entity id": "Q680603",
+                        "label": "glycogen catabolic process"
+                    },
+                    {
+                        "entity id": "Q412061",
+                        "label": "glycogen phosphorylase"
+                    },
+                    {
+                        "entity id": "Q906540",
+                        "label": "phosphorylase kinase"
+                    },
+                    {
+                        "entity id": "Q21199067",
+                        "label": "acetyl-CoA carboxylase complex"
+                    },
+                    {
+                        "entity id": "Q901694",
+                        "label": "glycogenesis"
+                    },
+                    {
+                        "entity id": "Q1325656",
+                        "label": "UDP-glucose-glycogen glucosyltransferase"
+                    },
+                    {
+                        "entity id": "Q162643",
+                        "label": "glycolytic process"
+                    },
+                    {
+                        "entity id": "Q420663",
+                        "label": "phosphofructokinase 2"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "myocyte ( cardiac muscle )",
+                [
+                    "/wiki/Myocyte",
+                    "/wiki/Cardiac_muscle"
+                ],
+                [
+                    {
+                        "entity id": "Q428914",
+                        "label": "myocyte"
+                    },
+                    {
+                        "entity id": "Q10334846",
+                        "label": "cardiac muscles"
+                    }
+                ]
+            ],
+            [
+                "cardiovascular",
+                [
+                    "/wiki/Cardiovascular"
+                ],
+                [
+                    {
+                        "entity id": "Q389735",
+                        "label": "cardiovascular disease"
+                    }
+                ]
+            ],
+            [
+                "epinephrine \u2192 \u03b2-adrenergic receptor",
+                [
+                    "/wiki/Epinephrine",
+                    "/wiki/Beta-adrenergic_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q132621",
+                        "label": "epinephrine"
+                    },
+                    {
+                        "entity id": "Q830806",
+                        "label": "beta adrenergic receptor"
+                    }
+                ]
+            ],
+            [
+                "sequester Ca in sarcoplasmic reticulum phosphorylates phospholamban",
+                [
+                    "/wiki/Sarcoplasmic_reticulum",
+                    "/wiki/Phospholamban"
+                ],
+                [
+                    {
+                        "entity id": "Q14633936",
+                        "label": "sarcoplasmic reticulum"
+                    },
+                    {
+                        "entity id": "Q410105",
+                        "label": "Phospholamban"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "myocyte ( smooth muscle )",
+                [
+                    "/wiki/Myocyte",
+                    "/wiki/Smooth_muscle"
+                ],
+                [
+                    {
+                        "entity id": "Q428914",
+                        "label": "myocyte"
+                    },
+                    {
+                        "entity id": "Q208453",
+                        "label": "smooth muscle tissue"
+                    }
+                ]
+            ],
+            [
+                "cardiovascular",
+                [
+                    "/wiki/Cardiovascular"
+                ],
+                [
+                    {
+                        "entity id": "Q389735",
+                        "label": "cardiovascular disease"
+                    }
+                ]
+            ],
+            [
+                "\u03b22 adrenergic agonists \u2192 \u03b2-2 adrenergic receptor histamine \u2192 Histamine H2 receptor prostacyclin \u2192 prostacyclin receptor Prostaglandin D 2 \u2192 PGD 2 receptor Prostaglandin E 2 \u2192 PGE 2 receptor VIP \u2192 VIP receptor L- Arginine \u2192 imidazoline and \u03b1 2 receptor ? ( G i -coupled )",
+                [
+                    "/wiki/Beta-2_adrenergic_receptor",
+                    "/wiki/Beta-2_adrenergic_receptor",
+                    "/wiki/Histamine",
+                    "/wiki/Histamine_H2_receptor",
+                    "/wiki/Prostacyclin",
+                    "/wiki/Prostacyclin_receptor",
+                    "/wiki/Prostaglandin_D2",
+                    "/wiki/Prostaglandin_D2_receptor",
+                    "/wiki/Prostaglandin_E2",
+                    "/wiki/Prostaglandin_E2_receptor",
+                    "/wiki/Vasoactive_intestinal_peptide",
+                    "/wiki/Vasoactive_intestinal_peptide_receptor",
+                    "/wiki/Arginine",
+                    "/wiki/Imidazoline_receptor",
+                    "/wiki/Alpha-2_adrenergic_receptor",
+                    "/wiki/Gi_alpha_subunit"
+                ],
+                [
+                    {
+                        "entity id": "Q287961",
+                        "label": "Adrenoceptor beta 2"
+                    },
+                    {
+                        "entity id": "Q287961",
+                        "label": "Adrenoceptor beta 2"
+                    },
+                    {
+                        "entity id": "Q61233",
+                        "label": "histamine"
+                    },
+                    {
+                        "entity id": "Q311568",
+                        "label": "Histamine receptor H2"
+                    },
+                    {
+                        "entity id": "Q412050",
+                        "label": "epoprostenol"
+                    },
+                    {
+                        "entity id": "Q905736",
+                        "label": "Prostaglandin I2 receptor"
+                    },
+                    {
+                        "entity id": "Q419750",
+                        "label": "prostaglandin D2"
+                    },
+                    {
+                        "entity id": "Q905729",
+                        "label": "Prostaglandin D2 receptor"
+                    },
+                    {
+                        "entity id": "Q416554",
+                        "label": "dinoprostone"
+                    },
+                    {
+                        "entity id": "Q18030897",
+                        "label": "PTGER2"
+                    },
+                    {
+                        "entity id": "Q414964",
+                        "label": "vasoactive intestinal peptide"
+                    },
+                    {
+                        "entity id": "Q24780965",
+                        "label": "GPCR, family 2, vasoactive intestinal peptide receptor"
+                    },
+                    {
+                        "entity id": "Q173670",
+                        "label": "L-arginine"
+                    },
+                    {
+                        "entity id": "Q1659850",
+                        "label": "imidazoline receptor"
+                    },
+                    {
+                        "entity id": "Q288084",
+                        "label": "alpha-2 adrenergic receptor"
+                    },
+                    {
+                        "entity id": "Q24719569",
+                        "label": "G-protein alpha subunit, group I"
+                    }
+                ]
+            ],
+            [
+                "Contributes to vasodilation ( phosphorylates , and thereby inactivates , Myosin light-chain kinase )",
+                [
+                    "/wiki/Vasodilation",
+                    "/wiki/Myosin_light-chain_kinase"
+                ],
+                [
+                    {
+                        "entity id": "Q14859627",
+                        "label": "vasodilation"
+                    },
+                    {
+                        "entity id": "Q18029774",
+                        "label": "MYLK"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "hepatocyte",
+                [
+                    "/wiki/Hepatocyte"
+                ],
+                [
+                    {
+                        "entity id": "Q827450",
+                        "label": "hepatocyte"
+                    }
+                ]
+            ],
+            [
+                "liver",
+                [
+                    "/wiki/Liver"
+                ],
+                [
+                    {
+                        "entity id": "Q9368",
+                        "label": "liver"
+                    }
+                ]
+            ],
+            [
+                "epinephrine \u2192 \u03b2-adrenergic receptor glucagon \u2192 Glucagon receptor",
+                [
+                    "/wiki/Epinephrine",
+                    "/wiki/Beta-adrenergic_receptor",
+                    "/wiki/Glucagon",
+                    "/wiki/Glucagon_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q132621",
+                        "label": "epinephrine"
+                    },
+                    {
+                        "entity id": "Q830806",
+                        "label": "beta adrenergic receptor"
+                    },
+                    {
+                        "entity id": "Q170617",
+                        "label": "glucagon"
+                    },
+                    {
+                        "entity id": "Q14904911",
+                        "label": "GCGR"
+                    }
+                ]
+            ],
+            [
+                "produce glucose stimulate glycogenolysis phosphorylate glycogen phosphorylase ( activating it ) phosphorylate Acetyl-CoA carboxylase ( inhibiting it ) inhibit glycogenesis phosphorylate glycogen synthase ( inhibiting it ) stimulate gluconeogenesis phosphorylate fructose 2,6-bisphosphatase ( stimulating it ) inhibit glycolysis phosphorylate phosphofructokinase-2 ( inactivating it ) phosphorylate fructose 2,6-bisphosphatase ( stimulate it ) phosphorylate pyruvate kinase ( inhibiting it )",
+                [
+                    "/wiki/Glucose",
+                    "/wiki/Glycogenolysis",
+                    "/wiki/Glycogen_phosphorylase",
+                    "/wiki/Acetyl-CoA_carboxylase",
+                    "/wiki/Glycogenesis",
+                    "/wiki/Glycogen_synthase",
+                    "/wiki/Gluconeogenesis",
+                    "/wiki/Fructose_2,6-bisphosphatase",
+                    "/wiki/Glycolysis",
+                    "/wiki/Phosphofructokinase-2",
+                    "/wiki/Fructose_2,6-bisphosphatase",
+                    "/wiki/Pyruvate_kinase"
+                ],
+                [
+                    {
+                        "entity id": "Q37525",
+                        "label": "glucose"
+                    },
+                    {
+                        "entity id": "Q680603",
+                        "label": "glycogen catabolic process"
+                    },
+                    {
+                        "entity id": "Q412061",
+                        "label": "glycogen phosphorylase"
+                    },
+                    {
+                        "entity id": "Q21199067",
+                        "label": "acetyl-CoA carboxylase complex"
+                    },
+                    {
+                        "entity id": "Q901694",
+                        "label": "glycogenesis"
+                    },
+                    {
+                        "entity id": "Q1325656",
+                        "label": "UDP-glucose-glycogen glucosyltransferase"
+                    },
+                    {
+                        "entity id": "Q191835",
+                        "label": "gluconeogenesis"
+                    },
+                    {
+                        "entity id": "Q27543598",
+                        "label": "FBP26"
+                    },
+                    {
+                        "entity id": "Q162643",
+                        "label": "glycolytic process"
+                    },
+                    {
+                        "entity id": "Q420663",
+                        "label": "phosphofructokinase 2"
+                    },
+                    {
+                        "entity id": "Q27543598",
+                        "label": "FBP26"
+                    },
+                    {
+                        "entity id": "Q900970",
+                        "label": "pyruvate kinase"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "neurons in nucleus accumbens",
+                [
+                    "/wiki/Neuron",
+                    "/wiki/Nucleus_accumbens"
+                ],
+                [
+                    {
+                        "entity id": "Q43054",
+                        "label": "neuron"
+                    },
+                    {
+                        "entity id": "Q1476178",
+                        "label": "nucleus accumbens"
+                    }
+                ]
+            ],
+            [
+                "nervous system",
+                [
+                    "/wiki/Nervous_system"
+                ],
+                [
+                    {
+                        "entity id": "Q9404",
+                        "label": "nervous system"
+                    }
+                ]
+            ],
+            [
+                "dopamine \u2192 dopamine receptor",
+                [
+                    "/wiki/Dopamine",
+                    "/wiki/Dopamine_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q170304",
+                        "label": "dopamine"
+                    },
+                    {
+                        "entity id": "Q415496",
+                        "label": "dopamine receptor"
+                    }
+                ]
+            ],
+            [
+                "Activate reward system",
+                [
+                    "/wiki/Reward_system"
+                ],
+                [
+                    {
+                        "entity id": "Q670713",
+                        "label": "reward system"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "principal cells in kidney",
+                [
+                    "/wiki/Principal_cell",
+                    "/wiki/Kidney"
+                ],
+                [
+                    {
+                        "entity id": "Q101062526",
+                        "label": "collecting duct principal cell"
+                    },
+                    {
+                        "entity id": "Q9377",
+                        "label": "kidney"
+                    }
+                ]
+            ],
+            [
+                "kidney",
+                [
+                    "/wiki/Kidney"
+                ],
+                [
+                    {
+                        "entity id": "Q9377",
+                        "label": "kidney"
+                    }
+                ]
+            ],
+            [
+                "Vasopressin \u2192 V2 receptor theophylline ( PDE inhibitor )",
+                [
+                    "/wiki/Vasopressin",
+                    "/wiki/Arginine_vasopressin_receptor_2",
+                    "/wiki/Theophylline",
+                    "/wiki/Phosphodiesterase_inhibitor"
+                ],
+                [
+                    {
+                        "entity id": "Q12009087",
+                        "label": "AVP"
+                    },
+                    {
+                        "entity id": "Q4789588",
+                        "label": "Arginine vasopressin receptor 2"
+                    },
+                    {
+                        "entity id": "Q407308",
+                        "label": "theophylline"
+                    },
+                    {
+                        "entity id": "Q418251",
+                        "label": "phosphodiesterase inhibitors"
+                    }
+                ]
+            ],
+            [
+                "exocytosis of aquaporin 2 to apical membrane . synthesis of aquaporin 2 phosphorylation of aquaporin 2 ( stimulating it )",
+                [
+                    "/wiki/Exocytosis",
+                    "/wiki/Aquaporin_2",
+                    "/wiki/Apical_membrane"
+                ],
+                [
+                    {
+                        "entity id": "Q323426",
+                        "label": "exocytosis"
+                    },
+                    {
+                        "entity id": "Q14902527",
+                        "label": "AQP2"
+                    },
+                    {
+                        "entity id": "Q56576026",
+                        "label": "apical membrane antigen 1"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Thick ascending limb cell",
+                [
+                    "/wiki/Thick_ascending_limb_cell"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "kidney",
+                [
+                    "/wiki/Kidney"
+                ],
+                [
+                    {
+                        "entity id": "Q9377",
+                        "label": "kidney"
+                    }
+                ]
+            ],
+            [
+                "Vasopressin \u2192 V2 receptor",
+                [
+                    "/wiki/Vasopressin",
+                    "/wiki/Arginine_vasopressin_receptor_2"
+                ],
+                [
+                    {
+                        "entity id": "Q12009087",
+                        "label": "AVP"
+                    },
+                    {
+                        "entity id": "Q4789588",
+                        "label": "Arginine vasopressin receptor 2"
+                    }
+                ]
+            ],
+            [
+                "stimulate Na-K-2Cl symporter ( perhaps only minor effect )",
+                [
+                    "/wiki/Na-K-2Cl_symporter"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Cortical collecting tubule cell",
+                [
+                    "/wiki/Cortical_collecting_tubule_cell"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "kidney",
+                [
+                    "/wiki/Kidney"
+                ],
+                [
+                    {
+                        "entity id": "Q9377",
+                        "label": "kidney"
+                    }
+                ]
+            ],
+            [
+                "Vasopressin \u2192 V2 receptor",
+                [
+                    "/wiki/Vasopressin",
+                    "/wiki/Arginine_vasopressin_receptor_2"
+                ],
+                [
+                    {
+                        "entity id": "Q12009087",
+                        "label": "AVP"
+                    },
+                    {
+                        "entity id": "Q4789588",
+                        "label": "Arginine vasopressin receptor 2"
+                    }
+                ]
+            ],
+            [
+                "stimulate Epithelial sodium channel ( perhaps only minor effect )",
+                [
+                    "/wiki/Epithelial_sodium_channel"
+                ],
+                [
+                    {
+                        "entity id": "Q424948",
+                        "label": "epithelial sodium channel"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Inner medullary collecting duct cell",
+                [
+                    "/wiki/Inner_medullary_collecting_duct_cell"
+                ],
+                [
+                    {
+                        "entity id": "Q112943587",
+                        "label": "inner medullary collecting duct cell"
+                    }
+                ]
+            ],
+            [
+                "kidney",
+                [
+                    "/wiki/Kidney"
+                ],
+                [
+                    {
+                        "entity id": "Q9377",
+                        "label": "kidney"
+                    }
+                ]
+            ],
+            [
+                "Vasopressin \u2192 V2 receptor",
+                [
+                    "/wiki/Vasopressin",
+                    "/wiki/Arginine_vasopressin_receptor_2"
+                ],
+                [
+                    {
+                        "entity id": "Q12009087",
+                        "label": "AVP"
+                    },
+                    {
+                        "entity id": "Q4789588",
+                        "label": "Arginine vasopressin receptor 2"
+                    }
+                ]
+            ],
+            [
+                "stimulate urea transporter 1 urea transporter 1 exocytosis",
+                [
+                    "/wiki/Urea_transporter_1",
+                    "/wiki/Urea_transporter_1"
+                ],
+                [
+                    {
+                        "entity id": "Q21992283",
+                        "label": "Solute carrier family 14 (urea transporter), member 1"
+                    },
+                    {
+                        "entity id": "Q21992283",
+                        "label": "Solute carrier family 14 (urea transporter), member 1"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "proximal convoluted tubule cell",
+                [
+                    "/wiki/Proximal_convoluted_tubule_cell"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "kidney",
+                [
+                    "/wiki/Kidney"
+                ],
+                [
+                    {
+                        "entity id": "Q9377",
+                        "label": "kidney"
+                    }
+                ]
+            ],
+            [
+                "PTH \u2192 PTH receptor 1",
+                [
+                    "/wiki/Parathyroid_hormone",
+                    "/wiki/PTH_receptor_1"
+                ],
+                [
+                    {
+                        "entity id": "Q202476",
+                        "label": "parathyroid hormone"
+                    },
+                    {
+                        "entity id": "Q26798005",
+                        "label": "PTH receptor-1 signalling-mechanistic insights and therapeutic prospects"
+                    }
+                ]
+            ],
+            [
+                "Inhibit NHE3 \u2192 \u2193H secretion",
+                [
+                    "/wiki/NHE3"
+                ],
+                [
+                    {
+                        "entity id": "Q18031553",
+                        "label": "SLC9A3"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "juxtaglomerular cell",
+                [
+                    "/wiki/Juxtaglomerular_cell"
+                ],
+                [
+                    {
+                        "entity id": "Q2596226",
+                        "label": "juxtaglomerular cell"
+                    }
+                ]
+            ],
+            [
+                "kidney",
+                [
+                    "/wiki/Kidney"
+                ],
+                [
+                    {
+                        "entity id": "Q9377",
+                        "label": "kidney"
+                    }
+                ]
+            ],
+            [
+                "adrenergic agonists \u2192 \u03b2-receptor agonists \u2192 \u03b1 2 receptor dopamine \u2192 dopamine receptor glucagon \u2192 glucagon receptor",
+                [
+                    "/wiki/Adrenergic_agonists",
+                    "/wiki/\u0392-receptor",
+                    "/wiki/Alpha-2_adrenergic_receptor",
+                    "/wiki/Dopamine",
+                    "/wiki/Dopamine_receptor",
+                    "/wiki/Glucagon",
+                    "/wiki/Glucagon_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q48506979",
+                        "label": "Adrenergic agonists suppress the proliferation of microglia through beta 2-adrenergic receptor."
+                    },
+                    {
+                        "entity id": "Q53270014",
+                        "label": "\u03b2-receptor antagonist treatment prevents activation of cell death signaling in the diabetic heart independent of its metabolic actions."
+                    },
+                    {
+                        "entity id": "Q288084",
+                        "label": "alpha-2 adrenergic receptor"
+                    },
+                    {
+                        "entity id": "Q170304",
+                        "label": "dopamine"
+                    },
+                    {
+                        "entity id": "Q415496",
+                        "label": "dopamine receptor"
+                    },
+                    {
+                        "entity id": "Q170617",
+                        "label": "glucagon"
+                    },
+                    {
+                        "entity id": "Q14904911",
+                        "label": "GCGR"
+                    }
+                ]
+            ],
+            [
+                "renin secretion",
+                [
+                    "/wiki/Renin"
+                ],
+                [
+                    {
+                        "entity id": "Q258915",
+                        "label": "renin"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Function -- Overview table",
+    "section_text": "",
+    "uid": "Protein_kinase_A_0",
+    "intro": "In cell biology, protein kinase A (PKA[N 1]) is a family of enzymes whose activity is dependent on cellular levels of cyclic AMP (cAMP). PKA is also known as cAMP-dependent protein kinase (EC 2.7.11.11). Protein kinase A has several functions in the cell, including regulation of glycogen, sugar, and lipid metabolism."
+}

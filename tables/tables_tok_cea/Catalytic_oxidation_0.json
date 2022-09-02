@@ -1,0 +1,682 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Catalytic_oxidation",
+    "title": "Catalytic oxidation",
+    "header": [
+        [
+            "Substrate",
+            []
+        ],
+        [
+            "Process",
+            []
+        ],
+        [
+            "Catalyst ( homogeneous or heterogeneous",
+            [
+                "/wiki/Homogeneous_catalysis",
+                "/wiki/Heterogeneous_catalysis"
+            ],
+            [
+                {
+                    "entity id": "Q1411716",
+                    "label": "homogeneous catalysis"
+                },
+                {
+                    "entity id": "Q903156",
+                    "label": "heterogeneous catalysis"
+                }
+            ]
+        ],
+        [
+            "Product",
+            []
+        ],
+        [
+            "Application",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "sulfur dioxide",
+                [
+                    "/wiki/Sulfur_dioxide"
+                ],
+                [
+                    {
+                        "entity id": "Q5282",
+                        "label": "sulfur dioxide"
+                    }
+                ]
+            ],
+            [
+                "contact process",
+                [
+                    "/wiki/Contact_process"
+                ],
+                [
+                    {
+                        "entity id": "Q908924",
+                        "label": "Contact process"
+                    }
+                ]
+            ],
+            [
+                "vanadium pentoxide ( heterogeneous )",
+                [
+                    "/wiki/Vanadium_pentoxide"
+                ],
+                [
+                    {
+                        "entity id": "Q409173",
+                        "label": "vanadium(V) oxide"
+                    }
+                ]
+            ],
+            [
+                "sulfuric acid",
+                [
+                    "/wiki/Sulfuric_acid"
+                ],
+                [
+                    {
+                        "entity id": "Q4118",
+                        "label": "sulfuric acid"
+                    }
+                ]
+            ],
+            [
+                "fertilizer production",
+                []
+            ]
+        ],
+        [
+            [
+                "ammonia",
+                [
+                    "/wiki/Ammonia"
+                ],
+                [
+                    {
+                        "entity id": "Q4087",
+                        "label": "ammonia"
+                    }
+                ]
+            ],
+            [
+                "Ostwald process",
+                [
+                    "/wiki/Ostwald_process"
+                ],
+                [
+                    {
+                        "entity id": "Q591214",
+                        "label": "Ostwald process"
+                    }
+                ]
+            ],
+            [
+                "platinum ( heterogeneous )",
+                [
+                    "/wiki/Platinum"
+                ],
+                [
+                    {
+                        "entity id": "Q880",
+                        "label": "platinum"
+                    }
+                ]
+            ],
+            [
+                "nitric acid",
+                [
+                    "/wiki/Nitric_acid"
+                ],
+                [
+                    {
+                        "entity id": "Q83320",
+                        "label": "nitric acid"
+                    }
+                ]
+            ],
+            [
+                "basic chemicals , TNT",
+                [
+                    "/wiki/TNT"
+                ],
+                [
+                    {
+                        "entity id": "Q688333",
+                        "label": "TNT"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "hydrogen sulfide",
+                [
+                    "/wiki/Hydrogen_sulfide"
+                ],
+                [
+                    {
+                        "entity id": "Q170591",
+                        "label": "hydrogen sulfide"
+                    }
+                ]
+            ],
+            [
+                "Claus process",
+                [
+                    "/wiki/Claus_process"
+                ],
+                [
+                    {
+                        "entity id": "Q905970",
+                        "label": "Claus process"
+                    }
+                ]
+            ],
+            [
+                "vanadium pentoxide ( heterogeneous )",
+                [
+                    "/wiki/Vanadium_pentoxide"
+                ],
+                [
+                    {
+                        "entity id": "Q409173",
+                        "label": "vanadium(V) oxide"
+                    }
+                ]
+            ],
+            [
+                "sulfur",
+                [
+                    "/wiki/Sulfur"
+                ],
+                [
+                    {
+                        "entity id": "Q682",
+                        "label": "sulfur"
+                    }
+                ]
+            ],
+            [
+                "remediation of byproduct of oil refinery",
+                [
+                    "/wiki/Oil_refinery"
+                ],
+                [
+                    {
+                        "entity id": "Q12353044",
+                        "label": "oil refinery"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "methane , ammonia",
+                [
+                    "/wiki/Methane",
+                    "/wiki/Ammonia"
+                ],
+                [
+                    {
+                        "entity id": "Q37129",
+                        "label": "methane"
+                    },
+                    {
+                        "entity id": "Q4087",
+                        "label": "ammonia"
+                    }
+                ]
+            ],
+            [
+                "Andrussow process",
+                [
+                    "/wiki/Andrussow_process"
+                ],
+                [
+                    {
+                        "entity id": "Q514582",
+                        "label": "Andrussow process"
+                    }
+                ]
+            ],
+            [
+                "platinum ( heterogeneous )",
+                [
+                    "/wiki/Platinum"
+                ],
+                [
+                    {
+                        "entity id": "Q880",
+                        "label": "platinum"
+                    }
+                ]
+            ],
+            [
+                "hydrogen cyanide",
+                [
+                    "/wiki/Hydrogen_cyanide"
+                ],
+                [
+                    {
+                        "entity id": "Q26075",
+                        "label": "hydrogen cyanide"
+                    }
+                ]
+            ],
+            [
+                "basic chemicals , gold mining extractant",
+                []
+            ]
+        ],
+        [
+            [
+                "ethylene",
+                [
+                    "/wiki/Ethylene"
+                ],
+                [
+                    {
+                        "entity id": "Q151313",
+                        "label": "ethylene"
+                    }
+                ]
+            ],
+            [
+                "epoxidation",
+                [
+                    "/wiki/Epoxidation"
+                ],
+                [
+                    {
+                        "entity id": "Q2310338",
+                        "label": "epoxidation"
+                    }
+                ]
+            ],
+            [
+                "mixed Ag oxides ( heterogeneous )",
+                []
+            ],
+            [
+                "ethylene oxide",
+                [
+                    "/wiki/Ethylene_oxide"
+                ],
+                [
+                    {
+                        "entity id": "Q407473",
+                        "label": "ethylene oxide"
+                    }
+                ]
+            ],
+            [
+                "basic chemicals , surfactants",
+                []
+            ]
+        ],
+        [
+            [
+                "cyclohexane",
+                [
+                    "/wiki/Cyclohexane"
+                ],
+                [
+                    {
+                        "entity id": "Q211433",
+                        "label": "cyclohexane"
+                    }
+                ]
+            ],
+            [
+                "K-A process",
+                []
+            ],
+            [
+                "Co and Mn salts ( homogeneous )",
+                []
+            ],
+            [
+                "cyclohexanol cyclohexanone",
+                [
+                    "/wiki/Cyclohexanol",
+                    "/wiki/Cyclohexanone"
+                ],
+                [
+                    {
+                        "entity id": "Q423282",
+                        "label": "cyclohexanol"
+                    },
+                    {
+                        "entity id": "Q409178",
+                        "label": "cyclohexanone"
+                    }
+                ]
+            ],
+            [
+                "nylon precursor",
+                []
+            ]
+        ],
+        [
+            [
+                "ethylene",
+                [
+                    "/wiki/Ethylene"
+                ],
+                [
+                    {
+                        "entity id": "Q151313",
+                        "label": "ethylene"
+                    }
+                ]
+            ],
+            [
+                "Wacker process",
+                [
+                    "/wiki/Wacker_process"
+                ],
+                [
+                    {
+                        "entity id": "Q578923",
+                        "label": "Wacker process"
+                    }
+                ]
+            ],
+            [
+                "Pd and Cu salts ( homogeneous )",
+                []
+            ],
+            [
+                "acetaldehyde",
+                [
+                    "/wiki/Acetaldehyde"
+                ],
+                [
+                    {
+                        "entity id": "Q61457",
+                        "label": "acetaldehyde"
+                    }
+                ]
+            ],
+            [
+                "basic chemicals",
+                []
+            ]
+        ],
+        [
+            [
+                "para-xylene",
+                [
+                    "/wiki/Para-xylene"
+                ],
+                [
+                    {
+                        "entity id": "Q3314420",
+                        "label": "p-xylene"
+                    }
+                ]
+            ],
+            [
+                "terephthalic acid synthesis",
+                []
+            ],
+            [
+                "Mn and Co salts ( homogeneous )",
+                []
+            ],
+            [
+                "terephthalic acid",
+                [
+                    "/wiki/Terephthalic_acid"
+                ],
+                [
+                    {
+                        "entity id": "Q408984",
+                        "label": "terephthalic acid"
+                    }
+                ]
+            ],
+            [
+                "plastic precursor",
+                []
+            ]
+        ],
+        [
+            [
+                "propylene",
+                [
+                    "/wiki/Propylene"
+                ],
+                [
+                    {
+                        "entity id": "Q151324",
+                        "label": "propylene"
+                    }
+                ]
+            ],
+            [
+                "allylic oxidation",
+                [
+                    "/wiki/Allylic_oxidation"
+                ],
+                [
+                    {
+                        "entity id": "Q58005324",
+                        "label": "Allylic oxidation of olefins by catalytic and stoichiometric selenium dioxide with tert-butyl hydroperoxide"
+                    }
+                ]
+            ],
+            [
+                "Mo-oxides ( heterogeneous )",
+                []
+            ],
+            [
+                "acrylic acid",
+                [
+                    "/wiki/Acrylic_acid"
+                ],
+                [
+                    {
+                        "entity id": "Q324628",
+                        "label": "acrylic acid"
+                    }
+                ]
+            ],
+            [
+                "plastic precursor",
+                []
+            ]
+        ],
+        [
+            [
+                "propylene , ammonia",
+                [
+                    "/wiki/Propylene",
+                    "/wiki/Ammonia"
+                ],
+                [
+                    {
+                        "entity id": "Q151324",
+                        "label": "propylene"
+                    },
+                    {
+                        "entity id": "Q4087",
+                        "label": "ammonia"
+                    }
+                ]
+            ],
+            [
+                "SOHIO process",
+                [
+                    "/wiki/Ammoxidation"
+                ],
+                [
+                    {
+                        "entity id": "Q63963",
+                        "label": "ammoxidation"
+                    }
+                ]
+            ],
+            [
+                "Bi-Mo-oxides ( heterogeneous )",
+                []
+            ],
+            [
+                "acrylonitrile",
+                [
+                    "/wiki/Acrylonitrile"
+                ],
+                [
+                    {
+                        "entity id": "Q342968",
+                        "label": "acrylonitrile"
+                    }
+                ]
+            ],
+            [
+                "plastic precursor",
+                []
+            ]
+        ],
+        [
+            [
+                "methanol",
+                [
+                    "/wiki/Methanol"
+                ],
+                [
+                    {
+                        "entity id": "Q14982",
+                        "label": "methanol"
+                    }
+                ]
+            ],
+            [
+                "Formox process",
+                [
+                    "/wiki/Formox_process"
+                ],
+                [
+                    {
+                        "entity id": "Q5470250",
+                        "label": "Formox process"
+                    }
+                ]
+            ],
+            [
+                "Fe-Mo-oxides ( heterogeneous )",
+                []
+            ],
+            [
+                "formaldehyde",
+                [
+                    "/wiki/Formaldehyde"
+                ],
+                [
+                    {
+                        "entity id": "Q161210",
+                        "label": "formaldehyde"
+                    }
+                ]
+            ],
+            [
+                "basic chemicals , alkyd resins",
+                []
+            ]
+        ],
+        [
+            [
+                "butane",
+                [
+                    "/wiki/Butane"
+                ],
+                [
+                    {
+                        "entity id": "Q134192",
+                        "label": "butane"
+                    }
+                ]
+            ],
+            [
+                "Maleic anhydride process",
+                []
+            ],
+            [
+                "vanadium phosphates ( heterogeneous )",
+                []
+            ],
+            [
+                "maleic anhydride",
+                [
+                    "/wiki/Maleic_anhydride"
+                ],
+                [
+                    {
+                        "entity id": "Q412377",
+                        "label": "maleic anhydride"
+                    }
+                ]
+            ],
+            [
+                "plastics , alkyd resins",
+                []
+            ]
+        ],
+        [
+            [
+                "ethylene",
+                [
+                    "/wiki/Ethylene"
+                ],
+                [
+                    {
+                        "entity id": "Q151313",
+                        "label": "ethylene"
+                    }
+                ]
+            ],
+            [
+                "OMEGA process",
+                [
+                    "/wiki/OMEGA_process"
+                ],
+                [
+                    {
+                        "entity id": "Q1515517",
+                        "label": "OMEGA process"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "ethylene glycol",
+                [
+                    "/wiki/Ethylene_glycol"
+                ],
+                [
+                    {
+                        "entity id": "Q194207",
+                        "label": "ethylene glycol"
+                    }
+                ]
+            ],
+            [
+                "Coolant , antifreeze , plastics",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Examples",
+    "section_text": "Industrially important examples include both inorganic and organic substrates .",
+    "uid": "Catalytic_oxidation_0",
+    "intro": "Catalytic oxidation are processes that oxidize compounds using catalysts. Common applications involve oxidation of organic compounds by the oxygen in air. Such processes are conducted on a large scale for the remediation of pollutants, production of valuable chemicals, and the production of energy. An illustrative catalytic oxidation is the conversion of methanol to the more valuable compound formaldehyde using oxygen in air:"
+}

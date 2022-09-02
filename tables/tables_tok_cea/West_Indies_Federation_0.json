@@ -1,0 +1,459 @@
+{
+    "url": "https://en.wikipedia.org/wiki/West_Indies_Federation",
+    "title": "West Indies Federation",
+    "header": [
+        [
+            "Province",
+            []
+        ],
+        [
+            "Capital",
+            []
+        ],
+        [
+            "Population",
+            []
+        ],
+        [
+            "Area ( km\u00b2 )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Antigua and Barbuda",
+                [
+                    "/wiki/Antigua_and_Barbuda"
+                ],
+                [
+                    {
+                        "entity id": "Q781",
+                        "label": "Antigua and Barbuda"
+                    }
+                ]
+            ],
+            [
+                "St. John 's",
+                [
+                    "/wiki/St._John's,_Antigua_and_Barbuda"
+                ],
+                [
+                    {
+                        "entity id": "Q36262",
+                        "label": "Saint John's"
+                    }
+                ]
+            ],
+            [
+                "57,000",
+                []
+            ],
+            [
+                "440",
+                []
+            ]
+        ],
+        [
+            [
+                "Barbados",
+                [
+                    "/wiki/Barbados"
+                ],
+                [
+                    {
+                        "entity id": "Q244",
+                        "label": "Barbados"
+                    }
+                ]
+            ],
+            [
+                "Bridgetown",
+                [
+                    "/wiki/Bridgetown"
+                ],
+                [
+                    {
+                        "entity id": "Q6106",
+                        "label": "Portland"
+                    }
+                ]
+            ],
+            [
+                "234,000",
+                []
+            ],
+            [
+                "431",
+                []
+            ]
+        ],
+        [
+            [
+                "Cayman Islands ( attached to Jamaica )",
+                [
+                    "/wiki/Cayman_Islands"
+                ],
+                [
+                    {
+                        "entity id": "Q5785",
+                        "label": "Cayman Islands"
+                    }
+                ]
+            ],
+            [
+                "George Town",
+                [
+                    "/wiki/George_Town,_Cayman_Islands"
+                ],
+                [
+                    {
+                        "entity id": "Q172996",
+                        "label": "George Town"
+                    }
+                ]
+            ],
+            [
+                "9,000",
+                []
+            ],
+            [
+                "264",
+                []
+            ]
+        ],
+        [
+            [
+                "Dominica",
+                [
+                    "/wiki/Dominica"
+                ],
+                [
+                    {
+                        "entity id": "Q784",
+                        "label": "Dominica"
+                    }
+                ]
+            ],
+            [
+                "Roseau",
+                [
+                    "/wiki/Roseau"
+                ],
+                [
+                    {
+                        "entity id": "Q36281",
+                        "label": "Roseau"
+                    }
+                ]
+            ],
+            [
+                "61,000",
+                []
+            ],
+            [
+                "750",
+                []
+            ]
+        ],
+        [
+            [
+                "Grenada",
+                [
+                    "/wiki/Grenada"
+                ],
+                [
+                    {
+                        "entity id": "Q769",
+                        "label": "Grenada"
+                    }
+                ]
+            ],
+            [
+                "St. George 's",
+                [
+                    "/wiki/St._George's,_Grenada"
+                ],
+                [
+                    {
+                        "entity id": "Q41547",
+                        "label": "St. George's"
+                    }
+                ]
+            ],
+            [
+                "91,000",
+                []
+            ],
+            [
+                "344",
+                []
+            ]
+        ],
+        [
+            [
+                "Jamaica",
+                [
+                    "/wiki/Jamaica"
+                ],
+                [
+                    {
+                        "entity id": "Q766",
+                        "label": "Jamaica"
+                    }
+                ]
+            ],
+            [
+                "Kingston",
+                [
+                    "/wiki/Kingston,_Jamaica"
+                ],
+                [
+                    {
+                        "entity id": "Q34692",
+                        "label": "Kingston"
+                    }
+                ]
+            ],
+            [
+                "1,660,000",
+                []
+            ],
+            [
+                "10,991",
+                []
+            ]
+        ],
+        [
+            [
+                "Montserrat",
+                [
+                    "/wiki/Montserrat"
+                ],
+                [
+                    {
+                        "entity id": "Q13353",
+                        "label": "Montserrat"
+                    }
+                ]
+            ],
+            [
+                "Plymouth",
+                [
+                    "/wiki/Plymouth,_Montserrat"
+                ],
+                [
+                    {
+                        "entity id": "Q30990",
+                        "label": "Plymouth"
+                    }
+                ]
+            ],
+            [
+                "13,000",
+                []
+            ],
+            [
+                "102",
+                []
+            ]
+        ],
+        [
+            [
+                "Saint Christopher-Nevis-Anguilla",
+                [
+                    "/wiki/Saint_Christopher-Nevis-Anguilla"
+                ],
+                [
+                    {
+                        "entity id": "Q1637975",
+                        "label": "Saint Christopher-Nevis-Anguilla"
+                    }
+                ]
+            ],
+            [
+                "Basseterre",
+                [
+                    "/wiki/Basseterre"
+                ],
+                [
+                    {
+                        "entity id": "Q41295",
+                        "label": "Basseterre"
+                    }
+                ]
+            ],
+            [
+                "55,600",
+                []
+            ],
+            [
+                "351",
+                []
+            ]
+        ],
+        [
+            [
+                "Saint Lucia",
+                [
+                    "/wiki/Saint_Lucia"
+                ],
+                [
+                    {
+                        "entity id": "Q760",
+                        "label": "Saint Lucia"
+                    }
+                ]
+            ],
+            [
+                "Castries",
+                [
+                    "/wiki/Castries"
+                ],
+                [
+                    {
+                        "entity id": "Q41699",
+                        "label": "Castries"
+                    }
+                ]
+            ],
+            [
+                "95,000",
+                []
+            ],
+            [
+                "616",
+                []
+            ]
+        ],
+        [
+            [
+                "Saint Vincent and the Grenadines",
+                [
+                    "/wiki/Saint_Vincent_and_the_Grenadines"
+                ],
+                [
+                    {
+                        "entity id": "Q757",
+                        "label": "Saint Vincent and the Grenadines"
+                    }
+                ]
+            ],
+            [
+                "Kingstown",
+                [
+                    "/wiki/Kingstown"
+                ],
+                [
+                    {
+                        "entity id": "Q41474",
+                        "label": "Kingstown"
+                    }
+                ]
+            ],
+            [
+                "83,000",
+                []
+            ],
+            [
+                "389",
+                []
+            ]
+        ],
+        [
+            [
+                "Trinidad and Tobago",
+                [
+                    "/wiki/Trinidad_and_Tobago"
+                ],
+                [
+                    {
+                        "entity id": "Q754",
+                        "label": "Trinidad and Tobago"
+                    }
+                ]
+            ],
+            [
+                "Port-of-Spain",
+                [
+                    "/wiki/Port-of-Spain"
+                ],
+                [
+                    {
+                        "entity id": "Q39178",
+                        "label": "Port of Spain"
+                    }
+                ]
+            ],
+            [
+                "900,000",
+                []
+            ],
+            [
+                "5,131",
+                []
+            ]
+        ],
+        [
+            [
+                "Turks and Caicos Islands ( attached to Jamaica )",
+                [
+                    "/wiki/Turks_and_Caicos_Islands"
+                ],
+                [
+                    {
+                        "entity id": "Q18221",
+                        "label": "Turks and Caicos Islands"
+                    }
+                ]
+            ],
+            [
+                "Cockburn Town",
+                [
+                    "/wiki/Cockburn_Town"
+                ],
+                [
+                    {
+                        "entity id": "Q34205",
+                        "label": "Cockburn Town"
+                    }
+                ]
+            ],
+            [
+                "6,000",
+                []
+            ],
+            [
+                "430",
+                []
+            ]
+        ],
+        [
+            [
+                "Federation of the West Indies",
+                []
+            ],
+            [
+                "Chaguaramas",
+                [
+                    "/wiki/Chaguaramas,_Trinidad"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "3,264,600",
+                []
+            ],
+            [
+                "20,239 km",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Provinces",
+    "section_text": "Map of the Provinces of the West Indies Federation Jamaica Antigua and Barbuda Dominica Barbados Trinidad and Tobago Saint Lucia Saint Vincent Grenada Montserrat Cayman Islands ( Jamaica ) Turks & Caicos ( Jamaica ) Saint Christopher-NevisAnguilla",
+    "uid": "West_Indies_Federation_0",
+    "intro": "The West Indies Federation, also known as the West Indies, the Federation of the West Indies or the West Indian Federation, was a short-lived political union that existed from 3 January 1958 to 31 May 1962. Various islands in the Caribbean that were colonies of the United Kingdom, including Trinidad and Tobago, Barbados, Jamaica, and those on the Leeward and Windward Islands, came together to form the Federation, with its capital in Port of Spain, Trinidad and Tobago. The expressed intention of the Federation was to create a political unit that would become independent from Britain as a single state - possibly similar to the Canadian Confederation, Australian Commonwealth, or Central African Federation; however, before that could happen, the Federation collapsed due to internal political conflicts over how the Federation itself would be governed or how it would viably function. The territories that would have become part of the Federation eventually became the nine contemporary sovereign states of Antigua and Barbuda, Barbados, Dominica, Grenada, Jamaica, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, and Trinidad and Tobago; with Anguilla, Montserrat, the Cayman Islands, and Turks and Caicos Islands becoming British overseas territories. British Guiana (Guyana) and British Honduras (Belize) held observer status within the West Indies Federation."
+}

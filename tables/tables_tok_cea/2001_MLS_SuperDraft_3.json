@@ -1,0 +1,569 @@
+{
+    "url": "https://en.wikipedia.org/wiki/2001_MLS_SuperDraft",
+    "title": "2001 MLS SuperDraft",
+    "header": [
+        [
+            "Pick #",
+            []
+        ],
+        [
+            "MLS team",
+            []
+        ],
+        [
+            "Player",
+            []
+        ],
+        [
+            "Position",
+            []
+        ],
+        [
+            "Affiliation",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "37",
+                []
+            ],
+            [
+                "San Jose Earthquakes",
+                [
+                    "/wiki/San_Jose_Earthquakes"
+                ],
+                [
+                    {
+                        "entity id": "Q575370",
+                        "label": "San Jose Earthquakes"
+                    }
+                ]
+            ],
+            [
+                "Fabio Eidelwein",
+                []
+            ],
+            [
+                "F",
+                []
+            ],
+            [
+                "Des Moines Menace ( PDL )",
+                [
+                    "/wiki/Des_Moines_Menace",
+                    "/wiki/USL_Premier_Development_League"
+                ],
+                [
+                    {
+                        "entity id": "Q863492",
+                        "label": "Des Moines Menace"
+                    },
+                    {
+                        "entity id": "Q976491",
+                        "label": "USL League Two"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "38",
+                []
+            ],
+            [
+                "Miami Fusion",
+                [
+                    "/wiki/Miami_Fusion"
+                ],
+                [
+                    {
+                        "entity id": "Q862647",
+                        "label": "Miami Fusion"
+                    }
+                ]
+            ],
+            [
+                "Greg Simmonds",
+                [
+                    "/wiki/Greg_Simmonds"
+                ],
+                [
+                    {
+                        "entity id": "Q5607166",
+                        "label": "Gregory Simmonds"
+                    }
+                ]
+            ],
+            [
+                "F",
+                []
+            ],
+            [
+                "Hershey Wildcats ( A-League )",
+                [
+                    "/wiki/Hershey_Wildcats",
+                    "/wiki/USL_First_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q5744552",
+                        "label": "Hershey Wildcats"
+                    },
+                    {
+                        "entity id": "Q1351694",
+                        "label": "USL First Division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "39",
+                []
+            ],
+            [
+                "Columbus Crew",
+                [
+                    "/wiki/Columbus_Crew"
+                ],
+                [
+                    {
+                        "entity id": "Q457163",
+                        "label": "Columbus Crew"
+                    }
+                ]
+            ],
+            [
+                "McKinley Tennyson",
+                [
+                    "/wiki/McKinley_Tennyson"
+                ],
+                [
+                    {
+                        "entity id": "Q6801945",
+                        "label": "McKinley Tennyson"
+                    }
+                ]
+            ],
+            [
+                "F",
+                []
+            ],
+            [
+                "UCLA",
+                [
+                    "/wiki/UCLA"
+                ],
+                [
+                    {
+                        "entity id": "Q174710",
+                        "label": "University of California, Los Angeles"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "40",
+                []
+            ],
+            [
+                "Miami Fusion",
+                [
+                    "/wiki/Miami_Fusion"
+                ],
+                [
+                    {
+                        "entity id": "Q862647",
+                        "label": "Miami Fusion"
+                    }
+                ]
+            ],
+            [
+                "Cory Gibbs",
+                [
+                    "/wiki/Cory_Gibbs"
+                ],
+                [
+                    {
+                        "entity id": "Q1135783",
+                        "label": "Cory Gibbs"
+                    }
+                ]
+            ],
+            [
+                "D",
+                []
+            ],
+            [
+                "Brown University",
+                [
+                    "/wiki/Brown_University"
+                ],
+                [
+                    {
+                        "entity id": "Q49114",
+                        "label": "Brown University"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "41",
+                []
+            ],
+            [
+                "Colorado Rapids",
+                [
+                    "/wiki/Colorado_Rapids"
+                ],
+                [
+                    {
+                        "entity id": "Q642408",
+                        "label": "Colorado Rapids"
+                    }
+                ]
+            ],
+            [
+                "Ryan Trout",
+                [
+                    "/wiki/Ryan_Trout"
+                ],
+                [
+                    {
+                        "entity id": "Q16751707",
+                        "label": "Ryan Trout"
+                    }
+                ]
+            ],
+            [
+                "M",
+                []
+            ],
+            [
+                "University of Virginia",
+                [
+                    "/wiki/University_of_Virginia"
+                ],
+                [
+                    {
+                        "entity id": "Q213439",
+                        "label": "University of Virginia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "42",
+                []
+            ],
+            [
+                "New England Revolution",
+                [
+                    "/wiki/New_England_Revolution"
+                ],
+                [
+                    {
+                        "entity id": "Q309095",
+                        "label": "New England Revolution"
+                    }
+                ]
+            ],
+            [
+                "Yari Allnutt",
+                [
+                    "/wiki/Yari_Allnutt"
+                ],
+                [
+                    {
+                        "entity id": "Q4022560",
+                        "label": "Yari Allnutt"
+                    }
+                ]
+            ],
+            [
+                "M",
+                []
+            ],
+            [
+                "Rochester Rhinos ( A-League )",
+                [
+                    "/wiki/Rochester_Rhinos",
+                    "/wiki/USL_First_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q1359089",
+                        "label": "Rochester New York FC"
+                    },
+                    {
+                        "entity id": "Q1351694",
+                        "label": "USL First Division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "43",
+                []
+            ],
+            [
+                "Dallas Burn",
+                [
+                    "/wiki/Dallas_Burn"
+                ],
+                [
+                    {
+                        "entity id": "Q642291",
+                        "label": "FC Dallas"
+                    }
+                ]
+            ],
+            [
+                "Adam Zapala",
+                []
+            ],
+            [
+                "GK",
+                []
+            ],
+            [
+                "Stanford University",
+                [
+                    "/wiki/Stanford_University"
+                ],
+                [
+                    {
+                        "entity id": "Q41506",
+                        "label": "Stanford University"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "44",
+                []
+            ],
+            [
+                "Tampa Bay Mutiny",
+                [
+                    "/wiki/Tampa_Bay_Mutiny"
+                ],
+                [
+                    {
+                        "entity id": "Q421009",
+                        "label": "Tampa Bay Mutiny"
+                    }
+                ]
+            ],
+            [
+                "Adam Throop",
+                [
+                    "/wiki/Adam_Throop"
+                ],
+                [
+                    {
+                        "entity id": "Q16751690",
+                        "label": "Adam Throop"
+                    }
+                ]
+            ],
+            [
+                "GK",
+                []
+            ],
+            [
+                "Chicago Sockers ( PDL )",
+                [
+                    "/wiki/Chicago_Sockers",
+                    "/wiki/USL_Premier_Development_League"
+                ],
+                [
+                    {
+                        "entity id": "Q971183",
+                        "label": "Chicago Sockers"
+                    },
+                    {
+                        "entity id": "Q976491",
+                        "label": "USL League Two"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "45",
+                []
+            ],
+            [
+                "Los Angeles Galaxy",
+                [
+                    "/wiki/Los_Angeles_Galaxy"
+                ],
+                [
+                    {
+                        "entity id": "Q204357",
+                        "label": "LA Galaxy"
+                    }
+                ]
+            ],
+            [
+                "Brent Rahim",
+                [
+                    "/wiki/Brent_Rahim"
+                ],
+                [
+                    {
+                        "entity id": "Q4961520",
+                        "label": "Brent Rahim"
+                    }
+                ]
+            ],
+            [
+                "M",
+                []
+            ],
+            [
+                "University of Connecticut",
+                [
+                    "/wiki/University_of_Connecticut"
+                ],
+                [
+                    {
+                        "entity id": "Q49206",
+                        "label": "University of Connecticut"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "46",
+                []
+            ],
+            [
+                "MetroStars",
+                [
+                    "/wiki/MetroStars"
+                ],
+                [
+                    {
+                        "entity id": "Q204220",
+                        "label": "New York Red Bulls"
+                    }
+                ]
+            ],
+            [
+                "* Martin Klinger",
+                [
+                    "/wiki/Martin_Klinger"
+                ],
+                [
+                    {
+                        "entity id": "Q6775898",
+                        "label": "Martin Klinger"
+                    }
+                ]
+            ],
+            [
+                "F",
+                []
+            ],
+            [
+                "MetroStars Black",
+                [
+                    "/wiki/MetroStars_Black"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "47",
+                []
+            ],
+            [
+                "New England Revolution",
+                [
+                    "/wiki/New_England_Revolution"
+                ],
+                [
+                    {
+                        "entity id": "Q309095",
+                        "label": "New England Revolution"
+                    }
+                ]
+            ],
+            [
+                "Fernando Ortiz Solis",
+                []
+            ],
+            [
+                "D",
+                []
+            ],
+            [
+                "Tahuichi Academy",
+                []
+            ]
+        ],
+        [
+            [
+                "48",
+                []
+            ],
+            [
+                "Kansas City Wizards",
+                [
+                    "/wiki/Kansas_City_Wizards"
+                ],
+                [
+                    {
+                        "entity id": "Q329812",
+                        "label": "Sporting Kansas City"
+                    }
+                ]
+            ],
+            [
+                "Pablo Webster",
+                [
+                    "/wiki/Pablo_Webster"
+                ],
+                [
+                    {
+                        "entity id": "Q16751724",
+                        "label": "Pablo Webster"
+                    }
+                ]
+            ],
+            [
+                "M",
+                []
+            ],
+            [
+                "Clemson University",
+                [
+                    "/wiki/Clemson_University"
+                ],
+                [
+                    {
+                        "entity id": "Q631066",
+                        "label": "Clemson University"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Round 4",
+    "section_text": "",
+    "uid": "2001_MLS_SuperDraft_3",
+    "intro": "The 2001 Major League Soccer SuperDraft was held on February 5, 2001 at the Signature Grand in Davie, Florida."
+}

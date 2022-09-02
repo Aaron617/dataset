@@ -1,0 +1,602 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Edmonton_Metropolitan_Region",
+    "title": "List of airports in the Edmonton Metropolitan Region",
+    "header": [
+        [
+            "Airport name",
+            []
+        ],
+        [
+            "ICAO / TC LID ( IATA )",
+            [
+                "/wiki/International_Civil_Aviation_Organization_airport_code",
+                "/wiki/Transport_Canada",
+                "/wiki/Location_identifier",
+                "/wiki/International_Air_Transport_Association_airport_code"
+            ],
+            [
+                {
+                    "entity id": "Q207529",
+                    "label": "ICAO airport code"
+                },
+                {
+                    "entity id": "Q2035496",
+                    "label": "Transport Canada"
+                },
+                {
+                    "entity id": "Q28758335",
+                    "label": "location identifier"
+                },
+                {
+                    "entity id": "Q192824",
+                    "label": "IATA airport code"
+                }
+            ]
+        ],
+        [
+            "Location ( by municipality )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Edmonton/Bailey",
+                [
+                    "/wiki/List_of_heliports_in_Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q3250149",
+                        "label": "list of heliports in Canada"
+                    }
+                ]
+            ],
+            [
+                "CBY2",
+                []
+            ],
+            [
+                "Bailey 's Subdivision , ( Sherwood Park , ) Strathcona County",
+                [
+                    "/wiki/Sherwood_Park",
+                    "/wiki/Strathcona_County"
+                ],
+                [
+                    {
+                        "entity id": "Q3476253",
+                        "label": "Sherwood Park"
+                    },
+                    {
+                        "entity id": "Q1768240",
+                        "label": "Strathcona County"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Edmonton/Eastport Heliport",
+                [
+                    "/wiki/List_of_heliports_in_Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q3250149",
+                        "label": "list of heliports in Canada"
+                    }
+                ]
+            ],
+            [
+                "CEP8",
+                []
+            ],
+            [
+                "Harris estate , Sherwood Park , Strathcona County",
+                [
+                    "/wiki/Sherwood_Park",
+                    "/wiki/Strathcona_County"
+                ],
+                [
+                    {
+                        "entity id": "Q3476253",
+                        "label": "Sherwood Park"
+                    },
+                    {
+                        "entity id": "Q1768240",
+                        "label": "Strathcona County"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Edmonton ( City ) Heliport",
+                [
+                    "/wiki/List_of_heliports_in_Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q3250149",
+                        "label": "list of heliports in Canada"
+                    }
+                ]
+            ],
+            [
+                "CCE7",
+                []
+            ],
+            [
+                "Edmonton",
+                [
+                    "/wiki/Edmonton"
+                ],
+                [
+                    {
+                        "entity id": "Q2096",
+                        "label": "Edmonton"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Edmonton/Grey Nuns Community Hospital Heliport",
+                [
+                    "/wiki/Grey_Nuns_Community_Hospital"
+                ],
+                [
+                    {
+                        "entity id": "Q5608215",
+                        "label": "Grey Nuns Community Hospital"
+                    }
+                ]
+            ],
+            [
+                "CES8",
+                []
+            ],
+            [
+                "Grey Nuns Community Hospital , Edmonton",
+                [
+                    "/wiki/Grey_Nuns_Community_Hospital",
+                    "/wiki/Edmonton"
+                ],
+                [
+                    {
+                        "entity id": "Q5608215",
+                        "label": "Grey Nuns Community Hospital"
+                    },
+                    {
+                        "entity id": "Q2096",
+                        "label": "Edmonton"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Edmonton/Kelsonae Heliport",
+                [
+                    "/wiki/List_of_heliports_in_Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q3250149",
+                        "label": "list of heliports in Canada"
+                    }
+                ]
+            ],
+            [
+                "CSG6",
+                []
+            ],
+            [
+                "Sunwapta Helicopters , ( Devon , ) Parkland County",
+                [
+                    "/wiki/Devon,_Alberta",
+                    "/wiki/Parkland_County"
+                ],
+                [
+                    {
+                        "entity id": "Q2105198",
+                        "label": "Devon"
+                    },
+                    {
+                        "entity id": "Q7138563",
+                        "label": "Parkland County"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Edmonton/Leduc Heliport",
+                [
+                    "/wiki/List_of_heliports_in_Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q3250149",
+                        "label": "list of heliports in Canada"
+                    }
+                ]
+            ],
+            [
+                "CLD2",
+                []
+            ],
+            [
+                "Leduc Community Hospital , Leduc",
+                [
+                    "/wiki/Leduc_Community_Hospital",
+                    "/wiki/Leduc,_Alberta"
+                ],
+                [
+                    {
+                        "entity id": "Q14874844",
+                        "label": "Leduc Community Hospital"
+                    },
+                    {
+                        "entity id": "Q1207513",
+                        "label": "Leduc"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Edmonton/Misericordia ( Community Hospital ) Heliport",
+                [
+                    "/wiki/Misericordia_Community_Hospital"
+                ],
+                [
+                    {
+                        "entity id": "Q6875334",
+                        "label": "Misericordia Community Hospital"
+                    }
+                ]
+            ],
+            [
+                "CMC2",
+                []
+            ],
+            [
+                "Misericordia Community Hospital , Edmonton",
+                [
+                    "/wiki/Misericordia_Community_Hospital",
+                    "/wiki/Edmonton"
+                ],
+                [
+                    {
+                        "entity id": "Q6875334",
+                        "label": "Misericordia Community Hospital"
+                    },
+                    {
+                        "entity id": "Q2096",
+                        "label": "Edmonton"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Edmonton/Namao Heliport",
+                [
+                    "/wiki/List_of_heliports_in_Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q3250149",
+                        "label": "list of heliports in Canada"
+                    }
+                ]
+            ],
+            [
+                "CYED ( YED )",
+                []
+            ],
+            [
+                "CFB Edmonton , Sturgeon County",
+                [
+                    "/wiki/CFB_Edmonton",
+                    "/wiki/Sturgeon_County"
+                ],
+                [
+                    {
+                        "entity id": "Q652085",
+                        "label": "3rd Division Support Base"
+                    },
+                    {
+                        "entity id": "Q7628998",
+                        "label": "Sturgeon County"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Edmonton ( Royal Alexandra Hospital ) Heliport",
+                [
+                    "/wiki/Royal_Alexandra_Hospital,_Edmonton"
+                ],
+                [
+                    {
+                        "entity id": "Q7373655",
+                        "label": "Royal Alexandra Hospital, Edmonton"
+                    }
+                ]
+            ],
+            [
+                "CFH7",
+                []
+            ],
+            [
+                "Royal Alexandra Hospital , Edmonton",
+                [
+                    "/wiki/Royal_Alexandra_Hospital,_Edmonton",
+                    "/wiki/Edmonton"
+                ],
+                [
+                    {
+                        "entity id": "Q7373655",
+                        "label": "Royal Alexandra Hospital, Edmonton"
+                    },
+                    {
+                        "entity id": "Q2096",
+                        "label": "Edmonton"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Edmonton/St . Albert Heliport",
+                [
+                    "/wiki/List_of_heliports_in_Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q3250149",
+                        "label": "list of heliports in Canada"
+                    }
+                ]
+            ],
+            [
+                "CES3",
+                []
+            ],
+            [
+                "Delta Helicopters , ( St. Albert , ) Sturgeon County",
+                [
+                    "/wiki/St._Albert,_Alberta",
+                    "/wiki/Sturgeon_County"
+                ],
+                [
+                    {
+                        "entity id": "Q939127",
+                        "label": "St. Albert"
+                    },
+                    {
+                        "entity id": "Q7628998",
+                        "label": "Sturgeon County"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Edmonton/Sturgeon Community Hospital",
+                [
+                    "/wiki/Sturgeon_Community_Hospital"
+                ],
+                [
+                    {
+                        "entity id": "Q7628994",
+                        "label": "Sturgeon Community Hospital"
+                    }
+                ]
+            ],
+            [
+                "CSA3",
+                []
+            ],
+            [
+                "Sturgeon Community Hospital , St. Albert",
+                [
+                    "/wiki/Sturgeon_Community_Hospital",
+                    "/wiki/St._Albert,_Alberta"
+                ],
+                [
+                    {
+                        "entity id": "Q7628994",
+                        "label": "Sturgeon Community Hospital"
+                    },
+                    {
+                        "entity id": "Q939127",
+                        "label": "St. Albert"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Edmonton/University of Alberta ( Stollery Children 's Hospital ) Heliport",
+                [
+                    "/wiki/University_of_Alberta_Hospital",
+                    "/wiki/Stollery_Children's_Hospital"
+                ],
+                [
+                    {
+                        "entity id": "Q7895046",
+                        "label": "University of Alberta Hospital"
+                    },
+                    {
+                        "entity id": "Q17096630",
+                        "label": "Stollery Children's Hospital"
+                    }
+                ]
+            ],
+            [
+                "CEW7",
+                []
+            ],
+            [
+                "University of Alberta Hospital , Edmonton",
+                [
+                    "/wiki/University_of_Alberta_Hospital",
+                    "/wiki/Edmonton"
+                ],
+                [
+                    {
+                        "entity id": "Q7895046",
+                        "label": "University of Alberta Hospital"
+                    },
+                    {
+                        "entity id": "Q2096",
+                        "label": "Edmonton"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Fort Saskatchewan ( General Hospital ) Heliport",
+                [
+                    "/wiki/Fort_Saskatchewan_Community_Hospital"
+                ],
+                [
+                    {
+                        "entity id": "Q14252619",
+                        "label": "Fort Saskatchewan Community Hospital"
+                    }
+                ]
+            ],
+            [
+                "CSV4",
+                []
+            ],
+            [
+                "Fort Saskatchewan Community Hospital , Fort Saskatchewan",
+                [
+                    "/wiki/Fort_Saskatchewan_Community_Hospital",
+                    "/wiki/Fort_Saskatchewan"
+                ],
+                [
+                    {
+                        "entity id": "Q14252619",
+                        "label": "Fort Saskatchewan Community Hospital"
+                    },
+                    {
+                        "entity id": "Q1007407",
+                        "label": "Fort Saskatchewan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Redwater ( Health Centre ) Heliport",
+                [
+                    "/wiki/Redwater_Health_Centre"
+                ],
+                [
+                    {
+                        "entity id": "Q7306447",
+                        "label": "Redwater Health Centre"
+                    }
+                ]
+            ],
+            [
+                "CRW8",
+                []
+            ],
+            [
+                "Redwater Health Centre , Redwater",
+                [
+                    "/wiki/Redwater_Health_Centre",
+                    "/wiki/Redwater,_Alberta"
+                ],
+                [
+                    {
+                        "entity id": "Q7306447",
+                        "label": "Redwater Health Centre"
+                    },
+                    {
+                        "entity id": "Q6593705",
+                        "label": "Redwater"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Redwater ( Heliworks ) Heliport",
+                [
+                    "/wiki/List_of_heliports_in_Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q3250149",
+                        "label": "list of heliports in Canada"
+                    }
+                ]
+            ],
+            [
+                "CRW2",
+                []
+            ],
+            [
+                "Heliworks Aviation , ( Redwater , ) Sturgeon County",
+                [
+                    "/wiki/Redwater,_Alberta",
+                    "/wiki/Sturgeon_County"
+                ],
+                [
+                    {
+                        "entity id": "Q6593705",
+                        "label": "Redwater"
+                    },
+                    {
+                        "entity id": "Q7628998",
+                        "label": "Sturgeon County"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Stony Plain ( Westview Health Centre ) Heliport",
+                [
+                    "/wiki/List_of_heliports_in_Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q3250149",
+                        "label": "list of heliports in Canada"
+                    }
+                ]
+            ],
+            [
+                "CSP2",
+                []
+            ],
+            [
+                "Westview Health Centre , Stony Plain",
+                [
+                    "/wiki/Stony_Plain,_Alberta"
+                ],
+                [
+                    {
+                        "entity id": "Q1744021",
+                        "label": "Stony Plain"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Heliports",
+    "section_text": "",
+    "uid": "List_of_airports_in_the_Edmonton_area_2",
+    "intro": "The following active airports serve the Edmonton Metropolitan Region in Alberta, Canada:\n Communities in parentheses () indicates the airport is not in a community."
+}

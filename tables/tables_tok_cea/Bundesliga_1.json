@@ -1,0 +1,776 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Bundesliga",
+    "title": "Bundesliga",
+    "header": [
+        [
+            "Team",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Stadium",
+            []
+        ],
+        [
+            "Capacity",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "FC Augsburg",
+                [
+                    "/wiki/FC_Augsburg"
+                ],
+                [
+                    {
+                        "entity id": "Q15755",
+                        "label": "FC Augsburg"
+                    }
+                ]
+            ],
+            [
+                "Augsburg",
+                [
+                    "/wiki/Augsburg"
+                ],
+                [
+                    {
+                        "entity id": "Q2749",
+                        "label": "Augsburg"
+                    }
+                ]
+            ],
+            [
+                "WWK ARENA",
+                [
+                    "/wiki/WWK_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q167418",
+                        "label": "WWK Arena"
+                    }
+                ]
+            ],
+            [
+                "30,660",
+                []
+            ]
+        ],
+        [
+            [
+                "Bayer Leverkusen",
+                [
+                    "/wiki/Bayer_04_Leverkusen"
+                ],
+                [
+                    {
+                        "entity id": "Q104761",
+                        "label": "Bayer 04 Leverkusen"
+                    }
+                ]
+            ],
+            [
+                "Leverkusen",
+                [
+                    "/wiki/Leverkusen"
+                ],
+                [
+                    {
+                        "entity id": "Q104761",
+                        "label": "Bayer 04 Leverkusen"
+                    }
+                ]
+            ],
+            [
+                "BayArena",
+                [
+                    "/wiki/BayArena"
+                ],
+                [
+                    {
+                        "entity id": "Q156630",
+                        "label": "BayArena"
+                    }
+                ]
+            ],
+            [
+                "30,210",
+                []
+            ]
+        ],
+        [
+            [
+                "Bayern Munich",
+                [
+                    "/wiki/FC_Bayern_Munich"
+                ],
+                [
+                    {
+                        "entity id": "Q15789",
+                        "label": "FC Bayern Munich"
+                    }
+                ]
+            ],
+            [
+                "Munich",
+                [
+                    "/wiki/Munich"
+                ],
+                [
+                    {
+                        "entity id": "Q1726",
+                        "label": "Munich"
+                    }
+                ]
+            ],
+            [
+                "Allianz Arena",
+                [
+                    "/wiki/Allianz_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q127429",
+                        "label": "Allianz Arena"
+                    }
+                ]
+            ],
+            [
+                "75,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Borussia Dortmund",
+                [
+                    "/wiki/Borussia_Dortmund"
+                ],
+                [
+                    {
+                        "entity id": "Q41420",
+                        "label": "Borussia Dortmund"
+                    }
+                ]
+            ],
+            [
+                "Dortmund",
+                [
+                    "/wiki/Dortmund"
+                ],
+                [
+                    {
+                        "entity id": "Q1295",
+                        "label": "Dortmund"
+                    }
+                ]
+            ],
+            [
+                "Signal Iduna Park",
+                [
+                    "/wiki/Westfalenstadion"
+                ],
+                [
+                    {
+                        "entity id": "Q150928",
+                        "label": "Westfalenstadion"
+                    }
+                ]
+            ],
+            [
+                "81,359",
+                []
+            ]
+        ],
+        [
+            [
+                "Borussia M\u00f6nchengladbach",
+                [
+                    "/wiki/Borussia_M\u00f6nchengladbach"
+                ],
+                [
+                    {
+                        "entity id": "Q101959",
+                        "label": "Borussia M\u00f6nchengladbach"
+                    }
+                ]
+            ],
+            [
+                "M\u00f6nchengladbach",
+                [
+                    "/wiki/M\u00f6nchengladbach"
+                ],
+                [
+                    {
+                        "entity id": "Q2758",
+                        "label": "M\u00f6nchengladbach"
+                    }
+                ]
+            ],
+            [
+                "Stadion im Borussia-Park",
+                [
+                    "/wiki/Borussia-Park"
+                ],
+                [
+                    {
+                        "entity id": "Q154074",
+                        "label": "Borussia-Park"
+                    }
+                ]
+            ],
+            [
+                "59,724",
+                []
+            ]
+        ],
+        [
+            [
+                "Eintracht Frankfurt",
+                [
+                    "/wiki/Eintracht_Frankfurt"
+                ],
+                [
+                    {
+                        "entity id": "Q38245",
+                        "label": "Eintracht Frankfurt"
+                    }
+                ]
+            ],
+            [
+                "Frankfurt",
+                [
+                    "/wiki/Frankfurt"
+                ],
+                [
+                    {
+                        "entity id": "Q4024",
+                        "label": "Frankfurt (Oder)"
+                    }
+                ]
+            ],
+            [
+                "Commerzbank-Arena",
+                [
+                    "/wiki/Commerzbank-Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q157273",
+                        "label": "Waldstadion"
+                    }
+                ]
+            ],
+            [
+                "51,500",
+                []
+            ]
+        ],
+        [
+            [
+                "Fortuna D\u00fcsseldorf",
+                [
+                    "/wiki/Fortuna_D\u00fcsseldorf"
+                ],
+                [
+                    {
+                        "entity id": "Q151747",
+                        "label": "Fortuna D\u00fcsseldorf"
+                    }
+                ]
+            ],
+            [
+                "D\u00fcsseldorf",
+                [
+                    "/wiki/D\u00fcsseldorf"
+                ],
+                [
+                    {
+                        "entity id": "Q1718",
+                        "label": "D\u00fcsseldorf"
+                    }
+                ]
+            ],
+            [
+                "Merkur Spiel-Arena",
+                [
+                    "/wiki/Merkur_Spiel-Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q2465862",
+                        "label": "Merkur Spiel-Arena/Messe Nord"
+                    }
+                ]
+            ],
+            [
+                "54,600",
+                []
+            ]
+        ],
+        [
+            [
+                "SC Freiburg",
+                [
+                    "/wiki/SC_Freiburg"
+                ],
+                [
+                    {
+                        "entity id": "Q106394",
+                        "label": "SC Freiburg"
+                    }
+                ]
+            ],
+            [
+                "Freiburg im Breisgau",
+                [
+                    "/wiki/Freiburg_im_Breisgau"
+                ],
+                [
+                    {
+                        "entity id": "Q2833",
+                        "label": "Freiburg im Breisgau"
+                    }
+                ]
+            ],
+            [
+                "Schwarzwald-Stadion",
+                [
+                    "/wiki/Schwarzwald-Stadion"
+                ],
+                [
+                    {
+                        "entity id": "Q311458",
+                        "label": "Dreisamstadion"
+                    }
+                ]
+            ],
+            [
+                "24,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Hertha BSC",
+                [
+                    "/wiki/Hertha_BSC"
+                ],
+                [
+                    {
+                        "entity id": "Q102720",
+                        "label": "Hertha BSC"
+                    }
+                ]
+            ],
+            [
+                "Berlin",
+                [
+                    "/wiki/Berlin"
+                ],
+                [
+                    {
+                        "entity id": "Q64",
+                        "label": "Berlin"
+                    }
+                ]
+            ],
+            [
+                "Olympiastadion",
+                [
+                    "/wiki/Olympiastadion_(Berlin)"
+                ],
+                [
+                    {
+                        "entity id": "Q151374",
+                        "label": "Olympiastadion Berlin"
+                    }
+                ]
+            ],
+            [
+                "74,649",
+                []
+            ]
+        ],
+        [
+            [
+                "TSG Hoffenheim",
+                [
+                    "/wiki/TSG_1899_Hoffenheim"
+                ],
+                [
+                    {
+                        "entity id": "Q22707",
+                        "label": "TSG 1899 Hoffenheim"
+                    }
+                ]
+            ],
+            [
+                "Sinsheim",
+                [
+                    "/wiki/Sinsheim"
+                ],
+                [
+                    {
+                        "entity id": "Q14950",
+                        "label": "Sinsheim"
+                    }
+                ]
+            ],
+            [
+                "Wirsol Rhein-Neckar-Arena",
+                [
+                    "/wiki/Rhein-Neckar-Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q129870",
+                        "label": "Prezero-Arena"
+                    }
+                ]
+            ],
+            [
+                "30,164",
+                []
+            ]
+        ],
+        [
+            [
+                "1 . FC K\u00f6ln",
+                [
+                    "/wiki/1._FC_K\u00f6ln"
+                ],
+                [
+                    {
+                        "entity id": "Q104770",
+                        "label": "1. FC K\u00f6ln"
+                    }
+                ]
+            ],
+            [
+                "Cologne",
+                [
+                    "/wiki/Cologne"
+                ],
+                [
+                    {
+                        "entity id": "Q365",
+                        "label": "Cologne"
+                    }
+                ]
+            ],
+            [
+                "RheinEnergieStadion",
+                [
+                    "/wiki/RheinEnergieStadion"
+                ],
+                [
+                    {
+                        "entity id": "Q151893",
+                        "label": "RheinEnergie Stadion"
+                    }
+                ]
+            ],
+            [
+                "49,698",
+                []
+            ]
+        ],
+        [
+            [
+                "RB Leipzig",
+                [
+                    "/wiki/RB_Leipzig"
+                ],
+                [
+                    {
+                        "entity id": "Q702455",
+                        "label": "RB Leipzig"
+                    }
+                ]
+            ],
+            [
+                "Leipzig",
+                [
+                    "/wiki/Leipzig"
+                ],
+                [
+                    {
+                        "entity id": "Q2079",
+                        "label": "Leipzig"
+                    }
+                ]
+            ],
+            [
+                "Red Bull Arena",
+                [
+                    "/wiki/Red_Bull_Arena_(Leipzig)"
+                ],
+                [
+                    {
+                        "entity id": "Q210466",
+                        "label": "Zentralstadion"
+                    }
+                ]
+            ],
+            [
+                "42,558",
+                []
+            ]
+        ],
+        [
+            [
+                "Mainz 05",
+                [
+                    "/wiki/1._FSV_Mainz_05"
+                ],
+                [
+                    {
+                        "entity id": "Q105254",
+                        "label": "1. FSV Mainz 05"
+                    }
+                ]
+            ],
+            [
+                "Mainz",
+                [
+                    "/wiki/Mainz"
+                ],
+                [
+                    {
+                        "entity id": "Q1720",
+                        "label": "Mainz"
+                    }
+                ]
+            ],
+            [
+                "Coface Arena",
+                [
+                    "/wiki/Coface_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q392494",
+                        "label": "Mewa Arena"
+                    }
+                ]
+            ],
+            [
+                "34,000",
+                []
+            ]
+        ],
+        [
+            [
+                "SC Paderborn",
+                [
+                    "/wiki/SC_Paderborn_07"
+                ],
+                [
+                    {
+                        "entity id": "Q160532",
+                        "label": "SC Paderborn 07"
+                    }
+                ]
+            ],
+            [
+                "Paderborn",
+                [
+                    "/wiki/Paderborn"
+                ],
+                [
+                    {
+                        "entity id": "Q2971",
+                        "label": "Paderborn"
+                    }
+                ]
+            ],
+            [
+                "Benteler-Arena",
+                [
+                    "/wiki/Benteler-Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q567402",
+                        "label": "Benteler-Arena"
+                    }
+                ]
+            ],
+            [
+                "15,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Schalke 04",
+                [
+                    "/wiki/FC_Schalke_04"
+                ],
+                [
+                    {
+                        "entity id": "Q32494",
+                        "label": "FC Schalke 04"
+                    }
+                ]
+            ],
+            [
+                "Gelsenkirchen",
+                [
+                    "/wiki/Gelsenkirchen"
+                ],
+                [
+                    {
+                        "entity id": "Q2765",
+                        "label": "Gelsenkirchen"
+                    }
+                ]
+            ],
+            [
+                "Veltins-Arena",
+                [
+                    "/wiki/Veltins-Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q150961",
+                        "label": "Veltins Arena"
+                    }
+                ]
+            ],
+            [
+                "62,271",
+                []
+            ]
+        ],
+        [
+            [
+                "Union Berlin",
+                [
+                    "/wiki/1._FC_Union_Berlin"
+                ],
+                [
+                    {
+                        "entity id": "Q141971",
+                        "label": "1. FC Union Berlin"
+                    }
+                ]
+            ],
+            [
+                "Berlin",
+                []
+            ],
+            [
+                "Stadion An der Alten F\u00f6rsterei",
+                [
+                    "/wiki/Stadion_An_der_Alten_F\u00f6rsterei"
+                ],
+                [
+                    {
+                        "entity id": "Q749172",
+                        "label": "Stadion An der Alten F\u00f6rsterei"
+                    }
+                ]
+            ],
+            [
+                "22,012",
+                []
+            ]
+        ],
+        [
+            [
+                "Werder Bremen",
+                [
+                    "/wiki/SV_Werder_Bremen"
+                ],
+                [
+                    {
+                        "entity id": "Q51976",
+                        "label": "SV Werder Bremen"
+                    }
+                ]
+            ],
+            [
+                "Bremen",
+                [
+                    "/wiki/Bremen"
+                ],
+                [
+                    {
+                        "entity id": "Q24879",
+                        "label": "Bremen"
+                    }
+                ]
+            ],
+            [
+                "Weserstadion",
+                [
+                    "/wiki/Weserstadion"
+                ],
+                [
+                    {
+                        "entity id": "Q154475",
+                        "label": "Weserstadion"
+                    }
+                ]
+            ],
+            [
+                "42,354",
+                []
+            ]
+        ],
+        [
+            [
+                "VfL Wolfsburg",
+                [
+                    "/wiki/VfL_Wolfsburg"
+                ],
+                [
+                    {
+                        "entity id": "Q101859",
+                        "label": "VfL Wolfsburg"
+                    }
+                ]
+            ],
+            [
+                "Wolfsburg",
+                [
+                    "/wiki/Wolfsburg"
+                ],
+                [
+                    {
+                        "entity id": "Q3014",
+                        "label": "Wolfsburg"
+                    }
+                ]
+            ],
+            [
+                "Volkswagen Arena",
+                [
+                    "/wiki/Volkswagen_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q155603",
+                        "label": "Volkswagen Arena"
+                    }
+                ]
+            ],
+            [
+                "30,000",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Clubs -- Members for 2019\u201320",
+    "section_text": "FC AugsburgHertha BSCUnion BerlinWerder BremenBorussia DortmundFortuna D\u00fcsseldorfEintracht FrankfurtSC Freiburg1899 Hoffenheim1 . FC K\u00f6lnRB LeipzigBayer LeverkusenMainz 05BorussiaM'gladbachBayern MunichSC PaderbornSchalke 04VfL Wolfsburg Locations of the 2019\u201320 Bundesliga teams",
+    "uid": "Bundesliga_1",
+    "intro": "The Bundesliga (German: [\u02c8b\u028and\u0259s\u02ccli\u02d0\u0261a] (listen); lit. 'Federal League', sometimes referred to as die Fu\u00dfball-Bundesliga [\u02ccfu\u02d0sbal-] or 1. Bundesliga [\u02cce\u02d0\u0250\u032fst\u0259-]) is a professional association football league in Germany and the football league with the highest average stadium attendance worldwide. At the top of the German football league system, the Bundesliga is Germany's primary football competition. The Bundesliga comprises 18 teams and operates on a system of promotion and relegation with the 2. Bundesliga. Seasons run from August to May. Most games are played on Saturdays and Sundays, with a few games played on weekdays. All of the Bundesliga clubs qualify for the DFB-Pokal. The winner of the Bundesliga qualifies for the DFL-Supercup. 56 clubs have competed in the Bundesliga since its founding. Bayern Munich has won the Bundesliga the most, winning the title 28 times."
+}

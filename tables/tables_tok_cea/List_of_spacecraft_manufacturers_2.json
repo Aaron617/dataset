@@ -1,0 +1,898 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_spacecraft_manufacturers",
+    "title": "List of spacecraft manufacturers",
+    "header": [
+        [
+            "Company",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Comments",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Arianespace",
+                [
+                    "/wiki/Arianespace"
+                ],
+                [
+                    {
+                        "entity id": "Q309867",
+                        "label": "Arianespace"
+                    }
+                ]
+            ],
+            [
+                "Europe ( France / Germany / Italy / Belgium / Switzerland / Sweden / Spain / Netherlands / Norway / Denmark )",
+                [
+                    "/wiki/Europe",
+                    "/wiki/France",
+                    "/wiki/Germany",
+                    "/wiki/Italy",
+                    "/wiki/Belgium",
+                    "/wiki/Switzerland",
+                    "/wiki/Sweden",
+                    "/wiki/Spain",
+                    "/wiki/Netherlands",
+                    "/wiki/Norway",
+                    "/wiki/Denmark"
+                ],
+                [
+                    {
+                        "entity id": "Q46",
+                        "label": "Europe"
+                    },
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    },
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    },
+                    {
+                        "entity id": "Q38",
+                        "label": "Italy"
+                    },
+                    {
+                        "entity id": "Q31",
+                        "label": "Belgium"
+                    },
+                    {
+                        "entity id": "Q39",
+                        "label": "Switzerland"
+                    },
+                    {
+                        "entity id": "Q34",
+                        "label": "Sweden"
+                    },
+                    {
+                        "entity id": "Q29",
+                        "label": "Spain"
+                    },
+                    {
+                        "entity id": "Q55",
+                        "label": "Netherlands"
+                    },
+                    {
+                        "entity id": "Q20",
+                        "label": "Norway"
+                    },
+                    {
+                        "entity id": "Q35",
+                        "label": "Denmark"
+                    }
+                ]
+            ],
+            [
+                "Ariane ( rocket family )",
+                [
+                    "/wiki/Ariane_(rocket_family)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Delft Aerospace Rocket Engineering",
+                [
+                    "/wiki/Delft_Aerospace_Rocket_Engineering"
+                ],
+                [
+                    {
+                        "entity id": "Q13571771",
+                        "label": "Delft Aerospace Rocket Engineering"
+                    }
+                ]
+            ],
+            [
+                "Netherlands",
+                [
+                    "/wiki/Netherlands"
+                ],
+                [
+                    {
+                        "entity id": "Q55",
+                        "label": "Netherlands"
+                    }
+                ]
+            ],
+            [
+                "Suborbital student-built sounding rockets",
+                []
+            ]
+        ],
+        [
+            [
+                "ISRO",
+                [
+                    "/wiki/ISRO"
+                ],
+                [
+                    {
+                        "entity id": "Q229058",
+                        "label": "ISRO"
+                    }
+                ]
+            ],
+            [
+                "India",
+                [
+                    "/wiki/India"
+                ],
+                [
+                    {
+                        "entity id": "Q668",
+                        "label": "India"
+                    }
+                ]
+            ],
+            [
+                "PSLV , GSLV , GSLV III",
+                [
+                    "/wiki/PSLV",
+                    "/wiki/GSLV",
+                    "/wiki/GSLV_III"
+                ],
+                [
+                    {
+                        "entity id": "Q221654",
+                        "label": "Polar Satellite Launch Vehicle"
+                    },
+                    {
+                        "entity id": "Q1360911",
+                        "label": "GSLV Mark III"
+                    },
+                    {
+                        "entity id": "Q1360911",
+                        "label": "GSLV Mark III"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "COSMOS International",
+                [
+                    "/wiki/COSMOS_International"
+                ],
+                [
+                    {
+                        "entity id": "Q5013515",
+                        "label": "COSMOS International"
+                    }
+                ]
+            ],
+            [
+                "Russia / Germany",
+                [
+                    "/wiki/Russia",
+                    "/wiki/Germany"
+                ],
+                [
+                    {
+                        "entity id": "Q159",
+                        "label": "Russia"
+                    },
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    }
+                ]
+            ],
+            [
+                "commercialises the Kosmos-3M launcher",
+                [
+                    "/wiki/Kosmos-3M"
+                ],
+                [
+                    {
+                        "entity id": "Q4235084",
+                        "label": "Kosmos-3M"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Eurockot Launch Services",
+                [
+                    "/wiki/Eurockot_Launch_Services"
+                ],
+                [
+                    {
+                        "entity id": "Q3060593",
+                        "label": "Eurockot Launch Services"
+                    }
+                ]
+            ],
+            [
+                "Europe ( Germany / France / United Kingdom / Spain / Netherlands / Russia )",
+                [
+                    "/wiki/Europe",
+                    "/wiki/Germany",
+                    "/wiki/France",
+                    "/wiki/United_Kingdom",
+                    "/wiki/Spain",
+                    "/wiki/Netherlands",
+                    "/wiki/Russia"
+                ],
+                [
+                    {
+                        "entity id": "Q46",
+                        "label": "Europe"
+                    },
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    },
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    },
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    },
+                    {
+                        "entity id": "Q29",
+                        "label": "Spain"
+                    },
+                    {
+                        "entity id": "Q55",
+                        "label": "Netherlands"
+                    },
+                    {
+                        "entity id": "Q159",
+                        "label": "Russia"
+                    }
+                ]
+            ],
+            [
+                "owned by EADS Astrium",
+                [
+                    "/wiki/EADS_Astrium"
+                ],
+                [
+                    {
+                        "entity id": "Q205622",
+                        "label": "Space Systems"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "International Launch Services",
+                [
+                    "/wiki/International_Launch_Services"
+                ],
+                [
+                    {
+                        "entity id": "Q1560819",
+                        "label": "International Launch Services"
+                    }
+                ]
+            ],
+            [
+                "United States Russia",
+                [
+                    "/wiki/United_States",
+                    "/wiki/Russia"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    },
+                    {
+                        "entity id": "Q159",
+                        "label": "Russia"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Iranian Space Agency",
+                [
+                    "/wiki/Iranian_Space_Agency"
+                ],
+                [
+                    {
+                        "entity id": "Q572596",
+                        "label": "Iranian Space Agency"
+                    }
+                ]
+            ],
+            [
+                "Iran",
+                [
+                    "/wiki/Iran"
+                ],
+                [
+                    {
+                        "entity id": "Q794",
+                        "label": "Iran"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "ISC Kosmotras",
+                [
+                    "/wiki/ISC_Kosmotras"
+                ],
+                [
+                    {
+                        "entity id": "Q333760",
+                        "label": "ISC Kosmotras"
+                    }
+                ]
+            ],
+            [
+                "Russia / Ukraine / Kazakhstan",
+                [
+                    "/wiki/Russia",
+                    "/wiki/Ukraine",
+                    "/wiki/Kazakhstan"
+                ],
+                [
+                    {
+                        "entity id": "Q159",
+                        "label": "Russia"
+                    },
+                    {
+                        "entity id": "Q212",
+                        "label": "Ukraine"
+                    },
+                    {
+                        "entity id": "Q232",
+                        "label": "Kazakhstan"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Mitsubishi Heavy Industries",
+                [
+                    "/wiki/Mitsubishi_Heavy_Industries"
+                ],
+                [
+                    {
+                        "entity id": "Q648280",
+                        "label": "Mitsubishi Heavy Industries"
+                    }
+                ]
+            ],
+            [
+                "Japan",
+                [
+                    "/wiki/Japan"
+                ],
+                [
+                    {
+                        "entity id": "Q17",
+                        "label": "Japan"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Orbital ATK",
+                [
+                    "/wiki/Orbital_ATK"
+                ],
+                [
+                    {
+                        "entity id": "Q110870832",
+                        "label": "Orbital ATK"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "manufacturer of Antares , Minotaur and Pegasus",
+                [
+                    "/wiki/Antares_(rocket)",
+                    "/wiki/Minotaur_(rocket)",
+                    "/wiki/Pegasus_(rocket)"
+                ],
+                [
+                    {},
+                    {},
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Rocket Crafters Inc",
+                []
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "manufacturer of Intrepid-1",
+                []
+            ]
+        ],
+        [
+            [
+                "Rocket Lab",
+                [
+                    "/wiki/Rocket_Lab"
+                ],
+                [
+                    {
+                        "entity id": "Q116319",
+                        "label": "Rocket Lab"
+                    }
+                ]
+            ],
+            [
+                "New Zealand / United States",
+                [
+                    "/wiki/New_Zealand",
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q664",
+                        "label": "New Zealand"
+                    },
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "manufacturer of Electron launch vehicle",
+                []
+            ]
+        ],
+        [
+            [
+                "SpaceX",
+                [
+                    "/wiki/SpaceX"
+                ],
+                [
+                    {
+                        "entity id": "Q193701",
+                        "label": "SpaceX"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Falcon 1 , Falcon 9 and Falcon Heavy",
+                [
+                    "/wiki/Falcon_1",
+                    "/wiki/Falcon_9",
+                    "/wiki/Falcon_Heavy"
+                ],
+                [
+                    {
+                        "entity id": "Q648606",
+                        "label": "Falcon 1"
+                    },
+                    {
+                        "entity id": "Q249091",
+                        "label": "Falcon 9"
+                    },
+                    {
+                        "entity id": "Q1093627",
+                        "label": "Falcon Heavy"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Sea Launch",
+                [
+                    "/wiki/Sea_Launch"
+                ],
+                [
+                    {
+                        "entity id": "Q688785",
+                        "label": "Sea Launch"
+                    }
+                ]
+            ],
+            [
+                "United States / Russia / Ukraine / Norway",
+                [
+                    "/wiki/United_States",
+                    "/wiki/Russia",
+                    "/wiki/Ukraine",
+                    "/wiki/Norway"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    },
+                    {
+                        "entity id": "Q159",
+                        "label": "Russia"
+                    },
+                    {
+                        "entity id": "Q212",
+                        "label": "Ukraine"
+                    },
+                    {
+                        "entity id": "Q20",
+                        "label": "Norway"
+                    }
+                ]
+            ],
+            [
+                "provider of Sea Launch and Land Launch service",
+                [
+                    "/wiki/Land_Launch"
+                ],
+                [
+                    {
+                        "entity id": "Q4312276",
+                        "label": "Land Launch"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Makeyev Rocket Design Bureau",
+                [
+                    "/wiki/Makeyev_Rocket_Design_Bureau"
+                ],
+                [
+                    {
+                        "entity id": "Q183207",
+                        "label": "Makeyev Rocket Design Bureau"
+                    }
+                ]
+            ],
+            [
+                "Russia",
+                [
+                    "/wiki/Russia"
+                ],
+                [
+                    {
+                        "entity id": "Q159",
+                        "label": "Russia"
+                    }
+                ]
+            ],
+            [
+                "commercialises the Volna and Shtil ' launchers",
+                [
+                    "/wiki/Volna",
+                    "/wiki/Shtil'"
+                ],
+                [
+                    {
+                        "entity id": "Q312471",
+                        "label": "S-125"
+                    },
+                    {
+                        "entity id": "Q1460216",
+                        "label": "Shtil'"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "NPO Mashinostroyeniya",
+                [
+                    "/wiki/NPO_Mashinostroyeniya"
+                ],
+                [
+                    {
+                        "entity id": "Q1197016",
+                        "label": "Khrunichev State Research and Production Space Center"
+                    }
+                ]
+            ],
+            [
+                "Russia",
+                [
+                    "/wiki/Russia"
+                ],
+                [
+                    {
+                        "entity id": "Q159",
+                        "label": "Russia"
+                    }
+                ]
+            ],
+            [
+                "commercialises the Strela launcher",
+                [
+                    "/wiki/Strela_(rocket)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Starsem",
+                [
+                    "/wiki/Starsem"
+                ],
+                [
+                    {
+                        "entity id": "Q590589",
+                        "label": "Starsem"
+                    }
+                ]
+            ],
+            [
+                "Europe ( Germany / France / United Kingdom / Spain / Netherlands / Italy / Belgium / Switzerland / Sweden / Norway / Denmark / and Russia )",
+                [
+                    "/wiki/Europe",
+                    "/wiki/Germany",
+                    "/wiki/France",
+                    "/wiki/United_Kingdom",
+                    "/wiki/Spain",
+                    "/wiki/Netherlands",
+                    "/wiki/Italy",
+                    "/wiki/Belgium",
+                    "/wiki/Switzerland",
+                    "/wiki/Sweden",
+                    "/wiki/Norway",
+                    "/wiki/Denmark",
+                    "/wiki/Russia"
+                ],
+                [
+                    {
+                        "entity id": "Q46",
+                        "label": "Europe"
+                    },
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    },
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    },
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    },
+                    {
+                        "entity id": "Q29",
+                        "label": "Spain"
+                    },
+                    {
+                        "entity id": "Q55",
+                        "label": "Netherlands"
+                    },
+                    {
+                        "entity id": "Q38",
+                        "label": "Italy"
+                    },
+                    {
+                        "entity id": "Q31",
+                        "label": "Belgium"
+                    },
+                    {
+                        "entity id": "Q39",
+                        "label": "Switzerland"
+                    },
+                    {
+                        "entity id": "Q34",
+                        "label": "Sweden"
+                    },
+                    {
+                        "entity id": "Q20",
+                        "label": "Norway"
+                    },
+                    {
+                        "entity id": "Q35",
+                        "label": "Denmark"
+                    },
+                    {
+                        "entity id": "Q159",
+                        "label": "Russia"
+                    }
+                ]
+            ],
+            [
+                "commercialises the Soyuz launcher",
+                [
+                    "/wiki/Soyuz_(rocket_family)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "The Spaceship Company",
+                [
+                    "/wiki/The_Spaceship_Company"
+                ],
+                [
+                    {
+                        "entity id": "Q7765658",
+                        "label": "The Spaceship Company"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Reusable spaceship launched from the White Knight Aircraft for space tourism and zero-g experimentation",
+                []
+            ]
+        ],
+        [
+            [
+                "TsSKB-Progress",
+                [
+                    "/wiki/TsSKB-Progress"
+                ],
+                [
+                    {
+                        "entity id": "Q136426",
+                        "label": "Progress State Research and Production Rocket Space Center"
+                    }
+                ]
+            ],
+            [
+                "Russia",
+                [
+                    "/wiki/Russia"
+                ],
+                [
+                    {
+                        "entity id": "Q159",
+                        "label": "Russia"
+                    }
+                ]
+            ],
+            [
+                "manufacturer of Soyuz launch vehicle",
+                [
+                    "/wiki/Soyuz_(rocket_family)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "United Launch Alliance",
+                [
+                    "/wiki/United_Launch_Alliance"
+                ],
+                [
+                    {
+                        "entity id": "Q1236833",
+                        "label": "United Launch Alliance"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Launch vehicle manufacturers and providers of third party services",
+    "section_text": "",
+    "uid": "List_of_spacecraft_manufacturers_2",
+    "intro": "During the early years of spaceflight only nation states had the resources to develop and fly spacecraft. Both the U.S. space program and Soviet space program were operated using mainly military pilots as astronauts. During this period, no commercial space launches were available to private operators, and no private organization was able to offer space launches. In the 1980s, the European Space Agency created Arianespace, the world's first commercial space transportation company, and, following the Challenger disaster, the American government deregulated the American space transportation market as well. In the 1990s the Russian government sold their majority stake in RSC Energia to private investors (although it has recently renationalized the Russian space sector in 2013-2014.) These events for the first time allowed private organizations to purchase, develop and offer space launch services; beginning the period of private spaceflight in the late-1980s and early-1990s."
+}

@@ -1,0 +1,710 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Multnomah_County_Library",
+    "title": "Multnomah County Library",
+    "header": [
+        [
+            "Branch",
+            []
+        ],
+        [
+            "Address",
+            []
+        ],
+        [
+            "Neighborhood",
+            []
+        ],
+        [
+            "First branch opened",
+            []
+        ],
+        [
+            "Current branch opened",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Albina Library",
+                [
+                    "/wiki/Albina_Library"
+                ],
+                [
+                    {
+                        "entity id": "Q4712401",
+                        "label": "Albina Library"
+                    }
+                ]
+            ],
+            [
+                "3605 N.E . 15th Avenue",
+                []
+            ],
+            [
+                "Irvington",
+                [
+                    "/wiki/Irvington,_Portland,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q11285830",
+                        "label": "Irvington"
+                    }
+                ]
+            ],
+            [
+                "1906",
+                []
+            ],
+            [
+                "1999",
+                []
+            ]
+        ],
+        [
+            [
+                "Belmont Library",
+                [
+                    "/wiki/Belmont_Library"
+                ],
+                [
+                    {
+                        "entity id": "Q4884388",
+                        "label": "Belmont Library"
+                    }
+                ]
+            ],
+            [
+                "1038 S.E . C\u00e9sar E. Ch\u00e1vez Blvd",
+                []
+            ],
+            [
+                "Sunnyside",
+                [
+                    "/wiki/Sunnyside,_Portland,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q7640856",
+                        "label": "Sunnyside"
+                    }
+                ]
+            ],
+            [
+                "1924",
+                []
+            ],
+            [
+                "1924",
+                []
+            ]
+        ],
+        [
+            [
+                "Capitol Hill Library",
+                [
+                    "/wiki/Capitol_Hill_Library"
+                ],
+                [
+                    {
+                        "entity id": "Q5035892",
+                        "label": "Capitol Hill Library"
+                    }
+                ]
+            ],
+            [
+                "10723 S.W . Capitol Highway",
+                []
+            ],
+            [
+                "W. Portland Park",
+                [
+                    "/wiki/West_Portland_Park,_Portland,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q7986285",
+                        "label": "West Portland Park"
+                    }
+                ]
+            ],
+            [
+                "1972",
+                []
+            ],
+            [
+                "1972",
+                []
+            ]
+        ],
+        [
+            [
+                "Fairview-Columbia Library",
+                [
+                    "/wiki/Fairview-Columbia_Library"
+                ],
+                [
+                    {
+                        "entity id": "Q5430773",
+                        "label": "Fairview-Columbia Library"
+                    }
+                ]
+            ],
+            [
+                "1520 N.E . Village Street",
+                []
+            ],
+            [
+                "Fairview",
+                [
+                    "/wiki/Fairview,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q2682017",
+                        "label": "Fairview"
+                    }
+                ]
+            ],
+            [
+                "2001",
+                []
+            ],
+            [
+                "2001",
+                []
+            ]
+        ],
+        [
+            [
+                "Gregory Heights Library",
+                [
+                    "/wiki/Gregory_Heights_Library"
+                ],
+                [
+                    {
+                        "entity id": "Q63603305",
+                        "label": "Gregory Heights Library"
+                    }
+                ]
+            ],
+            [
+                "7921 N.E . Sandy Boulevard",
+                []
+            ],
+            [
+                "Roseway",
+                [
+                    "/wiki/Roseway,_Portland,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q7368757",
+                        "label": "Roseway"
+                    }
+                ]
+            ],
+            [
+                "1938",
+                []
+            ],
+            [
+                "1966",
+                []
+            ]
+        ],
+        [
+            [
+                "Gresham Library",
+                [
+                    "/wiki/Gresham_Library"
+                ],
+                [
+                    {
+                        "entity id": "Q5607582",
+                        "label": "Gresham Library"
+                    }
+                ]
+            ],
+            [
+                "385 N.W . Miller Avenue",
+                []
+            ],
+            [
+                "Gresham",
+                [
+                    "/wiki/Gresham,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q81844",
+                        "label": "Gresham"
+                    }
+                ]
+            ],
+            [
+                "1903",
+                []
+            ],
+            [
+                "1990",
+                []
+            ]
+        ],
+        [
+            [
+                "Hillsdale Library",
+                [
+                    "/wiki/Hillsdale_Library"
+                ],
+                [
+                    {
+                        "entity id": "Q63603309",
+                        "label": "Hillsdale Library"
+                    }
+                ]
+            ],
+            [
+                "1525 S.W . Sunset Boulevard",
+                []
+            ],
+            [
+                "Hillsdale",
+                [
+                    "/wiki/Hillsdale,_Portland,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q5763767",
+                        "label": "Hillsdale"
+                    }
+                ]
+            ],
+            [
+                "1913",
+                []
+            ],
+            [
+                "2004",
+                []
+            ]
+        ],
+        [
+            [
+                "Holgate Library",
+                [
+                    "/wiki/Holgate_Library"
+                ],
+                [
+                    {
+                        "entity id": "Q5880189",
+                        "label": "Holgate Library"
+                    }
+                ]
+            ],
+            [
+                "7905 S.E . Holgate Blvd",
+                []
+            ],
+            [
+                "Foster-Powell",
+                [
+                    "/wiki/Foster-Powell,_Portland,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q5473613",
+                        "label": "Foster-Powell"
+                    }
+                ]
+            ],
+            [
+                "1911",
+                []
+            ],
+            [
+                "1971",
+                []
+            ]
+        ],
+        [
+            [
+                "Hollywood Library",
+                [
+                    "/wiki/Hollywood_Library"
+                ],
+                [
+                    {
+                        "entity id": "Q63603314",
+                        "label": "Hollywood Library"
+                    }
+                ]
+            ],
+            [
+                "4040 N.E . Tillamook Street",
+                []
+            ],
+            [
+                "Hollywood",
+                [
+                    "/wiki/Hollywood,_Portland,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q5882686",
+                        "label": "Hollywood District"
+                    }
+                ]
+            ],
+            [
+                "1917",
+                []
+            ],
+            [
+                "2002",
+                []
+            ]
+        ],
+        [
+            [
+                "Kenton Library",
+                [
+                    "/wiki/Kenton_Library"
+                ],
+                [
+                    {
+                        "entity id": "Q6392090",
+                        "label": "Kenton Library"
+                    }
+                ]
+            ],
+            [
+                "8226 N. Denver Avenue",
+                []
+            ],
+            [
+                "Kenton",
+                [
+                    "/wiki/Kenton,_Portland,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q6392067",
+                        "label": "Kenton"
+                    }
+                ]
+            ],
+            [
+                "1903",
+                []
+            ],
+            [
+                "2010",
+                []
+            ]
+        ],
+        [
+            [
+                "Midland Library",
+                [
+                    "/wiki/Midland_Library"
+                ],
+                [
+                    {
+                        "entity id": "Q6842366",
+                        "label": "Midland Library"
+                    }
+                ]
+            ],
+            [
+                "805 S.E . 122nd Avenue",
+                []
+            ],
+            [
+                "Hazelwood",
+                [
+                    "/wiki/Hazelwood,_Portland,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q5688154",
+                        "label": "Hazelwood"
+                    }
+                ]
+            ],
+            [
+                "1958",
+                []
+            ],
+            [
+                "1996",
+                []
+            ]
+        ],
+        [
+            [
+                "North Portland Library",
+                [
+                    "/wiki/North_Portland_Library"
+                ],
+                [
+                    {
+                        "entity id": "Q7056407",
+                        "label": "North Portland Library"
+                    }
+                ]
+            ],
+            [
+                "512 N. Killingsworth Street",
+                []
+            ],
+            [
+                "Humboldt",
+                [
+                    "/wiki/Humboldt,_Portland,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q5940233",
+                        "label": "Humboldt"
+                    }
+                ]
+            ],
+            [
+                "1909",
+                []
+            ],
+            [
+                "1913",
+                []
+            ]
+        ],
+        [
+            [
+                "Northwest Library",
+                [
+                    "/wiki/Northwest_Library"
+                ],
+                [
+                    {
+                        "entity id": "Q7060105",
+                        "label": "Northwest Library"
+                    }
+                ]
+            ],
+            [
+                "2300 NW Thurman Street",
+                []
+            ],
+            [
+                "Northwest",
+                [
+                    "/wiki/Northwest,_Portland,_Oregon"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "2001",
+                []
+            ],
+            [
+                "2001",
+                []
+            ]
+        ],
+        [
+            [
+                "Rockwood Library",
+                [
+                    "/wiki/Rockwood_Library"
+                ],
+                [
+                    {
+                        "entity id": "Q7355705",
+                        "label": "Rockwood Library"
+                    }
+                ]
+            ],
+            [
+                "17917 S.E . Stark Street",
+                []
+            ],
+            [
+                "Rockwood",
+                [
+                    "/wiki/Rockwood,_Gresham,_Oregon"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1963",
+                []
+            ],
+            [
+                "1963",
+                []
+            ]
+        ],
+        [
+            [
+                "Sellwood-Moreland Library",
+                [
+                    "/wiki/Sellwood-Moreland_Library"
+                ],
+                [
+                    {
+                        "entity id": "Q7448686",
+                        "label": "Sellwood-Moreland Library"
+                    }
+                ]
+            ],
+            [
+                "7860 S.E . 13th Avenue",
+                []
+            ],
+            [
+                "Sellwood",
+                [
+                    "/wiki/Sellwood,_Portland,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q12068682",
+                        "label": "Sellwood"
+                    }
+                ]
+            ],
+            [
+                "1905",
+                []
+            ],
+            [
+                "2002",
+                []
+            ]
+        ],
+        [
+            [
+                "St. Johns Library",
+                [
+                    "/wiki/St._Johns_Library"
+                ],
+                [
+                    {
+                        "entity id": "Q63603331",
+                        "label": "St. Johns Library"
+                    }
+                ]
+            ],
+            [
+                "7510 N. Charleston Avenue",
+                []
+            ],
+            [
+                "St. Johns",
+                [
+                    "/wiki/St._Johns,_Portland,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q7589002",
+                        "label": "St. Johns"
+                    }
+                ]
+            ],
+            [
+                "1913",
+                []
+            ],
+            [
+                "1913",
+                []
+            ]
+        ],
+        [
+            [
+                "Troutdale Library",
+                [
+                    "/wiki/Troutdale_Library"
+                ],
+                [
+                    {
+                        "entity id": "Q7846639",
+                        "label": "Troutdale Library"
+                    }
+                ]
+            ],
+            [
+                "2451 S.W . Cherry Park Road",
+                []
+            ],
+            [
+                "Troutdale",
+                [
+                    "/wiki/Troutdale,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q426942",
+                        "label": "Troutdale"
+                    }
+                ]
+            ],
+            [
+                "2010",
+                []
+            ],
+            [
+                "2010",
+                []
+            ]
+        ],
+        [
+            [
+                "Woodstock Library",
+                [
+                    "/wiki/Woodstock_Library"
+                ],
+                [
+                    {
+                        "entity id": "Q8033438",
+                        "label": "Woodstock Library"
+                    }
+                ]
+            ],
+            [
+                "6008 SE 49th Avenue",
+                []
+            ],
+            [
+                "Woodstock",
+                [
+                    "/wiki/Woodstock,_Portland,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q8033394",
+                        "label": "Woodstock"
+                    }
+                ]
+            ],
+            [
+                "1917",
+                []
+            ],
+            [
+                "2000",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Branches -- Other branches",
+    "section_text": "Midland is the largest of the branch locations with a total of 25,000 square feet ( 2,300 m2 ) followed by the Gresham location with 20,000 square feet ( 1,900 m2 ) . [ 1 ] The St. Johns and North Portland branches are both Carnegie libraries . ( There were also five Carnegie libraries no longer part of the system : Albina ( old ) , Arleta , East Portland , the old Gresham Library , and South Portland ) . [ 11 ]",
+    "uid": "Multnomah_County_Library_0",
+    "intro": "Multnomah County Library is the public library system serving Portland and Multnomah County, Oregon, United States. A continuation of the Library Association of Portland, established in 1864, the system now has 19 branches offering books, magazines, DVDs, and computers. It is the largest library system in Oregon, serving a population of 724,680, with more than 425,000 registered borrowers. According to the Public Library Association, it ranks second among U.S. libraries, based on circulation of books and materials, and ranks first among libraries serving fewer than one million residents. In this respect, it is the busiest in the nation."
+}

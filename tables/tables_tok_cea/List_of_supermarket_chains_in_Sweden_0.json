@@ -1,0 +1,507 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_supermarket_chains_in_Sweden",
+    "title": "List of supermarket chains in Sweden",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Stores",
+            []
+        ],
+        [
+            "Type of stores",
+            []
+        ],
+        [
+            "Parent",
+            [
+                "/wiki/Holding_company"
+            ],
+            [
+                {
+                    "entity id": "Q219577",
+                    "label": "holding company"
+                }
+            ]
+        ]
+    ],
+    "data": [
+        [
+            [
+                "7-Eleven",
+                [
+                    "/wiki/7-Eleven"
+                ],
+                [
+                    {
+                        "entity id": "Q259340",
+                        "label": "7-Eleven"
+                    }
+                ]
+            ],
+            [
+                "189",
+                []
+            ],
+            [
+                "convenience",
+                []
+            ],
+            [
+                "Reitangruppen AS",
+                [
+                    "/wiki/Reitan_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q3357065",
+                        "label": "Reitan AS"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "City Gross",
+                []
+            ],
+            [
+                "40",
+                []
+            ],
+            [
+                "hypermarket",
+                []
+            ],
+            [
+                "Bergendahls",
+                []
+            ]
+        ],
+        [
+            [
+                "Coop",
+                []
+            ],
+            [
+                "665",
+                []
+            ],
+            [
+                "Hypermarket/Supermarket",
+                []
+            ],
+            [
+                "Kooperativa F\u00f6rbundet",
+                [
+                    "/wiki/Kooperativa_F\u00f6rbundet"
+                ],
+                [
+                    {
+                        "entity id": "Q10547910",
+                        "label": "Kooperativa f\u00f6rbundets arkitektkontor"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Eko",
+                []
+            ],
+            [
+                "5",
+                []
+            ],
+            [
+                "Supermarket",
+                []
+            ],
+            [
+                "Bergendahls",
+                []
+            ]
+        ],
+        [
+            [
+                "Handlar ' n",
+                []
+            ],
+            [
+                "217",
+                []
+            ],
+            [
+                "Supermarket",
+                []
+            ],
+            [
+                "Axfood",
+                [
+                    "/wiki/Axfood"
+                ],
+                [
+                    {
+                        "entity id": "Q792486",
+                        "label": "Axfood"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Hemk\u00f6p",
+                []
+            ],
+            [
+                "187",
+                []
+            ],
+            [
+                "Hypermarket",
+                []
+            ],
+            [
+                "Axfood",
+                [
+                    "/wiki/Axfood"
+                ],
+                [
+                    {
+                        "entity id": "Q792486",
+                        "label": "Axfood"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ICA N\u00e4ra",
+                [
+                    "/wiki/ICA_(supermarket)"
+                ],
+                [
+                    {
+                        "entity id": "Q1663776",
+                        "label": "ICA AB"
+                    }
+                ]
+            ],
+            [
+                "649",
+                []
+            ],
+            [
+                "convenience",
+                []
+            ],
+            [
+                "ICA AB",
+                [
+                    "/wiki/ICA_AB"
+                ],
+                [
+                    {
+                        "entity id": "Q1663776",
+                        "label": "ICA AB"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ICA Supermarket",
+                [
+                    "/wiki/ICA_(supermarket)"
+                ],
+                [
+                    {
+                        "entity id": "Q1663776",
+                        "label": "ICA AB"
+                    }
+                ]
+            ],
+            [
+                "429",
+                []
+            ],
+            [
+                "supermarket",
+                []
+            ],
+            [
+                "ICA AB",
+                [
+                    "/wiki/ICA_AB"
+                ],
+                [
+                    {
+                        "entity id": "Q1663776",
+                        "label": "ICA AB"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ICA Kvantum",
+                [
+                    "/wiki/ICA_(supermarket)"
+                ],
+                [
+                    {
+                        "entity id": "Q1663776",
+                        "label": "ICA AB"
+                    }
+                ]
+            ],
+            [
+                "126",
+                []
+            ],
+            [
+                "Hypermarket/supermarket",
+                []
+            ],
+            [
+                "ICA AB",
+                [
+                    "/wiki/ICA_AB"
+                ],
+                [
+                    {
+                        "entity id": "Q1663776",
+                        "label": "ICA AB"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ICA MAXI Stormarknad",
+                [
+                    "/wiki/ICA_(supermarket)"
+                ],
+                [
+                    {
+                        "entity id": "Q1663776",
+                        "label": "ICA AB"
+                    }
+                ]
+            ],
+            [
+                "82",
+                []
+            ],
+            [
+                "hypermarket",
+                []
+            ],
+            [
+                "ICA AB",
+                [
+                    "/wiki/ICA_AB"
+                ],
+                [
+                    {
+                        "entity id": "Q1663776",
+                        "label": "ICA AB"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Lidl",
+                [
+                    "/wiki/Lidl"
+                ],
+                [
+                    {
+                        "entity id": "Q151954",
+                        "label": "Lidl"
+                    }
+                ]
+            ],
+            [
+                "170",
+                []
+            ],
+            [
+                "discount",
+                []
+            ],
+            [
+                "Lidl",
+                [
+                    "/wiki/Lidl"
+                ],
+                [
+                    {
+                        "entity id": "Q151954",
+                        "label": "Lidl"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mat\u00f6ppet",
+                []
+            ],
+            [
+                "50",
+                []
+            ],
+            [
+                "convenience",
+                []
+            ],
+            [
+                "Bergendahls",
+                []
+            ]
+        ],
+        [
+            [
+                "Matrebellerna",
+                []
+            ],
+            [
+                "70",
+                []
+            ],
+            [
+                "convenience",
+                []
+            ],
+            [
+                "Bergendahls",
+                []
+            ]
+        ],
+        [
+            [
+                "Netto",
+                [
+                    "/wiki/Netto_(store)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "159",
+                []
+            ],
+            [
+                "discount",
+                []
+            ],
+            [
+                "Salling Group",
+                [
+                    "/wiki/Salling_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q492820",
+                        "label": "Salling Group"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Pressbyr\u00e5n",
+                [
+                    "/wiki/Pressbyr\u00e5n"
+                ],
+                [
+                    {
+                        "entity id": "Q2489072",
+                        "label": "Pressbyr\u00e5n"
+                    }
+                ]
+            ],
+            [
+                "311",
+                []
+            ],
+            [
+                "convenience",
+                []
+            ],
+            [
+                "Reitan Group",
+                [
+                    "/wiki/Reitan_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q3357065",
+                        "label": "Reitan AS"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Tempo",
+                []
+            ],
+            [
+                "136",
+                []
+            ],
+            [
+                "discount",
+                []
+            ],
+            [
+                "Axfood",
+                [
+                    "/wiki/Axfood"
+                ],
+                [
+                    {
+                        "entity id": "Q792486",
+                        "label": "Axfood"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Willys",
+                []
+            ],
+            [
+                "200",
+                []
+            ],
+            [
+                "discount",
+                []
+            ],
+            [
+                "Axfood",
+                [
+                    "/wiki/Axfood"
+                ],
+                [
+                    {
+                        "entity id": "Q792486",
+                        "label": "Axfood"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "",
+    "section_text": "This is a list of supermarket chains in Sweden .",
+    "uid": "List_of_supermarket_chains_in_Sweden_0",
+    "intro": "This is a list of supermarket chains in Sweden."
+}

@@ -1,0 +1,681 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Open_top_buses_in_the_United_Kingdom",
+    "title": "Open top buses in the United Kingdom",
+    "header": [
+        [
+            "County",
+            []
+        ],
+        [
+            "Operator",
+            []
+        ],
+        [
+            "Route",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Cornwall",
+                [
+                    "/wiki/Cornwall"
+                ],
+                [
+                    {
+                        "entity id": "Q23148",
+                        "label": "Cornwall"
+                    }
+                ]
+            ],
+            [
+                "First South West",
+                [
+                    "/wiki/First_South_West"
+                ],
+                [
+                    {
+                        "entity id": "Q5454172",
+                        "label": "First South West"
+                    }
+                ]
+            ],
+            [
+                "300 300 : Penzance - Newlyn - Land 's End - St Just - St Ives - Marazion - Penzance",
+                [
+                    "/wiki/Penzance",
+                    "/wiki/Newlyn",
+                    "/wiki/Land's_End",
+                    "/wiki/St_Just_in_Penwith",
+                    "/wiki/St_Ives,_Cornwall",
+                    "/wiki/Marazion"
+                ],
+                [
+                    {
+                        "entity id": "Q208209",
+                        "label": "Penzance"
+                    },
+                    {
+                        "entity id": "Q13443285",
+                        "label": "Newlyn"
+                    },
+                    {
+                        "entity id": "Q169532",
+                        "label": "Land's End"
+                    },
+                    {
+                        "entity id": "Q941861",
+                        "label": "St Just"
+                    },
+                    {
+                        "entity id": "Q724182",
+                        "label": "St Ives"
+                    },
+                    {
+                        "entity id": "Q1892416",
+                        "label": "Marazion"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Cumbria",
+                [
+                    "/wiki/Cumbria"
+                ],
+                [
+                    {
+                        "entity id": "Q23066",
+                        "label": "Cumbria"
+                    }
+                ]
+            ],
+            [
+                "Stagecoach Cumbria & North Lancashire",
+                [
+                    "/wiki/Stagecoach_Cumbria_&_North_Lancashire"
+                ],
+                [
+                    {
+                        "entity id": "Q7596840",
+                        "label": "Stagecoach Cumbria & North Lancashire"
+                    }
+                ]
+            ],
+            [
+                "078 78 : Keswick - Borrowdale - Seatoller",
+                [
+                    "/wiki/Keswick,_Cumbria"
+                ],
+                [
+                    {
+                        "entity id": "Q1025076",
+                        "label": "Keswick"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Cumbria",
+                [
+                    "/wiki/Cumbria"
+                ],
+                [
+                    {
+                        "entity id": "Q23066",
+                        "label": "Cumbria"
+                    }
+                ]
+            ],
+            [
+                "Stagecoach Cumbria & North Lancashire",
+                [
+                    "/wiki/Stagecoach_Cumbria_&_North_Lancashire"
+                ],
+                [
+                    {
+                        "entity id": "Q7596840",
+                        "label": "Stagecoach Cumbria & North Lancashire"
+                    }
+                ]
+            ],
+            [
+                "508 508 : Penrith - Ullswater",
+                [
+                    "/wiki/Penrith,_Cumbria",
+                    "/wiki/Ullswater"
+                ],
+                [
+                    {
+                        "entity id": "Q798906",
+                        "label": "Penrith"
+                    },
+                    {
+                        "entity id": "Q1973568",
+                        "label": "Ullswater"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Cumbria",
+                [
+                    "/wiki/Cumbria"
+                ],
+                [
+                    {
+                        "entity id": "Q23066",
+                        "label": "Cumbria"
+                    }
+                ]
+            ],
+            [
+                "Stagecoach Cumbria & North Lancashire",
+                [
+                    "/wiki/Stagecoach_Cumbria_&_North_Lancashire"
+                ],
+                [
+                    {
+                        "entity id": "Q7596840",
+                        "label": "Stagecoach Cumbria & North Lancashire"
+                    }
+                ]
+            ],
+            [
+                "599 599 : Bowness - Windermere - Ambleside - Grasmere",
+                [
+                    "/wiki/Bowness-on-Windmere",
+                    "/wiki/Windermere",
+                    "/wiki/Ambleside",
+                    "/wiki/Grasmere_(village)"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q119936",
+                        "label": "Windermere"
+                    },
+                    {
+                        "entity id": "Q391805",
+                        "label": "Ambleside"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Devon",
+                []
+            ],
+            [
+                "Stagecoach Devon",
+                [
+                    "/wiki/Stagecoach_Devon"
+                ],
+                [
+                    {
+                        "entity id": "Q7596866",
+                        "label": "Stagecoach South West"
+                    }
+                ]
+            ],
+            [
+                "122 122 : Babbacombe - Paignton Zoo",
+                []
+            ]
+        ],
+        [
+            [
+                "Devon",
+                []
+            ],
+            [
+                "Stagecoach Devon",
+                [
+                    "/wiki/Stagecoach_Devon"
+                ],
+                [
+                    {
+                        "entity id": "Q7596866",
+                        "label": "Stagecoach South West"
+                    }
+                ]
+            ],
+            [
+                "095 95 : Exmouth - Sandy Bay",
+                [
+                    "/wiki/Exmouth"
+                ],
+                [
+                    {
+                        "entity id": "Q1007093",
+                        "label": "Exmouth"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Devon",
+                []
+            ],
+            [
+                "Dart Pleasure Craft",
+                [
+                    "/wiki/Dart_Pleasure_Craft_Limited"
+                ],
+                [
+                    {
+                        "entity id": "Q5225583",
+                        "label": "Dart Pleasure Craft Limited"
+                    }
+                ]
+            ],
+            [
+                "100 100 : Paignton - Totnes",
+                [
+                    "/wiki/Paignton",
+                    "/wiki/Totnes"
+                ],
+                [
+                    {
+                        "entity id": "Q776662",
+                        "label": "Paignton"
+                    },
+                    {
+                        "entity id": "Q1007106",
+                        "label": "Totnes"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dorset",
+                []
+            ],
+            [
+                "Wilts & Dorset",
+                [
+                    "/wiki/Wilts_&_Dorset"
+                ],
+                [
+                    {
+                        "entity id": "Q8023413",
+                        "label": "Wilts & Dorset"
+                    }
+                ]
+            ],
+            [
+                "050 50 Purbeck Breezer : Bournemouth - Poole - Swanage via Sandbanks chain ferry",
+                [
+                    "/wiki/Bournemouth",
+                    "/wiki/Poole",
+                    "/wiki/Swanage",
+                    "/wiki/Sandbanks",
+                    "/wiki/Chain_ferry"
+                ],
+                [
+                    {
+                        "entity id": "Q170478",
+                        "label": "Bournemouth"
+                    },
+                    {
+                        "entity id": "Q203349",
+                        "label": "Poole"
+                    },
+                    {
+                        "entity id": "Q1009298",
+                        "label": "Swanage"
+                    },
+                    {
+                        "entity id": "Q7416017",
+                        "label": "Sandbanks"
+                    },
+                    {
+                        "entity id": "Q1287097",
+                        "label": "cable ferry"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dorset",
+                []
+            ],
+            [
+                "First Hampshire & Dorset",
+                [
+                    "/wiki/First_Hampshire_&_Dorset"
+                ],
+                [
+                    {
+                        "entity id": "Q5453067",
+                        "label": "First Hampshire & Dorset"
+                    }
+                ]
+            ],
+            [
+                "050 501 Weymouth - Portland Bill",
+                [
+                    "/wiki/Weymouth,_Dorset",
+                    "/wiki/Portland_Bill"
+                ],
+                [
+                    {
+                        "entity id": "Q661619",
+                        "label": "Weymouth"
+                    },
+                    {
+                        "entity id": "Q1309953",
+                        "label": "Portland Bill"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "East Sussex",
+                [
+                    "/wiki/East_Sussex"
+                ],
+                [
+                    {
+                        "entity id": "Q23293",
+                        "label": "East Sussex"
+                    }
+                ]
+            ],
+            [
+                "Brighton & Hove",
+                [
+                    "/wiki/Brighton_&_Hove_(bus_company)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "077 77 : Brighton Pier - Devil 's Dyke 78 : Brighton Old Steine - Stanmer Park 79 : Brighton Old Steine - Ditchling Beacon",
+                []
+            ]
+        ],
+        [
+            [
+                "Isle of Wight",
+                [
+                    "/wiki/Isle_of_Wight"
+                ],
+                [
+                    {
+                        "entity id": "Q9679",
+                        "label": "Isle of Wight"
+                    }
+                ]
+            ],
+            [
+                "Southern Vectis",
+                [
+                    "/wiki/Southern_Vectis"
+                ],
+                [
+                    {
+                        "entity id": "Q4049829",
+                        "label": "Southern Vectis"
+                    }
+                ]
+            ],
+            [
+                "Downs Breezer : Ryde - Wootton railway station - The Downs - Ryde Needles Breezer : Yarmouth - The Needles Sandown Bay Breezer : Shanklin - Sandown - Isle of Wight Zoo",
+                [
+                    "/wiki/Ryde",
+                    "/wiki/Wootton_railway_station",
+                    "/wiki/Yarmouth,_Isle_of_Wight",
+                    "/wiki/The_Needles",
+                    "/wiki/Shanklin",
+                    "/wiki/Sandown"
+                ],
+                [
+                    {
+                        "entity id": "Q776556",
+                        "label": "Ryde"
+                    },
+                    {
+                        "entity id": "Q8034101",
+                        "label": "Wootton railway station"
+                    },
+                    {
+                        "entity id": "Q921984",
+                        "label": "Yarmouth"
+                    },
+                    {
+                        "entity id": "Q2281259",
+                        "label": "The Needles"
+                    },
+                    {
+                        "entity id": "Q588146",
+                        "label": "Shanklin"
+                    },
+                    {
+                        "entity id": "Q516605",
+                        "label": "Sandown"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Lincolnshire",
+                [
+                    "/wiki/Lincolnshire"
+                ],
+                [
+                    {
+                        "entity id": "Q23090",
+                        "label": "Lincolnshire"
+                    }
+                ]
+            ],
+            [
+                "Stagecoach Lincolnshire",
+                [
+                    "/wiki/Stagecoach_Lincolnshire"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "020 3 : Skegness - Fantasy Island - Anchor Lane",
+                [
+                    "/wiki/Skegness",
+                    "/wiki/Fantasy_Island"
+                ],
+                [
+                    {
+                        "entity id": "Q977991",
+                        "label": "Skegness"
+                    },
+                    {
+                        "entity id": "Q60737563",
+                        "label": "Fantasy Island"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "North Yorkshire",
+                [
+                    "/wiki/North_Yorkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q23086",
+                        "label": "North Yorkshire"
+                    }
+                ]
+            ],
+            [
+                "East Yorkshire Motor Services",
+                [
+                    "/wiki/East_Yorkshire_Motor_Services"
+                ],
+                [
+                    {
+                        "entity id": "Q5329729",
+                        "label": "East Yorkshire"
+                    }
+                ]
+            ],
+            [
+                "108 108 : Scarborough - Bowls Centre 109 : Scarborough North Bay - Spa",
+                [
+                    "/wiki/Scarborough,_North_Yorkshire",
+                    "/wiki/Scarborough,_North_Yorkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q743521",
+                        "label": "Scarborough"
+                    },
+                    {
+                        "entity id": "Q743521",
+                        "label": "Scarborough"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "North Yorkshire",
+                []
+            ],
+            [
+                "Shorelineline Suncruisers",
+                []
+            ],
+            [
+                "109 109 : Scarborough North Bay - South Bay",
+                []
+            ]
+        ],
+        [
+            [
+                "Somerset",
+                []
+            ],
+            [
+                "First West of England",
+                [
+                    "/wiki/First_West_of_England"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "020 1 : Weston-super-Mare - Grand Pier - Sand Bay 20 : Weston-super-Mare - Brean - Burnham-on-Sea",
+                [
+                    "/wiki/Weston-super-Mare",
+                    "/wiki/Brean",
+                    "/wiki/Burnham-on-Sea"
+                ],
+                [
+                    {
+                        "entity id": "Q845623",
+                        "label": "Weston-super-Mare"
+                    },
+                    {
+                        "entity id": "Q2493899",
+                        "label": "Brean"
+                    },
+                    {
+                        "entity id": "Q1247822",
+                        "label": "Burnham-on-Sea"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Wales",
+                []
+            ],
+            [
+                "Arriva Buses Wales",
+                [
+                    "/wiki/Arriva_Buses_Wales"
+                ],
+                [
+                    {
+                        "entity id": "Q4796005",
+                        "label": "Arriva Buses Wales"
+                    }
+                ]
+            ],
+            [
+                "001 1 : Llandudno - Conwy",
+                [
+                    "/wiki/Llandudno",
+                    "/wiki/Conwy"
+                ],
+                [
+                    {
+                        "entity id": "Q996492",
+                        "label": "Llandudno"
+                    },
+                    {
+                        "entity id": "Q817971",
+                        "label": "Conwy County Borough"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Wales",
+                []
+            ],
+            [
+                "First Cymru",
+                [
+                    "/wiki/First_Cymru"
+                ],
+                [
+                    {
+                        "entity id": "Q5452894",
+                        "label": "First Cymru"
+                    }
+                ]
+            ],
+            [
+                "001 1 : Swansea City Centre - Limeslade Bay",
+                [
+                    "/wiki/Swansea_City_Centre",
+                    "/wiki/Limeslade_Bay"
+                ],
+                [
+                    {
+                        "entity id": "Q7653672",
+                        "label": "Swansea city centre"
+                    },
+                    {
+                        "entity id": "Q6549301",
+                        "label": "Limeslade Bay"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Services -- Stage carriage services",
+    "section_text": "Cornwall route 300 bus at St Ives bus station which overlooks the beaches and harbour Stage carriage services are operated to a published timetable . The operator 's standard ticketing arrangements apply , including the use of day or season tickets if appropriate . Some of the services listed here also have some of the characteristics of the open top tours listed below , such as circular routes or publicity that describes the route for tourists . They would not normally carry guides or have recorded commentaries . Some of the routes listed operate all year round , but not necessarily with open top buses . Some services have a mixture of open and closed buses . Many of the routes only operate during the warmer months of the year .",
+    "uid": "Open_top_buses_in_the_United_Kingdom_0",
+    "intro": "Open top buses are used in the United Kingdom for sightseeing and seasonal summer services."
+}

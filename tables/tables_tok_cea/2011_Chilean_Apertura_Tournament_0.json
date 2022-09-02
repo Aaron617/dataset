@@ -1,0 +1,784 @@
+{
+    "url": "https://en.wikipedia.org/wiki/2011_Torneo_Apertura_(Chile)",
+    "title": "2011 Torneo Apertura (Chile)",
+    "header": [
+        [
+            "Team",
+            []
+        ],
+        [
+            "Home city",
+            []
+        ],
+        [
+            "Stadium",
+            []
+        ],
+        [
+            "Capacity",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Audax Italiano",
+                [
+                    "/wiki/Audax_Italiano"
+                ],
+                [
+                    {
+                        "entity id": "Q758689",
+                        "label": "Audax Italiano"
+                    }
+                ]
+            ],
+            [
+                "Santiago",
+                [
+                    "/wiki/Santiago,_Chile"
+                ],
+                [
+                    {
+                        "entity id": "Q2887",
+                        "label": "Santiago"
+                    }
+                ]
+            ],
+            [
+                "Bicentenario de La Florida",
+                [
+                    "/wiki/Estadio_Bicentenario_de_La_Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q683245",
+                        "label": "Estadio Bicentenario de La Florida"
+                    }
+                ]
+            ],
+            [
+                "12,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Cobreloa",
+                [
+                    "/wiki/Cobreloa"
+                ],
+                [
+                    {
+                        "entity id": "Q643338",
+                        "label": "Cobreloa"
+                    }
+                ]
+            ],
+            [
+                "Calama",
+                [
+                    "/wiki/Calama,_Chile"
+                ],
+                [
+                    {
+                        "entity id": "Q3685",
+                        "label": "Calama"
+                    }
+                ]
+            ],
+            [
+                "Municipal de Calama",
+                [
+                    "/wiki/Estadio_Municipal_de_Calama"
+                ],
+                [
+                    {
+                        "entity id": "Q682431",
+                        "label": "Estadio Municipal de Calama"
+                    }
+                ]
+            ],
+            [
+                "13,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Cobresal",
+                [
+                    "/wiki/Cobresal"
+                ],
+                [
+                    {
+                        "entity id": "Q642669",
+                        "label": "Cobresal"
+                    }
+                ]
+            ],
+            [
+                "El Salvador",
+                [
+                    "/wiki/El_Salvador,_Chile"
+                ],
+                [
+                    {
+                        "entity id": "Q60355478",
+                        "label": "El Salvador, Chile Porphyry Copper Deposit Revisited: Geologic and Geochronologic Framework"
+                    }
+                ]
+            ],
+            [
+                "Estadio El Cobre",
+                [
+                    "/wiki/Estadio_El_Cobre"
+                ],
+                [
+                    {
+                        "entity id": "Q793766",
+                        "label": "Estadio El Cobre"
+                    }
+                ]
+            ],
+            [
+                "15,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Colo-Colo",
+                [
+                    "/wiki/Colo-Colo"
+                ],
+                [
+                    {
+                        "entity id": "Q97308184",
+                        "label": "Colo-colo"
+                    }
+                ]
+            ],
+            [
+                "Santiago",
+                [
+                    "/wiki/Santiago,_Chile"
+                ],
+                [
+                    {
+                        "entity id": "Q2887",
+                        "label": "Santiago"
+                    }
+                ]
+            ],
+            [
+                "Estadio Monumental",
+                [
+                    "/wiki/Estadio_Monumental_David_Arellano"
+                ],
+                [
+                    {
+                        "entity id": "Q1369435",
+                        "label": "Estadio Monumental"
+                    }
+                ]
+            ],
+            [
+                "47,017",
+                []
+            ]
+        ],
+        [
+            [
+                "Huachipato",
+                [
+                    "/wiki/CD_Huachipato"
+                ],
+                [
+                    {
+                        "entity id": "Q1023191",
+                        "label": "Club Deportivo Huachipato"
+                    }
+                ]
+            ],
+            [
+                "Talcahuano",
+                [
+                    "/wiki/Talcahuano"
+                ],
+                [
+                    {
+                        "entity id": "Q41997",
+                        "label": "Talcahuano"
+                    }
+                ]
+            ],
+            [
+                "Estadio CAP",
+                [
+                    "/wiki/Estadio_CAP"
+                ],
+                [
+                    {
+                        "entity id": "Q962877",
+                        "label": "Estadio CAP"
+                    }
+                ]
+            ],
+            [
+                "10,500",
+                []
+            ]
+        ],
+        [
+            [
+                "Deportes Iquique",
+                [
+                    "/wiki/Deportes_Iquique"
+                ],
+                [
+                    {
+                        "entity id": "Q642824",
+                        "label": "Deportes Iquique"
+                    }
+                ]
+            ],
+            [
+                "Iquique",
+                [
+                    "/wiki/Iquique"
+                ],
+                [
+                    {
+                        "entity id": "Q14440",
+                        "label": "Iquique"
+                    }
+                ]
+            ],
+            [
+                "Tierra de Campeones",
+                [
+                    "/wiki/Estadio_Tierra_de_Campeones"
+                ],
+                [
+                    {
+                        "entity id": "Q5400510",
+                        "label": "Estadio Tierra de Campeones"
+                    }
+                ]
+            ],
+            [
+                "10,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Deportes La Serena",
+                [
+                    "/wiki/Deportes_La_Serena"
+                ],
+                [
+                    {
+                        "entity id": "Q642098",
+                        "label": "Deportes La Serena"
+                    }
+                ]
+            ],
+            [
+                "La Serena",
+                [
+                    "/wiki/La_Serena,_Chile"
+                ],
+                [
+                    {
+                        "entity id": "Q14467",
+                        "label": "La Serena"
+                    }
+                ]
+            ],
+            [
+                "La Portada",
+                [
+                    "/wiki/Estadio_La_Portada"
+                ],
+                [
+                    {
+                        "entity id": "Q684052",
+                        "label": "Estadio La Portada"
+                    }
+                ]
+            ],
+            [
+                "14,000",
+                []
+            ]
+        ],
+        [
+            [
+                "\u00d1ublense",
+                [
+                    "/wiki/\u00d1ublense"
+                ],
+                [
+                    {
+                        "entity id": "Q2317539",
+                        "label": "Club Deportivo \u00d1ublense"
+                    }
+                ]
+            ],
+            [
+                "Chill\u00e1n",
+                [
+                    "/wiki/Chill\u00e1n"
+                ],
+                [
+                    {
+                        "entity id": "Q3774",
+                        "label": "Chill\u00e1n"
+                    }
+                ]
+            ],
+            [
+                "Municipal Nelson Oyarz\u00fan Arenas",
+                [
+                    "/wiki/Estadio_Nelson_Oyarz\u00fan"
+                ],
+                [
+                    {
+                        "entity id": "Q683232",
+                        "label": "Estadio Municipal Nelson Oyarz\u00fan Arenas"
+                    }
+                ]
+            ],
+            [
+                "12,000",
+                []
+            ]
+        ],
+        [
+            [
+                "O'Higgins",
+                [
+                    "/wiki/O'Higgins_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q719722",
+                        "label": "O'Higgins F.C."
+                    }
+                ]
+            ],
+            [
+                "Rancagua",
+                [
+                    "/wiki/Rancagua"
+                ],
+                [
+                    {
+                        "entity id": "Q4582",
+                        "label": "Rancagua"
+                    }
+                ]
+            ],
+            [
+                "El Teniente de Rancagua",
+                [
+                    "/wiki/Estadio_El_Teniente"
+                ],
+                [
+                    {
+                        "entity id": "Q991407",
+                        "label": "Estadio El Teniente"
+                    }
+                ]
+            ],
+            [
+                "14,450",
+                []
+            ]
+        ],
+        [
+            [
+                "Palestino",
+                [
+                    "/wiki/Palestino"
+                ],
+                [
+                    {
+                        "entity id": "Q719719",
+                        "label": "C.D. Palestino"
+                    }
+                ]
+            ],
+            [
+                "Santiago",
+                [
+                    "/wiki/Santiago,_Chile"
+                ],
+                [
+                    {
+                        "entity id": "Q2887",
+                        "label": "Santiago"
+                    }
+                ]
+            ],
+            [
+                "La Cisterna",
+                [
+                    "/wiki/Estadio_Municipal_de_La_Cisterna"
+                ],
+                [
+                    {
+                        "entity id": "Q685284",
+                        "label": "Estadio Municipal de La Cisterna"
+                    }
+                ]
+            ],
+            [
+                "12,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Santiago Morning",
+                [
+                    "/wiki/Santiago_Morning"
+                ],
+                [
+                    {
+                        "entity id": "Q1023222",
+                        "label": "Santiago Morning"
+                    }
+                ]
+            ],
+            [
+                "Santiago",
+                [
+                    "/wiki/Santiago,_Chile"
+                ],
+                [
+                    {
+                        "entity id": "Q2887",
+                        "label": "Santiago"
+                    }
+                ]
+            ],
+            [
+                "Municipal de La Pintana",
+                [
+                    "/wiki/Estadio_Municipal_de_La_Pintana"
+                ],
+                [
+                    {
+                        "entity id": "Q5400421",
+                        "label": "Estadio Municipal de La Pintana"
+                    }
+                ]
+            ],
+            [
+                "6,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Santiago Wanderers",
+                [
+                    "/wiki/Santiago_Wanderers"
+                ],
+                [
+                    {
+                        "entity id": "Q719338",
+                        "label": "Santiago Wanderers"
+                    }
+                ]
+            ],
+            [
+                "Valpara\u00edso",
+                [
+                    "/wiki/Valpara\u00edso,_Chile"
+                ],
+                [
+                    {
+                        "entity id": "Q33986",
+                        "label": "Valpara\u00edso"
+                    }
+                ]
+            ],
+            [
+                "Regional Chiledeportes",
+                [
+                    "/wiki/Estadio_Regional_Chiledeportes"
+                ],
+                [
+                    {
+                        "entity id": "Q1369589",
+                        "label": "Estadio El\u00edas Figueroa Brander"
+                    }
+                ]
+            ],
+            [
+                "18,500",
+                []
+            ]
+        ],
+        [
+            [
+                "Uni\u00f3n Espa\u00f1ola",
+                [
+                    "/wiki/Uni\u00f3n_Espa\u00f1ola"
+                ],
+                [
+                    {
+                        "entity id": "Q1129059",
+                        "label": "Uni\u00f3n Espa\u00f1ola"
+                    }
+                ]
+            ],
+            [
+                "Santiago",
+                [
+                    "/wiki/Santiago,_Chile"
+                ],
+                [
+                    {
+                        "entity id": "Q2887",
+                        "label": "Santiago"
+                    }
+                ]
+            ],
+            [
+                "Santa Laura",
+                [
+                    "/wiki/Estadio_Santa_Laura"
+                ],
+                [
+                    {
+                        "entity id": "Q788867",
+                        "label": "Estadio Santa Laucha-Universidad SEK"
+                    }
+                ]
+            ],
+            [
+                "22,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Uni\u00f3n San Felipe",
+                [
+                    "/wiki/Uni\u00f3n_San_Felipe"
+                ],
+                [
+                    {
+                        "entity id": "Q572940",
+                        "label": "Uni\u00f3n San Felipe"
+                    }
+                ]
+            ],
+            [
+                "San Felipe",
+                [
+                    "/wiki/San_Felipe,_Chile"
+                ],
+                [
+                    {
+                        "entity id": "Q187802",
+                        "label": "San Felipe"
+                    }
+                ]
+            ],
+            [
+                "Municipal de San Felipe",
+                [
+                    "/wiki/Estadio_Municipal_de_San_Felipe"
+                ],
+                [
+                    {
+                        "entity id": "Q5400424",
+                        "label": "Estadio Municipal de San Felipe"
+                    }
+                ]
+            ],
+            [
+                "10,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Uni\u00f3n La Calera",
+                [
+                    "/wiki/Uni\u00f3n_La_Calera"
+                ],
+                [
+                    {
+                        "entity id": "Q719383",
+                        "label": "Uni\u00f3n La Calera"
+                    }
+                ]
+            ],
+            [
+                "La Calera",
+                [
+                    "/wiki/La_Calera,_Chile"
+                ],
+                [
+                    {
+                        "entity id": "Q3713",
+                        "label": "La Calera"
+                    }
+                ]
+            ],
+            [
+                "Nicol\u00e1s Chahu\u00e1n Nazar",
+                [
+                    "/wiki/Estadio_Municipal_Nicol\u00e1s_Chahu\u00e1n"
+                ],
+                [
+                    {
+                        "entity id": "Q5400398",
+                        "label": "Estadio Municipal Nicol\u00e1s Chahu\u00e1n"
+                    }
+                ]
+            ],
+            [
+                "10,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Universidad Cat\u00f3lica",
+                [
+                    "/wiki/Club_Deportivo_Universidad_Cat\u00f3lica"
+                ],
+                [
+                    {
+                        "entity id": "Q427446",
+                        "label": "Club Deportivo Universidad Cat\u00f3lica"
+                    }
+                ]
+            ],
+            [
+                "Santiago",
+                [
+                    "/wiki/Santiago,_Chile"
+                ],
+                [
+                    {
+                        "entity id": "Q2887",
+                        "label": "Santiago"
+                    }
+                ]
+            ],
+            [
+                "San Carlos de Apoquindo",
+                [
+                    "/wiki/Estadio_San_Carlos_de_Apoquindo"
+                ],
+                [
+                    {
+                        "entity id": "Q1369627",
+                        "label": "Estadio San Carlos de Apoquindo"
+                    }
+                ]
+            ],
+            [
+                "15,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Universidad de Chile",
+                [
+                    "/wiki/Club_Universidad_de_Chile"
+                ],
+                [
+                    {
+                        "entity id": "Q737753",
+                        "label": "Club Universidad de Chile"
+                    }
+                ]
+            ],
+            [
+                "Santiago",
+                [
+                    "/wiki/Santiago,_Chile"
+                ],
+                [
+                    {
+                        "entity id": "Q2887",
+                        "label": "Santiago"
+                    }
+                ]
+            ],
+            [
+                "Estadio Nacional",
+                [
+                    "/wiki/Estadio_Nacional_Julio_Mart\u00ednez_Pr\u00e1danos"
+                ],
+                [
+                    {
+                        "entity id": "Q594994",
+                        "label": "Estadio Nacional Julio Mart\u00ednez Pr\u00e1danos"
+                    }
+                ]
+            ],
+            [
+                "49,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Universidad de Concepci\u00f3n",
+                [
+                    "/wiki/C.D._Universidad_de_Concepci\u00f3n"
+                ],
+                [
+                    {
+                        "entity id": "Q721560",
+                        "label": "C.D. Universidad de Concepci\u00f3n"
+                    }
+                ]
+            ],
+            [
+                "Concepci\u00f3n",
+                [
+                    "/wiki/Concepci\u00f3n,_Chile"
+                ],
+                [
+                    {
+                        "entity id": "Q1880",
+                        "label": "Concepci\u00f3n"
+                    }
+                ]
+            ],
+            [
+                "Municipal de Concepci\u00f3n",
+                [
+                    "/wiki/Estadio_Municipal_de_Concepci\u00f3n"
+                ],
+                [
+                    {
+                        "entity id": "Q683218",
+                        "label": "Estadio Ester Roa Rebolledo"
+                    }
+                ]
+            ],
+            [
+                "29,000",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Teams -- Stadia and locations",
+    "section_text": "CobreloaCobresalHuachipatoDeportes IquiqueDeportes La Serena\u00d1ublenseO'HigginsWanderersUniversidad de Concepci\u00f3nUni\u00f3n La CaleraUni\u00f3n San FelipeSantiagoSantiago teams : Audax ItalianoColo-ColoPalestinoSantiago MorningUni\u00f3n Espa\u00f1olaUniversidad Cat\u00f3licaUniversidad de Chile Locations of the 2011 Torneo Apertura teams",
+    "uid": "2011_Chilean_Apertura_Tournament_0",
+    "intro": "The 2011 Torneo Apertura or LXXXVIII Campeonato Nacional de F\u00fatbol Profesional de la Primera Divisi\u00f3n de Chile was the 88th season of Chilean Primera Divisi\u00f3n. The season started on Friday 28 January with Cat\u00f3lica's 2-0 inaugural match win over Deportes Iquique, and concluded on Sunday 12 June in the tournament final won by Universidad de Chile over the same Universidad Cat\u00f3lica which didn't repeat its title from previous season."
+}

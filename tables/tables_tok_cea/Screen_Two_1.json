@@ -1,0 +1,852 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Screen_Two",
+    "title": "Screen Two",
+    "header": [
+        [
+            "TX Date",
+            []
+        ],
+        [
+            "Title",
+            []
+        ],
+        [
+            "Director",
+            []
+        ],
+        [
+            "Writer",
+            []
+        ],
+        [
+            "Main cast",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "12 January 1986",
+                []
+            ],
+            [
+                "The McGuffin",
+                []
+            ],
+            [
+                "Colin Bucksey",
+                [
+                    "/wiki/Colin_Bucksey"
+                ],
+                [
+                    {
+                        "entity id": "Q5144932",
+                        "label": "Colin Bucksey"
+                    }
+                ]
+            ],
+            [
+                "John Bowen",
+                []
+            ],
+            [
+                "Charles Dance , Mark Rylance , Ann Todd , Anna Massey , Chris Langham , Francis Matthews , Roger Lloyd-Pack , Brian Glover , Jerry Stiller , Stephen Lewis",
+                [
+                    "/wiki/Charles_Dance",
+                    "/wiki/Mark_Rylance",
+                    "/wiki/Ann_Todd",
+                    "/wiki/Anna_Massey",
+                    "/wiki/Chris_Langham",
+                    "/wiki/Francis_Matthews_(actor)",
+                    "/wiki/Roger_Lloyd-Pack",
+                    "/wiki/Brian_Glover",
+                    "/wiki/Jerry_Stiller",
+                    "/wiki/Stephen_Lewis_(actor)"
+                ],
+                [
+                    {
+                        "entity id": "Q309690",
+                        "label": "Charles Dance"
+                    },
+                    {
+                        "entity id": "Q324572",
+                        "label": "Mark Rylance"
+                    },
+                    {
+                        "entity id": "Q434324",
+                        "label": "Ann Todd"
+                    },
+                    {
+                        "entity id": "Q270049",
+                        "label": "Anna Massey"
+                    },
+                    {
+                        "entity id": "Q5107190",
+                        "label": "Chris Langham"
+                    },
+                    {},
+                    {
+                        "entity id": "Q935153",
+                        "label": "Roger Lloyd-Pack"
+                    },
+                    {
+                        "entity id": "Q530676",
+                        "label": "Brian Glover"
+                    },
+                    {
+                        "entity id": "Q316857",
+                        "label": "Jerry Stiller"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "19 January 1986",
+                []
+            ],
+            [
+                "The Silent Twins",
+                []
+            ],
+            [
+                "Jon Amiel",
+                [
+                    "/wiki/Jon_Amiel"
+                ],
+                [
+                    {
+                        "entity id": "Q1702735",
+                        "label": "Jon Amiel"
+                    }
+                ]
+            ],
+            [
+                "Marjorie Wallace",
+                [
+                    "/wiki/Marjorie_Wallace_(SANE)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Tony Robinson , John Savident , Clyde Pollitt",
+                [
+                    "/wiki/Tony_Robinson",
+                    "/wiki/John_Savident"
+                ],
+                [
+                    {
+                        "entity id": "Q2593718",
+                        "label": "Tony Robinson"
+                    },
+                    {
+                        "entity id": "Q6256755",
+                        "label": "John Savident"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "26 January 1986",
+                []
+            ],
+            [
+                "Time After Time",
+                []
+            ],
+            [
+                "Bill Hays",
+                [
+                    "/wiki/Bill_Hays_(director)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Andrew Davies",
+                [
+                    "/wiki/Andrew_Davies_(writer)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "John Gielgud , Googie Withers , Helen Cherry , Brenda Bruce , Freddie Jones , Fiona Walker , George Baker",
+                [
+                    "/wiki/John_Gielgud",
+                    "/wiki/Googie_Withers",
+                    "/wiki/Helen_Cherry",
+                    "/wiki/Brenda_Bruce",
+                    "/wiki/Freddie_Jones",
+                    "/wiki/Fiona_Walker",
+                    "/wiki/George_Baker_(actor)"
+                ],
+                [
+                    {
+                        "entity id": "Q204685",
+                        "label": "John Gielgud"
+                    },
+                    {
+                        "entity id": "Q449070",
+                        "label": "Googie Withers"
+                    },
+                    {
+                        "entity id": "Q966618",
+                        "label": "Helen Cherry"
+                    },
+                    {
+                        "entity id": "Q2924401",
+                        "label": "Brenda Bruce"
+                    },
+                    {
+                        "entity id": "Q195396",
+                        "label": "Freddie Jones"
+                    },
+                    {
+                        "entity id": "Q5451126",
+                        "label": "Fiona Walker"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "2 February 1986",
+                []
+            ],
+            [
+                "Frankie & Johnnie",
+                []
+            ],
+            [
+                "Martin Campbell",
+                [
+                    "/wiki/Martin_Campbell"
+                ],
+                [
+                    {
+                        "entity id": "Q282033",
+                        "label": "Martin Campbell"
+                    }
+                ]
+            ],
+            [
+                "Paula Milne",
+                [
+                    "/wiki/Paula_Milne"
+                ],
+                [
+                    {
+                        "entity id": "Q7154731",
+                        "label": "Paula Milne"
+                    }
+                ]
+            ],
+            [
+                "Hywel Bennett , Diana Hardcastle , Amanda Donohoe , Shelagh Fraser , Norman Jones",
+                [
+                    "/wiki/Hywel_Bennett",
+                    "/wiki/Diana_Hardcastle",
+                    "/wiki/Amanda_Donohoe",
+                    "/wiki/Shelagh_Fraser",
+                    "/wiki/Norman_Jones_(actor)"
+                ],
+                [
+                    {
+                        "entity id": "Q5962726",
+                        "label": "Hywel Bennett"
+                    },
+                    {
+                        "entity id": "Q5271179",
+                        "label": "Diana Hardcastle"
+                    },
+                    {
+                        "entity id": "Q262537",
+                        "label": "Amanda Donohoe"
+                    },
+                    {
+                        "entity id": "Q512456",
+                        "label": "Shelagh Fraser"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "9 February 1986",
+                []
+            ],
+            [
+                "Honest , Decent and True",
+                []
+            ],
+            [
+                "Les Blair",
+                [
+                    "/wiki/Les_Blair"
+                ],
+                [
+                    {
+                        "entity id": "Q3231055",
+                        "label": "Les Blair"
+                    }
+                ]
+            ],
+            [
+                "Les Blair",
+                []
+            ],
+            [
+                "Derrick O'Connor , Adrian Edmondson , Gary Oldman , Richard E. Grant , Arabella Weir , Owen Brenman",
+                [
+                    "/wiki/Derrick_O'Connor",
+                    "/wiki/Adrian_Edmondson",
+                    "/wiki/Gary_Oldman",
+                    "/wiki/Richard_E._Grant",
+                    "/wiki/Arabella_Weir",
+                    "/wiki/Owen_Brenman"
+                ],
+                [
+                    {
+                        "entity id": "Q2746012",
+                        "label": "Derrick O'Connor"
+                    },
+                    {
+                        "entity id": "Q2160202",
+                        "label": "Ade Edmondson"
+                    },
+                    {
+                        "entity id": "Q83492",
+                        "label": "Gary Oldman"
+                    },
+                    {
+                        "entity id": "Q380856",
+                        "label": "Richard E. Grant"
+                    },
+                    {
+                        "entity id": "Q3621173",
+                        "label": "Arabella Weir"
+                    },
+                    {
+                        "entity id": "Q16186995",
+                        "label": "Owen Brenman"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "16 February 1986",
+                []
+            ],
+            [
+                "Song of Experience",
+                []
+            ],
+            [
+                "Stephen Frears",
+                [
+                    "/wiki/Stephen_Frears"
+                ],
+                [
+                    {
+                        "entity id": "Q55258",
+                        "label": "Stephen Frears"
+                    }
+                ]
+            ],
+            [
+                "Martin Allen",
+                [
+                    "/wiki/Martin_Allen_(writer)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Rachel Bell , Nigel Terry",
+                [
+                    "/wiki/Rachel_Bell",
+                    "/wiki/Nigel_Terry"
+                ],
+                [
+                    {
+                        "entity id": "Q7279153",
+                        "label": "Rachel Bell"
+                    },
+                    {
+                        "entity id": "Q730583",
+                        "label": "Nigel Terry"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "23 February 1986",
+                []
+            ],
+            [
+                "The Insurance Man",
+                []
+            ],
+            [
+                "Richard Eyre",
+                [
+                    "/wiki/Richard_Eyre"
+                ],
+                [
+                    {
+                        "entity id": "Q657354",
+                        "label": "Richard Eyre"
+                    }
+                ]
+            ],
+            [
+                "Alan Bennett",
+                [
+                    "/wiki/Alan_Bennett"
+                ],
+                [
+                    {
+                        "entity id": "Q654730",
+                        "label": "Alan Bennett"
+                    }
+                ]
+            ],
+            [
+                "Trevor Peacock , Alan MacNaughtan , Teddy Turner , Vivian Pickles , Tony Haygarth , Jim Broadbent , Daniel Day-Lewis , Richenda Carey , Geoffrey Palmer , Roger Hammond , Benjamin Whitrow , Oona Kirsch , Richard Kane",
+                [
+                    "/wiki/Trevor_Peacock",
+                    "/wiki/Alan_MacNaughtan",
+                    "/wiki/Teddy_Turner_(actor)",
+                    "/wiki/Vivian_Pickles",
+                    "/wiki/Tony_Haygarth",
+                    "/wiki/Jim_Broadbent",
+                    "/wiki/Daniel_Day-Lewis",
+                    "/wiki/Richenda_Carey",
+                    "/wiki/Geoffrey_Palmer_(actor)",
+                    "/wiki/Roger_Hammond_(actor)",
+                    "/wiki/Benjamin_Whitrow"
+                ],
+                [
+                    {
+                        "entity id": "Q3998508",
+                        "label": "Trevor Peacock"
+                    },
+                    {
+                        "entity id": "Q4707209",
+                        "label": "Alan MacNaughtan"
+                    },
+                    {},
+                    {
+                        "entity id": "Q4362590",
+                        "label": "Vivian Pickles"
+                    },
+                    {
+                        "entity id": "Q472411",
+                        "label": "Tony Haygarth"
+                    },
+                    {
+                        "entity id": "Q185079",
+                        "label": "Jim Broadbent"
+                    },
+                    {
+                        "entity id": "Q166389",
+                        "label": "Daniel Day-Lewis"
+                    },
+                    {
+                        "entity id": "Q7330402",
+                        "label": "Richenda Carey"
+                    },
+                    {},
+                    {},
+                    {
+                        "entity id": "Q817739",
+                        "label": "Benjamin Whitrow"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2 March 1986",
+                []
+            ],
+            [
+                "Hotel du Lac",
+                [
+                    "/wiki/Hotel_du_Lac_(film)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Giles Foster",
+                [
+                    "/wiki/Giles_Foster"
+                ],
+                [
+                    {
+                        "entity id": "Q3105993",
+                        "label": "Giles Foster"
+                    }
+                ]
+            ],
+            [
+                "Christopher Hampton",
+                [
+                    "/wiki/Christopher_Hampton"
+                ],
+                [
+                    {
+                        "entity id": "Q515274",
+                        "label": "Christopher Hampton"
+                    }
+                ]
+            ],
+            [
+                "Anna Massey , Denholm Elliott , Googie Withers , Julia McKenzie , Patricia Hodge , Irene Handl , Barry Foster , Geoffrey Chater , Jeffry Wickham , Patsy Byrne , Colette Gleeson",
+                [
+                    "/wiki/Anna_Massey",
+                    "/wiki/Denholm_Elliott",
+                    "/wiki/Googie_Withers",
+                    "/wiki/Julia_McKenzie",
+                    "/wiki/Patricia_Hodge",
+                    "/wiki/Irene_Handl",
+                    "/wiki/Barry_Foster_(actor)",
+                    "/wiki/Geoffrey_Chater",
+                    "/wiki/Jeffry_Wickham",
+                    "/wiki/Patsy_Byrne"
+                ],
+                [
+                    {
+                        "entity id": "Q270049",
+                        "label": "Anna Massey"
+                    },
+                    {
+                        "entity id": "Q313047",
+                        "label": "Denholm Elliott"
+                    },
+                    {
+                        "entity id": "Q449070",
+                        "label": "Googie Withers"
+                    },
+                    {
+                        "entity id": "Q635154",
+                        "label": "Julia McKenzie"
+                    },
+                    {
+                        "entity id": "Q7145635",
+                        "label": "Patricia Hodge"
+                    },
+                    {
+                        "entity id": "Q6069046",
+                        "label": "Irene Handl"
+                    },
+                    {},
+                    {
+                        "entity id": "Q4121041",
+                        "label": "Geoffrey Chater"
+                    },
+                    {
+                        "entity id": "Q6176353",
+                        "label": "Jeffry Wickham"
+                    },
+                    {
+                        "entity id": "Q7148227",
+                        "label": "Patsy Byrne"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "9 March 1986",
+                []
+            ],
+            [
+                "The Russian Soldier",
+                []
+            ],
+            [
+                "Gavin Millar",
+                [
+                    "/wiki/Gavin_Millar"
+                ],
+                [
+                    {
+                        "entity id": "Q3099597",
+                        "label": "Gavin Millar"
+                    }
+                ]
+            ],
+            [
+                "Brian Phelan",
+                []
+            ],
+            [
+                "Warren Clarke , Alan MacNaughtan , Patrick Malahide , Jerome Flynn , June Page , Iain Rattray , Eileen Helsby , Charles Pemberton",
+                [
+                    "/wiki/Warren_Clarke",
+                    "/wiki/Alan_MacNaughtan",
+                    "/wiki/Patrick_Malahide",
+                    "/wiki/Jerome_Flynn",
+                    "/wiki/June_Page",
+                    "/wiki/Iain_Rattray",
+                    "/wiki/Eileen_Helsby"
+                ],
+                [
+                    {
+                        "entity id": "Q647237",
+                        "label": "Warren Clarke"
+                    },
+                    {
+                        "entity id": "Q4707209",
+                        "label": "Alan MacNaughtan"
+                    },
+                    {
+                        "entity id": "Q377072",
+                        "label": "Patrick Malahide"
+                    },
+                    {
+                        "entity id": "Q1687736",
+                        "label": "Jerome Flynn"
+                    },
+                    {
+                        "entity id": "Q6312390",
+                        "label": "June Page"
+                    },
+                    {
+                        "entity id": "Q5980602",
+                        "label": "Iain Rattray"
+                    },
+                    {
+                        "entity id": "Q5349380",
+                        "label": "Eileen Helsby"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "16 March 1986",
+                []
+            ],
+            [
+                "Blood Hunt",
+                []
+            ],
+            [
+                "Peter Barber-Fleming",
+                []
+            ],
+            [
+                "Neil M. Gunn ( novel )",
+                [
+                    "/wiki/Neil_M._Gunn"
+                ],
+                [
+                    {
+                        "entity id": "Q6988888",
+                        "label": "Neil M. Gunn"
+                    }
+                ]
+            ],
+            [
+                "Iain Glen , Andrew Keir , Nigel Stock , Michael Carter , Arabella Weir , Jon Croft",
+                [
+                    "/wiki/Iain_Glen",
+                    "/wiki/Andrew_Keir",
+                    "/wiki/Nigel_Stock_(actor)",
+                    "/wiki/Michael_Carter_(actor)",
+                    "/wiki/Arabella_Weir"
+                ],
+                [
+                    {
+                        "entity id": "Q371430",
+                        "label": "Iain Glen"
+                    },
+                    {
+                        "entity id": "Q386240",
+                        "label": "Andrew Keir"
+                    },
+                    {},
+                    {},
+                    {
+                        "entity id": "Q3621173",
+                        "label": "Arabella Weir"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "23 March 1986",
+                []
+            ],
+            [
+                "Shergar",
+                []
+            ],
+            [
+                "Nigel Finch",
+                [
+                    "/wiki/Nigel_Finch"
+                ],
+                [
+                    {
+                        "entity id": "Q16013413",
+                        "label": "Nigel Finch"
+                    }
+                ]
+            ],
+            [
+                "Bill Morrison",
+                []
+            ],
+            [
+                "Stephen Rea , Gary Waldhorn , Ian McElhinney , Dermot Crowley , Peter Caffrey",
+                [
+                    "/wiki/Stephen_Rea",
+                    "/wiki/Gary_Waldhorn",
+                    "/wiki/Ian_McElhinney",
+                    "/wiki/Dermot_Crowley",
+                    "/wiki/Peter_Caffrey"
+                ],
+                [
+                    {
+                        "entity id": "Q313042",
+                        "label": "Stephen Rea"
+                    },
+                    {
+                        "entity id": "Q3098635",
+                        "label": "Gary Waldhorn"
+                    },
+                    {
+                        "entity id": "Q5982285",
+                        "label": "Ian McElhinney"
+                    },
+                    {
+                        "entity id": "Q5262794",
+                        "label": "Dermot Crowley"
+                    },
+                    {
+                        "entity id": "Q729395",
+                        "label": "Peter Caffrey"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "30 March 1986",
+                []
+            ],
+            [
+                "Hard Travelling",
+                []
+            ],
+            [
+                "Colin Gregg",
+                [
+                    "/wiki/Colin_Gregg"
+                ],
+                [
+                    {
+                        "entity id": "Q2982601",
+                        "label": "Colin Gregg"
+                    }
+                ]
+            ],
+            [
+                "Hugh Stoddart",
+                []
+            ],
+            [
+                "Suzanne Burden , Tom Bell , Jack Shepherd , Michael Gough , Perry Benson , Denis Carey , Colette O'Neil , Gordon Salkilld , Sarah Berger",
+                [
+                    "/wiki/Suzanne_Burden",
+                    "/wiki/Tom_Bell_(actor)",
+                    "/wiki/Jack_Shepherd_(actor)",
+                    "/wiki/Michael_Gough",
+                    "/wiki/Perry_Benson",
+                    "/wiki/Denis_Carey_(actor)",
+                    "/wiki/Colette_O'Neil",
+                    "/wiki/Gordon_Salkilld"
+                ],
+                [
+                    {
+                        "entity id": "Q7650787",
+                        "label": "Suzanne Burden"
+                    },
+                    {},
+                    {},
+                    {
+                        "entity id": "Q299302",
+                        "label": "Michael Gough"
+                    },
+                    {
+                        "entity id": "Q3900087",
+                        "label": "Perry Benson"
+                    },
+                    {},
+                    {
+                        "entity id": "Q5144706",
+                        "label": "Colette O'Neil"
+                    },
+                    {
+                        "entity id": "Q5585779",
+                        "label": "Gordon Salkilld"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "6 April 1986",
+                []
+            ],
+            [
+                "Double Image",
+                []
+            ],
+            [
+                "Mick Jackson",
+                []
+            ],
+            [
+                "Stephen Davis",
+                []
+            ],
+            [
+                "Tommy Lee Jones , David Healy",
+                [
+                    "/wiki/Tommy_Lee_Jones",
+                    "/wiki/David_Healy_(actor)"
+                ],
+                [
+                    {
+                        "entity id": "Q170587",
+                        "label": "Tommy Lee Jones"
+                    },
+                    {}
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Series Two",
+    "section_text": "",
+    "uid": "Screen_Two_1",
+    "intro": "Screen Two was a British television anthology drama series, produced by the BBC and transmitted on BBC2 from 1985 to 1998. Following the demise of the BBC's Play for Today, which ran from 1970 to 1984, producer Kenith Trodd was asked to formulate a new series of one-off television dramas. However, while Play For Today's style had been a largely studio-based form of theatre on television, the new series was shot entirely on film. This was an attempt by the BBC to repeat the success of Channel 4's television films, many of which had been released in cinemas. From 1989 to 1998 a companion series, Screen One, was broadcast on the more mainstream BBC1. After appearing more sporadically in the mid-1990s, Screen Two came to an end as the BBC moved its attentions away from expensive single dramas and concentrated production on series and serials instead. The last programme shown under the Screen Two name was Stephen Poliakoff's The Tribe in June 1998."
+}

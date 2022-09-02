@@ -1,0 +1,351 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_places_used_in_the_names_of_chemical_elements",
+    "title": "List of places used in the names of chemical elements",
+    "header": [
+        [
+            "Astronomical object",
+            []
+        ],
+        [
+            "Element",
+            []
+        ],
+        [
+            "Symbol",
+            []
+        ],
+        [
+            "Z",
+            [
+                "/wiki/Atomic_number"
+            ],
+            [
+                {
+                    "entity id": "Q23809",
+                    "label": "atomic number"
+                }
+            ]
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Sun",
+                [
+                    "/wiki/Sun"
+                ],
+                [
+                    {
+                        "entity id": "Q132",
+                        "label": "Sunday"
+                    }
+                ]
+            ],
+            [
+                "Helium",
+                [
+                    "/wiki/Helium"
+                ],
+                [
+                    {
+                        "entity id": "Q560",
+                        "label": "helium"
+                    }
+                ]
+            ],
+            [
+                "He",
+                []
+            ],
+            [
+                "2",
+                []
+            ]
+        ],
+        [
+            [
+                "Mercury *",
+                [
+                    "/wiki/Mercury_(planet)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Mercury *",
+                [
+                    "/wiki/Mercury_(element)"
+                ],
+                [
+                    {
+                        "entity id": "Q925",
+                        "label": "mercury"
+                    }
+                ]
+            ],
+            [
+                "Hg",
+                []
+            ],
+            [
+                "80",
+                []
+            ]
+        ],
+        [
+            [
+                "Moon",
+                [
+                    "/wiki/Moon"
+                ],
+                [
+                    {
+                        "entity id": "Q405",
+                        "label": "Moon"
+                    }
+                ]
+            ],
+            [
+                "Selenium",
+                [
+                    "/wiki/Selenium"
+                ],
+                [
+                    {
+                        "entity id": "Q876",
+                        "label": "selenium"
+                    }
+                ]
+            ],
+            [
+                "Se",
+                []
+            ],
+            [
+                "34",
+                []
+            ]
+        ],
+        [
+            [
+                "Pallas ( asteroid )",
+                [
+                    "/wiki/2_Pallas",
+                    "/wiki/Asteroid"
+                ],
+                [
+                    {
+                        "entity id": "Q3002",
+                        "label": "2 Pallas"
+                    },
+                    {
+                        "entity id": "Q3863",
+                        "label": "asteroid"
+                    }
+                ]
+            ],
+            [
+                "Palladium",
+                [
+                    "/wiki/Palladium"
+                ],
+                [
+                    {
+                        "entity id": "Q1089",
+                        "label": "palladium"
+                    }
+                ]
+            ],
+            [
+                "Pd",
+                []
+            ],
+            [
+                "46",
+                []
+            ]
+        ],
+        [
+            [
+                "Earth",
+                [
+                    "/wiki/Earth"
+                ],
+                [
+                    {
+                        "entity id": "Q2",
+                        "label": "Earth"
+                    }
+                ]
+            ],
+            [
+                "Tellurium",
+                [
+                    "/wiki/Tellurium"
+                ],
+                [
+                    {
+                        "entity id": "Q1100",
+                        "label": "tellurium"
+                    }
+                ]
+            ],
+            [
+                "Te",
+                []
+            ],
+            [
+                "52",
+                []
+            ]
+        ],
+        [
+            [
+                "Ceres ( dwarf planet )",
+                [
+                    "/wiki/Ceres_(dwarf_planet)",
+                    "/wiki/Dwarf_planet"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q2199",
+                        "label": "dwarf planet"
+                    }
+                ]
+            ],
+            [
+                "Cerium",
+                [
+                    "/wiki/Cerium"
+                ],
+                [
+                    {
+                        "entity id": "Q1385",
+                        "label": "cerium"
+                    }
+                ]
+            ],
+            [
+                "Ce",
+                []
+            ],
+            [
+                "58",
+                []
+            ]
+        ],
+        [
+            [
+                "Uranus",
+                [
+                    "/wiki/Uranus"
+                ],
+                [
+                    {
+                        "entity id": "Q324",
+                        "label": "Uranus"
+                    }
+                ]
+            ],
+            [
+                "Uranium",
+                [
+                    "/wiki/Uranium"
+                ],
+                [
+                    {
+                        "entity id": "Q1098",
+                        "label": "uranium"
+                    }
+                ]
+            ],
+            [
+                "U",
+                []
+            ],
+            [
+                "92",
+                []
+            ]
+        ],
+        [
+            [
+                "Neptune",
+                [
+                    "/wiki/Neptune"
+                ],
+                [
+                    {
+                        "entity id": "Q332",
+                        "label": "Neptune"
+                    }
+                ]
+            ],
+            [
+                "Neptunium",
+                [
+                    "/wiki/Neptunium"
+                ],
+                [
+                    {
+                        "entity id": "Q1105",
+                        "label": "neptunium"
+                    }
+                ]
+            ],
+            [
+                "Np",
+                []
+            ],
+            [
+                "93",
+                []
+            ]
+        ],
+        [
+            [
+                "Pluto ( dwarf planet )",
+                [
+                    "/wiki/Pluto",
+                    "/wiki/Dwarf_planet"
+                ],
+                [
+                    {
+                        "entity id": "Q339",
+                        "label": "Pluto"
+                    },
+                    {
+                        "entity id": "Q2199",
+                        "label": "dwarf planet"
+                    }
+                ]
+            ],
+            [
+                "Plutonium",
+                [
+                    "/wiki/Plutonium"
+                ],
+                [
+                    {
+                        "entity id": "Q1102",
+                        "label": "plutonium"
+                    }
+                ]
+            ],
+            [
+                "Pu",
+                []
+            ],
+            [
+                "94",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Astronomical objects",
+    "section_text": "",
+    "uid": "List_of_places_used_in_the_names_of_chemical_elements_1",
+    "intro": "41 of the 118 chemical elements have names associated with, or specifically named for, places around the world or among astronomical objects. 32 of these have names tied to the Earth and the other 8 have names connected to bodies in the Solar System. The first tables below list the terrestrial locations (excluding the entire Earth itself, taken as a whole) and the last table lists astronomical objects which the chemical elements are named after."
+}

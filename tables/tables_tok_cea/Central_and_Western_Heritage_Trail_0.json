@@ -1,0 +1,317 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Central_and_Western_Heritage_Trail",
+    "title": "Central and Western Heritage Trail",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Ref",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "A1- Edinburgh Place",
+                [
+                    "/wiki/Edinburgh_Place"
+                ],
+                [
+                    {
+                        "entity id": "Q5338242",
+                        "label": "Edinburgh Place"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "[ 1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "A2- Statue Square",
+                [
+                    "/wiki/Statue_Square"
+                ],
+                [
+                    {
+                        "entity id": "Q840577",
+                        "label": "Statue Square"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "[ 2 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "A3- Cenotaph",
+                [
+                    "/wiki/The_Cenotaph_(Hong_Kong)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Chater Road",
+                [
+                    "/wiki/Chater_Road"
+                ],
+                [
+                    {
+                        "entity id": "Q5087594",
+                        "label": "Chater Road"
+                    }
+                ]
+            ],
+            [
+                "[ 3 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "1- Old Hong Kong Club Building",
+                [
+                    "/wiki/Hong_Kong_Club_Building"
+                ],
+                [
+                    {
+                        "entity id": "Q13422719",
+                        "label": "Hong Kong Club Building"
+                    }
+                ]
+            ],
+            [
+                "3A Chater Road /3 Jackson Road , between Chater Road and Connaught Road Central",
+                [
+                    "/wiki/Chater_Road",
+                    "/wiki/Connaught_Road"
+                ],
+                [
+                    {
+                        "entity id": "Q5087594",
+                        "label": "Chater Road"
+                    },
+                    {
+                        "entity id": "Q5161337",
+                        "label": "Connaught Road"
+                    }
+                ]
+            ],
+            [
+                "[ 4 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "A4- Old Supreme Court ( Legislative Council Building )",
+                [
+                    "/wiki/Old_Supreme_Court_Building,_Hong_Kong"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "8 Jackson Road , on Statue Square",
+                [
+                    "/wiki/Statue_Square"
+                ],
+                [
+                    {
+                        "entity id": "Q840577",
+                        "label": "Statue Square"
+                    }
+                ]
+            ],
+            [
+                "[ 5 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "A5- Commemorative Plaque for the Old Site of Cricket Club",
+                []
+            ],
+            [
+                "Chater Garden , directly east of the Legislative Council building",
+                [
+                    "/wiki/Chater_Garden"
+                ],
+                [
+                    {
+                        "entity id": "Q5087587",
+                        "label": "Chater Garden"
+                    }
+                ]
+            ],
+            [
+                "[ 6 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "2- Old Site of Murray House",
+                [
+                    "/wiki/Murray_House"
+                ],
+                [
+                    {
+                        "entity id": "Q13651230",
+                        "label": "Murray House"
+                    }
+                ]
+            ],
+            [
+                "Now the site of the Bank of China Tower . Murray House was dismantled and rebuilt in Stanley",
+                [
+                    "/wiki/Bank_of_China_Tower,_Hong_Kong",
+                    "/wiki/Stanley,_Hong_Kong"
+                ],
+                [
+                    {
+                        "entity id": "Q214855",
+                        "label": "Bank of China Tower"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "[ 7 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "A6- Commemorative Plaque for the Old Site of City Hall",
+                [
+                    "/wiki/City_Hall,_Hong_Kong"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "The site is now occupied by the HSBC Main Building",
+                [
+                    "/wiki/HSBC_Main_Building,_Hong_Kong"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "[ 8 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "3- Old Site of Murray Parade Ground",
+                [
+                    "/wiki/Murray_Parade_Ground"
+                ],
+                [
+                    {
+                        "entity id": "Q20091749",
+                        "label": "Murray Parade Ground"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "[ 9 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "A7- Former French Mission Building ( Court of Final Appeal )",
+                [
+                    "/wiki/Former_French_Mission_Building"
+                ],
+                [
+                    {
+                        "entity id": "Q1595391",
+                        "label": "Former French Mission Building"
+                    }
+                ]
+            ],
+            [
+                "1 Battery Path",
+                [
+                    "/wiki/Battery_Path"
+                ],
+                [
+                    {
+                        "entity id": "Q4869877",
+                        "label": "Battery Path"
+                    }
+                ]
+            ],
+            [
+                "[ 10 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "A8- St. John 's Cathedral",
+                [
+                    "/wiki/St._John's_Cathedral,_Hong_Kong"
+                ],
+                [
+                    {
+                        "entity id": "Q2942473",
+                        "label": "St John's Cathedral"
+                    }
+                ]
+            ],
+            [
+                "4 Garden Road",
+                [
+                    "/wiki/Garden_Road,_Hong_Kong"
+                ],
+                [
+                    {
+                        "entity id": "Q5522302",
+                        "label": "Garden Road"
+                    }
+                ]
+            ],
+            [
+                "[ 11 ]",
+                []
+            ]
+        ]
+    ],
+    "section_title": "The Central Route -- Section A",
+    "section_text": "",
+    "uid": "Central_and_Western_Heritage_Trail_0",
+    "intro": "The Central and Western Heritage Trail is a Heritage Trail in Hong Kong, that was designed by the Antiquities and Monuments Office of the Leisure and Cultural Services Department. It covers the Central and Western District of Hong Kong and consists of 3 parts:"
+}

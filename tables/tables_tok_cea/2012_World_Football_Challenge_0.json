@@ -1,0 +1,719 @@
+{
+    "url": "https://en.wikipedia.org/wiki/2012_World_Football_Challenge",
+    "title": "2012 World Football Challenge",
+    "header": [
+        [
+            "Nation",
+            []
+        ],
+        [
+            "Team",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Confederation",
+            []
+        ],
+        [
+            "Professional League",
+            []
+        ],
+        [
+            "Notes",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Scotland",
+                [
+                    "/wiki/Scotland"
+                ],
+                [
+                    {
+                        "entity id": "Q22",
+                        "label": "Scotland"
+                    }
+                ]
+            ],
+            [
+                "Celtic",
+                [
+                    "/wiki/Celtic_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q19593",
+                        "label": "Celtic F.C."
+                    }
+                ]
+            ],
+            [
+                "Glasgow , Scotland",
+                [
+                    "/wiki/Glasgow"
+                ],
+                [
+                    {
+                        "entity id": "Q4093",
+                        "label": "Glasgow"
+                    }
+                ]
+            ],
+            [
+                "UEFA",
+                [
+                    "/wiki/UEFA"
+                ],
+                [
+                    {
+                        "entity id": "Q35572",
+                        "label": "UEFA"
+                    }
+                ]
+            ],
+            [
+                "Scottish Premier League",
+                [
+                    "/wiki/Scottish_Premier_League"
+                ],
+                [
+                    {
+                        "entity id": "Q187304",
+                        "label": "Scottish Premier League"
+                    }
+                ]
+            ],
+            [
+                "2011-12 Scottish Premier League champions",
+                [
+                    "/wiki/2011\u201312_Scottish_Premier_League"
+                ],
+                [
+                    {
+                        "entity id": "Q1188842",
+                        "label": "2011\u201312 Scottish Premier League"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "England",
+                [
+                    "/wiki/England"
+                ],
+                [
+                    {
+                        "entity id": "Q21",
+                        "label": "England"
+                    }
+                ]
+            ],
+            [
+                "Chelsea",
+                [
+                    "/wiki/Chelsea_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q9616",
+                        "label": "Chelsea F.C."
+                    }
+                ]
+            ],
+            [
+                "London , England",
+                [
+                    "/wiki/London"
+                ],
+                [
+                    {
+                        "entity id": "Q84",
+                        "label": "London"
+                    }
+                ]
+            ],
+            [
+                "UEFA",
+                []
+            ],
+            [
+                "Premier League",
+                [
+                    "/wiki/Premier_League"
+                ],
+                [
+                    {
+                        "entity id": "Q9448",
+                        "label": "Premier League"
+                    }
+                ]
+            ],
+            [
+                "2012 FA Cup and 2011-12 UEFA Champions League winners",
+                [
+                    "/wiki/2012_FA_Cup_Final",
+                    "/wiki/2011\u201312_UEFA_Champions_League"
+                ],
+                [
+                    {
+                        "entity id": "Q2634414",
+                        "label": "2012 FA Cup Final"
+                    },
+                    {
+                        "entity id": "Q485002",
+                        "label": "2011\u201312 UEFA Champions League"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "D.C. United",
+                [
+                    "/wiki/D.C._United"
+                ],
+                [
+                    {
+                        "entity id": "Q238593",
+                        "label": "D.C. United"
+                    }
+                ]
+            ],
+            [
+                "Washington , D.C",
+                [
+                    "/wiki/Washington,_D.C."
+                ],
+                [
+                    {
+                        "entity id": "Q61",
+                        "label": "Washington, D.C."
+                    }
+                ]
+            ],
+            [
+                "CONCACAF",
+                [
+                    "/wiki/CONCACAF"
+                ],
+                [
+                    {
+                        "entity id": "Q160549",
+                        "label": "CONCACAF"
+                    }
+                ]
+            ],
+            [
+                "Major League Soccer",
+                [
+                    "/wiki/Major_League_Soccer"
+                ],
+                [
+                    {
+                        "entity id": "Q18543",
+                        "label": "Major League Soccer"
+                    }
+                ]
+            ],
+            [
+                "4-time MLS Cup Champions",
+                []
+            ]
+        ],
+        [
+            [
+                "Mexico",
+                [
+                    "/wiki/Mexico"
+                ],
+                [
+                    {
+                        "entity id": "Q96",
+                        "label": "Mexico"
+                    }
+                ]
+            ],
+            [
+                "Santos Laguna",
+                [
+                    "/wiki/Club_Santos_Laguna"
+                ],
+                [
+                    {
+                        "entity id": "Q745246",
+                        "label": "Santos Laguna"
+                    }
+                ]
+            ],
+            [
+                "Torre\u00f3n , Mexico",
+                [
+                    "/wiki/Comarca_Lagunera"
+                ],
+                [
+                    {
+                        "entity id": "Q2219212",
+                        "label": "Comarca Lagunera"
+                    }
+                ]
+            ],
+            [
+                "CONCACAF",
+                []
+            ],
+            [
+                "Liga MX",
+                [
+                    "/wiki/Liga_MX"
+                ],
+                [
+                    {
+                        "entity id": "Q764690",
+                        "label": "Liga MX"
+                    }
+                ]
+            ],
+            [
+                "2011-12 Mexican Primera Divisi\u00f3n Clausura champions",
+                [
+                    "/wiki/2011\u201312_Mexican_Primera_Divisi\u00f3n_season"
+                ],
+                [
+                    {
+                        "entity id": "Q676856",
+                        "label": "2011\u201312 Mexican Primera Divisi\u00f3n season"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "England",
+                [
+                    "/wiki/England"
+                ],
+                [
+                    {
+                        "entity id": "Q21",
+                        "label": "England"
+                    }
+                ]
+            ],
+            [
+                "Liverpool",
+                [
+                    "/wiki/Liverpool_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q1130849",
+                        "label": "Liverpool F.C."
+                    }
+                ]
+            ],
+            [
+                "Liverpool , England",
+                [
+                    "/wiki/Liverpool"
+                ],
+                [
+                    {
+                        "entity id": "Q24826",
+                        "label": "Liverpool"
+                    }
+                ]
+            ],
+            [
+                "UEFA",
+                []
+            ],
+            [
+                "Premier League",
+                []
+            ],
+            [
+                "2012 Football League Cup winners",
+                [
+                    "/wiki/2012_Football_League_Cup_Final"
+                ],
+                [
+                    {
+                        "entity id": "Q718741",
+                        "label": "2012 Football League Cup Final"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Los Angeles Galaxy",
+                [
+                    "/wiki/LA_Galaxy"
+                ],
+                [
+                    {
+                        "entity id": "Q204357",
+                        "label": "LA Galaxy"
+                    }
+                ]
+            ],
+            [
+                "Los Angeles , California",
+                [
+                    "/wiki/Los_Angeles"
+                ],
+                [
+                    {
+                        "entity id": "Q65",
+                        "label": "Los Angeles"
+                    }
+                ]
+            ],
+            [
+                "CONCACAF",
+                []
+            ],
+            [
+                "Major League Soccer",
+                []
+            ],
+            [
+                "2011 MLS Cup champions",
+                []
+            ]
+        ],
+        [
+            [
+                "Italy",
+                [
+                    "/wiki/Italy"
+                ],
+                [
+                    {
+                        "entity id": "Q38",
+                        "label": "Italy"
+                    }
+                ]
+            ],
+            [
+                "Milan",
+                [
+                    "/wiki/A.C._Milan"
+                ],
+                [
+                    {
+                        "entity id": "Q1543",
+                        "label": "A.C. Milan"
+                    }
+                ]
+            ],
+            [
+                "Milan , Italy",
+                [
+                    "/wiki/Milan"
+                ],
+                [
+                    {
+                        "entity id": "Q490",
+                        "label": "Milan"
+                    }
+                ]
+            ],
+            [
+                "UEFA",
+                []
+            ],
+            [
+                "Serie A",
+                []
+            ],
+            [
+                "18-time Serie A champions",
+                []
+            ]
+        ],
+        [
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "Paris Saint-Germain",
+                [
+                    "/wiki/Paris_Saint-Germain_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q483020",
+                        "label": "Paris Saint-Germain F.C."
+                    }
+                ]
+            ],
+            [
+                "Paris , France",
+                [
+                    "/wiki/Paris"
+                ],
+                [
+                    {
+                        "entity id": "Q90",
+                        "label": "Paris"
+                    }
+                ]
+            ],
+            [
+                "UEFA",
+                []
+            ],
+            [
+                "Ligue 1",
+                [
+                    "/wiki/Ligue_1"
+                ],
+                [
+                    {
+                        "entity id": "Q13394",
+                        "label": "Ligue 1"
+                    }
+                ]
+            ],
+            [
+                "Ligue 1 runners-up",
+                [
+                    "/wiki/Ligue_1"
+                ],
+                [
+                    {
+                        "entity id": "Q13394",
+                        "label": "Ligue 1"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Spain",
+                [
+                    "/wiki/Spain"
+                ],
+                [
+                    {
+                        "entity id": "Q29",
+                        "label": "Spain"
+                    }
+                ]
+            ],
+            [
+                "Real Madrid",
+                [
+                    "/wiki/Real_Madrid_C.F."
+                ],
+                [
+                    {
+                        "entity id": "Q8682",
+                        "label": "Real Madrid CF"
+                    }
+                ]
+            ],
+            [
+                "Madrid , Spain",
+                [
+                    "/wiki/Madrid"
+                ],
+                [
+                    {
+                        "entity id": "Q2807",
+                        "label": "Madrid"
+                    }
+                ]
+            ],
+            [
+                "UEFA",
+                []
+            ],
+            [
+                "La Liga",
+                [
+                    "/wiki/La_Liga"
+                ],
+                [
+                    {
+                        "entity id": "Q324867",
+                        "label": "La Liga"
+                    }
+                ]
+            ],
+            [
+                "2011-12 La Liga champions",
+                [
+                    "/wiki/2011\u201312_La_Liga"
+                ],
+                [
+                    {
+                        "entity id": "Q207595",
+                        "label": "2011\u201312 La Liga"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Seattle Sounders",
+                [
+                    "/wiki/Seattle_Sounders_FC"
+                ],
+                [
+                    {
+                        "entity id": "Q632511",
+                        "label": "Seattle Sounders FC"
+                    }
+                ]
+            ],
+            [
+                "Seattle , Washington",
+                [
+                    "/wiki/Seattle"
+                ],
+                [
+                    {
+                        "entity id": "Q5083",
+                        "label": "Seattle"
+                    }
+                ]
+            ],
+            [
+                "CONCACAF",
+                []
+            ],
+            [
+                "Major League Soccer",
+                []
+            ],
+            [
+                "2011 U.S. Open Cup winners",
+                [
+                    "/wiki/2011_Lamar_Hunt_U.S._Open_Cup"
+                ],
+                [
+                    {
+                        "entity id": "Q2254904",
+                        "label": "2011 U.S. Open Cup"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Canada",
+                [
+                    "/wiki/Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q16",
+                        "label": "Canada"
+                    }
+                ]
+            ],
+            [
+                "Toronto FC",
+                [
+                    "/wiki/Toronto_FC"
+                ],
+                [
+                    {
+                        "entity id": "Q327238",
+                        "label": "Toronto FC"
+                    }
+                ]
+            ],
+            [
+                "Toronto , Ontario",
+                [
+                    "/wiki/Toronto"
+                ],
+                [
+                    {
+                        "entity id": "Q172",
+                        "label": "Toronto"
+                    }
+                ]
+            ],
+            [
+                "CONCACAF",
+                []
+            ],
+            [
+                "Major League Soccer",
+                []
+            ],
+            [
+                "2012 Canadian Championship champions",
+                [
+                    "/wiki/2012_Canadian_Championship"
+                ],
+                [
+                    {
+                        "entity id": "Q937401",
+                        "label": "2012 Canadian Championship"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Participants",
+    "section_text": "The following eleven clubs took part in the 2012 World Football Challenge .",
+    "uid": "2012_World_Football_Challenge_0",
+    "intro": "The 2012 World Football Challenge was the third World Football Challenge event, a series of friendly soccer matches played in the United States and Canada in July and August. The series opened on July 18. The opening match was between the Seattle Sounders of Major League Soccer (MLS) and Chelsea of the English Premier League, which Chelsea won 4-2. Real Madrid, who had won the equivalent tournament the previous year, were the only team to win all their matches in normal play."
+}

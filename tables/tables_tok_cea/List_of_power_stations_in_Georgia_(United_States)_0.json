@@ -1,0 +1,601 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_power_stations_in_Georgia_(U.S._state)",
+    "title": "List of power stations in Georgia (U.S. state)",
+    "header": [
+        [
+            "Plant",
+            []
+        ],
+        [
+            "Nearest City",
+            []
+        ],
+        [
+            "Capacity",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Barnett Shoals Hydroelectric Generating Plant",
+                []
+            ],
+            [
+                "Athens , Georgia",
+                [
+                    "/wiki/Athens,_Georgia"
+                ],
+                [
+                    {
+                        "entity id": "Q203263",
+                        "label": "Athens"
+                    }
+                ]
+            ],
+            [
+                "2,800 kW",
+                []
+            ]
+        ],
+        [
+            [
+                "Bartletts Ferry Hydroelectric Generating Plant",
+                [
+                    "/wiki/Lake_Harding"
+                ],
+                [
+                    {
+                        "entity id": "Q6476087",
+                        "label": "Lake Harding"
+                    }
+                ]
+            ],
+            [
+                "Columbus , Georgia",
+                [
+                    "/wiki/Columbus,_Georgia"
+                ],
+                [
+                    {
+                        "entity id": "Q239870",
+                        "label": "Columbus"
+                    }
+                ]
+            ],
+            [
+                "173,000 kW",
+                []
+            ]
+        ],
+        [
+            [
+                "Blue Ridge Dam ( Owned and operated by the Tennessee Valley Authority )",
+                [
+                    "/wiki/Blue_Ridge_Dam",
+                    "/wiki/Tennessee_Valley_Authority"
+                ],
+                [
+                    {
+                        "entity id": "Q4929707",
+                        "label": "Blue Ridge Dam"
+                    },
+                    {
+                        "entity id": "Q1367577",
+                        "label": "Tennessee Valley Authority"
+                    }
+                ]
+            ],
+            [
+                "Blue Ridge , Georgia",
+                [
+                    "/wiki/Blue_Ridge,_Georgia"
+                ],
+                [
+                    {
+                        "entity id": "Q2035614",
+                        "label": "Blue Ridge"
+                    }
+                ]
+            ],
+            [
+                "13,000 kW",
+                []
+            ]
+        ],
+        [
+            [
+                "Burton Hydroelectric Generating Plant",
+                [
+                    "/wiki/Lake_Burton_(Georgia)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Clayton , Georgia",
+                [
+                    "/wiki/Clayton,_Georgia"
+                ],
+                [
+                    {
+                        "entity id": "Q2600941",
+                        "label": "Clayton"
+                    }
+                ]
+            ],
+            [
+                "6,120 kW",
+                []
+            ]
+        ],
+        [
+            [
+                "Estatoah Hydroelectric Generating Plant",
+                []
+            ],
+            [
+                "Mountain City , Georgia",
+                [
+                    "/wiki/Mountain_City,_Georgia"
+                ],
+                [
+                    {
+                        "entity id": "Q3097263",
+                        "label": "Mountain City"
+                    }
+                ]
+            ],
+            [
+                "240 kW",
+                []
+            ]
+        ],
+        [
+            [
+                "Flint River Hydroelectric Generating Plant",
+                [
+                    "/wiki/Lake_Chehaw"
+                ],
+                [
+                    {
+                        "entity id": "Q6475298",
+                        "label": "Lake Chehaw"
+                    }
+                ]
+            ],
+            [
+                "Albany , Georgia",
+                [
+                    "/wiki/Albany,_Georgia"
+                ],
+                [
+                    {
+                        "entity id": "Q285599",
+                        "label": "Albany"
+                    }
+                ]
+            ],
+            [
+                "5,400 kW",
+                []
+            ]
+        ],
+        [
+            [
+                "Goat Rock Hydroelectric Generating Plant",
+                [
+                    "/wiki/Goat_Rock_Lake"
+                ],
+                [
+                    {
+                        "entity id": "Q5575325",
+                        "label": "Goat Rock Lake"
+                    }
+                ]
+            ],
+            [
+                "Columbus , Georgia",
+                [
+                    "/wiki/Columbus,_Georgia"
+                ],
+                [
+                    {
+                        "entity id": "Q239870",
+                        "label": "Columbus"
+                    }
+                ]
+            ],
+            [
+                "38,600 kW",
+                []
+            ]
+        ],
+        [
+            [
+                "Langdale Hydroelectric Generating Plant",
+                [
+                    "/wiki/Langdale_Dam"
+                ],
+                [
+                    {
+                        "entity id": "Q6485770",
+                        "label": "Langdale Dam"
+                    }
+                ]
+            ],
+            [
+                "West Point , Georgia",
+                [
+                    "/wiki/West_Point,_Georgia"
+                ],
+                [
+                    {
+                        "entity id": "Q2480425",
+                        "label": "West Point"
+                    }
+                ]
+            ],
+            [
+                "1,040 kW",
+                []
+            ]
+        ],
+        [
+            [
+                "Lloyd Shoals Hydroelectric Generating Plant",
+                [
+                    "/wiki/Lake_Jackson_(Georgia)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Jackson , Georgia",
+                [
+                    "/wiki/Jackson,_Georgia"
+                ],
+                [
+                    {
+                        "entity id": "Q2184242",
+                        "label": "Jackson"
+                    }
+                ]
+            ],
+            [
+                "14,400 kW",
+                []
+            ]
+        ],
+        [
+            [
+                "Morgan Falls Hydroelectric Generating Plant",
+                [
+                    "/wiki/Bull_Sluice_Lake"
+                ],
+                [
+                    {
+                        "entity id": "Q4996631",
+                        "label": "Bull Sluice Lake"
+                    }
+                ]
+            ],
+            [
+                "Sandy Springs , Georgia",
+                [
+                    "/wiki/Sandy_Springs,_Georgia"
+                ],
+                [
+                    {
+                        "entity id": "Q914884",
+                        "label": "Sandy Springs"
+                    }
+                ]
+            ],
+            [
+                "16,800 kW",
+                []
+            ]
+        ],
+        [
+            [
+                "Nacoochee Hydroelectric Generating Plant",
+                [
+                    "/wiki/Lake_Seed"
+                ],
+                [
+                    {
+                        "entity id": "Q6477677",
+                        "label": "Lake Seed"
+                    }
+                ]
+            ],
+            [
+                "Clayton , Georgia",
+                [
+                    "/wiki/Clayton,_Georgia"
+                ],
+                [
+                    {
+                        "entity id": "Q2600941",
+                        "label": "Clayton"
+                    }
+                ]
+            ],
+            [
+                "4,800 kW",
+                []
+            ]
+        ],
+        [
+            [
+                "North Highlands Hydroelectric Generating Plant",
+                [
+                    "/wiki/North_Highlands_Dam"
+                ],
+                [
+                    {
+                        "entity id": "Q7055615",
+                        "label": "North Highlands Dam"
+                    }
+                ]
+            ],
+            [
+                "Columbus , Georgia",
+                [
+                    "/wiki/Columbus,_Georgia"
+                ],
+                [
+                    {
+                        "entity id": "Q239870",
+                        "label": "Columbus"
+                    }
+                ]
+            ],
+            [
+                "29,600 kW",
+                []
+            ]
+        ],
+        [
+            [
+                "Oliver Dam Hydroelectric Generating Plant",
+                [
+                    "/wiki/Lake_Oliver"
+                ],
+                [
+                    {
+                        "entity id": "Q25204394",
+                        "label": "Lake Oliver"
+                    }
+                ]
+            ],
+            [
+                "Columbus , Georgia",
+                [
+                    "/wiki/Columbus,_Georgia"
+                ],
+                [
+                    {
+                        "entity id": "Q239870",
+                        "label": "Columbus"
+                    }
+                ]
+            ],
+            [
+                "60,000 kW",
+                []
+            ]
+        ],
+        [
+            [
+                "Riverview Hydroelectric Generating Plant",
+                [
+                    "/wiki/Riverview_Dam"
+                ],
+                [
+                    {
+                        "entity id": "Q32825202",
+                        "label": "Riverview Dam"
+                    }
+                ]
+            ],
+            [
+                "West Point , Georgia",
+                [
+                    "/wiki/West_Point,_Georgia"
+                ],
+                [
+                    {
+                        "entity id": "Q2480425",
+                        "label": "West Point"
+                    }
+                ]
+            ],
+            [
+                "480 kW",
+                []
+            ]
+        ],
+        [
+            [
+                "Rocky Mountain Hydroelectric Generating Plant",
+                [
+                    "/wiki/Rocky_Mountain_Hydroelectric_Generating_Plant"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Rome , Georgia",
+                [
+                    "/wiki/Rome,_Georgia"
+                ],
+                [
+                    {
+                        "entity id": "Q6580",
+                        "label": "Rome"
+                    }
+                ]
+            ],
+            [
+                "1,095,000 kW",
+                []
+            ]
+        ],
+        [
+            [
+                "Sinclair Dam Hydroelectric Generating Plant",
+                [
+                    "/wiki/Sinclair_Dam_Hydroelectric_Generating_Plant"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Milledgeville , Georgia",
+                [
+                    "/wiki/Milledgeville,_Georgia"
+                ],
+                [
+                    {
+                        "entity id": "Q1885071",
+                        "label": "Milledgeville"
+                    }
+                ]
+            ],
+            [
+                "45,000 kW",
+                []
+            ]
+        ],
+        [
+            [
+                "Tallulah Falls Hydroelectric Generating Plant",
+                [
+                    "/wiki/Tallulah_Falls_Lake"
+                ],
+                [
+                    {
+                        "entity id": "Q7352195",
+                        "label": "Tallulah Falls Lake"
+                    }
+                ]
+            ],
+            [
+                "Tallulah Falls , Georgia",
+                [
+                    "/wiki/Tallulah_Falls,_Georgia"
+                ],
+                [
+                    {
+                        "entity id": "Q2515925",
+                        "label": "Tallulah Falls"
+                    }
+                ]
+            ],
+            [
+                "72,000 kW",
+                []
+            ]
+        ],
+        [
+            [
+                "Terrora Hydroelectric Generating Plant",
+                [
+                    "/wiki/Lake_Rabun"
+                ],
+                [
+                    {
+                        "entity id": "Q6477473",
+                        "label": "Lake Rabun"
+                    }
+                ]
+            ],
+            [
+                "Tallulah Falls , Georgia",
+                [
+                    "/wiki/Tallulah_Falls,_Georgia"
+                ],
+                [
+                    {
+                        "entity id": "Q2515925",
+                        "label": "Tallulah Falls"
+                    }
+                ]
+            ],
+            [
+                "16,000 kW",
+                []
+            ]
+        ],
+        [
+            [
+                "Tugalo Hydroelectric Generating Plant",
+                [
+                    "/wiki/Lake_Tugalo"
+                ],
+                [
+                    {
+                        "entity id": "Q6478168",
+                        "label": "Lake Tugalo"
+                    }
+                ]
+            ],
+            [
+                "Lakemont , Georgia",
+                [
+                    "/wiki/Lakemont,_Georgia"
+                ],
+                [
+                    {
+                        "entity id": "Q19986722",
+                        "label": "Lakemont"
+                    }
+                ]
+            ],
+            [
+                "45,000 kW",
+                []
+            ]
+        ],
+        [
+            [
+                "Wallace Dam Hydroelectric Generating Plant",
+                [
+                    "/wiki/Lake_Oconee"
+                ],
+                [
+                    {
+                        "entity id": "Q6477167",
+                        "label": "Lake Oconee"
+                    }
+                ]
+            ],
+            [
+                "Eatonton , Georgia",
+                [
+                    "/wiki/Eatonton,_Georgia"
+                ],
+                [
+                    {
+                        "entity id": "Q1010015",
+                        "label": "Eatonton"
+                    }
+                ]
+            ],
+            [
+                "321,300 kW",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Hydroelectric dams",
+    "section_text": "Georgia Power Hydro incorporates 72 hydroelectric generating units to produce a generation capacity of 844,720 kilowatts ( kW ) . Georgia Power Hydro facilities also provide more than 45,985 acres ( 18,609 ha ) of water bodies and more than 1,057 mi ( 1,701 km ) of shoreline for habitat and recreational use .",
+    "uid": "List_of_power_stations_in_Georgia_(United_States)_0",
+    "intro": "The following page lists power stations in the U.S. state of Georgia."
+}

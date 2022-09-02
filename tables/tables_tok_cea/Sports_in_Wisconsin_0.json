@@ -1,0 +1,648 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Sports_in_Wisconsin",
+    "title": "Sports in Wisconsin",
+    "header": [
+        [
+            "Club",
+            []
+        ],
+        [
+            "City",
+            []
+        ],
+        [
+            "Sport",
+            []
+        ],
+        [
+            "League",
+            []
+        ],
+        [
+            "Championships",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Beloit Snappers",
+                [
+                    "/wiki/Beloit_Snappers"
+                ],
+                [
+                    {
+                        "entity id": "Q4884498",
+                        "label": "Beloit Snappers"
+                    }
+                ]
+            ],
+            [
+                "Beloit",
+                [
+                    "/wiki/Beloit,_Wisconsin"
+                ],
+                [
+                    {
+                        "entity id": "Q816137",
+                        "label": "Beloit"
+                    }
+                ]
+            ],
+            [
+                "Baseball",
+                [
+                    "/wiki/Baseball"
+                ],
+                [
+                    {
+                        "entity id": "Q5369",
+                        "label": "baseball"
+                    }
+                ]
+            ],
+            [
+                "Midwest League",
+                [
+                    "/wiki/Midwest_League"
+                ],
+                [
+                    {
+                        "entity id": "Q1135495",
+                        "label": "Midwest League"
+                    }
+                ]
+            ],
+            [
+                "1",
+                []
+            ]
+        ],
+        [
+            [
+                "Forward Madison FC ( starts play in 2019 )",
+                [
+                    "/wiki/Forward_Madison_FC"
+                ],
+                [
+                    {
+                        "entity id": "Q60745055",
+                        "label": "Forward Madison FC"
+                    }
+                ]
+            ],
+            [
+                "Madison",
+                [
+                    "/wiki/Madison,_Wisconsin"
+                ],
+                [
+                    {
+                        "entity id": "Q43788",
+                        "label": "Madison"
+                    }
+                ]
+            ],
+            [
+                "Soccer",
+                [
+                    "/wiki/Association_football"
+                ],
+                [
+                    {
+                        "entity id": "Q2736",
+                        "label": "association football"
+                    }
+                ]
+            ],
+            [
+                "USL League One",
+                [
+                    "/wiki/USL_League_One"
+                ],
+                [
+                    {
+                        "entity id": "Q30636616",
+                        "label": "USL League One"
+                    }
+                ]
+            ],
+            [
+                "0",
+                []
+            ]
+        ],
+        [
+            [
+                "Green Bay Blizzard",
+                [
+                    "/wiki/Green_Bay_Blizzard"
+                ],
+                [
+                    {
+                        "entity id": "Q2906691",
+                        "label": "Green Bay Blizzard"
+                    }
+                ]
+            ],
+            [
+                "Green Bay",
+                [
+                    "/wiki/Green_Bay,_Wisconsin"
+                ],
+                [
+                    {
+                        "entity id": "Q47430",
+                        "label": "Green Bay"
+                    }
+                ]
+            ],
+            [
+                "Indoor football",
+                [
+                    "/wiki/Indoor_American_football"
+                ],
+                [
+                    {
+                        "entity id": "Q16996906",
+                        "label": "Indoor American football"
+                    }
+                ]
+            ],
+            [
+                "Indoor Football League",
+                [
+                    "/wiki/Indoor_Football_League"
+                ],
+                [
+                    {
+                        "entity id": "Q3248855",
+                        "label": "Indoor Football League"
+                    }
+                ]
+            ],
+            [
+                "0",
+                []
+            ]
+        ],
+        [
+            [
+                "Green Bay Packers",
+                [
+                    "/wiki/Green_Bay_Packers"
+                ],
+                [
+                    {
+                        "entity id": "Q213837",
+                        "label": "Green Bay Packers"
+                    }
+                ]
+            ],
+            [
+                "Green Bay",
+                []
+            ],
+            [
+                "Football",
+                [
+                    "/wiki/American_football"
+                ],
+                [
+                    {
+                        "entity id": "Q41323",
+                        "label": "American football"
+                    }
+                ]
+            ],
+            [
+                "National Football League",
+                [
+                    "/wiki/National_Football_League"
+                ],
+                [
+                    {
+                        "entity id": "Q1215884",
+                        "label": "National Football League"
+                    }
+                ]
+            ],
+            [
+                "13",
+                []
+            ]
+        ],
+        [
+            [
+                "Madison Radicals",
+                [
+                    "/wiki/Madison_Radicals"
+                ],
+                [
+                    {
+                        "entity id": "Q22073479",
+                        "label": "Madison Radicals"
+                    }
+                ]
+            ],
+            [
+                "Madison",
+                [
+                    "/wiki/Madison,_Wisconsin"
+                ],
+                [
+                    {
+                        "entity id": "Q43788",
+                        "label": "Madison"
+                    }
+                ]
+            ],
+            [
+                "Ultimate",
+                [
+                    "/wiki/Ultimate_(sport)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "American Ultimate Disc League",
+                [
+                    "/wiki/American_Ultimate_Disc_League"
+                ],
+                [
+                    {
+                        "entity id": "Q3950991",
+                        "label": "American Ultimate Disc League"
+                    }
+                ]
+            ],
+            [
+                "1",
+                []
+            ]
+        ],
+        [
+            [
+                "Milwaukee Admirals",
+                [
+                    "/wiki/Milwaukee_Admirals"
+                ],
+                [
+                    {
+                        "entity id": "Q1267828",
+                        "label": "Milwaukee Admirals"
+                    }
+                ]
+            ],
+            [
+                "Milwaukee",
+                [
+                    "/wiki/Milwaukee"
+                ],
+                [
+                    {
+                        "entity id": "Q37836",
+                        "label": "Milwaukee"
+                    }
+                ]
+            ],
+            [
+                "Ice hockey",
+                [
+                    "/wiki/Ice_hockey"
+                ],
+                [
+                    {
+                        "entity id": "Q41466",
+                        "label": "ice hockey"
+                    }
+                ]
+            ],
+            [
+                "American Hockey League",
+                [
+                    "/wiki/American_Hockey_League"
+                ],
+                [
+                    {
+                        "entity id": "Q464995",
+                        "label": "American Hockey League"
+                    }
+                ]
+            ],
+            [
+                "2",
+                []
+            ]
+        ],
+        [
+            [
+                "Milwaukee Bombers",
+                [
+                    "/wiki/Milwaukee_Bombers"
+                ],
+                [
+                    {
+                        "entity id": "Q22023258",
+                        "label": "Milwaukee Bombers"
+                    }
+                ]
+            ],
+            [
+                "Milwaukee",
+                []
+            ],
+            [
+                "Australian rules football",
+                [
+                    "/wiki/Australian_rules_football"
+                ],
+                [
+                    {
+                        "entity id": "Q50776",
+                        "label": "Australian rules football"
+                    }
+                ]
+            ],
+            [
+                "United States Australian Football League / Mid American Australian Football League",
+                [
+                    "/wiki/United_States_Australian_Football_League",
+                    "/wiki/Mid_American_Australian_Football_League"
+                ],
+                [
+                    {
+                        "entity id": "Q3550733",
+                        "label": "United States Australian Football League"
+                    },
+                    {
+                        "entity id": "Q3312603",
+                        "label": "Mid American Australian Football League"
+                    }
+                ]
+            ],
+            [
+                "2",
+                []
+            ]
+        ],
+        [
+            [
+                "Milwaukee Brewers",
+                [
+                    "/wiki/Milwaukee_Brewers"
+                ],
+                [
+                    {
+                        "entity id": "Q650816",
+                        "label": "Baltimore Orioles"
+                    }
+                ]
+            ],
+            [
+                "Milwaukee",
+                []
+            ],
+            [
+                "Baseball",
+                []
+            ],
+            [
+                "Major League Baseball",
+                [
+                    "/wiki/Major_League_Baseball"
+                ],
+                [
+                    {
+                        "entity id": "Q1163715",
+                        "label": "Major League Baseball"
+                    }
+                ]
+            ],
+            [
+                "0",
+                []
+            ]
+        ],
+        [
+            [
+                "Milwaukee Bucks",
+                [
+                    "/wiki/Milwaukee_Bucks"
+                ],
+                [
+                    {
+                        "entity id": "Q169637",
+                        "label": "Milwaukee Bucks"
+                    }
+                ]
+            ],
+            [
+                "Milwaukee",
+                []
+            ],
+            [
+                "Basketball",
+                [
+                    "/wiki/Basketball"
+                ],
+                [
+                    {
+                        "entity id": "Q5372",
+                        "label": "basketball"
+                    }
+                ]
+            ],
+            [
+                "National Basketball Association",
+                [
+                    "/wiki/National_Basketball_Association"
+                ],
+                [
+                    {
+                        "entity id": "Q155223",
+                        "label": "National Basketball Association"
+                    }
+                ]
+            ],
+            [
+                "1",
+                []
+            ]
+        ],
+        [
+            [
+                "Milwaukee Wave",
+                [
+                    "/wiki/Milwaukee_Wave"
+                ],
+                [
+                    {
+                        "entity id": "Q3566764",
+                        "label": "Milwaukee Wave"
+                    }
+                ]
+            ],
+            [
+                "Milwaukee",
+                []
+            ],
+            [
+                "Indoor Soccer",
+                [
+                    "/wiki/Indoor_Soccer"
+                ],
+                [
+                    {
+                        "entity id": "Q28954",
+                        "label": "indoor soccer"
+                    }
+                ]
+            ],
+            [
+                "Major Arena Soccer League",
+                [
+                    "/wiki/Major_Arena_Soccer_League"
+                ],
+                [
+                    {
+                        "entity id": "Q7247922",
+                        "label": "Major Arena Soccer League"
+                    }
+                ]
+            ],
+            [
+                "5",
+                []
+            ]
+        ],
+        [
+            [
+                "Wisconsin Dragons",
+                [
+                    "/wiki/Wisconsin_Dragons"
+                ],
+                [
+                    {
+                        "entity id": "Q8027161",
+                        "label": "Wisconsin Dragons"
+                    }
+                ]
+            ],
+            [
+                "Milwaukee",
+                []
+            ],
+            [
+                "Football",
+                []
+            ],
+            [
+                "Women 's Football Alliance",
+                [
+                    "/wiki/Women's_Football_Alliance"
+                ],
+                [
+                    {
+                        "entity id": "Q8030894",
+                        "label": "Women's Football Alliance"
+                    }
+                ]
+            ],
+            [
+                "0",
+                []
+            ]
+        ],
+        [
+            [
+                "Wisconsin Herd",
+                [
+                    "/wiki/Wisconsin_Herd"
+                ],
+                [
+                    {
+                        "entity id": "Q28735245",
+                        "label": "Wisconsin Herd"
+                    }
+                ]
+            ],
+            [
+                "Oshkosh",
+                [
+                    "/wiki/Oshkosh,_Wisconsin"
+                ],
+                [
+                    {
+                        "entity id": "Q936741",
+                        "label": "Oshkosh"
+                    }
+                ]
+            ],
+            [
+                "Basketball",
+                []
+            ],
+            [
+                "NBA G League",
+                [
+                    "/wiki/NBA_G_League"
+                ],
+                [
+                    {
+                        "entity id": "Q842793",
+                        "label": "NBA G League"
+                    }
+                ]
+            ],
+            [
+                "0",
+                []
+            ]
+        ],
+        [
+            [
+                "Wisconsin Timber Rattlers",
+                [
+                    "/wiki/Wisconsin_Timber_Rattlers"
+                ],
+                [
+                    {
+                        "entity id": "Q8027338",
+                        "label": "Wisconsin Timber Rattlers"
+                    }
+                ]
+            ],
+            [
+                "Appleton",
+                [
+                    "/wiki/Appleton,_Wisconsin"
+                ],
+                [
+                    {
+                        "entity id": "Q94928",
+                        "label": "Appleton"
+                    }
+                ]
+            ],
+            [
+                "Baseball",
+                []
+            ],
+            [
+                "Midwest League",
+                []
+            ],
+            [
+                "7",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Professional teams",
+    "section_text": "Wisconsin is represented by major league teams in the three most popular spectator sports in the United States : American football , baseball , and basketball . The Green Bay Packers have been part of the National Football League since the league 's second season in 1921 and currently hold the record for the most NFL titles , earning the city of Green Bay the nickname `` Titletown '' .",
+    "uid": "Sports_in_Wisconsin_0",
+    "intro": "Wisconsin sports includes numerous professional and amateur sporting teams, events, and venues located in the U.S. state of Wisconsin."
+}

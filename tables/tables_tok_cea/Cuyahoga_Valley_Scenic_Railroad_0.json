@@ -1,0 +1,417 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Cuyahoga_Valley_Scenic_Railroad",
+    "title": "Cuyahoga Valley Scenic Railroad",
+    "header": [
+        [
+            "Stations",
+            []
+        ],
+        [
+            "Address",
+            []
+        ],
+        [
+            "Elevation",
+            [
+                "/wiki/Elevation"
+            ],
+            [
+                {
+                    "entity id": "Q54050",
+                    "label": "hill"
+                }
+            ]
+        ],
+        [
+            "Nearby Points of Interest",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Rockside",
+                [
+                    "/wiki/Rockside_station_(Cuyahoga_Valley_Scenic_Railroad)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "7900 Old Rockside Road , Independence , Ohio 44131",
+                [
+                    "/wiki/Independence,_Ohio"
+                ],
+                [
+                    {
+                        "entity id": "Q1942086",
+                        "label": "Independence"
+                    }
+                ]
+            ],
+            [
+                "598 feet ( 182 m )",
+                []
+            ],
+            [
+                "GCRTA Routes 51C ( Rockside Rd ) and 77F ( Brecksville Rd ) bus connection ; Eleven Mile Lock 39 ; Thornburg Station ( food )",
+                [
+                    "/wiki/GCRTA"
+                ],
+                [
+                    {
+                        "entity id": "Q1544412",
+                        "label": "Greater Cleveland Regional Transit Authority"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Canal Exploration Center",
+                [
+                    "/wiki/Canal_Exploration_Center_station_(Cuyahoga_Valley_Scenic_Railroad)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Canal Road & Hillside Road , Valley View , Ohio 44125",
+                [
+                    "/wiki/Valley_View,_Ohio"
+                ],
+                [
+                    {
+                        "entity id": "Q2368989",
+                        "label": "Valley View"
+                    }
+                ]
+            ],
+            [
+                "611 feet ( 186 m )",
+                []
+            ],
+            [
+                "Canal Visitor Center , Twelve Mile Lock 38",
+                []
+            ]
+        ],
+        [
+            [
+                "Brecksville",
+                [
+                    "/wiki/Brecksville_station_(Cuyahoga_Valley_Scenic_Railroad)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "13512 Station Road , Brecksville , Ohio 44141",
+                [
+                    "/wiki/Brecksville,_Ohio"
+                ],
+                [
+                    {
+                        "entity id": "Q904449",
+                        "label": "Brecksville"
+                    }
+                ]
+            ],
+            [
+                "635 feet ( 194 m )",
+                []
+            ],
+            [
+                "Station Road Bridge ; Pinery Dam & Feeder , and Lock 36 ; Whiskey Lock 35",
+                []
+            ]
+        ],
+        [
+            [
+                "Boston Mill",
+                [
+                    "/wiki/Boston_Mill_station_(Cuyahoga_Valley_Scenic_Railroad)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "7100 Riverview Road , Peninsula , Ohio 44264",
+                [
+                    "/wiki/Peninsula,_Ohio"
+                ],
+                [
+                    {
+                        "entity id": "Q2672552",
+                        "label": "Peninsula"
+                    }
+                ]
+            ],
+            [
+                "663 feet ( 202 m )",
+                []
+            ],
+            [
+                "Boston Store Visitor Center , Boston Lock 32 , Lonesome Lock 31 , Wallace Lock 33 , Boston Mills Ski Resort , food",
+                []
+            ]
+        ],
+        [
+            [
+                "Peninsula Depot",
+                [
+                    "/wiki/Peninsula_Depot_(Cuyahoga_Valley_Scenic_Railroad)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1630 West Mill Street , Peninsula , Ohio 44264",
+                [
+                    "/wiki/Peninsula,_Ohio"
+                ],
+                [
+                    {
+                        "entity id": "Q2672552",
+                        "label": "Peninsula"
+                    }
+                ]
+            ],
+            [
+                "693 feet ( 211 m )",
+                []
+            ],
+            [
+                "Peninsula Visitor Center , Peninsula Lock 29 , Peninsula Feeder Lock 30 , Deep Lock 28 and Quarry , food",
+                []
+            ]
+        ],
+        [
+            [
+                "Indigo Lake",
+                [
+                    "/wiki/Indigo_Lake_station_(Cuyahoga_Valley_Scenic_Railroad)"
+                ],
+                [
+                    {
+                        "entity id": "Q55614431",
+                        "label": "Indigo Lake station (Cuyahoga Valley Scenic Railroad)"
+                    }
+                ]
+            ],
+            [
+                "Riverview Road , Peninsula , Ohio 44264",
+                [
+                    "/wiki/Peninsula,_Ohio"
+                ],
+                [
+                    {
+                        "entity id": "Q2672552",
+                        "label": "Peninsula"
+                    }
+                ]
+            ],
+            [
+                "739 feet ( 225 m )",
+                []
+            ],
+            [
+                "Hunt Farm Visitor Center , Beaver Marsh , Pancake Lock 26 , Johnny Cake Lock 27",
+                []
+            ]
+        ],
+        [
+            [
+                "Howe Meadow stop",
+                []
+            ],
+            [
+                "4040 Riverview Road , Peninsula , Ohio 44264",
+                [
+                    "/wiki/Peninsula,_Ohio"
+                ],
+                [
+                    {
+                        "entity id": "Q2672552",
+                        "label": "Peninsula"
+                    }
+                ]
+            ],
+            [
+                "741 feet ( 226 m )",
+                []
+            ],
+            [
+                "Hunt Farm Visitor Center , Everett Road Covered Bridge",
+                []
+            ]
+        ],
+        [
+            [
+                "Botzum",
+                [
+                    "/wiki/Botzum_station_(Cuyahoga_Valley_Scenic_Railroad)"
+                ],
+                [
+                    {
+                        "entity id": "Q55605816",
+                        "label": "Botzum station (Cuyahoga Valley Scenic Railroad)"
+                    }
+                ]
+            ],
+            [
+                "2912 Riverview Road , Akron , Ohio 44313",
+                [
+                    "/wiki/Akron,_Ohio"
+                ],
+                [
+                    {
+                        "entity id": "Q163132",
+                        "label": "Akron"
+                    }
+                ]
+            ],
+            [
+                "754 feet ( 230 m )",
+                []
+            ],
+            [
+                "Niles Lock 24 , Mudcatcher Lock 25 ( Station located in Cuyahoga Falls , Ohio )",
+                [
+                    "/wiki/Cuyahoga_Falls,_Ohio"
+                ],
+                [
+                    {
+                        "entity id": "Q531958",
+                        "label": "Cuyahoga Falls"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Big Bend",
+                [
+                    "/wiki/Big_Bend_(Cuyahoga_Valley_Scenic_Railroad)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1337 Merriman Road , Akron , Ohio 44313",
+                [
+                    "/wiki/Akron,_Ohio"
+                ],
+                [
+                    {
+                        "entity id": "Q163132",
+                        "label": "Akron"
+                    }
+                ]
+            ],
+            [
+                "782 feet ( 238 m )",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Akron Northside",
+                [
+                    "/wiki/Akron_Northside_station_(Cuyahoga_Valley_Scenic_Railroad)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "27 Ridge Street , Akron , Ohio 44308",
+                [
+                    "/wiki/Akron,_Ohio"
+                ],
+                [
+                    {
+                        "entity id": "Q163132",
+                        "label": "Akron"
+                    }
+                ]
+            ],
+            [
+                "885 feet ( 270 m )",
+                []
+            ],
+            [
+                "Mustill Store , Quaker Square , National Inventors Hall of Fame a.k.a . Inventure Place",
+                [
+                    "/wiki/Quaker_Square",
+                    "/wiki/National_Inventors_Hall_of_Fame"
+                ],
+                [
+                    {
+                        "entity id": "Q7268566",
+                        "label": "Quaker Square"
+                    },
+                    {
+                        "entity id": "Q1366018",
+                        "label": "National Inventors Hall of Fame"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Canton Lincoln Highway",
+                []
+            ],
+            [
+                "1315 Tuscarawas Street West , Canton , Ohio 44702",
+                [
+                    "/wiki/Canton,_Ohio"
+                ],
+                [
+                    {
+                        "entity id": "Q491239",
+                        "label": "Canton"
+                    }
+                ]
+            ],
+            [
+                "1,029 feet ( 314 m )",
+                []
+            ],
+            [
+                "McKinley Memorial Mausoleum , Canton Museum of Art , First Ladies National Historic Site",
+                [
+                    "/wiki/McKinley_Memorial_Mausoleum",
+                    "/wiki/Canton_Museum_of_Art",
+                    "/wiki/First_Ladies_National_Historic_Site"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q5033908",
+                        "label": "Canton Museum of Art"
+                    },
+                    {
+                        "entity id": "Q5453137",
+                        "label": "First Ladies National Historic Site"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "List of stations",
+    "section_text": "",
+    "uid": "Cuyahoga_Valley_Scenic_Railroad_0",
+    "intro": "Cuyahoga Valley Scenic Railroad is a Class III railroad operating diesel-electric and steam-powered excursion trips through Peninsula, Ohio in the Cuyahoga Valley, primarily through the scenic Cuyahoga Valley National Park."
+}

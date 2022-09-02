@@ -1,0 +1,553 @@
+{
+    "url": "https://en.wikipedia.org/wiki/North_Station",
+    "title": "North Station",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Final B & M station at peak level",
+            []
+        ],
+        [
+            "Partner railroad in continuing joint train service",
+            []
+        ],
+        [
+            "Final destination",
+            []
+        ],
+        [
+            "Year discontinued",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "The Minute Man",
+                []
+            ],
+            [
+                "Troy , New York via Fitchburg , Massachusetts and Greenfield , Massachusetts",
+                [
+                    "/wiki/Union_Station_(Troy,_New_York)",
+                    "/wiki/Fitchburg,_Massachusetts",
+                    "/wiki/Greenfield,_Massachusetts"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q54182",
+                        "label": "Fitchburg"
+                    },
+                    {
+                        "entity id": "Q1530924",
+                        "label": "Greenfield"
+                    }
+                ]
+            ],
+            [
+                "New York Central",
+                [
+                    "/wiki/New_York_Central"
+                ],
+                [
+                    {
+                        "entity id": "Q1371464",
+                        "label": "New York Central Railroad"
+                    }
+                ]
+            ],
+            [
+                "Chicago , Illinois",
+                [
+                    "/wiki/Chicago,_Illinois"
+                ],
+                [
+                    {
+                        "entity id": "Q1297",
+                        "label": "Chicago"
+                    }
+                ]
+            ],
+            [
+                "1960",
+                []
+            ]
+        ],
+        [
+            [
+                "The Cheshire",
+                []
+            ],
+            [
+                "Bellows Falls , Vermont via Fitchburg , Massachusetts and Keene , New Hampshire",
+                [
+                    "/wiki/Bellows_Falls,_Vermont",
+                    "/wiki/Keene,_New_Hampshire"
+                ],
+                [
+                    {
+                        "entity id": "Q816044",
+                        "label": "Bellows Falls"
+                    },
+                    {
+                        "entity id": "Q767364",
+                        "label": "Keene"
+                    }
+                ]
+            ],
+            [
+                "-",
+                []
+            ],
+            [
+                "-",
+                []
+            ],
+            [
+                "1958",
+                []
+            ]
+        ],
+        [
+            [
+                "Green Mountain Flyer",
+                [
+                    "/wiki/Green_Mountain_Flyer"
+                ],
+                [
+                    {
+                        "entity id": "Q60749816",
+                        "label": "Green Mountain Flyer"
+                    }
+                ]
+            ],
+            [
+                "Bellows Falls , Vermont",
+                []
+            ],
+            [
+                "Rutland Railway",
+                [
+                    "/wiki/Rutland_Railway"
+                ],
+                [
+                    {
+                        "entity id": "Q942194",
+                        "label": "Rutland Railway"
+                    }
+                ]
+            ],
+            [
+                "Burlington , Vermont , Montreal , Quebec",
+                [
+                    "/wiki/Burlington,_Vermont",
+                    "/wiki/Montreal,_Quebec"
+                ],
+                [
+                    {
+                        "entity id": "Q31058",
+                        "label": "Burlington"
+                    },
+                    {
+                        "entity id": "Q340",
+                        "label": "Montreal"
+                    }
+                ]
+            ],
+            [
+                "1953",
+                []
+            ]
+        ],
+        [
+            [
+                "Ambassador",
+                [
+                    "/wiki/Ambassador_(B&M_train)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "White River Junction , Vermont via Lowell , Massachusetts and Concord , New Hampshire",
+                [
+                    "/wiki/White_River_Junction_(Amtrak_station)",
+                    "/wiki/Lowell,_Massachusetts",
+                    "/wiki/Concord,_New_Hampshire"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q49162",
+                        "label": "Lowell"
+                    },
+                    {
+                        "entity id": "Q28249",
+                        "label": "Concord"
+                    }
+                ]
+            ],
+            [
+                "Central Vermont Railway",
+                [
+                    "/wiki/Central_Vermont_Railway"
+                ],
+                [
+                    {
+                        "entity id": "Q743414",
+                        "label": "Central Vermont Railway"
+                    }
+                ]
+            ],
+            [
+                "Essex Junction , Vermont , Montreal , Quebec",
+                [
+                    "/wiki/Essex_Junction,_Vermont"
+                ],
+                [
+                    {
+                        "entity id": "Q648356",
+                        "label": "Essex Junction"
+                    }
+                ]
+            ],
+            [
+                "1956",
+                []
+            ]
+        ],
+        [
+            [
+                "Alouette",
+                [
+                    "/wiki/Alouette_(train)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Wells River , Vermont via Lowell , Massachusetts and Concord , New Hampshire",
+                [
+                    "/wiki/Wells_River,_Vermont"
+                ],
+                [
+                    {
+                        "entity id": "Q691805",
+                        "label": "Wells River"
+                    }
+                ]
+            ],
+            [
+                "Canadian Pacific Railway",
+                [
+                    "/wiki/Canadian_Pacific_Railway"
+                ],
+                [
+                    {
+                        "entity id": "Q46974",
+                        "label": "Canadian Pacific Railway"
+                    }
+                ]
+            ],
+            [
+                "Montreal , Quebec",
+                []
+            ],
+            [
+                "1965 ( only as unnamed train in final decade )",
+                []
+            ]
+        ],
+        [
+            [
+                "Connecticut Yankee",
+                [
+                    "/wiki/Connecticut_Yankee_(train)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Travelling via Concord , New Hampshire , then connecting with main route from New York City at White River Junction , Vermont",
+                [
+                    "/wiki/Concord,_New_Hampshire",
+                    "/wiki/White_River_Junction,_Vermont"
+                ],
+                [
+                    {
+                        "entity id": "Q28249",
+                        "label": "Concord"
+                    },
+                    {
+                        "entity id": "Q1898562",
+                        "label": "White River Junction"
+                    }
+                ]
+            ],
+            [
+                "Central Vermont Railway Quebec Central Railway",
+                [
+                    "/wiki/Central_Vermont_Railway",
+                    "/wiki/Quebec_Central_Railway"
+                ],
+                [
+                    {
+                        "entity id": "Q743414",
+                        "label": "Central Vermont Railway"
+                    },
+                    {
+                        "entity id": "Q1540051",
+                        "label": "Quebec Central Railway"
+                    }
+                ]
+            ],
+            [
+                "Quebec City , Quebec via Sherbrooke , Quebec",
+                [
+                    "/wiki/Quebec_City,_Quebec",
+                    "/wiki/Sherbrooke,_Quebec"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q139473",
+                        "label": "Sherbrooke"
+                    }
+                ]
+            ],
+            [
+                "ca . 1953",
+                []
+            ]
+        ],
+        [
+            [
+                "Flying Yankee",
+                [
+                    "/wiki/Flying_Yankee"
+                ],
+                [
+                    {
+                        "entity id": "Q5463562",
+                        "label": "Flying Yankee"
+                    }
+                ]
+            ],
+            [
+                "Portland , Maine via Dover , New Hampshire",
+                [
+                    "/wiki/Portland,_Maine",
+                    "/wiki/Dover,_New_Hampshire"
+                ],
+                [
+                    {
+                        "entity id": "Q49201",
+                        "label": "Portland"
+                    },
+                    {
+                        "entity id": "Q48215",
+                        "label": "Dover"
+                    }
+                ]
+            ],
+            [
+                "Maine Central Railroad",
+                [
+                    "/wiki/Maine_Central_Railroad"
+                ],
+                [
+                    {
+                        "entity id": "Q1885607",
+                        "label": "Maine Central Railroad Company"
+                    }
+                ]
+            ],
+            [
+                "Bangor , Maine",
+                [
+                    "/wiki/Bangor,_Maine"
+                ],
+                [
+                    {
+                        "entity id": "Q327012",
+                        "label": "Bangor"
+                    }
+                ]
+            ],
+            [
+                "1957",
+                []
+            ]
+        ],
+        [
+            [
+                "Kennebec Limited",
+                []
+            ],
+            [
+                "Portland , Maine",
+                []
+            ],
+            [
+                "Maine Central Railroad",
+                []
+            ],
+            [
+                "Vanceboro , Maine",
+                []
+            ],
+            [
+                "1958",
+                []
+            ]
+        ],
+        [
+            [
+                "Mountaineer ( summer only )",
+                []
+            ],
+            [
+                "Littleton , New Hampshire via North Conway , and Crawford Notch in the White Mountains",
+                [
+                    "/wiki/Littleton,_New_Hampshire",
+                    "/wiki/White_Mountains_(New_Hampshire)"
+                ],
+                [
+                    {
+                        "entity id": "Q1626213",
+                        "label": "Littleton"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Maine Central Railroad",
+                []
+            ],
+            [
+                "Intervale , New Hampshire",
+                []
+            ],
+            [
+                "1955",
+                []
+            ]
+        ],
+        [
+            [
+                "Penobscot",
+                []
+            ],
+            [
+                "Portland , Maine",
+                []
+            ],
+            [
+                "Maine Central Railroad",
+                []
+            ],
+            [
+                "Bangor , Maine",
+                []
+            ],
+            [
+                "1957",
+                []
+            ]
+        ],
+        [
+            [
+                "Pine Tree Limited",
+                []
+            ],
+            [
+                "Portland , Maine",
+                []
+            ],
+            [
+                "Maine Central Railroad",
+                []
+            ],
+            [
+                "Bangor , Maine",
+                []
+            ],
+            [
+                "1958",
+                []
+            ]
+        ],
+        [
+            [
+                "The Gull",
+                [
+                    "/wiki/The_Gull"
+                ],
+                [
+                    {
+                        "entity id": "Q51392688",
+                        "label": "The Gull"
+                    }
+                ]
+            ],
+            [
+                "Portland , Maine",
+                []
+            ],
+            [
+                "Maine Central Railroad Canadian Pacific Railway Canadian National Railway",
+                [
+                    "/wiki/Maine_Central_Railroad",
+                    "/wiki/Canadian_Pacific_Railway",
+                    "/wiki/Canadian_National_Railway"
+                ],
+                [
+                    {
+                        "entity id": "Q1885607",
+                        "label": "Maine Central Railroad Company"
+                    },
+                    {
+                        "entity id": "Q46974",
+                        "label": "Canadian Pacific Railway"
+                    },
+                    {
+                        "entity id": "Q624798",
+                        "label": "Canadian National Railway"
+                    }
+                ]
+            ],
+            [
+                "Halifax , Nova Scotia via Saint John , New Brunswick",
+                [
+                    "/wiki/Halifax,_Nova_Scotia",
+                    "/wiki/Saint_John,_New_Brunswick"
+                ],
+                [
+                    {
+                        "entity id": "Q2141",
+                        "label": "Halifax"
+                    },
+                    {
+                        "entity id": "Q203403",
+                        "label": "Saint John"
+                    }
+                ]
+            ],
+            [
+                "1960",
+                []
+            ]
+        ]
+    ],
+    "section_title": "History -- North Station",
+    "section_text": "North Station in the early 1960s Until the 1960s , the station was the hub for long-distance B & M service to multiple locales north and west of Boston , usually in conjunction with other railroads . [ 12 ] [ 13 ] [ 14 ] Service cutbacks began in the 1950s , and service soon dwindled down to commuter rail operations . The last intercity service to Portland , Maine and to north of Concord , New Hampshire ended on January 4 , 1965 . [ 1 ] By this point , the intercity train itineraries consisted of self-propelled Budd Rail Diesel Cars , often just one or two cars for the trip . Single commuter-oriented daily round trips on these routes to Concord and Dover , New Hampshire lasted until June 30 , 1967 . [ 1 ] Limited MBTA Commuter Rail service to Concord was run from January 28 , 1980 to March 1 , 1981 as part of a federally funded experiment . [ 1 ]",
+    "uid": "North_Station_0",
+    "intro": "North Station is a major transportation hub located at Causeway and Nashua Streets in Boston, Massachusetts, United States. It is one of the city's two inbound terminals for Amtrak and MBTA Commuter Rail trains, the other being South Station. The main concourse of North Station is located at the street level immediately below TD Garden, Boston's main indoor sports and entertainment facility, allowing people attending events there to take advantage of the extensive transportation connections at the site."
+}

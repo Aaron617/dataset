@@ -1,0 +1,805 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Primera_B_Metropolitana",
+    "title": "Primera B Metropolitana",
+    "header": [
+        [
+            "Club",
+            []
+        ],
+        [
+            "City/Neighborhood",
+            []
+        ],
+        [
+            "Area",
+            []
+        ],
+        [
+            "Stadium",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Acassuso",
+                [
+                    "/wiki/Club_Atl\u00e9tico_Acassuso"
+                ],
+                [
+                    {
+                        "entity id": "Q5136122",
+                        "label": "Club Atl\u00e9tico Acassuso"
+                    }
+                ]
+            ],
+            [
+                "Boulogne Sur Mer",
+                [
+                    "/wiki/Boulogne_Sur_Mer"
+                ],
+                [
+                    {
+                        "entity id": "Q81997",
+                        "label": "Boulogne-sur-Mer"
+                    }
+                ]
+            ],
+            [
+                "Greater Buenos Aires",
+                [
+                    "/wiki/Greater_Buenos_Aires"
+                ],
+                [
+                    {
+                        "entity id": "Q998798",
+                        "label": "Greater Buenos Aires"
+                    }
+                ]
+            ],
+            [
+                "La Quema",
+                []
+            ]
+        ],
+        [
+            [
+                "Almirante Brown",
+                [
+                    "/wiki/Club_Almirante_Brown"
+                ],
+                [
+                    {
+                        "entity id": "Q1102931",
+                        "label": "Club Almirante Brown"
+                    }
+                ]
+            ],
+            [
+                "Isidro Casanova",
+                [
+                    "/wiki/Isidro_Casanova"
+                ],
+                [
+                    {
+                        "entity id": "Q2700395",
+                        "label": "Isidro Casanova"
+                    }
+                ]
+            ],
+            [
+                "Greater Buenos Aires",
+                [
+                    "/wiki/Greater_Buenos_Aires"
+                ],
+                [
+                    {
+                        "entity id": "Q998798",
+                        "label": "Greater Buenos Aires"
+                    }
+                ]
+            ],
+            [
+                "Fragata Pte . Sarmiento",
+                [
+                    "/wiki/Estadio_Fragata_Presidente_Sarmiento"
+                ],
+                [
+                    {
+                        "entity id": "Q5400214",
+                        "label": "Estadio Fragata Presidente Sarmiento"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Argentino",
+                [
+                    "/wiki/Argentino_de_Quilmes"
+                ],
+                [
+                    {
+                        "entity id": "Q2860985",
+                        "label": "Argentino de Quilmes"
+                    }
+                ]
+            ],
+            [
+                "Quilmes",
+                [
+                    "/wiki/Quilmes"
+                ],
+                [
+                    {
+                        "entity id": "Q828782",
+                        "label": "Quilmes"
+                    }
+                ]
+            ],
+            [
+                "Greater Buenos Aires",
+                [
+                    "/wiki/Greater_Buenos_Aires"
+                ],
+                [
+                    {
+                        "entity id": "Q998798",
+                        "label": "Greater Buenos Aires"
+                    }
+                ]
+            ],
+            [
+                "Argentino de Quilmes",
+                []
+            ]
+        ],
+        [
+            [
+                "Armenio",
+                [
+                    "/wiki/Deportivo_Armenio"
+                ],
+                [
+                    {
+                        "entity id": "Q965275",
+                        "label": "Deportivo Armenio"
+                    }
+                ]
+            ],
+            [
+                "Ingeniero Maschwitz",
+                [
+                    "/wiki/Ingeniero_Maschwitz"
+                ],
+                [
+                    {
+                        "entity id": "Q8479145",
+                        "label": "Ingeniero Maschwitz"
+                    }
+                ]
+            ],
+            [
+                "Buenos Aires Province",
+                [
+                    "/wiki/Buenos_Aires_Province"
+                ],
+                [
+                    {
+                        "entity id": "Q44754",
+                        "label": "Buenos Aires Province"
+                    }
+                ]
+            ],
+            [
+                "Rep\u00fablica de Armenia",
+                []
+            ]
+        ],
+        [
+            [
+                "Colegiales",
+                [
+                    "/wiki/Club_Atl\u00e9tico_Colegiales_(Argentina)"
+                ],
+                [
+                    {
+                        "entity id": "Q2057734",
+                        "label": "Club Atl\u00e9tico Colegiales"
+                    }
+                ]
+            ],
+            [
+                "Munro",
+                [
+                    "/wiki/Munro,_Buenos_Aires"
+                ],
+                [
+                    {
+                        "entity id": "Q3786437",
+                        "label": "Munro"
+                    }
+                ]
+            ],
+            [
+                "Greater Buenos Aires",
+                [
+                    "/wiki/Greater_Buenos_Aires"
+                ],
+                [
+                    {
+                        "entity id": "Q998798",
+                        "label": "Greater Buenos Aires"
+                    }
+                ]
+            ],
+            [
+                "Libertarios Unidos",
+                []
+            ]
+        ],
+        [
+            [
+                "Comunicaciones",
+                [
+                    "/wiki/Club_Comunicaciones"
+                ],
+                [
+                    {
+                        "entity id": "Q2979842",
+                        "label": "Club Comunicaciones"
+                    }
+                ]
+            ],
+            [
+                "Agronom\u00eda",
+                [
+                    "/wiki/Agronom\u00eda"
+                ],
+                [
+                    {
+                        "entity id": "Q397422",
+                        "label": "Agronom\u00eda"
+                    }
+                ]
+            ],
+            [
+                "Buenos Aires",
+                [
+                    "/wiki/Buenos_Aires"
+                ],
+                [
+                    {
+                        "entity id": "Q1486",
+                        "label": "Buenos Aires"
+                    }
+                ]
+            ],
+            [
+                "Alfredo Ramos",
+                [
+                    "/wiki/Estadio_Alfredo_Ramos"
+                ],
+                [
+                    {
+                        "entity id": "Q4119280",
+                        "label": "Estadio Alfredo Ramos"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Defensores Unidos",
+                [
+                    "/wiki/Defensores_Unidos"
+                ],
+                [
+                    {
+                        "entity id": "Q3622189",
+                        "label": "Defensores Unidos"
+                    }
+                ]
+            ],
+            [
+                "Zarate",
+                [
+                    "/wiki/Z\u00e1rate,_Buenos_Aires"
+                ],
+                [
+                    {
+                        "entity id": "Q246956",
+                        "label": "Z\u00e1rate"
+                    }
+                ]
+            ],
+            [
+                "Greater Buenos Aires",
+                [
+                    "/wiki/Greater_Buenos_Aires"
+                ],
+                [
+                    {
+                        "entity id": "Q998798",
+                        "label": "Greater Buenos Aires"
+                    }
+                ]
+            ],
+            [
+                "Estadio Gigante de Villa Fox",
+                []
+            ]
+        ],
+        [
+            [
+                "F\u00e9nix",
+                [
+                    "/wiki/Club_Atl\u00e9tico_F\u00e9nix"
+                ],
+                [
+                    {
+                        "entity id": "Q5136135",
+                        "label": "Club Atl\u00e9tico F\u00e9nix"
+                    }
+                ]
+            ],
+            [
+                "Pilar",
+                [
+                    "/wiki/Pilar,_Buenos_Aires_Province"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Buenos Aires Province",
+                [
+                    "/wiki/Buenos_Aires_Province"
+                ],
+                [
+                    {
+                        "entity id": "Q44754",
+                        "label": "Buenos Aires Province"
+                    }
+                ]
+            ],
+            [
+                "( none )",
+                []
+            ]
+        ],
+        [
+            [
+                "Flandria",
+                [
+                    "/wiki/Club_Social_y_Deportivo_Flandria"
+                ],
+                [
+                    {
+                        "entity id": "Q2562022",
+                        "label": "Club Social y Deportivo Flandria"
+                    }
+                ]
+            ],
+            [
+                "J\u00e1uregui",
+                [
+                    "/wiki/J\u00e1uregui,_Buenos_Aires"
+                ],
+                [
+                    {
+                        "entity id": "Q5943058",
+                        "label": "J\u00e1uregui, Buenos Aires Province"
+                    }
+                ]
+            ],
+            [
+                "Greater Buenos Aires",
+                [
+                    "/wiki/Greater_Buenos_Aires"
+                ],
+                [
+                    {
+                        "entity id": "Q998798",
+                        "label": "Greater Buenos Aires"
+                    }
+                ]
+            ],
+            [
+                "Estadio Carlos V",
+                []
+            ]
+        ],
+        [
+            [
+                "Justo Jos\u00e9 de Urquiza",
+                [
+                    "/wiki/Asociaci\u00f3n_Social_y_Deportiva_Justo_Jos\u00e9_de_Urquiza"
+                ],
+                [
+                    {
+                        "entity id": "Q4807519",
+                        "label": "Asociaci\u00f3n Social y Deportiva Justo Jos\u00e9 de Urquiza"
+                    }
+                ]
+            ],
+            [
+                "Loma Hermosa",
+                [
+                    "/wiki/Loma_Hermosa"
+                ],
+                [
+                    {
+                        "entity id": "Q2499214",
+                        "label": "Loma Hermosa"
+                    }
+                ]
+            ],
+            [
+                "Greater Buenos Aires",
+                [
+                    "/wiki/Greater_Buenos_Aires"
+                ],
+                [
+                    {
+                        "entity id": "Q998798",
+                        "label": "Greater Buenos Aires"
+                    }
+                ]
+            ],
+            [
+                "Ram\u00f3n Roque Mart\u00edn",
+                []
+            ]
+        ],
+        [
+            [
+                "Los Andes",
+                [
+                    "/wiki/Club_Atletico_Los_Andes"
+                ],
+                [
+                    {
+                        "entity id": "Q2317584",
+                        "label": "Club Atl\u00e9tico Los Andes"
+                    }
+                ]
+            ],
+            [
+                "Lomas de Zamora",
+                [
+                    "/wiki/Lomas_de_Zamora"
+                ],
+                [
+                    {
+                        "entity id": "Q642057",
+                        "label": "Lomas de Zamora"
+                    }
+                ]
+            ],
+            [
+                "Greater Buenos Aires",
+                [
+                    "/wiki/Greater_Buenos_Aires"
+                ],
+                [
+                    {
+                        "entity id": "Q998798",
+                        "label": "Greater Buenos Aires"
+                    }
+                ]
+            ],
+            [
+                "Eduardo Gallard\u00f3n",
+                [
+                    "/wiki/Estadio_Eduardo_Gallard\u00f3n"
+                ],
+                [
+                    {
+                        "entity id": "Q5400174",
+                        "label": "Estadio Eduardo Gallard\u00f3n"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Sacachispas",
+                [
+                    "/wiki/Sacachispas_F\u00fatbol_Club"
+                ],
+                [
+                    {
+                        "entity id": "Q7396557",
+                        "label": "Sacachispas F\u00fatbol Club"
+                    }
+                ]
+            ],
+            [
+                "Villa Soldati",
+                [
+                    "/wiki/Villa_Soldati"
+                ],
+                [
+                    {
+                        "entity id": "Q2713588",
+                        "label": "Villa Soldati"
+                    }
+                ]
+            ],
+            [
+                "Buenos Aires",
+                [
+                    "/wiki/Buenos_Aires"
+                ],
+                [
+                    {
+                        "entity id": "Q1486",
+                        "label": "Buenos Aires"
+                    }
+                ]
+            ],
+            [
+                "Beto Larossa",
+                []
+            ]
+        ],
+        [
+            [
+                "San Miguel",
+                [
+                    "/wiki/Club_Atl\u00e9tico_San_Miguel"
+                ],
+                [
+                    {
+                        "entity id": "Q972701",
+                        "label": "Club Atl\u00e9tico San Miguel"
+                    }
+                ]
+            ],
+            [
+                "San Miguel",
+                [
+                    "/wiki/San_Miguel,_Buenos_Aires"
+                ],
+                [
+                    {
+                        "entity id": "Q1967802",
+                        "label": "San Miguel"
+                    }
+                ]
+            ],
+            [
+                "Greater Buenos Aires",
+                [
+                    "/wiki/Greater_Buenos_Aires"
+                ],
+                [
+                    {
+                        "entity id": "Q998798",
+                        "label": "Greater Buenos Aires"
+                    }
+                ]
+            ],
+            [
+                "Malvinas Argentinas",
+                []
+            ]
+        ],
+        [
+            [
+                "San Telmo",
+                [
+                    "/wiki/Club_Atl\u00e9tico_San_Telmo"
+                ],
+                [
+                    {
+                        "entity id": "Q2979822",
+                        "label": "Club Atl\u00e9tico San Telmo"
+                    }
+                ]
+            ],
+            [
+                "Dock Sud",
+                [
+                    "/wiki/Dock_Sud"
+                ],
+                [
+                    {
+                        "entity id": "Q2569014",
+                        "label": "Dock Sud"
+                    }
+                ]
+            ],
+            [
+                "Greater Buenos Aires",
+                [
+                    "/wiki/Greater_Buenos_Aires"
+                ],
+                [
+                    {
+                        "entity id": "Q998798",
+                        "label": "Greater Buenos Aires"
+                    }
+                ]
+            ],
+            [
+                "Osvaldo Baletto",
+                []
+            ]
+        ],
+        [
+            [
+                "Talleres ( BA )",
+                [
+                    "/wiki/Talleres_de_Remedios_de_Escalada"
+                ],
+                [
+                    {
+                        "entity id": "Q1022941",
+                        "label": "Talleres de Remedios de Escalada"
+                    }
+                ]
+            ],
+            [
+                "Remedios de Escalada",
+                [
+                    "/wiki/Remedios_de_Escalada"
+                ],
+                [
+                    {
+                        "entity id": "Q2291654",
+                        "label": "Remedios de Escalada"
+                    }
+                ]
+            ],
+            [
+                "Greater Buenos Aires",
+                [
+                    "/wiki/Greater_Buenos_Aires"
+                ],
+                [
+                    {
+                        "entity id": "Q998798",
+                        "label": "Greater Buenos Aires"
+                    }
+                ]
+            ],
+            [
+                "Estadio de Talleres",
+                []
+            ]
+        ],
+        [
+            [
+                "Trist\u00e1n Su\u00e1rez",
+                [
+                    "/wiki/Club_Social_y_Deportivo_Trist\u00e1n_Su\u00e1rez"
+                ],
+                [
+                    {
+                        "entity id": "Q2979984",
+                        "label": "Club Trist\u00e1n Su\u00e1rez"
+                    }
+                ]
+            ],
+            [
+                "Trist\u00e1n Su\u00e1rez",
+                [
+                    "/wiki/Trist\u00e1n_Su\u00e1rez"
+                ],
+                [
+                    {
+                        "entity id": "Q7844233",
+                        "label": "Trist\u00e1n Su\u00e1rez"
+                    }
+                ]
+            ],
+            [
+                "Greater Buenos Aires",
+                [
+                    "/wiki/Greater_Buenos_Aires"
+                ],
+                [
+                    {
+                        "entity id": "Q998798",
+                        "label": "Greater Buenos Aires"
+                    }
+                ]
+            ],
+            [
+                "20 de Octubre",
+                []
+            ]
+        ],
+        [
+            [
+                "UAI Urquiza",
+                [
+                    "/wiki/UAI_Urquiza"
+                ],
+                [
+                    {
+                        "entity id": "Q49042451",
+                        "label": "UAI Urquiza"
+                    }
+                ]
+            ],
+            [
+                "Villa Lynch",
+                []
+            ],
+            [
+                "Greater Buenos Aires",
+                [
+                    "/wiki/Greater_Buenos_Aires"
+                ],
+                [
+                    {
+                        "entity id": "Q998798",
+                        "label": "Greater Buenos Aires"
+                    }
+                ]
+            ],
+            [
+                "Monumental de Villa Lynch",
+                []
+            ]
+        ],
+        [
+            [
+                "Villa San Carlos",
+                [
+                    "/wiki/Club_Atl\u00e9tico_Villa_San_Carlos"
+                ],
+                [
+                    {
+                        "entity id": "Q5136150",
+                        "label": "Club Atl\u00e9tico Villa San Carlos"
+                    }
+                ]
+            ],
+            [
+                "Berisso",
+                [
+                    "/wiki/Berisso"
+                ],
+                [
+                    {
+                        "entity id": "Q668462",
+                        "label": "Berisso"
+                    }
+                ]
+            ],
+            [
+                "Greater Buenos Aires",
+                [
+                    "/wiki/Greater_Buenos_Aires"
+                ],
+                [
+                    {
+                        "entity id": "Q998798",
+                        "label": "Greater Buenos Aires"
+                    }
+                ]
+            ],
+            [
+                "Genacio S\u00e1lice",
+                [
+                    "/wiki/Estadio_Genacio_S\u00e1lice"
+                ],
+                [
+                    {
+                        "entity id": "Q16564641",
+                        "label": "Estadio Genacio S\u00e1lice"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Current teams ( 2019\u201320 season )",
+    "section_text": "",
+    "uid": "Primera_B_Metropolitana_2",
+    "intro": "Primera B Metropolitana is one of two professional leagues that form the third level of the Argentine football league system. The division is made up of 17 clubs mainly from the city of Buenos Aires and its metropolitan area, Greater Buenos Aires. Originally created as the second division, it became the third level after a restructuring of the system in 1985 that ended with the creation of Primera B Nacional, set as the second division since then. The other league at level three is the Torneo Federal A, where teams from regional leagues take part."
+}

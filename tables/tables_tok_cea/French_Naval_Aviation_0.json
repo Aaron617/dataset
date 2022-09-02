@@ -1,0 +1,461 @@
+{
+    "url": "https://en.wikipedia.org/wiki/French_Naval_Aviation",
+    "title": "French Naval Aviation",
+    "header": [
+        [
+            "Type",
+            []
+        ],
+        [
+            "Origin",
+            []
+        ],
+        [
+            "Class",
+            []
+        ],
+        [
+            "Role",
+            []
+        ],
+        [
+            "In service",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Breguet Atlantique II",
+                [
+                    "/wiki/Breguet_Atlantic"
+                ],
+                [
+                    {
+                        "entity id": "Q662271",
+                        "label": "Breguet Br 1150 Atlantic"
+                    }
+                ]
+            ],
+            [
+                "France",
+                []
+            ],
+            [
+                "Propeller",
+                []
+            ],
+            [
+                "ASW",
+                [
+                    "/wiki/Maritime_patrol_aircraft"
+                ],
+                [
+                    {
+                        "entity id": "Q658414",
+                        "label": "maritime patrol aircraft"
+                    }
+                ]
+            ],
+            [
+                "22",
+                []
+            ]
+        ],
+        [
+            [
+                "Dassault Falcon 10 M",
+                [
+                    "/wiki/Dassault_Falcon_10"
+                ],
+                [
+                    {
+                        "entity id": "Q1171983",
+                        "label": "Dassault Falcon 10"
+                    }
+                ]
+            ],
+            [
+                "France",
+                []
+            ],
+            [
+                "Jet",
+                []
+            ],
+            [
+                "Utility",
+                [
+                    "/wiki/Utility"
+                ],
+                [
+                    {
+                        "entity id": "Q312466",
+                        "label": "utility software"
+                    }
+                ]
+            ],
+            [
+                "6",
+                []
+            ]
+        ],
+        [
+            [
+                "Dassault Falcon 50 M",
+                [
+                    "/wiki/Dassault_Falcon_50"
+                ],
+                [
+                    {
+                        "entity id": "Q684763",
+                        "label": "Dassault Falcon 50"
+                    }
+                ]
+            ],
+            [
+                "France",
+                []
+            ],
+            [
+                "Jet",
+                []
+            ],
+            [
+                "Patrol",
+                [
+                    "/wiki/Patrol"
+                ],
+                [
+                    {
+                        "entity id": "Q11379765",
+                        "label": "patrol"
+                    }
+                ]
+            ],
+            [
+                "8",
+                []
+            ]
+        ],
+        [
+            [
+                "Dassault Falcon 200 Guardian",
+                [
+                    "/wiki/Dassault_Falcon_20"
+                ],
+                [
+                    {
+                        "entity id": "Q1474251",
+                        "label": "Dassault Falcon 20"
+                    }
+                ]
+            ],
+            [
+                "France",
+                []
+            ],
+            [
+                "Jet",
+                []
+            ],
+            [
+                "Patrol",
+                []
+            ],
+            [
+                "5",
+                []
+            ]
+        ],
+        [
+            [
+                "Dassault Rafale M",
+                [
+                    "/wiki/Dassault_Rafale"
+                ],
+                [
+                    {
+                        "entity id": "Q190973",
+                        "label": "Dassault Rafale"
+                    }
+                ]
+            ],
+            [
+                "France",
+                []
+            ],
+            [
+                "Jet",
+                []
+            ],
+            [
+                "Multirole",
+                [
+                    "/wiki/Multirole"
+                ],
+                [
+                    {
+                        "entity id": "Q850403",
+                        "label": "multi-role combat aircraft"
+                    }
+                ]
+            ],
+            [
+                "42",
+                []
+            ]
+        ],
+        [
+            [
+                "Embraer EMB 121 Xingu",
+                [
+                    "/wiki/Embraer_EMB_121_Xingu"
+                ],
+                [
+                    {
+                        "entity id": "Q1335151",
+                        "label": "EMB 121 Xingu"
+                    }
+                ]
+            ],
+            [
+                "Brazil",
+                []
+            ],
+            [
+                "Propeller",
+                []
+            ],
+            [
+                "Utility",
+                []
+            ],
+            [
+                "11",
+                []
+            ]
+        ],
+        [
+            [
+                "Eurocopter SA365 Dauphin",
+                [
+                    "/wiki/Eurocopter_Dauphin"
+                ],
+                [
+                    {
+                        "entity id": "Q17565949",
+                        "label": "Eurocopter Dauphin"
+                    }
+                ]
+            ],
+            [
+                "France",
+                []
+            ],
+            [
+                "Rotorcraft",
+                []
+            ],
+            [
+                "SAR",
+                [
+                    "/wiki/Search_and_rescue"
+                ],
+                [
+                    {
+                        "entity id": "Q741964",
+                        "label": "search and rescue"
+                    }
+                ]
+            ],
+            [
+                "8",
+                []
+            ]
+        ],
+        [
+            [
+                "Eurocopter AS565 Panther",
+                [
+                    "/wiki/Eurocopter_Panther"
+                ],
+                [
+                    {
+                        "entity id": "Q39613",
+                        "label": "AS565 Panther"
+                    }
+                ]
+            ],
+            [
+                "France",
+                []
+            ],
+            [
+                "Rotorcraft",
+                []
+            ],
+            [
+                "Utility",
+                []
+            ],
+            [
+                "16",
+                []
+            ]
+        ],
+        [
+            [
+                "Grumman E-2C Hawkeye",
+                [
+                    "/wiki/Grumman_E-2C_Hawkeye"
+                ],
+                [
+                    {
+                        "entity id": "Q83400430",
+                        "label": "E-2C Hawkeye"
+                    }
+                ]
+            ],
+            [
+                "USA",
+                []
+            ],
+            [
+                "Propeller",
+                []
+            ],
+            [
+                "AEW & C",
+                [
+                    "/wiki/Airborne_early_warning_and_control"
+                ],
+                [
+                    {
+                        "entity id": "Q161341",
+                        "label": "airborne early warning and control system"
+                    }
+                ]
+            ],
+            [
+                "3",
+                []
+            ]
+        ],
+        [
+            [
+                "Mudry CAP 10",
+                [
+                    "/wiki/Mudry_CAP_10"
+                ],
+                [
+                    {
+                        "entity id": "Q2936989",
+                        "label": "CAP 10"
+                    }
+                ]
+            ],
+            [
+                "France",
+                []
+            ],
+            [
+                "Propeller",
+                []
+            ],
+            [
+                "Trainer",
+                [
+                    "/wiki/Trainer_(aircraft)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "7",
+                []
+            ]
+        ],
+        [
+            [
+                "NHIndustries NH90 Caiman Marine",
+                [
+                    "/wiki/NHIndustries_NH90"
+                ],
+                [
+                    {
+                        "entity id": "Q629539",
+                        "label": "NH90"
+                    }
+                ]
+            ],
+            [
+                "France",
+                []
+            ],
+            [
+                "Rotorcraft",
+                []
+            ],
+            [
+                "Attack/ SAR",
+                [
+                    "/wiki/Search_and_rescue"
+                ],
+                [
+                    {
+                        "entity id": "Q741964",
+                        "label": "search and rescue"
+                    }
+                ]
+            ],
+            [
+                "22",
+                []
+            ]
+        ],
+        [
+            [
+                "Westland Lynx",
+                [
+                    "/wiki/Westland_Lynx"
+                ],
+                [
+                    {
+                        "entity id": "Q162116",
+                        "label": "Lynx"
+                    }
+                ]
+            ],
+            [
+                "UK",
+                []
+            ],
+            [
+                "Rotorcraft",
+                []
+            ],
+            [
+                "Attack",
+                [
+                    "/wiki/Attack_aircraft"
+                ],
+                [
+                    {
+                        "entity id": "Q208187",
+                        "label": "attack aircraft"
+                    }
+                ]
+            ],
+            [
+                "8",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Aircraft inventory",
+    "section_text": "",
+    "uid": "French_Naval_Aviation_0",
+    "intro": "French Naval Aviation (often abbreviated in French to: \u00ab l'A\u00e9ronavale \u00bb, or \u00ab Aviation navale \u00bb or more simply \u00ab l'A\u00e9ro \u00bb) is the naval air arm of the French Navy. The long-form official designation is Force maritime de l'a\u00e9ronautique navale. Born as a fusion of carrier squadrons and the naval patrol air force, the A\u00e9ronavale was created in 1912. The force is under the command of a flag officer officially named Admiral of Naval Aviation (ALAVIA) with his headquarters at Toulon naval base. It has a strength of around 6,800 military and civilian personnel. It operates from four airbases in Metropolitan France and several detachments in foreign countries or French overseas territories. Carrier-borne pilots of the French navy do their initial training at Salon-de-Provence Air Base after which they undergo their carrier qualification with the US Navy."
+}

@@ -1,0 +1,449 @@
+{
+    "url": "https://en.wikipedia.org/wiki/South_London",
+    "title": "South London",
+    "header": [
+        [
+            "London borough",
+            [
+                "/wiki/London_borough"
+            ],
+            [
+                {
+                    "entity id": "Q211690",
+                    "label": "London borough"
+                }
+            ]
+        ],
+        [
+            "Postcode areas",
+            [
+                "/wiki/London_postal_district"
+            ],
+            [
+                {
+                    "entity id": "Q1785229",
+                    "label": "London postal district"
+                }
+            ]
+        ],
+        [
+            "2008 sub-region",
+            [
+                "/wiki/London_Plan"
+            ],
+            [
+                {
+                    "entity id": "Q1571368",
+                    "label": "London Plan"
+                }
+            ]
+        ],
+        [
+            "London Assembly",
+            [
+                "/wiki/London_Assembly_constituencies"
+            ],
+            [
+                {}
+            ]
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Bexley",
+                [
+                    "/wiki/London_Borough_of_Bexley"
+                ],
+                [
+                    {
+                        "entity id": "Q207208",
+                        "label": "London Borough of Bexley"
+                    }
+                ]
+            ],
+            [
+                "DA , SE",
+                [
+                    "/wiki/DA_postcode_area",
+                    "/wiki/SE_postcode_area"
+                ],
+                [
+                    {
+                        "entity id": "Q5204372",
+                        "label": "DA postcode area"
+                    },
+                    {
+                        "entity id": "Q7389916",
+                        "label": "SE postcode area"
+                    }
+                ]
+            ],
+            [
+                "South East",
+                []
+            ],
+            [
+                "Bexley and Bromley",
+                [
+                    "/wiki/Bexley_and_Bromley_(London_Assembly_constituency)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Bromley",
+                [
+                    "/wiki/London_Borough_of_Bromley"
+                ],
+                [
+                    {
+                        "entity id": "Q208201",
+                        "label": "London Borough of Bromley"
+                    }
+                ]
+            ],
+            [
+                "BR , DA , SE , TN , CR",
+                [
+                    "/wiki/BR_postcode_area",
+                    "/wiki/TN_postcode_area"
+                ],
+                [
+                    {
+                        "entity id": "Q4836487",
+                        "label": "BR postcode area"
+                    },
+                    {
+                        "entity id": "Q7670942",
+                        "label": "TN postcode area"
+                    }
+                ]
+            ],
+            [
+                "South East",
+                []
+            ],
+            [
+                "Bexley and Bromley",
+                []
+            ]
+        ],
+        [
+            [
+                "Croydon",
+                [
+                    "/wiki/London_Borough_of_Croydon"
+                ],
+                [
+                    {
+                        "entity id": "Q26888",
+                        "label": "London Borough of Croydon"
+                    }
+                ]
+            ],
+            [
+                "CR , SE , SW , BR",
+                [
+                    "/wiki/CR_postcode_area",
+                    "/wiki/SW_postcode_area"
+                ],
+                [
+                    {
+                        "entity id": "Q5014002",
+                        "label": "CR postcode area"
+                    },
+                    {
+                        "entity id": "Q16259075",
+                        "label": "SW postcode area"
+                    }
+                ]
+            ],
+            [
+                "South West",
+                []
+            ],
+            [
+                "Croydon and Sutton",
+                [
+                    "/wiki/Croydon_and_Sutton_(London_Assembly_constituency)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Greenwich",
+                [
+                    "/wiki/Royal_Borough_of_Greenwich"
+                ],
+                [
+                    {
+                        "entity id": "Q693450",
+                        "label": "Royal Borough of Greenwich"
+                    }
+                ]
+            ],
+            [
+                "SE , DA , BR",
+                []
+            ],
+            [
+                "South East",
+                []
+            ],
+            [
+                "Greenwich and Lewisham",
+                [
+                    "/wiki/Greenwich_and_Lewisham_(London_Assembly_constituency)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Kingston",
+                [
+                    "/wiki/Royal_Borough_of_Kingston_upon_Thames"
+                ],
+                [
+                    {
+                        "entity id": "Q32508",
+                        "label": "Royal Borough of Kingston upon Thames"
+                    }
+                ]
+            ],
+            [
+                "KT , SW , TW",
+                []
+            ],
+            [
+                "South West",
+                []
+            ],
+            [
+                "South West",
+                []
+            ]
+        ],
+        [
+            [
+                "Lambeth",
+                [
+                    "/wiki/London_Borough_of_Lambeth"
+                ],
+                [
+                    {
+                        "entity id": "Q202059",
+                        "label": "London Borough of Lambeth"
+                    }
+                ]
+            ],
+            [
+                "SE , SW",
+                []
+            ],
+            [
+                "South East",
+                []
+            ],
+            [
+                "Lambeth and Southwark",
+                []
+            ]
+        ],
+        [
+            [
+                "Lewisham",
+                [
+                    "/wiki/London_Borough_of_Lewisham"
+                ],
+                [
+                    {
+                        "entity id": "Q215030",
+                        "label": "London Borough of Lewisham"
+                    }
+                ]
+            ],
+            [
+                "SE , BR",
+                []
+            ],
+            [
+                "South East",
+                []
+            ],
+            [
+                "Greenwich and Lewisham",
+                []
+            ]
+        ],
+        [
+            [
+                "Merton",
+                [
+                    "/wiki/London_Borough_of_Merton"
+                ],
+                [
+                    {
+                        "entity id": "Q32504",
+                        "label": "London Borough of Merton"
+                    }
+                ]
+            ],
+            [
+                "CR , KT , SM , SW",
+                [
+                    "/wiki/CR_postcode_area",
+                    "/wiki/SM_postcode_area"
+                ],
+                [
+                    {
+                        "entity id": "Q5014002",
+                        "label": "CR postcode area"
+                    },
+                    {
+                        "entity id": "Q7391767",
+                        "label": "SM postcode area"
+                    }
+                ]
+            ],
+            [
+                "South West",
+                []
+            ],
+            [
+                "Merton and Wandsworth",
+                [
+                    "/wiki/Merton_and_Wandsworth_(London_Assembly_constituency)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Richmond ( part )",
+                [
+                    "/wiki/London_Borough_of_Richmond_upon_Thames"
+                ],
+                [
+                    {
+                        "entity id": "Q32515",
+                        "label": "London Borough of Richmond upon Thames"
+                    }
+                ]
+            ],
+            [
+                "SW , TW",
+                [
+                    "/wiki/TW_postcode_area"
+                ],
+                [
+                    {
+                        "entity id": "Q7672564",
+                        "label": "TW postcode area"
+                    }
+                ]
+            ],
+            [
+                "South West",
+                []
+            ],
+            [
+                "South West",
+                []
+            ]
+        ],
+        [
+            [
+                "Southwark",
+                [
+                    "/wiki/London_Borough_of_Southwark"
+                ],
+                [
+                    {
+                        "entity id": "Q730706",
+                        "label": "London Borough of Southwark"
+                    }
+                ]
+            ],
+            [
+                "SE",
+                []
+            ],
+            [
+                "South East",
+                []
+            ],
+            [
+                "Lambeth and Southwark",
+                []
+            ]
+        ],
+        [
+            [
+                "Sutton",
+                [
+                    "/wiki/London_Borough_of_Sutton"
+                ],
+                [
+                    {
+                        "entity id": "Q320378",
+                        "label": "London Borough of Sutton"
+                    }
+                ]
+            ],
+            [
+                "CR , KT , SM",
+                []
+            ],
+            [
+                "South West",
+                []
+            ],
+            [
+                "Croydon and Sutton",
+                []
+            ]
+        ],
+        [
+            [
+                "Wandsworth",
+                [
+                    "/wiki/London_Borough_of_Wandsworth"
+                ],
+                [
+                    {
+                        "entity id": "Q210563",
+                        "label": "London Borough of Wandsworth"
+                    }
+                ]
+            ],
+            [
+                "SW",
+                []
+            ],
+            [
+                "South West",
+                []
+            ],
+            [
+                "Merton and Wandsworth",
+                []
+            ]
+        ]
+    ],
+    "section_title": "List of boroughs",
+    "section_text": "Bank building in Sutton , the principal town in the London Borough of Sutton , which has formed part of London since 1965 The 12 boroughs included , in whole or part are :",
+    "uid": "South_London_0",
+    "intro": "South London is the southern part of London, England. Situated south of the River Thames, it includes the historic districts of Southwark, Lambeth, Bankside and Greenwich. South London originally emerged from Southwark, first recorded as Suthriganaweorc, meaning fort of the men of Surrey. From Southwark, London then extended further down into northern Surrey and then western Kent."
+}

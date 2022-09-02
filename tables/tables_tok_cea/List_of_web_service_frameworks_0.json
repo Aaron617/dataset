@@ -1,0 +1,1138 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_web_service_frameworks",
+    "title": "List of web service frameworks",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Platform",
+            []
+        ],
+        [
+            "Messaging Model ( Destination )",
+            []
+        ],
+        [
+            "Specifications",
+            []
+        ],
+        [
+            "Protocols",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Apache Axis",
+                [
+                    "/wiki/Apache_Axis"
+                ],
+                [
+                    {
+                        "entity id": "Q514236",
+                        "label": "Apache Axis"
+                    }
+                ]
+            ],
+            [
+                "Java/C++",
+                []
+            ],
+            [
+                "Client/Server",
+                []
+            ],
+            [
+                "WS-ReliableMessaging , WS-Coordination , WS-Security , WS-AtomicTransaction , WS-Addressing",
+                []
+            ],
+            [
+                "SOAP , WSDL",
+                [
+                    "/wiki/SOAP",
+                    "/wiki/Web_Services_Description_Language"
+                ],
+                [
+                    {
+                        "entity id": "Q23739",
+                        "label": "soap opera"
+                    },
+                    {
+                        "entity id": "Q623338",
+                        "label": "Web Services Description Language"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Apache Axis2",
+                [
+                    "/wiki/Apache_Axis2"
+                ],
+                [
+                    {
+                        "entity id": "Q2445002",
+                        "label": "Apache Axis2"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                []
+            ],
+            [
+                "Client/Server/ Asyn Support",
+                []
+            ],
+            [
+                "WS-ReliableMessaging , WS-Security , WS-AtomicTransaction , WS-Addressing , MTOM , WS-Policy , WS-MetadataExchange",
+                []
+            ],
+            [
+                "SOAP1.1 , SOAP1.2 , MTOM , WSDL 2.0 , WSDL , REST",
+                [
+                    "/wiki/SOAP",
+                    "/wiki/SOAP",
+                    "/wiki/Message_Transmission_Optimization_Mechanism",
+                    "/wiki/Web_Services_Description_Language",
+                    "/wiki/Web_Services_Description_Language",
+                    "/wiki/REST"
+                ],
+                [
+                    {
+                        "entity id": "Q23739",
+                        "label": "soap opera"
+                    },
+                    {
+                        "entity id": "Q23739",
+                        "label": "soap opera"
+                    },
+                    {
+                        "entity id": "Q143910",
+                        "label": "Message Transmission Optimization Mechanism"
+                    },
+                    {
+                        "entity id": "Q623338",
+                        "label": "Web Services Description Language"
+                    },
+                    {
+                        "entity id": "Q623338",
+                        "label": "Web Services Description Language"
+                    },
+                    {
+                        "entity id": "Q35831",
+                        "label": "sleep"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Apache CXF",
+                [
+                    "/wiki/Apache_CXF"
+                ],
+                [
+                    {
+                        "entity id": "Q223449",
+                        "label": "Apache CXF"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                []
+            ],
+            [
+                "Client/Server/ Asyn Support",
+                []
+            ],
+            [
+                "WS-ReliableMessaging , WS-Security , WS-Addressing , MTOM , WS-Policy , WS-SecureConversation , WS-SecurityPolicy , WS-Trust",
+                []
+            ],
+            [
+                "SOAP1.1 , SOAP1.2 , MTOM , WSDL 2.0 , WSDL , REST",
+                [
+                    "/wiki/SOAP",
+                    "/wiki/SOAP",
+                    "/wiki/Message_Transmission_Optimization_Mechanism",
+                    "/wiki/Web_Services_Description_Language",
+                    "/wiki/Web_Services_Description_Language",
+                    "/wiki/REST"
+                ],
+                [
+                    {
+                        "entity id": "Q23739",
+                        "label": "soap opera"
+                    },
+                    {
+                        "entity id": "Q23739",
+                        "label": "soap opera"
+                    },
+                    {
+                        "entity id": "Q143910",
+                        "label": "Message Transmission Optimization Mechanism"
+                    },
+                    {
+                        "entity id": "Q623338",
+                        "label": "Web Services Description Language"
+                    },
+                    {
+                        "entity id": "Q623338",
+                        "label": "Web Services Description Language"
+                    },
+                    {
+                        "entity id": "Q35831",
+                        "label": "sleep"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "CodeIgniter",
+                [
+                    "/wiki/Codeigniter"
+                ],
+                [
+                    {
+                        "entity id": "Q339829",
+                        "label": "CodeIgniter"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "Client/Server",
+                []
+            ],
+            [
+                "An open source MVC web application framework",
+                [
+                    "/wiki/Model\u2013view\u2013controller"
+                ],
+                [
+                    {
+                        "entity id": "Q44860",
+                        "label": "MVC"
+                    }
+                ]
+            ],
+            [
+                "XML-RPC",
+                [
+                    "/wiki/XML-RPC"
+                ],
+                [
+                    {
+                        "entity id": "Q1046238",
+                        "label": "XML-RPC"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "gSOAP",
+                [
+                    "/wiki/Gsoap"
+                ],
+                [
+                    {
+                        "entity id": "Q6894632",
+                        "label": "gSOAP"
+                    }
+                ]
+            ],
+            [
+                "C and C++",
+                []
+            ],
+            [
+                "Client/Server Duplex/Async",
+                []
+            ],
+            [
+                "WS-Addressing , WS-Discovery , WS-Policy , WS-ReliableMessaging , WS-Security , WS-SecurityPolicy",
+                []
+            ],
+            [
+                "SOAP1.1 , SOAP1.2 , MTOM , WSDL 1.1 , WSDL 2.0 , REST , XML-RPC , JSON , JSON-RPC , XML",
+                [
+                    "/wiki/SOAP",
+                    "/wiki/SOAP",
+                    "/wiki/Message_Transmission_Optimization_Mechanism",
+                    "/wiki/Web_Services_Description_Language",
+                    "/wiki/Web_Services_Description_Language",
+                    "/wiki/REST",
+                    "/wiki/XML-RPC",
+                    "/wiki/JSON",
+                    "/wiki/JSON-RPC",
+                    "/wiki/XML"
+                ],
+                [
+                    {
+                        "entity id": "Q23739",
+                        "label": "soap opera"
+                    },
+                    {
+                        "entity id": "Q23739",
+                        "label": "soap opera"
+                    },
+                    {
+                        "entity id": "Q143910",
+                        "label": "Message Transmission Optimization Mechanism"
+                    },
+                    {
+                        "entity id": "Q623338",
+                        "label": "Web Services Description Language"
+                    },
+                    {
+                        "entity id": "Q623338",
+                        "label": "Web Services Description Language"
+                    },
+                    {
+                        "entity id": "Q35831",
+                        "label": "sleep"
+                    },
+                    {
+                        "entity id": "Q1046238",
+                        "label": "XML-RPC"
+                    },
+                    {
+                        "entity id": "Q2063",
+                        "label": "JSON"
+                    },
+                    {
+                        "entity id": "Q1164443",
+                        "label": "JSON-RPC"
+                    },
+                    {
+                        "entity id": "Q2115",
+                        "label": "Extensible Markup Language"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Java Web Services Development Pack / GlassFish",
+                [
+                    "/wiki/Java_Web_Services_Development_Pack",
+                    "/wiki/GlassFish"
+                ],
+                [
+                    {
+                        "entity id": "Q598151",
+                        "label": "Java Web Services Development Pack"
+                    },
+                    {
+                        "entity id": "Q68847",
+                        "label": "GlassFish"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                []
+            ],
+            [
+                "Client/Server",
+                []
+            ],
+            [
+                "WS-Addressing , WS-Security , ? ? ?",
+                []
+            ],
+            [
+                "SOAP , WSDL , ? ? ?",
+                [
+                    "/wiki/SOAP",
+                    "/wiki/Web_Services_Description_Language"
+                ],
+                [
+                    {
+                        "entity id": "Q23739",
+                        "label": "soap opera"
+                    },
+                    {
+                        "entity id": "Q623338",
+                        "label": "Web Services Description Language"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Jello Framework",
+                [
+                    "/wiki/Jello_framework"
+                ],
+                [
+                    {
+                        "entity id": "Q25110897",
+                        "label": "Jello framework"
+                    }
+                ]
+            ],
+            [
+                "GAE/Java",
+                []
+            ],
+            [
+                "Client/Server/Asyn Support",
+                []
+            ],
+            [
+                "End-to-End Java framework for Google App Engine including comprehensive Data Authorization model , a powerful RESTful engine , and out-of-the-box UI views",
+                [
+                    "/wiki/Google_App_Engine"
+                ],
+                [
+                    {
+                        "entity id": "Q454728",
+                        "label": "App Engine"
+                    }
+                ]
+            ],
+            [
+                "REST , OData , JSON",
+                [
+                    "/wiki/Representational_state_transfer",
+                    "/wiki/Open_Data_Protocol",
+                    "/wiki/JSON"
+                ],
+                [
+                    {
+                        "entity id": "Q749568",
+                        "label": "representational state transfer"
+                    },
+                    {
+                        "entity id": "Q1103955",
+                        "label": "Open Data Protocol"
+                    },
+                    {
+                        "entity id": "Q2063",
+                        "label": "JSON"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Jersey",
+                [
+                    "/wiki/Project_Jersey"
+                ],
+                [
+                    {
+                        "entity id": "Q15981991",
+                        "label": "Eclipse Jersey"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                []
+            ],
+            [
+                "Client/Server",
+                []
+            ],
+            [
+                "Project Jersey is the production-ready reference implementation for the JAX-RS specification by Oracle ( Originally Sun )",
+                []
+            ],
+            [
+                "REST",
+                [
+                    "/wiki/REST"
+                ],
+                [
+                    {
+                        "entity id": "Q35831",
+                        "label": "sleep"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                ".NET Framework",
+                [
+                    "/wiki/.NET_Framework"
+                ],
+                [
+                    {
+                        "entity id": "Q5289",
+                        "label": ".NET Framework"
+                    }
+                ]
+            ],
+            [
+                "C # , VB.NET",
+                []
+            ],
+            [
+                "Client/Server",
+                []
+            ],
+            [
+                "WS-Addressing , WS-MetadataExchange , WS-Security , WS-Policy , WS-SecurityPolicy , WS-Trust , WS-SecureConversation , WS-ReliableMessaging , WS-Coordination , WS-AtomicTransaction",
+                []
+            ],
+            [
+                "SOAP , WSDL , MTOM",
+                [
+                    "/wiki/SOAP",
+                    "/wiki/Web_Services_Description_Language",
+                    "/wiki/Message_Transmission_Optimization_Mechanism"
+                ],
+                [
+                    {
+                        "entity id": "Q23739",
+                        "label": "soap opera"
+                    },
+                    {
+                        "entity id": "Q623338",
+                        "label": "Web Services Description Language"
+                    },
+                    {
+                        "entity id": "Q143910",
+                        "label": "Message Transmission Optimization Mechanism"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Web Services Interoperability Technology",
+                [
+                    "/wiki/Web_Services_Interoperability_Technology"
+                ],
+                [
+                    {
+                        "entity id": "Q178998",
+                        "label": "Metro WSIT"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                []
+            ],
+            [
+                "Client/Server",
+                []
+            ],
+            [
+                "WS-Addressing , WS-ReliableMessaging , WS-Coordination , WS-AtomicTransaction , WS-Security , WS-Security Policy , WS-Trust , WS-SecureConversation , WS-Policy , WS-MetadataExchange",
+                []
+            ],
+            [
+                "SOAP , WSDL , MTOM , JSON , XML",
+                [
+                    "/wiki/SOAP",
+                    "/wiki/Web_Services_Description_Language",
+                    "/wiki/Message_Transmission_Optimization_Mechanism",
+                    "/wiki/JSON",
+                    "/wiki/XML"
+                ],
+                [
+                    {
+                        "entity id": "Q23739",
+                        "label": "soap opera"
+                    },
+                    {
+                        "entity id": "Q623338",
+                        "label": "Web Services Description Language"
+                    },
+                    {
+                        "entity id": "Q143910",
+                        "label": "Message Transmission Optimization Mechanism"
+                    },
+                    {
+                        "entity id": "Q2063",
+                        "label": "JSON"
+                    },
+                    {
+                        "entity id": "Q2115",
+                        "label": "Extensible Markup Language"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Web Services Invocation Framework",
+                [
+                    "/wiki/Web_Services_Invocation_Framework"
+                ],
+                [
+                    {
+                        "entity id": "Q9095379",
+                        "label": "Web Services Invocation Framework"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                []
+            ],
+            [
+                "Client",
+                []
+            ],
+            [
+                "? ? ?",
+                []
+            ],
+            [
+                "SOAP , WSDL",
+                [
+                    "/wiki/SOAP",
+                    "/wiki/Web_Services_Description_Language"
+                ],
+                [
+                    {
+                        "entity id": "Q23739",
+                        "label": "soap opera"
+                    },
+                    {
+                        "entity id": "Q623338",
+                        "label": "Web Services Description Language"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Windows Communication Foundation",
+                [
+                    "/wiki/Windows_Communication_Foundation"
+                ],
+                [
+                    {
+                        "entity id": "Q261595",
+                        "label": "Windows Communication Foundation"
+                    }
+                ]
+            ],
+            [
+                ".NET",
+                []
+            ],
+            [
+                "Client/Server/Asyn support",
+                []
+            ],
+            [
+                "WS-Addressing , WS-MetadataExchange , WS-Security , WS-Policy , WS-SecurityPolicy , WS-Trust , WS-SecureConversation , WS-ReliableMessaging , WS-Coordination , WS-AtomicTransaction , WS-Discovery",
+                []
+            ],
+            [
+                "SOAP1.1 , SOAP1.2 , WSDL , XML , JSON , REST , MTOM , MSMQ , IPC , P2P , TCP , UDP , WebSocket",
+                [
+                    "/wiki/SOAP",
+                    "/wiki/SOAP",
+                    "/wiki/Web_Services_Description_Language",
+                    "/wiki/XML",
+                    "/wiki/JSON",
+                    "/wiki/REST",
+                    "/wiki/Message_Transmission_Optimization_Mechanism",
+                    "/wiki/MSMQ",
+                    "/wiki/Inter-process_communication",
+                    "/wiki/Peer-to-peer",
+                    "/wiki/Transmission_Control_Protocol",
+                    "/wiki/User_Datagram_Protocol",
+                    "/wiki/WebSocket"
+                ],
+                [
+                    {
+                        "entity id": "Q23739",
+                        "label": "soap opera"
+                    },
+                    {
+                        "entity id": "Q23739",
+                        "label": "soap opera"
+                    },
+                    {
+                        "entity id": "Q623338",
+                        "label": "Web Services Description Language"
+                    },
+                    {
+                        "entity id": "Q2115",
+                        "label": "Extensible Markup Language"
+                    },
+                    {
+                        "entity id": "Q2063",
+                        "label": "JSON"
+                    },
+                    {
+                        "entity id": "Q35831",
+                        "label": "sleep"
+                    },
+                    {
+                        "entity id": "Q143910",
+                        "label": "Message Transmission Optimization Mechanism"
+                    },
+                    {
+                        "entity id": "Q1931595",
+                        "label": "Microsoft Message Queuing"
+                    },
+                    {
+                        "entity id": "Q751436",
+                        "label": "inter-process communication"
+                    },
+                    {
+                        "entity id": "Q161410",
+                        "label": "peer-to-peer"
+                    },
+                    {
+                        "entity id": "Q8803",
+                        "label": "Transmission Control Protocol"
+                    },
+                    {
+                        "entity id": "Q11163",
+                        "label": "User Datagram Protocol"
+                    },
+                    {
+                        "entity id": "Q859938",
+                        "label": "WebSocket"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "WSO2 WSF/PHP",
+                [
+                    "/wiki/WSO2"
+                ],
+                [
+                    {
+                        "entity id": "Q9095380",
+                        "label": "WSO2"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                []
+            ],
+            [
+                "Client/Server",
+                []
+            ],
+            [
+                "SOAP MTOM , WS-Addressing , WS-Security , WS-SecurityPolicy , WS-Secure Conversation , WS-ReliableMessaging",
+                []
+            ],
+            [
+                "SOAP , WSDL",
+                [
+                    "/wiki/SOAP",
+                    "/wiki/Web_Services_Description_Language"
+                ],
+                [
+                    {
+                        "entity id": "Q23739",
+                        "label": "soap opera"
+                    },
+                    {
+                        "entity id": "Q623338",
+                        "label": "Web Services Description Language"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "XFire became Apache CXF",
+                [
+                    "/wiki/Codehaus_XFire"
+                ],
+                [
+                    {
+                        "entity id": "Q2597431",
+                        "label": "Codehaus XFire"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                []
+            ],
+            [
+                "Client/Server",
+                []
+            ],
+            [
+                "WS-Addressing , WS-Security",
+                []
+            ],
+            [
+                "SOAP , WSDL",
+                [
+                    "/wiki/SOAP",
+                    "/wiki/Web_Services_Description_Language"
+                ],
+                [
+                    {
+                        "entity id": "Q23739",
+                        "label": "soap opera"
+                    },
+                    {
+                        "entity id": "Q623338",
+                        "label": "Web Services Description Language"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "XML Interface for Network Services",
+                [
+                    "/wiki/XML_Interface_for_Network_Services"
+                ],
+                [
+                    {
+                        "entity id": "Q2247636",
+                        "label": "XML Interface for Network Services"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                []
+            ],
+            [
+                "Server ?",
+                []
+            ],
+            [
+                "? ?",
+                []
+            ],
+            [
+                "SOAP , XML-RPC , WSDL , JSON-RPC , JSON",
+                [
+                    "/wiki/SOAP",
+                    "/wiki/XML-RPC",
+                    "/wiki/Web_Services_Description_Language",
+                    "/wiki/JSON-RPC",
+                    "/wiki/JSON"
+                ],
+                [
+                    {
+                        "entity id": "Q23739",
+                        "label": "soap opera"
+                    },
+                    {
+                        "entity id": "Q1046238",
+                        "label": "XML-RPC"
+                    },
+                    {
+                        "entity id": "Q623338",
+                        "label": "Web Services Description Language"
+                    },
+                    {
+                        "entity id": "Q1164443",
+                        "label": "JSON-RPC"
+                    },
+                    {
+                        "entity id": "Q2063",
+                        "label": "JSON"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dframe Framework",
+                []
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "Client/Server",
+                []
+            ],
+            [
+                "Web application Components helping build MVC project",
+                []
+            ],
+            [
+                "JSON , REST",
+                [
+                    "/wiki/JSON",
+                    "/wiki/REST"
+                ],
+                [
+                    {
+                        "entity id": "Q2063",
+                        "label": "JSON"
+                    },
+                    {
+                        "entity id": "Q35831",
+                        "label": "sleep"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Yii",
+                [
+                    "/wiki/Yii"
+                ],
+                [
+                    {
+                        "entity id": "Q1466168",
+                        "label": "Yii"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "Client/Server",
+                []
+            ],
+            [
+                "Open source , object-oriented , component-based MVC",
+                []
+            ],
+            [
+                "REST",
+                [
+                    "/wiki/REST"
+                ],
+                [
+                    {
+                        "entity id": "Q35831",
+                        "label": "sleep"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Smart.Framework",
+                [
+                    "/wiki/Smart_Framework_PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q23680115",
+                        "label": "Smart Framework PHP"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "Client/Server",
+                []
+            ],
+            [
+                "a free , BSD licensed , open-source web framework",
+                []
+            ],
+            [
+                "JSON , REST , SOAP",
+                [
+                    "/wiki/JSON",
+                    "/wiki/REST",
+                    "/wiki/SOAP"
+                ],
+                [
+                    {
+                        "entity id": "Q2063",
+                        "label": "JSON"
+                    },
+                    {
+                        "entity id": "Q35831",
+                        "label": "sleep"
+                    },
+                    {
+                        "entity id": "Q23739",
+                        "label": "soap opera"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Symfony2",
+                [
+                    "/wiki/Symfony2"
+                ],
+                [
+                    {
+                        "entity id": "Q1322933",
+                        "label": "Symfony"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "Client/Server",
+                []
+            ],
+            [
+                "PHP web application framework",
+                []
+            ],
+            [
+                "JSON , REST , SOAP",
+                [
+                    "/wiki/JSON",
+                    "/wiki/REST",
+                    "/wiki/SOAP"
+                ],
+                [
+                    {
+                        "entity id": "Q2063",
+                        "label": "JSON"
+                    },
+                    {
+                        "entity id": "Q35831",
+                        "label": "sleep"
+                    },
+                    {
+                        "entity id": "Q23739",
+                        "label": "soap opera"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Zend Framework",
+                [
+                    "/wiki/Zend_Framework"
+                ],
+                [
+                    {
+                        "entity id": "Q189475",
+                        "label": "Laminas"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "Client/Server",
+                []
+            ],
+            [
+                "Web application framework implemented in PHP",
+                []
+            ],
+            [
+                "SOAP , JSON , JSON-RPC , REST , XML-RPC",
+                [
+                    "/wiki/SOAP",
+                    "/wiki/JSON",
+                    "/wiki/JSON-RPC",
+                    "/wiki/REST",
+                    "/wiki/XML-RPC"
+                ],
+                [
+                    {
+                        "entity id": "Q23739",
+                        "label": "soap opera"
+                    },
+                    {
+                        "entity id": "Q2063",
+                        "label": "JSON"
+                    },
+                    {
+                        "entity id": "Q1164443",
+                        "label": "JSON-RPC"
+                    },
+                    {
+                        "entity id": "Q35831",
+                        "label": "sleep"
+                    },
+                    {
+                        "entity id": "Q1046238",
+                        "label": "XML-RPC"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "",
+    "section_text": "A list of web service frameworks :",
+    "uid": "List_of_web_service_frameworks_0",
+    "intro": "A list of web service frameworks:"
+}

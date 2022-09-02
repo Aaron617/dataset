@@ -1,0 +1,1041 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_version-control_software",
+    "title": "Comparison of version-control software",
+    "header": [
+        [
+            "Software",
+            []
+        ],
+        [
+            "History",
+            []
+        ],
+        [
+            "Notable users",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "AccuRev SCM",
+                [
+                    "/wiki/AccuRev_SCM"
+                ],
+                [
+                    {
+                        "entity id": "Q4672895",
+                        "label": "AccuRev SCM"
+                    }
+                ]
+            ],
+            [
+                "First publicly released in 2002",
+                []
+            ],
+            [
+                "American Airlines , Ford , Lockheed Martin , Orbitz , Xerox , McAfee , Polycom , SanDisk , Siemens , Sony , Symantec , Thomson Financial , Verizon Wireless and many others",
+                [
+                    "/wiki/American_Airlines",
+                    "/wiki/Ford_Motor_Company",
+                    "/wiki/Lockheed_Martin",
+                    "/wiki/Orbitz",
+                    "/wiki/Xerox",
+                    "/wiki/McAfee",
+                    "/wiki/Polycom",
+                    "/wiki/SanDisk",
+                    "/wiki/Siemens",
+                    "/wiki/Sony",
+                    "/wiki/NortonLifeLock",
+                    "/wiki/Thomson_Financial",
+                    "/wiki/Verizon_Wireless"
+                ],
+                [
+                    {
+                        "entity id": "Q32396",
+                        "label": "American Airlines"
+                    },
+                    {
+                        "entity id": "Q44294",
+                        "label": "Ford Motor Company"
+                    },
+                    {
+                        "entity id": "Q7240",
+                        "label": "Lockheed Martin"
+                    },
+                    {
+                        "entity id": "Q17125545",
+                        "label": "Orbitz"
+                    },
+                    {
+                        "entity id": "Q152433",
+                        "label": "Xerox"
+                    },
+                    {
+                        "entity id": "Q267313",
+                        "label": "McAfee, LLC"
+                    },
+                    {
+                        "entity id": "Q963809",
+                        "label": "Polycom"
+                    },
+                    {
+                        "entity id": "Q260833",
+                        "label": "SanDisk"
+                    },
+                    {
+                        "entity id": "Q81230",
+                        "label": "Siemens"
+                    },
+                    {
+                        "entity id": "Q41187",
+                        "label": "Sony"
+                    },
+                    {
+                        "entity id": "Q677085",
+                        "label": "NortonLifeLock"
+                    },
+                    {
+                        "entity id": "Q2428709",
+                        "label": "Thomson Financial"
+                    },
+                    {
+                        "entity id": "Q919641",
+                        "label": "Verizon"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Azure DevOps Server",
+                [
+                    "/wiki/Team_Foundation_Server"
+                ],
+                [
+                    {
+                        "entity id": "Q1799814",
+                        "label": "Azure DevOps Server"
+                    }
+                ]
+            ],
+            [
+                "First publicly released in March , 2006 as Visual Studio Team System , renamed to Team Foundation Server in 2010 and Azure DevOps Server in 2019",
+                []
+            ],
+            [
+                "Microsoft",
+                [
+                    "/wiki/Microsoft"
+                ],
+                [
+                    {
+                        "entity id": "Q2283",
+                        "label": "Microsoft"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Azure DevOps Services",
+                [
+                    "/wiki/Visual_Studio_Team_Services"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "First publicly released in 2012 as Team Foundation Service , renamed to Visual Studio Online in 2013 , Visual Studio Team Services in 2015 and Azure DevOps in 2018",
+                []
+            ],
+            [
+                "Microsoft",
+                []
+            ]
+        ],
+        [
+            [
+                "GNU Bazaar",
+                [
+                    "/wiki/GNU_Bazaar"
+                ],
+                [
+                    {
+                        "entity id": "Q812656",
+                        "label": "GNU Bazaar"
+                    }
+                ]
+            ],
+            [
+                "Initial release March 26 , 2005 . Loosely related to baz . Sponsored by Canonical Ltd .",
+                [
+                    "/wiki/Baz_(software)",
+                    "/wiki/Canonical_Ltd."
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q39064",
+                        "label": "Canonical Group Limited"
+                    }
+                ]
+            ],
+            [
+                "Ubuntu , Launchpad , KatchTV ,",
+                [
+                    "/wiki/Ubuntu_(operating_system)",
+                    "/wiki/Launchpad_(website)"
+                ],
+                [
+                    {},
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "BitKeeper",
+                [
+                    "/wiki/BitKeeper"
+                ],
+                [
+                    {
+                        "entity id": "Q878697",
+                        "label": "BitKeeper"
+                    }
+                ]
+            ],
+            [
+                "Initial release May 4 , 2000 . Influenced by Sun WorkShop TeamWare",
+                [
+                    "/wiki/Sun_WorkShop_TeamWare"
+                ],
+                [
+                    {
+                        "entity id": "Q4050380",
+                        "label": "Sun WorkShop TeamWare"
+                    }
+                ]
+            ],
+            [
+                "Linux Kernel ( 2002-2005 ) and many companies",
+                []
+            ]
+        ],
+        [
+            [
+                "CA Software Change Manager",
+                [
+                    "/wiki/CA_Harvest_Software_Change_Manager"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Original company founded in 1977 ; CA SCM ( then called CCC/Harvest ) first released in 1995",
+                []
+            ],
+            [
+                "CA does not disclose customer lists without the companies ' permission . CA SCM is used by companies with global development teams including 13 of the Fortune 100",
+                []
+            ]
+        ],
+        [
+            [
+                "ClearCase",
+                [
+                    "/wiki/Rational_ClearCase"
+                ],
+                [
+                    {
+                        "entity id": "Q593863",
+                        "label": "IBM Rational ClearCase"
+                    }
+                ]
+            ],
+            [
+                "Developed beginning in 1990 by Atria Software , following concepts developed by Apollo Computer in DSEE during the 1980s . The most recent version is 9.0.0 , released in March 2016",
+                [
+                    "/wiki/Apollo_Computer"
+                ],
+                [
+                    {
+                        "entity id": "Q619107",
+                        "label": "Apollo Computer"
+                    }
+                ]
+            ],
+            [
+                "IBM , Alcatel-Lucent , Cisco , Motorola , Siemens , Ericsson , Nokia , Society for Worldwide Interbank Financial Telecommunication and other large organizations worldwide",
+                [
+                    "/wiki/IBM",
+                    "/wiki/Alcatel-Lucent",
+                    "/wiki/Cisco",
+                    "/wiki/Motorola",
+                    "/wiki/Siemens",
+                    "/wiki/Ericsson",
+                    "/wiki/Nokia",
+                    "/wiki/Society_for_Worldwide_Interbank_Financial_Telecommunication"
+                ],
+                [
+                    {
+                        "entity id": "Q37156",
+                        "label": "IBM"
+                    },
+                    {
+                        "entity id": "Q509404",
+                        "label": "Alcatel-Lucent"
+                    },
+                    {
+                        "entity id": "Q173395",
+                        "label": "Cisco Systems"
+                    },
+                    {
+                        "entity id": "Q259011",
+                        "label": "Motorola"
+                    },
+                    {
+                        "entity id": "Q81230",
+                        "label": "Siemens"
+                    },
+                    {
+                        "entity id": "Q52618",
+                        "label": "Ericsson"
+                    },
+                    {
+                        "entity id": "Q1418",
+                        "label": "Nokia"
+                    },
+                    {
+                        "entity id": "Q257597",
+                        "label": "SWIFT"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Code Co-op",
+                [
+                    "/wiki/Code_Co-op"
+                ],
+                [
+                    {
+                        "entity id": "Q5140021",
+                        "label": "Code Co-op"
+                    }
+                ]
+            ],
+            [
+                "The first distributed VCS , demoed in 1997 , released soon after",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "CVS",
+                [
+                    "/wiki/Concurrent_Versions_System"
+                ],
+                [
+                    {
+                        "entity id": "Q467252",
+                        "label": "Concurrent Versions System"
+                    }
+                ]
+            ],
+            [
+                "First publicly released July 3 , 1986 ; based on RCS",
+                [
+                    "/wiki/Revision_Control_System"
+                ],
+                [
+                    {
+                        "entity id": "Q705851",
+                        "label": "GNU RCS"
+                    }
+                ]
+            ],
+            [
+                "NetBSD , OpenBSD",
+                [
+                    "/wiki/NetBSD",
+                    "/wiki/OpenBSD"
+                ],
+                [
+                    {
+                        "entity id": "Q34225",
+                        "label": "NetBSD"
+                    },
+                    {
+                        "entity id": "Q34215",
+                        "label": "OpenBSD"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "CVSNT",
+                [
+                    "/wiki/CVSNT"
+                ],
+                [
+                    {
+                        "entity id": "Q5014778",
+                        "label": "CVSNT"
+                    }
+                ]
+            ],
+            [
+                "First publicly released 1998 ; based on CVS . Started by CVS developers with the goal adding support for a wider range of development methods and processes",
+                [
+                    "/wiki/Concurrent_Versions_System",
+                    "/wiki/Concurrent_Versions_System"
+                ],
+                [
+                    {
+                        "entity id": "Q467252",
+                        "label": "Concurrent Versions System"
+                    },
+                    {
+                        "entity id": "Q467252",
+                        "label": "Concurrent Versions System"
+                    }
+                ]
+            ],
+            [
+                "Primarily professionals ( not hobbyists ) , e.g . : AnandTech , Wachovia , Wells Fargo , Goldman Sachs",
+                []
+            ]
+        ],
+        [
+            [
+                "darcs",
+                [
+                    "/wiki/Darcs"
+                ],
+                [
+                    {
+                        "entity id": "Q204377",
+                        "label": "Darcs"
+                    }
+                ]
+            ],
+            [
+                "First announced on April 9 , 2003",
+                []
+            ],
+            [
+                "Mnet , xmonad , Projects Using Darcs",
+                [
+                    "/wiki/Mnet_(Computer_program)",
+                    "/wiki/Xmonad"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q72914",
+                        "label": "xmonad"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dimensions CM",
+                [
+                    "/wiki/Dimensions_CM"
+                ],
+                [
+                    {
+                        "entity id": "Q22907820",
+                        "label": "Dimensions CM"
+                    }
+                ]
+            ],
+            [
+                "Developed by SQL Software under the name PCMS Dimensions during the late 1980s ( PCMS standing for Product Configuration Management ) . Through number of company acquisitions the product was released under names PVCS Dimensions ( 1990s , Intersolv ) , Dimensions ( early 2000s , Merant ) , ChangeMan Dimensions ( 2004 , Serena Software ) and finally Dimensions CM ( since 2007 , Serena Software )",
+                [
+                    "/wiki/Serena_Software",
+                    "/wiki/Dimensions_CM",
+                    "/wiki/Serena_Software"
+                ],
+                [
+                    {
+                        "entity id": "Q7453131",
+                        "label": "Serena Software"
+                    },
+                    {
+                        "entity id": "Q22907820",
+                        "label": "Dimensions CM"
+                    },
+                    {
+                        "entity id": "Q7453131",
+                        "label": "Serena Software"
+                    }
+                ]
+            ],
+            [
+                "Lockheed Martin , European Space Agency , Fujitsu Business Communication Systems and many companies worldwide",
+                [
+                    "/wiki/Lockheed_Martin",
+                    "/wiki/European_Space_Agency",
+                    "/wiki/Fujitsu"
+                ],
+                [
+                    {
+                        "entity id": "Q7240",
+                        "label": "Lockheed Martin"
+                    },
+                    {
+                        "entity id": "Q42262",
+                        "label": "European Space Agency"
+                    },
+                    {
+                        "entity id": "Q186394",
+                        "label": "Fujitsu"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Fossil",
+                [
+                    "/wiki/Fossil_(software)"
+                ],
+                [
+                    {
+                        "entity id": "Q1439431",
+                        "label": "Fossil"
+                    }
+                ]
+            ],
+            [
+                "Fossil and SQLite have used Fossil since 21 July 2007",
+                []
+            ],
+            [
+                "SQLite , Tcl/Tk Project",
+                [
+                    "/wiki/SQLite",
+                    "/wiki/Tcl"
+                ],
+                [
+                    {
+                        "entity id": "Q319417",
+                        "label": "SQLite"
+                    },
+                    {
+                        "entity id": "Q5288",
+                        "label": "Tcl"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Git",
+                [
+                    "/wiki/Git"
+                ],
+                [
+                    {
+                        "entity id": "Q186055",
+                        "label": "Git"
+                    }
+                ]
+            ],
+            [
+                "Started by Linus Torvalds in April 2005 , following the BitKeeper controversy",
+                [
+                    "/wiki/Linus_Torvalds",
+                    "/wiki/BitKeeper"
+                ],
+                [
+                    {
+                        "entity id": "Q34253",
+                        "label": "Linus Torvalds"
+                    },
+                    {
+                        "entity id": "Q878697",
+                        "label": "BitKeeper"
+                    }
+                ]
+            ],
+            [
+                "Linux kernel , Android , Bugzilla , DragonFly BSD , GNOME , GNU Emacs , GRUB2 , KDE , MySQL , Perl 5 , PostgreSQL , X.Org , Cairo , Qt Development Frameworks , Samba , OpenEmbedded , Ruby , Ruby on Rails , Wine , Fluxbox , Openbox , Compiz Fusion , XCB , ELinks , XMMS2 , e2fsprogs , GNU Core Utilities , DokuWiki , Drupal , LibreOffice , MediaWiki , Mono , ASP.NET MVC , ADO.NET Entity Framework , NuGet , jQuery and many of its plugins , OpenCV , Wireshark , Django , many companies like Ericsson , Microsoft , Huawei , Apple , Amazon , LG",
+                [
+                    "/wiki/Linux_kernel",
+                    "/wiki/Android_(operating_system)",
+                    "/wiki/Bugzilla",
+                    "/wiki/DragonFly_BSD",
+                    "/wiki/GNOME",
+                    "/wiki/GNU_Emacs",
+                    "/wiki/GRUB2",
+                    "/wiki/KDE",
+                    "/wiki/MySQL",
+                    "/wiki/Perl",
+                    "/wiki/PostgreSQL",
+                    "/wiki/X.Org_Server",
+                    "/wiki/Cairo_(graphics)",
+                    "/wiki/Qt_Development_Frameworks",
+                    "/wiki/Samba_software",
+                    "/wiki/OpenEmbedded",
+                    "/wiki/Ruby_(programming_language)",
+                    "/wiki/Ruby_on_Rails",
+                    "/wiki/Wine_(software)",
+                    "/wiki/Fluxbox",
+                    "/wiki/Openbox",
+                    "/wiki/Compiz_Fusion",
+                    "/wiki/XCB",
+                    "/wiki/ELinks",
+                    "/wiki/XMMS2",
+                    "/wiki/E2fsprogs",
+                    "/wiki/GNU_Core_Utilities",
+                    "/wiki/DokuWiki",
+                    "/wiki/Drupal",
+                    "/wiki/LibreOffice",
+                    "/wiki/MediaWiki",
+                    "/wiki/Mono_(software)",
+                    "/wiki/ASP.NET_MVC",
+                    "/wiki/ADO.NET_Entity_Framework",
+                    "/wiki/NuGet",
+                    "/wiki/JQuery",
+                    "/wiki/OpenCV",
+                    "/wiki/Wireshark",
+                    "/wiki/Django_(web_framework)"
+                ],
+                [
+                    {
+                        "entity id": "Q14579",
+                        "label": "Linux kernel"
+                    },
+                    {
+                        "entity id": "Q94",
+                        "label": "Android"
+                    },
+                    {
+                        "entity id": "Q55671",
+                        "label": "Bugzilla"
+                    },
+                    {
+                        "entity id": "Q751067",
+                        "label": "DragonFly BSD"
+                    },
+                    {
+                        "entity id": "Q44316",
+                        "label": "GNOME"
+                    },
+                    {
+                        "entity id": "Q1252773",
+                        "label": "GNU Emacs"
+                    },
+                    {
+                        "entity id": "Q212885",
+                        "label": "GNU GRUB"
+                    },
+                    {
+                        "entity id": "Q1431",
+                        "label": "KDE"
+                    },
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q42478",
+                        "label": "Perl"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    },
+                    {
+                        "entity id": "Q518900",
+                        "label": "X.Org Server"
+                    },
+                    {},
+                    {
+                        "entity id": "Q201904",
+                        "label": "Qt"
+                    },
+                    {},
+                    {
+                        "entity id": "Q1466576",
+                        "label": "OpenEmbedded"
+                    },
+                    {},
+                    {
+                        "entity id": "Q190478",
+                        "label": "Ruby on Rails"
+                    },
+                    {},
+                    {
+                        "entity id": "Q131522",
+                        "label": "Fluxbox"
+                    },
+                    {
+                        "entity id": "Q728978",
+                        "label": "Openbox"
+                    },
+                    {
+                        "entity id": "Q1472297",
+                        "label": "Compiz Fusion"
+                    },
+                    {
+                        "entity id": "Q35965",
+                        "label": "Cumbric"
+                    },
+                    {
+                        "entity id": "Q1151159",
+                        "label": "ELinks"
+                    },
+                    {
+                        "entity id": "Q2447945",
+                        "label": "XMMS2"
+                    },
+                    {
+                        "entity id": "Q306401",
+                        "label": "e2fsprogs"
+                    },
+                    {
+                        "entity id": "Q1348204",
+                        "label": "GNU Core Utilities"
+                    },
+                    {
+                        "entity id": "Q851864",
+                        "label": "DokuWiki"
+                    },
+                    {
+                        "entity id": "Q170855",
+                        "label": "Drupal"
+                    },
+                    {
+                        "entity id": "Q10135",
+                        "label": "LibreOffice"
+                    },
+                    {
+                        "entity id": "Q83",
+                        "label": "MediaWiki"
+                    },
+                    {
+                        "entity id": "Q722656",
+                        "label": "Mono"
+                    },
+                    {
+                        "entity id": "Q581643",
+                        "label": "ASP.NET MVC Framework"
+                    },
+                    {
+                        "entity id": "Q851939",
+                        "label": "Entity Framework"
+                    },
+                    {
+                        "entity id": "Q975870",
+                        "label": "NuGet"
+                    },
+                    {
+                        "entity id": "Q230036",
+                        "label": "jQuery"
+                    },
+                    {
+                        "entity id": "Q165277",
+                        "label": "OpenCV"
+                    },
+                    {
+                        "entity id": "Q403539",
+                        "label": "Wireshark"
+                    },
+                    {
+                        "entity id": "Q842014",
+                        "label": "Django"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "GNU arch",
+                [
+                    "/wiki/GNU_arch"
+                ],
+                [
+                    {
+                        "entity id": "Q1187993",
+                        "label": "GNU arch"
+                    }
+                ]
+            ],
+            [
+                "Started by Tom Lord in 2001 , it later became part of the GNU project . Lord resigned as maintainer in August 2005",
+                [
+                    "/wiki/GNU"
+                ],
+                [
+                    {
+                        "entity id": "Q7598",
+                        "label": "GNU Project"
+                    }
+                ]
+            ],
+            [
+                "available for GNU Savannah and Gna.org projects",
+                [
+                    "/wiki/GNU_Savannah",
+                    "/wiki/Gna.org"
+                ],
+                [
+                    {
+                        "entity id": "Q1007059",
+                        "label": "GNU Savannah"
+                    },
+                    {
+                        "entity id": "Q1972275",
+                        "label": "Gna!"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IC Manage",
+                [
+                    "/wiki/IC_Manage"
+                ],
+                [
+                    {
+                        "entity id": "Q5969835",
+                        "label": "IC Manage"
+                    }
+                ]
+            ],
+            [
+                "Developed by IC Manage , Inc which was founded in 2003 by Shiv Sikand and Dean Drako",
+                []
+            ],
+            [
+                "many organizations worldwide",
+                []
+            ]
+        ],
+        [
+            [
+                "PTC Integrity",
+                [
+                    "/wiki/PTC_Integrity"
+                ],
+                [
+                    {
+                        "entity id": "Q6716457",
+                        "label": "MKS Integrity"
+                    }
+                ]
+            ],
+            [
+                "Originally developed by MKS Software . Purchased by PTC in May 2011",
+                []
+            ],
+            [
+                "Many global engineering and IT organizations",
+                []
+            ]
+        ],
+        [
+            [
+                "Mercurial",
+                [
+                    "/wiki/Mercurial"
+                ],
+                [
+                    {
+                        "entity id": "Q476543",
+                        "label": "Mercurial"
+                    }
+                ]
+            ],
+            [
+                "Started April 6 , 2005 by Matt Mackall , following the BitKeeper controversy . First released on April 19 , 2005",
+                [
+                    "/wiki/BitKeeper"
+                ],
+                [
+                    {
+                        "entity id": "Q878697",
+                        "label": "BitKeeper"
+                    }
+                ]
+            ],
+            [
+                "Python , Mozilla , OpenJDK , NetBeans , Xine , Xen , OpenSolaris , wmii , MoinMoin , Linux-HA , Pidgin , Gajim , Nginx , PyPy , SDL , Facebook , Google ( as a UI on top of Piper )",
+                [
+                    "/wiki/Python_(programming_language)",
+                    "/wiki/Mozilla",
+                    "/wiki/OpenJDK",
+                    "/wiki/NetBeans",
+                    "/wiki/Xine",
+                    "/wiki/Xen",
+                    "/wiki/OpenSolaris",
+                    "/wiki/Wmii",
+                    "/wiki/MoinMoin",
+                    "/wiki/Linux-HA",
+                    "/wiki/Pidgin_(instant_messaging_client)",
+                    "/wiki/Gajim",
+                    "/wiki/Nginx",
+                    "/wiki/PyPy",
+                    "/wiki/Simple_DirectMedia_Layer",
+                    "/wiki/Facebook",
+                    "/wiki/Google"
+                ],
+                [
+                    {
+                        "entity id": "Q28865",
+                        "label": "Python"
+                    },
+                    {
+                        "entity id": "Q698",
+                        "label": "Firefox"
+                    },
+                    {
+                        "entity id": "Q1461054",
+                        "label": "OpenJDK"
+                    },
+                    {
+                        "entity id": "Q264456",
+                        "label": "Apache NetBeans"
+                    },
+                    {
+                        "entity id": "Q283678",
+                        "label": "xine"
+                    },
+                    {
+                        "entity id": "Q863957",
+                        "label": "Xen"
+                    },
+                    {
+                        "entity id": "Q237580",
+                        "label": "OpenSolaris"
+                    },
+                    {
+                        "entity id": "Q285081",
+                        "label": "wmii"
+                    },
+                    {
+                        "entity id": "Q1141771",
+                        "label": "MoinMoin"
+                    },
+                    {
+                        "entity id": "Q1592448",
+                        "label": "Linux-HA"
+                    },
+                    {},
+                    {
+                        "entity id": "Q58105",
+                        "label": "Gajim"
+                    },
+                    {
+                        "entity id": "Q306144",
+                        "label": "nginx"
+                    },
+                    {
+                        "entity id": "Q1143023",
+                        "label": "PyPy"
+                    },
+                    {
+                        "entity id": "Q727439",
+                        "label": "Simple DirectMedia Layer"
+                    },
+                    {
+                        "entity id": "Q355",
+                        "label": "Facebook"
+                    },
+                    {
+                        "entity id": "Q95",
+                        "label": "Google"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Monotone",
+                [
+                    "/wiki/Monotone_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "First released in April 2003",
+                []
+            ],
+            [
+                "CTWM , I2P , Botan",
+                [
+                    "/wiki/CTWM",
+                    "/wiki/I2P",
+                    "/wiki/Botan_(programming_library)"
+                ],
+                [
+                    {
+                        "entity id": "Q4035698",
+                        "label": "CTWM"
+                    },
+                    {
+                        "entity id": "Q565283",
+                        "label": "I2P"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Perforce Helix Core",
+                [
+                    "/wiki/Perforce"
+                ],
+                [
+                    {
+                        "entity id": "Q1681038",
+                        "label": "Helix Core"
+                    }
+                ]
+            ],
+            [
+                "Developed by Perforce Software , Inc which was founded in 1995 by Christopher Seiwald",
+                []
+            ],
+            [
+                "FreeBSD , Scania AB",
+                [
+                    "/wiki/FreeBSD",
+                    "/wiki/Scania_AB"
+                ],
+                [
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    },
+                    {
+                        "entity id": "Q219960",
+                        "label": "Scania"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "History and adoption",
+    "section_text": "Table explanation Software : The name of the application that is described . History : briefly describes the software 's origins and development . Notable users : is a list of well known projects using the software as their primary revision control system , excluding the software itself , followed by a link to a full list if available .",
+    "uid": "Comparison_of_revision_control_software_7",
+    "intro": "The following is a comparison of version-control software. The following tables include general and technical information on notable version control and software configuration management (SCM) software. For SCM software not suitable for source code, see Comparison of open-source configuration-management software."
+}

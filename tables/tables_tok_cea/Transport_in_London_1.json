@@ -1,0 +1,640 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Transport_in_London",
+    "title": "Transport in London",
+    "header": [
+        [
+            "Train operator",
+            []
+        ],
+        [
+            "Franchise/services",
+            []
+        ],
+        [
+            "Parent company/owner",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Arriva Rail London",
+                [
+                    "/wiki/Arriva_Rail_London"
+                ],
+                [
+                    {
+                        "entity id": "Q24298982",
+                        "label": "Arriva Rail London"
+                    }
+                ]
+            ],
+            [
+                "London Overground metro service across London",
+                [
+                    "/wiki/London_Overground"
+                ],
+                [
+                    {
+                        "entity id": "Q746021",
+                        "label": "London Overground"
+                    }
+                ]
+            ],
+            [
+                "Arriva",
+                [
+                    "/wiki/Arriva_UK_Trains"
+                ],
+                [
+                    {
+                        "entity id": "Q4796025",
+                        "label": "Arriva UK Trains"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "c2c",
+                [
+                    "/wiki/C2c"
+                ],
+                [
+                    {
+                        "entity id": "Q1076010",
+                        "label": "consumer-to-consumer"
+                    }
+                ]
+            ],
+            [
+                "Essex Thameside - local and regional/commuter services from Fenchurch Street to East London and South Essex",
+                [
+                    "/wiki/Essex_Thameside",
+                    "/wiki/Fenchurch_Street_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q5399811",
+                        "label": "Essex Thameside"
+                    },
+                    {
+                        "entity id": "Q800753",
+                        "label": "Fenchurch Street railway station"
+                    }
+                ]
+            ],
+            [
+                "Trenitalia",
+                [
+                    "/wiki/Trenitalia"
+                ],
+                [
+                    {
+                        "entity id": "Q286650",
+                        "label": "Trenitalia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Chiltern Railways",
+                [
+                    "/wiki/Chiltern_Railways"
+                ],
+                [
+                    {
+                        "entity id": "Q567000",
+                        "label": "Chiltern Railways"
+                    }
+                ]
+            ],
+            [
+                "London to Aylesbury Line - local and regional/commuter services from Marylebone to North West London , Buckinghamshire",
+                [
+                    "/wiki/London_to_Aylesbury_Line",
+                    "/wiki/Marylebone_railway_station",
+                    "/wiki/Buckinghamshire"
+                ],
+                [
+                    {
+                        "entity id": "Q6671156",
+                        "label": "London\u2013Aylesbury line"
+                    },
+                    {},
+                    {
+                        "entity id": "Q23229",
+                        "label": "Buckinghamshire"
+                    }
+                ]
+            ],
+            [
+                "Arriva",
+                []
+            ]
+        ],
+        [
+            [
+                "East Midlands Railway",
+                [
+                    "/wiki/East_Midlands_Railway"
+                ],
+                [
+                    {
+                        "entity id": "Q65090907",
+                        "label": "East Midlands Railway"
+                    }
+                ]
+            ],
+            [
+                "Regional services from St Pancras to Corby",
+                [
+                    "/wiki/St_Pancras_railway_station",
+                    "/wiki/Corby_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q720102",
+                        "label": "St Pancras railway station"
+                    },
+                    {
+                        "entity id": "Q5169828",
+                        "label": "Corby railway station"
+                    }
+                ]
+            ],
+            [
+                "Abellio",
+                [
+                    "/wiki/Abellio_(transport_company)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Govia Thameslink Railway",
+                [
+                    "/wiki/Govia_Thameslink_Railway"
+                ],
+                [
+                    {
+                        "entity id": "Q18737011",
+                        "label": "Govia Thameslink Railway"
+                    }
+                ]
+            ],
+            [
+                "Thameslink Southern & Great Northern franchise - operate under the Gatwick Express , Great Northern , Southern , and Thameslink brands from King 's Cross , Moorgate , Blackfriars , London Bridge and Victoria to North London , South London , Hertfordshire , Cambridgeshire , Bedfordshire , Kent and Sussex , also operate cross city services via the Thameslink route",
+                [
+                    "/wiki/Thameslink_Southern_&_Great_Northern_franchise",
+                    "/wiki/Gatwick_Express",
+                    "/wiki/Southern_(train_operating_company)",
+                    "/wiki/London_King's_Cross_railway_station",
+                    "/wiki/Moorgate_station",
+                    "/wiki/Blackfriars_railway_station",
+                    "/wiki/London_Bridge_railway_station",
+                    "/wiki/London_Victoria_railway_station",
+                    "/wiki/Hertfordshire",
+                    "/wiki/Cambridgeshire",
+                    "/wiki/Bedfordshire",
+                    "/wiki/Kent",
+                    "/wiki/Sussex",
+                    "/wiki/Thameslink"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q971990",
+                        "label": "Gatwick Express"
+                    },
+                    {},
+                    {
+                        "entity id": "Q219867",
+                        "label": "London King's Cross railway station"
+                    },
+                    {
+                        "entity id": "Q801210",
+                        "label": "Moorgate station"
+                    },
+                    {
+                        "entity id": "Q284195",
+                        "label": "Blackfriars station"
+                    },
+                    {
+                        "entity id": "Q801125",
+                        "label": "London Bridge station"
+                    },
+                    {},
+                    {
+                        "entity id": "Q3410",
+                        "label": "Hertfordshire"
+                    },
+                    {
+                        "entity id": "Q23112",
+                        "label": "Cambridgeshire"
+                    },
+                    {
+                        "entity id": "Q23143",
+                        "label": "Bedfordshire"
+                    },
+                    {
+                        "entity id": "Q23298",
+                        "label": "Kent"
+                    },
+                    {
+                        "entity id": "Q23346",
+                        "label": "Sussex"
+                    },
+                    {
+                        "entity id": "Q1194990",
+                        "label": "Thameslink"
+                    }
+                ]
+            ],
+            [
+                "Govia",
+                [
+                    "/wiki/Govia"
+                ],
+                [
+                    {
+                        "entity id": "Q3109528",
+                        "label": "Govia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Great Western Railway",
+                [
+                    "/wiki/Great_Western_Railway_(train_operating_company)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Greater Western franchise - local and regional/commuter services from Paddington to West London and the Thames Valley",
+                [
+                    "/wiki/Greater_Western_franchise",
+                    "/wiki/Paddington_railway_station",
+                    "/wiki/West_London_(sub_region)",
+                    "/wiki/Thames_Valley"
+                ],
+                [
+                    {
+                        "entity id": "Q5600820",
+                        "label": "Greater Western franchise"
+                    },
+                    {
+                        "entity id": "Q214788",
+                        "label": "London Paddington station"
+                    },
+                    {},
+                    {
+                        "entity id": "Q1772582",
+                        "label": "Thames Valley"
+                    }
+                ]
+            ],
+            [
+                "FirstGroup",
+                [
+                    "/wiki/FirstGroup"
+                ],
+                [
+                    {
+                        "entity id": "Q1198156",
+                        "label": "FirstGroup plc"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Greater Anglia",
+                [
+                    "/wiki/Greater_Anglia_(train_operating_company)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "East Anglia franchise - local and regional/commuter services from Liverpool Street to Essex , Hertfordshire and Cambridgeshire , also operate the Stansted Express",
+                [
+                    "/wiki/East_Anglia_franchise",
+                    "/wiki/Liverpool_Street_station",
+                    "/wiki/Essex",
+                    "/wiki/Hertfordshire",
+                    "/wiki/Cambridgeshire",
+                    "/wiki/Stansted_Express"
+                ],
+                [
+                    {
+                        "entity id": "Q22000984",
+                        "label": "East Anglia franchise"
+                    },
+                    {
+                        "entity id": "Q801124",
+                        "label": "Liverpool Street station"
+                    },
+                    {
+                        "entity id": "Q23240",
+                        "label": "Essex"
+                    },
+                    {
+                        "entity id": "Q3410",
+                        "label": "Hertfordshire"
+                    },
+                    {
+                        "entity id": "Q23112",
+                        "label": "Cambridgeshire"
+                    },
+                    {
+                        "entity id": "Q2118151",
+                        "label": "Stansted Express"
+                    }
+                ]
+            ],
+            [
+                "Abellio / Mitsui",
+                [
+                    "/wiki/Mitsui"
+                ],
+                [
+                    {
+                        "entity id": "Q16877241",
+                        "label": "Mitsui"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Heathrow Express",
+                [
+                    "/wiki/Heathrow_Express"
+                ],
+                [
+                    {
+                        "entity id": "Q1540080",
+                        "label": "Heathrow Express"
+                    }
+                ]
+            ],
+            [
+                "Non-stop service from Paddington to Heathrow Airport",
+                [
+                    "/wiki/Heathrow_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8691",
+                        "label": "Heathrow Airport"
+                    }
+                ]
+            ],
+            [
+                "Heathrow Airport Holdings",
+                [
+                    "/wiki/Heathrow_Airport_Holdings"
+                ],
+                [
+                    {
+                        "entity id": "Q795363",
+                        "label": "Heathrow Airport Holdings Limited"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "London Northwestern Railway",
+                [
+                    "/wiki/West_Midlands_Trains"
+                ],
+                [
+                    {
+                        "entity id": "Q39052868",
+                        "label": "West Midlands Trains"
+                    }
+                ]
+            ],
+            [
+                "Local and regional/commuter services from Euston to Hertfordshire , Buckinghamshire and Northamptonshire , Warwickshire , Staffordshire and Birmingham",
+                [
+                    "/wiki/Euston_railway_station",
+                    "/wiki/Northamptonshire",
+                    "/wiki/Warwickshire",
+                    "/wiki/Staffordshire",
+                    "/wiki/Birmingham"
+                ],
+                [
+                    {
+                        "entity id": "Q800751",
+                        "label": "Euston Station"
+                    },
+                    {
+                        "entity id": "Q23115",
+                        "label": "Northamptonshire"
+                    },
+                    {
+                        "entity id": "Q23140",
+                        "label": "Warwickshire"
+                    },
+                    {
+                        "entity id": "Q23105",
+                        "label": "Staffordshire"
+                    },
+                    {
+                        "entity id": "Q2256",
+                        "label": "Birmingham"
+                    }
+                ]
+            ],
+            [
+                "Abellio / JR East / Mitsui",
+                [
+                    "/wiki/East_Japan_Railway_Company"
+                ],
+                [
+                    {
+                        "entity id": "Q499071",
+                        "label": "East Japan Railway Company"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "South Western Railway",
+                [
+                    "/wiki/South_Western_Railway_(train_operating_company)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "South Western franchise - local services from Waterloo to South West London and regional/commuter services to Surrey , Hampshire , Dorset & Berkshire",
+                [
+                    "/wiki/South_Western_franchise",
+                    "/wiki/London_Waterloo_railway_station",
+                    "/wiki/Surrey",
+                    "/wiki/Hampshire",
+                    "/wiki/Dorset",
+                    "/wiki/Berkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q22336902",
+                        "label": "South Western franchise"
+                    },
+                    {},
+                    {
+                        "entity id": "Q23276",
+                        "label": "Surrey"
+                    },
+                    {
+                        "entity id": "Q23204",
+                        "label": "Hampshire"
+                    },
+                    {
+                        "entity id": "Q23159",
+                        "label": "Dorset"
+                    },
+                    {
+                        "entity id": "Q23220",
+                        "label": "Berkshire"
+                    }
+                ]
+            ],
+            [
+                "FirstGroup / MTR Corporation",
+                [
+                    "/wiki/MTR_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q1479375",
+                        "label": "MTR Corporation Limited"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Southeastern",
+                [
+                    "/wiki/Southeastern_(train_operating_company)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "South Eastern franchise - local metro services across South East London and commuter and regional services from Victoria , Charing Cross , Cannon Street , Blackfriars and St Pancras to Kent",
+                [
+                    "/wiki/South_Eastern_franchise",
+                    "/wiki/London_Victoria_railway_station",
+                    "/wiki/Charing_Cross_railway_station",
+                    "/wiki/Cannon_Street_railway_station",
+                    "/wiki/Blackfriars_railway_station",
+                    "/wiki/St_Pancras_railway_station",
+                    "/wiki/Kent"
+                ],
+                [
+                    {
+                        "entity id": "Q7567153",
+                        "label": "South Eastern Passenger Rail Franchise"
+                    },
+                    {},
+                    {
+                        "entity id": "Q801128",
+                        "label": "Charing Cross railway station"
+                    },
+                    {
+                        "entity id": "Q800615",
+                        "label": "Cannon Street station"
+                    },
+                    {
+                        "entity id": "Q284195",
+                        "label": "Blackfriars station"
+                    },
+                    {
+                        "entity id": "Q720102",
+                        "label": "St Pancras railway station"
+                    },
+                    {
+                        "entity id": "Q23298",
+                        "label": "Kent"
+                    }
+                ]
+            ],
+            [
+                "Govia",
+                []
+            ]
+        ],
+        [
+            [
+                "TfL Rail",
+                [
+                    "/wiki/TfL_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q18160926",
+                        "label": "TfL Rail"
+                    }
+                ]
+            ],
+            [
+                "Local and commuter services from Liverpool Street to Gidea Park and Shenfield , plus Paddington to Hayes & Harlington and Heathrow Terminal 4 , will operate the Elizabeth line from 2019",
+                [
+                    "/wiki/Gidea_Park_railway_station",
+                    "/wiki/Shenfield_railway_station",
+                    "/wiki/Hayes_&_Harlington_railway_station",
+                    "/wiki/Heathrow_Terminal_4_railway_station",
+                    "/wiki/Elizabeth_line"
+                ],
+                [
+                    {
+                        "entity id": "Q4997460",
+                        "label": "Gidea Park railway station"
+                    },
+                    {
+                        "entity id": "Q3461338",
+                        "label": "Shenfield railway station"
+                    },
+                    {
+                        "entity id": "Q1622594",
+                        "label": "Hayes & Harlington railway station"
+                    },
+                    {
+                        "entity id": "Q5694347",
+                        "label": "Heathrow Terminal 4 railway station"
+                    },
+                    {
+                        "entity id": "Q111297173",
+                        "label": "Elizabeth line"
+                    }
+                ]
+            ],
+            [
+                "MTR Corporation",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Heavy rail -- Local and regional",
+    "section_text": "Thameslink trains run a cross London route through Central London Unlike the Underground , which is a single system owned and operated by Transport for London , commuter railways in London are run by a number of separate train operating companies ( TOCs ) . This results from the privatisation of British Rail in the 1990s which split the former state railway operator British Rail into a number of smaller franchises in order to increase competition and allow railways to operate in a free market . Among the rail firms operating passenger services in London , a number are owned by foreign companies or by state-owned railways of other European countries . [ 21 ] [ 22 ] [ 23 ] London Overground is contracted in a different way to other franchises in that it is operated by a private company under contract to Transport for London . Heathrow Express is also unusual in that it is not officially part of the National Rail franchising system .",
+    "uid": "Transport_in_London_1",
+    "intro": "London has an extensive and developed transport network which includes both private and public services. Journeys made by public transport systems account for 37% of London's journeys while private services accounted for 36% of journeys, walking 24% and cycling 2%. London's public transport network serves as the central hub for the United Kingdom in rail, air and road transport. Public transport services are dominated by the executive agency for transport in London: Transport for London (TfL). TfL controls the majority of public transport, including the Underground, Buses, Tramlink, the Docklands Light Railway, London River Services and the London Overground. Other rail services are either franchised to train operating companies by the Department for Transport (DfT) or, like Eurostar and Heathrow Express, operated on an open-access basis. TfL also controls most major roads in London, but not minor roads. In addition, there are several independent airports serving London, including Heathrow, the busiest airport in Europe."
+}

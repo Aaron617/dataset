@@ -1,0 +1,2322 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_writing_systems",
+    "title": "List of writing systems",
+    "header": [
+        [
+            "Name of script",
+            []
+        ],
+        [
+            "Type",
+            []
+        ],
+        [
+            "Number of characters",
+            []
+        ],
+        [
+            "Population actively using ( in millions )",
+            []
+        ],
+        [
+            "Languages associated with",
+            []
+        ],
+        [
+            "Regions with predominant usage",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Latin Latin",
+                [
+                    "/wiki/Latin_script"
+                ],
+                [
+                    {
+                        "entity id": "Q8229",
+                        "label": "Latin script"
+                    }
+                ]
+            ],
+            [
+                "Alphabet",
+                [
+                    "/wiki/Alphabet"
+                ],
+                [
+                    {
+                        "entity id": "Q9779",
+                        "label": "alphabet"
+                    }
+                ]
+            ],
+            [
+                "23 ( classical )",
+                []
+            ],
+            [
+                "6120+",
+                []
+            ],
+            [
+                "Latin and Romance languages ( Italian , French , Franco-Proven\u00e7al , Occitan , Catalan , Portuguese , Galician , Spanish , Rhaeto-Romance languages , Sardinian and Romanian ) , Germanic languages ( English , Dutch , German , Nordic languages ) , Chinese ( Mandarin Pinyin ) , Austronesian languages ( Indonesian , Filipino , Malay , Polynesian languages ) , West and Southwest Slavic languages ( including Polish ) , Baltic languages ( Latvian and Lithuanian ) , Niger-Congo languages ( including Swahili , Yoruba , and Zulu ) , Turkish , Somali , Albanian , Vietnamese , Hungarian , Maltese , Finnic ( including Estonian and Finnish ) and Sami languages , others",
+                [
+                    "/wiki/Latin_language",
+                    "/wiki/Romance_languages",
+                    "/wiki/Italian_language",
+                    "/wiki/French_language",
+                    "/wiki/Franco-Proven\u00e7al_language",
+                    "/wiki/Occitan_language",
+                    "/wiki/Catalan_language",
+                    "/wiki/Portuguese_language",
+                    "/wiki/Galician_language",
+                    "/wiki/Spanish_language",
+                    "/wiki/Rhaeto-Romance_languages",
+                    "/wiki/Sardinian_language",
+                    "/wiki/Romanian_language",
+                    "/wiki/Germanic_Languages",
+                    "/wiki/English_language",
+                    "/wiki/Dutch_language",
+                    "/wiki/German_language",
+                    "/wiki/North_Germanic_languages",
+                    "/wiki/Chinese_language",
+                    "/wiki/Pinyin",
+                    "/wiki/Austronesian_languages",
+                    "/wiki/Indonesian_language",
+                    "/wiki/Filipino_language",
+                    "/wiki/Malay_language",
+                    "/wiki/Polynesian_languages",
+                    "/wiki/West_Slavic_languages",
+                    "/wiki/Western_South_Slavic_languages",
+                    "/wiki/Slavic_languages",
+                    "/wiki/Polish_language",
+                    "/wiki/Baltic_languages",
+                    "/wiki/Latvian_language",
+                    "/wiki/Lithuanian_language",
+                    "/wiki/Niger-Congo_languages",
+                    "/wiki/Swahili_language",
+                    "/wiki/Yoruba_language",
+                    "/wiki/Zulu_language",
+                    "/wiki/Turkish_language",
+                    "/wiki/Somali_language",
+                    "/wiki/Albanian_language",
+                    "/wiki/Vietnamese_language",
+                    "/wiki/Hungarian_language",
+                    "/wiki/Maltese_language",
+                    "/wiki/Finnic_languages",
+                    "/wiki/Estonian_language",
+                    "/wiki/Finnish_language",
+                    "/wiki/Sami_languages"
+                ],
+                [
+                    {
+                        "entity id": "Q397",
+                        "label": "Latin"
+                    },
+                    {
+                        "entity id": "Q19814",
+                        "label": "Romance"
+                    },
+                    {
+                        "entity id": "Q652",
+                        "label": "Italian"
+                    },
+                    {
+                        "entity id": "Q150",
+                        "label": "French"
+                    },
+                    {
+                        "entity id": "Q15087",
+                        "label": "Franco-Proven\u00e7al"
+                    },
+                    {
+                        "entity id": "Q14185",
+                        "label": "Occitan"
+                    },
+                    {
+                        "entity id": "Q7026",
+                        "label": "Catalan"
+                    },
+                    {
+                        "entity id": "Q5146",
+                        "label": "Portuguese"
+                    },
+                    {
+                        "entity id": "Q9307",
+                        "label": "Galician"
+                    },
+                    {
+                        "entity id": "Q1321",
+                        "label": "Spanish"
+                    },
+                    {
+                        "entity id": "Q515593",
+                        "label": "Rhaeto-Romance"
+                    },
+                    {
+                        "entity id": "Q33976",
+                        "label": "Sardinian"
+                    },
+                    {
+                        "entity id": "Q7913",
+                        "label": "Romanian"
+                    },
+                    {
+                        "entity id": "Q21200",
+                        "label": "Germanic"
+                    },
+                    {
+                        "entity id": "Q1860",
+                        "label": "English"
+                    },
+                    {
+                        "entity id": "Q7411",
+                        "label": "Dutch"
+                    },
+                    {
+                        "entity id": "Q188",
+                        "label": "German"
+                    },
+                    {
+                        "entity id": "Q106085",
+                        "label": "North Germanic"
+                    },
+                    {
+                        "entity id": "Q7850",
+                        "label": "Chinese"
+                    },
+                    {
+                        "entity id": "Q42222",
+                        "label": "pinyin"
+                    },
+                    {
+                        "entity id": "Q49228",
+                        "label": "Austronesian"
+                    },
+                    {
+                        "entity id": "Q9240",
+                        "label": "Indonesian"
+                    },
+                    {
+                        "entity id": "Q33298",
+                        "label": "Filipino"
+                    },
+                    {
+                        "entity id": "Q9237",
+                        "label": "Malay"
+                    },
+                    {
+                        "entity id": "Q390979",
+                        "label": "Polynesian"
+                    },
+                    {
+                        "entity id": "Q145852",
+                        "label": "West Slavic"
+                    },
+                    {
+                        "entity id": "Q10686779",
+                        "label": "Western South Slavic"
+                    },
+                    {
+                        "entity id": "Q23526",
+                        "label": "Slavic"
+                    },
+                    {
+                        "entity id": "Q809",
+                        "label": "Polish"
+                    },
+                    {
+                        "entity id": "Q33136",
+                        "label": "Baltic"
+                    },
+                    {
+                        "entity id": "Q9078",
+                        "label": "Latvian"
+                    },
+                    {
+                        "entity id": "Q9083",
+                        "label": "Lithuanian"
+                    },
+                    {
+                        "entity id": "Q33838",
+                        "label": "Niger\u2013Congo"
+                    },
+                    {
+                        "entity id": "Q7838",
+                        "label": "Swahili"
+                    },
+                    {
+                        "entity id": "Q34311",
+                        "label": "Yoruba"
+                    },
+                    {
+                        "entity id": "Q10179",
+                        "label": "Zulu"
+                    },
+                    {
+                        "entity id": "Q256",
+                        "label": "Turkish"
+                    },
+                    {
+                        "entity id": "Q13275",
+                        "label": "Somali"
+                    },
+                    {
+                        "entity id": "Q8748",
+                        "label": "Albanian"
+                    },
+                    {
+                        "entity id": "Q9199",
+                        "label": "Vietnamese"
+                    },
+                    {
+                        "entity id": "Q9067",
+                        "label": "Hungarian"
+                    },
+                    {
+                        "entity id": "Q9166",
+                        "label": "Maltese"
+                    },
+                    {
+                        "entity id": "Q33328",
+                        "label": "Finnic"
+                    },
+                    {
+                        "entity id": "Q9072",
+                        "label": "Estonian"
+                    },
+                    {
+                        "entity id": "Q1412",
+                        "label": "Finnish"
+                    },
+                    {
+                        "entity id": "Q56463",
+                        "label": "S\u00e1mi"
+                    }
+                ]
+            ],
+            [
+                "Worldwide",
+                []
+            ]
+        ],
+        [
+            [
+                "Chinese \u6c49\u5b57 \u6f22\u5b57",
+                [
+                    "/wiki/Chinese_characters"
+                ],
+                [
+                    {
+                        "entity id": "Q8201",
+                        "label": "Chinese characters"
+                    }
+                ]
+            ],
+            [
+                "Logographic",
+                [
+                    "/wiki/Logographic"
+                ],
+                [
+                    {
+                        "entity id": "Q3953107",
+                        "label": "logographic writing system"
+                    }
+                ]
+            ],
+            [
+                "> 50,000",
+                []
+            ],
+            [
+                "1340",
+                []
+            ],
+            [
+                "Mandarin , Yue , Wu , Gan , Min , Hakka , Xiang , Jin , Pinghua , Huizhou and other Chinese languages ( Chinese characters ) , Japanese ( Kanji ) , Korean ( Hanja ) , Vietnamese ( Chu Nom ) , Zhuang ( Sawndip ) , Okinawan ( Okinawan ) , Mulam",
+                [
+                    "/wiki/Mandarin_Chinese",
+                    "/wiki/Cantonese",
+                    "/wiki/Wu_Chinese",
+                    "/wiki/Gan_Chinese",
+                    "/wiki/Min_Chinese",
+                    "/wiki/Hakka_Chinese",
+                    "/wiki/Xiang_Chinese",
+                    "/wiki/Jin_Chinese",
+                    "/wiki/Pinghua",
+                    "/wiki/Huizhou_Chinese",
+                    "/wiki/Chinese_characters",
+                    "/wiki/Japanese_language",
+                    "/wiki/Kanji",
+                    "/wiki/Korean_language",
+                    "/wiki/Hanja",
+                    "/wiki/Vietnamese_language",
+                    "/wiki/Chu_Nom",
+                    "/wiki/Zhuang_languages",
+                    "/wiki/Sawndip",
+                    "/wiki/Okinawan_language",
+                    "/wiki/Okinawan_scripts",
+                    "/wiki/Mulam_language"
+                ],
+                [
+                    {
+                        "entity id": "Q9192",
+                        "label": "Mandarin Chinese"
+                    },
+                    {
+                        "entity id": "Q9186",
+                        "label": "Cantonese"
+                    },
+                    {
+                        "entity id": "Q34290",
+                        "label": "Wu Chinese"
+                    },
+                    {
+                        "entity id": "Q33475",
+                        "label": "Gan"
+                    },
+                    {
+                        "entity id": "Q56504",
+                        "label": "Min Chinese"
+                    },
+                    {
+                        "entity id": "Q33375",
+                        "label": "Hakka"
+                    },
+                    {
+                        "entity id": "Q13220",
+                        "label": "Xiang"
+                    },
+                    {
+                        "entity id": "Q56479",
+                        "label": "Jin Chinese"
+                    },
+                    {
+                        "entity id": "Q2735715",
+                        "label": "Pinghua"
+                    },
+                    {
+                        "entity id": "Q56546",
+                        "label": "Huizhou Chinese"
+                    },
+                    {
+                        "entity id": "Q8201",
+                        "label": "Chinese characters"
+                    },
+                    {
+                        "entity id": "Q5287",
+                        "label": "Japanese"
+                    },
+                    {
+                        "entity id": "Q82772",
+                        "label": "kanji"
+                    },
+                    {
+                        "entity id": "Q9176",
+                        "label": "Korean"
+                    },
+                    {
+                        "entity id": "Q8201",
+                        "label": "Chinese characters"
+                    },
+                    {
+                        "entity id": "Q9199",
+                        "label": "Vietnamese"
+                    },
+                    {
+                        "entity id": "Q875344",
+                        "label": "ch\u1eef N\u00f4m"
+                    },
+                    {
+                        "entity id": "Q13216",
+                        "label": "Zhuang"
+                    },
+                    {
+                        "entity id": "Q923677",
+                        "label": "Sawndip"
+                    },
+                    {
+                        "entity id": "Q34233",
+                        "label": "Okinawan"
+                    },
+                    {
+                        "entity id": "Q2599096",
+                        "label": "Okinawan scripts"
+                    },
+                    {
+                        "entity id": "Q3092284",
+                        "label": "Mulam"
+                    }
+                ]
+            ],
+            [
+                "China , Taiwan , Singapore , Malaysia ( Chinese Malaysians ) , Japan , South Korea , Indonesia ( Chinese Indonesians ) , Hong Kong",
+                [
+                    "/wiki/China",
+                    "/wiki/Taiwan",
+                    "/wiki/Singapore",
+                    "/wiki/Malaysia",
+                    "/wiki/Chinese_Malaysians",
+                    "/wiki/Japan",
+                    "/wiki/South_Korea",
+                    "/wiki/Indonesia",
+                    "/wiki/Chinese_Indonesians",
+                    "/wiki/Hong_Kong"
+                ],
+                [
+                    {
+                        "entity id": "Q148",
+                        "label": "People's Republic of China"
+                    },
+                    {
+                        "entity id": "Q865",
+                        "label": "Taiwan"
+                    },
+                    {
+                        "entity id": "Q334",
+                        "label": "Singapore"
+                    },
+                    {
+                        "entity id": "Q833",
+                        "label": "Malaysia"
+                    },
+                    {},
+                    {
+                        "entity id": "Q17",
+                        "label": "Japan"
+                    },
+                    {
+                        "entity id": "Q884",
+                        "label": "South Korea"
+                    },
+                    {
+                        "entity id": "Q252",
+                        "label": "Indonesia"
+                    },
+                    {
+                        "entity id": "Q1945786",
+                        "label": "Chinese Indonesians"
+                    },
+                    {
+                        "entity id": "Q8646",
+                        "label": "Hong Kong"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Devanagari \u0926\u0947\u0935\u0928\u093e\u0917\u0930\u0940",
+                [
+                    "/wiki/Devanagari"
+                ],
+                [
+                    {
+                        "entity id": "Q38592",
+                        "label": "Devanagari"
+                    }
+                ]
+            ],
+            [
+                "Abugida",
+                [
+                    "/wiki/Abugida"
+                ],
+                [
+                    {
+                        "entity id": "Q335806",
+                        "label": "abugida"
+                    }
+                ]
+            ],
+            [
+                "44",
+                []
+            ],
+            [
+                "820+",
+                []
+            ],
+            [
+                "Angika , Awadhi , Bhili , Bhojpuri , Bodo , Chhattisgarhi , Dogri , Haryanvi , Hindi , Kashmiri , Konkani , Magahi , Maithili , Marathi , Mundari , Nepali , Newar , Pali , Rajasthani , Sanskrit , Santali , Sindhi , others",
+                [
+                    "/wiki/Angika_language",
+                    "/wiki/Awadhi_language",
+                    "/wiki/Bhili_language",
+                    "/wiki/Bhojpuri_language",
+                    "/wiki/Bodo_language",
+                    "/wiki/Chhattisgarhi_language",
+                    "/wiki/Dogri_language",
+                    "/wiki/Haryanvi_language",
+                    "/wiki/Hindi",
+                    "/wiki/Kashmiri_language",
+                    "/wiki/Konkani_language",
+                    "/wiki/Magahi_language",
+                    "/wiki/Maithili_language",
+                    "/wiki/Marathi_language",
+                    "/wiki/Mundari_language",
+                    "/wiki/Nepali_language",
+                    "/wiki/Newar_language",
+                    "/wiki/Pali",
+                    "/wiki/Rajasthani_language",
+                    "/wiki/Sanskrit",
+                    "/wiki/Santali_language",
+                    "/wiki/Sindhi_language"
+                ],
+                [
+                    {
+                        "entity id": "Q28378",
+                        "label": "Angika"
+                    },
+                    {
+                        "entity id": "Q29579",
+                        "label": "Awadhi"
+                    },
+                    {
+                        "entity id": "Q33229",
+                        "label": "Bhili"
+                    },
+                    {
+                        "entity id": "Q33268",
+                        "label": "Bhojpuri"
+                    },
+                    {
+                        "entity id": "Q33223",
+                        "label": "Bodo"
+                    },
+                    {
+                        "entity id": "Q33158",
+                        "label": "Chhattisgarhi"
+                    },
+                    {
+                        "entity id": "Q32730",
+                        "label": "Dogri"
+                    },
+                    {
+                        "entity id": "Q33410",
+                        "label": "Haryanvi"
+                    },
+                    {
+                        "entity id": "Q1568",
+                        "label": "Hindi"
+                    },
+                    {
+                        "entity id": "Q33552",
+                        "label": "Kashmiri"
+                    },
+                    {
+                        "entity id": "Q34239",
+                        "label": "Konkani"
+                    },
+                    {
+                        "entity id": "Q33728",
+                        "label": "Magahi"
+                    },
+                    {
+                        "entity id": "Q36109",
+                        "label": "Maithili"
+                    },
+                    {
+                        "entity id": "Q1571",
+                        "label": "Marathi"
+                    },
+                    {
+                        "entity id": "Q33892",
+                        "label": "Munda"
+                    },
+                    {
+                        "entity id": "Q33823",
+                        "label": "Nepali"
+                    },
+                    {
+                        "entity id": "Q33979",
+                        "label": "Newar"
+                    },
+                    {
+                        "entity id": "Q36727",
+                        "label": "Pali"
+                    },
+                    {
+                        "entity id": "Q13196",
+                        "label": "Rajasthani"
+                    },
+                    {
+                        "entity id": "Q11059",
+                        "label": "Sanskrit"
+                    },
+                    {
+                        "entity id": "Q33965",
+                        "label": "Santali"
+                    },
+                    {
+                        "entity id": "Q33997",
+                        "label": "Sindhi"
+                    }
+                ]
+            ],
+            [
+                "India ( native in Hindi Belt , Goa , Maharashtra ) , Nepal",
+                [
+                    "/wiki/India",
+                    "/wiki/Hindi_Belt",
+                    "/wiki/Goa",
+                    "/wiki/Maharashtra",
+                    "/wiki/Nepal"
+                ],
+                [
+                    {
+                        "entity id": "Q668",
+                        "label": "India"
+                    },
+                    {
+                        "entity id": "Q3522980",
+                        "label": "Madhyadesh"
+                    },
+                    {
+                        "entity id": "Q1171",
+                        "label": "Goa"
+                    },
+                    {
+                        "entity id": "Q1191",
+                        "label": "Maharashtra"
+                    },
+                    {
+                        "entity id": "Q837",
+                        "label": "Nepal"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Arabic \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+                [
+                    "/wiki/Arabic_script"
+                ],
+                [
+                    {
+                        "entity id": "Q1828555",
+                        "label": "Arabic script"
+                    }
+                ]
+            ],
+            [
+                "Abjad",
+                [
+                    "/wiki/Abjad"
+                ],
+                [
+                    {
+                        "entity id": "Q185087",
+                        "label": "abjad"
+                    }
+                ]
+            ],
+            [
+                "28",
+                []
+            ],
+            [
+                "660+",
+                []
+            ],
+            [
+                "Arabic , Persian , Urdu , Punjabi , Pashto , Sindhi , Balochi , Malayan ( Jawi ) , Acehnese ( Jawi ) , Uyghur , Kazakh ( in China ) , Kurdish , Azeri ( in Iran ) , Javanese ( Pegon ) , Sundanese ( Pegon ) , others",
+                [
+                    "/wiki/Arabic_language",
+                    "/wiki/Persian_language",
+                    "/wiki/Urdu",
+                    "/wiki/Punjabi_language",
+                    "/wiki/Pashto_language",
+                    "/wiki/Sindhi_language",
+                    "/wiki/Balochi_language",
+                    "/wiki/Malayan_languages",
+                    "/wiki/Jawi_alphabet",
+                    "/wiki/Acehnese_language",
+                    "/wiki/Jawi_alphabet",
+                    "/wiki/Uyghur_language",
+                    "/wiki/Kazakh_language",
+                    "/wiki/China",
+                    "/wiki/Kurdish_language",
+                    "/wiki/Azerbaijani_Language",
+                    "/wiki/Iran",
+                    "/wiki/Javanese_language",
+                    "/wiki/Pegon_script",
+                    "/wiki/Sundanese_language",
+                    "/wiki/Pegon_script"
+                ],
+                [
+                    {
+                        "entity id": "Q13955",
+                        "label": "Arabic"
+                    },
+                    {
+                        "entity id": "Q9168",
+                        "label": "Persian"
+                    },
+                    {
+                        "entity id": "Q1617",
+                        "label": "Urdu"
+                    },
+                    {
+                        "entity id": "Q58635",
+                        "label": "Punjabi"
+                    },
+                    {
+                        "entity id": "Q58680",
+                        "label": "Pashto"
+                    },
+                    {
+                        "entity id": "Q33997",
+                        "label": "Sindhi"
+                    },
+                    {
+                        "entity id": "Q33049",
+                        "label": "Balochi"
+                    },
+                    {
+                        "entity id": "Q3450837",
+                        "label": "Malayan"
+                    },
+                    {
+                        "entity id": "Q83942",
+                        "label": "Jawi alphabet"
+                    },
+                    {
+                        "entity id": "Q27683",
+                        "label": "Acehnese"
+                    },
+                    {
+                        "entity id": "Q83942",
+                        "label": "Jawi alphabet"
+                    },
+                    {
+                        "entity id": "Q13263",
+                        "label": "Uyghur"
+                    },
+                    {
+                        "entity id": "Q9252",
+                        "label": "Kazakh"
+                    },
+                    {
+                        "entity id": "Q148",
+                        "label": "People's Republic of China"
+                    },
+                    {
+                        "entity id": "Q36368",
+                        "label": "Kurdish"
+                    },
+                    {
+                        "entity id": "Q9292",
+                        "label": "Azerbaijani"
+                    },
+                    {
+                        "entity id": "Q794",
+                        "label": "Iran"
+                    },
+                    {
+                        "entity id": "Q33549",
+                        "label": "Javanese"
+                    },
+                    {
+                        "entity id": "Q116451",
+                        "label": "Pegon alphabet"
+                    },
+                    {
+                        "entity id": "Q34002",
+                        "label": "Sundanese"
+                    },
+                    {
+                        "entity id": "Q116451",
+                        "label": "Pegon alphabet"
+                    }
+                ]
+            ],
+            [
+                "Middle East and North Africa , Pakistan , India ( 7 states ) , China ( Xinjiang ) , Brunei ( co-official with Latin ) , Malaysia , Indonesia ( religious uses only )",
+                [
+                    "/wiki/Middle_East_and_North_Africa",
+                    "/wiki/Pakistan",
+                    "/wiki/India",
+                    "/wiki/China",
+                    "/wiki/Xinjiang",
+                    "/wiki/Brunei",
+                    "/wiki/Latin_script",
+                    "/wiki/Malaysia",
+                    "/wiki/Indonesia"
+                ],
+                [
+                    {
+                        "entity id": "Q984212",
+                        "label": "Middle East and North Africa"
+                    },
+                    {
+                        "entity id": "Q843",
+                        "label": "Pakistan"
+                    },
+                    {
+                        "entity id": "Q668",
+                        "label": "India"
+                    },
+                    {
+                        "entity id": "Q148",
+                        "label": "People's Republic of China"
+                    },
+                    {
+                        "entity id": "Q34800",
+                        "label": "Xinjiang"
+                    },
+                    {
+                        "entity id": "Q921",
+                        "label": "Brunei"
+                    },
+                    {
+                        "entity id": "Q8229",
+                        "label": "Latin script"
+                    },
+                    {
+                        "entity id": "Q833",
+                        "label": "Malaysia"
+                    },
+                    {
+                        "entity id": "Q252",
+                        "label": "Indonesia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Bengali-Assamese script",
+                [
+                    "/wiki/Bengali-Assamese_script"
+                ],
+                [
+                    {
+                        "entity id": "Q12438487",
+                        "label": "Bengali\u2013Assamese script"
+                    }
+                ]
+            ],
+            [
+                "Abugida",
+                [
+                    "/wiki/Abugida"
+                ],
+                [
+                    {
+                        "entity id": "Q335806",
+                        "label": "abugida"
+                    }
+                ]
+            ],
+            [
+                "52",
+                []
+            ],
+            [
+                "300",
+                []
+            ],
+            [
+                "Sanskrit , Bengali , Assamese , Kokborok , Bishnupriya Manipuri , Khasi , Meitei Manipuri , Hajong , Chakma , Maithili ( historical use ) , Angika ( historical use ) , Sylheti and others",
+                [
+                    "/wiki/Sanskrit",
+                    "/wiki/Bengali_language",
+                    "/wiki/Assamese_Language",
+                    "/wiki/Kokborok",
+                    "/wiki/Bishnupriya_Manipuri_language",
+                    "/wiki/Khasi_language",
+                    "/wiki/Meitei_language",
+                    "/wiki/Hajong_language",
+                    "/wiki/Chakma_language",
+                    "/wiki/Maithili_language",
+                    "/wiki/Angika",
+                    "/wiki/Sylheti_language"
+                ],
+                [
+                    {
+                        "entity id": "Q11059",
+                        "label": "Sanskrit"
+                    },
+                    {
+                        "entity id": "Q9610",
+                        "label": "Bengali"
+                    },
+                    {
+                        "entity id": "Q29401",
+                        "label": "Assamese"
+                    },
+                    {
+                        "entity id": "Q35947",
+                        "label": "Kokborok"
+                    },
+                    {
+                        "entity id": "Q37059",
+                        "label": "Bishnupriya Manipuri"
+                    },
+                    {
+                        "entity id": "Q33584",
+                        "label": "Khasi"
+                    },
+                    {
+                        "entity id": "Q33868",
+                        "label": "Meitei"
+                    },
+                    {
+                        "entity id": "Q3350576",
+                        "label": "Hajong"
+                    },
+                    {
+                        "entity id": "Q32952",
+                        "label": "Chakma"
+                    },
+                    {
+                        "entity id": "Q36109",
+                        "label": "Maithili"
+                    },
+                    {
+                        "entity id": "Q28378",
+                        "label": "Angika"
+                    },
+                    {
+                        "entity id": "Q2044560",
+                        "label": "Sylheti"
+                    }
+                ]
+            ],
+            [
+                "Bangladesh , and India ( West Bengal , Mizoram , Jharkhand , Tripura , Assam , Manipur , Meghalaya , Andaman and Nicobar Islands )",
+                [
+                    "/wiki/Bangladesh",
+                    "/wiki/India",
+                    "/wiki/West_Bengal",
+                    "/wiki/Mizoram",
+                    "/wiki/Jharkhand",
+                    "/wiki/Tripura",
+                    "/wiki/Assam",
+                    "/wiki/Manipur",
+                    "/wiki/Meghalaya",
+                    "/wiki/Andaman_and_Nicobar_Islands"
+                ],
+                [
+                    {
+                        "entity id": "Q902",
+                        "label": "Bangladesh"
+                    },
+                    {
+                        "entity id": "Q668",
+                        "label": "India"
+                    },
+                    {
+                        "entity id": "Q1356",
+                        "label": "West Bengal"
+                    },
+                    {
+                        "entity id": "Q1502",
+                        "label": "Mizoram"
+                    },
+                    {
+                        "entity id": "Q1184",
+                        "label": "Jharkhand"
+                    },
+                    {
+                        "entity id": "Q1363",
+                        "label": "Tripura"
+                    },
+                    {
+                        "entity id": "Q1164",
+                        "label": "Assam"
+                    },
+                    {
+                        "entity id": "Q1193",
+                        "label": "Manipur"
+                    },
+                    {
+                        "entity id": "Q1195",
+                        "label": "Meghalaya"
+                    },
+                    {
+                        "entity id": "Q40888",
+                        "label": "Andaman and Nicobar Islands"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Cyrillic \u041a\u0438\u0440\u0438\u043b\u0438\u0446\u0430",
+                [
+                    "/wiki/Cyrillic"
+                ],
+                [
+                    {
+                        "entity id": "Q2493952",
+                        "label": "Cyrillic"
+                    }
+                ]
+            ],
+            [
+                "Alphabet",
+                [
+                    "/wiki/Alphabet"
+                ],
+                [
+                    {
+                        "entity id": "Q9779",
+                        "label": "alphabet"
+                    }
+                ]
+            ],
+            [
+                "33 ( Russian )",
+                []
+            ],
+            [
+                "250",
+                []
+            ],
+            [
+                "Bulgarian , Russian , Serbian , Ukrainian , Macedonian , Belarusian , Kazakh , others",
+                [
+                    "/wiki/Bulgarian_language",
+                    "/wiki/Russian_language",
+                    "/wiki/Serbian_language",
+                    "/wiki/Ukrainian_language",
+                    "/wiki/Macedonian_language",
+                    "/wiki/Belarusian_language",
+                    "/wiki/Kazakh_language"
+                ],
+                [
+                    {
+                        "entity id": "Q7918",
+                        "label": "Bulgarian"
+                    },
+                    {
+                        "entity id": "Q7737",
+                        "label": "Russian"
+                    },
+                    {
+                        "entity id": "Q9299",
+                        "label": "Serbian"
+                    },
+                    {
+                        "entity id": "Q8798",
+                        "label": "Ukrainian"
+                    },
+                    {
+                        "entity id": "Q9296",
+                        "label": "Macedonian"
+                    },
+                    {
+                        "entity id": "Q28835019",
+                        "label": "Belarusian-language literature\u200e"
+                    },
+                    {
+                        "entity id": "Q9252",
+                        "label": "Kazakh"
+                    }
+                ]
+            ],
+            [
+                "Eastern Europe , Central Asia and Mongolia , the Russian Far East",
+                [
+                    "/wiki/Eastern_Europe",
+                    "/wiki/Central_Asia",
+                    "/wiki/Mongolia",
+                    "/wiki/Russian_Far_East"
+                ],
+                [
+                    {
+                        "entity id": "Q27468",
+                        "label": "Eastern Europe"
+                    },
+                    {
+                        "entity id": "Q27275",
+                        "label": "Central Asia"
+                    },
+                    {
+                        "entity id": "Q711",
+                        "label": "Mongolia"
+                    },
+                    {
+                        "entity id": "Q41968",
+                        "label": "Far Eastern Federal District"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kana \u304b\u306a \u30ab\u30ca",
+                [
+                    "/wiki/Kana"
+                ],
+                [
+                    {
+                        "entity id": "Q187659",
+                        "label": "kana"
+                    }
+                ]
+            ],
+            [
+                "Syllabary",
+                [
+                    "/wiki/Syllabary"
+                ],
+                [
+                    {
+                        "entity id": "Q182133",
+                        "label": "syllabary"
+                    }
+                ]
+            ],
+            [
+                "46",
+                []
+            ],
+            [
+                "120",
+                []
+            ],
+            [
+                "Japanese , Okinawan , Ainu , Palauan , other Japonic languages",
+                [
+                    "/wiki/Japanese_language",
+                    "/wiki/Okinawan_language",
+                    "/wiki/Ainu_language",
+                    "/wiki/Palauan_language"
+                ],
+                [
+                    {
+                        "entity id": "Q5287",
+                        "label": "Japanese"
+                    },
+                    {
+                        "entity id": "Q34233",
+                        "label": "Okinawan"
+                    },
+                    {
+                        "entity id": "Q50111972",
+                        "label": "Ainu"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Japan",
+                [
+                    "/wiki/Japan"
+                ],
+                [
+                    {
+                        "entity id": "Q17",
+                        "label": "Japan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Javanese \ua997\ua9ae",
+                [
+                    "/wiki/Javanese_script"
+                ],
+                [
+                    {
+                        "entity id": "Q879704",
+                        "label": "Javanese script"
+                    }
+                ]
+            ],
+            [
+                "Abugida",
+                [
+                    "/wiki/Abugida"
+                ],
+                [
+                    {
+                        "entity id": "Q335806",
+                        "label": "abugida"
+                    }
+                ]
+            ],
+            [
+                "53",
+                []
+            ],
+            [
+                "80",
+                []
+            ],
+            [
+                "Javanese , Cirebonese , Madurese , Sundanese",
+                [
+                    "/wiki/Javanese_language",
+                    "/wiki/Cirebonese_language",
+                    "/wiki/Madurese_language",
+                    "/wiki/Sundanese_language"
+                ],
+                [
+                    {
+                        "entity id": "Q33549",
+                        "label": "Javanese"
+                    },
+                    {},
+                    {
+                        "entity id": "Q36213",
+                        "label": "Madurese"
+                    },
+                    {
+                        "entity id": "Q34002",
+                        "label": "Sundanese"
+                    }
+                ]
+            ],
+            [
+                "Indonesia ( Central Java , East Java , Special Region of Yogyakarta , Cirebon , Cirebon Regency , Indramayu Regency ) , Javanese diaspora",
+                [
+                    "/wiki/Indonesia",
+                    "/wiki/Central_Java",
+                    "/wiki/East_Java",
+                    "/wiki/Special_Region_of_Yogyakarta",
+                    "/wiki/Cirebon",
+                    "/wiki/Cirebon_Regency",
+                    "/wiki/Indramayu_Regency",
+                    "/wiki/Category:Javanese_diaspora"
+                ],
+                [
+                    {
+                        "entity id": "Q252",
+                        "label": "Indonesia"
+                    },
+                    {
+                        "entity id": "Q3557",
+                        "label": "Central Java"
+                    },
+                    {
+                        "entity id": "Q3586",
+                        "label": "East Java"
+                    },
+                    {
+                        "entity id": "Q3741",
+                        "label": "Special Region of Yogyakarta"
+                    },
+                    {
+                        "entity id": "Q10395",
+                        "label": "Cirebon"
+                    },
+                    {
+                        "entity id": "Q10368",
+                        "label": "Cirebon"
+                    },
+                    {
+                        "entity id": "Q10374",
+                        "label": "Indramayu"
+                    },
+                    {
+                        "entity id": "Q8564113",
+                        "label": "Category:Javanese diaspora"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Chos\u014fn'g\u016dl/Hangul \ud55c\uae00 \uc870\uc120\uae00",
+                [
+                    "/wiki/Korean_alphabet"
+                ],
+                [
+                    {
+                        "entity id": "Q8222",
+                        "label": "Hangul"
+                    }
+                ]
+            ],
+            [
+                "Alphabet , featural",
+                [
+                    "/wiki/Alphabet",
+                    "/wiki/Featural_alphabet"
+                ],
+                [
+                    {
+                        "entity id": "Q9779",
+                        "label": "alphabet"
+                    },
+                    {
+                        "entity id": "Q1191127",
+                        "label": "featural writing system"
+                    }
+                ]
+            ],
+            [
+                "24",
+                []
+            ],
+            [
+                "78.7",
+                []
+            ],
+            [
+                "Korean , Cia-Cia , Jeju",
+                [
+                    "/wiki/Korean_language",
+                    "/wiki/Cia-Cia_language",
+                    "/wiki/Jeju_language"
+                ],
+                [
+                    {
+                        "entity id": "Q9176",
+                        "label": "Korean"
+                    },
+                    {
+                        "entity id": "Q35284",
+                        "label": "Cia-Cia"
+                    },
+                    {
+                        "entity id": "Q129648",
+                        "label": "Jeju"
+                    }
+                ]
+            ],
+            [
+                "North Korea , South Korea , and Yanbian Korean Autonomous Prefecture of China , Indonesia ( Baubau )",
+                [
+                    "/wiki/North_Korea",
+                    "/wiki/South_Korea",
+                    "/wiki/Yanbian_Korean_Autonomous_Prefecture",
+                    "/wiki/Indonesia",
+                    "/wiki/Baubau"
+                ],
+                [
+                    {
+                        "entity id": "Q423",
+                        "label": "North Korea"
+                    },
+                    {
+                        "entity id": "Q884",
+                        "label": "South Korea"
+                    },
+                    {
+                        "entity id": "Q714984",
+                        "label": "Yanbian Korean Autonomous Prefecture"
+                    },
+                    {
+                        "entity id": "Q252",
+                        "label": "Indonesia"
+                    },
+                    {
+                        "entity id": "Q15378",
+                        "label": "Bau Bau"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Telugu \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+                [
+                    "/wiki/Telugu_script"
+                ],
+                [
+                    {
+                        "entity id": "Q570450",
+                        "label": "Telugu script"
+                    }
+                ]
+            ],
+            [
+                "Abugida",
+                [
+                    "/wiki/Abugida"
+                ],
+                [
+                    {
+                        "entity id": "Q335806",
+                        "label": "abugida"
+                    }
+                ]
+            ],
+            [
+                "60",
+                []
+            ],
+            [
+                "74",
+                []
+            ],
+            [
+                "Telugu , Sanskrit , Gondi",
+                [
+                    "/wiki/Telugu_language",
+                    "/wiki/Sanskrit",
+                    "/wiki/Gondi_language"
+                ],
+                [
+                    {
+                        "entity id": "Q8097",
+                        "label": "Telugu"
+                    },
+                    {
+                        "entity id": "Q11059",
+                        "label": "Sanskrit"
+                    },
+                    {
+                        "entity id": "Q1775361",
+                        "label": "Gondi"
+                    }
+                ]
+            ],
+            [
+                "Andhra Pradesh , Telangana , Puducherry ( India )",
+                [
+                    "/wiki/Andhra_Pradesh",
+                    "/wiki/Telangana",
+                    "/wiki/Puducherry"
+                ],
+                [
+                    {
+                        "entity id": "Q1159",
+                        "label": "Andhra Pradesh"
+                    },
+                    {
+                        "entity id": "Q677037",
+                        "label": "Telangana"
+                    },
+                    {
+                        "entity id": "Q66743",
+                        "label": "Puducherry"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Tamil \u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+                [
+                    "/wiki/Tamil_script"
+                ],
+                [
+                    {
+                        "entity id": "Q26803",
+                        "label": "Tamil script"
+                    }
+                ]
+            ],
+            [
+                "Abugida",
+                [
+                    "/wiki/Abugida"
+                ],
+                [
+                    {
+                        "entity id": "Q335806",
+                        "label": "abugida"
+                    }
+                ]
+            ],
+            [
+                "30",
+                []
+            ],
+            [
+                "70",
+                []
+            ],
+            [
+                "Tamil , Kanikkaran , Badaga , Irula , Paniya",
+                [
+                    "/wiki/Tamil_language",
+                    "/wiki/Kanikkaran_language",
+                    "/wiki/Badaga_language",
+                    "/wiki/Irula_language",
+                    "/wiki/Paniya_language"
+                ],
+                [
+                    {
+                        "entity id": "Q5885",
+                        "label": "Tamil"
+                    },
+                    {
+                        "entity id": "Q6363201",
+                        "label": "Kanikkaran"
+                    },
+                    {
+                        "entity id": "Q33205",
+                        "label": "Badaga"
+                    },
+                    {
+                        "entity id": "Q33363",
+                        "label": "Irula"
+                    },
+                    {
+                        "entity id": "Q7131211",
+                        "label": "Paniya"
+                    }
+                ]
+            ],
+            [
+                "Tamil Nadu ( India ) , Puducherry ( India ) , Sri Lanka , Singapore , Malaysia , Mauritius",
+                [
+                    "/wiki/Tamil_Nadu",
+                    "/wiki/Puducherry",
+                    "/wiki/Sri_Lanka",
+                    "/wiki/Singapore",
+                    "/wiki/Malaysia",
+                    "/wiki/Mauritius"
+                ],
+                [
+                    {
+                        "entity id": "Q1445",
+                        "label": "Tamil Nadu"
+                    },
+                    {
+                        "entity id": "Q66743",
+                        "label": "Puducherry"
+                    },
+                    {
+                        "entity id": "Q854",
+                        "label": "Sri Lanka"
+                    },
+                    {
+                        "entity id": "Q334",
+                        "label": "Singapore"
+                    },
+                    {
+                        "entity id": "Q833",
+                        "label": "Malaysia"
+                    },
+                    {
+                        "entity id": "Q1027",
+                        "label": "Mauritius"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Gujarati \u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0",
+                [
+                    "/wiki/Gujarati_script"
+                ],
+                [
+                    {
+                        "entity id": "Q733944",
+                        "label": "Gujarati"
+                    }
+                ]
+            ],
+            [
+                "Abugida",
+                [
+                    "/wiki/Abugida"
+                ],
+                [
+                    {
+                        "entity id": "Q335806",
+                        "label": "abugida"
+                    }
+                ]
+            ],
+            [
+                "47",
+                []
+            ],
+            [
+                "48",
+                []
+            ],
+            [
+                "Gujarati , Kutchi , Avestan , Bhili , Bhilori , Gamit , Chowdhary , Kukna , Bhili , Varli , Vasavi",
+                [
+                    "/wiki/Gujarati_language",
+                    "/wiki/Kutchi_language",
+                    "/wiki/Avestan",
+                    "/wiki/Bhili",
+                    "/wiki/Bhilori_language",
+                    "/wiki/Gamit_language",
+                    "/wiki/Chodri_language",
+                    "/wiki/Kukna_language",
+                    "/wiki/Bhili_language",
+                    "/wiki/Varli_language",
+                    "/wiki/Vasavi"
+                ],
+                [
+                    {
+                        "entity id": "Q5137",
+                        "label": "Gujarati"
+                    },
+                    {
+                        "entity id": "Q56487",
+                        "label": "Kutchi"
+                    },
+                    {
+                        "entity id": "Q29572",
+                        "label": "Avestan"
+                    },
+                    {
+                        "entity id": "Q33229",
+                        "label": "Bhili"
+                    },
+                    {
+                        "entity id": "Q4901734",
+                        "label": "Bhilori"
+                    },
+                    {
+                        "entity id": "Q2731717",
+                        "label": "Gamit"
+                    },
+                    {
+                        "entity id": "Q5103788",
+                        "label": "Chodri"
+                    },
+                    {
+                        "entity id": "Q5031131",
+                        "label": "Canara Konkani"
+                    },
+                    {
+                        "entity id": "Q33229",
+                        "label": "Bhili"
+                    },
+                    {
+                        "entity id": "Q7915983",
+                        "label": "Varli"
+                    },
+                    {
+                        "entity id": "Q765418",
+                        "label": "Vasavi"
+                    }
+                ]
+            ],
+            [
+                "India , Pakistan",
+                [
+                    "/wiki/India",
+                    "/wiki/Pakistan"
+                ],
+                [
+                    {
+                        "entity id": "Q668",
+                        "label": "India"
+                    },
+                    {
+                        "entity id": "Q843",
+                        "label": "Pakistan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kannada \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
+                [
+                    "/wiki/Kannada_script"
+                ],
+                [
+                    {
+                        "entity id": "Q839666",
+                        "label": "Kannada"
+                    }
+                ]
+            ],
+            [
+                "Abugida",
+                [
+                    "/wiki/Abugida"
+                ],
+                [
+                    {
+                        "entity id": "Q335806",
+                        "label": "abugida"
+                    }
+                ]
+            ],
+            [
+                "51 ( or 50 or 49 )",
+                []
+            ],
+            [
+                "45",
+                []
+            ],
+            [
+                "Kannada , Tulu , Kodava , Badaga , Beary , Sanketi , Konkani , Sanskrit",
+                [
+                    "/wiki/Kannada",
+                    "/wiki/Tulu_language",
+                    "/wiki/Kodava_language",
+                    "/wiki/Badaga_language",
+                    "/wiki/Beary_language",
+                    "/wiki/Sankethi_language",
+                    "/wiki/Konkani_language",
+                    "/wiki/Sanskrit_language"
+                ],
+                [
+                    {
+                        "entity id": "Q33673",
+                        "label": "Kannada"
+                    },
+                    {
+                        "entity id": "Q34251",
+                        "label": "Tulu"
+                    },
+                    {
+                        "entity id": "Q33531",
+                        "label": "Kodava"
+                    },
+                    {
+                        "entity id": "Q33205",
+                        "label": "Badaga"
+                    },
+                    {
+                        "entity id": "Q1089116",
+                        "label": "Beary"
+                    },
+                    {},
+                    {
+                        "entity id": "Q34239",
+                        "label": "Konkani"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Karnataka ( India )",
+                [
+                    "/wiki/Karnataka"
+                ],
+                [
+                    {
+                        "entity id": "Q1185",
+                        "label": "Karnataka"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Burmese \u1019\u103c\u1014\u103a\u1019\u102c",
+                [
+                    "/wiki/Burmese_script"
+                ],
+                [
+                    {
+                        "entity id": "Q854968",
+                        "label": "Burmese alphabet"
+                    }
+                ]
+            ],
+            [
+                "Abugida",
+                [
+                    "/wiki/Abugida"
+                ],
+                [
+                    {
+                        "entity id": "Q335806",
+                        "label": "abugida"
+                    }
+                ]
+            ],
+            [
+                "26",
+                []
+            ],
+            [
+                "39",
+                []
+            ],
+            [
+                "Burmese , Pali , Sanskrit",
+                [
+                    "/wiki/Burmese_language",
+                    "/wiki/Pali",
+                    "/wiki/Sanskrit"
+                ],
+                [
+                    {
+                        "entity id": "Q9228",
+                        "label": "Burmese"
+                    },
+                    {
+                        "entity id": "Q36727",
+                        "label": "Pali"
+                    },
+                    {
+                        "entity id": "Q11059",
+                        "label": "Sanskrit"
+                    }
+                ]
+            ],
+            [
+                "Myanmar",
+                [
+                    "/wiki/Myanmar"
+                ],
+                [
+                    {
+                        "entity id": "Q836",
+                        "label": "Myanmar"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Malayalam \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
+                [
+                    "/wiki/Malayalam_script"
+                ],
+                [
+                    {
+                        "entity id": "Q1164129",
+                        "label": "Malayalam script"
+                    }
+                ]
+            ],
+            [
+                "Abugida",
+                [
+                    "/wiki/Abugida"
+                ],
+                [
+                    {
+                        "entity id": "Q335806",
+                        "label": "abugida"
+                    }
+                ]
+            ],
+            [
+                "51",
+                []
+            ],
+            [
+                "38",
+                []
+            ],
+            [
+                "Malayalam , Sanskrit , Paniya , Betta Kurumba , Ravula",
+                [
+                    "/wiki/Malayalam",
+                    "/wiki/Sanskrit",
+                    "/wiki/Paniya_language",
+                    "/wiki/Betta_Kurumba_language",
+                    "/wiki/Ravula_language"
+                ],
+                [
+                    {
+                        "entity id": "Q36236",
+                        "label": "Malayalam"
+                    },
+                    {
+                        "entity id": "Q11059",
+                        "label": "Sanskrit"
+                    },
+                    {
+                        "entity id": "Q7131211",
+                        "label": "Paniya"
+                    },
+                    {
+                        "entity id": "Q16841033",
+                        "label": "Betta Kurumba"
+                    },
+                    {
+                        "entity id": "Q7296830",
+                        "label": "Ravula"
+                    }
+                ]
+            ],
+            [
+                "Kerala , Puducherry ( India )",
+                [
+                    "/wiki/Kerala",
+                    "/wiki/Puducherry"
+                ],
+                [
+                    {
+                        "entity id": "Q1186",
+                        "label": "Kerala"
+                    },
+                    {
+                        "entity id": "Q66743",
+                        "label": "Puducherry"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Thai \u0e44\u0e17\u0e22",
+                [
+                    "/wiki/Thai_script"
+                ],
+                [
+                    {
+                        "entity id": "Q236376",
+                        "label": "Thai alphabet"
+                    }
+                ]
+            ],
+            [
+                "Abugida",
+                [
+                    "/wiki/Abugida"
+                ],
+                [
+                    {
+                        "entity id": "Q335806",
+                        "label": "abugida"
+                    }
+                ]
+            ],
+            [
+                "68",
+                []
+            ],
+            [
+                "38",
+                []
+            ],
+            [
+                "Thai , Northern Thai , Southern Thai , Northern Khmer , and Isan , Kelantan-Pattani Malay , Pali , Sanskrit , others",
+                [
+                    "/wiki/Thai_language",
+                    "/wiki/Northern_Thai_language",
+                    "/wiki/Southern_Thai_language",
+                    "/wiki/Northern_Khmer_language",
+                    "/wiki/Isan_language",
+                    "/wiki/Kelantan-Pattani_Malay",
+                    "/wiki/Pali",
+                    "/wiki/Sanskrit"
+                ],
+                [
+                    {
+                        "entity id": "Q9217",
+                        "label": "Thai"
+                    },
+                    {
+                        "entity id": "Q565110",
+                        "label": "Northern Thai"
+                    },
+                    {
+                        "entity id": "Q56508",
+                        "label": "Southern Thai"
+                    },
+                    {},
+                    {
+                        "entity id": "Q33417",
+                        "label": "Isan"
+                    },
+                    {
+                        "entity id": "Q1199751",
+                        "label": "Pattani"
+                    },
+                    {
+                        "entity id": "Q36727",
+                        "label": "Pali"
+                    },
+                    {
+                        "entity id": "Q11059",
+                        "label": "Sanskrit"
+                    }
+                ]
+            ],
+            [
+                "Thailand",
+                [
+                    "/wiki/Thailand"
+                ],
+                [
+                    {
+                        "entity id": "Q869",
+                        "label": "Thailand"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Sundanese \u1b9e\u1ba5\u1b94\u1baa\u1b93",
+                [
+                    "/wiki/Sundanese_alphabet"
+                ],
+                [
+                    {
+                        "entity id": "Q113004083",
+                        "label": "Sundanese alphabet"
+                    }
+                ]
+            ],
+            [
+                "Abugida",
+                [
+                    "/wiki/Abugida"
+                ],
+                [
+                    {
+                        "entity id": "Q335806",
+                        "label": "abugida"
+                    }
+                ]
+            ],
+            [
+                "44",
+                []
+            ],
+            [
+                "38",
+                []
+            ],
+            [
+                "Sundanese , Bantenese , Baduy",
+                [
+                    "/wiki/Sundanese_language",
+                    "/wiki/Bantenese_language",
+                    "/wiki/Baduy_language"
+                ],
+                [
+                    {
+                        "entity id": "Q34002",
+                        "label": "Sundanese"
+                    },
+                    {
+                        "entity id": "Q31174256",
+                        "label": "Bantenese Language"
+                    },
+                    {
+                        "entity id": "Q3449885",
+                        "label": "Badui"
+                    }
+                ]
+            ],
+            [
+                "West Java and Banten ( Indonesia )",
+                [
+                    "/wiki/West_Java",
+                    "/wiki/Banten",
+                    "/wiki/Indonesia"
+                ],
+                [
+                    {
+                        "entity id": "Q3724",
+                        "label": "West Java"
+                    },
+                    {
+                        "entity id": "Q3540",
+                        "label": "Banten"
+                    },
+                    {
+                        "entity id": "Q252",
+                        "label": "Indonesia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Zhuyin Fuhao ( a.k.a . Bopomofo ) \u3105\u3106\u3107\u3108 \u3113\u3128\u3127\u3123 \u3108\u3128\u02ca\u310f\u3120\u02cb",
+                [
+                    "/wiki/Bopomofo"
+                ],
+                [
+                    {
+                        "entity id": "Q198269",
+                        "label": "Bopomofo"
+                    }
+                ]
+            ],
+            [
+                "Alphabet , Semisyllabary",
+                [
+                    "/wiki/Alphabet",
+                    "/wiki/Semisyllabary"
+                ],
+                [
+                    {
+                        "entity id": "Q9779",
+                        "label": "alphabet"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "37 ( plus four tone marks )",
+                []
+            ],
+            [
+                "23",
+                []
+            ],
+            [
+                "A phonetic transcription system used in Taiwan for Mandarin Chinese , studied mainly by schoolchildren",
+                [
+                    "/wiki/Taiwan",
+                    "/wiki/Mandarin_Chinese"
+                ],
+                [
+                    {
+                        "entity id": "Q865",
+                        "label": "Taiwan"
+                    },
+                    {
+                        "entity id": "Q9192",
+                        "label": "Mandarin Chinese"
+                    }
+                ]
+            ],
+            [
+                "Taiwan",
+                [
+                    "/wiki/Taiwan"
+                ],
+                [
+                    {
+                        "entity id": "Q865",
+                        "label": "Taiwan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Gurmukhi \u0a17\u0a41\u0a30\u0a2e\u0a41\u0a16\u0a40",
+                [
+                    "/wiki/Gurmukhi"
+                ],
+                [
+                    {
+                        "entity id": "Q689894",
+                        "label": "Gurmukhi"
+                    }
+                ]
+            ],
+            [
+                "Abugida",
+                [
+                    "/wiki/Abugida"
+                ],
+                [
+                    {
+                        "entity id": "Q335806",
+                        "label": "abugida"
+                    }
+                ]
+            ],
+            [
+                "35",
+                []
+            ],
+            [
+                "22",
+                []
+            ],
+            [
+                "Sanskrit , Punjabi , Sant Bhasha , Sindhi",
+                [
+                    "/wiki/Sanskrit",
+                    "/wiki/Punjabi_language",
+                    "/wiki/Sant_Bhasha",
+                    "/wiki/Sindhi_language"
+                ],
+                [
+                    {
+                        "entity id": "Q11059",
+                        "label": "Sanskrit"
+                    },
+                    {
+                        "entity id": "Q58635",
+                        "label": "Punjabi"
+                    },
+                    {
+                        "entity id": "Q7419081",
+                        "label": "Sant Bhasha"
+                    },
+                    {
+                        "entity id": "Q33997",
+                        "label": "Sindhi"
+                    }
+                ]
+            ],
+            [
+                "Punjab ( India )",
+                [
+                    "/wiki/Punjab,_India"
+                ],
+                [
+                    {
+                        "entity id": "Q22424",
+                        "label": "Punjab"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Odia \u0b09\u0b24\u0b4d\u0b15\u0b33",
+                [
+                    "/wiki/Oriya_alphabet"
+                ],
+                [
+                    {
+                        "entity id": "Q1760127",
+                        "label": "Odia"
+                    }
+                ]
+            ],
+            [
+                "Abugida",
+                [
+                    "/wiki/Abugida"
+                ],
+                [
+                    {
+                        "entity id": "Q335806",
+                        "label": "abugida"
+                    }
+                ]
+            ],
+            [
+                "64",
+                []
+            ],
+            [
+                "21",
+                []
+            ],
+            [
+                "Odia , others",
+                [
+                    "/wiki/Odia_language"
+                ],
+                [
+                    {
+                        "entity id": "Q33810",
+                        "label": "Odia"
+                    }
+                ]
+            ],
+            [
+                "Odisha ( India )",
+                [
+                    "/wiki/Odisha"
+                ],
+                [
+                    {
+                        "entity id": "Q22048",
+                        "label": "Odisha"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "List of writing scripts by adoption",
+    "section_text": "Main article : List of languages by writing system",
+    "uid": "List_of_writing_systems_by_adoption_0",
+    "intro": "The Graphic systems or writing systems (or scripts) are classified according to some common distinguishing characteristics. There are about 4,000 languages that make use of an established writing system. The usual name of the script is given first; the name of the language(s) in which the script is written follows (in brackets), particularly in the case where the language name differs from the script name. Other informative or qualifying annotations for the script may also be provided."
+}

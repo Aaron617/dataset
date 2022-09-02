@@ -1,0 +1,991 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_assemblers",
+    "title": "Comparison of assemblers",
+    "header": [
+        [
+            "Assembler",
+            []
+        ],
+        [
+            "Operating system",
+            [
+                "/wiki/Operating_system"
+            ],
+            [
+                {
+                    "entity id": "Q9135",
+                    "label": "operating system"
+                }
+            ]
+        ],
+        [
+            "FOSS",
+            [
+                "/wiki/Free_and_open-source_software"
+            ],
+            [
+                {
+                    "entity id": "Q506883",
+                    "label": "free and open-source software"
+                }
+            ]
+        ],
+        [
+            "License",
+            [
+                "/wiki/Software_license"
+            ],
+            [
+                {
+                    "entity id": "Q207621",
+                    "label": "software license"
+                }
+            ]
+        ],
+        [
+            "Development active",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "A86/A386",
+                [
+                    "/wiki/A86_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Windows , DOS",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/DOS"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ]
+        ],
+        [
+            [
+                "ACK",
+                [
+                    "/wiki/Amsterdam_Compiler_Kit"
+                ],
+                [
+                    {
+                        "entity id": "Q4033948",
+                        "label": "Amsterdam Compiler Kit"
+                    }
+                ]
+            ],
+            [
+                "Linux , MINIX , Unix-like",
+                [
+                    "/wiki/Linux",
+                    "/wiki/MINIX",
+                    "/wiki/Unix-like"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q187906",
+                        "label": "MINIX"
+                    },
+                    {
+                        "entity id": "Q14656",
+                        "label": "Unix-like operating system"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "BSD since 2003",
+                [
+                    "/wiki/BSD_licenses"
+                ],
+                [
+                    {
+                        "entity id": "Q191307",
+                        "label": "BSD licenses"
+                    }
+                ]
+            ],
+            [
+                "1985- ?",
+                []
+            ]
+        ],
+        [
+            [
+                "IBM ALP",
+                [
+                    "/wiki/IBM_ALP"
+                ],
+                [
+                    {
+                        "entity id": "Q19597573",
+                        "label": "IBM ALP"
+                    }
+                ]
+            ],
+            [
+                "OS/2",
+                [
+                    "/wiki/OS/2"
+                ],
+                [
+                    {
+                        "entity id": "Q189794",
+                        "label": "OS/2"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ]
+        ],
+        [
+            [
+                "AT & T",
+                [
+                    "/wiki/AT&T"
+                ],
+                [
+                    {
+                        "entity id": "Q35476",
+                        "label": "AT&T"
+                    }
+                ]
+            ],
+            [
+                "Unix System V",
+                [
+                    "/wiki/Unix_System_V"
+                ],
+                [
+                    {
+                        "entity id": "Q633192",
+                        "label": "UNIX System V"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "1985- ?",
+                []
+            ]
+        ],
+        [
+            [
+                "Digital Research ASM86",
+                [
+                    "/wiki/Digital_Research"
+                ],
+                [
+                    {
+                        "entity id": "Q185608",
+                        "label": "Digital Research"
+                    }
+                ]
+            ],
+            [
+                "CP/M-86 , DOS , Intel 's ISIS and iRMX",
+                [
+                    "/wiki/CP/M-86",
+                    "/wiki/DOS",
+                    "/wiki/Intel",
+                    "/wiki/ISIS_(operating_system)",
+                    "/wiki/IRMX"
+                ],
+                [
+                    {
+                        "entity id": "Q2706791",
+                        "label": "CP/M-86"
+                    },
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    },
+                    {
+                        "entity id": "Q248",
+                        "label": "Intel"
+                    },
+                    {},
+                    {
+                        "entity id": "Q285845",
+                        "label": "RMX"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "1978-1992",
+                []
+            ]
+        ],
+        [
+            [
+                "FASM",
+                [
+                    "/wiki/FASM"
+                ],
+                [
+                    {
+                        "entity id": "Q174145",
+                        "label": "Armed and Security Forces of Mali"
+                    }
+                ]
+            ],
+            [
+                "Windows , DOS , Linux , Unix-like",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/DOS",
+                    "/wiki/Linux",
+                    "/wiki/Unix-like"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14656",
+                        "label": "Unix-like operating system"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "BSD with added Copyleft",
+                [
+                    "/wiki/BSD_licenses",
+                    "/wiki/Copyleft"
+                ],
+                [
+                    {
+                        "entity id": "Q191307",
+                        "label": "BSD licenses"
+                    },
+                    {
+                        "entity id": "Q133475",
+                        "label": "copyleft"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "GAS",
+                [
+                    "/wiki/GNU_Assembler"
+                ],
+                [
+                    {
+                        "entity id": "Q1486175",
+                        "label": "GNU assembler"
+                    }
+                ]
+            ],
+            [
+                "Unix-like , Windows , DOS , OS/2",
+                [
+                    "/wiki/Unix-like",
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/DOS",
+                    "/wiki/OS/2"
+                ],
+                [
+                    {
+                        "entity id": "Q14656",
+                        "label": "Unix-like operating system"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    },
+                    {
+                        "entity id": "Q189794",
+                        "label": "OS/2"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "GNU GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "Since 1987",
+                []
+            ]
+        ],
+        [
+            [
+                "HLA",
+                [
+                    "/wiki/High_Level_Assembly"
+                ],
+                [
+                    {
+                        "entity id": "Q2630324",
+                        "label": "High Level Assembly"
+                    }
+                ]
+            ],
+            [
+                "Windows , Linux , FreeBSD , macOS",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux",
+                    "/wiki/FreeBSD",
+                    "/wiki/MacOS"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Public domain",
+                [
+                    "/wiki/Public_domain"
+                ],
+                [
+                    {
+                        "entity id": "Q19652",
+                        "label": "public domain"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "Open Watcom Assembler ( HJWASM a.k.a . UASM , JWASM , WASM )",
+                [
+                    "/wiki/Open_Watcom_Assembler"
+                ],
+                [
+                    {
+                        "entity id": "Q7096280",
+                        "label": "Open Watcom Assembler"
+                    }
+                ]
+            ],
+            [
+                "Linux , Windows , DOS , FreeBSD , OS/2",
+                [
+                    "/wiki/Linux",
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/DOS",
+                    "/wiki/FreeBSD",
+                    "/wiki/OS/2"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    },
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    },
+                    {
+                        "entity id": "Q189794",
+                        "label": "OS/2"
+                    }
+                ]
+            ],
+            [
+                "approved by OSI , but not by FSF",
+                [
+                    "/wiki/Open_Source_Initiative",
+                    "/wiki/Free_Software_Foundation"
+                ],
+                [
+                    {
+                        "entity id": "Q845918",
+                        "label": "Open Source Initiative"
+                    },
+                    {
+                        "entity id": "Q48413",
+                        "label": "Free Software Foundation"
+                    }
+                ]
+            ],
+            [
+                "Sybase Open Watcom Public",
+                [
+                    "/wiki/Sybase_Open_Watcom_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7659488",
+                        "label": "Sybase Open Watcom Public License"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "MASM",
+                [
+                    "/wiki/Microsoft_Macro_Assembler"
+                ],
+                [
+                    {
+                        "entity id": "Q1756018",
+                        "label": "Microsoft Macro Assembler"
+                    }
+                ]
+            ],
+            [
+                "Windows , DOS , OS/2",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/DOS",
+                    "/wiki/OS/2"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    },
+                    {
+                        "entity id": "Q189794",
+                        "label": "OS/2"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Microsoft EULA",
+                [
+                    "/wiki/End-user_license_agreement"
+                ],
+                [
+                    {
+                        "entity id": "Q725920",
+                        "label": "end-user license agreement"
+                    }
+                ]
+            ],
+            [
+                "Since 1981",
+                []
+            ]
+        ],
+        [
+            [
+                "NASM",
+                [
+                    "/wiki/Netwide_Assembler"
+                ],
+                [
+                    {
+                        "entity id": "Q1571077",
+                        "label": "Netwide Assembler"
+                    }
+                ]
+            ],
+            [
+                "Linux , macOS , Windows , DOS , OS/2",
+                [
+                    "/wiki/Linux",
+                    "/wiki/MacOS",
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/DOS",
+                    "/wiki/OS/2"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    },
+                    {
+                        "entity id": "Q189794",
+                        "label": "OS/2"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "BSD",
+                [
+                    "/wiki/BSD_licenses"
+                ],
+                [
+                    {
+                        "entity id": "Q191307",
+                        "label": "BSD licenses"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "Tim Paterson 's ASM",
+                [
+                    "/wiki/Tim_Paterson"
+                ],
+                [
+                    {
+                        "entity id": "Q92940",
+                        "label": "Tim Paterson"
+                    }
+                ]
+            ],
+            [
+                "86-DOS , DOS DEBUG",
+                [
+                    "/wiki/86-DOS",
+                    "/wiki/DOS",
+                    "/wiki/DEBUG"
+                ],
+                [
+                    {
+                        "entity id": "Q1550345",
+                        "label": "86-DOS"
+                    },
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    },
+                    {
+                        "entity id": "Q845566",
+                        "label": "debugging"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "1979-1983",
+                []
+            ]
+        ],
+        [
+            [
+                "TASM",
+                [
+                    "/wiki/Turbo_Assembler"
+                ],
+                [
+                    {
+                        "entity id": "Q1715912",
+                        "label": "Turbo Assembler"
+                    }
+                ]
+            ],
+            [
+                "Windows , DOS",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/DOS"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ]
+        ],
+        [
+            [
+                "TCCASM",
+                [
+                    "/wiki/Tiny_C_Compiler"
+                ],
+                [
+                    {
+                        "entity id": "Q1730569",
+                        "label": "Tiny C Compiler"
+                    }
+                ]
+            ],
+            [
+                "Unix-like , Windows",
+                [
+                    "/wiki/Unix-like",
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q14656",
+                        "label": "Unix-like operating system"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "LGPL",
+                [
+                    "/wiki/GNU_Lesser_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q192897",
+                        "label": "GNU Lesser General Public License"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "vasm",
+                [
+                    "/wiki/Vasm"
+                ],
+                [
+                    {
+                        "entity id": "Q1186174",
+                        "label": "Vasmegyer"
+                    }
+                ]
+            ],
+            [
+                "various",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Free",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "Xenix",
+                [
+                    "/wiki/Xenix"
+                ],
+                [
+                    {
+                        "entity id": "Q589680",
+                        "label": "Xenix"
+                    }
+                ]
+            ],
+            [
+                "Xenix 2.3 and 3.0 ( before 1985 )",
+                [
+                    "/wiki/Xenix"
+                ],
+                [
+                    {
+                        "entity id": "Q589680",
+                        "label": "Xenix"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "1982-1984",
+                []
+            ]
+        ],
+        [
+            [
+                "Yasm",
+                []
+            ],
+            [
+                "Windows , DOS , Linux , Unix-like",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/DOS",
+                    "/wiki/Linux",
+                    "/wiki/Unix-like"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14656",
+                        "label": "Unix-like operating system"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "BSD",
+                [
+                    "/wiki/BSD_licenses"
+                ],
+                [
+                    {
+                        "entity id": "Q191307",
+                        "label": "BSD licenses"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Single target assemblers -- x86 assemblers",
+    "section_text": "",
+    "uid": "Comparison_of_assemblers_5",
+    "intro": "This is a list of assemblers: computer programs that translate assembly language source code into binary programs. Some assemblers are components of a compiler system for a high level language and may have limited or no usable functionality outside of the compiler system. Some assemblers are hosted on the target processor and operating system, while other assemblers (cross-assemblers) may run under an unrelated operating system or processor. For example, assemblers for embedded systems are not usually hosted on the target system since it would not have the storage and terminal I/O to permit entry of a program from a keyboard. An assembler may have a single target processor or may have options to support multiple processor types. Very simple assemblers may lack features, such as macros, present in more powerful versions."
+}

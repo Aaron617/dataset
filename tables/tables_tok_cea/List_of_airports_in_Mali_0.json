@@ -1,0 +1,631 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Mali",
+    "title": "List of airports in Mali",
+    "header": [
+        [
+            "City served",
+            [
+                "/wiki/List_of_cities_in_Mali"
+            ],
+            [
+                {
+                    "entity id": "Q499363",
+                    "label": "list of cities in Mali"
+                }
+            ]
+        ],
+        [
+            "ICAO",
+            [
+                "/wiki/ICAO_airport_code"
+            ],
+            [
+                {
+                    "entity id": "Q207529",
+                    "label": "ICAO airport code"
+                }
+            ]
+        ],
+        [
+            "Airport name",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Ansongo",
+                [
+                    "/wiki/Ansongo"
+                ],
+                [
+                    {
+                        "entity id": "Q2620152",
+                        "label": "Ansongo"
+                    }
+                ]
+            ],
+            [
+                "GAAO",
+                []
+            ],
+            [
+                "Ansongo Airport",
+                [
+                    "/wiki/Ansongo_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q4770743",
+                        "label": "Ansongo Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Bafoulabe",
+                [
+                    "/wiki/Bafoulabe"
+                ],
+                [
+                    {
+                        "entity id": "Q799794",
+                        "label": "Bafoulab\u00e9"
+                    }
+                ]
+            ],
+            [
+                "GABF",
+                []
+            ],
+            [
+                "Bafoulabe Airport",
+                [
+                    "/wiki/Bafoulabe_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2902298",
+                        "label": "Bafoulab\u00e9 Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Bamako",
+                [
+                    "/wiki/Bamako"
+                ],
+                [
+                    {
+                        "entity id": "Q3703",
+                        "label": "Bamako"
+                    }
+                ]
+            ],
+            [
+                "GABS",
+                []
+            ],
+            [
+                "Senou International Airport",
+                [
+                    "/wiki/Senou_International_Airport"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Bandiagara",
+                [
+                    "/wiki/Bandiagara"
+                ],
+                [
+                    {
+                        "entity id": "Q538753",
+                        "label": "Bandiagara"
+                    }
+                ]
+            ],
+            [
+                "GABD",
+                []
+            ],
+            [
+                "Bandiagara Airport",
+                [
+                    "/wiki/Bandiagara_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2787506",
+                        "label": "Bandiagara Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Bougouni",
+                [
+                    "/wiki/Bougouni"
+                ],
+                [
+                    {
+                        "entity id": "Q848574",
+                        "label": "Bougouni"
+                    }
+                ]
+            ],
+            [
+                "GABG",
+                []
+            ],
+            [
+                "Bougouni Airport",
+                [
+                    "/wiki/Bougouni_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1706607",
+                        "label": "Bougouni Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Bourem",
+                [
+                    "/wiki/Bourem"
+                ],
+                [
+                    {
+                        "entity id": "Q2337119",
+                        "label": "Bourem"
+                    }
+                ]
+            ],
+            [
+                "GABR",
+                []
+            ],
+            [
+                "Bourem Airport",
+                [
+                    "/wiki/Bourem_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3813567",
+                        "label": "Bourem Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Douentza",
+                [
+                    "/wiki/Douentza"
+                ],
+                [
+                    {
+                        "entity id": "Q2358526",
+                        "label": "Douentza"
+                    }
+                ]
+            ],
+            [
+                "GADZ",
+                []
+            ],
+            [
+                "Douentza Airport",
+                [
+                    "/wiki/Douentza_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1656415",
+                        "label": "Douentza Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Goundam",
+                [
+                    "/wiki/Goundam"
+                ],
+                [
+                    {
+                        "entity id": "Q976923",
+                        "label": "Goundam"
+                    }
+                ]
+            ],
+            [
+                "GAGM",
+                []
+            ],
+            [
+                "Goundam Airport",
+                [
+                    "/wiki/Goundam_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3914029",
+                        "label": "Goundam Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Gao",
+                [
+                    "/wiki/Gao"
+                ],
+                [
+                    {
+                        "entity id": "Q713706",
+                        "label": "Gao"
+                    }
+                ]
+            ],
+            [
+                "GAGO",
+                []
+            ],
+            [
+                "Gao International Airport",
+                [
+                    "/wiki/Gao_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3083185",
+                        "label": "Gao International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kayes",
+                [
+                    "/wiki/Kayes"
+                ],
+                [
+                    {
+                        "entity id": "Q325164",
+                        "label": "Kayes"
+                    }
+                ]
+            ],
+            [
+                "GAKY",
+                []
+            ],
+            [
+                "Kayes Airport",
+                [
+                    "/wiki/Kayes_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2636796",
+                        "label": "Kayes Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kenieba",
+                [
+                    "/wiki/Kenieba"
+                ],
+                [
+                    {
+                        "entity id": "Q2427869",
+                        "label": "K\u00e9ni\u00e9ba"
+                    }
+                ]
+            ],
+            [
+                "GAKA",
+                []
+            ],
+            [
+                "Kenieba Airport",
+                [
+                    "/wiki/Kenieba_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q6453687",
+                        "label": "K\u00e9ni\u00e9ba Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kidal",
+                [
+                    "/wiki/Kidal"
+                ],
+                [
+                    {
+                        "entity id": "Q650100",
+                        "label": "Kidal"
+                    }
+                ]
+            ],
+            [
+                "GAKL",
+                []
+            ],
+            [
+                "Kidal Airport",
+                [
+                    "/wiki/Kidal_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8215714",
+                        "label": "Kidal Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kita",
+                [
+                    "/wiki/Kita,_Mali"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "GAKT",
+                []
+            ],
+            [
+                "Kita Airport",
+                [
+                    "/wiki/Kita_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1706437",
+                        "label": "Kita Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kolokani",
+                [
+                    "/wiki/Kolokani"
+                ],
+                [
+                    {
+                        "entity id": "Q642276",
+                        "label": "Kolokani"
+                    }
+                ]
+            ],
+            [
+                "GAKN",
+                []
+            ],
+            [
+                "Kolokani Airport",
+                [
+                    "/wiki/Kolokani_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q6427467",
+                        "label": "Kolokani Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Koutiala",
+                [
+                    "/wiki/Koutiala"
+                ],
+                [
+                    {
+                        "entity id": "Q281000",
+                        "label": "Koutiala"
+                    }
+                ]
+            ],
+            [
+                "GAKO",
+                []
+            ],
+            [
+                "Koutiala Airport",
+                [
+                    "/wiki/Koutiala_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q6434775",
+                        "label": "Koutiala Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Manantali",
+                [
+                    "/wiki/Manantali"
+                ],
+                [
+                    {
+                        "entity id": "Q3658491",
+                        "label": "Lake Manantali"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Bengassi Airport",
+                [
+                    "/wiki/Bengassi_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1657177",
+                        "label": "Bengassi Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Markala",
+                [
+                    "/wiki/Markala"
+                ],
+                [
+                    {
+                        "entity id": "Q976115",
+                        "label": "Markala"
+                    }
+                ]
+            ],
+            [
+                "GAMA",
+                []
+            ],
+            [
+                "Markala Airport",
+                [
+                    "/wiki/Markala_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q652394",
+                        "label": "Markala Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "M\u00e9naka",
+                [
+                    "/wiki/M\u00e9naka"
+                ],
+                [
+                    {
+                        "entity id": "Q855986",
+                        "label": "M\u00e9naka"
+                    }
+                ]
+            ],
+            [
+                "GAMK",
+                []
+            ],
+            [
+                "Menaka Airport",
+                [
+                    "/wiki/Menaka_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q652415",
+                        "label": "M\u00e9naka Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mopti",
+                [
+                    "/wiki/Mopti"
+                ],
+                [
+                    {
+                        "entity id": "Q211227",
+                        "label": "Mopti"
+                    }
+                ]
+            ],
+            [
+                "GAMB",
+                []
+            ],
+            [
+                "Mopti Airport",
+                [
+                    "/wiki/Mopti_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q241370",
+                        "label": "Mopti Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Nara",
+                [
+                    "/wiki/Nara,_Mali"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "GANK",
+                []
+            ],
+            [
+                "Keibane Airport",
+                [
+                    "/wiki/Keibane_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q6383564",
+                        "label": "Keibane Airport"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Airports",
+    "section_text": "",
+    "uid": "List_of_airports_in_Mali_0",
+    "intro": "This is a list of airports in Mali, sorted by location."
+}

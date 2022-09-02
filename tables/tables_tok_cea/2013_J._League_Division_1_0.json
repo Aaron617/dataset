@@ -1,0 +1,777 @@
+{
+    "url": "https://en.wikipedia.org/wiki/2013_J.League_Division_1",
+    "title": "2013 J.League Division 1",
+    "header": [
+        [
+            "Club Name",
+            []
+        ],
+        [
+            "Home Town ( s )",
+            []
+        ],
+        [
+            "Stadium",
+            []
+        ],
+        [
+            "Capacity",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Albirex Niigata",
+                [
+                    "/wiki/Albirex_Niigata"
+                ],
+                [
+                    {
+                        "entity id": "Q383358",
+                        "label": "Albirex Niigata"
+                    }
+                ]
+            ],
+            [
+                "Niigata & Seir\u014d , Niigata",
+                [
+                    "/wiki/Niigata_(city)",
+                    "/wiki/Seir\u014d,_Niigata"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q1204293",
+                        "label": "Seir\u014d"
+                    }
+                ]
+            ],
+            [
+                "Big Swan Stadium",
+                [
+                    "/wiki/Denka_Big_Swan_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q494749",
+                        "label": "Tohoku Electric Power Big Swan Stadium"
+                    }
+                ]
+            ],
+            [
+                "42,300",
+                []
+            ]
+        ],
+        [
+            [
+                "Kashima Antlers",
+                [
+                    "/wiki/Kashima_Antlers"
+                ],
+                [
+                    {
+                        "entity id": "Q16932",
+                        "label": "Kashima Antlers"
+                    }
+                ]
+            ],
+            [
+                "Kashima , Ibaraki",
+                [
+                    "/wiki/Kashima,_Ibaraki"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Kashima Soccer Stadium",
+                [
+                    "/wiki/Kashima_Soccer_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q494769",
+                        "label": "Kashima Soccer Stadium"
+                    }
+                ]
+            ],
+            [
+                "40,728",
+                []
+            ]
+        ],
+        [
+            [
+                "Omiya Ardija",
+                [
+                    "/wiki/Omiya_Ardija"
+                ],
+                [
+                    {
+                        "entity id": "Q385496",
+                        "label": "Omiya Ardija"
+                    }
+                ]
+            ],
+            [
+                "Omiya , Saitama",
+                [
+                    "/wiki/Omiya,_Saitama"
+                ],
+                [
+                    {
+                        "entity id": "Q1042254",
+                        "label": "\u014cmiya"
+                    }
+                ]
+            ],
+            [
+                "NACK5 Stadium",
+                [
+                    "/wiki/NACK5_Stadium_Omiya"
+                ],
+                [
+                    {
+                        "entity id": "Q1189715",
+                        "label": "NACK5 Stadium Omiya"
+                    }
+                ]
+            ],
+            [
+                "15,500",
+                []
+            ]
+        ],
+        [
+            [
+                "Cerezo Osaka",
+                [
+                    "/wiki/Cerezo_Osaka"
+                ],
+                [
+                    {
+                        "entity id": "Q855809",
+                        "label": "Cerezo Osaka"
+                    }
+                ]
+            ],
+            [
+                "Osaka",
+                [
+                    "/wiki/Osaka"
+                ],
+                [
+                    {
+                        "entity id": "Q35765",
+                        "label": "Osaka"
+                    }
+                ]
+            ],
+            [
+                "Nagai Stadium",
+                [
+                    "/wiki/Nagai_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q494832",
+                        "label": "Yanmar Stadium Nagai"
+                    }
+                ]
+            ],
+            [
+                "47,816",
+                []
+            ]
+        ],
+        [
+            [
+                "Yokohama F. Marinos",
+                [
+                    "/wiki/Yokohama_F._Marinos"
+                ],
+                [
+                    {
+                        "entity id": "Q854932",
+                        "label": "Yokohama F. Marinos"
+                    }
+                ]
+            ],
+            [
+                "Yokohama & Yokosuka",
+                [
+                    "/wiki/Yokohama",
+                    "/wiki/Yokosuka"
+                ],
+                [
+                    {
+                        "entity id": "Q38283",
+                        "label": "Yokohama"
+                    },
+                    {
+                        "entity id": "Q200578",
+                        "label": "Yokosuka"
+                    }
+                ]
+            ],
+            [
+                "Nissan Stadium",
+                [
+                    "/wiki/Nissan_Stadium_(Yokohama)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "72,327",
+                []
+            ]
+        ],
+        [
+            [
+                "Kawasaki Frontale",
+                [
+                    "/wiki/Kawasaki_Frontale"
+                ],
+                [
+                    {
+                        "entity id": "Q874016",
+                        "label": "Kawasaki Frontale"
+                    }
+                ]
+            ],
+            [
+                "Kawasaki , Kanagawa",
+                [
+                    "/wiki/Kawasaki,_Kanagawa"
+                ],
+                [
+                    {
+                        "entity id": "Q164234",
+                        "label": "Kawasaki"
+                    }
+                ]
+            ],
+            [
+                "Todoroki Athletics Stadium",
+                [
+                    "/wiki/Todoroki_Athletics_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q1190230",
+                        "label": "Kawasaki Todoroki Stadium"
+                    }
+                ]
+            ],
+            [
+                "26,232",
+                []
+            ]
+        ],
+        [
+            [
+                "Nagoya Grampus",
+                [
+                    "/wiki/Nagoya_Grampus"
+                ],
+                [
+                    {
+                        "entity id": "Q249662",
+                        "label": "Nagoya Grampus"
+                    }
+                ]
+            ],
+            [
+                "Nagoya , Aichi",
+                [
+                    "/wiki/Nagoya,_Aichi"
+                ],
+                [
+                    {
+                        "entity id": "Q11751",
+                        "label": "Nagoya"
+                    }
+                ]
+            ],
+            [
+                "Mizuho Athletic Stadium",
+                [
+                    "/wiki/Mizuho_Athletic_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q1190418",
+                        "label": "Mizuho Athletic Stadium"
+                    }
+                ]
+            ],
+            [
+                "27,000",
+                []
+            ]
+        ],
+        [
+            [
+                "J\u00fabilo Iwata",
+                [
+                    "/wiki/J\u00fabilo_Iwata"
+                ],
+                [
+                    {
+                        "entity id": "Q855401",
+                        "label": "J\u00fabilo Iwata"
+                    }
+                ]
+            ],
+            [
+                "Iwata , Shizuoka",
+                [
+                    "/wiki/Iwata,_Shizuoka"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Yamaha Stadium",
+                [
+                    "/wiki/Yamaha_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q1369275",
+                        "label": "Yamaha Stadium"
+                    }
+                ]
+            ],
+            [
+                "15,165",
+                []
+            ]
+        ],
+        [
+            [
+                "Oita Trinita",
+                [
+                    "/wiki/Oita_Trinita"
+                ],
+                [
+                    {
+                        "entity id": "Q385074",
+                        "label": "Oita Trinita"
+                    }
+                ]
+            ],
+            [
+                "\u014cita",
+                [
+                    "/wiki/\u014cita_(city)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "\u014cita Stadium",
+                [
+                    "/wiki/\u014cita_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q482581",
+                        "label": "\u014cita Stadium"
+                    }
+                ]
+            ],
+            [
+                "40,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Urawa Red Diamonds",
+                [
+                    "/wiki/Urawa_Red_Diamonds"
+                ],
+                [
+                    {
+                        "entity id": "Q218883",
+                        "label": "Urawa Red Diamonds"
+                    }
+                ]
+            ],
+            [
+                "Urawa , Saitama",
+                [
+                    "/wiki/Urawa,_Saitama"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Saitama Stadium",
+                [
+                    "/wiki/Saitama_Stadium_2002"
+                ],
+                [
+                    {
+                        "entity id": "Q482446",
+                        "label": "Saitama Stadium 2002"
+                    }
+                ]
+            ],
+            [
+                "63,700",
+                []
+            ]
+        ],
+        [
+            [
+                "Kashiwa Reysol",
+                [
+                    "/wiki/Kashiwa_Reysol"
+                ],
+                [
+                    {
+                        "entity id": "Q844931",
+                        "label": "Kashiwa Reysol"
+                    }
+                ]
+            ],
+            [
+                "Kashiwa , Chiba",
+                [
+                    "/wiki/Kashiwa,_Chiba"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Kashiwa Soccer Stadium",
+                [
+                    "/wiki/Hitachi_Kashiwa_Soccer_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q1366075",
+                        "label": "Hitachi Kashiwa Soccer Stadium"
+                    }
+                ]
+            ],
+            [
+                "15,900",
+                []
+            ]
+        ],
+        [
+            [
+                "Shimizu S-Pulse",
+                [
+                    "/wiki/Shimizu_S-Pulse"
+                ],
+                [
+                    {
+                        "entity id": "Q823384",
+                        "label": "Shimizu S-Pulse"
+                    }
+                ]
+            ],
+            [
+                "Shizuoka",
+                [
+                    "/wiki/Shizuoka_(city)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "IAI Stadium Nihondaira",
+                [
+                    "/wiki/IAI_Stadium_Nihondaira"
+                ],
+                [
+                    {
+                        "entity id": "Q1320974",
+                        "label": "IAI Stadium Nihondaira"
+                    }
+                ]
+            ],
+            [
+                "20,339",
+                []
+            ]
+        ],
+        [
+            [
+                "Sagan Tosu",
+                [
+                    "/wiki/Sagan_Tosu"
+                ],
+                [
+                    {
+                        "entity id": "Q1051238",
+                        "label": "Sagan Tosu"
+                    }
+                ]
+            ],
+            [
+                "Tosu , Saga",
+                [
+                    "/wiki/Tosu,_Saga"
+                ],
+                [
+                    {
+                        "entity id": "Q860674",
+                        "label": "Tosu"
+                    }
+                ]
+            ],
+            [
+                "Tosu Stadium",
+                [
+                    "/wiki/Tosu_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q1060615",
+                        "label": "Tosu Stadium"
+                    }
+                ]
+            ],
+            [
+                "24,490",
+                []
+            ]
+        ],
+        [
+            [
+                "Sanfrecce Hiroshima",
+                [
+                    "/wiki/Sanfrecce_Hiroshima"
+                ],
+                [
+                    {
+                        "entity id": "Q630279",
+                        "label": "Sanfrecce Hiroshima"
+                    }
+                ]
+            ],
+            [
+                "Hiroshima",
+                [
+                    "/wiki/Hiroshima"
+                ],
+                [
+                    {
+                        "entity id": "Q34664",
+                        "label": "Hiroshima"
+                    }
+                ]
+            ],
+            [
+                "Hiroshima Big Arch",
+                [
+                    "/wiki/Hiroshima_Big_Arch"
+                ],
+                [
+                    {
+                        "entity id": "Q1366020",
+                        "label": "Hiroshima Big Arch"
+                    }
+                ]
+            ],
+            [
+                "50,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Shonan Bellmare",
+                [
+                    "/wiki/Shonan_Bellmare"
+                ],
+                [
+                    {
+                        "entity id": "Q692856",
+                        "label": "Shonan Bellmare"
+                    }
+                ]
+            ],
+            [
+                "Hiratsuka , Kanagawa",
+                [
+                    "/wiki/Hiratsuka",
+                    "/wiki/Kanagawa"
+                ],
+                [
+                    {
+                        "entity id": "Q502199",
+                        "label": "Hiratsuka"
+                    },
+                    {
+                        "entity id": "Q2356082",
+                        "label": "17683 Kanagawa"
+                    }
+                ]
+            ],
+            [
+                "Shonan BMW Stadium",
+                [
+                    "/wiki/Shonan_BMW_Stadium_Hiratsuka"
+                ],
+                [
+                    {
+                        "entity id": "Q1071188",
+                        "label": "Shonan BMW Stadium Hiratsuka"
+                    }
+                ]
+            ],
+            [
+                "18,500",
+                []
+            ]
+        ],
+        [
+            [
+                "FC Tokyo",
+                [
+                    "/wiki/FC_Tokyo"
+                ],
+                [
+                    {
+                        "entity id": "Q856619",
+                        "label": "FC Tokyo"
+                    }
+                ]
+            ],
+            [
+                "Tokyo",
+                []
+            ],
+            [
+                "Ajinomoto Stadium",
+                [
+                    "/wiki/Ajinomoto_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q412824",
+                        "label": "Ajinomoto Stadium"
+                    }
+                ]
+            ],
+            [
+                "49,970",
+                []
+            ]
+        ],
+        [
+            [
+                "Vegalta Sendai",
+                [
+                    "/wiki/Vegalta_Sendai"
+                ],
+                [
+                    {
+                        "entity id": "Q1044651",
+                        "label": "Vegalta Sendai"
+                    }
+                ]
+            ],
+            [
+                "Sendai , Miyagi",
+                [
+                    "/wiki/Sendai",
+                    "/wiki/Miyagi_Prefecture"
+                ],
+                [
+                    {
+                        "entity id": "Q46747",
+                        "label": "Sendai"
+                    },
+                    {
+                        "entity id": "Q47896",
+                        "label": "Miyagi Prefecture"
+                    }
+                ]
+            ],
+            [
+                "Yurtec Stadium",
+                [
+                    "/wiki/Yurtec_Stadium_Sendai"
+                ],
+                [
+                    {
+                        "entity id": "Q1320435",
+                        "label": "Yurtec Stadium Sendai"
+                    }
+                ]
+            ],
+            [
+                "19,694",
+                []
+            ]
+        ],
+        [
+            [
+                "Ventforet Kofu",
+                [
+                    "/wiki/Ventforet_Kofu"
+                ],
+                [
+                    {
+                        "entity id": "Q1061696",
+                        "label": "Ventforet Kofu"
+                    }
+                ]
+            ],
+            [
+                "Kofu , Yamanashi",
+                [
+                    "/wiki/Kofu",
+                    "/wiki/Yamanashi_Prefecture"
+                ],
+                [
+                    {
+                        "entity id": "Q201932",
+                        "label": "K\u014dfu"
+                    },
+                    {
+                        "entity id": "Q132720",
+                        "label": "Yamanashi Prefecture"
+                    }
+                ]
+            ],
+            [
+                "Yamanashi Chuo Bank Stadium",
+                [
+                    "/wiki/Yamanashi_Chuo_Bank_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q11469670",
+                        "label": "JIT Recycle Ink Stadium"
+                    }
+                ]
+            ],
+            [
+                "17,000",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Clubs",
+    "section_text": "Vissel Kobe , Gamba Osaka and Consadole Sapporo were relegated at the end of the 2012 season after finishing in the bottom three places of the table . Consadole Sapporo returned to J2 after only one season in the top flight , while Vissel Kobe was relegated after six seasons in the top flight . Gamba Osaka , instead , was relegated for the first time since the creation of J . League in 1993 and first time since their forerunners , Matsushita Electric Soccer Club , were relegated to the second Division of Japan Soccer League after the 1986\u201387 season . The three relegated teams were replaced by 2012 J.League Division 2 champions Ventforet Kofu , runners-up Shonan Bellmare and sixth-placed and play-off winner team Oita Trinita . Kofu made an immediate return to the top division , while Shonan after a two-year absence . In the end , Oita beat JEF United Chiba in the playoff final and returned in J1 after three seasons in the second division . Due to Oita 's promotion , it will be the first time to have 2 clubs in the top-flight league competitions from Kyushu since 2006 , and Kansai region will have only one club competing in the top flight first time since 1994 season due to Kobe and Gamba 's relegations . Albirex NiigataCerezo OsakaFC TokyoKashima AntlersKashiwa ReysolKawasaki FrontaleOmiya ArdijaShonan BellmareUrawa Red DiamondsVentforet KofuYokohama F. MarinosJ\u00fabilo IwataNagoya GrampusOita TrinitaSagan TosuSanfrecce HiroshimaShimizu S-PulseVegalta Sendai Locations of the 2013 J.League 1 teams",
+    "uid": "2013_J._League_Division_1_0",
+    "intro": "The 2013 J.League Division 1 season was the 48th season of Japanese top-flight football and 21st since the establishment of the J.League. The season began on 2 March and finished on 7 December. Sanfrecce Hiroshima are the defending champions."
+}

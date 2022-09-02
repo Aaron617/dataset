@@ -1,0 +1,422 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_wind_farms_in_Canada",
+    "title": "List of wind farms in Canada",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Year",
+            []
+        ],
+        [
+            "Capacity ( MW )",
+            [
+                "/wiki/Megawatt"
+            ],
+            [
+                {
+                    "entity id": "Q6982035",
+                    "label": "megawatt"
+                }
+            ]
+        ],
+        [
+            "Location",
+            [
+                "/wiki/Geographic_coordinate_system"
+            ],
+            [
+                {
+                    "entity id": "Q22664",
+                    "label": "geographic coordinate system"
+                }
+            ]
+        ],
+        [
+            "Owner",
+            []
+        ],
+        [
+            "Status",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Sunbridge",
+                [
+                    "/wiki/SunBridge_Wind_Farm"
+                ],
+                [
+                    {
+                        "entity id": "Q7638139",
+                        "label": "SunBridge Wind Farm"
+                    }
+                ]
+            ],
+            [
+                "2002",
+                []
+            ],
+            [
+                "11",
+                []
+            ],
+            [
+                "Gull Lake",
+                [
+                    "/wiki/Gull_Lake,_Saskatchewan"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Enbridge , Suncor",
+                [
+                    "/wiki/Enbridge",
+                    "/wiki/Suncor"
+                ],
+                [
+                    {
+                        "entity id": "Q1339966",
+                        "label": "Enbridge"
+                    },
+                    {
+                        "entity id": "Q18035384",
+                        "label": "C1D"
+                    }
+                ]
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Cypress Wind Power Facility",
+                []
+            ],
+            [
+                "2002/2003",
+                []
+            ],
+            [
+                "11",
+                []
+            ],
+            [
+                "Gull Lake",
+                [
+                    "/wiki/Gull_Lake,_Saskatchewan"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "SaskPower",
+                [
+                    "/wiki/SaskPower"
+                ],
+                [
+                    {
+                        "entity id": "Q2225615",
+                        "label": "SaskPower"
+                    }
+                ]
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Centennial Wind Power Facility",
+                [
+                    "/wiki/Centennial_Wind_Power_Facility"
+                ],
+                [
+                    {
+                        "entity id": "Q5059233",
+                        "label": "Centennial Wind Power Facility"
+                    }
+                ]
+            ],
+            [
+                "2006",
+                []
+            ],
+            [
+                "150",
+                []
+            ],
+            [
+                "Swift Current",
+                [
+                    "/wiki/Swift_Current"
+                ],
+                [
+                    {
+                        "entity id": "Q619937",
+                        "label": "Swift Current"
+                    }
+                ]
+            ],
+            [
+                "SaskPower",
+                [
+                    "/wiki/SaskPower"
+                ],
+                [
+                    {
+                        "entity id": "Q2225615",
+                        "label": "SaskPower"
+                    }
+                ]
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Red Lily Wind Farm",
+                [
+                    "/wiki/Red_Lily_Wind_Farm"
+                ],
+                [
+                    {
+                        "entity id": "Q7304496",
+                        "label": "Red Lily Wind Farm"
+                    }
+                ]
+            ],
+            [
+                "2011",
+                []
+            ],
+            [
+                "26",
+                []
+            ],
+            [
+                "Moosomin",
+                [
+                    "/wiki/Moosomin,_Saskatchewan"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Algonquin Power",
+                [
+                    "/wiki/Algonquin_Power"
+                ],
+                [
+                    {
+                        "entity id": "Q4724337",
+                        "label": "Algonquin Power"
+                    }
+                ]
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Morse Wind Power Facility",
+                []
+            ],
+            [
+                "2015",
+                []
+            ],
+            [
+                "23",
+                []
+            ],
+            [
+                "Morse",
+                [
+                    "/wiki/Morse,_Saskatchewan"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Algonquin Power",
+                [
+                    "/wiki/Algonquin_Power"
+                ],
+                [
+                    {
+                        "entity id": "Q4724337",
+                        "label": "Algonquin Power"
+                    }
+                ]
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Western Lily Wind Power Facility",
+                []
+            ],
+            [
+                "2019",
+                []
+            ],
+            [
+                "20",
+                []
+            ],
+            [
+                "Grenfell",
+                [
+                    "/wiki/Grenfell,_Saskatchewan"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Gaia Power",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Riverhurst Wind Project",
+                []
+            ],
+            [
+                "2020",
+                []
+            ],
+            [
+                "10",
+                []
+            ],
+            [
+                "Riverhurst",
+                [
+                    "/wiki/Riverhurst"
+                ],
+                [
+                    {
+                        "entity id": "Q2204139",
+                        "label": "Riverhurst"
+                    }
+                ]
+            ],
+            [
+                "Capstone Infrastructure",
+                [
+                    "/wiki/Capstone_Infrastructure"
+                ],
+                [
+                    {
+                        "entity id": "Q5036370",
+                        "label": "Capstone Infrastructure"
+                    }
+                ]
+            ],
+            [
+                "Approved",
+                []
+            ]
+        ],
+        [
+            [
+                "Blue Hill Wind Energy Project",
+                []
+            ],
+            [
+                "2021",
+                []
+            ],
+            [
+                "177",
+                []
+            ],
+            [
+                "Herbert",
+                [
+                    "/wiki/Herbert,_Saskatchewan"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Algonquin Power",
+                [
+                    "/wiki/Algonquin_Power"
+                ],
+                [
+                    {
+                        "entity id": "Q4724337",
+                        "label": "Algonquin Power"
+                    }
+                ]
+            ],
+            [
+                "Approved",
+                []
+            ]
+        ],
+        [
+            [
+                "Golden South Wind Energy Facility",
+                []
+            ],
+            [
+                "2021",
+                []
+            ],
+            [
+                "200",
+                []
+            ],
+            [
+                "Assiniboia",
+                [
+                    "/wiki/Assiniboia,_Saskatchewan"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Potentia Renewables",
+                []
+            ],
+            [
+                "Approved",
+                []
+            ]
+        ]
+    ],
+    "section_title": "By province or territory -- Saskatchewan",
+    "section_text": "See also : List of power stations in Saskatchewan List of current and planned wind farms in Saskatchewan .",
+    "uid": "List_of_wind_farms_in_Canada_10",
+    "intro": "This is a list of operational wind farms in Canada with a capacity of at least 100 MW. The name of the wind farm is the name used by the energy company when referring to the farm. The Centennial Wind Power Facility in Saskatchewan was the first wind farm in Canada to have a capacity of at least 100 MW upon completion in 2006. Since then numerous other wind farms have surpassed the 100 MW threshold, most often through the expansion of existing wind farms. All but two of Canada's provinces or territories are home to at least one wind farm, those without being Nunavut and the Northwest Territories."
+}

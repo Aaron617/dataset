@@ -1,0 +1,943 @@
+{
+    "url": "https://en.wikipedia.org/wiki/ISO_3166-2:FR",
+    "title": "ISO 3166-2:FR",
+    "header": [
+        [
+            "Code",
+            []
+        ],
+        [
+            "Subdivision name",
+            []
+        ],
+        [
+            "Subdivision category",
+            []
+        ],
+        [
+            "In region ( since 2016 )",
+            []
+        ],
+        [
+            "In metropolitan region ( before 2016 )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "FR-01",
+                []
+            ],
+            [
+                "Ain",
+                [
+                    "/wiki/Ain"
+                ],
+                [
+                    {
+                        "entity id": "Q3083",
+                        "label": "Ain"
+                    }
+                ]
+            ],
+            [
+                "metropolitan department",
+                []
+            ],
+            [
+                "ARA",
+                [
+                    "/wiki/Auvergne-Rh\u00f4ne-Alpes"
+                ],
+                [
+                    {
+                        "entity id": "Q18338206",
+                        "label": "Auvergne-Rh\u00f4ne-Alpes"
+                    }
+                ]
+            ],
+            [
+                "V",
+                [
+                    "/wiki/Rh\u00f4ne-Alpes"
+                ],
+                [
+                    {
+                        "entity id": "Q463",
+                        "label": "Rh\u00f4ne-Alpes"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FR-02",
+                []
+            ],
+            [
+                "Aisne",
+                [
+                    "/wiki/Aisne"
+                ],
+                [
+                    {
+                        "entity id": "Q3093",
+                        "label": "Aisne"
+                    }
+                ]
+            ],
+            [
+                "metropolitan department",
+                []
+            ],
+            [
+                "HDF",
+                [
+                    "/wiki/Hauts-de-France"
+                ],
+                [
+                    {
+                        "entity id": "Q18677767",
+                        "label": "Hauts-de-France"
+                    }
+                ]
+            ],
+            [
+                "S",
+                [
+                    "/wiki/Picardy_(region)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "FR-03",
+                []
+            ],
+            [
+                "Allier",
+                [
+                    "/wiki/Allier"
+                ],
+                [
+                    {
+                        "entity id": "Q3113",
+                        "label": "Allier"
+                    }
+                ]
+            ],
+            [
+                "metropolitan department",
+                []
+            ],
+            [
+                "ARA",
+                [
+                    "/wiki/Auvergne-Rh\u00f4ne-Alpes"
+                ],
+                [
+                    {
+                        "entity id": "Q18338206",
+                        "label": "Auvergne-Rh\u00f4ne-Alpes"
+                    }
+                ]
+            ],
+            [
+                "C",
+                [
+                    "/wiki/Auvergne_(region)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "FR-04",
+                []
+            ],
+            [
+                "Alpes-de-Haute-Provence",
+                [
+                    "/wiki/Alpes-de-Haute-Provence"
+                ],
+                [
+                    {
+                        "entity id": "Q3131",
+                        "label": "Alpes-de-Haute-Provence"
+                    }
+                ]
+            ],
+            [
+                "metropolitan department",
+                []
+            ],
+            [
+                "PAC",
+                [
+                    "/wiki/Provence-Alpes-C\u00f4te_d'Azur"
+                ],
+                [
+                    {
+                        "entity id": "Q15104",
+                        "label": "Provence-Alpes-C\u00f4te d'Azur"
+                    }
+                ]
+            ],
+            [
+                "U",
+                [
+                    "/wiki/Provence-Alpes-C\u00f4te_d'Azur"
+                ],
+                [
+                    {
+                        "entity id": "Q15104",
+                        "label": "Provence-Alpes-C\u00f4te d'Azur"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FR-06",
+                []
+            ],
+            [
+                "Alpes-Maritimes",
+                [
+                    "/wiki/Alpes-Maritimes"
+                ],
+                [
+                    {
+                        "entity id": "Q3139",
+                        "label": "Alpes-Maritimes"
+                    }
+                ]
+            ],
+            [
+                "metropolitan department",
+                []
+            ],
+            [
+                "PAC",
+                [
+                    "/wiki/Provence-Alpes-C\u00f4te_d'Azur"
+                ],
+                [
+                    {
+                        "entity id": "Q15104",
+                        "label": "Provence-Alpes-C\u00f4te d'Azur"
+                    }
+                ]
+            ],
+            [
+                "U",
+                [
+                    "/wiki/Provence-Alpes-C\u00f4te_d'Azur"
+                ],
+                [
+                    {
+                        "entity id": "Q15104",
+                        "label": "Provence-Alpes-C\u00f4te d'Azur"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FR-07",
+                []
+            ],
+            [
+                "Ard\u00e8che",
+                [
+                    "/wiki/Ard\u00e8che"
+                ],
+                [
+                    {
+                        "entity id": "Q3148",
+                        "label": "Ard\u00e8che"
+                    }
+                ]
+            ],
+            [
+                "metropolitan department",
+                []
+            ],
+            [
+                "ARA",
+                [
+                    "/wiki/Auvergne-Rh\u00f4ne-Alpes"
+                ],
+                [
+                    {
+                        "entity id": "Q18338206",
+                        "label": "Auvergne-Rh\u00f4ne-Alpes"
+                    }
+                ]
+            ],
+            [
+                "V",
+                [
+                    "/wiki/Rh\u00f4ne-Alpes"
+                ],
+                [
+                    {
+                        "entity id": "Q463",
+                        "label": "Rh\u00f4ne-Alpes"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FR-08",
+                []
+            ],
+            [
+                "Ardennes",
+                [
+                    "/wiki/Ardennes_(department)"
+                ],
+                [
+                    {
+                        "entity id": "Q3164",
+                        "label": "Ardennes"
+                    }
+                ]
+            ],
+            [
+                "metropolitan department",
+                []
+            ],
+            [
+                "GES",
+                [
+                    "/wiki/Grand_Est"
+                ],
+                [
+                    {
+                        "entity id": "Q18677983",
+                        "label": "Grand Est"
+                    }
+                ]
+            ],
+            [
+                "G",
+                [
+                    "/wiki/Champagne-Ardenne"
+                ],
+                [
+                    {
+                        "entity id": "Q14103",
+                        "label": "Champagne-Ardenne"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FR-09",
+                []
+            ],
+            [
+                "Ari\u00e8ge",
+                [
+                    "/wiki/Ari\u00e8ge_(department)"
+                ],
+                [
+                    {
+                        "entity id": "Q3184",
+                        "label": "Ari\u00e8ge"
+                    }
+                ]
+            ],
+            [
+                "metropolitan department",
+                []
+            ],
+            [
+                "OCC",
+                [
+                    "/wiki/Occitanie"
+                ],
+                [
+                    {
+                        "entity id": "Q18678265",
+                        "label": "Occitania"
+                    }
+                ]
+            ],
+            [
+                "N",
+                [
+                    "/wiki/Midi-Pyr\u00e9n\u00e9es"
+                ],
+                [
+                    {
+                        "entity id": "Q16393",
+                        "label": "Midi-Pyr\u00e9n\u00e9es"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FR-10",
+                []
+            ],
+            [
+                "Aube",
+                [
+                    "/wiki/Aube"
+                ],
+                [
+                    {
+                        "entity id": "Q3194",
+                        "label": "Aube"
+                    }
+                ]
+            ],
+            [
+                "metropolitan department",
+                []
+            ],
+            [
+                "GES",
+                [
+                    "/wiki/Grand_Est"
+                ],
+                [
+                    {
+                        "entity id": "Q18677983",
+                        "label": "Grand Est"
+                    }
+                ]
+            ],
+            [
+                "G",
+                [
+                    "/wiki/Champagne-Ardenne"
+                ],
+                [
+                    {
+                        "entity id": "Q14103",
+                        "label": "Champagne-Ardenne"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FR-11",
+                []
+            ],
+            [
+                "Aude",
+                [
+                    "/wiki/Aude"
+                ],
+                [
+                    {
+                        "entity id": "Q3207",
+                        "label": "Aude"
+                    }
+                ]
+            ],
+            [
+                "metropolitan department",
+                []
+            ],
+            [
+                "OCC",
+                [
+                    "/wiki/Occitanie"
+                ],
+                [
+                    {
+                        "entity id": "Q18678265",
+                        "label": "Occitania"
+                    }
+                ]
+            ],
+            [
+                "K",
+                [
+                    "/wiki/Languedoc-Roussillon"
+                ],
+                [
+                    {
+                        "entity id": "Q17005",
+                        "label": "Languedoc-Roussillon"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FR-12",
+                []
+            ],
+            [
+                "Aveyron",
+                [
+                    "/wiki/Aveyron"
+                ],
+                [
+                    {
+                        "entity id": "Q3216",
+                        "label": "Aveyron"
+                    }
+                ]
+            ],
+            [
+                "metropolitan department",
+                []
+            ],
+            [
+                "OCC",
+                [
+                    "/wiki/Occitanie"
+                ],
+                [
+                    {
+                        "entity id": "Q18678265",
+                        "label": "Occitania"
+                    }
+                ]
+            ],
+            [
+                "N",
+                [
+                    "/wiki/Midi-Pyr\u00e9n\u00e9es"
+                ],
+                [
+                    {
+                        "entity id": "Q16393",
+                        "label": "Midi-Pyr\u00e9n\u00e9es"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FR-67",
+                []
+            ],
+            [
+                "Bas-Rhin",
+                [
+                    "/wiki/Bas-Rhin"
+                ],
+                [
+                    {
+                        "entity id": "Q12717",
+                        "label": "Bas-Rhin"
+                    }
+                ]
+            ],
+            [
+                "metropolitan department",
+                []
+            ],
+            [
+                "GES",
+                [
+                    "/wiki/Grand_Est"
+                ],
+                [
+                    {
+                        "entity id": "Q18677983",
+                        "label": "Grand Est"
+                    }
+                ]
+            ],
+            [
+                "A",
+                [
+                    "/wiki/Alsace"
+                ],
+                [
+                    {
+                        "entity id": "Q1142",
+                        "label": "Alsace"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FR-13",
+                []
+            ],
+            [
+                "Bouches-du-Rh\u00f4ne",
+                [
+                    "/wiki/Bouches-du-Rh\u00f4ne"
+                ],
+                [
+                    {
+                        "entity id": "Q3240",
+                        "label": "Bouches-du-Rh\u00f4ne"
+                    }
+                ]
+            ],
+            [
+                "metropolitan department",
+                []
+            ],
+            [
+                "PAC",
+                [
+                    "/wiki/Provence-Alpes-C\u00f4te_d'Azur"
+                ],
+                [
+                    {
+                        "entity id": "Q15104",
+                        "label": "Provence-Alpes-C\u00f4te d'Azur"
+                    }
+                ]
+            ],
+            [
+                "U",
+                [
+                    "/wiki/Provence-Alpes-C\u00f4te_d'Azur"
+                ],
+                [
+                    {
+                        "entity id": "Q15104",
+                        "label": "Provence-Alpes-C\u00f4te d'Azur"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FR-14",
+                []
+            ],
+            [
+                "Calvados",
+                [
+                    "/wiki/Calvados_(department)"
+                ],
+                [
+                    {
+                        "entity id": "Q3249",
+                        "label": "Calvados"
+                    }
+                ]
+            ],
+            [
+                "metropolitan department",
+                []
+            ],
+            [
+                "NOR",
+                [
+                    "/wiki/Normandy"
+                ],
+                [
+                    {
+                        "entity id": "Q15878",
+                        "label": "Normandy"
+                    }
+                ]
+            ],
+            [
+                "P",
+                [
+                    "/wiki/Lower_Normandy"
+                ],
+                [
+                    {
+                        "entity id": "Q16954",
+                        "label": "Lower Normandy"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FR-15",
+                []
+            ],
+            [
+                "Cantal",
+                [
+                    "/wiki/Cantal"
+                ],
+                [
+                    {
+                        "entity id": "Q3259",
+                        "label": "Cantal"
+                    }
+                ]
+            ],
+            [
+                "metropolitan department",
+                []
+            ],
+            [
+                "ARA",
+                [
+                    "/wiki/Auvergne-Rh\u00f4ne-Alpes"
+                ],
+                [
+                    {
+                        "entity id": "Q18338206",
+                        "label": "Auvergne-Rh\u00f4ne-Alpes"
+                    }
+                ]
+            ],
+            [
+                "C",
+                [
+                    "/wiki/Auvergne_(region)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "FR-16",
+                []
+            ],
+            [
+                "Charente",
+                [
+                    "/wiki/Charente"
+                ],
+                [
+                    {
+                        "entity id": "Q3266",
+                        "label": "Charente"
+                    }
+                ]
+            ],
+            [
+                "metropolitan department",
+                []
+            ],
+            [
+                "NAQ",
+                [
+                    "/wiki/Nouvelle-Aquitaine"
+                ],
+                [
+                    {
+                        "entity id": "Q18678082",
+                        "label": "New Aquitaine"
+                    }
+                ]
+            ],
+            [
+                "T",
+                [
+                    "/wiki/Poitou-Charentes"
+                ],
+                [
+                    {
+                        "entity id": "Q17009",
+                        "label": "Poitou-Charentes"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FR-17",
+                []
+            ],
+            [
+                "Charente-Maritime",
+                [
+                    "/wiki/Charente-Maritime"
+                ],
+                [
+                    {
+                        "entity id": "Q3278",
+                        "label": "Charente-Maritime"
+                    }
+                ]
+            ],
+            [
+                "metropolitan department",
+                []
+            ],
+            [
+                "NAQ",
+                [
+                    "/wiki/Nouvelle-Aquitaine"
+                ],
+                [
+                    {
+                        "entity id": "Q18678082",
+                        "label": "New Aquitaine"
+                    }
+                ]
+            ],
+            [
+                "T",
+                [
+                    "/wiki/Poitou-Charentes"
+                ],
+                [
+                    {
+                        "entity id": "Q17009",
+                        "label": "Poitou-Charentes"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FR-18",
+                []
+            ],
+            [
+                "Cher",
+                [
+                    "/wiki/Cher_(department)"
+                ],
+                [
+                    {
+                        "entity id": "Q3286",
+                        "label": "Cher"
+                    }
+                ]
+            ],
+            [
+                "metropolitan department",
+                []
+            ],
+            [
+                "CVL",
+                [
+                    "/wiki/Centre-Val_de_Loire"
+                ],
+                [
+                    {
+                        "entity id": "Q13947",
+                        "label": "Centre-Val de Loire"
+                    }
+                ]
+            ],
+            [
+                "F",
+                [
+                    "/wiki/Centre-Val_de_Loire"
+                ],
+                [
+                    {
+                        "entity id": "Q13947",
+                        "label": "Centre-Val de Loire"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FR-19",
+                []
+            ],
+            [
+                "Corr\u00e8ze",
+                [
+                    "/wiki/Corr\u00e8ze"
+                ],
+                [
+                    {
+                        "entity id": "Q3326",
+                        "label": "Corr\u00e8ze"
+                    }
+                ]
+            ],
+            [
+                "metropolitan department",
+                []
+            ],
+            [
+                "NAQ",
+                [
+                    "/wiki/Nouvelle-Aquitaine"
+                ],
+                [
+                    {
+                        "entity id": "Q18678082",
+                        "label": "New Aquitaine"
+                    }
+                ]
+            ],
+            [
+                "L",
+                [
+                    "/wiki/Limousin_(region)"
+                ],
+                [
+                    {
+                        "entity id": "Q104867661",
+                        "label": "Limousin. Service r\u00e9gional de l'arch\u00e9ologie"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FR-2A",
+                []
+            ],
+            [
+                "Corse-du-Sud",
+                [
+                    "/wiki/Corse-du-Sud"
+                ],
+                [
+                    {
+                        "entity id": "Q3336",
+                        "label": "Corse-du-Sud"
+                    }
+                ]
+            ],
+            [
+                "metropolitan department",
+                []
+            ],
+            [
+                "COR",
+                [
+                    "/wiki/Corse"
+                ],
+                [
+                    {
+                        "entity id": "Q14112",
+                        "label": "Corsica"
+                    }
+                ]
+            ],
+            [
+                "H",
+                [
+                    "/wiki/Corsica"
+                ],
+                [
+                    {
+                        "entity id": "Q14112",
+                        "label": "Corsica"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Current codes -- Departments",
+    "section_text": "Map of metropolitan France with each department labelled with the second part of its ISO 3166-2 code ( area around Paris shown in inset ) .",
+    "uid": "ISO_3166-2:FR_2",
+    "intro": "ISO 3166-2:FR is the entry for France in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1. Currently for France, ISO 3166-2 codes are defined for the following subdivisions:"
+}

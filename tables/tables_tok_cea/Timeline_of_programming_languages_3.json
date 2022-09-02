@@ -1,0 +1,692 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Timeline_of_programming_languages",
+    "title": "Timeline of programming languages",
+    "header": [
+        [
+            "Year",
+            []
+        ],
+        [
+            "Name",
+            []
+        ],
+        [
+            "Chief developer , company",
+            []
+        ],
+        [
+            "Predecessor ( s )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1970",
+                []
+            ],
+            [
+                "Forth ( implementation )",
+                [
+                    "/wiki/Forth_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Charles H. Moore",
+                [
+                    "/wiki/Charles_H._Moore"
+                ],
+                [
+                    {
+                        "entity id": "Q15971521",
+                        "label": "Charles Herbert Moore"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "1970",
+                []
+            ],
+            [
+                "POP-2",
+                [
+                    "/wiki/POP-2"
+                ],
+                [
+                    {
+                        "entity id": "Q45120203",
+                        "label": "Pop 2"
+                    }
+                ]
+            ],
+            [
+                "Robin Popplestone",
+                [
+                    "/wiki/Robin_Popplestone"
+                ],
+                [
+                    {
+                        "entity id": "Q7352723",
+                        "label": "Robin Popplestone"
+                    }
+                ]
+            ],
+            [
+                "POP-1",
+                []
+            ]
+        ],
+        [
+            [
+                "1970",
+                []
+            ],
+            [
+                "SAIL",
+                [
+                    "/wiki/SAIL_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Dan Swinehart and Bob Sproull",
+                [
+                    "/wiki/Bob_Sproull"
+                ],
+                [
+                    {
+                        "entity id": "Q4934059",
+                        "label": "Bob Sproull"
+                    }
+                ]
+            ],
+            [
+                "ALGOL-60",
+                []
+            ]
+        ],
+        [
+            [
+                "1970",
+                []
+            ],
+            [
+                "Pascal",
+                [
+                    "/wiki/Pascal_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Niklaus Wirth , Kathleen Jensen",
+                [
+                    "/wiki/Niklaus_Wirth"
+                ],
+                [
+                    {
+                        "entity id": "Q92604",
+                        "label": "Niklaus Wirth"
+                    }
+                ]
+            ],
+            [
+                "ALGOL 60 , ALGOL W",
+                []
+            ]
+        ],
+        [
+            [
+                "1970",
+                []
+            ],
+            [
+                "BLISS",
+                [
+                    "/wiki/BLISS"
+                ],
+                [
+                    {
+                        "entity id": "Q2368",
+                        "label": "Bliss"
+                    }
+                ]
+            ],
+            [
+                "Wulf , Russell , Habermann at Carnegie Mellon University",
+                [
+                    "/wiki/Carnegie_Mellon_University"
+                ],
+                [
+                    {
+                        "entity id": "Q190080",
+                        "label": "Carnegie Mellon University"
+                    }
+                ]
+            ],
+            [
+                "ALGOL",
+                []
+            ]
+        ],
+        [
+            [
+                "1971",
+                []
+            ],
+            [
+                "KRL",
+                [
+                    "/wiki/KRL_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Daniel G. Bobrow at Xerox PARC , Terry Winograd at Stanford University",
+                [
+                    "/wiki/Daniel_G._Bobrow",
+                    "/wiki/Xerox_PARC",
+                    "/wiki/Terry_Winograd",
+                    "/wiki/Stanford_University"
+                ],
+                [
+                    {
+                        "entity id": "Q92691",
+                        "label": "Daniel G. Bobrow"
+                    },
+                    {
+                        "entity id": "Q750428",
+                        "label": "PARC"
+                    },
+                    {
+                        "entity id": "Q92826",
+                        "label": "Terry Winograd"
+                    },
+                    {
+                        "entity id": "Q41506",
+                        "label": "Stanford University"
+                    }
+                ]
+            ],
+            [
+                "KM , FRL ( MIT )",
+                []
+            ]
+        ],
+        [
+            [
+                "1971",
+                []
+            ],
+            [
+                "Sue",
+                []
+            ],
+            [
+                "Ric Holt et al . at University of Toronto",
+                [
+                    "/wiki/Ric_Holt",
+                    "/wiki/University_of_Toronto"
+                ],
+                [
+                    {
+                        "entity id": "Q7322470",
+                        "label": "Ric Holt"
+                    },
+                    {
+                        "entity id": "Q180865",
+                        "label": "University of Toronto"
+                    }
+                ]
+            ],
+            [
+                "Pascal , XPL",
+                []
+            ]
+        ],
+        [
+            [
+                "1971",
+                []
+            ],
+            [
+                "Compiler Description Language ( CDL )",
+                [
+                    "/wiki/Compiler_Description_Language"
+                ],
+                [
+                    {
+                        "entity id": "Q5156377",
+                        "label": "Compiler Description Language"
+                    }
+                ]
+            ],
+            [
+                "Cornelis H.A . Koster at University of Nijmegen",
+                [
+                    "/wiki/Cornelis_H.A._Koster",
+                    "/wiki/University_of_Nijmegen"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q632004",
+                        "label": "Radboud University Nijmegen"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "1972",
+                []
+            ],
+            [
+                "Smalltalk-72",
+                [
+                    "/wiki/Smalltalk-72"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Alan Kay , Adele Goldberg , Dan Ingalls , Xerox PARC",
+                [
+                    "/wiki/Alan_Kay",
+                    "/wiki/Adele_Goldberg_(computer_scientist)",
+                    "/wiki/Dan_Ingalls",
+                    "/wiki/PARC_(company)"
+                ],
+                [
+                    {
+                        "entity id": "Q92742",
+                        "label": "Alan Kay"
+                    },
+                    {},
+                    {
+                        "entity id": "Q92772",
+                        "label": "Dan Ingalls"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Simula 67",
+                []
+            ]
+        ],
+        [
+            [
+                "1972",
+                []
+            ],
+            [
+                "PL/M",
+                [
+                    "/wiki/PL/M"
+                ],
+                [
+                    {
+                        "entity id": "Q2160963",
+                        "label": "PL/M"
+                    }
+                ]
+            ],
+            [
+                "Gary Kildall at Digital Research",
+                [
+                    "/wiki/Gary_Kildall",
+                    "/wiki/Digital_Research"
+                ],
+                [
+                    {
+                        "entity id": "Q92627",
+                        "label": "Gary Kildall"
+                    },
+                    {
+                        "entity id": "Q185608",
+                        "label": "Digital Research"
+                    }
+                ]
+            ],
+            [
+                "PL/I , ALGOL , XPL",
+                []
+            ]
+        ],
+        [
+            [
+                "1972",
+                []
+            ],
+            [
+                "K & R C",
+                [
+                    "/wiki/C_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Dennis Ritchie",
+                [
+                    "/wiki/Dennis_Ritchie"
+                ],
+                [
+                    {
+                        "entity id": "Q45575",
+                        "label": "Dennis M. Ritchie"
+                    }
+                ]
+            ],
+            [
+                "B , BCPL , ALGOL 68",
+                []
+            ]
+        ],
+        [
+            [
+                "1972",
+                []
+            ],
+            [
+                "INTERCAL",
+                [
+                    "/wiki/INTERCAL"
+                ],
+                [
+                    {
+                        "entity id": "Q1054365",
+                        "label": "INTERCAL"
+                    }
+                ]
+            ],
+            [
+                "Don Woods and James M. Lyon",
+                [
+                    "/wiki/Don_Woods_(programmer)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "none ( unique language )",
+                []
+            ]
+        ],
+        [
+            [
+                "1972",
+                []
+            ],
+            [
+                "Prolog",
+                [
+                    "/wiki/Prolog"
+                ],
+                [
+                    {
+                        "entity id": "Q163468",
+                        "label": "Prolog"
+                    }
+                ]
+            ],
+            [
+                "Alain Colmerauer",
+                [
+                    "/wiki/Alain_Colmerauer"
+                ],
+                [
+                    {
+                        "entity id": "Q93072",
+                        "label": "Alain Colmerauer"
+                    }
+                ]
+            ],
+            [
+                "2-level W-Grammar",
+                []
+            ]
+        ],
+        [
+            [
+                "1972",
+                []
+            ],
+            [
+                "Structured Query language ( SQL )",
+                [
+                    "/wiki/SQL"
+                ],
+                [
+                    {
+                        "entity id": "Q47607",
+                        "label": "SQL"
+                    }
+                ]
+            ],
+            [
+                "IBM",
+                [
+                    "/wiki/IBM"
+                ],
+                [
+                    {
+                        "entity id": "Q37156",
+                        "label": "IBM"
+                    }
+                ]
+            ],
+            [
+                "ALPHA , Quel ( Ingres )",
+                []
+            ]
+        ],
+        [
+            [
+                "1973",
+                []
+            ],
+            [
+                "COMAL",
+                [
+                    "/wiki/COMAL"
+                ],
+                [
+                    {
+                        "entity id": "Q2423285",
+                        "label": "Comal"
+                    }
+                ]
+            ],
+            [
+                "B\u00f8rge Christensen , Benedict L\u00f8fstedt",
+                []
+            ],
+            [
+                "Pascal , BASIC",
+                []
+            ]
+        ],
+        [
+            [
+                "1973",
+                []
+            ],
+            [
+                "ML",
+                [
+                    "/wiki/ML_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Robin Milner",
+                [
+                    "/wiki/Robin_Milner"
+                ],
+                [
+                    {
+                        "entity id": "Q92643",
+                        "label": "Robin Milner"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "1973",
+                []
+            ],
+            [
+                "LIS",
+                [
+                    "/wiki/LIS_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Jean Ichbiah et al . at CII Honeywell Bull",
+                [
+                    "/wiki/Jean_Ichbiah",
+                    "/wiki/Groupe_Bull"
+                ],
+                [
+                    {
+                        "entity id": "Q92853",
+                        "label": "Jean Ichbiah"
+                    },
+                    {
+                        "entity id": "Q1004175",
+                        "label": "Groupe Bull"
+                    }
+                ]
+            ],
+            [
+                "Pascal , Sue",
+                []
+            ]
+        ],
+        [
+            [
+                "1973",
+                []
+            ],
+            [
+                "Speakeasy-3",
+                [
+                    "/wiki/Speakeasy_(computational_environment)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Stanley Cohen , Steven Pieper at Argonne National Laboratory",
+                [
+                    "/wiki/Argonne_National_Laboratory"
+                ],
+                [
+                    {
+                        "entity id": "Q649120",
+                        "label": "Argonne National Laboratory"
+                    }
+                ]
+            ],
+            [
+                "Speakeasy-2",
+                []
+            ]
+        ],
+        [
+            [
+                "1974",
+                []
+            ],
+            [
+                "CLU",
+                [
+                    "/wiki/CLU_(programming_language)"
+                ],
+                [
+                    {
+                        "entity id": "Q775159",
+                        "label": "CLU"
+                    }
+                ]
+            ],
+            [
+                "Barbara Liskov",
+                [
+                    "/wiki/Barbara_Liskov"
+                ],
+                [
+                    {
+                        "entity id": "Q16080922",
+                        "label": "Barbara Liskov"
+                    }
+                ]
+            ],
+            [
+                "ALGOL 60 , Lisp , Simula",
+                []
+            ]
+        ],
+        [
+            [
+                "1974",
+                []
+            ],
+            [
+                "MAINSAIL",
+                []
+            ],
+            [
+                "Stanford University",
+                []
+            ],
+            [
+                "SAIL",
+                [
+                    "/wiki/SAIL_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ]
+    ],
+    "section_title": "1970s",
+    "section_text": "",
+    "uid": "Timeline_of_programming_languages_3",
+    "intro": "This is a record of historically important programming languages, by decade."
+}

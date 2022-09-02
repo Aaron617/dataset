@@ -1,0 +1,701 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Color_in_Chinese_culture",
+    "title": "Color in Chinese culture",
+    "header": [
+        [
+            "Element",
+            []
+        ],
+        [
+            "Wood",
+            []
+        ],
+        [
+            "Fire",
+            []
+        ],
+        [
+            "Earth",
+            []
+        ],
+        [
+            "Metal",
+            []
+        ],
+        [
+            "Water",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Color",
+                [
+                    "/wiki/Color"
+                ],
+                [
+                    {
+                        "entity id": "Q1075",
+                        "label": "color"
+                    }
+                ]
+            ],
+            [
+                "Green/blue",
+                []
+            ],
+            [
+                "Red",
+                []
+            ],
+            [
+                "Yellow",
+                []
+            ],
+            [
+                "White",
+                []
+            ],
+            [
+                "Black",
+                []
+            ]
+        ],
+        [
+            [
+                "Direction",
+                [
+                    "/wiki/Cardinal_directions"
+                ],
+                [
+                    {
+                        "entity id": "Q23718",
+                        "label": "cardinal direction"
+                    }
+                ]
+            ],
+            [
+                "east",
+                []
+            ],
+            [
+                "south",
+                []
+            ],
+            [
+                "center",
+                []
+            ],
+            [
+                "west",
+                []
+            ],
+            [
+                "north",
+                []
+            ]
+        ],
+        [
+            [
+                "Planet",
+                [
+                    "/wiki/Planet"
+                ],
+                [
+                    {
+                        "entity id": "Q634",
+                        "label": "planet"
+                    }
+                ]
+            ],
+            [
+                "Jupiter",
+                [
+                    "/wiki/Jupiter"
+                ],
+                [
+                    {
+                        "entity id": "Q34201",
+                        "label": "Zeus"
+                    }
+                ]
+            ],
+            [
+                "Mars",
+                [
+                    "/wiki/Mars"
+                ],
+                [
+                    {
+                        "entity id": "Q111",
+                        "label": "Mars"
+                    }
+                ]
+            ],
+            [
+                "Saturn",
+                [
+                    "/wiki/Saturn"
+                ],
+                [
+                    {
+                        "entity id": "Q193",
+                        "label": "Saturn"
+                    }
+                ]
+            ],
+            [
+                "Venus",
+                [
+                    "/wiki/Venus"
+                ],
+                [
+                    {
+                        "entity id": "Q313",
+                        "label": "Venus"
+                    }
+                ]
+            ],
+            [
+                "Mercury",
+                [
+                    "/wiki/Mercury_(planet)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Heavenly creature",
+                [
+                    "/wiki/Chinese_constellation"
+                ],
+                [
+                    {
+                        "entity id": "Q1074076",
+                        "label": "Chinese constellations"
+                    }
+                ]
+            ],
+            [
+                "Azure Dragon \u9752\u9f8d",
+                [
+                    "/wiki/Azure_Dragon"
+                ],
+                [
+                    {
+                        "entity id": "Q515882",
+                        "label": "Azure Dragon"
+                    }
+                ]
+            ],
+            [
+                "Vermilion Bird \u6731\u96c0",
+                [
+                    "/wiki/Vermilion_Bird"
+                ],
+                [
+                    {
+                        "entity id": "Q73719408",
+                        "label": "Vermilion Bird"
+                    }
+                ]
+            ],
+            [
+                "Yellow Dragon \u9ec3\u9f8d",
+                [
+                    "/wiki/Yellow_Dragon"
+                ],
+                [
+                    {
+                        "entity id": "Q847544",
+                        "label": "Huang Long"
+                    }
+                ]
+            ],
+            [
+                "White Tiger \u767d\u864e",
+                [
+                    "/wiki/White_Tiger_(Chinese_constellation)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Black Tortoise \u7384\u6b66",
+                [
+                    "/wiki/Black_Tortoise"
+                ],
+                [
+                    {
+                        "entity id": "Q125696",
+                        "label": "Black Tortoise"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Heavenly Stems",
+                [
+                    "/wiki/Heavenly_Stems"
+                ],
+                [
+                    {
+                        "entity id": "Q1190985",
+                        "label": "Heavenly Stems"
+                    }
+                ]
+            ],
+            [
+                "\u7532 , \u4e59",
+                []
+            ],
+            [
+                "\u4e19 , \u4e01",
+                []
+            ],
+            [
+                "\u620a , \u5df1",
+                []
+            ],
+            [
+                "\u5e9a , \u8f9b",
+                []
+            ],
+            [
+                "\u58ec , \u7678",
+                []
+            ]
+        ],
+        [
+            [
+                "Phase",
+                []
+            ],
+            [
+                "New Yang",
+                []
+            ],
+            [
+                "Full Yang",
+                []
+            ],
+            [
+                "Yin/Yang balance",
+                []
+            ],
+            [
+                "New Yin",
+                []
+            ],
+            [
+                "Full Yin",
+                []
+            ]
+        ],
+        [
+            [
+                "Energy",
+                [
+                    "/wiki/Energy"
+                ],
+                [
+                    {
+                        "entity id": "Q11379",
+                        "label": "energy"
+                    }
+                ]
+            ],
+            [
+                "Generative",
+                []
+            ],
+            [
+                "Expansive",
+                []
+            ],
+            [
+                "Stabilizing",
+                []
+            ],
+            [
+                "Contracting",
+                []
+            ],
+            [
+                "Conserving",
+                []
+            ]
+        ],
+        [
+            [
+                "Season",
+                [
+                    "/wiki/Season"
+                ],
+                [
+                    {
+                        "entity id": "Q27020041",
+                        "label": "sports season"
+                    }
+                ]
+            ],
+            [
+                "Spring",
+                []
+            ],
+            [
+                "Summer",
+                []
+            ],
+            [
+                "Change of seasons ( Every third month )",
+                []
+            ],
+            [
+                "Autumn",
+                []
+            ],
+            [
+                "Winter",
+                []
+            ]
+        ],
+        [
+            [
+                "Climate",
+                [
+                    "/wiki/Climate"
+                ],
+                [
+                    {
+                        "entity id": "Q7937",
+                        "label": "climate"
+                    }
+                ]
+            ],
+            [
+                "Windy",
+                [
+                    "/wiki/Windy"
+                ],
+                [
+                    {
+                        "entity id": "Q48929807",
+                        "label": "Windy"
+                    }
+                ]
+            ],
+            [
+                "Hot",
+                []
+            ],
+            [
+                "Damp",
+                [
+                    "/wiki/Damp"
+                ],
+                [
+                    {
+                        "entity id": "Q662717",
+                        "label": "Damp"
+                    }
+                ]
+            ],
+            [
+                "Dry",
+                [
+                    "/wiki/Dry_climate"
+                ],
+                [
+                    {
+                        "entity id": "Q5772644",
+                        "label": "dry climate"
+                    }
+                ]
+            ],
+            [
+                "Cold",
+                [
+                    "/wiki/Cold"
+                ],
+                [
+                    {
+                        "entity id": "Q199804",
+                        "label": "chronic obstructive pulmonary disease"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Development",
+                [
+                    "/wiki/Developmental_biology"
+                ],
+                [
+                    {
+                        "entity id": "Q213713",
+                        "label": "developmental biology"
+                    }
+                ]
+            ],
+            [
+                "Sprouting",
+                []
+            ],
+            [
+                "Blooming",
+                []
+            ],
+            [
+                "Ripening",
+                []
+            ],
+            [
+                "Withering",
+                []
+            ],
+            [
+                "Dormant",
+                []
+            ]
+        ],
+        [
+            [
+                "Livestock",
+                [
+                    "/wiki/Livestock"
+                ],
+                [
+                    {
+                        "entity id": "Q4767951",
+                        "label": "cattle"
+                    }
+                ]
+            ],
+            [
+                "dog",
+                [
+                    "/wiki/Dog"
+                ],
+                [
+                    {
+                        "entity id": "Q144",
+                        "label": "dog"
+                    }
+                ]
+            ],
+            [
+                "sheep / goat",
+                [
+                    "/wiki/Sheep",
+                    "/wiki/Goat"
+                ],
+                [
+                    {
+                        "entity id": "Q7368",
+                        "label": "sheep"
+                    },
+                    {
+                        "entity id": "Q2934",
+                        "label": "goat"
+                    }
+                ]
+            ],
+            [
+                "cattle",
+                [
+                    "/wiki/Cattle"
+                ],
+                [
+                    {
+                        "entity id": "Q830",
+                        "label": "cattle"
+                    }
+                ]
+            ],
+            [
+                "chicken",
+                [
+                    "/wiki/Chicken"
+                ],
+                [
+                    {
+                        "entity id": "Q780",
+                        "label": "chicken"
+                    }
+                ]
+            ],
+            [
+                "pig",
+                [
+                    "/wiki/Pig"
+                ],
+                [
+                    {
+                        "entity id": "Q787",
+                        "label": "pig"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Fruit",
+                [
+                    "/wiki/Fruit"
+                ],
+                [
+                    {
+                        "entity id": "Q3314483",
+                        "label": "fruit"
+                    }
+                ]
+            ],
+            [
+                "plum",
+                [
+                    "/wiki/Plum"
+                ],
+                [
+                    {
+                        "entity id": "Q12372598",
+                        "label": "plum"
+                    }
+                ]
+            ],
+            [
+                "apricot",
+                [
+                    "/wiki/Apricot"
+                ],
+                [
+                    {
+                        "entity id": "Q37453",
+                        "label": "Prunus armeniaca"
+                    }
+                ]
+            ],
+            [
+                "jujube",
+                [
+                    "/wiki/Jujube"
+                ],
+                [
+                    {
+                        "entity id": "Q27650675",
+                        "label": "Zizyphi Fructus"
+                    }
+                ]
+            ],
+            [
+                "peach",
+                [
+                    "/wiki/Peach"
+                ],
+                [
+                    {
+                        "entity id": "Q13189",
+                        "label": "peach"
+                    }
+                ]
+            ],
+            [
+                "chestnut",
+                [
+                    "/wiki/Chestnut"
+                ],
+                [
+                    {
+                        "entity id": "Q1406070",
+                        "label": "chestnut"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Grain",
+                [
+                    "/wiki/Grain"
+                ],
+                [
+                    {
+                        "entity id": "Q2995529",
+                        "label": "grain"
+                    }
+                ]
+            ],
+            [
+                "wheat",
+                [
+                    "/wiki/Wheat"
+                ],
+                [
+                    {
+                        "entity id": "Q15645384",
+                        "label": "wheat"
+                    }
+                ]
+            ],
+            [
+                "beans",
+                [
+                    "/wiki/Beans"
+                ],
+                [
+                    {
+                        "entity id": "Q69488",
+                        "label": "MDMA"
+                    }
+                ]
+            ],
+            [
+                "rice",
+                [
+                    "/wiki/Rice"
+                ],
+                [
+                    {
+                        "entity id": "Q5090",
+                        "label": "rice"
+                    }
+                ]
+            ],
+            [
+                "hemp",
+                [
+                    "/wiki/Hemp"
+                ],
+                [
+                    {
+                        "entity id": "Q26726",
+                        "label": "Cannabis sativa"
+                    }
+                ]
+            ],
+            [
+                "millet",
+                [
+                    "/wiki/Millet"
+                ],
+                [
+                    {
+                        "entity id": "Q148458",
+                        "label": "Jean-Fran\u00e7ois Millet"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Theory of the Five Elements",
+    "section_text": "In traditional Chinese art and culture , black , red , qing ( \u9752 ) ( a conflation of the idea of green and blue ) , white and yellow are viewed as standard colors . These colors correspond to the five elements of water , fire , wood , metal and earth , taught in traditional Chinese physics . Throughout the Shang , Tang , Zhou and Qin dynasties , China 's emperors used the Theory of the Five Elements to select colors .",
+    "uid": "Color_in_Chinese_culture_0",
+    "intro": "Colour in Chinese culture refers to the certain values that Chinese culture attaches to colors, like which colors are considered auspicious (\u5409\u5229) or inauspicious (\u4e0d\u5229). The Chinese word for color is y\u00e1ns\u00e8 (\u984f\u8272). In Classical Chinese, the character s\u00e8 (\u8272) more accurately meant color in the face, or emotion. It was generally used alone and often implied sexual desire or desirability. During the Tang Dynasty, the word y\u00e1ns\u00e8 came to mean all color. A Chinese idiom which is used to describe many colors, W\u01d4y\u00e1nli\u00f9s\u00e8 (\u4e94\u989c\u516d\u8272), can also mean colors in general."
+}

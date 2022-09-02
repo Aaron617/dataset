@@ -1,0 +1,889 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Currencies_of_the_European_Union",
+    "title": "Currencies of the European Union",
+    "header": [
+        [
+            "Currency",
+            []
+        ],
+        [
+            "State",
+            [
+                "/wiki/Member_state_of_the_European_Union"
+            ],
+            [
+                {
+                    "entity id": "Q185441",
+                    "label": "member state of the European Union"
+                }
+            ]
+        ],
+        [
+            "Symbol",
+            [
+                "/wiki/Currency_sign"
+            ],
+            [
+                {
+                    "entity id": "Q308229",
+                    "label": "currency sign"
+                }
+            ]
+        ],
+        [
+            "ISO",
+            [
+                "/wiki/ISO_4217"
+            ],
+            [
+                {
+                    "entity id": "Q37431",
+                    "label": "ISO 4217"
+                }
+            ]
+        ],
+        [
+            "Completely Yielded on",
+            []
+        ],
+        [
+            "Rate to euro",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Austrian schilling",
+                [
+                    "/wiki/Austrian_schilling"
+                ],
+                [
+                    {
+                        "entity id": "Q208730",
+                        "label": "Austrian schilling"
+                    }
+                ]
+            ],
+            [
+                "Austria",
+                [
+                    "/wiki/Austria"
+                ],
+                [
+                    {
+                        "entity id": "Q40",
+                        "label": "Austria"
+                    }
+                ]
+            ],
+            [
+                "S or \u00f6S",
+                []
+            ],
+            [
+                "( ATS )",
+                []
+            ],
+            [
+                "1999/2002",
+                []
+            ],
+            [
+                "13.7603",
+                []
+            ]
+        ],
+        [
+            [
+                "Belgian franc",
+                [
+                    "/wiki/Belgian_franc"
+                ],
+                [
+                    {
+                        "entity id": "Q232415",
+                        "label": "Belgian franc"
+                    }
+                ]
+            ],
+            [
+                "Belgium",
+                [
+                    "/wiki/Belgium"
+                ],
+                [
+                    {
+                        "entity id": "Q31",
+                        "label": "Belgium"
+                    }
+                ]
+            ],
+            [
+                "fr",
+                []
+            ],
+            [
+                "( BEF )",
+                []
+            ],
+            [
+                "1999/2002",
+                []
+            ],
+            [
+                "40.3399",
+                []
+            ]
+        ],
+        [
+            [
+                "Cypriot pound",
+                [
+                    "/wiki/Cypriot_pound"
+                ],
+                [
+                    {
+                        "entity id": "Q193716",
+                        "label": "Cypriot pound"
+                    }
+                ]
+            ],
+            [
+                "Cyprus",
+                [
+                    "/wiki/Cyprus"
+                ],
+                [
+                    {
+                        "entity id": "Q229",
+                        "label": "Cyprus"
+                    }
+                ]
+            ],
+            [
+                "\u00a3",
+                []
+            ],
+            [
+                "( CYP )",
+                []
+            ],
+            [
+                "2008",
+                []
+            ],
+            [
+                "0.585274",
+                []
+            ]
+        ],
+        [
+            [
+                "Dutch guilder",
+                [
+                    "/wiki/Dutch_guilder"
+                ],
+                [
+                    {
+                        "entity id": "Q788472",
+                        "label": "Dutch guilder"
+                    }
+                ]
+            ],
+            [
+                "Netherlands",
+                [
+                    "/wiki/Netherlands"
+                ],
+                [
+                    {
+                        "entity id": "Q55",
+                        "label": "Netherlands"
+                    }
+                ]
+            ],
+            [
+                "\u0192 or fl",
+                []
+            ],
+            [
+                "( NLG )",
+                []
+            ],
+            [
+                "1999/2002",
+                []
+            ],
+            [
+                "2.20371",
+                []
+            ]
+        ],
+        [
+            [
+                "Estonian kroon",
+                [
+                    "/wiki/Estonian_kroon"
+                ],
+                [
+                    {
+                        "entity id": "Q129983",
+                        "label": "Estonian kroon"
+                    }
+                ]
+            ],
+            [
+                "Estonia",
+                [
+                    "/wiki/Estonia"
+                ],
+                [
+                    {
+                        "entity id": "Q191",
+                        "label": "Estonia"
+                    }
+                ]
+            ],
+            [
+                "Kr",
+                []
+            ],
+            [
+                "( EEK )",
+                []
+            ],
+            [
+                "2011",
+                []
+            ],
+            [
+                "15.6466",
+                []
+            ]
+        ],
+        [
+            [
+                "Finnish markka",
+                [
+                    "/wiki/Finnish_markka"
+                ],
+                [
+                    {
+                        "entity id": "Q203354",
+                        "label": "Finnish markka"
+                    }
+                ]
+            ],
+            [
+                "Finland",
+                [
+                    "/wiki/Finland"
+                ],
+                [
+                    {
+                        "entity id": "Q33",
+                        "label": "Finland"
+                    }
+                ]
+            ],
+            [
+                "mk",
+                []
+            ],
+            [
+                "( FIM )",
+                []
+            ],
+            [
+                "1999/2002",
+                []
+            ],
+            [
+                "5.94573",
+                []
+            ]
+        ],
+        [
+            [
+                "French franc",
+                [
+                    "/wiki/French_franc"
+                ],
+                [
+                    {
+                        "entity id": "Q184172",
+                        "label": "French franc"
+                    }
+                ]
+            ],
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "\u20a3 , F or FF",
+                []
+            ],
+            [
+                "( FRF )",
+                []
+            ],
+            [
+                "1999/2002",
+                []
+            ],
+            [
+                "6.55957",
+                []
+            ]
+        ],
+        [
+            [
+                "German mark",
+                [
+                    "/wiki/German_mark"
+                ],
+                [
+                    {
+                        "entity id": "Q16068",
+                        "label": "Deutsche Mark"
+                    }
+                ]
+            ],
+            [
+                "Germany",
+                [
+                    "/wiki/Germany"
+                ],
+                [
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    }
+                ]
+            ],
+            [
+                "DM",
+                []
+            ],
+            [
+                "( DEM )",
+                []
+            ],
+            [
+                "1999/2002",
+                []
+            ],
+            [
+                "1.95583",
+                []
+            ]
+        ],
+        [
+            [
+                "Greek drachma",
+                [
+                    "/wiki/Greek_drachma"
+                ],
+                [
+                    {
+                        "entity id": "Q1546443",
+                        "label": "Greek drachma"
+                    }
+                ]
+            ],
+            [
+                "Greece",
+                [
+                    "/wiki/Greece"
+                ],
+                [
+                    {
+                        "entity id": "Q41",
+                        "label": "Greece"
+                    }
+                ]
+            ],
+            [
+                "\u0394\u03c1\u03c7. , \u0394\u03c1 . or \u20af",
+                []
+            ],
+            [
+                "( GRD )",
+                []
+            ],
+            [
+                "2001/2002",
+                []
+            ],
+            [
+                "340.75",
+                []
+            ]
+        ],
+        [
+            [
+                "Irish pound",
+                [
+                    "/wiki/Irish_pound"
+                ],
+                [
+                    {
+                        "entity id": "Q270642",
+                        "label": "Irish pound"
+                    }
+                ]
+            ],
+            [
+                "Ireland",
+                [
+                    "/wiki/Republic_of_Ireland"
+                ],
+                [
+                    {
+                        "entity id": "Q27",
+                        "label": "Republic of Ireland"
+                    }
+                ]
+            ],
+            [
+                "\u00a3",
+                []
+            ],
+            [
+                "( IEP )",
+                []
+            ],
+            [
+                "1999/2002",
+                []
+            ],
+            [
+                "0.787564",
+                []
+            ]
+        ],
+        [
+            [
+                "Italian lira",
+                [
+                    "/wiki/Italian_lira"
+                ],
+                [
+                    {
+                        "entity id": "Q204992",
+                        "label": "Italian lira"
+                    }
+                ]
+            ],
+            [
+                "Italy",
+                [
+                    "/wiki/Italy"
+                ],
+                [
+                    {
+                        "entity id": "Q38",
+                        "label": "Italy"
+                    }
+                ]
+            ],
+            [
+                "\u20a4 , L. or LIT",
+                []
+            ],
+            [
+                "( ITL )",
+                []
+            ],
+            [
+                "1999/2002",
+                []
+            ],
+            [
+                "1,936.27",
+                []
+            ]
+        ],
+        [
+            [
+                "Latvian lats",
+                [
+                    "/wiki/Latvian_lats"
+                ],
+                [
+                    {
+                        "entity id": "Q133011",
+                        "label": "Latvian lats"
+                    }
+                ]
+            ],
+            [
+                "Latvia",
+                [
+                    "/wiki/Latvia"
+                ],
+                [
+                    {
+                        "entity id": "Q211",
+                        "label": "Latvia"
+                    }
+                ]
+            ],
+            [
+                "Ls",
+                []
+            ],
+            [
+                "( LVL )",
+                []
+            ],
+            [
+                "2014",
+                []
+            ],
+            [
+                "0.702804",
+                []
+            ]
+        ],
+        [
+            [
+                "Lithuanian litas",
+                [
+                    "/wiki/Lithuanian_litas"
+                ],
+                [
+                    {
+                        "entity id": "Q25627",
+                        "label": "Lithuanian litas"
+                    }
+                ]
+            ],
+            [
+                "Lithuania",
+                [
+                    "/wiki/Lithuania"
+                ],
+                [
+                    {
+                        "entity id": "Q37",
+                        "label": "Lithuania"
+                    }
+                ]
+            ],
+            [
+                "Lt",
+                []
+            ],
+            [
+                "( LTL )",
+                []
+            ],
+            [
+                "2015",
+                []
+            ],
+            [
+                "3.4528",
+                []
+            ]
+        ],
+        [
+            [
+                "Luxembourgian franc",
+                [
+                    "/wiki/Luxembourgian_franc"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Luxembourg",
+                [
+                    "/wiki/Luxembourg"
+                ],
+                [
+                    {
+                        "entity id": "Q32",
+                        "label": "Luxembourg"
+                    }
+                ]
+            ],
+            [
+                "fr . or F",
+                []
+            ],
+            [
+                "( LUF )",
+                []
+            ],
+            [
+                "1999/2002",
+                []
+            ],
+            [
+                "40.3399",
+                []
+            ]
+        ],
+        [
+            [
+                "Maltese lira",
+                [
+                    "/wiki/Maltese_lira"
+                ],
+                [
+                    {
+                        "entity id": "Q174467",
+                        "label": "Maltese lira"
+                    }
+                ]
+            ],
+            [
+                "Malta",
+                [
+                    "/wiki/Malta"
+                ],
+                [
+                    {
+                        "entity id": "Q233",
+                        "label": "Malta"
+                    }
+                ]
+            ],
+            [
+                "\u20a4 or Lm",
+                []
+            ],
+            [
+                "( MTL )",
+                []
+            ],
+            [
+                "2008",
+                []
+            ],
+            [
+                "0.4293",
+                []
+            ]
+        ],
+        [
+            [
+                "Portuguese escudo",
+                [
+                    "/wiki/Portuguese_escudo"
+                ],
+                [
+                    {
+                        "entity id": "Q468474",
+                        "label": "Portuguese escudo"
+                    }
+                ]
+            ],
+            [
+                "Portugal",
+                [
+                    "/wiki/Portugal"
+                ],
+                [
+                    {
+                        "entity id": "Q45",
+                        "label": "Portugal"
+                    }
+                ]
+            ],
+            [
+                "S \u2016 { \\displaystyle \\mathrm { S } \\ ! \\ ! \\ ! \\Vert } or $",
+                []
+            ],
+            [
+                "( PTE )",
+                []
+            ],
+            [
+                "1999/2002",
+                []
+            ],
+            [
+                "200.482",
+                []
+            ]
+        ],
+        [
+            [
+                "Slovak koruna",
+                [
+                    "/wiki/Slovak_koruna"
+                ],
+                [
+                    {
+                        "entity id": "Q178874",
+                        "label": "Slovak koruna"
+                    }
+                ]
+            ],
+            [
+                "Slovakia",
+                [
+                    "/wiki/Slovakia"
+                ],
+                [
+                    {
+                        "entity id": "Q214",
+                        "label": "Slovakia"
+                    }
+                ]
+            ],
+            [
+                "Sk",
+                []
+            ],
+            [
+                "( SKK )",
+                []
+            ],
+            [
+                "2009",
+                []
+            ],
+            [
+                "30.126",
+                []
+            ]
+        ],
+        [
+            [
+                "Slovenian tolar",
+                [
+                    "/wiki/Slovenian_tolar"
+                ],
+                [
+                    {
+                        "entity id": "Q208133",
+                        "label": "Slovenian tolar"
+                    }
+                ]
+            ],
+            [
+                "Slovenia",
+                [
+                    "/wiki/Slovenia"
+                ],
+                [
+                    {
+                        "entity id": "Q215",
+                        "label": "Slovenia"
+                    }
+                ]
+            ],
+            [
+                "SIT",
+                []
+            ],
+            [
+                "( SIT )",
+                []
+            ],
+            [
+                "2007",
+                []
+            ],
+            [
+                "239.64",
+                []
+            ]
+        ],
+        [
+            [
+                "Spanish peseta",
+                [
+                    "/wiki/Spanish_peseta"
+                ],
+                [
+                    {
+                        "entity id": "Q189097",
+                        "label": "peseta"
+                    }
+                ]
+            ],
+            [
+                "Spain",
+                [
+                    "/wiki/Spain"
+                ],
+                [
+                    {
+                        "entity id": "Q29",
+                        "label": "Spain"
+                    }
+                ]
+            ],
+            [
+                "\u20a7",
+                []
+            ],
+            [
+                "( ESP )",
+                []
+            ],
+            [
+                "1999/2002",
+                []
+            ],
+            [
+                "166.386",
+                []
+            ]
+        ],
+        [
+            [
+                "European Currency Unit",
+                [
+                    "/wiki/European_Currency_Unit"
+                ],
+                [
+                    {
+                        "entity id": "Q221828",
+                        "label": "European Currency Unit"
+                    }
+                ]
+            ],
+            [
+                "Accounting only",
+                []
+            ],
+            [
+                "\u20a0 , ECU or XEU",
+                []
+            ],
+            [
+                "( XEU )",
+                []
+            ],
+            [
+                "1999/2002",
+                []
+            ],
+            [
+                "1",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Historic currencies",
+    "section_text": "Further information : History of the euro",
+    "uid": "Currencies_of_the_European_Union_1",
+    "intro": "There are nine currencies of the European Union as of 2020[update] used officially by member states. The euro accounts for the majority of the member states with the remainder operating independent monetary policies. Those European Union states that have adopted it are known as the eurozone and share the European Central Bank (ECB). The ECB and the national central banks of all EU countries, including those who operate an independent currency, are part of the European System of Central Banks."
+}

@@ -1,0 +1,998 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_airlines_of_Ontario",
+    "title": "List of airlines of Ontario",
+    "header": [
+        [
+            "Airline",
+            []
+        ],
+        [
+            "ICAO",
+            [
+                "/wiki/Airline_codes"
+            ],
+            [
+                {
+                    "entity id": "Q741701",
+                    "label": "airline code"
+                }
+            ]
+        ],
+        [
+            "Callsign",
+            [
+                "/wiki/Call_sign"
+            ],
+            [
+                {
+                    "entity id": "Q353659",
+                    "label": "call sign"
+                }
+            ]
+        ],
+        [
+            "Hub Airport ( s ) or headquarters",
+            []
+        ],
+        [
+            "Notes",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Adler Aviation",
+                []
+            ],
+            [
+                "SWH",
+                []
+            ],
+            [
+                "SHOCKWAVE",
+                []
+            ],
+            [
+                "Waterloo",
+                [
+                    "/wiki/Region_of_Waterloo_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3912835",
+                        "label": "Region of Waterloo International Airport"
+                    }
+                ]
+            ],
+            [
+                "Charters , cargo , flight training",
+                [
+                    "/wiki/Air_charter",
+                    "/wiki/Cargo_airline",
+                    "/wiki/Flight_training"
+                ],
+                [
+                    {
+                        "entity id": "Q21074304",
+                        "label": "air charter"
+                    },
+                    {
+                        "entity id": "Q1057026",
+                        "label": "cargo airline"
+                    },
+                    {
+                        "entity id": "Q383695",
+                        "label": "flight training"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "AirExpress Ontario",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Ottawa Macdonald-Cartier , Chatham-Kent , Oshawa Municipal",
+                [
+                    "/wiki/Ottawa_Macdonald\u2013Cartier_International_Airport",
+                    "/wiki/Chatham-Kent_Airport",
+                    "/wiki/Oshawa_Airport"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q1708872",
+                        "label": "Chatham-Kent Airport"
+                    },
+                    {
+                        "entity id": "Q3913517",
+                        "label": "Oshawa Airport"
+                    }
+                ]
+            ],
+            [
+                "Charters",
+                [
+                    "/wiki/Air_charter"
+                ],
+                [
+                    {
+                        "entity id": "Q21074304",
+                        "label": "air charter"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Air Georgian",
+                [
+                    "/wiki/Air_Georgian"
+                ],
+                [
+                    {
+                        "entity id": "Q2071382",
+                        "label": "Air Georgian"
+                    }
+                ]
+            ],
+            [
+                "GGN",
+                []
+            ],
+            [
+                "GEORGIAN",
+                []
+            ],
+            [
+                "Toronto Pearson",
+                [
+                    "/wiki/Toronto_Pearson_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q242066",
+                        "label": "Toronto Pearson International Airport"
+                    }
+                ]
+            ],
+            [
+                "Regional , charters , cargo",
+                [
+                    "/wiki/Regional_airline",
+                    "/wiki/Air_charter",
+                    "/wiki/Cargo_airline"
+                ],
+                [
+                    {
+                        "entity id": "Q2440569",
+                        "label": "regional airline"
+                    },
+                    {
+                        "entity id": "Q21074304",
+                        "label": "air charter"
+                    },
+                    {
+                        "entity id": "Q1057026",
+                        "label": "cargo airline"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Bearskin Airlines",
+                [
+                    "/wiki/Bearskin_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q813036",
+                        "label": "Bearskin Airlines"
+                    }
+                ]
+            ],
+            [
+                "BLS",
+                []
+            ],
+            [
+                "BEARSKIN",
+                []
+            ],
+            [
+                "Sioux Lookout , Thunder Bay",
+                [
+                    "/wiki/Sioux_Lookout_Airport",
+                    "/wiki/Thunder_Bay_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1432862",
+                        "label": "Sioux Lookout Airport"
+                    },
+                    {
+                        "entity id": "Q2748239",
+                        "label": "Thunder Bay International Airport"
+                    }
+                ]
+            ],
+            [
+                "Regional , scheduled passenger service , charters",
+                [
+                    "/wiki/Regional_airline",
+                    "/wiki/Air_charter"
+                ],
+                [
+                    {
+                        "entity id": "Q2440569",
+                        "label": "regional airline"
+                    },
+                    {
+                        "entity id": "Q21074304",
+                        "label": "air charter"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Brock Air Services",
+                [
+                    "/wiki/Brock_Air_Services"
+                ],
+                [
+                    {
+                        "entity id": "Q4035457",
+                        "label": "Brock Air Services"
+                    }
+                ]
+            ],
+            [
+                "BRD",
+                []
+            ],
+            [
+                "BROCK AIR",
+                []
+            ],
+            [
+                "Kingston/Norman Rogers",
+                [
+                    "/wiki/Kingston/Norman_Rogers_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3274178",
+                        "label": "Kingston/Norman Rogers Airport"
+                    }
+                ]
+            ],
+            [
+                "Charters and MEDIVAC ( air ambulance )",
+                [
+                    "/wiki/Air_charter",
+                    "/wiki/Medical_evacuation",
+                    "/wiki/Air_ambulance"
+                ],
+                [
+                    {
+                        "entity id": "Q21074304",
+                        "label": "air charter"
+                    },
+                    {
+                        "entity id": "Q655177",
+                        "label": "medical evacuation"
+                    },
+                    {
+                        "entity id": "Q763256",
+                        "label": "air medical services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Cargojet",
+                [
+                    "/wiki/Cargojet"
+                ],
+                [
+                    {
+                        "entity id": "Q376186",
+                        "label": "Cargojet"
+                    }
+                ]
+            ],
+            [
+                "CJT",
+                []
+            ],
+            [
+                "CARGOJET",
+                []
+            ],
+            [
+                "John C. Munro Hamilton",
+                [
+                    "/wiki/John_C._Munro_Hamilton_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1431444",
+                        "label": "John C. Munro Hamilton International Airport"
+                    }
+                ]
+            ],
+            [
+                "Cargo",
+                [
+                    "/wiki/Cargo_airline"
+                ],
+                [
+                    {
+                        "entity id": "Q1057026",
+                        "label": "cargo airline"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "First Air",
+                [
+                    "/wiki/First_Air"
+                ],
+                [
+                    {
+                        "entity id": "Q1419271",
+                        "label": "First Air"
+                    }
+                ]
+            ],
+            [
+                "FAB",
+                []
+            ],
+            [
+                "FIRST AIR",
+                []
+            ],
+            [
+                "Yellowknife , Iqaluit",
+                [
+                    "/wiki/Yellowknife_Airport",
+                    "/wiki/Iqaluit_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2724008",
+                        "label": "Yellowknife Airport"
+                    },
+                    {
+                        "entity id": "Q2415100",
+                        "label": "Iqaluit Airport"
+                    }
+                ]
+            ],
+            [
+                "Scheduled passenger service , cargo , charters",
+                [
+                    "/wiki/Cargo_airline",
+                    "/wiki/Air_charter"
+                ],
+                [
+                    {
+                        "entity id": "Q1057026",
+                        "label": "cargo airline"
+                    },
+                    {
+                        "entity id": "Q21074304",
+                        "label": "air charter"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Flightexec",
+                []
+            ],
+            [
+                "FEX",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Buttonville , London",
+                [
+                    "/wiki/Buttonville_Municipal_Airport",
+                    "/wiki/London_International_Airport_(Ontario)"
+                ],
+                [
+                    {
+                        "entity id": "Q2928993",
+                        "label": "Buttonville Municipal Airport"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Charter airline , MEDIVAC ( air ambulance )",
+                [
+                    "/wiki/Charter_airline",
+                    "/wiki/Medical_evacuation",
+                    "/wiki/Air_ambulance"
+                ],
+                [
+                    {
+                        "entity id": "Q607958",
+                        "label": "charter airline"
+                    },
+                    {
+                        "entity id": "Q655177",
+                        "label": "medical evacuation"
+                    },
+                    {
+                        "entity id": "Q763256",
+                        "label": "air medical services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Helicopter Transport Services",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Carp",
+                [
+                    "/wiki/Carp_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1961538",
+                        "label": "Carp Airport"
+                    }
+                ]
+            ],
+            [
+                "Charters , MEDIVAC ( air ambulance ) , aerial firefighting",
+                [
+                    "/wiki/Air_charter",
+                    "/wiki/Medical_evacuation",
+                    "/wiki/Air_ambulance",
+                    "/wiki/Aerial_firefighting"
+                ],
+                [
+                    {
+                        "entity id": "Q21074304",
+                        "label": "air charter"
+                    },
+                    {
+                        "entity id": "Q655177",
+                        "label": "medical evacuation"
+                    },
+                    {
+                        "entity id": "Q763256",
+                        "label": "air medical services"
+                    },
+                    {
+                        "entity id": "Q15624835",
+                        "label": "aerial firefighting"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Nakina Air Service",
+                [
+                    "/wiki/Nakina_Air_Service"
+                ],
+                [
+                    {
+                        "entity id": "Q4045033",
+                        "label": "Nakina Air Service"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Nakina",
+                [
+                    "/wiki/Nakina_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3565733",
+                        "label": "Nakina Airport"
+                    }
+                ]
+            ],
+            [
+                "Floatplane charters",
+                [
+                    "/wiki/Floatplane",
+                    "/wiki/Air_charter"
+                ],
+                [
+                    {
+                        "entity id": "Q3119075",
+                        "label": "floatplane"
+                    },
+                    {
+                        "entity id": "Q21074304",
+                        "label": "air charter"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Ornge",
+                [
+                    "/wiki/Ornge"
+                ],
+                [
+                    {
+                        "entity id": "Q7103554",
+                        "label": "Ornge"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Thunder Bay , Sioux Lookout , Timmins/Victor M. Power",
+                [
+                    "/wiki/Thunder_Bay_International_Airport",
+                    "/wiki/Sioux_Lookout_Airport",
+                    "/wiki/Timmins/Victor_M._Power_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2748239",
+                        "label": "Thunder Bay International Airport"
+                    },
+                    {
+                        "entity id": "Q1432862",
+                        "label": "Sioux Lookout Airport"
+                    },
+                    {
+                        "entity id": "Q2235247",
+                        "label": "Timmins/Victor M. Power Airport"
+                    }
+                ]
+            ],
+            [
+                "Air ambulance",
+                []
+            ]
+        ],
+        [
+            [
+                "Porter Airlines",
+                [
+                    "/wiki/Porter_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q1811473",
+                        "label": "Porter Airlines"
+                    }
+                ]
+            ],
+            [
+                "POE",
+                []
+            ],
+            [
+                "PORTER AIR",
+                []
+            ],
+            [
+                "Billy Bishop Toronto",
+                [
+                    "/wiki/Billy_Bishop_Toronto_City_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q117708",
+                        "label": "Billy Bishop Toronto City Airport"
+                    }
+                ]
+            ],
+            [
+                "Regional airline",
+                [
+                    "/wiki/Regional_airline"
+                ],
+                [
+                    {
+                        "entity id": "Q2440569",
+                        "label": "regional airline"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SkyLink Aviation",
+                [
+                    "/wiki/SkyLink_Aviation"
+                ],
+                [
+                    {
+                        "entity id": "Q2651080",
+                        "label": "SkyLink Aviation"
+                    }
+                ]
+            ],
+            [
+                "SKK",
+                []
+            ],
+            [
+                "SKYLINK",
+                []
+            ],
+            [
+                "Toronto Pearson",
+                [
+                    "/wiki/Toronto_Pearson_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q242066",
+                        "label": "Toronto Pearson International Airport"
+                    }
+                ]
+            ],
+            [
+                "Charters , cargo",
+                [
+                    "/wiki/Air_charter",
+                    "/wiki/Cargo_airline"
+                ],
+                [
+                    {
+                        "entity id": "Q21074304",
+                        "label": "air charter"
+                    },
+                    {
+                        "entity id": "Q1057026",
+                        "label": "cargo airline"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SkyLink Express",
+                [
+                    "/wiki/SkyLink_Express"
+                ],
+                [
+                    {
+                        "entity id": "Q7537182",
+                        "label": "SkyLink Express"
+                    }
+                ]
+            ],
+            [
+                "SLQ",
+                []
+            ],
+            [
+                "SKYLINK",
+                []
+            ],
+            [
+                "Toronto Pearson",
+                [
+                    "/wiki/Toronto_Pearson_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q242066",
+                        "label": "Toronto Pearson International Airport"
+                    }
+                ]
+            ],
+            [
+                "Charters , cargo",
+                [
+                    "/wiki/Air_charter",
+                    "/wiki/Cargo_airline"
+                ],
+                [
+                    {
+                        "entity id": "Q21074304",
+                        "label": "air charter"
+                    },
+                    {
+                        "entity id": "Q1057026",
+                        "label": "cargo airline"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Stanton Airways",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Orillia/Lake St John",
+                [
+                    "/wiki/Orillia/Lake_St_John_Water_Aerodrome"
+                ],
+                [
+                    {
+                        "entity id": "Q3912977",
+                        "label": "Orillia/Lake St John Water Aerodrome"
+                    }
+                ]
+            ],
+            [
+                "Floatplanes , charters and fly-in fishing camps",
+                [
+                    "/wiki/Floatplane",
+                    "/wiki/Air_charter"
+                ],
+                [
+                    {
+                        "entity id": "Q3119075",
+                        "label": "floatplane"
+                    },
+                    {
+                        "entity id": "Q21074304",
+                        "label": "air charter"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Superior Airways",
+                [
+                    "/wiki/Superior_Airways"
+                ],
+                [
+                    {
+                        "entity id": "Q4050409",
+                        "label": "Superior Airways"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Red Lake",
+                [
+                    "/wiki/Red_Lake_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3912791",
+                        "label": "Red Lake Airport"
+                    }
+                ]
+            ],
+            [
+                "Charters",
+                [
+                    "/wiki/Air_charter"
+                ],
+                [
+                    {
+                        "entity id": "Q21074304",
+                        "label": "air charter"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Thunder Airlines",
+                [
+                    "/wiki/Thunder_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q4051458",
+                        "label": "Thunder Airlines"
+                    }
+                ]
+            ],
+            [
+                "THU",
+                []
+            ],
+            [
+                "AIR THUNDER",
+                []
+            ],
+            [
+                "Thunder Bay",
+                [
+                    "/wiki/Thunder_Bay_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2748239",
+                        "label": "Thunder Bay International Airport"
+                    }
+                ]
+            ],
+            [
+                "Scheduled passenger service , charters",
+                [
+                    "/wiki/Air_charter"
+                ],
+                [
+                    {
+                        "entity id": "Q21074304",
+                        "label": "air charter"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Voyageur Airways",
+                [
+                    "/wiki/Voyageur_Airways"
+                ],
+                [
+                    {
+                        "entity id": "Q4052803",
+                        "label": "Voyageur Airways"
+                    }
+                ]
+            ],
+            [
+                "VAL",
+                []
+            ],
+            [
+                "VOYAGEUR",
+                []
+            ],
+            [
+                "North Bay/Jack Garland",
+                [
+                    "/wiki/North_Bay/Jack_Garland_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3497025",
+                        "label": "North Bay/Jack Garland Airport"
+                    }
+                ]
+            ],
+            [
+                "Charters , MEDIVAC ( air ambulance )",
+                [
+                    "/wiki/Air_charter",
+                    "/wiki/Medical_evacuation",
+                    "/wiki/Air_ambulance"
+                ],
+                [
+                    {
+                        "entity id": "Q21074304",
+                        "label": "air charter"
+                    },
+                    {
+                        "entity id": "Q655177",
+                        "label": "medical evacuation"
+                    },
+                    {
+                        "entity id": "Q763256",
+                        "label": "air medical services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Wasaya Airways",
+                [
+                    "/wiki/Wasaya_Airways"
+                ],
+                [
+                    {
+                        "entity id": "Q2550235",
+                        "label": "Wasaya Airways"
+                    }
+                ]
+            ],
+            [
+                "WSG",
+                []
+            ],
+            [
+                "WASAYA",
+                []
+            ],
+            [
+                "Thunder Bay",
+                [
+                    "/wiki/Thunder_Bay_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2748239",
+                        "label": "Thunder Bay International Airport"
+                    }
+                ]
+            ],
+            [
+                "Scheduled passenger service , charters",
+                [
+                    "/wiki/Air_charter"
+                ],
+                [
+                    {
+                        "entity id": "Q21074304",
+                        "label": "air charter"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Current airlines",
+    "section_text": "",
+    "uid": "List_of_airlines_of_Ontario_0",
+    "intro": "This is a list of airlines that are based in Ontario which have an Air Operator's Certificate issued by Transport Canada, the country's civil aviation authority."
+}

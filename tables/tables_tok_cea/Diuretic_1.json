@@ -1,0 +1,489 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Diuretic",
+    "title": "Diuretic",
+    "header": [
+        [
+            "Adverse effect",
+            [
+                "/wiki/Adverse_effect"
+            ],
+            [
+                {
+                    "entity id": "Q2047938",
+                    "label": "adverse effect"
+                }
+            ]
+        ],
+        [
+            "Diuretics",
+            []
+        ],
+        [
+            "Symptoms",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "hypovolemia",
+                [
+                    "/wiki/Hypovolemia"
+                ],
+                [
+                    {
+                        "entity id": "Q1320276",
+                        "label": "hypovolemia"
+                    }
+                ]
+            ],
+            [
+                "loop diuretics thiazides",
+                [
+                    "/wiki/Loop_diuretic",
+                    "/wiki/Thiazide"
+                ],
+                [
+                    {
+                        "entity id": "Q424280",
+                        "label": "Loop diuretic"
+                    },
+                    {
+                        "entity id": "Q665843",
+                        "label": "thiazide"
+                    }
+                ]
+            ],
+            [
+                "lassitude thirst muscle cramps hypotension",
+                [
+                    "/wiki/Lassitude",
+                    "/wiki/Thirst",
+                    "/wiki/Muscle_cramps",
+                    "/wiki/Hypotension"
+                ],
+                [
+                    {
+                        "entity id": "Q15729017",
+                        "label": "fatigue"
+                    },
+                    {
+                        "entity id": "Q474187",
+                        "label": "thirst"
+                    },
+                    {
+                        "entity id": "Q34419913",
+                        "label": "Muscle cramps"
+                    },
+                    {
+                        "entity id": "Q275419",
+                        "label": "hypotension"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "hypokalemia",
+                [
+                    "/wiki/Hypokalemia"
+                ],
+                [
+                    {
+                        "entity id": "Q794086",
+                        "label": "hypokalemia"
+                    }
+                ]
+            ],
+            [
+                "acetazolamides loop diuretics thiazides",
+                [
+                    "/wiki/Acetazolamide",
+                    "/wiki/Loop_diuretic",
+                    "/wiki/Thiazide"
+                ],
+                [
+                    {
+                        "entity id": "Q413690",
+                        "label": "acetazolamide"
+                    },
+                    {
+                        "entity id": "Q424280",
+                        "label": "Loop diuretic"
+                    },
+                    {
+                        "entity id": "Q665843",
+                        "label": "thiazide"
+                    }
+                ]
+            ],
+            [
+                "muscle weakness paralysis arrhythmia",
+                [
+                    "/wiki/Muscle_weakness",
+                    "/wiki/Paralysis",
+                    "/wiki/Heart_arrhythmia"
+                ],
+                [
+                    {
+                        "entity id": "Q270421",
+                        "label": "muscle weakness"
+                    },
+                    {
+                        "entity id": "Q107231",
+                        "label": "paralysis"
+                    },
+                    {
+                        "entity id": "Q189331",
+                        "label": "heart arrhythmia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "hyperkalemia",
+                [
+                    "/wiki/Hyperkalemia"
+                ],
+                [
+                    {
+                        "entity id": "Q605259",
+                        "label": "hyperkalemia"
+                    }
+                ]
+            ],
+            [
+                "amilorides triamterenes spironolactone",
+                [
+                    "/wiki/Amiloride",
+                    "/wiki/Triamterene",
+                    "/wiki/Spironolactone"
+                ],
+                [
+                    {
+                        "entity id": "Q419995",
+                        "label": "amiloride"
+                    },
+                    {
+                        "entity id": "Q221520",
+                        "label": "triamterene"
+                    },
+                    {
+                        "entity id": "Q422188",
+                        "label": "spironolactone"
+                    }
+                ]
+            ],
+            [
+                "arrhythmia muscle cramps paralysis",
+                [
+                    "/wiki/Heart_arrhythmia",
+                    "/wiki/Muscle_cramp",
+                    "/wiki/Paralysis"
+                ],
+                [
+                    {
+                        "entity id": "Q189331",
+                        "label": "heart arrhythmia"
+                    },
+                    {
+                        "entity id": "Q2006818",
+                        "label": "cramp"
+                    },
+                    {
+                        "entity id": "Q107231",
+                        "label": "paralysis"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "hyponatremia",
+                [
+                    "/wiki/Hyponatremia"
+                ],
+                [
+                    {
+                        "entity id": "Q824292",
+                        "label": "hyponatremia"
+                    }
+                ]
+            ],
+            [
+                "thiazides furosemides",
+                [
+                    "/wiki/Thiazide",
+                    "/wiki/Furosemide"
+                ],
+                [
+                    {
+                        "entity id": "Q665843",
+                        "label": "thiazide"
+                    },
+                    {
+                        "entity id": "Q388801",
+                        "label": "furosemide"
+                    }
+                ]
+            ],
+            [
+                "CNS symptoms coma",
+                [
+                    "/wiki/Coma"
+                ],
+                [
+                    {
+                        "entity id": "Q159557",
+                        "label": "coma"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "metabolic alkalosis",
+                [
+                    "/wiki/Metabolic_alkalosis"
+                ],
+                [
+                    {
+                        "entity id": "Q1428362",
+                        "label": "metabolic alkalosis"
+                    }
+                ]
+            ],
+            [
+                "loop diuretics thiazides",
+                [
+                    "/wiki/Loop_diuretic",
+                    "/wiki/Thiazide"
+                ],
+                [
+                    {
+                        "entity id": "Q424280",
+                        "label": "Loop diuretic"
+                    },
+                    {
+                        "entity id": "Q665843",
+                        "label": "thiazide"
+                    }
+                ]
+            ],
+            [
+                "arrhythmia CNS symptoms",
+                [
+                    "/wiki/Heart_arrhythmia"
+                ],
+                [
+                    {
+                        "entity id": "Q189331",
+                        "label": "heart arrhythmia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "metabolic acidosis",
+                [
+                    "/wiki/Metabolic_acidosis"
+                ],
+                [
+                    {
+                        "entity id": "Q1598200",
+                        "label": "metabolic acidosis"
+                    }
+                ]
+            ],
+            [
+                "acetazolamides amilorides triamterene",
+                [
+                    "/wiki/Acetazolamide",
+                    "/wiki/Amiloride",
+                    "/wiki/Triamterene"
+                ],
+                [
+                    {
+                        "entity id": "Q413690",
+                        "label": "acetazolamide"
+                    },
+                    {
+                        "entity id": "Q419995",
+                        "label": "amiloride"
+                    },
+                    {
+                        "entity id": "Q221520",
+                        "label": "triamterene"
+                    }
+                ]
+            ],
+            [
+                "Kussmaul respirations muscle weakness neurological symptoms lethargy coma seizures stupor",
+                [
+                    "/wiki/Kussmaul_respirations",
+                    "/wiki/Muscle_weakness",
+                    "/wiki/Neurological_symptoms",
+                    "/wiki/Lethargy",
+                    "/wiki/Coma",
+                    "/wiki/Seizures",
+                    "/wiki/Stupor"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q270421",
+                        "label": "muscle weakness"
+                    },
+                    {
+                        "entity id": "Q24631200",
+                        "label": "Neurological symptoms and neuropathological antibodies in poultry workers exposed to Campylobacter jejeuni"
+                    },
+                    {
+                        "entity id": "Q9690",
+                        "label": "fatigue"
+                    },
+                    {
+                        "entity id": "Q159557",
+                        "label": "coma"
+                    },
+                    {
+                        "entity id": "Q852376",
+                        "label": "convulsion"
+                    },
+                    {
+                        "entity id": "Q268594",
+                        "label": "stupor"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "hypercalcemia",
+                [
+                    "/wiki/Hypercalcemia"
+                ],
+                [
+                    {
+                        "entity id": "Q1474877",
+                        "label": "hypercalcemia"
+                    }
+                ]
+            ],
+            [
+                "thiazides",
+                [
+                    "/wiki/Thiazide"
+                ],
+                [
+                    {
+                        "entity id": "Q665843",
+                        "label": "thiazide"
+                    }
+                ]
+            ],
+            [
+                "gout tissue calcification fatigue depression confusion anorexia nausea vomiting constipation pancreatitis increased urination",
+                [
+                    "/wiki/Gout",
+                    "/wiki/Calcification",
+                    "/wiki/Fatigue_(medical)",
+                    "/wiki/Depression_(mood)",
+                    "/wiki/Confusion",
+                    "/wiki/Anorexia_(symptom)",
+                    "/wiki/Nausea",
+                    "/wiki/Vomiting",
+                    "/wiki/Constipation",
+                    "/wiki/Pancreatitis",
+                    "/wiki/Increased_urination"
+                ],
+                [
+                    {
+                        "entity id": "Q133087",
+                        "label": "gout"
+                    },
+                    {
+                        "entity id": "Q933382",
+                        "label": "calcification"
+                    },
+                    {},
+                    {},
+                    {
+                        "entity id": "Q557945",
+                        "label": "mental confusion"
+                    },
+                    {},
+                    {
+                        "entity id": "Q186889",
+                        "label": "nausea"
+                    },
+                    {
+                        "entity id": "Q127076",
+                        "label": "vomiting"
+                    },
+                    {
+                        "entity id": "Q178436",
+                        "label": "constipation"
+                    },
+                    {
+                        "entity id": "Q1527888",
+                        "label": "pancreatitis"
+                    },
+                    {
+                        "entity id": "Q43325515",
+                        "label": "Increased urination following p-chloroamphetamine."
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "hyperuricemia",
+                [
+                    "/wiki/Hyperuricemia"
+                ],
+                [
+                    {
+                        "entity id": "Q49970",
+                        "label": "hyperuricemia"
+                    }
+                ]
+            ],
+            [
+                "thiazides loop diuretics",
+                [
+                    "/wiki/Thiazide",
+                    "/wiki/Loop_diuretic"
+                ],
+                [
+                    {
+                        "entity id": "Q665843",
+                        "label": "thiazide"
+                    },
+                    {
+                        "entity id": "Q424280",
+                        "label": "Loop diuretic"
+                    }
+                ]
+            ],
+            [
+                "gout",
+                [
+                    "/wiki/Gout"
+                ],
+                [
+                    {
+                        "entity id": "Q133087",
+                        "label": "gout"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Adverse effects",
+    "section_text": "The main adverse effects of diuretics are hypovolemia , hypokalemia , hyperkalemia , hyponatremia , metabolic alkalosis , metabolic acidosis , and hyperuricemia . [ 16 ]",
+    "uid": "Diuretic_1",
+    "intro": "A diuretic (/\u02ccda\u026aj\u028a\u02c8r\u025bt\u026ak/) is any substance that promotes diuresis, the increased production of urine. This includes forced diuresis. There are several categories of diuretics. All diuretics increase the excretion of water from bodies, although each class does so in a distinct way. Alternatively, an antidiuretic, such as vasopressin (antidiuretic hormone), is an agent or drug which reduces the excretion of water in urine."
+}

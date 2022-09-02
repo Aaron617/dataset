@@ -1,0 +1,963 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Fortune_Global_500",
+    "title": "Fortune Global 500",
+    "header": [
+        [
+            "Sector",
+            []
+        ],
+        [
+            "Company",
+            []
+        ],
+        [
+            "Headquarters",
+            []
+        ],
+        [
+            "Overall rank",
+            []
+        ],
+        [
+            "Revenues ( $ M )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Aerospace & Defense",
+                [
+                    "/wiki/Aerospace_manufacturer",
+                    "/wiki/Arms_industry"
+                ],
+                [
+                    {
+                        "entity id": "Q936518",
+                        "label": "aerospace manufacturer"
+                    },
+                    {
+                        "entity id": "Q392933",
+                        "label": "arms industry"
+                    }
+                ]
+            ],
+            [
+                "Boeing",
+                [
+                    "/wiki/Boeing"
+                ],
+                [
+                    {
+                        "entity id": "Q66",
+                        "label": "Boeing"
+                    }
+                ]
+            ],
+            [
+                "Chicago",
+                [
+                    "/wiki/Chicago"
+                ],
+                [
+                    {
+                        "entity id": "Q1297",
+                        "label": "Chicago"
+                    }
+                ]
+            ],
+            [
+                "0060 # 68",
+                []
+            ],
+            [
+                "101,127",
+                []
+            ]
+        ],
+        [
+            [
+                "Apparel",
+                [
+                    "/wiki/Apparel"
+                ],
+                [
+                    {
+                        "entity id": "Q11460",
+                        "label": "clothing"
+                    }
+                ]
+            ],
+            [
+                "Christian Dior",
+                [
+                    "/wiki/Christian_Dior_SE"
+                ],
+                [
+                    {
+                        "entity id": "Q542767",
+                        "label": "Christian Dior"
+                    }
+                ]
+            ],
+            [
+                "Paris",
+                [
+                    "/wiki/Paris"
+                ],
+                [
+                    {
+                        "entity id": "Q90",
+                        "label": "Paris"
+                    }
+                ]
+            ],
+            [
+                "0234 # 187",
+                []
+            ],
+            [
+                "55,263",
+                []
+            ]
+        ],
+        [
+            [
+                "Business services",
+                [
+                    "/wiki/Corporate_services"
+                ],
+                [
+                    {
+                        "entity id": "Q5172491",
+                        "label": "corporate services"
+                    }
+                ]
+            ],
+            [
+                "Compass Group",
+                [
+                    "/wiki/Compass_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q782697",
+                        "label": "Compass Group"
+                    }
+                ]
+            ],
+            [
+                "Chertsey",
+                [
+                    "/wiki/Chertsey"
+                ],
+                [
+                    {
+                        "entity id": "Q1070428",
+                        "label": "Chertsey"
+                    }
+                ]
+            ],
+            [
+                "0434 # 403",
+                []
+            ],
+            [
+                "30,879",
+                []
+            ]
+        ],
+        [
+            [
+                "Chemicals",
+                [
+                    "/wiki/Chemicals"
+                ],
+                [
+                    {
+                        "entity id": "Q79529",
+                        "label": "chemical substance"
+                    }
+                ]
+            ],
+            [
+                "DuPont",
+                [
+                    "/wiki/DuPont"
+                ],
+                [
+                    {
+                        "entity id": "Q221062",
+                        "label": "DuPont"
+                    }
+                ]
+            ],
+            [
+                "Midland",
+                [
+                    "/wiki/Midland,_Michigan"
+                ],
+                [
+                    {
+                        "entity id": "Q1005953",
+                        "label": "Midland"
+                    }
+                ]
+            ],
+            [
+                "0126 # 100",
+                []
+            ],
+            [
+                "85,977",
+                []
+            ]
+        ],
+        [
+            [
+                "Energy",
+                [
+                    "/wiki/Energy"
+                ],
+                [
+                    {
+                        "entity id": "Q11379",
+                        "label": "energy"
+                    }
+                ]
+            ],
+            [
+                "Sinopec Group",
+                [
+                    "/wiki/China_Petrochemical_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q2634317",
+                        "label": "China Petrochemical Corporation"
+                    }
+                ]
+            ],
+            [
+                "Beijing",
+                [
+                    "/wiki/Beijing"
+                ],
+                [
+                    {
+                        "entity id": "Q956",
+                        "label": "Beijing"
+                    }
+                ]
+            ],
+            [
+                "0002 # 2",
+                []
+            ],
+            [
+                "414,650",
+                []
+            ]
+        ],
+        [
+            [
+                "Engineering & Construction",
+                [
+                    "/wiki/Engineering",
+                    "/wiki/Construction"
+                ],
+                [
+                    {
+                        "entity id": "Q11023",
+                        "label": "engineering"
+                    },
+                    {
+                        "entity id": "Q385378",
+                        "label": "construction"
+                    }
+                ]
+            ],
+            [
+                "China State Construction Engineering",
+                [
+                    "/wiki/China_State_Construction_Engineering"
+                ],
+                [
+                    {
+                        "entity id": "Q1073519",
+                        "label": "China State Construction Engineering Corporation"
+                    }
+                ]
+            ],
+            [
+                "Beijing",
+                [
+                    "/wiki/Beijing"
+                ],
+                [
+                    {
+                        "entity id": "Q956",
+                        "label": "Beijing"
+                    }
+                ]
+            ],
+            [
+                "0024 # 21",
+                []
+            ],
+            [
+                "181,525",
+                []
+            ]
+        ],
+        [
+            [
+                "Financials",
+                [
+                    "/wiki/Financials"
+                ],
+                [
+                    {
+                        "entity id": "Q103890016",
+                        "label": "organization's financials"
+                    }
+                ]
+            ],
+            [
+                "Berkshire Hathaway",
+                [
+                    "/wiki/Berkshire_Hathaway"
+                ],
+                [
+                    {
+                        "entity id": "Q217583",
+                        "label": "Berkshire Hathaway"
+                    }
+                ]
+            ],
+            [
+                "Omaha",
+                [
+                    "/wiki/Omaha,_Nebraska"
+                ],
+                [
+                    {
+                        "entity id": "Q43199",
+                        "label": "Omaha"
+                    }
+                ]
+            ],
+            [
+                "0008 # 12",
+                []
+            ],
+            [
+                "247,837",
+                []
+            ]
+        ],
+        [
+            [
+                "Food & Drug Stores",
+                [
+                    "/wiki/Food",
+                    "/wiki/Pharmacy_(shop)"
+                ],
+                [
+                    {
+                        "entity id": "Q2095",
+                        "label": "food"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Walgreens Boots Alliance",
+                [
+                    "/wiki/Walgreens_Boots_Alliance"
+                ],
+                [
+                    {
+                        "entity id": "Q18712620",
+                        "label": "Walgreens Boots Alliance"
+                    }
+                ]
+            ],
+            [
+                "Deerfield",
+                [
+                    "/wiki/Deerfield,_Illinois"
+                ],
+                [
+                    {
+                        "entity id": "Q287895",
+                        "label": "Deerfield"
+                    }
+                ]
+            ],
+            [
+                "0037 # 40",
+                []
+            ],
+            [
+                "131,537",
+                []
+            ]
+        ],
+        [
+            [
+                "Food , Beverages & Tobacco",
+                [
+                    "/wiki/Food",
+                    "/wiki/Beverages",
+                    "/wiki/Tobacco"
+                ],
+                [
+                    {
+                        "entity id": "Q2095",
+                        "label": "food"
+                    },
+                    {
+                        "entity id": "Q40050",
+                        "label": "drink"
+                    },
+                    {
+                        "entity id": "Q181095",
+                        "label": "Nicotiana tabacum"
+                    }
+                ]
+            ],
+            [
+                "Nestl\u00e9",
+                [
+                    "/wiki/Nestl\u00e9"
+                ],
+                [
+                    {
+                        "entity id": "Q160746",
+                        "label": "Nestl\u00e9"
+                    }
+                ]
+            ],
+            [
+                "Vevey",
+                [
+                    "/wiki/Vevey"
+                ],
+                [
+                    {
+                        "entity id": "Q68160",
+                        "label": "Vevey"
+                    }
+                ]
+            ],
+            [
+                "0064 # 76",
+                []
+            ],
+            [
+                "93,513",
+                []
+            ]
+        ],
+        [
+            [
+                "Health Care",
+                [
+                    "/wiki/Health_Care"
+                ],
+                [
+                    {
+                        "entity id": "Q31207",
+                        "label": "health care"
+                    }
+                ]
+            ],
+            [
+                "UnitedHealth Group",
+                [
+                    "/wiki/UnitedHealth_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q2103926",
+                        "label": "UnitedHealth Group"
+                    }
+                ]
+            ],
+            [
+                "Minnetonka",
+                [
+                    "/wiki/Minnetonka,_Minnesota"
+                ],
+                [
+                    {
+                        "entity id": "Q923384",
+                        "label": "Minnetonka"
+                    }
+                ]
+            ],
+            [
+                "0013 # 14",
+                []
+            ],
+            [
+                "226,247",
+                []
+            ]
+        ],
+        [
+            [
+                "Household Products",
+                [
+                    "/wiki/Household_chemicals"
+                ],
+                [
+                    {
+                        "entity id": "Q3564138",
+                        "label": "household chemicals"
+                    }
+                ]
+            ],
+            [
+                "Procter & Gamble",
+                [
+                    "/wiki/Procter_&_Gamble"
+                ],
+                [
+                    {
+                        "entity id": "Q212405",
+                        "label": "Procter & Gamble"
+                    }
+                ]
+            ],
+            [
+                "Cincinnati",
+                [
+                    "/wiki/Cincinnati"
+                ],
+                [
+                    {
+                        "entity id": "Q43196",
+                        "label": "Cincinnati"
+                    }
+                ]
+            ],
+            [
+                "0098 # 146",
+                []
+            ],
+            [
+                "66,832",
+                []
+            ]
+        ],
+        [
+            [
+                "Industrials",
+                [
+                    "/wiki/Industrials"
+                ],
+                [
+                    {
+                        "entity id": "Q56699890",
+                        "label": "INDUSTRIALSYMBIOSIS: Literature and Taxonomy"
+                    }
+                ]
+            ],
+            [
+                "General Electric",
+                [
+                    "/wiki/General_Electric"
+                ],
+                [
+                    {
+                        "entity id": "Q54173",
+                        "label": "General Electric"
+                    }
+                ]
+            ],
+            [
+                "Boston",
+                [
+                    "/wiki/Boston"
+                ],
+                [
+                    {
+                        "entity id": "Q100",
+                        "label": "Boston"
+                    }
+                ]
+            ],
+            [
+                "0031 # 48",
+                []
+            ],
+            [
+                "120,268",
+                []
+            ]
+        ],
+        [
+            [
+                "Materials",
+                [
+                    "/wiki/Materials"
+                ],
+                [
+                    {
+                        "entity id": "Q214609",
+                        "label": "material"
+                    }
+                ]
+            ],
+            [
+                "China Minmetals",
+                [
+                    "/wiki/China_Minmetals"
+                ],
+                [
+                    {
+                        "entity id": "Q846839",
+                        "label": "China Minmetals"
+                    }
+                ]
+            ],
+            [
+                "Beijing",
+                [
+                    "/wiki/Beijing"
+                ],
+                [
+                    {
+                        "entity id": "Q956",
+                        "label": "Beijing"
+                    }
+                ]
+            ],
+            [
+                "0120 # 112",
+                []
+            ],
+            [
+                "80,076",
+                []
+            ]
+        ],
+        [
+            [
+                "Media",
+                [
+                    "/wiki/Media_(communication)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Walt Disney",
+                [
+                    "/wiki/The_Walt_Disney_Company"
+                ],
+                [
+                    {
+                        "entity id": "Q7414",
+                        "label": "The Walt Disney Company"
+                    }
+                ]
+            ],
+            [
+                "Burbank",
+                [
+                    "/wiki/Burbank,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q39561",
+                        "label": "Burbank"
+                    }
+                ]
+            ],
+            [
+                "0161 # 170",
+                []
+            ],
+            [
+                "59,434",
+                []
+            ]
+        ],
+        [
+            [
+                "Motor Vehicles & Parts",
+                [
+                    "/wiki/Automotive_industry"
+                ],
+                [
+                    {
+                        "entity id": "Q190117",
+                        "label": "automotive industry"
+                    }
+                ]
+            ],
+            [
+                "Volkswagen",
+                [
+                    "/wiki/Volkswagen"
+                ],
+                [
+                    {
+                        "entity id": "Q246",
+                        "label": "Volkswagen"
+                    }
+                ]
+            ],
+            [
+                "Wolfsburg",
+                [
+                    "/wiki/Wolfsburg"
+                ],
+                [
+                    {
+                        "entity id": "Q3014",
+                        "label": "Wolfsburg"
+                    }
+                ]
+            ],
+            [
+                "0005 # 9",
+                []
+            ],
+            [
+                "278,342",
+                []
+            ]
+        ],
+        [
+            [
+                "Retailing",
+                [
+                    "/wiki/Retailing"
+                ],
+                [
+                    {
+                        "entity id": "Q126793",
+                        "label": "retail"
+                    }
+                ]
+            ],
+            [
+                "Walmart",
+                [
+                    "/wiki/Walmart"
+                ],
+                [
+                    {
+                        "entity id": "Q483551",
+                        "label": "Walmart"
+                    }
+                ]
+            ],
+            [
+                "Bentonville",
+                [
+                    "/wiki/Bentonville,_Arkansas"
+                ],
+                [
+                    {
+                        "entity id": "Q818364",
+                        "label": "Bentonville"
+                    }
+                ]
+            ],
+            [
+                "0001 # 1",
+                []
+            ],
+            [
+                "514,405",
+                []
+            ]
+        ],
+        [
+            [
+                "Technology",
+                [
+                    "/wiki/Technology"
+                ],
+                [
+                    {
+                        "entity id": "Q11016",
+                        "label": "technology"
+                    }
+                ]
+            ],
+            [
+                "Apple",
+                [
+                    "/wiki/Apple_Inc."
+                ],
+                [
+                    {
+                        "entity id": "Q312",
+                        "label": "Apple Inc."
+                    }
+                ]
+            ],
+            [
+                "Cupertino",
+                [
+                    "/wiki/Cupertino,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q189471",
+                        "label": "Cupertino"
+                    }
+                ]
+            ],
+            [
+                "0009 # 11",
+                []
+            ],
+            [
+                "265,595",
+                []
+            ]
+        ],
+        [
+            [
+                "Telecommunications",
+                [
+                    "/wiki/Telecommunications"
+                ],
+                [
+                    {
+                        "entity id": "Q25245117",
+                        "label": "telecommunications"
+                    }
+                ]
+            ],
+            [
+                "AT & T",
+                [
+                    "/wiki/AT&T"
+                ],
+                [
+                    {
+                        "entity id": "Q35476",
+                        "label": "AT&T"
+                    }
+                ]
+            ],
+            [
+                "Dallas",
+                [
+                    "/wiki/Dallas"
+                ],
+                [
+                    {
+                        "entity id": "Q16557",
+                        "label": "Dallas"
+                    }
+                ]
+            ],
+            [
+                "0019 # 25",
+                []
+            ],
+            [
+                "170,756",
+                []
+            ]
+        ],
+        [
+            [
+                "Transportation",
+                [
+                    "/wiki/Transportation"
+                ],
+                [
+                    {
+                        "entity id": "Q7590",
+                        "label": "transport"
+                    }
+                ]
+            ],
+            [
+                "China Post Group",
+                [
+                    "/wiki/China_Post"
+                ],
+                [
+                    {
+                        "entity id": "Q1066476",
+                        "label": "China Post"
+                    }
+                ]
+            ],
+            [
+                "Beijing",
+                [
+                    "/wiki/Beijing"
+                ],
+                [
+                    {
+                        "entity id": "Q956",
+                        "label": "Beijing"
+                    }
+                ]
+            ],
+            [
+                "0099 # 101",
+                []
+            ],
+            [
+                "85,628",
+                []
+            ]
+        ],
+        [
+            [
+                "Wholesalers",
+                [
+                    "/wiki/Wholesalers"
+                ],
+                [
+                    {
+                        "entity id": "Q46136543",
+                        "label": "Wholesalers, distributors overcome logistic obstacles after terrorist attacks."
+                    }
+                ]
+            ],
+            [
+                "Trafigura Group",
+                [
+                    "/wiki/Trafigura"
+                ],
+                [
+                    {
+                        "entity id": "Q687508",
+                        "label": "Trafigura"
+                    }
+                ]
+            ],
+            [
+                "Singapore",
+                []
+            ],
+            [
+                "0011 # 22",
+                []
+            ],
+            [
+                "180,744",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Fortune Global 500 list of 2019 -- Breakdown by sector",
+    "section_text": "The top-ranked companies in 2019 for each sector . [ 5 ]",
+    "uid": "Fortune_Global_500_0",
+    "intro": "The Fortune Global 500, also known as Global 500, is an annual ranking of the top 500 corporations worldwide as measured by revenue. The list is compiled and published annually by Fortune magazine."
+}

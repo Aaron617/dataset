@@ -1,0 +1,443 @@
+{
+    "url": "https://en.wikipedia.org/wiki/RAF_Sullom_Voe",
+    "title": "RAF Sullom Voe",
+    "header": [
+        [
+            "Squadron",
+            []
+        ],
+        [
+            "Aircraft",
+            []
+        ],
+        [
+            "Posted from",
+            []
+        ],
+        [
+            "Posted to",
+            []
+        ],
+        [
+            "From \u2192 To",
+            []
+        ],
+        [
+            "Notes",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "190",
+                [
+                    "/wiki/No._190_Squadron_RAF"
+                ],
+                [
+                    {
+                        "entity id": "Q7043060",
+                        "label": "No. 190 Squadron RAF"
+                    }
+                ]
+            ],
+            [
+                "Consolidated Catalina IB & IV",
+                [
+                    "/wiki/Consolidated_Catalina"
+                ],
+                [
+                    {
+                        "entity id": "Q103915178",
+                        "label": "Consolidated Catalina"
+                    }
+                ]
+            ],
+            [
+                "17 February 1943",
+                []
+            ],
+            [
+                "1 January 1944",
+                []
+            ],
+            [
+                "Formed \u2192 Disbanded",
+                []
+            ],
+            [
+                "Formed from the nucleus of disbanded 210 Squadron and subsequently reformed back to 210 Sqn again",
+                []
+            ]
+        ],
+        [
+            [
+                "201",
+                [
+                    "/wiki/No._201_Squadron_RAF"
+                ],
+                [
+                    {
+                        "entity id": "Q654013",
+                        "label": "No. 201 Squadron"
+                    }
+                ]
+            ],
+            [
+                "Saro London I & II Short Sunderland I & II",
+                [
+                    "/wiki/Saro_London",
+                    "/wiki/Short_Sunderland"
+                ],
+                [
+                    {
+                        "entity id": "Q1751872",
+                        "label": "A.27 London"
+                    },
+                    {
+                        "entity id": "Q617547",
+                        "label": "Sunderland"
+                    }
+                ]
+            ],
+            [
+                "9 August 1939 26 May 1940",
+                []
+            ],
+            [
+                "6 November 1939 9 October 1941",
+                []
+            ],
+            [
+                "RAF Calshot \u2192 RAF Invergordon RAF Invergordon \u2192 RAF Lough Erne",
+                [
+                    "/wiki/RAF_Calshot",
+                    "/wiki/RAF_Invergordon",
+                    "/wiki/RAF_Invergordon",
+                    "/wiki/RAF_Lough_Erne"
+                ],
+                [
+                    {
+                        "entity id": "Q7275214",
+                        "label": "RAF Calshot"
+                    },
+                    {},
+                    {},
+                    {}
+                ]
+            ],
+            [
+                "Squadron moves twice to Sullom Voe",
+                []
+            ]
+        ],
+        [
+            [
+                "204",
+                [
+                    "/wiki/No._204_Squadron_RAF"
+                ],
+                [
+                    {
+                        "entity id": "Q7043131",
+                        "label": "No. 204 Squadron RAF"
+                    }
+                ]
+            ],
+            [
+                "Short Sunderland I",
+                [
+                    "/wiki/Short_Sunderland"
+                ],
+                [
+                    {
+                        "entity id": "Q617547",
+                        "label": "Sunderland"
+                    }
+                ]
+            ],
+            [
+                "2 April 1940",
+                []
+            ],
+            [
+                "5 April 1941",
+                []
+            ],
+            [
+                "RAF Mount Batten \u2192 RAF Reykjavik",
+                [
+                    "/wiki/RAF_Mount_Batten",
+                    "/wiki/RAF_Reykjavik"
+                ],
+                [
+                    {
+                        "entity id": "Q7275489",
+                        "label": "RAF Mount Batten"
+                    },
+                    {
+                        "entity id": "Q15270938",
+                        "label": "RAF Reykjavik"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "210",
+                [
+                    "/wiki/No._210_Squadron_RAF"
+                ],
+                [
+                    {
+                        "entity id": "Q7043145",
+                        "label": "No. 210 Squadron RAF"
+                    }
+                ]
+            ],
+            [
+                "Short Sunderland I",
+                [
+                    "/wiki/Short_Sunderland"
+                ],
+                [
+                    {
+                        "entity id": "Q617547",
+                        "label": "Sunderland"
+                    }
+                ]
+            ],
+            [
+                "24 November 1939 13 July 1940",
+                []
+            ],
+            [
+                "21 May 1940 4 October 1942",
+                []
+            ],
+            [
+                "RAF Invergordon \u2192 RAF Pembroke Dock RAF Oban \u2192 RAF Pembroke Dock",
+                [
+                    "/wiki/RAF_Invergordon",
+                    "/wiki/RAF_Pembroke_Dock",
+                    "/wiki/RAF_Oban",
+                    "/wiki/RAF_Pembroke_Dock"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q26940062",
+                        "label": "RAF Pembroke Dock"
+                    },
+                    {
+                        "entity id": "Q7275512",
+                        "label": "RAF Oban"
+                    },
+                    {
+                        "entity id": "Q26940062",
+                        "label": "RAF Pembroke Dock"
+                    }
+                ]
+            ],
+            [
+                "Detachment from RAF Invergordon then from RAF Oban",
+                []
+            ]
+        ],
+        [
+            [
+                "240",
+                [
+                    "/wiki/No._240_Squadron_RAF"
+                ],
+                [
+                    {
+                        "entity id": "Q7043209",
+                        "label": "No. 240 Squadron RAF"
+                    }
+                ]
+            ],
+            [
+                "Saro London II",
+                [
+                    "/wiki/Saro_London"
+                ],
+                [
+                    {
+                        "entity id": "Q1751872",
+                        "label": "A.27 London"
+                    }
+                ]
+            ],
+            [
+                "4 November 1939 27 March 1940",
+                []
+            ],
+            [
+                "12 February 1940 27 May 1940",
+                []
+            ],
+            [
+                "RAF Invergordon \u2192 RAF Invergordon RAF Invergordon \u2192 RAF Pembroke Dock",
+                [
+                    "/wiki/RAF_Invergordon",
+                    "/wiki/RAF_Invergordon",
+                    "/wiki/RAF_Invergordon",
+                    "/wiki/RAF_Pembroke_Dock"
+                ],
+                [
+                    {},
+                    {},
+                    {},
+                    {
+                        "entity id": "Q26940062",
+                        "label": "RAF Pembroke Dock"
+                    }
+                ]
+            ],
+            [
+                "Squadron moves twice to Sullom Voe",
+                []
+            ]
+        ],
+        [
+            [
+                "330",
+                [
+                    "/wiki/No._330_Squadron_RAF"
+                ],
+                [
+                    {
+                        "entity id": "Q16057544",
+                        "label": "No. 330 Squadron RAF"
+                    }
+                ]
+            ],
+            [
+                "Short Sunderland II , III and V",
+                [
+                    "/wiki/Short_Sunderland"
+                ],
+                [
+                    {
+                        "entity id": "Q617547",
+                        "label": "Sunderland"
+                    }
+                ]
+            ],
+            [
+                "12 July 1943",
+                []
+            ],
+            [
+                "14 June 1945",
+                []
+            ],
+            [
+                "RAF Oban \u2192 Stavangar Airport , Sola , Norway",
+                [
+                    "/wiki/RAF_Oban"
+                ],
+                [
+                    {
+                        "entity id": "Q7275512",
+                        "label": "RAF Oban"
+                    }
+                ]
+            ],
+            [
+                "Squadron disbanded 21 Nov 1945 and transferred to Norwegian control",
+                []
+            ]
+        ],
+        [
+            [
+                "333",
+                [
+                    "/wiki/No._333_Squadron_RAF"
+                ],
+                [
+                    {
+                        "entity id": "Q7043399",
+                        "label": "333 Squadron"
+                    }
+                ]
+            ],
+            [
+                "Consolidated Catalina I & IV",
+                [
+                    "/wiki/Consolidated_Catalina"
+                ],
+                [
+                    {
+                        "entity id": "Q103915178",
+                        "label": "Consolidated Catalina"
+                    }
+                ]
+            ],
+            [
+                "5 May 1943",
+                []
+            ],
+            [
+                "June 1945",
+                []
+            ],
+            [
+                "RAF Woodhaven \u2192 Fornebu ( Oslo , Norway )",
+                []
+            ],
+            [
+                "On detachment before being disbanded 21 November 1945 and transferred to Norwegian control",
+                []
+            ]
+        ],
+        [
+            [
+                "413",
+                [
+                    "/wiki/No._413_Squadron_RAF"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Consolidated Catalina I & IV",
+                [
+                    "/wiki/Consolidated_Catalina"
+                ],
+                [
+                    {
+                        "entity id": "Q103915178",
+                        "label": "Consolidated Catalina"
+                    }
+                ]
+            ],
+            [
+                "1 October 1941",
+                []
+            ],
+            [
+                "4 March 1942",
+                []
+            ],
+            [
+                "RAF Stranraer \u2192 En route to Sri Lanka",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ]
+    ],
+    "section_title": "History -- Units",
+    "section_text": "",
+    "uid": "RAF_Sullom_Voe_0",
+    "intro": "Royal Air Force Station Sullom Voe or more simply RAF Sullom Voe \nis a former Royal Air Force station near the village of Brae, in the Shetland Isles of Scotland. It was a Flying boat base and was closely associated with the adjacent airfield of RAF Scatsta"
+}

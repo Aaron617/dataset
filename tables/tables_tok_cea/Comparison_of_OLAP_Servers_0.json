@@ -1,0 +1,722 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_OLAP_servers",
+    "title": "Comparison of OLAP servers",
+    "header": [
+        [
+            "OLAP server",
+            []
+        ],
+        [
+            "Company",
+            []
+        ],
+        [
+            "Latest stable version",
+            []
+        ],
+        [
+            "Software license",
+            [
+                "/wiki/Software_license"
+            ],
+            [
+                {
+                    "entity id": "Q207621",
+                    "label": "software license"
+                }
+            ]
+        ],
+        [
+            "License pricing",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Apache Kylin",
+                [
+                    "/wiki/Apache_Kylin"
+                ],
+                [
+                    {
+                        "entity id": "Q22681945",
+                        "label": "Apache Kylin"
+                    }
+                ]
+            ],
+            [
+                "Apache Software Foundation",
+                [
+                    "/wiki/The_Apache_Software_Foundation"
+                ],
+                [
+                    {
+                        "entity id": "Q489709",
+                        "label": "Apache Software Foundation"
+                    }
+                ]
+            ],
+            [
+                "2.5.1",
+                []
+            ],
+            [
+                "Apache 2.0",
+                [
+                    "/wiki/Apache_License"
+                ],
+                [
+                    {
+                        "entity id": "Q616526",
+                        "label": "Apache License"
+                    }
+                ]
+            ],
+            [
+                "free",
+                []
+            ]
+        ],
+        [
+            [
+                "Druid",
+                [
+                    "/wiki/Druid_(open-source_data_store)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Open source community",
+                [
+                    "/wiki/Open_source"
+                ],
+                [
+                    {
+                        "entity id": "Q39162",
+                        "label": "open source"
+                    }
+                ]
+            ],
+            [
+                "0.11.0",
+                []
+            ],
+            [
+                "Apache 2.0",
+                [
+                    "/wiki/Apache_License"
+                ],
+                [
+                    {
+                        "entity id": "Q616526",
+                        "label": "Apache License"
+                    }
+                ]
+            ],
+            [
+                "free",
+                []
+            ]
+        ],
+        [
+            [
+                "Apache Pinot ( Incubating )",
+                []
+            ],
+            [
+                "Apache Software Foundation",
+                [
+                    "/wiki/The_Apache_Software_Foundation"
+                ],
+                [
+                    {
+                        "entity id": "Q489709",
+                        "label": "Apache Software Foundation"
+                    }
+                ]
+            ],
+            [
+                "0.2.0",
+                []
+            ],
+            [
+                "Apache 2.0",
+                [
+                    "/wiki/Apache_License"
+                ],
+                [
+                    {
+                        "entity id": "Q616526",
+                        "label": "Apache License"
+                    }
+                ]
+            ],
+            [
+                "free",
+                []
+            ]
+        ],
+        [
+            [
+                "Essbase",
+                [
+                    "/wiki/Essbase"
+                ],
+                [
+                    {
+                        "entity id": "Q1368563",
+                        "label": "Essbase"
+                    }
+                ]
+            ],
+            [
+                "Oracle",
+                [
+                    "/wiki/Oracle_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q19900",
+                        "label": "Oracle"
+                    }
+                ]
+            ],
+            [
+                "11.1.2.4",
+                []
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "[ 1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "IBM Cognos TM1",
+                [
+                    "/wiki/TM1"
+                ],
+                [
+                    {
+                        "entity id": "Q39558734",
+                        "label": "Tropomyosin 1 Dmel_CG4898"
+                    }
+                ]
+            ],
+            [
+                "IBM",
+                [
+                    "/wiki/IBM"
+                ],
+                [
+                    {
+                        "entity id": "Q37156",
+                        "label": "IBM"
+                    }
+                ]
+            ],
+            [
+                "10.2.2 FP7",
+                []
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "-",
+                []
+            ]
+        ],
+        [
+            [
+                "icCube",
+                [
+                    "/wiki/IcCube"
+                ],
+                [
+                    {
+                        "entity id": "Q17028697",
+                        "label": "IcCube"
+                    }
+                ]
+            ],
+            [
+                "icCube",
+                [
+                    "/wiki/IcCube"
+                ],
+                [
+                    {
+                        "entity id": "Q17028697",
+                        "label": "IcCube"
+                    }
+                ]
+            ],
+            [
+                "6.8.9",
+                []
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "community/ [ 2 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "Infor BI OLAP Server",
+                []
+            ],
+            [
+                "Infor",
+                [
+                    "/wiki/Infor"
+                ],
+                [
+                    {
+                        "entity id": "Q21198",
+                        "label": "computer science"
+                    }
+                ]
+            ],
+            [
+                "10.6.0",
+                []
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "-",
+                []
+            ]
+        ],
+        [
+            [
+                "Jedox OLAP Server",
+                [
+                    "/wiki/Jedox"
+                ],
+                [
+                    {
+                        "entity id": "Q15820927",
+                        "label": "Jedox"
+                    }
+                ]
+            ],
+            [
+                "Jedox",
+                [
+                    "/wiki/Jedox"
+                ],
+                [
+                    {
+                        "entity id": "Q15820927",
+                        "label": "Jedox"
+                    }
+                ]
+            ],
+            [
+                "2019.3",
+                []
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "[ 3 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "Kyligence",
+                []
+            ],
+            [
+                "Kyligence",
+                []
+            ],
+            [
+                "3.2.1",
+                []
+            ],
+            [
+                "Proprietary",
+                []
+            ],
+            [
+                "-",
+                []
+            ]
+        ],
+        [
+            [
+                "Kyvos",
+                [
+                    "/wiki/Kyvos"
+                ],
+                [
+                    {
+                        "entity id": "Q60742772",
+                        "label": "Kyvos"
+                    }
+                ]
+            ],
+            [
+                "Kyvos Insights",
+                [
+                    "/wiki/Kyvos_Insights"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "5.3",
+                []
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "-",
+                []
+            ]
+        ],
+        [
+            [
+                "Microsoft Analysis Services",
+                [
+                    "/wiki/Microsoft_Analysis_Services"
+                ],
+                [
+                    {
+                        "entity id": "Q2067216",
+                        "label": "Microsoft Analysis Services"
+                    }
+                ]
+            ],
+            [
+                "Microsoft",
+                [
+                    "/wiki/Microsoft"
+                ],
+                [
+                    {
+                        "entity id": "Q2283",
+                        "label": "Microsoft"
+                    }
+                ]
+            ],
+            [
+                "2016",
+                []
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "[ 4 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "MicroStrategy Intelligence Server",
+                []
+            ],
+            [
+                "MicroStrategy",
+                [
+                    "/wiki/MicroStrategy"
+                ],
+                [
+                    {
+                        "entity id": "Q1192211",
+                        "label": "MicroStrategy"
+                    }
+                ]
+            ],
+            [
+                "10.11",
+                []
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "-",
+                []
+            ]
+        ],
+        [
+            [
+                "Mondrian OLAP server",
+                [
+                    "/wiki/Mondrian_OLAP_server"
+                ],
+                [
+                    {
+                        "entity id": "Q10331807",
+                        "label": "Mondrian OLAP server"
+                    }
+                ]
+            ],
+            [
+                "Pentaho",
+                [
+                    "/wiki/Pentaho"
+                ],
+                [
+                    {
+                        "entity id": "Q644841",
+                        "label": "Pentaho"
+                    }
+                ]
+            ],
+            [
+                "3.7",
+                []
+            ],
+            [
+                "EPL",
+                [
+                    "/wiki/Eclipse_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q1281977",
+                        "label": "Eclipse Public License"
+                    }
+                ]
+            ],
+            [
+                "free",
+                []
+            ]
+        ],
+        [
+            [
+                "Oracle Database OLAP Option",
+                [
+                    "/wiki/Oracle_OLAP"
+                ],
+                [
+                    {
+                        "entity id": "Q7099285",
+                        "label": "Oracle OLAP"
+                    }
+                ]
+            ],
+            [
+                "Oracle",
+                [
+                    "/wiki/Oracle_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q19900",
+                        "label": "Oracle"
+                    }
+                ]
+            ],
+            [
+                "11g R2",
+                []
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "[ 5 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "SAP NetWeaver BW",
+                [
+                    "/wiki/SAP_NetWeaver_Business_Intelligence"
+                ],
+                [
+                    {
+                        "entity id": "Q1269377",
+                        "label": "SAP NetWeaver Business Intelligence"
+                    }
+                ]
+            ],
+            [
+                "SAP",
+                [
+                    "/wiki/SAP_AG"
+                ],
+                [
+                    {
+                        "entity id": "Q20658133",
+                        "label": "SAP AG"
+                    }
+                ]
+            ],
+            [
+                "7.30",
+                []
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "-",
+                []
+            ]
+        ],
+        [
+            [
+                "SAS OLAP Server",
+                [
+                    "/wiki/SAS_System"
+                ],
+                [
+                    {
+                        "entity id": "Q2003932",
+                        "label": "SAS"
+                    }
+                ]
+            ],
+            [
+                "SAS Institute",
+                [
+                    "/wiki/SAS_Institute"
+                ],
+                [
+                    {
+                        "entity id": "Q1473820",
+                        "label": "SAS Institute"
+                    }
+                ]
+            ],
+            [
+                "9.4",
+                []
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "-",
+                []
+            ]
+        ]
+    ],
+    "section_title": "General information",
+    "section_text": "",
+    "uid": "Comparison_of_OLAP_Servers_0",
+    "intro": "The following tables compare general and technical information for a number of online analytical processing (OLAP) servers. Please see the individual products articles for further information."
+}

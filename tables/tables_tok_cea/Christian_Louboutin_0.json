@@ -1,0 +1,851 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Christian_Louboutin",
+    "title": "Christian Louboutin",
+    "header": [
+        [
+            "Country",
+            []
+        ],
+        [
+            "Number of stores",
+            []
+        ],
+        [
+            "Cities",
+            []
+        ],
+        [
+            "Location",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "4",
+                []
+            ],
+            [
+                "Paris ( 4 )",
+                []
+            ],
+            [
+                "Rue Jean-Jacques Rousseau ( 2 ) , Rue du Faubourg St-Honor\u00e9 , Rue de Grenelle",
+                []
+            ]
+        ],
+        [
+            [
+                "United States of America",
+                [
+                    "/wiki/United_States_of_America"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "15",
+                []
+            ],
+            [
+                "New York City ( 3 ) , Las Vegas ( 3 ) , Los Angeles , Costa Mesa , Atlanta , Dallas , Miami , Chicago , San Francisco , Houston , Honolulu , King of Prussia",
+                [
+                    "/wiki/Las_Vegas_Valley",
+                    "/wiki/Costa_Mesa",
+                    "/wiki/Atlanta",
+                    "/wiki/Dallas"
+                ],
+                [
+                    {
+                        "entity id": "Q2624848",
+                        "label": "Las Vegas Valley"
+                    },
+                    {
+                        "entity id": "Q499196",
+                        "label": "Costa Mesa"
+                    },
+                    {
+                        "entity id": "Q23556",
+                        "label": "Atlanta"
+                    },
+                    {
+                        "entity id": "Q16557",
+                        "label": "Dallas"
+                    }
+                ]
+            ],
+            [
+                "Washington Street , Madison Avenue and Horatio Street in New York City , Caesars Palace , The Palazzo and the Shops at Crystals ( Aria ) in Las Vegas , Beverly Hills in Los Angeles ( Nd Robertson Boulevard , West Hollywood ) and South Coast Plaza in Costa Mesa , Highland Park Village in Dallas , Design District in Miami , Oak Street in Chicago , Buckhead Atlanta in Atlanta , Maiden Lane in San Francisco , Houston Galleria in Houston , Kalakaua Avenue in Honolulu , King of Prussia Mall in King of Prussia",
+                [
+                    "/wiki/Washington_Street_(Manhattan)",
+                    "/wiki/Madison_Avenue",
+                    "/wiki/Caesars_Palace",
+                    "/wiki/The_Palazzo",
+                    "/wiki/Beverly_Hills",
+                    "/wiki/South_Coast_Plaza",
+                    "/wiki/Highland_Park_Village",
+                    "/wiki/Miami_Design_District",
+                    "/wiki/Oak_Street_(Chicago)",
+                    "/wiki/Buckhead_Atlanta",
+                    "/wiki/Maiden_Lane_(San_Francisco)",
+                    "/wiki/Houston_Galleria",
+                    "/wiki/King_of_Prussia_Mall"
+                ],
+                [
+                    {
+                        "entity id": "Q4105528",
+                        "label": "Washington Street"
+                    },
+                    {
+                        "entity id": "Q109849",
+                        "label": "Madison Avenue"
+                    },
+                    {
+                        "entity id": "Q569978",
+                        "label": "Caesars Palace"
+                    },
+                    {
+                        "entity id": "Q1514587",
+                        "label": "The Palazzo"
+                    },
+                    {
+                        "entity id": "Q127856",
+                        "label": "Beverly Hills"
+                    },
+                    {
+                        "entity id": "Q1027465",
+                        "label": "South Coast Plaza"
+                    },
+                    {
+                        "entity id": "Q3135443",
+                        "label": "Highland Park Village"
+                    },
+                    {
+                        "entity id": "Q6827304",
+                        "label": "Miami Design District"
+                    },
+                    {},
+                    {
+                        "entity id": "Q4983126",
+                        "label": "Buckhead Atlanta"
+                    },
+                    {},
+                    {
+                        "entity id": "Q3141392",
+                        "label": "The Galleria"
+                    },
+                    {
+                        "entity id": "Q1371699",
+                        "label": "King of Prussia Mall"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "United Kingdom",
+                [
+                    "/wiki/United_Kingdom"
+                ],
+                [
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    }
+                ]
+            ],
+            [
+                "3",
+                []
+            ],
+            [
+                "London ( 3 )",
+                []
+            ],
+            [
+                "Motcomb Street ( Original ) , Mount Street , Dover Street ( Men 's )",
+                [
+                    "/wiki/Motcomb_Street"
+                ],
+                [
+                    {
+                        "entity id": "Q55076492",
+                        "label": "Motcomb Street"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Ireland",
+                [
+                    "/wiki/Ireland"
+                ],
+                [
+                    {
+                        "entity id": "Q27",
+                        "label": "Republic of Ireland"
+                    }
+                ]
+            ],
+            [
+                "1",
+                []
+            ],
+            [
+                "Dublin ( 1 )",
+                [
+                    "/wiki/Dublin"
+                ],
+                [
+                    {
+                        "entity id": "Q1761",
+                        "label": "Dublin"
+                    }
+                ]
+            ],
+            [
+                "Brown Thomas , Grafton Street",
+                []
+            ]
+        ],
+        [
+            [
+                "Canada",
+                [
+                    "/wiki/Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q16",
+                        "label": "Canada"
+                    }
+                ]
+            ],
+            [
+                "1",
+                []
+            ],
+            [
+                "Toronto ( 1 )",
+                [
+                    "/wiki/Toronto"
+                ],
+                [
+                    {
+                        "entity id": "Q172",
+                        "label": "Toronto"
+                    }
+                ]
+            ],
+            [
+                "Yorkville",
+                []
+            ]
+        ],
+        [
+            [
+                "United Arab Emirates",
+                [
+                    "/wiki/United_Arab_Emirates"
+                ],
+                [
+                    {
+                        "entity id": "Q878",
+                        "label": "United Arab Emirates"
+                    }
+                ]
+            ],
+            [
+                "3",
+                []
+            ],
+            [
+                "Dubai ( 2 ) , [ Abu Dhabi ] ( 1 )",
+                [
+                    "/wiki/Dubai"
+                ],
+                [
+                    {
+                        "entity id": "Q612",
+                        "label": "Dubai"
+                    }
+                ]
+            ],
+            [
+                "Mall of the Emirates , Dubai Mall , Abu Dhabi Galleria Mall",
+                [
+                    "/wiki/Mall_of_the_Emirates",
+                    "/wiki/Dubai_Mall"
+                ],
+                [
+                    {
+                        "entity id": "Q1066448",
+                        "label": "Mall of the Emirates"
+                    },
+                    {
+                        "entity id": "Q86998891",
+                        "label": "Dubai Mall"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kuwait",
+                [
+                    "/wiki/Kuwait"
+                ],
+                [
+                    {
+                        "entity id": "Q817",
+                        "label": "Kuwait"
+                    }
+                ]
+            ],
+            [
+                "1",
+                []
+            ],
+            [
+                "Kuwait City",
+                [
+                    "/wiki/Kuwait_City"
+                ],
+                [
+                    {
+                        "entity id": "Q35178",
+                        "label": "Kuwait City"
+                    }
+                ]
+            ],
+            [
+                "Salhiya Complex",
+                []
+            ]
+        ],
+        [
+            [
+                "Vietnam",
+                [
+                    "/wiki/Vietnam"
+                ],
+                [
+                    {
+                        "entity id": "Q881",
+                        "label": "Vietnam"
+                    }
+                ]
+            ],
+            [
+                "1",
+                []
+            ],
+            [
+                "Ho Chi Minh City",
+                [
+                    "/wiki/Ho_Chi_Minh_City"
+                ],
+                [
+                    {
+                        "entity id": "Q1854",
+                        "label": "Ho Chi Minh City"
+                    }
+                ]
+            ],
+            [
+                "Dong Khoi Street",
+                []
+            ]
+        ],
+        [
+            [
+                "Bahrain",
+                [
+                    "/wiki/Bahrain"
+                ],
+                [
+                    {
+                        "entity id": "Q398",
+                        "label": "Bahrain"
+                    }
+                ]
+            ],
+            [
+                "1",
+                []
+            ],
+            [
+                "Manama",
+                [
+                    "/wiki/Manama"
+                ],
+                [
+                    {
+                        "entity id": "Q3882",
+                        "label": "Manama"
+                    }
+                ]
+            ],
+            [
+                "City Center Manama",
+                []
+            ]
+        ],
+        [
+            [
+                "Lebanon",
+                [
+                    "/wiki/Lebanon"
+                ],
+                [
+                    {
+                        "entity id": "Q822",
+                        "label": "Lebanon"
+                    }
+                ]
+            ],
+            [
+                "1",
+                []
+            ],
+            [
+                "Beirut",
+                [
+                    "/wiki/Beirut"
+                ],
+                [
+                    {
+                        "entity id": "Q3820",
+                        "label": "Beirut"
+                    }
+                ]
+            ],
+            [
+                "Beirut Souks",
+                [
+                    "/wiki/Beirut_Souks"
+                ],
+                [
+                    {
+                        "entity id": "Q3491599",
+                        "label": "Beirut Souks"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Russia",
+                []
+            ],
+            [
+                "4",
+                []
+            ],
+            [
+                "Moscow ( 3 ) , Saint Petersburg",
+                [
+                    "/wiki/Saint_Petersburg"
+                ],
+                [
+                    {
+                        "entity id": "Q656",
+                        "label": "Saint Petersburg"
+                    }
+                ]
+            ],
+            [
+                "Malaya Bronnaya Street ( the original ) , Petrovka Street , Stoleshnikov Lane , Bolshaya Konyushennaya Ulitsa",
+                [
+                    "/wiki/Petrovka_Street",
+                    "/wiki/Stoleshnikov_Lane"
+                ],
+                [
+                    {
+                        "entity id": "Q2320137",
+                        "label": "Petrovka Street"
+                    },
+                    {
+                        "entity id": "Q4442892",
+                        "label": "Stoleshnikov Lane"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Saudi Arabia",
+                [
+                    "/wiki/Saudi_Arabia"
+                ],
+                [
+                    {
+                        "entity id": "Q851",
+                        "label": "Saudi Arabia"
+                    }
+                ]
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Riyadh , Jeddah",
+                [
+                    "/wiki/Riyadh",
+                    "/wiki/Jeddah"
+                ],
+                [
+                    {
+                        "entity id": "Q3692",
+                        "label": "Riyadh"
+                    },
+                    {
+                        "entity id": "Q374365",
+                        "label": "Jeddah"
+                    }
+                ]
+            ],
+            [
+                "Kingdom Centre -Riyadh , Al Khayyat Center-Jeddah",
+                [
+                    "/wiki/Kingdom_Centre"
+                ],
+                [
+                    {
+                        "entity id": "Q656743",
+                        "label": "Kingdom Centre"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Singapore",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Singapore City",
+                []
+            ],
+            [
+                "Scotts Square , Shoppes at Marina Bay",
+                []
+            ]
+        ],
+        [
+            [
+                "Brazil",
+                [
+                    "/wiki/Brazil"
+                ],
+                [
+                    {
+                        "entity id": "Q155",
+                        "label": "Brazil"
+                    }
+                ]
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Bras\u00edlia , S\u00e3o Paulo",
+                [
+                    "/wiki/Bras\u00edlia"
+                ],
+                [
+                    {
+                        "entity id": "Q2844",
+                        "label": "Bras\u00edlia"
+                    }
+                ]
+            ],
+            [
+                "Iguatemi S\u00e3o Paulo , Iguatemi Bras\u00edlia ,",
+                [
+                    "/wiki/Iguatemi_S\u00e3o_Paulo"
+                ],
+                [
+                    {
+                        "entity id": "Q764914",
+                        "label": "Iguatemi S\u00e3o Paulo"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Australia",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Sydney , Melbourne",
+                []
+            ],
+            [
+                "Westfield Sydney , Collins Street , Melbourne and Chadstone , Mebourne",
+                [
+                    "/wiki/Westfield_Sydney"
+                ],
+                [
+                    {
+                        "entity id": "Q14935037",
+                        "label": "Westfield Sydney"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "China",
+                []
+            ],
+            [
+                "6",
+                []
+            ],
+            [
+                "Hong Kong ( 3 ) , Shanghai , Beijing , Shenyang",
+                [
+                    "/wiki/Shenyang"
+                ],
+                [
+                    {
+                        "entity id": "Q11720",
+                        "label": "Shenyang"
+                    }
+                ]
+            ],
+            [
+                "On Lan Street , Hong Kong ; The Gateway , Hong Kong , Canton Road ; Shanghai Centre , Sanlitun Road , Shenhe District",
+                [
+                    "/wiki/On_Lan_Street",
+                    "/wiki/The_Gateway,_Hong_Kong",
+                    "/wiki/Canton_Road",
+                    "/wiki/Shanghai_Centre",
+                    "/wiki/Sanlitun",
+                    "/wiki/Shenhe_District"
+                ],
+                [
+                    {
+                        "entity id": "Q10947189",
+                        "label": "On Lan Street"
+                    },
+                    {
+                        "entity id": "Q7735939",
+                        "label": "The Gateway, Hong Kong"
+                    },
+                    {
+                        "entity id": "Q1040176",
+                        "label": "Canton Road"
+                    },
+                    {
+                        "entity id": "Q7488411",
+                        "label": "Shanghai Centre"
+                    },
+                    {
+                        "entity id": "Q1203969",
+                        "label": "Sanlitun"
+                    },
+                    {
+                        "entity id": "Q1029752",
+                        "label": "Shenhe District"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Denmark",
+                [
+                    "/wiki/Denmark"
+                ],
+                [
+                    {
+                        "entity id": "Q35",
+                        "label": "Denmark"
+                    }
+                ]
+            ],
+            [
+                "1",
+                []
+            ],
+            [
+                "Copenhagen",
+                [
+                    "/wiki/Copenhagen"
+                ],
+                [
+                    {
+                        "entity id": "Q1748",
+                        "label": "Copenhagen"
+                    }
+                ]
+            ],
+            [
+                "Gr\u00f8nnegade 6",
+                []
+            ]
+        ],
+        [
+            [
+                "Indonesia",
+                [
+                    "/wiki/Indonesia"
+                ],
+                [
+                    {
+                        "entity id": "Q252",
+                        "label": "Indonesia"
+                    }
+                ]
+            ],
+            [
+                "1",
+                []
+            ],
+            [
+                "Jakarta",
+                [
+                    "/wiki/Jakarta"
+                ],
+                [
+                    {
+                        "entity id": "Q3630",
+                        "label": "Jakarta"
+                    }
+                ]
+            ],
+            [
+                "Plaza Indonesia",
+                [
+                    "/wiki/Plaza_Indonesia"
+                ],
+                [
+                    {
+                        "entity id": "Q7203616",
+                        "label": "Plaza Indonesia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Japan",
+                []
+            ],
+            [
+                "4",
+                []
+            ],
+            [
+                "Tokyo ( 2 ) , Nagoya , Osaka",
+                [
+                    "/wiki/Nagoya",
+                    "/wiki/Osaka"
+                ],
+                [
+                    {
+                        "entity id": "Q11751",
+                        "label": "Nagoya"
+                    },
+                    {
+                        "entity id": "Q35765",
+                        "label": "Osaka"
+                    }
+                ]
+            ],
+            [
+                "Ginza District in Tokyo , Shinsaibashi , Osaka",
+                [
+                    "/wiki/Ginza",
+                    "/wiki/Shinsaibashi"
+                ],
+                [
+                    {
+                        "entity id": "Q746052",
+                        "label": "Ginza"
+                    },
+                    {
+                        "entity id": "Q1049109",
+                        "label": "Shinsaibashi"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Taiwan",
+                [
+                    "/wiki/Taiwan"
+                ],
+                [
+                    {
+                        "entity id": "Q865",
+                        "label": "Taiwan"
+                    }
+                ]
+            ],
+            [
+                "1",
+                []
+            ],
+            [
+                "Taipei",
+                [
+                    "/wiki/Taipei"
+                ],
+                [
+                    {
+                        "entity id": "Q865",
+                        "label": "Taiwan"
+                    }
+                ]
+            ],
+            [
+                "Breeze Center",
+                [
+                    "/wiki/Breeze_Center"
+                ],
+                [
+                    {
+                        "entity id": "Q700862",
+                        "label": "Breeze Center"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Stores",
+    "section_text": "In the spring of 2012 , the company opened its first men 's store in New York City , with over 93 square metres ( 1,000 square feet ) of space and located next to its existing Horatio Street store . [ 69 ] From previous experience in his Paris store , Louboutin claimed that women feel uncomfortable when men stare at them while they try on shoes , hence the separate stores . [ 53 ] The first Louboutin Men 's Boutique , Christian Louboutin Boutique Homme on Rue Jean-Jacques Rousseau in Paris , opened in the summer of 2012 .",
+    "uid": "Christian_Louboutin_0",
+    "intro": "Christian Louboutin (French: [k\u0281is.tj\u0251\u0303 lu.bu.t\u025b\u0303]; born 7 January 1963) is a French fashion designer whose high-end stiletto footwear incorporates shiny, red-lacquered soles that have become his signature. Initially a freelance designer for fashion houses, he started his own shoe salon in Paris, with his shoes finding favor with celebrity clientele. He has partnered with other organizations for creative projects including limited edition pieces, gallery exhibits, and a custom bar. His company has since branched out into men's footwear, handbags, fragrances and makeup."
+}

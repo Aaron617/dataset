@@ -1,0 +1,518 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Kentucky_Department_of_Corrections",
+    "title": "Kentucky Department of Corrections",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Security level",
+            []
+        ],
+        [
+            "Year opened",
+            []
+        ],
+        [
+            "Population ( 2015 )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Bell County Forestry Camp",
+                []
+            ],
+            [
+                "Pineville , Kentucky",
+                [
+                    "/wiki/Pineville,_Kentucky"
+                ],
+                [
+                    {
+                        "entity id": "Q2600900",
+                        "label": "Pineville"
+                    }
+                ]
+            ],
+            [
+                "Minimum",
+                []
+            ],
+            [
+                "1962",
+                []
+            ],
+            [
+                "300",
+                []
+            ]
+        ],
+        [
+            [
+                "Blackburn Correctional Complex",
+                [
+                    "/wiki/Blackburn_Correctional_Complex"
+                ],
+                [
+                    {
+                        "entity id": "Q4922672",
+                        "label": "Blackburn Correctional Complex"
+                    }
+                ]
+            ],
+            [
+                "Lexington , Kentucky",
+                [
+                    "/wiki/Lexington,_Kentucky"
+                ],
+                [
+                    {
+                        "entity id": "Q49241",
+                        "label": "Lexington"
+                    }
+                ]
+            ],
+            [
+                "Minimum",
+                []
+            ],
+            [
+                "1972",
+                []
+            ],
+            [
+                "320",
+                []
+            ]
+        ],
+        [
+            [
+                "Eastern Kentucky Correctional Complex",
+                [
+                    "/wiki/Eastern_Kentucky_Correctional_Complex"
+                ],
+                [
+                    {
+                        "entity id": "Q5330246",
+                        "label": "Eastern Kentucky Correctional Complex"
+                    }
+                ]
+            ],
+            [
+                "West Liberty , Kentucky",
+                [
+                    "/wiki/West_Liberty,_Kentucky"
+                ],
+                [
+                    {
+                        "entity id": "Q2485102",
+                        "label": "West Liberty"
+                    }
+                ]
+            ],
+            [
+                "Medium",
+                []
+            ],
+            [
+                "1990",
+                []
+            ],
+            [
+                "1,689",
+                []
+            ]
+        ],
+        [
+            [
+                "Green River Correctional Complex",
+                [
+                    "/wiki/Green_River_Correctional_Complex"
+                ],
+                [
+                    {
+                        "entity id": "Q5603125",
+                        "label": "Green River Correctional Complex"
+                    }
+                ]
+            ],
+            [
+                "Central City , Kentucky",
+                [
+                    "/wiki/Central_City,_Kentucky"
+                ],
+                [
+                    {
+                        "entity id": "Q1012203",
+                        "label": "Central City"
+                    }
+                ]
+            ],
+            [
+                "Minimum/Medium",
+                []
+            ],
+            [
+                "1994",
+                []
+            ],
+            [
+                "982",
+                []
+            ]
+        ],
+        [
+            [
+                "Kentucky Correctional Institute for Women",
+                [
+                    "/wiki/Kentucky_Correctional_Institute_for_Women"
+                ],
+                [
+                    {
+                        "entity id": "Q6392206",
+                        "label": "Kentucky Correctional Institute for Women"
+                    }
+                ]
+            ],
+            [
+                "Pewee Valley , Kentucky",
+                [
+                    "/wiki/Pewee_Valley,_Kentucky"
+                ],
+                [
+                    {
+                        "entity id": "Q2067261",
+                        "label": "Pewee Valley"
+                    }
+                ]
+            ],
+            [
+                "All",
+                []
+            ],
+            [
+                "1938",
+                []
+            ],
+            [
+                "683",
+                []
+            ]
+        ],
+        [
+            [
+                "Kentucky State Penitentiary",
+                [
+                    "/wiki/Kentucky_State_Penitentiary"
+                ],
+                [
+                    {
+                        "entity id": "Q6392395",
+                        "label": "Kentucky State Penitentiary"
+                    }
+                ]
+            ],
+            [
+                "Eddyville , Kentucky",
+                [
+                    "/wiki/Eddyville,_Kentucky"
+                ],
+                [
+                    {
+                        "entity id": "Q2478869",
+                        "label": "Eddyville"
+                    }
+                ]
+            ],
+            [
+                "Maximum/ Supermax",
+                [
+                    "/wiki/Supermax"
+                ],
+                [
+                    {
+                        "entity id": "Q333254",
+                        "label": "Supermax"
+                    }
+                ]
+            ],
+            [
+                "1886",
+                []
+            ],
+            [
+                "856",
+                []
+            ]
+        ],
+        [
+            [
+                "Kentucky State Reformatory",
+                [
+                    "/wiki/Kentucky_State_Reformatory"
+                ],
+                [
+                    {
+                        "entity id": "Q6392397",
+                        "label": "Kentucky State Reformatory"
+                    }
+                ]
+            ],
+            [
+                "La Grange , Kentucky",
+                [
+                    "/wiki/La_Grange,_Kentucky"
+                ],
+                [
+                    {
+                        "entity id": "Q990138",
+                        "label": "La Grange"
+                    }
+                ]
+            ],
+            [
+                "Medium",
+                []
+            ],
+            [
+                "1936",
+                []
+            ],
+            [
+                "2005",
+                []
+            ]
+        ],
+        [
+            [
+                "Little Sandy Correctional Complex",
+                [
+                    "/wiki/Little_Sandy_Correctional_Complex"
+                ],
+                [
+                    {
+                        "entity id": "Q6651847",
+                        "label": "Little Sandy Correctional Complex"
+                    }
+                ]
+            ],
+            [
+                "Sandy Hook , Kentucky",
+                [
+                    "/wiki/Sandy_Hook,_Kentucky"
+                ],
+                [
+                    {
+                        "entity id": "Q2184136",
+                        "label": "Sandy Hook"
+                    }
+                ]
+            ],
+            [
+                "Medium/Maximum",
+                []
+            ],
+            [
+                "2005",
+                []
+            ],
+            [
+                "1012",
+                []
+            ]
+        ],
+        [
+            [
+                "Luther Luckett Correctional Complex",
+                [
+                    "/wiki/Luther_Luckett_Correctional_Complex"
+                ],
+                [
+                    {
+                        "entity id": "Q14690880",
+                        "label": "Luther Luckett Correctional Complex"
+                    }
+                ]
+            ],
+            [
+                "La Grange , Kentucky",
+                [
+                    "/wiki/La_Grange,_Kentucky"
+                ],
+                [
+                    {
+                        "entity id": "Q990138",
+                        "label": "La Grange"
+                    }
+                ]
+            ],
+            [
+                "Medium/Maximum",
+                []
+            ],
+            [
+                "1981",
+                []
+            ],
+            [
+                "987",
+                []
+            ]
+        ],
+        [
+            [
+                "Northpoint Training Center",
+                [
+                    "/wiki/Northpoint_Training_Center"
+                ],
+                [
+                    {
+                        "entity id": "Q7059616",
+                        "label": "Northpoint Training Center"
+                    }
+                ]
+            ],
+            [
+                "Burgin , Kentucky",
+                [
+                    "/wiki/Burgin,_Kentucky"
+                ],
+                [
+                    {
+                        "entity id": "Q1991155",
+                        "label": "Burgin"
+                    }
+                ]
+            ],
+            [
+                "Medium",
+                []
+            ],
+            [
+                "1983",
+                []
+            ],
+            [
+                "1230",
+                []
+            ]
+        ],
+        [
+            [
+                "Roederer Correctional Complex",
+                [
+                    "/wiki/Roederer_Correctional_Complex"
+                ],
+                [
+                    {
+                        "entity id": "Q7357564",
+                        "label": "Roederer Correctional Complex"
+                    }
+                ]
+            ],
+            [
+                "La Grange , Kentucky",
+                [
+                    "/wiki/La_Grange,_Kentucky"
+                ],
+                [
+                    {
+                        "entity id": "Q990138",
+                        "label": "La Grange"
+                    }
+                ]
+            ],
+            [
+                "Medium/Minimum",
+                []
+            ],
+            [
+                "1976",
+                []
+            ],
+            [
+                "1002",
+                []
+            ]
+        ],
+        [
+            [
+                "Ross-Cash Center",
+                []
+            ],
+            [
+                "Fredonia , Kentucky",
+                [
+                    "/wiki/Fredonia,_Kentucky"
+                ],
+                [
+                    {
+                        "entity id": "Q2788324",
+                        "label": "Fredonia"
+                    }
+                ]
+            ],
+            [
+                "Minimum",
+                []
+            ],
+            [
+                "2015",
+                []
+            ],
+            [
+                "200",
+                []
+            ]
+        ],
+        [
+            [
+                "Western Kentucky Correctional Complex",
+                [
+                    "/wiki/Western_Kentucky_Correctional_Complex"
+                ],
+                [
+                    {
+                        "entity id": "Q7988001",
+                        "label": "Western Kentucky Correctional Complex"
+                    }
+                ]
+            ],
+            [
+                "Fredonia , Kentucky",
+                [
+                    "/wiki/Fredonia,_Kentucky"
+                ],
+                [
+                    {
+                        "entity id": "Q2788324",
+                        "label": "Fredonia"
+                    }
+                ]
+            ],
+            [
+                "Medium/Minimum",
+                []
+            ],
+            [
+                "1977",
+                []
+            ],
+            [
+                "693",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Facilities -- State-owned",
+    "section_text": "Following is a list of Kentucky state prisons :",
+    "uid": "Kentucky_Department_of_Corrections_0",
+    "intro": "The Kentucky Department of Corrections is a state agency of the Kentucky Justice & Public Safety Cabinet that operates state-owned adult correctional facilities, provides oversight for and sets standards for county jails. They also provide training, community based services, and oversees the state's Probation & Parole Division. The agency is headquartered in the Health Services Building in Frankfort. Since the beginning of the 2015 Fiscal Year, the department has seen a staffing shortage of epic proportions due to low salaries, constant overtime (currently nearing $10 million), and the lure of higher paying jobs in the private sector. What were once 8-hour days and 40-hour weeks with occasional overtime turned into 12-hour days and 60-hour weeks out of necessity. In response to this staffing crisis and continued pressure from correctional employees, the Kentucky Legislature held a special session and approved an immediate 13.1% salary increase for current security staff, moved non-security staff to 40 hour work weeks, and increased the starting salary for Correctional Officers from $23,346 to $30,000 annually. Shortly after taking office, Governor Bevin included $4.5 million in his biennial budget proposal to provide retention raises for correctional staff."
+}

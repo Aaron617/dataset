@@ -1,0 +1,683 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Russian_Premier_League",
+    "title": "Russian Premier League",
+    "header": [
+        [
+            "Team",
+            []
+        ],
+        [
+            "Home city",
+            []
+        ],
+        [
+            "Stadium",
+            []
+        ],
+        [
+            "Capacity",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Akhmat Grozny",
+                [
+                    "/wiki/FC_Akhmat_Grozny"
+                ],
+                [
+                    {
+                        "entity id": "Q240444",
+                        "label": "FC Akhmat Grozny"
+                    }
+                ]
+            ],
+            [
+                "Grozny",
+                [
+                    "/wiki/Grozny"
+                ],
+                [
+                    {
+                        "entity id": "Q5196",
+                        "label": "Grozny"
+                    }
+                ]
+            ],
+            [
+                "Akhmat-Arena",
+                [
+                    "/wiki/Akhmat-Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q340551",
+                        "label": "Akhmat-Arena"
+                    }
+                ]
+            ],
+            [
+                "30,597",
+                []
+            ]
+        ],
+        [
+            [
+                "Arsenal Tula",
+                [
+                    "/wiki/FC_Arsenal_Tula"
+                ],
+                [
+                    {
+                        "entity id": "Q2817362",
+                        "label": "FC Arsenal Tula"
+                    }
+                ]
+            ],
+            [
+                "Tula",
+                [
+                    "/wiki/Tula,_Russia"
+                ],
+                [
+                    {
+                        "entity id": "Q2770",
+                        "label": "Tula"
+                    }
+                ]
+            ],
+            [
+                "Arsenal Stadium",
+                [
+                    "/wiki/Arsenal_Stadium_(Tula)"
+                ],
+                [
+                    {
+                        "entity id": "Q3655413",
+                        "label": "Arsenal Stadium"
+                    }
+                ]
+            ],
+            [
+                "20,048",
+                []
+            ]
+        ],
+        [
+            [
+                "CSKA Moscow",
+                [
+                    "/wiki/PFC_CSKA_Moscow"
+                ],
+                [
+                    {
+                        "entity id": "Q176371",
+                        "label": "PFC CSKA Moscow"
+                    }
+                ]
+            ],
+            [
+                "Moscow",
+                [
+                    "/wiki/Moscow"
+                ],
+                [
+                    {
+                        "entity id": "Q649",
+                        "label": "Moscow"
+                    }
+                ]
+            ],
+            [
+                "VEB Arena",
+                [
+                    "/wiki/VEB_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q2608102",
+                        "label": "Arena CSKA"
+                    }
+                ]
+            ],
+            [
+                "30,457",
+                []
+            ]
+        ],
+        [
+            [
+                "Dynamo Moscow",
+                [
+                    "/wiki/FC_Dynamo_Moscow"
+                ],
+                [
+                    {
+                        "entity id": "Q4479983",
+                        "label": "FC Dynamo Moscow in European football"
+                    }
+                ]
+            ],
+            [
+                "Moscow",
+                [
+                    "/wiki/Moscow"
+                ],
+                [
+                    {
+                        "entity id": "Q649",
+                        "label": "Moscow"
+                    }
+                ]
+            ],
+            [
+                "VTB Arena",
+                [
+                    "/wiki/VTB_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q1475155",
+                        "label": "VTB Arena"
+                    }
+                ]
+            ],
+            [
+                "26,700",
+                []
+            ]
+        ],
+        [
+            [
+                "Krasnodar",
+                [
+                    "/wiki/FC_Krasnodar"
+                ],
+                [
+                    {
+                        "entity id": "Q220854",
+                        "label": "FC Krasnodar"
+                    }
+                ]
+            ],
+            [
+                "Krasnodar",
+                [
+                    "/wiki/Krasnodar"
+                ],
+                [
+                    {
+                        "entity id": "Q3646",
+                        "label": "Krasnodar"
+                    }
+                ]
+            ],
+            [
+                "Krasnodar Stadium",
+                [
+                    "/wiki/Krasnodar_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q3080082",
+                        "label": "Krasnodar Stadium"
+                    }
+                ]
+            ],
+            [
+                "34,291",
+                []
+            ]
+        ],
+        [
+            [
+                "Lokomotiv Moscow",
+                [
+                    "/wiki/FC_Lokomotiv_Moscow"
+                ],
+                [
+                    {
+                        "entity id": "Q29115",
+                        "label": "FC Lokomotiv Moscow"
+                    }
+                ]
+            ],
+            [
+                "Moscow",
+                [
+                    "/wiki/Moscow"
+                ],
+                [
+                    {
+                        "entity id": "Q649",
+                        "label": "Moscow"
+                    }
+                ]
+            ],
+            [
+                "Lokomotiv Stadium",
+                [
+                    "/wiki/Lokomotiv_Stadium_(Moscow)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "27,320",
+                []
+            ]
+        ],
+        [
+            [
+                "Rostov",
+                [
+                    "/wiki/FC_Rostov"
+                ],
+                [
+                    {
+                        "entity id": "Q182930",
+                        "label": "FC Rostov"
+                    }
+                ]
+            ],
+            [
+                "Rostov-on-Don",
+                [
+                    "/wiki/Rostov-on-Don"
+                ],
+                [
+                    {
+                        "entity id": "Q908",
+                        "label": "Rostov-on-Don"
+                    }
+                ]
+            ],
+            [
+                "Rostov Arena",
+                [
+                    "/wiki/Rostov_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q4439101",
+                        "label": "Rostov Arena"
+                    }
+                ]
+            ],
+            [
+                "45,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Rubin Kazan",
+                [
+                    "/wiki/FC_Rubin_Kazan"
+                ],
+                [
+                    {
+                        "entity id": "Q170040",
+                        "label": "Rubin Kazan"
+                    }
+                ]
+            ],
+            [
+                "Kazan",
+                [
+                    "/wiki/Kazan"
+                ],
+                [
+                    {
+                        "entity id": "Q900",
+                        "label": "Kazan"
+                    }
+                ]
+            ],
+            [
+                "Kazan Arena",
+                [
+                    "/wiki/Kazan_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q33993",
+                        "label": "Kazan Arena"
+                    }
+                ]
+            ],
+            [
+                "45,093",
+                []
+            ]
+        ],
+        [
+            [
+                "Orenburg",
+                [
+                    "/wiki/FC_Orenburg"
+                ],
+                [
+                    {
+                        "entity id": "Q2095484",
+                        "label": "FC Orenburg"
+                    }
+                ]
+            ],
+            [
+                "Orenburg",
+                [
+                    "/wiki/Orenburg"
+                ],
+                [
+                    {
+                        "entity id": "Q5337",
+                        "label": "Orenburg"
+                    }
+                ]
+            ],
+            [
+                "Orenburg Stadium",
+                [
+                    "/wiki/Gazovik_Stadium_(Orenburg)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "7,520",
+                []
+            ]
+        ],
+        [
+            [
+                "Spartak Moscow",
+                [
+                    "/wiki/FC_Spartak_Moscow"
+                ],
+                [
+                    {
+                        "entity id": "Q29112",
+                        "label": "Spartak Moscow"
+                    }
+                ]
+            ],
+            [
+                "Moscow",
+                [
+                    "/wiki/Moscow"
+                ],
+                [
+                    {
+                        "entity id": "Q649",
+                        "label": "Moscow"
+                    }
+                ]
+            ],
+            [
+                "Otkrytiye Arena",
+                [
+                    "/wiki/Otkrytiye_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q1190634",
+                        "label": "Otkrytie Bank Arena"
+                    }
+                ]
+            ],
+            [
+                "44,307",
+                []
+            ]
+        ],
+        [
+            [
+                "Sochi",
+                [
+                    "/wiki/PFC_Sochi"
+                ],
+                [
+                    {
+                        "entity id": "Q54834034",
+                        "label": "PFC Sochi"
+                    }
+                ]
+            ],
+            [
+                "Sochi",
+                [
+                    "/wiki/Sochi"
+                ],
+                [
+                    {
+                        "entity id": "Q39420",
+                        "label": "Sochi"
+                    }
+                ]
+            ],
+            [
+                "Fisht Olympic Stadium",
+                [
+                    "/wiki/Fisht_Olympic_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q1149601",
+                        "label": "Fisht Olympic Stadium"
+                    }
+                ]
+            ],
+            [
+                "44,287",
+                []
+            ]
+        ],
+        [
+            [
+                "Tambov",
+                [
+                    "/wiki/FC_Tambov"
+                ],
+                [
+                    {
+                        "entity id": "Q14161251",
+                        "label": "FC Tambov"
+                    }
+                ]
+            ],
+            [
+                "Tambov",
+                [
+                    "/wiki/Tambov"
+                ],
+                [
+                    {
+                        "entity id": "Q3544",
+                        "label": "Tambov"
+                    }
+                ]
+            ],
+            [
+                "Spartak Stadium",
+                []
+            ],
+            [
+                "8,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Krylia Sovetov Samara",
+                [
+                    "/wiki/FC_Krylia_Sovetov_Samara"
+                ],
+                [
+                    {
+                        "entity id": "Q274778",
+                        "label": "FC Krylia Sovetov Samara"
+                    }
+                ]
+            ],
+            [
+                "Samara",
+                [
+                    "/wiki/Samara"
+                ],
+                [
+                    {
+                        "entity id": "Q894",
+                        "label": "Samara"
+                    }
+                ]
+            ],
+            [
+                "Cosmos Arena",
+                [
+                    "/wiki/Cosmos_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q4439099",
+                        "label": "Samara Arena"
+                    }
+                ]
+            ],
+            [
+                "44,918",
+                []
+            ]
+        ],
+        [
+            [
+                "Ufa",
+                [
+                    "/wiki/FC_Ufa"
+                ],
+                [
+                    {
+                        "entity id": "Q2137561",
+                        "label": "FC Ufa"
+                    }
+                ]
+            ],
+            [
+                "Ufa",
+                [
+                    "/wiki/Ufa"
+                ],
+                [
+                    {
+                        "entity id": "Q911",
+                        "label": "Ufa"
+                    }
+                ]
+            ],
+            [
+                "Neftyanik Stadium",
+                [
+                    "/wiki/Neftyanik_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q4318145",
+                        "label": "BetBoom Arena"
+                    }
+                ]
+            ],
+            [
+                "15,132",
+                []
+            ]
+        ],
+        [
+            [
+                "FC Ural Yekaterinburg",
+                [
+                    "/wiki/FC_Ural_Yekaterinburg"
+                ],
+                [
+                    {
+                        "entity id": "Q889348",
+                        "label": "FC Ural Yekaterinburg"
+                    }
+                ]
+            ],
+            [
+                "Yekaterinburg",
+                [
+                    "/wiki/Yekaterinburg"
+                ],
+                [
+                    {
+                        "entity id": "Q887",
+                        "label": "Yekaterinburg"
+                    }
+                ]
+            ],
+            [
+                "Central Stadium",
+                [
+                    "/wiki/Central_Stadium_(Yekaterinburg)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "35,696",
+                []
+            ]
+        ],
+        [
+            [
+                "Zenit Saint Petersburg",
+                [
+                    "/wiki/FC_Zenit_Saint_Petersburg"
+                ],
+                [
+                    {
+                        "entity id": "Q29108",
+                        "label": "FC Zenit Saint Petersburg"
+                    }
+                ]
+            ],
+            [
+                "Saint Petersburg",
+                [
+                    "/wiki/Saint_Petersburg"
+                ],
+                [
+                    {
+                        "entity id": "Q656",
+                        "label": "Saint Petersburg"
+                    }
+                ]
+            ],
+            [
+                "Krestovsky Stadium",
+                [
+                    "/wiki/Krestovsky_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q722970",
+                        "label": "Gazprom Arena"
+                    }
+                ]
+            ],
+            [
+                "67,800",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Current clubs",
+    "section_text": "KrasnodarKrylia SovetovRostovOrenburgAkhmatZenitArsenalCSKADynamoLokomotivSpartakRubinUfaTambovUralSochi Locations of teams in 2019\u201320 Russian Premier League The following teams are competing in the 2019\u201320 season :",
+    "uid": "Russian_Football_Premier_League_0",
+    "intro": "The Russian Premier League (RPL; Russian: \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u043f\u0440\u0435\u043c\u044c\u0435\u0440-\u043b\u0438\u0433\u0430; \u0420\u041f\u041b) (Russian Premier Liga) is the top division professional association football league in Russia. It was established at the end of 2001 as the Russian Football Premier League (RFPL; Russian: \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0444\u0443\u0442\u0431\u043e\u043b\u044c\u043d\u0430\u044f \u043f\u0440\u0435\u043c\u044c\u0435\u0440-\u043b\u0438\u0433\u0430; \u0420\u0424\u041f\u041b) and was rebranded with its current name in 2018. From 1992 through 2001, the top level of the Russian football league system was the Russian Football Championship (Russian: \u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442 \u0420\u043e\u0441\u0441\u0438\u0438 \u043f\u043e \u0444\u0443\u0442\u0431\u043e\u043b\u0443, Chempionat Rossii po Futbolu). There are 16 teams in the competition. The league has three Champions League qualifying spots given to the top three teams at the end of the season and the two Europa League spots will be allocated to the fourth and fifth placed teams. The last two teams are relegated to the Russian National Football League at the end of the season. The Russian Premier League succeeded the Top Division including history and records. The Top Division was run by the Professional Football League of Russia. Creation of the Premier League is considered to give the clubs a greater degree of independence. The league is currently called Rosgosstrakh Russian Football Championship (Russian: \u0420\u043e\u0441\u0433\u043e\u0441\u0441\u0442\u0440\u0430\u0445 - \u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442 \u0420\u043e\u0441\u0441\u0438\u0438 \u043f\u043e \u0444\u0443\u0442\u0431\u043e\u043b\u0443) for sponsorship reasons. Since the introduction of the Russian Premier League in 2002, CSKA Moscow (6 times), Zenit St. Petersburg (5 times), Lokomotiv Moscow (3 times), Rubin Kazan (2 times) and Spartak Moscow (1 time) have won the title. Zenit Saint Petersburg are the current Russian Premier League champions."
+}

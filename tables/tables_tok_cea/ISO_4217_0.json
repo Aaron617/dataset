@@ -1,0 +1,824 @@
+{
+    "url": "https://en.wikipedia.org/wiki/ISO_4217",
+    "title": "ISO 4217",
+    "header": [
+        [
+            "Code",
+            []
+        ],
+        [
+            "Num",
+            []
+        ],
+        [
+            "E",
+            []
+        ],
+        [
+            "Currency",
+            []
+        ],
+        [
+            "Locations using this currency",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "AED",
+                []
+            ],
+            [
+                "784",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "United Arab Emirates dirham",
+                [
+                    "/wiki/United_Arab_Emirates_dirham"
+                ],
+                [
+                    {
+                        "entity id": "Q200294",
+                        "label": "United Arab Emirates dirham"
+                    }
+                ]
+            ],
+            [
+                "United Arab Emirates",
+                [
+                    "/wiki/United_Arab_Emirates"
+                ],
+                [
+                    {
+                        "entity id": "Q878",
+                        "label": "United Arab Emirates"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "AFN",
+                []
+            ],
+            [
+                "971",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Afghan afghani",
+                [
+                    "/wiki/Afghan_afghani"
+                ],
+                [
+                    {
+                        "entity id": "Q199471",
+                        "label": "Afghan afghani"
+                    }
+                ]
+            ],
+            [
+                "Afghanistan",
+                [
+                    "/wiki/Afghanistan"
+                ],
+                [
+                    {
+                        "entity id": "Q889",
+                        "label": "Afghanistan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ALL",
+                []
+            ],
+            [
+                "008",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Albanian lek",
+                [
+                    "/wiki/Albanian_lek"
+                ],
+                [
+                    {
+                        "entity id": "Q125999",
+                        "label": "Albanian lek"
+                    }
+                ]
+            ],
+            [
+                "Albania",
+                [
+                    "/wiki/Albania"
+                ],
+                [
+                    {
+                        "entity id": "Q222",
+                        "label": "Albania"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "AMD",
+                []
+            ],
+            [
+                "051",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Armenian dram",
+                [
+                    "/wiki/Armenian_dram"
+                ],
+                [
+                    {
+                        "entity id": "Q130498",
+                        "label": "Armenian dram"
+                    }
+                ]
+            ],
+            [
+                "Armenia",
+                [
+                    "/wiki/Armenia"
+                ],
+                [
+                    {
+                        "entity id": "Q399",
+                        "label": "Armenia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ANG",
+                []
+            ],
+            [
+                "532",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Netherlands Antillean guilder",
+                [
+                    "/wiki/Netherlands_Antillean_guilder"
+                ],
+                [
+                    {
+                        "entity id": "Q522701",
+                        "label": "Netherlands Antillean guilder"
+                    }
+                ]
+            ],
+            [
+                "Cura\u00e7ao ( CW ) , Sint Maarten ( SX )",
+                [
+                    "/wiki/Cura\u00e7ao",
+                    "/wiki/Sint_Maarten"
+                ],
+                [
+                    {
+                        "entity id": "Q25279",
+                        "label": "Cura\u00e7ao"
+                    },
+                    {
+                        "entity id": "Q26273",
+                        "label": "Sint Maarten"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "AOA",
+                []
+            ],
+            [
+                "973",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Angolan kwanza",
+                [
+                    "/wiki/Angolan_kwanza"
+                ],
+                [
+                    {
+                        "entity id": "Q200337",
+                        "label": "kwanza"
+                    }
+                ]
+            ],
+            [
+                "Angola",
+                [
+                    "/wiki/Angola"
+                ],
+                [
+                    {
+                        "entity id": "Q916",
+                        "label": "Angola"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ARS",
+                []
+            ],
+            [
+                "032",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Argentine peso",
+                [
+                    "/wiki/Argentine_peso"
+                ],
+                [
+                    {
+                        "entity id": "Q199578",
+                        "label": "Argentine peso"
+                    }
+                ]
+            ],
+            [
+                "Argentina",
+                [
+                    "/wiki/Argentina"
+                ],
+                [
+                    {
+                        "entity id": "Q414",
+                        "label": "Argentina"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "AUD",
+                []
+            ],
+            [
+                "036",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Australian dollar",
+                [
+                    "/wiki/Australian_dollar"
+                ],
+                [
+                    {
+                        "entity id": "Q259502",
+                        "label": "Australian dollar"
+                    }
+                ]
+            ],
+            [
+                "Australia , Christmas Island ( CX ) , Cocos ( Keeling ) Islands ( CC ) , Heard Island and McDonald Islands ( HM ) , Kiribati ( KI ) , Nauru ( NR ) , Norfolk Island ( NF ) , Tuvalu ( TV )",
+                [
+                    "/wiki/Australia",
+                    "/wiki/Christmas_Island",
+                    "/wiki/Cocos_(Keeling)_Islands",
+                    "/wiki/Heard_Island_and_McDonald_Islands",
+                    "/wiki/Kiribati",
+                    "/wiki/Nauru",
+                    "/wiki/Norfolk_Island",
+                    "/wiki/Tuvalu"
+                ],
+                [
+                    {
+                        "entity id": "Q408",
+                        "label": "Australia"
+                    },
+                    {
+                        "entity id": "Q31063",
+                        "label": "Christmas Island"
+                    },
+                    {
+                        "entity id": "Q36004",
+                        "label": "Cocos (Keeling) Islands"
+                    },
+                    {
+                        "entity id": "Q131198",
+                        "label": "Heard Island and McDonald Islands"
+                    },
+                    {
+                        "entity id": "Q710",
+                        "label": "Kiribati"
+                    },
+                    {
+                        "entity id": "Q697",
+                        "label": "Nauru"
+                    },
+                    {
+                        "entity id": "Q31057",
+                        "label": "Norfolk Island"
+                    },
+                    {
+                        "entity id": "Q672",
+                        "label": "Tuvalu"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "AWG",
+                []
+            ],
+            [
+                "533",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Aruban florin",
+                [
+                    "/wiki/Aruban_florin"
+                ],
+                [
+                    {
+                        "entity id": "Q232270",
+                        "label": "Aruban florin"
+                    }
+                ]
+            ],
+            [
+                "Aruba",
+                [
+                    "/wiki/Aruba"
+                ],
+                [
+                    {
+                        "entity id": "Q21203",
+                        "label": "Aruba"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "AZN",
+                []
+            ],
+            [
+                "944",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Azerbaijani manat",
+                [
+                    "/wiki/Azerbaijani_manat"
+                ],
+                [
+                    {
+                        "entity id": "Q483725",
+                        "label": "Azerbaijani manat"
+                    }
+                ]
+            ],
+            [
+                "Azerbaijan",
+                [
+                    "/wiki/Azerbaijan"
+                ],
+                [
+                    {
+                        "entity id": "Q227",
+                        "label": "Azerbaijan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BAM",
+                []
+            ],
+            [
+                "977",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Bosnia and Herzegovina convertible mark",
+                [
+                    "/wiki/Bosnia_and_Herzegovina_convertible_mark"
+                ],
+                [
+                    {
+                        "entity id": "Q179620",
+                        "label": "convertible mark"
+                    }
+                ]
+            ],
+            [
+                "Bosnia and Herzegovina",
+                [
+                    "/wiki/Bosnia_and_Herzegovina"
+                ],
+                [
+                    {
+                        "entity id": "Q225",
+                        "label": "Bosnia and Herzegovina"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BBD",
+                []
+            ],
+            [
+                "052",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Barbados dollar",
+                [
+                    "/wiki/Barbados_dollar"
+                ],
+                [
+                    {
+                        "entity id": "Q194351",
+                        "label": "Barbadian dollar"
+                    }
+                ]
+            ],
+            [
+                "Barbados",
+                [
+                    "/wiki/Barbados"
+                ],
+                [
+                    {
+                        "entity id": "Q244",
+                        "label": "Barbados"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BDT",
+                []
+            ],
+            [
+                "050",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Bangladeshi taka",
+                [
+                    "/wiki/Bangladeshi_taka"
+                ],
+                [
+                    {
+                        "entity id": "Q194453",
+                        "label": "Bangladeshi taka"
+                    }
+                ]
+            ],
+            [
+                "Bangladesh",
+                [
+                    "/wiki/Bangladesh"
+                ],
+                [
+                    {
+                        "entity id": "Q902",
+                        "label": "Bangladesh"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BGN",
+                []
+            ],
+            [
+                "975",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Bulgarian lev",
+                [
+                    "/wiki/Bulgarian_lev"
+                ],
+                [
+                    {
+                        "entity id": "Q172540",
+                        "label": "Bulgarian lev"
+                    }
+                ]
+            ],
+            [
+                "Bulgaria",
+                [
+                    "/wiki/Bulgaria"
+                ],
+                [
+                    {
+                        "entity id": "Q219",
+                        "label": "Bulgaria"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BHD",
+                []
+            ],
+            [
+                "048",
+                []
+            ],
+            [
+                "3",
+                []
+            ],
+            [
+                "Bahraini dinar",
+                [
+                    "/wiki/Bahraini_dinar"
+                ],
+                [
+                    {
+                        "entity id": "Q201871",
+                        "label": "Bahraini dinar"
+                    }
+                ]
+            ],
+            [
+                "Bahrain",
+                [
+                    "/wiki/Bahrain"
+                ],
+                [
+                    {
+                        "entity id": "Q398",
+                        "label": "Bahrain"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BIF",
+                []
+            ],
+            [
+                "108",
+                []
+            ],
+            [
+                "0",
+                []
+            ],
+            [
+                "Burundian franc",
+                [
+                    "/wiki/Burundian_franc"
+                ],
+                [
+                    {
+                        "entity id": "Q238007",
+                        "label": "Burundian franc"
+                    }
+                ]
+            ],
+            [
+                "Burundi",
+                [
+                    "/wiki/Burundi"
+                ],
+                [
+                    {
+                        "entity id": "Q967",
+                        "label": "Burundi"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BMD",
+                []
+            ],
+            [
+                "060",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Bermudian dollar",
+                [
+                    "/wiki/Bermudian_dollar"
+                ],
+                [
+                    {
+                        "entity id": "Q210478",
+                        "label": "Bermudian dollar"
+                    }
+                ]
+            ],
+            [
+                "Bermuda",
+                [
+                    "/wiki/Bermuda"
+                ],
+                [
+                    {
+                        "entity id": "Q23635",
+                        "label": "Bermuda"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BND",
+                []
+            ],
+            [
+                "096",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Brunei dollar",
+                [
+                    "/wiki/Brunei_dollar"
+                ],
+                [
+                    {
+                        "entity id": "Q206319",
+                        "label": "Brunei dollar"
+                    }
+                ]
+            ],
+            [
+                "Brunei",
+                [
+                    "/wiki/Brunei"
+                ],
+                [
+                    {
+                        "entity id": "Q921",
+                        "label": "Brunei"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BOB",
+                []
+            ],
+            [
+                "068",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Boliviano",
+                [
+                    "/wiki/Boliviano"
+                ],
+                [
+                    {
+                        "entity id": "Q200737",
+                        "label": "boliviano"
+                    }
+                ]
+            ],
+            [
+                "Bolivia",
+                [
+                    "/wiki/Bolivia"
+                ],
+                [
+                    {
+                        "entity id": "Q750",
+                        "label": "Bolivia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BOV",
+                []
+            ],
+            [
+                "984",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Bolivian Mvdol ( funds code )",
+                []
+            ],
+            [
+                "Bolivia",
+                [
+                    "/wiki/Bolivia"
+                ],
+                [
+                    {
+                        "entity id": "Q750",
+                        "label": "Bolivia"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Active codes",
+    "section_text": "The following is a list of active codes of official ISO 4217 currency names . In the standard the values are called `` alphabetic code '' , `` numeric code '' , and `` minor unit '' .",
+    "uid": "ISO_4217_0",
+    "intro": "ISO 4217 is a standard first published by International Organization for Standardization in 1978, which delineates currency designators, country codes (alpha and numeric), and references to minor units in three tables:"
+}

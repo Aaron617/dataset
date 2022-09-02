@@ -1,0 +1,414 @@
+{
+    "url": "https://en.wikipedia.org/wiki/B_vitamins",
+    "title": "B vitamins",
+    "header": [
+        [
+            "B number",
+            []
+        ],
+        [
+            "Name",
+            []
+        ],
+        [
+            "Thumbnail description",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Vitamin B 1",
+                [
+                    "/wiki/Vitamin_B1"
+                ],
+                [
+                    {
+                        "entity id": "Q83187",
+                        "label": "thiamine(1+) ion"
+                    }
+                ]
+            ],
+            [
+                "thiamine",
+                [
+                    "/wiki/Thiamine"
+                ],
+                [
+                    {
+                        "entity id": "Q83187",
+                        "label": "thiamine(1+) ion"
+                    }
+                ]
+            ],
+            [
+                "A coenzyme in the catabolism of sugars and amino acids",
+                [
+                    "/wiki/Cofactor_(biochemistry)",
+                    "/wiki/Catabolism",
+                    "/wiki/Sugar",
+                    "/wiki/Amino_acid"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q21130714",
+                        "label": "catabolic process"
+                    },
+                    {
+                        "entity id": "Q23118",
+                        "label": "lysergic acid diethylamide"
+                    },
+                    {
+                        "entity id": "Q8066",
+                        "label": "amino acid"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Vitamin B 2",
+                [
+                    "/wiki/Vitamin_B2"
+                ],
+                [
+                    {
+                        "entity id": "Q130365",
+                        "label": "riboflavin"
+                    }
+                ]
+            ],
+            [
+                "riboflavin",
+                [
+                    "/wiki/Riboflavin"
+                ],
+                [
+                    {
+                        "entity id": "Q130365",
+                        "label": "riboflavin"
+                    }
+                ]
+            ],
+            [
+                "A precursor of coenzymes called FAD and FMN , which are needed for flavoprotein enzyme reactions , including activation of other vitamins",
+                [
+                    "/wiki/Precursor_(chemistry)",
+                    "/wiki/Cofactor_(biochemistry)",
+                    "/wiki/Flavin_adenine_dinucleotide",
+                    "/wiki/Flavin_mononucleotide",
+                    "/wiki/Flavoprotein"
+                ],
+                [
+                    {
+                        "entity id": "Q247994",
+                        "label": "precursor"
+                    },
+                    {},
+                    {
+                        "entity id": "Q28746",
+                        "label": "flavin adenine dinucleotide"
+                    },
+                    {
+                        "entity id": "Q376061",
+                        "label": "flavin mononucleotide"
+                    },
+                    {
+                        "entity id": "Q78574842",
+                        "label": "flavoprotein"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Vitamin B 3",
+                [
+                    "/wiki/Vitamin_B3"
+                ],
+                [
+                    {
+                        "entity id": "Q192423",
+                        "label": "niacinamide"
+                    }
+                ]
+            ],
+            [
+                "niacin ( nicotinic acid ) , nicotinamide , nicotinamide riboside",
+                [
+                    "/wiki/Niacin",
+                    "/wiki/Nicotinamide",
+                    "/wiki/Nicotinamide_riboside"
+                ],
+                [
+                    {
+                        "entity id": "Q192423",
+                        "label": "niacinamide"
+                    },
+                    {
+                        "entity id": "Q192423",
+                        "label": "niacinamide"
+                    },
+                    {
+                        "entity id": "Q3334152",
+                        "label": "N-ribosylnicotinamide"
+                    }
+                ]
+            ],
+            [
+                "A precursor of coenzymes called NAD and NADP , which are needed in many metabolic processes",
+                [
+                    "/wiki/Coenzyme",
+                    "/wiki/Nicotinamide_adenine_dinucleotide",
+                    "/wiki/Nicotinamide_adenine_dinucleotide_phosphate",
+                    "/wiki/Metabolism"
+                ],
+                [
+                    {
+                        "entity id": "Q1050086",
+                        "label": "coenzymes"
+                    },
+                    {
+                        "entity id": "Q12499775",
+                        "label": "nicotinamide adenine dinucleotide"
+                    },
+                    {
+                        "entity id": "Q28747",
+                        "label": "nicotinamide adenine dinucleotide phosphate"
+                    },
+                    {
+                        "entity id": "Q1057",
+                        "label": "metabolism"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Vitamin B 5",
+                [
+                    "/wiki/Vitamin_B5"
+                ],
+                [
+                    {
+                        "entity id": "Q179894",
+                        "label": "pantothenic acid"
+                    }
+                ]
+            ],
+            [
+                "pantothenic acid",
+                [
+                    "/wiki/Pantothenic_acid"
+                ],
+                [
+                    {
+                        "entity id": "Q179894",
+                        "label": "pantothenic acid"
+                    }
+                ]
+            ],
+            [
+                "A precursor of coenzyme A and therefore needed to metabolize many molecules",
+                [
+                    "/wiki/Coenzyme_A"
+                ],
+                [
+                    {
+                        "entity id": "Q407635",
+                        "label": "coenzyme A"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Vitamin B 6",
+                [
+                    "/wiki/Vitamin_B6"
+                ],
+                [
+                    {
+                        "entity id": "Q423746",
+                        "label": "pyridoxine"
+                    }
+                ]
+            ],
+            [
+                "pyridoxine , pyridoxal , pyridoxamine",
+                [
+                    "/wiki/Pyridoxine",
+                    "/wiki/Pyridoxal",
+                    "/wiki/Pyridoxamine"
+                ],
+                [
+                    {
+                        "entity id": "Q423746",
+                        "label": "pyridoxine"
+                    },
+                    {
+                        "entity id": "Q3065731",
+                        "label": "pyridoxal"
+                    },
+                    {
+                        "entity id": "Q2541149",
+                        "label": "pyridoxamine"
+                    }
+                ]
+            ],
+            [
+                "A coenzyme in many enzymatic reactions in metabolism",
+                []
+            ]
+        ],
+        [
+            [
+                "Vitamin B 7",
+                [
+                    "/wiki/Vitamin_B7"
+                ],
+                [
+                    {
+                        "entity id": "Q181354",
+                        "label": "biotin"
+                    }
+                ]
+            ],
+            [
+                "biotin",
+                [
+                    "/wiki/Biotin"
+                ],
+                [
+                    {
+                        "entity id": "Q181354",
+                        "label": "biotin"
+                    }
+                ]
+            ],
+            [
+                "A coenzyme for carboxylase enzymes , needed for synthesis of fatty acids and in gluconeogenesis",
+                [
+                    "/wiki/Carboxylase",
+                    "/wiki/Fatty_acid",
+                    "/wiki/Gluconeogenesis"
+                ],
+                [
+                    {
+                        "entity id": "Q904895",
+                        "label": "carboxylase"
+                    },
+                    {
+                        "entity id": "Q61476",
+                        "label": "fatty acid"
+                    },
+                    {
+                        "entity id": "Q191835",
+                        "label": "gluconeogenesis"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Vitamin B 9",
+                [
+                    "/wiki/Vitamin_b9"
+                ],
+                [
+                    {
+                        "entity id": "Q21120059",
+                        "label": "folic acid-containing compound biosynthetic process"
+                    }
+                ]
+            ],
+            [
+                "folate",
+                [
+                    "/wiki/Folate"
+                ],
+                [
+                    {
+                        "entity id": "Q111271197",
+                        "label": "folate"
+                    }
+                ]
+            ],
+            [
+                "A precursor needed to make , repair , and methylate DNA ; a cofactor in various reactions ; especially important in aiding rapid cell division and growth , such as in infancy and pregnancy",
+                [
+                    "/wiki/Methylation",
+                    "/wiki/Cell_division"
+                ],
+                [
+                    {
+                        "entity id": "Q518328",
+                        "label": "methylation"
+                    },
+                    {
+                        "entity id": "Q188909",
+                        "label": "cell division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Vitamin B 12",
+                [
+                    "/wiki/Vitamin_B12"
+                ],
+                [
+                    {
+                        "entity id": "Q187706",
+                        "label": "vitamin B12"
+                    }
+                ]
+            ],
+            [
+                "various cobalamins ; commonly cyanocobalamin or methylcobalamin in vitamin supplements",
+                [
+                    "/wiki/Cobalamin",
+                    "/wiki/Cyanocobalamin",
+                    "/wiki/Methylcobalamin"
+                ],
+                [
+                    {
+                        "entity id": "Q187706",
+                        "label": "vitamin B12"
+                    },
+                    {
+                        "entity id": "Q252251",
+                        "label": "cyanocobalamin"
+                    },
+                    {
+                        "entity id": "Q250442",
+                        "label": "Methylcobalamin"
+                    }
+                ]
+            ],
+            [
+                "A coenzyme involved in the metabolism of every cell of the human body , especially affecting DNA synthesis and regulation , but also fatty acid metabolism and amino acid metabolism",
+                [
+                    "/wiki/Fatty_acid_metabolism",
+                    "/wiki/Amino_acid_metabolism"
+                ],
+                [
+                    {
+                        "entity id": "Q14860867",
+                        "label": "fatty acid metabolic process"
+                    },
+                    {
+                        "entity id": "Q30102291",
+                        "label": "amino acid metabolism"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "List of B vitamins",
+    "section_text": "",
+    "uid": "B_vitamins_0",
+    "intro": "B vitamins are a class of water-soluble vitamins that play important roles in cell metabolism. Though these vitamins share similar names, they are chemically distinct compounds that often coexist in the same foods. In general, dietary supplements containing all eight are referred to as a vitamin B complex. Individual B vitamin supplements are referred to by the specific number or name of each vitamin: B1 = thiamine, B2 = riboflavin, B3 = niacin, etc. Some are better known by name than number: niacin, pantothenic acid, biotin and folate. Each B vitamin is either a cofactor (generally a coenzyme) for key metabolic processes or is a precursor needed to make one."
+}

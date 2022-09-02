@@ -1,0 +1,714 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_power_stations_in_Finland",
+    "title": "List of power stations in Finland",
+    "header": [
+        [
+            "Station",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Fuel",
+            []
+        ],
+        [
+            "Capacity ( MW )",
+            [
+                "/wiki/Megawatt"
+            ],
+            [
+                {
+                    "entity id": "Q6982035",
+                    "label": "megawatt"
+                }
+            ]
+        ],
+        [
+            "Status",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Alholmens Kraft Power Station",
+                [
+                    "/wiki/Alholmens_Kraft_Power_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q4724479",
+                        "label": "Alholmens Kraft Power Station"
+                    }
+                ]
+            ],
+            [
+                "Jakobstad",
+                [
+                    "/wiki/Jakobstad"
+                ],
+                [
+                    {
+                        "entity id": "Q1679567",
+                        "label": "Jakobstad"
+                    }
+                ]
+            ],
+            [
+                "Biomass and Peat",
+                [
+                    "/wiki/Biomass",
+                    "/wiki/Peat"
+                ],
+                [
+                    {
+                        "entity id": "Q2945560",
+                        "label": "biomass"
+                    },
+                    {
+                        "entity id": "Q184624",
+                        "label": "peat"
+                    }
+                ]
+            ],
+            [
+                "265",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Haapaniemi Power Station",
+                []
+            ],
+            [
+                "Kuopio",
+                [
+                    "/wiki/Kuopio"
+                ],
+                [
+                    {
+                        "entity id": "Q162279",
+                        "label": "Kuopio"
+                    }
+                ]
+            ],
+            [
+                "Peat",
+                [
+                    "/wiki/Peat"
+                ],
+                [
+                    {
+                        "entity id": "Q184624",
+                        "label": "peat"
+                    }
+                ]
+            ],
+            [
+                "90",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Haapavesi Power Station",
+                []
+            ],
+            [
+                "Haapavesi",
+                [
+                    "/wiki/Haapavesi"
+                ],
+                [
+                    {
+                        "entity id": "Q819387",
+                        "label": "Haapavesi"
+                    }
+                ]
+            ],
+            [
+                "Peat",
+                [
+                    "/wiki/Peat"
+                ],
+                [
+                    {
+                        "entity id": "Q184624",
+                        "label": "peat"
+                    }
+                ]
+            ],
+            [
+                "154",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Joensuu Power Station",
+                []
+            ],
+            [
+                "Joensuu",
+                [
+                    "/wiki/Joensuu"
+                ],
+                [
+                    {
+                        "entity id": "Q186237",
+                        "label": "Joensuu"
+                    }
+                ]
+            ],
+            [
+                "Biomass and Peat",
+                [
+                    "/wiki/Biomass",
+                    "/wiki/Peat"
+                ],
+                [
+                    {
+                        "entity id": "Q2945560",
+                        "label": "biomass"
+                    },
+                    {
+                        "entity id": "Q184624",
+                        "label": "peat"
+                    }
+                ]
+            ],
+            [
+                "50",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Kaukaan Voima Power Station",
+                []
+            ],
+            [
+                "Lappeenranta",
+                [
+                    "/wiki/Lappeenranta"
+                ],
+                [
+                    {
+                        "entity id": "Q181854",
+                        "label": "Lappeenranta"
+                    }
+                ]
+            ],
+            [
+                "Biomass",
+                [
+                    "/wiki/Biomass"
+                ],
+                [
+                    {
+                        "entity id": "Q2945560",
+                        "label": "biomass"
+                    }
+                ]
+            ],
+            [
+                "125",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Keljonlahti Power Station",
+                []
+            ],
+            [
+                "Jyv\u00e4skyl\u00e4",
+                [
+                    "/wiki/Jyv\u00e4skyl\u00e4"
+                ],
+                [
+                    {
+                        "entity id": "Q134620",
+                        "label": "Jyv\u00e4skyl\u00e4"
+                    }
+                ]
+            ],
+            [
+                "Peat and Biomass",
+                [
+                    "/wiki/Peat",
+                    "/wiki/Biomass"
+                ],
+                [
+                    {
+                        "entity id": "Q184624",
+                        "label": "peat"
+                    },
+                    {
+                        "entity id": "Q2945560",
+                        "label": "biomass"
+                    }
+                ]
+            ],
+            [
+                "209",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Kymin Voima Power Station",
+                []
+            ],
+            [
+                "Kouvola",
+                [
+                    "/wiki/Kouvola"
+                ],
+                [
+                    {
+                        "entity id": "Q204382",
+                        "label": "Kouvola"
+                    }
+                ]
+            ],
+            [
+                "Biomass and Peat",
+                [
+                    "/wiki/Biomass",
+                    "/wiki/Peat"
+                ],
+                [
+                    {
+                        "entity id": "Q2945560",
+                        "label": "biomass"
+                    },
+                    {
+                        "entity id": "Q184624",
+                        "label": "peat"
+                    }
+                ]
+            ],
+            [
+                "76",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Naantali Power Station",
+                []
+            ],
+            [
+                "Naantali",
+                [
+                    "/wiki/Naantali"
+                ],
+                [
+                    {
+                        "entity id": "Q503862",
+                        "label": "Naantali"
+                    }
+                ]
+            ],
+            [
+                "Coal , Natural gas , Peat , Biomass and RDF",
+                [
+                    "/wiki/Coal",
+                    "/wiki/Natural_gas",
+                    "/wiki/Peat",
+                    "/wiki/Biomass",
+                    "/wiki/Refuse-derived_fuel"
+                ],
+                [
+                    {
+                        "entity id": "Q24489",
+                        "label": "coal"
+                    },
+                    {
+                        "entity id": "Q40858",
+                        "label": "natural gas"
+                    },
+                    {
+                        "entity id": "Q184624",
+                        "label": "peat"
+                    },
+                    {
+                        "entity id": "Q2945560",
+                        "label": "biomass"
+                    },
+                    {
+                        "entity id": "Q48404",
+                        "label": "refuse-derived fuel"
+                    }
+                ]
+            ],
+            [
+                "142",
+                []
+            ],
+            [
+                "Under construction",
+                []
+            ]
+        ],
+        [
+            [
+                "Naistenlahti Power Station",
+                []
+            ],
+            [
+                "Tampere",
+                [
+                    "/wiki/Tampere"
+                ],
+                [
+                    {
+                        "entity id": "Q40840",
+                        "label": "Tampere"
+                    }
+                ]
+            ],
+            [
+                "Natural gas , Peat , Wood and Fuel Oil",
+                [
+                    "/wiki/Natural_gas",
+                    "/wiki/Peat",
+                    "/wiki/Wood",
+                    "/wiki/Fuel_Oil"
+                ],
+                [
+                    {
+                        "entity id": "Q40858",
+                        "label": "natural gas"
+                    },
+                    {
+                        "entity id": "Q184624",
+                        "label": "peat"
+                    },
+                    {
+                        "entity id": "Q4421",
+                        "label": "forest"
+                    },
+                    {
+                        "entity id": "Q214199",
+                        "label": "fuel oil"
+                    }
+                ]
+            ],
+            [
+                "189",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Pursiala Power Station",
+                []
+            ],
+            [
+                "Mikkeli",
+                [
+                    "/wiki/Mikkeli"
+                ],
+                [
+                    {
+                        "entity id": "Q190583",
+                        "label": "Mikkeli"
+                    }
+                ]
+            ],
+            [
+                "Wood and Peat",
+                [
+                    "/wiki/Wood",
+                    "/wiki/Peat"
+                ],
+                [
+                    {
+                        "entity id": "Q4421",
+                        "label": "forest"
+                    },
+                    {
+                        "entity id": "Q184624",
+                        "label": "peat"
+                    }
+                ]
+            ],
+            [
+                "62",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Rauhalahti Power Station",
+                [
+                    "/wiki/Rauhalahti_Power_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q3432740",
+                        "label": "Rauhalahti Power Station"
+                    }
+                ]
+            ],
+            [
+                "Jyv\u00e4skyl\u00e4",
+                [
+                    "/wiki/Jyv\u00e4skyl\u00e4"
+                ],
+                [
+                    {
+                        "entity id": "Q134620",
+                        "label": "Jyv\u00e4skyl\u00e4"
+                    }
+                ]
+            ],
+            [
+                "Peat and Wood",
+                [
+                    "/wiki/Peat",
+                    "/wiki/Wood"
+                ],
+                [
+                    {
+                        "entity id": "Q184624",
+                        "label": "peat"
+                    },
+                    {
+                        "entity id": "Q4421",
+                        "label": "forest"
+                    }
+                ]
+            ],
+            [
+                "87",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Sein\u00e4joki Power Station",
+                []
+            ],
+            [
+                "Sein\u00e4joki",
+                [
+                    "/wiki/Sein\u00e4joki"
+                ],
+                [
+                    {
+                        "entity id": "Q6157",
+                        "label": "Sein\u00e4joki"
+                    }
+                ]
+            ],
+            [
+                "Peat and Wood",
+                [
+                    "/wiki/Peat",
+                    "/wiki/Wood"
+                ],
+                [
+                    {
+                        "entity id": "Q184624",
+                        "label": "peat"
+                    },
+                    {
+                        "entity id": "Q4421",
+                        "label": "forest"
+                    }
+                ]
+            ],
+            [
+                "120",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Tihisenniemi Power Station",
+                []
+            ],
+            [
+                "Kajaani",
+                [
+                    "/wiki/Kajaani"
+                ],
+                [
+                    {
+                        "entity id": "Q193180",
+                        "label": "Kajaani"
+                    }
+                ]
+            ],
+            [
+                "Peat",
+                [
+                    "/wiki/Peat"
+                ],
+                [
+                    {
+                        "entity id": "Q184624",
+                        "label": "peat"
+                    }
+                ]
+            ],
+            [
+                "88",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Toppila Power Station",
+                [
+                    "/wiki/Toppila_Power_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q796751",
+                        "label": "Toppila Power Station"
+                    }
+                ]
+            ],
+            [
+                "Oulu",
+                [
+                    "/wiki/Oulu"
+                ],
+                [
+                    {
+                        "entity id": "Q47048",
+                        "label": "Oulu"
+                    }
+                ]
+            ],
+            [
+                "Peat",
+                [
+                    "/wiki/Peat"
+                ],
+                [
+                    {
+                        "entity id": "Q184624",
+                        "label": "peat"
+                    }
+                ]
+            ],
+            [
+                "190",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Vanaja Power Station",
+                []
+            ],
+            [
+                "H\u00e4meenlinna",
+                [
+                    "/wiki/H\u00e4meenlinna"
+                ],
+                [
+                    {
+                        "entity id": "Q202158",
+                        "label": "H\u00e4meenlinna"
+                    }
+                ]
+            ],
+            [
+                "Biomass , Peat and Natural gas",
+                [
+                    "/wiki/Biomass",
+                    "/wiki/Peat",
+                    "/wiki/Natural_gas"
+                ],
+                [
+                    {
+                        "entity id": "Q2945560",
+                        "label": "biomass"
+                    },
+                    {
+                        "entity id": "Q184624",
+                        "label": "peat"
+                    },
+                    {
+                        "entity id": "Q40858",
+                        "label": "natural gas"
+                    }
+                ]
+            ],
+            [
+                "54",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Renewable -- Biomass and peat",
+    "section_text": "",
+    "uid": "List_of_power_stations_in_Finland_2",
+    "intro": "The following page lists all power stations in Finland."
+}

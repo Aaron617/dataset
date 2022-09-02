@@ -1,0 +1,512 @@
+{
+    "url": "https://en.wikipedia.org/wiki/2011_Belarusian_First_League",
+    "title": "2011 Belarusian First League",
+    "header": [
+        [
+            "Team",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Position in 2010",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Partizan",
+                [
+                    "/wiki/FC_Partizan_Minsk"
+                ],
+                [
+                    {
+                        "entity id": "Q751634",
+                        "label": "FC Partizan Minsk"
+                    }
+                ]
+            ],
+            [
+                "Minsk",
+                [
+                    "/wiki/Minsk"
+                ],
+                [
+                    {
+                        "entity id": "Q2280",
+                        "label": "Minsk"
+                    }
+                ]
+            ],
+            [
+                "Premier League , 12",
+                [
+                    "/wiki/2010_Belarusian_Premier_League"
+                ],
+                [
+                    {
+                        "entity id": "Q1061862",
+                        "label": "2010 Belarusian Premier League"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SKVICH",
+                [
+                    "/wiki/FC_SKVICH_Minsk"
+                ],
+                [
+                    {
+                        "entity id": "Q995098",
+                        "label": "FC SKVICH Minsk"
+                    }
+                ]
+            ],
+            [
+                "Minsk",
+                [
+                    "/wiki/Minsk"
+                ],
+                [
+                    {
+                        "entity id": "Q2280",
+                        "label": "Minsk"
+                    }
+                ]
+            ],
+            [
+                "2",
+                []
+            ]
+        ],
+        [
+            [
+                "DSK",
+                [
+                    "/wiki/FC_DSK_Gomel"
+                ],
+                [
+                    {
+                        "entity id": "Q2061118",
+                        "label": "FC DSK Gomel"
+                    }
+                ]
+            ],
+            [
+                "Gomel",
+                [
+                    "/wiki/Gomel"
+                ],
+                [
+                    {
+                        "entity id": "Q2678",
+                        "label": "Gomel"
+                    }
+                ]
+            ],
+            [
+                "3",
+                []
+            ]
+        ],
+        [
+            [
+                "Granit",
+                [
+                    "/wiki/FC_Granit_Mikashevichi"
+                ],
+                [
+                    {
+                        "entity id": "Q995028",
+                        "label": "FC Granit Mikashevichi"
+                    }
+                ]
+            ],
+            [
+                "Mikashevichi",
+                [
+                    "/wiki/Mikashevichi"
+                ],
+                [
+                    {
+                        "entity id": "Q956464",
+                        "label": "Mika\u0161evi\u010dy"
+                    }
+                ]
+            ],
+            [
+                "4",
+                []
+            ]
+        ],
+        [
+            [
+                "Rudensk",
+                [
+                    "/wiki/FC_Rudensk"
+                ],
+                [
+                    {
+                        "entity id": "Q3917541",
+                        "label": "FC Rudensk"
+                    }
+                ]
+            ],
+            [
+                "Rudensk",
+                [
+                    "/wiki/Rudensk"
+                ],
+                [
+                    {
+                        "entity id": "Q105692719",
+                        "label": "Rudensk\u00e1 lu\u010dn\u00ed prameni\u0161t\u011b"
+                    }
+                ]
+            ],
+            [
+                "5",
+                []
+            ]
+        ],
+        [
+            [
+                "Baranovichi",
+                [
+                    "/wiki/FC_Baranovichi"
+                ],
+                [
+                    {
+                        "entity id": "Q2496995",
+                        "label": "FC Baranovichi"
+                    }
+                ]
+            ],
+            [
+                "Baranovichi",
+                [
+                    "/wiki/Baranovichi"
+                ],
+                [
+                    {
+                        "entity id": "Q237655",
+                        "label": "Baranavichy"
+                    }
+                ]
+            ],
+            [
+                "6",
+                []
+            ]
+        ],
+        [
+            [
+                "Polotsk",
+                [
+                    "/wiki/FC_Polotsk"
+                ],
+                [
+                    {
+                        "entity id": "Q3917409",
+                        "label": "FC Polotsk"
+                    }
+                ]
+            ],
+            [
+                "Polotsk",
+                [
+                    "/wiki/Polotsk"
+                ],
+                [
+                    {
+                        "entity id": "Q200797",
+                        "label": "Polotsk"
+                    }
+                ]
+            ],
+            [
+                "7",
+                []
+            ]
+        ],
+        [
+            [
+                "Khimik",
+                [
+                    "/wiki/FC_Khimik_Svetlogorsk"
+                ],
+                [
+                    {
+                        "entity id": "Q2613221",
+                        "label": "FC Khimik Svetlogorsk"
+                    }
+                ]
+            ],
+            [
+                "Svetlogorsk",
+                [
+                    "/wiki/Svetlahorsk"
+                ],
+                [
+                    {
+                        "entity id": "Q29441298",
+                        "label": "Svetlahorsk"
+                    }
+                ]
+            ],
+            [
+                "8",
+                []
+            ]
+        ],
+        [
+            [
+                "Slavia",
+                [
+                    "/wiki/FC_Slavia_Mozyr"
+                ],
+                [
+                    {
+                        "entity id": "Q1165833",
+                        "label": "FC Slavia-Mozyr"
+                    }
+                ]
+            ],
+            [
+                "Mozyr",
+                [
+                    "/wiki/Mozyr"
+                ],
+                [
+                    {
+                        "entity id": "Q386487",
+                        "label": "Mazyr"
+                    }
+                ]
+            ],
+            [
+                "9",
+                []
+            ]
+        ],
+        [
+            [
+                "Volna",
+                [
+                    "/wiki/FC_Volna_Pinsk"
+                ],
+                [
+                    {
+                        "entity id": "Q2498749",
+                        "label": "FC Volna Pinsk"
+                    }
+                ]
+            ],
+            [
+                "Pinsk",
+                [
+                    "/wiki/Pinsk"
+                ],
+                [
+                    {
+                        "entity id": "Q204150",
+                        "label": "Pinsk"
+                    }
+                ]
+            ],
+            [
+                "10",
+                []
+            ]
+        ],
+        [
+            [
+                "Smorgon",
+                [
+                    "/wiki/FC_Smorgon"
+                ],
+                [
+                    {
+                        "entity id": "Q929339",
+                        "label": "FC Smorgon"
+                    }
+                ]
+            ],
+            [
+                "Smorgon",
+                [
+                    "/wiki/Smarhon"
+                ],
+                [
+                    {
+                        "entity id": "Q958617",
+                        "label": "Smarho\u0144"
+                    }
+                ]
+            ],
+            [
+                "12",
+                []
+            ]
+        ],
+        [
+            [
+                "Belcard",
+                [
+                    "/wiki/FC_Belcard_Grodno"
+                ],
+                [
+                    {
+                        "entity id": "Q2073539",
+                        "label": "FC Nioman-Bielkard"
+                    }
+                ]
+            ],
+            [
+                "Grodno",
+                [
+                    "/wiki/Grodno"
+                ],
+                [
+                    {
+                        "entity id": "Q181376",
+                        "label": "Hrodna"
+                    }
+                ]
+            ],
+            [
+                "13",
+                []
+            ]
+        ],
+        [
+            [
+                "Vedrich-97",
+                [
+                    "/wiki/FC_Rechitsa-2014"
+                ],
+                [
+                    {
+                        "entity id": "Q1787186",
+                        "label": "FC Vedrich-97 Rechytsa"
+                    }
+                ]
+            ],
+            [
+                "Rechitsa",
+                [
+                    "/wiki/Rechitsa"
+                ],
+                [
+                    {
+                        "entity id": "Q15133184",
+                        "label": "Rechitsa"
+                    }
+                ]
+            ],
+            [
+                "14",
+                []
+            ]
+        ],
+        [
+            [
+                "Gorodeya",
+                [
+                    "/wiki/FC_Gorodeya"
+                ],
+                [
+                    {
+                        "entity id": "Q1266729",
+                        "label": "FC Gorodeya"
+                    }
+                ]
+            ],
+            [
+                "Gorodeya",
+                [
+                    "/wiki/Gorodeya"
+                ],
+                [
+                    {
+                        "entity id": "Q22668043",
+                        "label": "Gorodeya Stadium"
+                    }
+                ]
+            ],
+            [
+                "Second League , 1",
+                []
+            ]
+        ],
+        [
+            [
+                "Slutsk",
+                [
+                    "/wiki/FC_Slutsk"
+                ],
+                [
+                    {
+                        "entity id": "Q281878",
+                        "label": "FC Slutsk"
+                    }
+                ]
+            ],
+            [
+                "Slutsk",
+                [
+                    "/wiki/Slutsk"
+                ],
+                [
+                    {
+                        "entity id": "Q28380772",
+                        "label": "Slutsk"
+                    }
+                ]
+            ],
+            [
+                "Second League , 2",
+                []
+            ]
+        ],
+        [
+            [
+                "Klechesk",
+                [
+                    "/wiki/FC_Klechesk_Kletsk"
+                ],
+                [
+                    {
+                        "entity id": "Q3917411",
+                        "label": "FC Klechesk Kletsk"
+                    }
+                ]
+            ],
+            [
+                "Kletsk",
+                [
+                    "/wiki/Kletsk"
+                ],
+                [
+                    {
+                        "entity id": "Q1652490",
+                        "label": "Kletsky District"
+                    }
+                ]
+            ],
+            [
+                "Second League , 3",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Teams and venues",
+    "section_text": "",
+    "uid": "2011_Belarusian_First_League_0",
+    "intro": "The 2011 Belarusian First League is the 21st season of 2nd level football in Belarus. It started on April 23 and will end in November 2011."
+}

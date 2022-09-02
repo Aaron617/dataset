@@ -1,0 +1,464 @@
+{
+    "url": "https://en.wikipedia.org/wiki/1950_United_States_Census",
+    "title": "1950 United States Census",
+    "header": [
+        [
+            "Rank",
+            []
+        ],
+        [
+            "State",
+            []
+        ],
+        [
+            "Population",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1",
+                []
+            ],
+            [
+                "New York",
+                [
+                    "/wiki/New_York_(state)"
+                ],
+                [
+                    {
+                        "entity id": "Q1384",
+                        "label": "New York"
+                    }
+                ]
+            ],
+            [
+                "14,830,192",
+                []
+            ]
+        ],
+        [
+            [
+                "2",
+                []
+            ],
+            [
+                "California",
+                [
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "10,586,223",
+                []
+            ]
+        ],
+        [
+            [
+                "3",
+                []
+            ],
+            [
+                "Pennsylvania",
+                [
+                    "/wiki/Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q1400",
+                        "label": "Pennsylvania"
+                    }
+                ]
+            ],
+            [
+                "10,498,012",
+                []
+            ]
+        ],
+        [
+            [
+                "4",
+                []
+            ],
+            [
+                "Illinois",
+                [
+                    "/wiki/Illinois"
+                ],
+                [
+                    {
+                        "entity id": "Q1204",
+                        "label": "Illinois"
+                    }
+                ]
+            ],
+            [
+                "8,712,176",
+                []
+            ]
+        ],
+        [
+            [
+                "5",
+                []
+            ],
+            [
+                "Ohio",
+                [
+                    "/wiki/Ohio"
+                ],
+                [
+                    {
+                        "entity id": "Q1397",
+                        "label": "Ohio"
+                    }
+                ]
+            ],
+            [
+                "7,946,627",
+                []
+            ]
+        ],
+        [
+            [
+                "6",
+                []
+            ],
+            [
+                "Texas",
+                [
+                    "/wiki/Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q1439",
+                        "label": "Texas"
+                    }
+                ]
+            ],
+            [
+                "7,748,000",
+                []
+            ]
+        ],
+        [
+            [
+                "7",
+                []
+            ],
+            [
+                "Michigan",
+                [
+                    "/wiki/Michigan"
+                ],
+                [
+                    {
+                        "entity id": "Q1166",
+                        "label": "Michigan"
+                    }
+                ]
+            ],
+            [
+                "6,421,000",
+                []
+            ]
+        ],
+        [
+            [
+                "8",
+                []
+            ],
+            [
+                "New Jersey",
+                [
+                    "/wiki/New_Jersey"
+                ],
+                [
+                    {
+                        "entity id": "Q1408",
+                        "label": "New Jersey"
+                    }
+                ]
+            ],
+            [
+                "4,860,000",
+                []
+            ]
+        ],
+        [
+            [
+                "9",
+                []
+            ],
+            [
+                "Massachusetts",
+                [
+                    "/wiki/Massachusetts"
+                ],
+                [
+                    {
+                        "entity id": "Q771",
+                        "label": "Massachusetts"
+                    }
+                ]
+            ],
+            [
+                "4,690,000",
+                []
+            ]
+        ],
+        [
+            [
+                "10",
+                []
+            ],
+            [
+                "North Carolina",
+                [
+                    "/wiki/North_Carolina"
+                ],
+                [
+                    {
+                        "entity id": "Q1454",
+                        "label": "North Carolina"
+                    }
+                ]
+            ],
+            [
+                "4,060,000",
+                []
+            ]
+        ],
+        [
+            [
+                "11",
+                []
+            ],
+            [
+                "Indiana",
+                [
+                    "/wiki/Indiana"
+                ],
+                [
+                    {
+                        "entity id": "Q1415",
+                        "label": "Indiana"
+                    }
+                ]
+            ],
+            [
+                "3,952,000",
+                []
+            ]
+        ],
+        [
+            [
+                "12",
+                []
+            ],
+            [
+                "Missouri",
+                [
+                    "/wiki/Missouri"
+                ],
+                [
+                    {
+                        "entity id": "Q1581",
+                        "label": "Missouri"
+                    }
+                ]
+            ],
+            [
+                "3,946,000",
+                []
+            ]
+        ],
+        [
+            [
+                "13",
+                []
+            ],
+            [
+                "Georgia",
+                [
+                    "/wiki/Georgia_(U.S._state)"
+                ],
+                [
+                    {
+                        "entity id": "Q5354684",
+                        "label": "election in Georgia"
+                    }
+                ]
+            ],
+            [
+                "3,451,000",
+                []
+            ]
+        ],
+        [
+            [
+                "14",
+                []
+            ],
+            [
+                "Wisconsin",
+                [
+                    "/wiki/Wisconsin"
+                ],
+                [
+                    {
+                        "entity id": "Q1537",
+                        "label": "Wisconsin"
+                    }
+                ]
+            ],
+            [
+                "3,449,000",
+                []
+            ]
+        ],
+        [
+            [
+                "15",
+                []
+            ],
+            [
+                "Tennessee",
+                [
+                    "/wiki/Tennessee"
+                ],
+                [
+                    {
+                        "entity id": "Q1509",
+                        "label": "Tennessee"
+                    }
+                ]
+            ],
+            [
+                "3,304,000",
+                []
+            ]
+        ],
+        [
+            [
+                "16",
+                []
+            ],
+            [
+                "Virginia",
+                [
+                    "/wiki/Virginia"
+                ],
+                [
+                    {
+                        "entity id": "Q1370",
+                        "label": "Virginia"
+                    }
+                ]
+            ],
+            [
+                "3,262,000",
+                []
+            ]
+        ],
+        [
+            [
+                "17",
+                []
+            ],
+            [
+                "Alabama",
+                [
+                    "/wiki/Alabama"
+                ],
+                [
+                    {
+                        "entity id": "Q173",
+                        "label": "Alabama"
+                    }
+                ]
+            ],
+            [
+                "3,060,000",
+                []
+            ]
+        ],
+        [
+            [
+                "18",
+                []
+            ],
+            [
+                "Minnesota",
+                [
+                    "/wiki/Minnesota"
+                ],
+                [
+                    {
+                        "entity id": "Q1527",
+                        "label": "Minnesota"
+                    }
+                ]
+            ],
+            [
+                "2,995,000",
+                []
+            ]
+        ],
+        [
+            [
+                "19",
+                []
+            ],
+            [
+                "Kentucky",
+                [
+                    "/wiki/Kentucky"
+                ],
+                [
+                    {
+                        "entity id": "Q1603",
+                        "label": "Kentucky"
+                    }
+                ]
+            ],
+            [
+                "2,957,000",
+                []
+            ]
+        ],
+        [
+            [
+                "20",
+                []
+            ],
+            [
+                "Florida",
+                [
+                    "/wiki/Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q812",
+                        "label": "Florida"
+                    }
+                ]
+            ],
+            [
+                "2,821,000",
+                []
+            ]
+        ]
+    ],
+    "section_title": "State rankings",
+    "section_text": "",
+    "uid": "1950_United_States_Census_0",
+    "intro": "The United States Census of 1950, conducted by the Census Bureau, determined the resident population of the United States to be 150,697,361, an increase of 14.5 percent over the 131,669,275 persons enumerated during the 1940 Census. This was the first census in which:"
+}

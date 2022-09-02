@@ -1,0 +1,591 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Transportation_in_Saskatchewan",
+    "title": "Transportation in Saskatchewan",
+    "header": [
+        [
+            "Ferry",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Waterway",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Estuary",
+                [
+                    "/wiki/Estuary_Ferry"
+                ],
+                [
+                    {
+                        "entity id": "Q14874945",
+                        "label": "Estuary Ferry"
+                    }
+                ]
+            ],
+            [
+                "connecting Estuary and Laporte",
+                [
+                    "/wiki/Estuary,_Saskatchewan",
+                    "/wiki/Laporte,_Saskatchewan"
+                ],
+                [
+                    {
+                        "entity id": "Q5401883",
+                        "label": "Estuary, Saskatchewan"
+                    },
+                    {
+                        "entity id": "Q6488308",
+                        "label": "Laporte, Saskatchewan"
+                    }
+                ]
+            ],
+            [
+                "South Saskatchewan River",
+                [
+                    "/wiki/South_Saskatchewan_River"
+                ],
+                [
+                    {
+                        "entity id": "Q2242",
+                        "label": "South Saskatchewan River"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Lemsford",
+                [
+                    "/wiki/Lemsford_Ferry"
+                ],
+                [
+                    {
+                        "entity id": "Q17042156",
+                        "label": "Lemsford Ferry"
+                    }
+                ]
+            ],
+            [
+                "North of Lemsford connecting 32 and 30",
+                [
+                    "/wiki/Lemsford,_Saskatchewan",
+                    "/wiki/Saskatchewan_Highway_32",
+                    "/wiki/Saskatchewan_Highway_30"
+                ],
+                [
+                    {
+                        "entity id": "Q6521523",
+                        "label": "Lemsford, Saskatchewan"
+                    },
+                    {
+                        "entity id": "Q7425274",
+                        "label": "Saskatchewan Highway 32"
+                    },
+                    {
+                        "entity id": "Q7425256",
+                        "label": "Saskatchewan Highway 30"
+                    }
+                ]
+            ],
+            [
+                "South Saskatchewan River",
+                [
+                    "/wiki/South_Saskatchewan_River"
+                ],
+                [
+                    {
+                        "entity id": "Q2242",
+                        "label": "South Saskatchewan River"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Lancer",
+                [
+                    "/wiki/Lancer_Ferry"
+                ],
+                [
+                    {
+                        "entity id": "Q6483674",
+                        "label": "Lancer Ferry"
+                    }
+                ]
+            ],
+            [
+                "North of Lancer connecting 32 and 30",
+                [
+                    "/wiki/Lancer,_Saskatchewan",
+                    "/wiki/Saskatchewan_Highway_32",
+                    "/wiki/Saskatchewan_Highway_30"
+                ],
+                [
+                    {
+                        "entity id": "Q2085237",
+                        "label": "Lancer"
+                    },
+                    {
+                        "entity id": "Q7425274",
+                        "label": "Saskatchewan Highway 32"
+                    },
+                    {
+                        "entity id": "Q7425256",
+                        "label": "Saskatchewan Highway 30"
+                    }
+                ]
+            ],
+            [
+                "South Saskatchewan River",
+                [
+                    "/wiki/South_Saskatchewan_River"
+                ],
+                [
+                    {
+                        "entity id": "Q2242",
+                        "label": "South Saskatchewan River"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Riverhurst",
+                [
+                    "/wiki/Riverhurst_Ferry"
+                ],
+                [
+                    {
+                        "entity id": "Q7338226",
+                        "label": "Riverhurst Ferry"
+                    }
+                ]
+            ],
+            [
+                "Highway 42 and Highway 373",
+                [
+                    "/wiki/Saskatchewan_Highway_42",
+                    "/wiki/Saskatchewan_Highway_373"
+                ],
+                [
+                    {
+                        "entity id": "Q7425323",
+                        "label": "Saskatchewan Highway 42"
+                    },
+                    {
+                        "entity id": "Q7425307",
+                        "label": "Saskatchewan Highway 373"
+                    }
+                ]
+            ],
+            [
+                "Lake Diefenbaker",
+                [
+                    "/wiki/Lake_Diefenbaker"
+                ],
+                [
+                    {
+                        "entity id": "Q399604",
+                        "label": "Lake Diefenbaker"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Clarkboro",
+                [
+                    "/wiki/Clarkboro_Ferry"
+                ],
+                [
+                    {
+                        "entity id": "Q5127440",
+                        "label": "Clarkboro Ferry"
+                    }
+                ]
+            ],
+            [
+                "Between Warman and Aberdeen on 784",
+                [
+                    "/wiki/Warman,_Saskatchewan",
+                    "/wiki/Aberdeen,_Saskatchewan",
+                    "/wiki/Saskatchewan_Highway_784"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q619819",
+                        "label": "Aberdeen"
+                    },
+                    {
+                        "entity id": "Q7425483",
+                        "label": "Saskatchewan Highway 784"
+                    }
+                ]
+            ],
+            [
+                "South Saskatchewan River",
+                [
+                    "/wiki/South_Saskatchewan_River"
+                ],
+                [
+                    {
+                        "entity id": "Q2242",
+                        "label": "South Saskatchewan River"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Hague",
+                [
+                    "/wiki/Hague_Ferry"
+                ],
+                [
+                    {
+                        "entity id": "Q5638828",
+                        "label": "Hague Ferry"
+                    }
+                ]
+            ],
+            [
+                "Between Hague and Aberdeen",
+                [
+                    "/wiki/Hague,_Saskatchewan",
+                    "/wiki/Aberdeen,_Saskatchewan"
+                ],
+                [
+                    {
+                        "entity id": "Q1911281",
+                        "label": "Hague, Saskatchewan"
+                    },
+                    {
+                        "entity id": "Q619819",
+                        "label": "Aberdeen"
+                    }
+                ]
+            ],
+            [
+                "South Saskatchewan River",
+                [
+                    "/wiki/South_Saskatchewan_River"
+                ],
+                [
+                    {
+                        "entity id": "Q2242",
+                        "label": "South Saskatchewan River"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "St. Laurent",
+                [
+                    "/wiki/St._Laurent_Ferry"
+                ],
+                [
+                    {
+                        "entity id": "Q14875013",
+                        "label": "St. Laurent Ferry"
+                    }
+                ]
+            ],
+            [
+                "East of Duck Lake , 11 and Batoche 225",
+                [
+                    "/wiki/Duck_Lake,_Saskatchewan",
+                    "/wiki/Saskatchewan_Highway_11",
+                    "/wiki/Batoche,_Saskatchewan",
+                    "/wiki/Saskatchewan_Highway_225"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q2872823",
+                        "label": "Saskatchewan Highway 11"
+                    },
+                    {
+                        "entity id": "Q810869",
+                        "label": "Batoche"
+                    },
+                    {
+                        "entity id": "Q7425240",
+                        "label": "Saskatchewan Highway 225"
+                    }
+                ]
+            ],
+            [
+                "South Saskatchewan River",
+                [
+                    "/wiki/South_Saskatchewan_River"
+                ],
+                [
+                    {
+                        "entity id": "Q2242",
+                        "label": "South Saskatchewan River"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Fenton",
+                [
+                    "/wiki/Fenton_Ferry"
+                ],
+                [
+                    {
+                        "entity id": "Q5443616",
+                        "label": "Fenton Ferry"
+                    }
+                ]
+            ],
+            [
+                "Between 25 and 3 on Grid Road",
+                [
+                    "/wiki/Saskatchewan_Highway_25",
+                    "/wiki/Saskatchewan_Highway_3"
+                ],
+                [
+                    {
+                        "entity id": "Q7425245",
+                        "label": "Saskatchewan Highway 25"
+                    },
+                    {
+                        "entity id": "Q7425257",
+                        "label": "Saskatchewan Highway 3"
+                    }
+                ]
+            ],
+            [
+                "South Saskatchewan River",
+                [
+                    "/wiki/South_Saskatchewan_River"
+                ],
+                [
+                    {
+                        "entity id": "Q2242",
+                        "label": "South Saskatchewan River"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Weldon",
+                [
+                    "/wiki/Weldon_Ferry"
+                ],
+                [
+                    {
+                        "entity id": "Q7980897",
+                        "label": "Weldon Ferry"
+                    }
+                ]
+            ],
+            [
+                "Between 3 , Weldon via 682 and 302 , Prince Albert",
+                [
+                    "/wiki/Saskatchewan_Highway_3",
+                    "/wiki/Weldon,_Saskatchewan",
+                    "/wiki/Saskatchewan_Highway_682",
+                    "/wiki/Saskatchewan_Highway_302",
+                    "/wiki/Prince_Albert,_Saskatchewan"
+                ],
+                [
+                    {
+                        "entity id": "Q7425257",
+                        "label": "Saskatchewan Highway 3"
+                    },
+                    {},
+                    {
+                        "entity id": "Q7425412",
+                        "label": "Saskatchewan Highway 682"
+                    },
+                    {
+                        "entity id": "Q7425260",
+                        "label": "Saskatchewan Highway 302"
+                    },
+                    {
+                        "entity id": "Q671431",
+                        "label": "Prince Albert"
+                    }
+                ]
+            ],
+            [
+                "South Saskatchewan River",
+                [
+                    "/wiki/South_Saskatchewan_River"
+                ],
+                [
+                    {
+                        "entity id": "Q2242",
+                        "label": "South Saskatchewan River"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Paynton",
+                [
+                    "/wiki/Paynton_Ferry"
+                ],
+                [
+                    {
+                        "entity id": "Q7156865",
+                        "label": "Paynton Ferry"
+                    }
+                ]
+            ],
+            [
+                "Between 16 and 26 via 764",
+                [
+                    "/wiki/Saskatchewan_Highway_16",
+                    "/wiki/Saskatchewan_Highway_26",
+                    "/wiki/Saskatchewan_Highway_764"
+                ],
+                [
+                    {
+                        "entity id": "Q2225633",
+                        "label": "Saskatchewan Highway 16"
+                    },
+                    {
+                        "entity id": "Q7425247",
+                        "label": "Saskatchewan Highway 26"
+                    },
+                    {
+                        "entity id": "Q7425470",
+                        "label": "Saskatchewan Highway 764"
+                    }
+                ]
+            ],
+            [
+                "North Saskatchewan River",
+                [
+                    "/wiki/North_Saskatchewan_River"
+                ],
+                [
+                    {
+                        "entity id": "Q2237",
+                        "label": "North Saskatchewan River"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Wingard",
+                [
+                    "/wiki/Wingard_Ferry"
+                ],
+                [
+                    {
+                        "entity id": "Q8025139",
+                        "label": "Wingard Ferry"
+                    }
+                ]
+            ],
+            [
+                "East of Marcelin , 40 connecting to 11 Wingard",
+                [
+                    "/wiki/Marcelin,_Saskatchewan",
+                    "/wiki/Saskatchewan_Highway_40",
+                    "/wiki/Saskatchewan_Highway_11",
+                    "/wiki/Wingard,_Saskatchewan"
+                ],
+                [
+                    {
+                        "entity id": "Q2086275",
+                        "label": "Marcelin"
+                    },
+                    {
+                        "entity id": "Q7425320",
+                        "label": "Saskatchewan Highway 40"
+                    },
+                    {
+                        "entity id": "Q2872823",
+                        "label": "Saskatchewan Highway 11"
+                    },
+                    {
+                        "entity id": "Q8025138",
+                        "label": "Wingard, Saskatchewan"
+                    }
+                ]
+            ],
+            [
+                "North Saskatchewan River",
+                [
+                    "/wiki/North_Saskatchewan_River"
+                ],
+                [
+                    {
+                        "entity id": "Q2237",
+                        "label": "North Saskatchewan River"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Cecil",
+                [
+                    "/wiki/Cecil_Ferry"
+                ],
+                [
+                    {
+                        "entity id": "Q5056070",
+                        "label": "Cecil Ferry"
+                    }
+                ]
+            ],
+            [
+                "Between 302 and 55 east of Prince Albert",
+                [
+                    "/wiki/Saskatchewan_Highway_302",
+                    "/wiki/Saskatchewan_Highway_55",
+                    "/wiki/Prince_Albert,_Saskatchewan"
+                ],
+                [
+                    {
+                        "entity id": "Q7425260",
+                        "label": "Saskatchewan Highway 302"
+                    },
+                    {
+                        "entity id": "Q7425347",
+                        "label": "Saskatchewan Highway 55"
+                    },
+                    {
+                        "entity id": "Q671431",
+                        "label": "Prince Albert"
+                    }
+                ]
+            ],
+            [
+                "North Saskatchewan River",
+                [
+                    "/wiki/North_Saskatchewan_River"
+                ],
+                [
+                    {
+                        "entity id": "Q2237",
+                        "label": "North Saskatchewan River"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Waterways -- Ferry services",
+    "section_text": "There are currently twelve ferry services operating in the province , all under the jurisdiction of the Department of Highways . In the 1920s [ 25 ] through to the 1950s there were 36 ferries in operation , the highest number of ferries in the province . [ 20 ] In the 1860s the Hudson 's Bay Company built a river ferry near Fort Carlton on the North Saskatchewan River . 1871 saw the ferry crossing at Gabriel 's Crossing near present-day St. Laurent Ferry . [ 23 ] In 1883 a ferry on the Battleford Trail was able to provide crossing service for two red river carts across the South Saskatchewan River at Saskatchewan Landing . This ferry operated until 1953 when the second bridge was officially opened . [ 26 ]",
+    "uid": "Transportation_in_Saskatchewan_0",
+    "intro": "Transportation in Saskatchewan is the movement of people and goods from one place to another within the province. Transportation in Saskatchewan includes an infrastructure system of roads, highways, freeways, airports, ferries, pipelines, trails, waterways and railway systems serving a population of approximately 1,003,299"
+}

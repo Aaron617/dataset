@@ -1,0 +1,331 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_traded_commodities",
+    "title": "List of traded commodities",
+    "header": [
+        [
+            "Commodity",
+            []
+        ],
+        [
+            "Main Exchange",
+            []
+        ],
+        [
+            "Contract Size",
+            []
+        ],
+        [
+            "Trading Symbol",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "WTI Crude Oil",
+                [
+                    "/wiki/West_Texas_Intermediate"
+                ],
+                [
+                    {
+                        "entity id": "Q1049071",
+                        "label": "West Texas Intermediate"
+                    }
+                ]
+            ],
+            [
+                "NYMEX , ICE",
+                [
+                    "/wiki/New_York_Mercantile_Exchange",
+                    "/wiki/Intercontinental_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q120233",
+                        "label": "New York Mercantile Exchange"
+                    },
+                    {
+                        "entity id": "Q841458",
+                        "label": "Intercontinental Exchange"
+                    }
+                ]
+            ],
+            [
+                "1000 bbl ( 42,000 U.S. gal )",
+                []
+            ],
+            [
+                "CL ( NYMEX ) , WTI ( ICE )",
+                []
+            ]
+        ],
+        [
+            [
+                "Brent Crude",
+                [
+                    "/wiki/Brent_Crude"
+                ],
+                [
+                    {
+                        "entity id": "Q1270246",
+                        "label": "Brent Crude"
+                    }
+                ]
+            ],
+            [
+                "ICE",
+                [
+                    "/wiki/Intercontinental_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q841458",
+                        "label": "Intercontinental Exchange"
+                    }
+                ]
+            ],
+            [
+                "1000 bbl ( 42,000 U.S. gal )",
+                []
+            ],
+            [
+                "B",
+                []
+            ]
+        ],
+        [
+            [
+                "Ethanol",
+                [
+                    "/wiki/Ethanol"
+                ],
+                [
+                    {
+                        "entity id": "Q153",
+                        "label": "ethanol"
+                    }
+                ]
+            ],
+            [
+                "CBOT",
+                [
+                    "/wiki/Chicago_Board_of_Trade"
+                ],
+                [
+                    {
+                        "entity id": "Q1071867",
+                        "label": "Chicago Board of Trade"
+                    }
+                ]
+            ],
+            [
+                "29,000 U.S. gal",
+                []
+            ],
+            [
+                "AC ( Open Auction ) ZE ( Electronic )",
+                []
+            ]
+        ],
+        [
+            [
+                "Natural gas",
+                [
+                    "/wiki/Natural_gas"
+                ],
+                [
+                    {
+                        "entity id": "Q40858",
+                        "label": "natural gas"
+                    }
+                ]
+            ],
+            [
+                "NYMEX",
+                [
+                    "/wiki/New_York_Mercantile_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q120233",
+                        "label": "New York Mercantile Exchange"
+                    }
+                ]
+            ],
+            [
+                "10,000 million BTU",
+                [
+                    "/wiki/British_Thermal_Unit"
+                ],
+                [
+                    {
+                        "entity id": "Q211580",
+                        "label": "British thermal unit (thermochemical)"
+                    }
+                ]
+            ],
+            [
+                "NG",
+                []
+            ]
+        ],
+        [
+            [
+                "Heating Oil",
+                [
+                    "/wiki/Heating_oil"
+                ],
+                [
+                    {
+                        "entity id": "Q912452",
+                        "label": "heating oil"
+                    }
+                ]
+            ],
+            [
+                "NYMEX",
+                [
+                    "/wiki/New_York_Mercantile_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q120233",
+                        "label": "New York Mercantile Exchange"
+                    }
+                ]
+            ],
+            [
+                "1000 bbl ( 42,000 U.S. gal )",
+                []
+            ],
+            [
+                "HO",
+                []
+            ]
+        ],
+        [
+            [
+                "Gulf Coast Gasoline",
+                []
+            ],
+            [
+                "NYMEX",
+                [
+                    "/wiki/New_York_Mercantile_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q120233",
+                        "label": "New York Mercantile Exchange"
+                    }
+                ]
+            ],
+            [
+                "1000 bbl ( 42,000 U.S. gal )",
+                []
+            ],
+            [
+                "LR",
+                []
+            ]
+        ],
+        [
+            [
+                "RBOB Gasoline ( reformulated gasoline blendstock for oxygen blending )",
+                []
+            ],
+            [
+                "NYMEX",
+                [
+                    "/wiki/New_York_Mercantile_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q120233",
+                        "label": "New York Mercantile Exchange"
+                    }
+                ]
+            ],
+            [
+                "1000 bbl ( 42,000 U.S. gal )",
+                []
+            ],
+            [
+                "RB",
+                []
+            ]
+        ],
+        [
+            [
+                "Propane",
+                [
+                    "/wiki/Propane"
+                ],
+                [
+                    {
+                        "entity id": "Q131189",
+                        "label": "propane"
+                    }
+                ]
+            ],
+            [
+                "NYMEX",
+                [
+                    "/wiki/New_York_Mercantile_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q120233",
+                        "label": "New York Mercantile Exchange"
+                    }
+                ]
+            ],
+            [
+                "1000 bbl ( 42,000 U.S. gal )",
+                []
+            ],
+            [
+                "PN",
+                []
+            ]
+        ],
+        [
+            [
+                "Purified Terephthalic Acid ( PTA )",
+                [
+                    "/wiki/Terephthalic_acid"
+                ],
+                [
+                    {
+                        "entity id": "Q408984",
+                        "label": "terephthalic acid"
+                    }
+                ]
+            ],
+            [
+                "ZCE",
+                [
+                    "/wiki/Zhengzhou_Commodity_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q8070776",
+                        "label": "Zhengzhou Commodity Exchange"
+                    }
+                ]
+            ],
+            [
+                "5 Tons",
+                []
+            ],
+            [
+                "TA",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Energy",
+    "section_text": "",
+    "uid": "List_of_traded_commodities_2",
+    "intro": "The following is a list of traded commodities."
+}

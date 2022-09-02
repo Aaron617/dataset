@@ -1,0 +1,702 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_reptiles_of_Alabama",
+    "title": "List of reptiles of Alabama",
+    "header": [
+        [
+            "Scientific name",
+            []
+        ],
+        [
+            "Common name",
+            []
+        ],
+        [
+            "Family",
+            []
+        ],
+        [
+            "Conservation concern",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Caretta caretta",
+                [
+                    "/wiki/Loggerhead_sea_turtle"
+                ],
+                [
+                    {
+                        "entity id": "Q192095",
+                        "label": "loggerhead sea turtle"
+                    }
+                ]
+            ],
+            [
+                "loggerhead sea turtle",
+                []
+            ],
+            [
+                "Cheloniidae",
+                [
+                    "/wiki/Cheloniidae"
+                ],
+                [
+                    {
+                        "entity id": "Q30143",
+                        "label": "Cheloniidae"
+                    }
+                ]
+            ],
+            [
+                "Highest",
+                []
+            ]
+        ],
+        [
+            [
+                "Chelonia mydas",
+                [
+                    "/wiki/Green_sea_turtle"
+                ],
+                [
+                    {
+                        "entity id": "Q199458",
+                        "label": "Chelonia mydas"
+                    }
+                ]
+            ],
+            [
+                "green sea turtle",
+                []
+            ],
+            [
+                "Cheloniidae",
+                [
+                    "/wiki/Cheloniidae"
+                ],
+                [
+                    {
+                        "entity id": "Q30143",
+                        "label": "Cheloniidae"
+                    }
+                ]
+            ],
+            [
+                "Highest",
+                []
+            ]
+        ],
+        [
+            [
+                "Lepidochelys kempii",
+                [
+                    "/wiki/Kemp's_ridley_sea_turtle"
+                ],
+                [
+                    {
+                        "entity id": "Q301089",
+                        "label": "Lepidochelys kempii"
+                    }
+                ]
+            ],
+            [
+                "Atlantic ridley sea turtle",
+                []
+            ],
+            [
+                "Cheloniidae",
+                [
+                    "/wiki/Cheloniidae"
+                ],
+                [
+                    {
+                        "entity id": "Q30143",
+                        "label": "Cheloniidae"
+                    }
+                ]
+            ],
+            [
+                "Highest/ U.S . Fish and Wildlife lists as endangered",
+                []
+            ]
+        ],
+        [
+            [
+                "Chelydra serpentina",
+                [
+                    "/wiki/Common_snapping_turtle"
+                ],
+                [
+                    {
+                        "entity id": "Q289435",
+                        "label": "common snapping turtle"
+                    }
+                ]
+            ],
+            [
+                "common snapping turtle",
+                []
+            ],
+            [
+                "Chelydridae",
+                [
+                    "/wiki/Chelydridae"
+                ],
+                [
+                    {
+                        "entity id": "Q650212",
+                        "label": "Chelydridae"
+                    }
+                ]
+            ],
+            [
+                "Lowest",
+                []
+            ]
+        ],
+        [
+            [
+                "Macrochelys temminckii",
+                [
+                    "/wiki/Alligator_snapping_turtle"
+                ],
+                [
+                    {
+                        "entity id": "Q457872",
+                        "label": "alligator snapping turtle"
+                    }
+                ]
+            ],
+            [
+                "alligator snapping turtle",
+                []
+            ],
+            [
+                "Chelydridae",
+                [
+                    "/wiki/Chelydridae"
+                ],
+                [
+                    {
+                        "entity id": "Q650212",
+                        "label": "Chelydridae"
+                    }
+                ]
+            ],
+            [
+                "Wheeler Wildlife Refuge lists as endangered",
+                []
+            ]
+        ],
+        [
+            [
+                "Dermochelys coriacea",
+                [
+                    "/wiki/Leatherback_sea_turtle"
+                ],
+                [
+                    {
+                        "entity id": "Q120043",
+                        "label": "leatherback sea turtle"
+                    }
+                ]
+            ],
+            [
+                "leatherback sea turtle",
+                []
+            ],
+            [
+                "Dermochelyidae",
+                [
+                    "/wiki/Dermochelyidae"
+                ],
+                [
+                    {
+                        "entity id": "Q2738058",
+                        "label": "Dermochelyidae"
+                    }
+                ]
+            ],
+            [
+                "Highest/ U.S . Fish and Wildlife lists as endangered",
+                []
+            ]
+        ],
+        [
+            [
+                "Chrysemys picta picta",
+                [
+                    "/wiki/Painted_turtle"
+                ],
+                [
+                    {
+                        "entity id": "Q199203",
+                        "label": "painted turtle"
+                    }
+                ]
+            ],
+            [
+                "eastern painted turtle",
+                []
+            ],
+            [
+                "Emydidae",
+                [
+                    "/wiki/Emydidae"
+                ],
+                [
+                    {
+                        "entity id": "Q390835",
+                        "label": "Emydidae"
+                    }
+                ]
+            ],
+            [
+                "Lowest",
+                []
+            ]
+        ],
+        [
+            [
+                "Chrysemys picta dorsalis",
+                [
+                    "/wiki/Painted_turtle"
+                ],
+                [
+                    {
+                        "entity id": "Q199203",
+                        "label": "painted turtle"
+                    }
+                ]
+            ],
+            [
+                "southern painted turtle",
+                []
+            ],
+            [
+                "Emydidae",
+                [
+                    "/wiki/Emydidae"
+                ],
+                [
+                    {
+                        "entity id": "Q390835",
+                        "label": "Emydidae"
+                    }
+                ]
+            ],
+            [
+                "Lowest",
+                []
+            ]
+        ],
+        [
+            [
+                "Chrysemys picta marginata",
+                [
+                    "/wiki/Painted_turtle"
+                ],
+                [
+                    {
+                        "entity id": "Q199203",
+                        "label": "painted turtle"
+                    }
+                ]
+            ],
+            [
+                "midland painted turtle",
+                []
+            ],
+            [
+                "Emydidae",
+                [
+                    "/wiki/Emydidae"
+                ],
+                [
+                    {
+                        "entity id": "Q390835",
+                        "label": "Emydidae"
+                    }
+                ]
+            ],
+            [
+                "Lowest",
+                []
+            ]
+        ],
+        [
+            [
+                "Deirochelys reticularia reticularia",
+                [
+                    "/wiki/Chicken_turtle"
+                ],
+                [
+                    {
+                        "entity id": "Q262146",
+                        "label": "Chicken turtle"
+                    }
+                ]
+            ],
+            [
+                "eastern chicken turtle",
+                []
+            ],
+            [
+                "Emydidae",
+                [
+                    "/wiki/Emydidae"
+                ],
+                [
+                    {
+                        "entity id": "Q390835",
+                        "label": "Emydidae"
+                    }
+                ]
+            ],
+            [
+                "Low",
+                []
+            ]
+        ],
+        [
+            [
+                "Graptemys barbouri",
+                [
+                    "/wiki/Barbour's_map_turtle"
+                ],
+                [
+                    {
+                        "entity id": "Q305947",
+                        "label": "Barbour's map turtle"
+                    }
+                ]
+            ],
+            [
+                "Barbour 's map turtle",
+                []
+            ],
+            [
+                "Emydidae",
+                [
+                    "/wiki/Emydidae"
+                ],
+                [
+                    {
+                        "entity id": "Q390835",
+                        "label": "Emydidae"
+                    }
+                ]
+            ],
+            [
+                "High",
+                []
+            ]
+        ],
+        [
+            [
+                "Graptemys ernsti",
+                [
+                    "/wiki/Escambia_map_turtle"
+                ],
+                [
+                    {
+                        "entity id": "Q301647",
+                        "label": "Escambia map turtle"
+                    }
+                ]
+            ],
+            [
+                "Escambia map turtle",
+                []
+            ],
+            [
+                "Emydidae",
+                [
+                    "/wiki/Emydidae"
+                ],
+                [
+                    {
+                        "entity id": "Q390835",
+                        "label": "Emydidae"
+                    }
+                ]
+            ],
+            [
+                "Moderate",
+                []
+            ]
+        ],
+        [
+            [
+                "Graptemys geographica",
+                [
+                    "/wiki/Northern_map_turtle"
+                ],
+                [
+                    {
+                        "entity id": "Q2093722",
+                        "label": "Northern map turtle"
+                    }
+                ]
+            ],
+            [
+                "northern map turtle",
+                []
+            ],
+            [
+                "Emydidae",
+                [
+                    "/wiki/Emydidae"
+                ],
+                [
+                    {
+                        "entity id": "Q390835",
+                        "label": "Emydidae"
+                    }
+                ]
+            ],
+            [
+                "Low",
+                []
+            ]
+        ],
+        [
+            [
+                "Graptemys nigrinoda delticola",
+                [
+                    "/wiki/Black-knobbed_map_turtle"
+                ],
+                [
+                    {
+                        "entity id": "Q558742",
+                        "label": "Black-knobbed map turtle"
+                    }
+                ]
+            ],
+            [
+                "delta map turtle southern black-knobbed sawback",
+                []
+            ],
+            [
+                "Emydidae",
+                [
+                    "/wiki/Emydidae"
+                ],
+                [
+                    {
+                        "entity id": "Q390835",
+                        "label": "Emydidae"
+                    }
+                ]
+            ],
+            [
+                "Moderate",
+                []
+            ]
+        ],
+        [
+            [
+                "Graptemys nigrinoda nigrinoda",
+                [
+                    "/wiki/Black-knobbed_map_turtle"
+                ],
+                [
+                    {
+                        "entity id": "Q558742",
+                        "label": "Black-knobbed map turtle"
+                    }
+                ]
+            ],
+            [
+                "black-knobbed map turtle northern black-knobbed sawback",
+                []
+            ],
+            [
+                "Emydidae",
+                [
+                    "/wiki/Emydidae"
+                ],
+                [
+                    {
+                        "entity id": "Q390835",
+                        "label": "Emydidae"
+                    }
+                ]
+            ],
+            [
+                "Moderate",
+                []
+            ]
+        ],
+        [
+            [
+                "Graptemys ouachitensis",
+                [
+                    "/wiki/Ouachita_map_turtle"
+                ],
+                [
+                    {
+                        "entity id": "Q617739",
+                        "label": "Ouachita map turtle"
+                    }
+                ]
+            ],
+            [
+                "Ouachita map turtle",
+                []
+            ],
+            [
+                "Emydidae",
+                [
+                    "/wiki/Emydidae"
+                ],
+                [
+                    {
+                        "entity id": "Q390835",
+                        "label": "Emydidae"
+                    }
+                ]
+            ],
+            [
+                "Lowest",
+                []
+            ]
+        ],
+        [
+            [
+                "Graptemys pulchra",
+                [
+                    "/wiki/Alabama_map_turtle"
+                ],
+                [
+                    {
+                        "entity id": "Q40678",
+                        "label": "Alabama map turtle"
+                    }
+                ]
+            ],
+            [
+                "Alabama map turtle",
+                []
+            ],
+            [
+                "Emydidae",
+                [
+                    "/wiki/Emydidae"
+                ],
+                [
+                    {
+                        "entity id": "Q390835",
+                        "label": "Emydidae"
+                    }
+                ]
+            ],
+            [
+                "Moderate",
+                []
+            ]
+        ],
+        [
+            [
+                "Malaclemys terrapin pileata",
+                [
+                    "/wiki/Diamondback_terrapin"
+                ],
+                [
+                    {
+                        "entity id": "Q569170",
+                        "label": "diamondback terrapin"
+                    }
+                ]
+            ],
+            [
+                "Mississippi diamondback terrapin",
+                []
+            ],
+            [
+                "Emydidae",
+                [
+                    "/wiki/Emydidae"
+                ],
+                [
+                    {
+                        "entity id": "Q390835",
+                        "label": "Emydidae"
+                    }
+                ]
+            ],
+            [
+                "Highest",
+                []
+            ]
+        ],
+        [
+            [
+                "Pseudemys alabamensis",
+                [
+                    "/wiki/Alabama_red-bellied_cooter"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Alabama red-bellied cooter ( Designated as official state reptile )",
+                []
+            ],
+            [
+                "Emydidae",
+                [
+                    "/wiki/Emydidae"
+                ],
+                [
+                    {
+                        "entity id": "Q390835",
+                        "label": "Emydidae"
+                    }
+                ]
+            ],
+            [
+                "Highest/ U.S . Fish and Wildlife lists as endangered",
+                []
+            ]
+        ],
+        [
+            [
+                "Pseudemys concinna concinna",
+                [
+                    "/wiki/Eastern_river_cooter"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "eastern river cooter",
+                []
+            ],
+            [
+                "Emydidae",
+                [
+                    "/wiki/Emydidae"
+                ],
+                [
+                    {
+                        "entity id": "Q390835",
+                        "label": "Emydidae"
+                    }
+                ]
+            ],
+            [
+                "Lowest",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Turtles",
+    "section_text": "Alabama law makes it illegal to take , sell or possess turtles , turtle parts , or turtle eggs from the wild for commercial purposes . [ 6 ]",
+    "uid": "List_of_reptiles_of_Alabama_3",
+    "intro": "The U.S. state of Alabama is home to 93 indigenous reptile species, not including subspecies. Indigenous species include one species of crocodilian, 12 lizard species, 49 snake species, and 31 turtle species. Three native species have possibly been extirpated from the state. These include the eastern indigo snake, southern hognose snake and the mimic glass lizard. There are four known introduced reptile species, all lizards. They include the Indo-Pacific gecko, brown anole, Texas horned lizard, and Mediterranean house gecko. Human predation and habitat destruction has placed several reptile species and subspecies at risk of extirpation or extinction. The Alabama Department of Conservation and Natural Resources lists the conservation status of each species within the state with a rank of lowest, low, moderate, high, and highest concern."
+}

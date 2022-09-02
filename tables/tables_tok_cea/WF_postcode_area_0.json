@@ -1,0 +1,807 @@
+{
+    "url": "https://en.wikipedia.org/wiki/WF_postcode_area",
+    "title": "WF postcode area",
+    "header": [
+        [
+            "Postcode district",
+            []
+        ],
+        [
+            "Post town",
+            [
+                "/wiki/Post_town"
+            ],
+            [
+                {
+                    "entity id": "Q1968403",
+                    "label": "post town"
+                }
+            ]
+        ],
+        [
+            "Coverage",
+            []
+        ],
+        [
+            "Local authority area",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "WF1",
+                []
+            ],
+            [
+                "WAKEFIELD",
+                []
+            ],
+            [
+                "Eastmoor , Kirkthorpe , Newton Hill , Outwood , Wakefield City Centre",
+                [
+                    "/wiki/Outwood,_West_Yorkshire",
+                    "/wiki/Wakefield"
+                ],
+                [
+                    {
+                        "entity id": "Q10613533",
+                        "label": "Outwood"
+                    },
+                    {
+                        "entity id": "Q216638",
+                        "label": "Wakefield"
+                    }
+                ]
+            ],
+            [
+                "Wakefield",
+                [
+                    "/wiki/City_of_Wakefield"
+                ],
+                [
+                    {
+                        "entity id": "Q763171",
+                        "label": "Wakefield"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "WF2",
+                []
+            ],
+            [
+                "WAKEFIELD",
+                []
+            ],
+            [
+                "Alverthorpe , Carr Gate , Flanshaw , Hall Green , Kirkhamgate , Kettlethorpe , Lupset , Portobello , Newmillerdam , Sandal , Thornes , Walton ( Wakefield ) , Wrenthorpe , Woolgreaves , Peacock , Pledwick",
+                [
+                    "/wiki/Alverthorpe",
+                    "/wiki/Kirkhamgate",
+                    "/wiki/Kettlethorpe,_West_Yorkshire",
+                    "/wiki/Newmillerdam",
+                    "/wiki/Sandal_Magna",
+                    "/wiki/Walton,_Wakefield",
+                    "/wiki/Wrenthorpe"
+                ],
+                [
+                    {
+                        "entity id": "Q4737993",
+                        "label": "Alverthorpe"
+                    },
+                    {
+                        "entity id": "Q6415673",
+                        "label": "Kirkhamgate"
+                    },
+                    {
+                        "entity id": "Q6395558",
+                        "label": "Kettlethorpe"
+                    },
+                    {
+                        "entity id": "Q7018611",
+                        "label": "Newmillerdam"
+                    },
+                    {
+                        "entity id": "Q7415949",
+                        "label": "Sandal Magna"
+                    },
+                    {
+                        "entity id": "Q2314773",
+                        "label": "Walton"
+                    },
+                    {
+                        "entity id": "Q925265",
+                        "label": "Wrenthorpe"
+                    }
+                ]
+            ],
+            [
+                "Wakefield",
+                []
+            ]
+        ],
+        [
+            [
+                "WF3",
+                []
+            ],
+            [
+                "WAKEFIELD",
+                []
+            ],
+            [
+                "Carlton , East Ardsley , Lofthouse , Lofthouse Gate , Robin Hood , Stanley , Thorpe , Tingley , West Ardsley",
+                [
+                    "/wiki/Carlton,_Rothwell",
+                    "/wiki/East_Ardsley",
+                    "/wiki/Lofthouse,_West_Yorkshire",
+                    "/wiki/Robin_Hood,_West_Yorkshire",
+                    "/wiki/Stanley,_West_Yorkshire",
+                    "/wiki/Thorpe_on_the_Hill,_West_Yorkshire",
+                    "/wiki/Tingley",
+                    "/wiki/West_Ardsley"
+                ],
+                [
+                    {
+                        "entity id": "Q5042944",
+                        "label": "Carlton"
+                    },
+                    {
+                        "entity id": "Q5327721",
+                        "label": "East Ardsley"
+                    },
+                    {
+                        "entity id": "Q3836404",
+                        "label": "Lofthouse"
+                    },
+                    {},
+                    {
+                        "entity id": "Q7599406",
+                        "label": "Stanley"
+                    },
+                    {
+                        "entity id": "Q7796721",
+                        "label": "Thorpe on the Hill"
+                    },
+                    {
+                        "entity id": "Q2144911",
+                        "label": "Tingley"
+                    },
+                    {
+                        "entity id": "Q7984320",
+                        "label": "West Ardsley"
+                    }
+                ]
+            ],
+            [
+                "Leeds , Wakefield",
+                [
+                    "/wiki/City_of_Leeds"
+                ],
+                [
+                    {
+                        "entity id": "Q774015",
+                        "label": "Leeds"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "WF4",
+                []
+            ],
+            [
+                "WAKEFIELD",
+                []
+            ],
+            [
+                "Crigglestone , Crofton , Durkar , Flockton , Havercroft , Horbury , Netherton , New Crofton , Ryhill , West Bretton , Woolley",
+                [
+                    "/wiki/Crofton,_West_Yorkshire",
+                    "/wiki/Durkar",
+                    "/wiki/Flockton",
+                    "/wiki/Havercroft",
+                    "/wiki/Horbury",
+                    "/wiki/Netherton,_Wakefield",
+                    "/wiki/Ryhill",
+                    "/wiki/West_Bretton",
+                    "/wiki/Woolley,_West_Yorkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q2740386",
+                        "label": "Crofton"
+                    },
+                    {
+                        "entity id": "Q5316669",
+                        "label": "Durkar"
+                    },
+                    {
+                        "entity id": "Q5459967",
+                        "label": "Flockton"
+                    },
+                    {
+                        "entity id": "Q2459490",
+                        "label": "Havercroft"
+                    },
+                    {
+                        "entity id": "Q5902902",
+                        "label": "Horbury"
+                    },
+                    {
+                        "entity id": "Q13587790",
+                        "label": "Netherton"
+                    },
+                    {
+                        "entity id": "Q2879028",
+                        "label": "Ryhill"
+                    },
+                    {
+                        "entity id": "Q2668038",
+                        "label": "West Bretton"
+                    },
+                    {
+                        "entity id": "Q4355527",
+                        "label": "Woolley"
+                    }
+                ]
+            ],
+            [
+                "Wakefield , Kirklees",
+                [
+                    "/wiki/Kirklees"
+                ],
+                [
+                    {
+                        "entity id": "Q918975",
+                        "label": "Kirklees"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "WF5",
+                []
+            ],
+            [
+                "OSSETT",
+                []
+            ],
+            [
+                "Gawthorpe , Healey , Ossett ( very small area around Wakefield Road falls in the Kirklees district )",
+                [
+                    "/wiki/Gawthorpe,_Wakefield",
+                    "/wiki/Healey,_Ossett",
+                    "/wiki/Ossett"
+                ],
+                [
+                    {
+                        "entity id": "Q5528501",
+                        "label": "Gawthorpe"
+                    },
+                    {
+                        "entity id": "Q5690244",
+                        "label": "Healey, Ossett"
+                    },
+                    {
+                        "entity id": "Q1788889",
+                        "label": "Ossett"
+                    }
+                ]
+            ],
+            [
+                "Wakefield , Kirklees",
+                []
+            ]
+        ],
+        [
+            [
+                "WF6",
+                []
+            ],
+            [
+                "NORMANTON",
+                []
+            ],
+            [
+                "Altofts , Normanton",
+                [
+                    "/wiki/Altofts",
+                    "/wiki/Normanton,_West_Yorkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q4736843",
+                        "label": "Altofts"
+                    },
+                    {
+                        "entity id": "Q1027131",
+                        "label": "Normanton"
+                    }
+                ]
+            ],
+            [
+                "Wakefield",
+                []
+            ]
+        ],
+        [
+            [
+                "WF7",
+                []
+            ],
+            [
+                "PONTEFRACT",
+                []
+            ],
+            [
+                "Ackworth Moor Top , Ackton , Featherstone , Purston Jaglin , Streethouse",
+                [
+                    "/wiki/Ackworth,_West_Yorkshire",
+                    "/wiki/Ackton",
+                    "/wiki/Featherstone",
+                    "/wiki/Purston_Jaglin",
+                    "/wiki/Streethouse"
+                ],
+                [
+                    {
+                        "entity id": "Q2610999",
+                        "label": "Ackworth"
+                    },
+                    {
+                        "entity id": "Q570367",
+                        "label": "Ackton"
+                    },
+                    {
+                        "entity id": "Q2125254",
+                        "label": "Featherstone"
+                    },
+                    {},
+                    {
+                        "entity id": "Q9346617",
+                        "label": "Streethouse"
+                    }
+                ]
+            ],
+            [
+                "Wakefield",
+                []
+            ]
+        ],
+        [
+            [
+                "WF8",
+                []
+            ],
+            [
+                "PONTEFRACT",
+                []
+            ],
+            [
+                "Darrington , Kirk Smeaton , Pontefract ( Monkhill ) , Thorpe Audlin",
+                [
+                    "/wiki/Darrington,_West_Yorkshire",
+                    "/wiki/Kirk_Smeaton",
+                    "/wiki/Pontefract",
+                    "/wiki/Thorpe_Audlin"
+                ],
+                [
+                    {
+                        "entity id": "Q5225309",
+                        "label": "Darrington"
+                    },
+                    {
+                        "entity id": "Q2087077",
+                        "label": "Kirk Smeaton"
+                    },
+                    {
+                        "entity id": "Q1009235",
+                        "label": "Pontefract"
+                    },
+                    {
+                        "entity id": "Q1971587",
+                        "label": "Thorpe Audlin"
+                    }
+                ]
+            ],
+            [
+                "Wakefield , Selby , Doncaster",
+                [
+                    "/wiki/Selby_District",
+                    "/wiki/Metropolitan_Borough_of_Doncaster"
+                ],
+                [
+                    {
+                        "entity id": "Q639773",
+                        "label": "Selby"
+                    },
+                    {
+                        "entity id": "Q1925846",
+                        "label": "Doncaster"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "WF9",
+                []
+            ],
+            [
+                "PONTEFRACT",
+                []
+            ],
+            [
+                "Badsworth , Fitzwilliam , Hemsworth , Kinsley , South Elmsall , South Kirkby , Upton , Wentbridge",
+                [
+                    "/wiki/Badsworth",
+                    "/wiki/Fitzwilliam,_West_Yorkshire",
+                    "/wiki/Hemsworth",
+                    "/wiki/Kinsley,_West_Yorkshire",
+                    "/wiki/South_Elmsall",
+                    "/wiki/South_Kirkby",
+                    "/wiki/Upton,_West_Yorkshire",
+                    "/wiki/Wentbridge"
+                ],
+                [
+                    {
+                        "entity id": "Q2646554",
+                        "label": "Badsworth"
+                    },
+                    {
+                        "entity id": "Q5455748",
+                        "label": "Fitzwilliam"
+                    },
+                    {
+                        "entity id": "Q2556975",
+                        "label": "Hemsworth"
+                    },
+                    {
+                        "entity id": "Q6414286",
+                        "label": "Kinsley"
+                    },
+                    {
+                        "entity id": "Q953645",
+                        "label": "South Elmsall"
+                    },
+                    {
+                        "entity id": "Q20128096",
+                        "label": "South Kirkby"
+                    },
+                    {
+                        "entity id": "Q2065618",
+                        "label": "Upton"
+                    },
+                    {
+                        "entity id": "Q7982979",
+                        "label": "Wentbridge"
+                    }
+                ]
+            ],
+            [
+                "Wakefield , Doncaster",
+                []
+            ]
+        ],
+        [
+            [
+                "WF10",
+                []
+            ],
+            [
+                "CASTLEFORD",
+                []
+            ],
+            [
+                "Airedale , Allerton Bywater , Castleford , Glasshoughton , Ledston , New Fryston",
+                [
+                    "/wiki/Allerton_Bywater",
+                    "/wiki/Castleford",
+                    "/wiki/Glasshoughton",
+                    "/wiki/Ledston",
+                    "/wiki/New_Fryston"
+                ],
+                [
+                    {
+                        "entity id": "Q2130880",
+                        "label": "Allerton Bywater"
+                    },
+                    {
+                        "entity id": "Q546485",
+                        "label": "Castleford"
+                    },
+                    {
+                        "entity id": "Q5567162",
+                        "label": "Glasshoughton Welfare A.F.C."
+                    },
+                    {
+                        "entity id": "Q2693245",
+                        "label": "Ledston"
+                    },
+                    {
+                        "entity id": "Q5506621",
+                        "label": "New Fryston"
+                    }
+                ]
+            ],
+            [
+                "Wakefield , Leeds",
+                []
+            ]
+        ],
+        [
+            [
+                "WF11",
+                []
+            ],
+            [
+                "KNOTTINGLEY",
+                []
+            ],
+            [
+                "Brotherton , Byram , Cridling Stubbs , Fairburn , Kellingley , Knottingley",
+                [
+                    "/wiki/Brotherton",
+                    "/wiki/Byram,_North_Yorkshire",
+                    "/wiki/Cridling_Stubbs",
+                    "/wiki/Fairburn,_North_Yorkshire",
+                    "/wiki/Knottingley"
+                ],
+                [
+                    {
+                        "entity id": "Q16860560",
+                        "label": "Brotherton"
+                    },
+                    {
+                        "entity id": "Q24264129",
+                        "label": "Byram"
+                    },
+                    {
+                        "entity id": "Q2694099",
+                        "label": "Cridling Stubbs"
+                    },
+                    {
+                        "entity id": "Q1883947",
+                        "label": "Fairburn"
+                    },
+                    {
+                        "entity id": "Q1777543",
+                        "label": "Knottingley"
+                    }
+                ]
+            ],
+            [
+                "Wakefield , Selby",
+                []
+            ]
+        ],
+        [
+            [
+                "WF12",
+                []
+            ],
+            [
+                "DEWSBURY",
+                []
+            ],
+            [
+                "Chickenley , Dewsbury , Savile Town , Shaw Cross , Thornhill , Thornhill Lees",
+                [
+                    "/wiki/Chickenley",
+                    "/wiki/Dewsbury",
+                    "/wiki/Savile_Town",
+                    "/wiki/Thornhill,_West_Yorkshire",
+                    "/wiki/Thornhill_Lees"
+                ],
+                [
+                    {
+                        "entity id": "Q5096346",
+                        "label": "Chickenley"
+                    },
+                    {
+                        "entity id": "Q525508",
+                        "label": "Dewsbury"
+                    },
+                    {
+                        "entity id": "Q7428228",
+                        "label": "Savile Town"
+                    },
+                    {
+                        "entity id": "Q2481104",
+                        "label": "Thornhill"
+                    },
+                    {
+                        "entity id": "Q7796436",
+                        "label": "Thornhill Lees"
+                    }
+                ]
+            ],
+            [
+                "Kirklees , Wakefield",
+                []
+            ]
+        ],
+        [
+            [
+                "WF13",
+                []
+            ],
+            [
+                "DEWSBURY",
+                []
+            ],
+            [
+                "Dewsbury Moor , Ravensthorpe",
+                [
+                    "/wiki/Dewsbury_Moor",
+                    "/wiki/Ravensthorpe,_Dewsbury"
+                ],
+                [
+                    {
+                        "entity id": "Q5268289",
+                        "label": "Dewsbury Moor"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Kirklees",
+                []
+            ]
+        ],
+        [
+            [
+                "WF14",
+                []
+            ],
+            [
+                "MIRFIELD",
+                []
+            ],
+            [
+                "Hopton , Mirfield",
+                [
+                    "/wiki/Mirfield"
+                ],
+                [
+                    {
+                        "entity id": "Q1301336",
+                        "label": "Mirfield"
+                    }
+                ]
+            ],
+            [
+                "Kirklees",
+                []
+            ]
+        ],
+        [
+            [
+                "WF15",
+                []
+            ],
+            [
+                "LIVERSEDGE",
+                []
+            ],
+            [
+                "Roberttown , Liversedge",
+                [
+                    "/wiki/Roberttown",
+                    "/wiki/Liversedge"
+                ],
+                [
+                    {
+                        "entity id": "Q611355",
+                        "label": "Roberttown"
+                    },
+                    {
+                        "entity id": "Q3835533",
+                        "label": "Liversedge"
+                    }
+                ]
+            ],
+            [
+                "Kirklees",
+                []
+            ]
+        ],
+        [
+            [
+                "WF16",
+                []
+            ],
+            [
+                "HECKMONDWIKE",
+                []
+            ],
+            [
+                "Heckmondwike",
+                [
+                    "/wiki/Heckmondwike"
+                ],
+                [
+                    {
+                        "entity id": "Q768654",
+                        "label": "Heckmondwike"
+                    }
+                ]
+            ],
+            [
+                "Kirklees",
+                []
+            ]
+        ],
+        [
+            [
+                "WF17",
+                []
+            ],
+            [
+                "BATLEY",
+                []
+            ],
+            [
+                "Birstall , Batley , Staincliffe",
+                [
+                    "/wiki/Birstall,_West_Yorkshire",
+                    "/wiki/Batley",
+                    "/wiki/Staincliffe"
+                ],
+                [
+                    {
+                        "entity id": "Q865872",
+                        "label": "Birstall"
+                    },
+                    {
+                        "entity id": "Q810847",
+                        "label": "Batley"
+                    },
+                    {
+                        "entity id": "Q7597006",
+                        "label": "Staincliffe"
+                    }
+                ]
+            ],
+            [
+                "Kirklees",
+                []
+            ]
+        ],
+        [
+            [
+                "WF90",
+                []
+            ],
+            [
+                "WAKEFIELD",
+                []
+            ],
+            [
+                "Redcats",
+                [
+                    "/wiki/Redcats"
+                ],
+                [
+                    {
+                        "entity id": "Q3422836",
+                        "label": "Redcats"
+                    }
+                ]
+            ],
+            [
+                "non-geographic",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Coverage",
+    "section_text": "The approximate coverage of the postcode districts :",
+    "uid": "WF_postcode_area_0",
+    "intro": "The WF postcode area, also known as the Wakefield postcode area, is a group of 17 postcode districts in north-east England, which are subdivisions of eleven post towns. These cover much of southern and eastern West Yorkshire (including Wakefield, Pontefract, Dewsbury, Batley, Castleford, Heckmondwike, Knottingley, Liversedge, Mirfield, Normanton and Ossett), plus small parts of South and North Yorkshire."
+}

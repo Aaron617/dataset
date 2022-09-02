@@ -1,0 +1,636 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Sport_in_Queensland",
+    "title": "Sport in Queensland",
+    "header": [
+        [
+            "Venue",
+            []
+        ],
+        [
+            "Capacity",
+            []
+        ],
+        [
+            "Main Sports",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Acacia Ridge Iceworld",
+                []
+            ],
+            [
+                "300",
+                []
+            ],
+            [
+                "Ice Hockey , Speed Skating , Figure Skating",
+                [
+                    "/wiki/Ice_Hockey",
+                    "/wiki/Speed_Skating",
+                    "/wiki/Figure_Skating"
+                ],
+                [
+                    {
+                        "entity id": "Q41466",
+                        "label": "ice hockey"
+                    },
+                    {
+                        "entity id": "Q192431",
+                        "label": "speed skating"
+                    },
+                    {
+                        "entity id": "Q38108",
+                        "label": "figure skating"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Albion Park Racecourse",
+                []
+            ],
+            [
+                "? ? ?",
+                []
+            ],
+            [
+                "Harness racing , Greyhound racing",
+                [
+                    "/wiki/Harness_racing",
+                    "/wiki/Greyhound_racing"
+                ],
+                [
+                    {
+                        "entity id": "Q1194269",
+                        "label": "harness racing"
+                    },
+                    {
+                        "entity id": "Q1345388",
+                        "label": "greyhound racing"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Allan Border Field",
+                [
+                    "/wiki/Allan_Border_Field"
+                ],
+                [
+                    {
+                        "entity id": "Q4730485",
+                        "label": "Allan Border Field"
+                    }
+                ]
+            ],
+            [
+                "4,500",
+                []
+            ],
+            [
+                "Cricket",
+                [
+                    "/wiki/Cricket"
+                ],
+                [
+                    {
+                        "entity id": "Q5375",
+                        "label": "cricket"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Auchenflower Stadium",
+                [
+                    "/wiki/Auchenflower_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q24185222",
+                        "label": "Auchenflower Stadium"
+                    }
+                ]
+            ],
+            [
+                "2,000",
+                []
+            ],
+            [
+                "Basketball",
+                [
+                    "/wiki/Basketball"
+                ],
+                [
+                    {
+                        "entity id": "Q5372",
+                        "label": "basketball"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Ballymore Stadium",
+                [
+                    "/wiki/Ballymore_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q2881431",
+                        "label": "Ballymore Stadium"
+                    }
+                ]
+            ],
+            [
+                "24,000",
+                []
+            ],
+            [
+                "Rugby Union",
+                [
+                    "/wiki/Rugby_Union"
+                ],
+                [
+                    {
+                        "entity id": "Q5849",
+                        "label": "rugby union"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Ice World Boondall",
+                [
+                    "/wiki/Ice_World_Boondall"
+                ],
+                [
+                    {
+                        "entity id": "Q22032100",
+                        "label": "Ice World Boondall"
+                    }
+                ]
+            ],
+            [
+                "300",
+                []
+            ],
+            [
+                "Ice Hockey , Speed Skating , Figure Skating",
+                [
+                    "/wiki/Ice_Hockey",
+                    "/wiki/Speed_Skating",
+                    "/wiki/Figure_Skating"
+                ],
+                [
+                    {
+                        "entity id": "Q41466",
+                        "label": "ice hockey"
+                    },
+                    {
+                        "entity id": "Q192431",
+                        "label": "speed skating"
+                    },
+                    {
+                        "entity id": "Q38108",
+                        "label": "figure skating"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Brisbane Convention & Exhibition Centre",
+                [
+                    "/wiki/Brisbane_Convention_&_Exhibition_Centre"
+                ],
+                [
+                    {
+                        "entity id": "Q4968560",
+                        "label": "Brisbane Convention & Exhibition Centre"
+                    }
+                ]
+            ],
+            [
+                "4,000",
+                []
+            ],
+            [
+                "Basketball , Netball",
+                [
+                    "/wiki/Basketball",
+                    "/wiki/Netball"
+                ],
+                [
+                    {
+                        "entity id": "Q5372",
+                        "label": "basketball"
+                    },
+                    {
+                        "entity id": "Q231200",
+                        "label": "netball"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Brisbane Cricket Ground",
+                [
+                    "/wiki/Brisbane_Cricket_Ground"
+                ],
+                [
+                    {
+                        "entity id": "Q2462392",
+                        "label": "Brisbane Cricket Ground"
+                    }
+                ]
+            ],
+            [
+                "42,000",
+                []
+            ],
+            [
+                "Cricket , Aussie rules football",
+                [
+                    "/wiki/Cricket",
+                    "/wiki/Australian_rules_football"
+                ],
+                [
+                    {
+                        "entity id": "Q5375",
+                        "label": "cricket"
+                    },
+                    {
+                        "entity id": "Q50776",
+                        "label": "Australian rules football"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Brisbane Entertainment Centre",
+                [
+                    "/wiki/Brisbane_Entertainment_Centre"
+                ],
+                [
+                    {
+                        "entity id": "Q4968564",
+                        "label": "Brisbane Entertainment Centre"
+                    }
+                ]
+            ],
+            [
+                "14,500",
+                []
+            ],
+            [
+                "Basketball , Netball",
+                [
+                    "/wiki/Basketball",
+                    "/wiki/Netball"
+                ],
+                [
+                    {
+                        "entity id": "Q5372",
+                        "label": "basketball"
+                    },
+                    {
+                        "entity id": "Q231200",
+                        "label": "netball"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Brisbane Exhibition Ground",
+                [
+                    "/wiki/Brisbane_Exhibition_Ground"
+                ],
+                [
+                    {
+                        "entity id": "Q2925642",
+                        "label": "Brisbane Showgrounds"
+                    }
+                ]
+            ],
+            [
+                "25,500",
+                []
+            ],
+            [
+                "Baseball",
+                [
+                    "/wiki/Baseball"
+                ],
+                [
+                    {
+                        "entity id": "Q5369",
+                        "label": "baseball"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Brisbane International Speedway",
+                []
+            ],
+            [
+                "10,000",
+                []
+            ],
+            [
+                "Speedway motor racing",
+                [
+                    "/wiki/Short_track_motor_racing"
+                ],
+                [
+                    {
+                        "entity id": "Q2789112",
+                        "label": "Short track motor racing"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Chandler Aquatic Centre",
+                [
+                    "/wiki/Sleeman_Centre_(Brisbane)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "4,300",
+                []
+            ],
+            [
+                "Swimming",
+                [
+                    "/wiki/Swimming_(sport)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Chandler Arena",
+                [
+                    "/wiki/Chandler_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q5071145",
+                        "label": "Chandler Arena"
+                    }
+                ]
+            ],
+            [
+                "2,700",
+                []
+            ],
+            [
+                "Basketball , Netball",
+                [
+                    "/wiki/Basketball",
+                    "/wiki/Netball"
+                ],
+                [
+                    {
+                        "entity id": "Q5372",
+                        "label": "basketball"
+                    },
+                    {
+                        "entity id": "Q231200",
+                        "label": "netball"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Chandler Velodrome",
+                [
+                    "/wiki/Sleeman_Centre_(Brisbane)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "3,500",
+                []
+            ],
+            [
+                "Cycling",
+                [
+                    "/wiki/Cycling"
+                ],
+                [
+                    {
+                        "entity id": "Q53121",
+                        "label": "cycling"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dolphin Oval",
+                [
+                    "/wiki/Dolphin_Oval"
+                ],
+                [
+                    {
+                        "entity id": "Q5289641",
+                        "label": "Dolphin Oval"
+                    }
+                ]
+            ],
+            [
+                "15,000",
+                []
+            ],
+            [
+                "Rugby league",
+                [
+                    "/wiki/Rugby_league"
+                ],
+                [
+                    {
+                        "entity id": "Q10962",
+                        "label": "rugby league"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Doomben Racecourse",
+                [
+                    "/wiki/Doomben_Racecourse"
+                ],
+                [
+                    {
+                        "entity id": "Q5297076",
+                        "label": "Doomben Racecourse"
+                    }
+                ]
+            ],
+            [
+                "22,000",
+                []
+            ],
+            [
+                "Horse racing",
+                [
+                    "/wiki/Horse_racing"
+                ],
+                [
+                    {
+                        "entity id": "Q187916",
+                        "label": "horse racing"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Eagle Farm Racecourse",
+                [
+                    "/wiki/Eagle_Farm_Racecourse"
+                ],
+                [
+                    {
+                        "entity id": "Q5325079",
+                        "label": "Eagle Farm Racecourse"
+                    }
+                ]
+            ],
+            [
+                "43,000",
+                []
+            ],
+            [
+                "Horse racing",
+                [
+                    "/wiki/Horse_racing"
+                ],
+                [
+                    {
+                        "entity id": "Q187916",
+                        "label": "horse racing"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Holloway Field",
+                [
+                    "/wiki/Holloway_Field"
+                ],
+                [
+                    {
+                        "entity id": "Q5881800",
+                        "label": "Holloway Field"
+                    }
+                ]
+            ],
+            [
+                "1,500",
+                []
+            ],
+            [
+                "Baseball",
+                [
+                    "/wiki/Baseball"
+                ],
+                [
+                    {
+                        "entity id": "Q5369",
+                        "label": "baseball"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "John Murray Field",
+                [
+                    "/wiki/John_Murray_Field"
+                ],
+                [
+                    {
+                        "entity id": "Q6249975",
+                        "label": "John Murray Field"
+                    }
+                ]
+            ],
+            [
+                "1,500",
+                []
+            ],
+            [
+                "Baseball",
+                [
+                    "/wiki/Baseball"
+                ],
+                [
+                    {
+                        "entity id": "Q5369",
+                        "label": "baseball"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Lakeside Park",
+                [
+                    "/wiki/Lakeside_International_Raceway"
+                ],
+                [
+                    {
+                        "entity id": "Q2973998",
+                        "label": "Lakeside International Raceway"
+                    }
+                ]
+            ],
+            [
+                "30,000",
+                []
+            ],
+            [
+                "Motorsport",
+                [
+                    "/wiki/Motorsport"
+                ],
+                [
+                    {
+                        "entity id": "Q5367",
+                        "label": "motorsport"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Sporting Venues -- Brisbane",
+    "section_text": "",
+    "uid": "Sport_in_Queensland_2",
+    "intro": "Sport is an important part of the culture of the Australian state of Queensland. Golf is the most played organised sport and touch football the most played team sport. Netball is the most popular female sport, while rugby league is the most watched sport. The largest sporting event held in Queensland annually of the Gold Coast 600 motor race."
+}

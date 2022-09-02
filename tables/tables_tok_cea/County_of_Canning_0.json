@@ -1,0 +1,470 @@
+{
+    "url": "https://en.wikipedia.org/wiki/County_of_Canning",
+    "title": "County of Canning",
+    "header": [
+        [
+            "Parish",
+            []
+        ],
+        [
+            "LGA",
+            [
+                "/wiki/Local_government_in_Australia"
+            ],
+            [
+                {
+                    "entity id": "Q18481123",
+                    "label": "local government in Australia"
+                }
+            ]
+        ],
+        [
+            "Towns",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Beerwah",
+                []
+            ],
+            [
+                "Sunshine Coast",
+                [
+                    "/wiki/Sunshine_Coast_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1065035",
+                        "label": "Sunshine Coast Region"
+                    }
+                ]
+            ],
+            [
+                "Beerwah , Beerburrum",
+                [
+                    "/wiki/Beerwah,_Queensland",
+                    "/wiki/Beerburrum,_Queensland"
+                ],
+                [
+                    {
+                        "entity id": "Q582809",
+                        "label": "Beerwah"
+                    },
+                    {
+                        "entity id": "Q4880053",
+                        "label": "Beerburrum"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Bowman",
+                []
+            ],
+            [
+                "Somerset",
+                [
+                    "/wiki/Somerset_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1065025",
+                        "label": "Somerset Region"
+                    }
+                ]
+            ],
+            [
+                "Somerset Dam , Hazeldean",
+                [
+                    "/wiki/Somerset_Dam",
+                    "/wiki/Hazeldean,_Queensland"
+                ],
+                [
+                    {
+                        "entity id": "Q47004192",
+                        "label": "Somerset Dam"
+                    },
+                    {
+                        "entity id": "Q24185492",
+                        "label": "Hazeldean"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Bribie",
+                []
+            ],
+            [
+                "Sunshine Coast",
+                [
+                    "/wiki/Sunshine_Coast_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1065035",
+                        "label": "Sunshine Coast Region"
+                    }
+                ]
+            ],
+            [
+                "Caloundra , Landsborough",
+                [
+                    "/wiki/Caloundra",
+                    "/wiki/Landsborough,_Queensland"
+                ],
+                [
+                    {
+                        "entity id": "Q536567",
+                        "label": "Caloundra"
+                    },
+                    {
+                        "entity id": "Q3217113",
+                        "label": "Landsborough"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Canning",
+                []
+            ],
+            [
+                "Moreton Bay",
+                [
+                    "/wiki/Moreton_Bay_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1064985",
+                        "label": "Moreton Bay Region"
+                    }
+                ]
+            ],
+            [
+                "Caboolture , Elimbah",
+                [
+                    "/wiki/Caboolture",
+                    "/wiki/Elimbah,_Queensland"
+                ],
+                [
+                    {
+                        "entity id": "Q913820",
+                        "label": "Caboolture"
+                    },
+                    {
+                        "entity id": "Q5361040",
+                        "label": "Elimbah"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Cressbrook",
+                []
+            ],
+            [
+                "Somerset",
+                [
+                    "/wiki/Somerset_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1065025",
+                        "label": "Somerset Region"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Durundur",
+                []
+            ],
+            [
+                "Moreton Bay",
+                [
+                    "/wiki/Moreton_Bay_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1064985",
+                        "label": "Moreton Bay Region"
+                    }
+                ]
+            ],
+            [
+                "Woodford",
+                [
+                    "/wiki/Woodford,_Queensland"
+                ],
+                [
+                    {
+                        "entity id": "Q8032638",
+                        "label": "Woodford"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kilcoy",
+                []
+            ],
+            [
+                "Somerset",
+                [
+                    "/wiki/Somerset_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1065025",
+                        "label": "Somerset Region"
+                    }
+                ]
+            ],
+            [
+                "Kilcoy",
+                [
+                    "/wiki/Kilcoy,_Queensland"
+                ],
+                [
+                    {
+                        "entity id": "Q6406679",
+                        "label": "Kilcoy"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Maroochy",
+                []
+            ],
+            [
+                "Sunshine Coast",
+                [
+                    "/wiki/Sunshine_Coast_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1065035",
+                        "label": "Sunshine Coast Region"
+                    }
+                ]
+            ],
+            [
+                "Nambour , Eumundi , Coolum",
+                [
+                    "/wiki/Nambour,_Queensland",
+                    "/wiki/Eumundi,_Queensland",
+                    "/wiki/Coolum,_Queensland"
+                ],
+                [
+                    {
+                        "entity id": "Q1343166",
+                        "label": "Nambour"
+                    },
+                    {
+                        "entity id": "Q3060357",
+                        "label": "Eumundi"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Monsildale",
+                []
+            ],
+            [
+                "Somerset",
+                [
+                    "/wiki/Somerset_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1065025",
+                        "label": "Somerset Region"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Mooloolah",
+                []
+            ],
+            [
+                "Sunshine Coast",
+                [
+                    "/wiki/Sunshine_Coast_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1065035",
+                        "label": "Sunshine Coast Region"
+                    }
+                ]
+            ],
+            [
+                "Maroochydore , Eudlo , Sippy Downs",
+                [
+                    "/wiki/Maroochydore,_Queensland",
+                    "/wiki/Eudlo,_Queensland",
+                    "/wiki/Sippy_Downs,_Queensland"
+                ],
+                [
+                    {
+                        "entity id": "Q6772344",
+                        "label": "Maroochydore"
+                    },
+                    {
+                        "entity id": "Q5406542",
+                        "label": "Eudlo"
+                    },
+                    {
+                        "entity id": "Q7525837",
+                        "label": "Sippy Downs"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Neara",
+                []
+            ],
+            [
+                "Somerset",
+                [
+                    "/wiki/Somerset_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1065025",
+                        "label": "Somerset Region"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Toorbul",
+                []
+            ],
+            [
+                "Moreton Bay",
+                [
+                    "/wiki/Moreton_Bay_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1064985",
+                        "label": "Moreton Bay Region"
+                    }
+                ]
+            ],
+            [
+                "Toorbul , Ningi",
+                [
+                    "/wiki/Toorbul,_Queensland",
+                    "/wiki/Ningi,_Queensland"
+                ],
+                [
+                    {
+                        "entity id": "Q16901870",
+                        "label": "Toorbul"
+                    },
+                    {
+                        "entity id": "Q14935530",
+                        "label": "Ningi"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Wararba",
+                []
+            ],
+            [
+                "Moreton Bay",
+                [
+                    "/wiki/Moreton_Bay_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1064985",
+                        "label": "Moreton Bay Region"
+                    }
+                ]
+            ],
+            [
+                "Wamuran",
+                [
+                    "/wiki/Wamuran,_Queensland"
+                ],
+                [
+                    {
+                        "entity id": "Q7966967",
+                        "label": "Wamuran"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Woorim",
+                []
+            ],
+            [
+                "Moreton Bay",
+                [
+                    "/wiki/Moreton_Bay_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1064985",
+                        "label": "Moreton Bay Region"
+                    }
+                ]
+            ],
+            [
+                "Bribie Island",
+                [
+                    "/wiki/Bribie_Island"
+                ],
+                [
+                    {
+                        "entity id": "Q913347",
+                        "label": "Bribie Island"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Parishes",
+    "section_text": "Canning is divided into parishes , as listed below :",
+    "uid": "County_of_Canning_0",
+    "intro": "The County of Canning is a county (a cadastral division) in Queensland, Australia. The county consists of almost all of the former Shires of Caboolture, Maroochy and Kilcoy and the former City of Caloundra. Its main urbanised areas are centred on the Sunshine Coast (excluding Noosa) and the areas surrounding Caboolture."
+}

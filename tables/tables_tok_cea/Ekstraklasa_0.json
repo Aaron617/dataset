@@ -1,0 +1,728 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Ekstraklasa",
+    "title": "Ekstraklasa",
+    "header": [
+        [
+            "Team",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Venue",
+            []
+        ],
+        [
+            "Capacity",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Arka Gdynia",
+                [
+                    "/wiki/Arka_Gdynia"
+                ],
+                [
+                    {
+                        "entity id": "Q666969",
+                        "label": "Arka Gdynia"
+                    }
+                ]
+            ],
+            [
+                "Gdynia",
+                [
+                    "/wiki/Gdynia"
+                ],
+                [
+                    {
+                        "entity id": "Q385",
+                        "label": "Gdynia"
+                    }
+                ]
+            ],
+            [
+                "Stadion Miejski",
+                [
+                    "/wiki/Stadion_GOSiR"
+                ],
+                [
+                    {
+                        "entity id": "Q1486345",
+                        "label": "Stadion GOSiR"
+                    }
+                ]
+            ],
+            [
+                "15,139",
+                []
+            ]
+        ],
+        [
+            [
+                "Cracovia",
+                [
+                    "/wiki/KS_Cracovia_(football)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Krak\u00f3w",
+                [
+                    "/wiki/Krak\u00f3w"
+                ],
+                [
+                    {
+                        "entity id": "Q31487",
+                        "label": "Krak\u00f3w"
+                    }
+                ]
+            ],
+            [
+                "Stadion Cracovii",
+                [
+                    "/wiki/Marshal_J\u00f3zef_Pi\u0142sudski_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q738643",
+                        "label": "Marshal J\u00f3zef Pi\u0142sudski Stadium"
+                    }
+                ]
+            ],
+            [
+                "15,016",
+                []
+            ]
+        ],
+        [
+            [
+                "G\u00f3rnik Zabrze",
+                [
+                    "/wiki/G\u00f3rnik_Zabrze"
+                ],
+                [
+                    {
+                        "entity id": "Q134255",
+                        "label": "G\u00f3rnik Zabrze"
+                    }
+                ]
+            ],
+            [
+                "Zabrze",
+                [
+                    "/wiki/Zabrze"
+                ],
+                [
+                    {
+                        "entity id": "Q103892",
+                        "label": "Zabrze"
+                    }
+                ]
+            ],
+            [
+                "Stadion im . Ernesta Pohla",
+                [
+                    "/wiki/Ernest_Pohl_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q606059",
+                        "label": "Ernest Pohl Stadium"
+                    }
+                ]
+            ],
+            [
+                "24,413",
+                []
+            ]
+        ],
+        [
+            [
+                "Jagiellonia Bia\u0142ystok",
+                [
+                    "/wiki/Jagiellonia_Bia\u0142ystok"
+                ],
+                [
+                    {
+                        "entity id": "Q189170",
+                        "label": "Jagiellonia Bia\u0142ystok"
+                    }
+                ]
+            ],
+            [
+                "Bia\u0142ystok",
+                [
+                    "/wiki/Bia\u0142ystok"
+                ],
+                [
+                    {
+                        "entity id": "Q761",
+                        "label": "Bia\u0142ystok"
+                    }
+                ]
+            ],
+            [
+                "Stadion Miejski",
+                [
+                    "/wiki/Bia\u0142ystok_City_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q2470765",
+                        "label": "Bia\u0142ystok City Stadium"
+                    }
+                ]
+            ],
+            [
+                "22,432",
+                []
+            ]
+        ],
+        [
+            [
+                "Korona Kielce",
+                [
+                    "/wiki/Korona_Kielce"
+                ],
+                [
+                    {
+                        "entity id": "Q730219",
+                        "label": "Korona Kielce"
+                    }
+                ]
+            ],
+            [
+                "Kielce",
+                [
+                    "/wiki/Kielce"
+                ],
+                [
+                    {
+                        "entity id": "Q102317",
+                        "label": "Kielce"
+                    }
+                ]
+            ],
+            [
+                "Kolporter Arena",
+                [
+                    "/wiki/Kielce_City_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q2002170",
+                        "label": "Kielce City Stadium"
+                    }
+                ]
+            ],
+            [
+                "15,550",
+                []
+            ]
+        ],
+        [
+            [
+                "Lech Pozna\u0144",
+                [
+                    "/wiki/Lech_Pozna\u0144"
+                ],
+                [
+                    {
+                        "entity id": "Q52942",
+                        "label": "Lech Pozna\u0144"
+                    }
+                ]
+            ],
+            [
+                "Pozna\u0144",
+                [
+                    "/wiki/Pozna\u0144"
+                ],
+                [
+                    {
+                        "entity id": "Q268",
+                        "label": "Pozna\u0144"
+                    }
+                ]
+            ],
+            [
+                "Stadion Miejski",
+                [
+                    "/wiki/Stadion_Miejski_(Pozna\u0144)"
+                ],
+                [
+                    {
+                        "entity id": "Q188699",
+                        "label": "Stadion Miejski"
+                    }
+                ]
+            ],
+            [
+                "43,269",
+                []
+            ]
+        ],
+        [
+            [
+                "Lechia Gda\u0144sk",
+                [
+                    "/wiki/Lechia_Gda\u0144sk"
+                ],
+                [
+                    {
+                        "entity id": "Q734785",
+                        "label": "Lechia Gda\u0144sk"
+                    }
+                ]
+            ],
+            [
+                "Gda\u0144sk",
+                [
+                    "/wiki/Gda\u0144sk"
+                ],
+                [
+                    {
+                        "entity id": "Q1792",
+                        "label": "Gda\u0144sk"
+                    }
+                ]
+            ],
+            [
+                "Stadion Energa Gda\u0144sk",
+                [
+                    "/wiki/Stadion_Energa_Gda\u0144sk"
+                ],
+                [
+                    {
+                        "entity id": "Q182385",
+                        "label": "Stadion Energa Gda\u0144sk"
+                    }
+                ]
+            ],
+            [
+                "43,615",
+                []
+            ]
+        ],
+        [
+            [
+                "Legia Warsaw",
+                [
+                    "/wiki/Legia_Warsaw"
+                ],
+                [
+                    {
+                        "entity id": "Q193749",
+                        "label": "Legia Warsaw"
+                    }
+                ]
+            ],
+            [
+                "Warsaw",
+                [
+                    "/wiki/Warsaw"
+                ],
+                [
+                    {
+                        "entity id": "Q270",
+                        "label": "Warsaw"
+                    }
+                ]
+            ],
+            [
+                "Stadion im . Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+                [
+                    "/wiki/Polish_Army_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q928642",
+                        "label": "Polish Army Stadium"
+                    }
+                ]
+            ],
+            [
+                "31,800",
+                []
+            ]
+        ],
+        [
+            [
+                "\u0141KS \u0141\u00f3d\u017a",
+                [
+                    "/wiki/\u0141KS_\u0141\u00f3d\u017a"
+                ],
+                [
+                    {
+                        "entity id": "Q345142",
+                        "label": "\u0141KS \u0141\u00f3d\u017a"
+                    }
+                ]
+            ],
+            [
+                "\u0141\u00f3d\u017a",
+                [
+                    "/wiki/\u0141\u00f3d\u017a"
+                ],
+                [
+                    {
+                        "entity id": "Q580",
+                        "label": "\u0141\u00f3d\u017a"
+                    }
+                ]
+            ],
+            [
+                "Stadion \u0141KS",
+                [
+                    "/wiki/Stadion_\u0141KS"
+                ],
+                [
+                    {
+                        "entity id": "Q777501",
+                        "label": "Stadion \u0141KS"
+                    }
+                ]
+            ],
+            [
+                "5,700",
+                []
+            ]
+        ],
+        [
+            [
+                "Piast Gliwice",
+                [
+                    "/wiki/Piast_Gliwice"
+                ],
+                [
+                    {
+                        "entity id": "Q668112",
+                        "label": "Piast Gliwice"
+                    }
+                ]
+            ],
+            [
+                "Gliwice",
+                [
+                    "/wiki/Gliwice"
+                ],
+                [
+                    {
+                        "entity id": "Q105084",
+                        "label": "Gliwice"
+                    }
+                ]
+            ],
+            [
+                "Stadion Miejski",
+                [
+                    "/wiki/Stadion_Piast"
+                ],
+                [
+                    {
+                        "entity id": "Q2017390",
+                        "label": "Stadion Piast"
+                    }
+                ]
+            ],
+            [
+                "10,037",
+                []
+            ]
+        ],
+        [
+            [
+                "Pogo\u0144 Szczecin",
+                [
+                    "/wiki/Pogo\u0144_Szczecin"
+                ],
+                [
+                    {
+                        "entity id": "Q836991",
+                        "label": "Pogo\u0144 Szczecin"
+                    }
+                ]
+            ],
+            [
+                "Szczecin",
+                [
+                    "/wiki/Szczecin"
+                ],
+                [
+                    {
+                        "entity id": "Q393",
+                        "label": "Szczecin"
+                    }
+                ]
+            ],
+            [
+                "Stadion im . Floriana Krygiera",
+                [
+                    "/wiki/Stadion_Florian_Krygier"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "18,027",
+                []
+            ]
+        ],
+        [
+            [
+                "Rak\u00f3w Cz\u0119stochowa",
+                [
+                    "/wiki/Rak\u00f3w_Cz\u0119stochowa"
+                ],
+                [
+                    {
+                        "entity id": "Q287236",
+                        "label": "Rak\u00f3w Cz\u0119stochowa"
+                    }
+                ]
+            ],
+            [
+                "Cz\u0119stochowa",
+                [
+                    "/wiki/Cz\u0119stochowa"
+                ],
+                [
+                    {
+                        "entity id": "Q103217",
+                        "label": "Cz\u0119stochowa"
+                    }
+                ]
+            ],
+            [
+                "Miejski Stadion Pi\u0142karski Rak\u00f3w",
+                []
+            ],
+            [
+                "4,200",
+                []
+            ]
+        ],
+        [
+            [
+                "\u015al\u0105sk Wroc\u0142aw",
+                [
+                    "/wiki/\u015al\u0105sk_Wroc\u0142aw"
+                ],
+                [
+                    {
+                        "entity id": "Q328655",
+                        "label": "\u015al\u0105sk Wroc\u0142aw"
+                    }
+                ]
+            ],
+            [
+                "Wroc\u0142aw",
+                [
+                    "/wiki/Wroc\u0142aw"
+                ],
+                [
+                    {
+                        "entity id": "Q1799",
+                        "label": "Wroc\u0142aw"
+                    }
+                ]
+            ],
+            [
+                "Stadion Miejski",
+                [
+                    "/wiki/Stadion_Miejski_(Wroc\u0142aw)"
+                ],
+                [
+                    {
+                        "entity id": "Q188706",
+                        "label": "Stadion Miejski"
+                    }
+                ]
+            ],
+            [
+                "42,771",
+                []
+            ]
+        ],
+        [
+            [
+                "Wis\u0142a Krak\u00f3w",
+                [
+                    "/wiki/Wis\u0142a_Krak\u00f3w"
+                ],
+                [
+                    {
+                        "entity id": "Q190943",
+                        "label": "Wis\u0142a Krak\u00f3w"
+                    }
+                ]
+            ],
+            [
+                "Krak\u00f3w",
+                [
+                    "/wiki/Krak\u00f3w"
+                ],
+                [
+                    {
+                        "entity id": "Q31487",
+                        "label": "Krak\u00f3w"
+                    }
+                ]
+            ],
+            [
+                "Stadion im . Henryka Reymana",
+                [
+                    "/wiki/Stadion_Miejski,_Krak\u00f3w"
+                ],
+                [
+                    {
+                        "entity id": "Q727590",
+                        "label": "Stadion Miejski in Krak\u00f3w"
+                    }
+                ]
+            ],
+            [
+                "33,326",
+                []
+            ]
+        ],
+        [
+            [
+                "Wis\u0142a P\u0142ock",
+                [
+                    "/wiki/Wis\u0142a_P\u0142ock"
+                ],
+                [
+                    {
+                        "entity id": "Q1475269",
+                        "label": "Wis\u0142a P\u0142ock"
+                    }
+                ]
+            ],
+            [
+                "P\u0142ock",
+                [
+                    "/wiki/P\u0142ock"
+                ],
+                [
+                    {
+                        "entity id": "Q104725",
+                        "label": "P\u0142ock"
+                    }
+                ]
+            ],
+            [
+                "Stadion im . Kazimierza G\u00f3rskiego",
+                [
+                    "/wiki/Kazimierz_G\u00f3rski_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q2018124",
+                        "label": "Kazimierz G\u00f3rski Stadium"
+                    }
+                ]
+            ],
+            [
+                "12,800",
+                []
+            ]
+        ],
+        [
+            [
+                "Zag\u0142\u0119bie Lubin",
+                [
+                    "/wiki/Zag\u0142\u0119bie_Lubin"
+                ],
+                [
+                    {
+                        "entity id": "Q140497",
+                        "label": "Zag\u0142\u0119bie Lubin"
+                    }
+                ]
+            ],
+            [
+                "Lubin",
+                [
+                    "/wiki/Lubin"
+                ],
+                [
+                    {
+                        "entity id": "Q237512",
+                        "label": "Lubin"
+                    }
+                ]
+            ],
+            [
+                "Stadion KGHM Zag\u0142\u0119bia",
+                [
+                    "/wiki/Stadion_Zag\u0142\u0119bia_Lubin"
+                ],
+                [
+                    {
+                        "entity id": "Q1147191",
+                        "label": "Stadion Zag\u0142\u0119bia Lubin"
+                    }
+                ]
+            ],
+            [
+                "16,068",
+                []
+            ]
+        ],
+        [
+            [
+                "Zag\u0142\u0119bie Sosnowiec",
+                [
+                    "/wiki/Zag\u0142\u0119bie_Sosnowiec"
+                ],
+                [
+                    {
+                        "entity id": "Q140487",
+                        "label": "Zag\u0142\u0119bie Sosnowiec"
+                    }
+                ]
+            ],
+            [
+                "Sosnowiec",
+                [
+                    "/wiki/Sosnowiec"
+                ],
+                [
+                    {
+                        "entity id": "Q105060",
+                        "label": "Sosnowiec"
+                    }
+                ]
+            ],
+            [
+                "Stadion Ludowy",
+                [
+                    "/wiki/Stadion_Ludowy"
+                ],
+                [
+                    {
+                        "entity id": "Q3496230",
+                        "label": "Stadion Ludowy"
+                    }
+                ]
+            ],
+            [
+                "7,500 ( 4,900 seats )",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Clubs",
+    "section_text": "There are 16 clubs in the Ekstraklasa . During the course of the season each club plays the others twice , once at their home stadium and once at that of their opponents , for a total of 30 games ( 240 games in the season ) . From the 2013\u201314 season onward after 30th round league will be split into 'champion ' ( top eight teams ) and 'relegation ' ( bottom eight teams ) groups . Each team plays seven more games ( teams ranked 1\u20134 and 9\u201312 play four times at home ) . The 2016\u201317 season was last when teams started an extra round with half the points ( rounded up ) achieved during the first phase of 30 matches . The changes extend the season to total of 296 matches played . [ 3 ] ArkaCracoviaG\u00f3rnikJagielloniaKoronaLechLechiaLegia\u0141KSPiastPogo\u0144Rak\u00f3w\u015al\u0105skWis\u0142a K.Wis\u0142a P.Zag\u0142\u0119bie L. Location of teams in 2019\u201320 Ekstraklasa",
+    "uid": "Ekstraklasa_0",
+    "intro": "The Ekstraklasa (Polish pronunciation: [\u02cc\u025bkstra\u02c8klasa]), named PKO BP Ekstraklasa since the 2019-20 season due to its sponsorship by PKO Bank Polski, is the top Polish professional league for men's association football teams. Contested by 16 clubs, operating a system of promotion and relegation with the I liga, seasons start in July, and end in May or June the following year. Teams play a total of 37 games each, totalling 296 matches in the season. Games are played on Fridays, Saturdays, Sundays and Mondays. The winner of the Ekstraklasa qualifies for the Polish SuperCup. The Ekstraklasa is now operated by the Ekstraklasa SA (English: Ekstraklasa Joint-stock company). The Ekstraklasa (former I liga) was officially formed as Liga Polska on 4-5 December 1926 in Warsaw, since 1 March 1927 as Liga Pi\u0142ki No\u017cnej (Polish pronunciation: [\u02c8l\u02b2i\u0261a \u02c8piwki \u02c8n\u0254\u0290n\u025bj]), but the Polish Football Association (Polish: Polski Zwi\u0105zek Pi\u0142ki No\u017cnej, PZPN) had been in existence since 20 December 1919, a year after the independence of Poland in 1918. The first games of the freshly created league took place on 3 April 1927, while first national non-league football championship took place in 1920. A total of 81 teams have played in the top division of Polish football since the founding of the league, of which 16 clubs have won the title. The current champions are Piast Gliwice, who won their first-ever title in 2018-19 season."
+}

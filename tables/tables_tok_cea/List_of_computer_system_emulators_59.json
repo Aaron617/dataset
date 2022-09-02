@@ -1,0 +1,1312 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+    "title": "List of computer system emulators",
+    "header": [
+        [
+            "Emulator",
+            []
+        ],
+        [
+            "Current version",
+            []
+        ],
+        [
+            "Released",
+            []
+        ],
+        [
+            "Guest emulation capabilities",
+            []
+        ],
+        [
+            "Host Operating System",
+            []
+        ],
+        [
+            "License",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "blueMSX",
+                [
+                    "/wiki/BlueMSX"
+                ],
+                [
+                    {
+                        "entity id": "Q1939659",
+                        "label": "blueMSX"
+                    }
+                ]
+            ],
+            [
+                "2.8.2",
+                []
+            ],
+            [
+                "August 14 , 2009",
+                []
+            ],
+            [
+                "MSX , MSX2 , MSX2+ , MSX TurboR , SpectraVideo SVI318/328 , ColecoVision , Sega SG-1000",
+                [
+                    "/wiki/MSX",
+                    "/wiki/MSX2",
+                    "/wiki/MSX",
+                    "/wiki/MSX",
+                    "/wiki/ColecoVision",
+                    "/wiki/Sega_SG-1000"
+                ],
+                [
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q11232203",
+                        "label": "MSX 2"
+                    },
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q1046862",
+                        "label": "ColecoVision"
+                    },
+                    {
+                        "entity id": "Q209868",
+                        "label": "Sega Master System"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "CocoaMSX",
+                []
+            ],
+            [
+                "1.61",
+                []
+            ],
+            [
+                "August 5 , 2017",
+                []
+            ],
+            [
+                "MSX , MSX2 , MSX2+ , MSX TurboR",
+                [
+                    "/wiki/MSX",
+                    "/wiki/MSX2",
+                    "/wiki/MSX",
+                    "/wiki/MSX"
+                ],
+                [
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q11232203",
+                        "label": "MSX 2"
+                    },
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    }
+                ]
+            ],
+            [
+                "OS X",
+                [
+                    "/wiki/Mac_OS_X"
+                ],
+                [
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Clock Signal ( CLK )",
+                []
+            ],
+            [
+                "2020-01-16",
+                []
+            ],
+            [
+                "August 1 , 2019",
+                []
+            ],
+            [
+                "MSX1 ; also : Acorn Electron , Amstrad CPC , Apple II , Atari 2600 , ColecoVision , Commodore VIC-20 , Macintosh , Oric , Sega Master System , ZX80 , ZX81",
+                [
+                    "/wiki/MSX1",
+                    "/wiki/Acorn_Electron",
+                    "/wiki/Amstrad_CPC",
+                    "/wiki/Apple_II",
+                    "/wiki/Atari_2600",
+                    "/wiki/ColecoVision",
+                    "/wiki/Commodore_VIC-20",
+                    "/wiki/Macintosh_512Ke",
+                    "/wiki/Oric",
+                    "/wiki/Sega_Master_System",
+                    "/wiki/ZX80",
+                    "/wiki/ZX81"
+                ],
+                [
+                    {
+                        "entity id": "Q21985424",
+                        "label": "Msh homeobox 1"
+                    },
+                    {
+                        "entity id": "Q342163",
+                        "label": "Acorn Electron"
+                    },
+                    {
+                        "entity id": "Q478829",
+                        "label": "Amstrad CPC"
+                    },
+                    {
+                        "entity id": "Q3017175",
+                        "label": "Apple II"
+                    },
+                    {
+                        "entity id": "Q206261",
+                        "label": "Atari 2600"
+                    },
+                    {
+                        "entity id": "Q1046862",
+                        "label": "ColecoVision"
+                    },
+                    {
+                        "entity id": "Q918232",
+                        "label": "Commodore VIC-20"
+                    },
+                    {
+                        "entity id": "Q1052609",
+                        "label": "Macintosh 512Ke"
+                    },
+                    {
+                        "entity id": "Q17042679",
+                        "label": "Oric"
+                    },
+                    {
+                        "entity id": "Q209868",
+                        "label": "Sega Master System"
+                    },
+                    {
+                        "entity id": "Q602406",
+                        "label": "ZX80"
+                    },
+                    {
+                        "entity id": "Q78503718",
+                        "label": "ZX81 Collection"
+                    }
+                ]
+            ],
+            [
+                "macOS , Linux , BSD",
+                [
+                    "/wiki/MacOS"
+                ],
+                [
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "MIT License",
+                [
+                    "/wiki/MIT_License"
+                ],
+                [
+                    {
+                        "entity id": "Q334661",
+                        "label": "MIT license"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "fMSX",
+                [
+                    "/wiki/FMSX"
+                ],
+                [
+                    {
+                        "entity id": "Q1954414",
+                        "label": "fMSX"
+                    }
+                ]
+            ],
+            [
+                "5.3",
+                []
+            ],
+            [
+                "March 27 , 2018",
+                []
+            ],
+            [
+                "MSX , MSX2 , MSX2+",
+                [
+                    "/wiki/MSX",
+                    "/wiki/MSX2",
+                    "/wiki/MSX"
+                ],
+                [
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q11232203",
+                        "label": "MSX 2"
+                    },
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    }
+                ]
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "Commercial",
+                [
+                    "/wiki/Commercial_software"
+                ],
+                [
+                    {
+                        "entity id": "Q1340793",
+                        "label": "commercial software"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "fMSX PSP",
+                []
+            ],
+            [
+                "3.5.41",
+                []
+            ],
+            [
+                "March 17 , 2010",
+                []
+            ],
+            [
+                "MSX , MSX2 , MSX2+",
+                [
+                    "/wiki/MSX",
+                    "/wiki/MSX2",
+                    "/wiki/MSX"
+                ],
+                [
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q11232203",
+                        "label": "MSX 2"
+                    },
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    }
+                ]
+            ],
+            [
+                "Sony PSP",
+                [
+                    "/wiki/PlayStation_Portable"
+                ],
+                [
+                    {
+                        "entity id": "Q170325",
+                        "label": "PlayStation Portable"
+                    }
+                ]
+            ],
+            [
+                "Open source",
+                [
+                    "/wiki/Open-source_software"
+                ],
+                [
+                    {
+                        "entity id": "Q1130645",
+                        "label": "open-source software"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MAME ( formerly MESS )",
+                [
+                    "/wiki/MAME",
+                    "/wiki/Multi_Emulator_Super_System"
+                ],
+                [
+                    {
+                        "entity id": "Q1054055",
+                        "label": "MAME"
+                    },
+                    {
+                        "entity id": "Q778644",
+                        "label": "MESS"
+                    }
+                ]
+            ],
+            [
+                "0.196",
+                []
+            ],
+            [
+                "March 28 , 2018",
+                []
+            ],
+            [
+                "Various computers , consoles , and arcade systems",
+                []
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "New BSD , GPLv2 or later",
+                [
+                    "/wiki/New_BSD",
+                    "/wiki/GPLv2"
+                ],
+                [
+                    {
+                        "entity id": "Q18491847",
+                        "label": "3-clause BSD License"
+                    },
+                    {
+                        "entity id": "Q10513450",
+                        "label": "GNU General Public License, version 2.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "meisei",
+                [
+                    "/wiki/Meisei"
+                ],
+                [
+                    {
+                        "entity id": "Q17175991",
+                        "label": "Meisei"
+                    }
+                ]
+            ],
+            [
+                "1.3.1",
+                []
+            ],
+            [
+                "February 9 , 2010",
+                []
+            ],
+            [
+                "MSX",
+                [
+                    "/wiki/MSX"
+                ],
+                [
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Open source",
+                [
+                    "/wiki/Open-source_software"
+                ],
+                [
+                    {
+                        "entity id": "Q1130645",
+                        "label": "open-source software"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MSKISS",
+                []
+            ],
+            [
+                "0.2.4",
+                []
+            ],
+            [
+                "March 13 , 2000",
+                []
+            ],
+            [
+                "MSX , MSX2 , MSX2+",
+                [
+                    "/wiki/MSX",
+                    "/wiki/MSX2",
+                    "/wiki/MSX"
+                ],
+                [
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q11232203",
+                        "label": "MSX 2"
+                    },
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    }
+                ]
+            ],
+            [
+                "DOS , Windows",
+                [
+                    "/wiki/DOS",
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MSX Emulator",
+                []
+            ],
+            [
+                "0.10b",
+                []
+            ],
+            [
+                "October 26 , 2006",
+                []
+            ],
+            [
+                "MSX",
+                [
+                    "/wiki/MSX"
+                ],
+                [
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    }
+                ]
+            ],
+            [
+                "Atari ST",
+                [
+                    "/wiki/Atari_ST"
+                ],
+                [
+                    {
+                        "entity id": "Q627302",
+                        "label": "Atari ST"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MSX Emulator",
+                []
+            ],
+            [
+                "1.8",
+                []
+            ],
+            [
+                "August 16 , 2010",
+                []
+            ],
+            [
+                "MSX , MSX2",
+                [
+                    "/wiki/MSX",
+                    "/wiki/MSX2"
+                ],
+                [
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q11232203",
+                        "label": "MSX 2"
+                    }
+                ]
+            ],
+            [
+                "UNIX",
+                [
+                    "/wiki/UNIX"
+                ],
+                [
+                    {
+                        "entity id": "Q14656",
+                        "label": "Unix-like operating system"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "msxDS",
+                []
+            ],
+            [
+                "0.93",
+                []
+            ],
+            [
+                "January 1 , 2012",
+                []
+            ],
+            [
+                "MSX , MSX2 , MSX2+",
+                [
+                    "/wiki/MSX",
+                    "/wiki/MSX2",
+                    "/wiki/MSX"
+                ],
+                [
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q11232203",
+                        "label": "MSX 2"
+                    },
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    }
+                ]
+            ],
+            [
+                "Nintendo DS",
+                [
+                    "/wiki/Nintendo_DS"
+                ],
+                [
+                    {
+                        "entity id": "Q170323",
+                        "label": "Nintendo DS"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "NLMSX",
+                []
+            ],
+            [
+                "0.48",
+                []
+            ],
+            [
+                "June 12 , 2003",
+                []
+            ],
+            [
+                "MSX , MSX2 , MSX2+ , MSX TurboR",
+                [
+                    "/wiki/MSX",
+                    "/wiki/MSX2",
+                    "/wiki/MSX",
+                    "/wiki/MSX"
+                ],
+                [
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q11232203",
+                        "label": "MSX 2"
+                    },
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "NO $ MSX",
+                []
+            ],
+            [
+                "1.5",
+                []
+            ],
+            [
+                "May 1 , 2003",
+                []
+            ],
+            [
+                "MSX , MSX2",
+                [
+                    "/wiki/MSX",
+                    "/wiki/MSX2"
+                ],
+                [
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q11232203",
+                        "label": "MSX 2"
+                    }
+                ]
+            ],
+            [
+                "Windows , DOS",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/DOS"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    }
+                ]
+            ],
+            [
+                "Shareware",
+                [
+                    "/wiki/Shareware"
+                ],
+                [
+                    {
+                        "entity id": "Q185534",
+                        "label": "shareware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "openMSX",
+                [
+                    "/wiki/OpenMSX"
+                ],
+                [
+                    {
+                        "entity id": "Q7095828",
+                        "label": "openMSX"
+                    }
+                ]
+            ],
+            [
+                "0.15.0",
+                []
+            ],
+            [
+                "December 8 , 2018",
+                []
+            ],
+            [
+                "MSX , MSX2 , MSX2+ , MSX TurboR , SpectraVideo SVI318/328 , ColecoVision",
+                [
+                    "/wiki/MSX",
+                    "/wiki/MSX2",
+                    "/wiki/MSX",
+                    "/wiki/MSX",
+                    "/wiki/ColecoVision"
+                ],
+                [
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q11232203",
+                        "label": "MSX 2"
+                    },
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q1046862",
+                        "label": "ColecoVision"
+                    }
+                ]
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "paraMSX",
+                []
+            ],
+            [
+                "0.50b",
+                []
+            ],
+            [
+                "October 8 , 2009",
+                []
+            ],
+            [
+                "MSX , MSX2 , MSX2+ , MSX TurboR",
+                [
+                    "/wiki/MSX",
+                    "/wiki/MSX2",
+                    "/wiki/MSX",
+                    "/wiki/MSX"
+                ],
+                [
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q11232203",
+                        "label": "MSX 2"
+                    },
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "rMSX",
+                []
+            ],
+            [
+                "1.3",
+                []
+            ],
+            [
+                "April 1 , 2016",
+                []
+            ],
+            [
+                "MSX , MSX2",
+                [
+                    "/wiki/MSX",
+                    "/wiki/MSX2"
+                ],
+                [
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q11232203",
+                        "label": "MSX 2"
+                    }
+                ]
+            ],
+            [
+                "MSX tR",
+                []
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "RuMSX",
+                []
+            ],
+            [
+                "0.82",
+                []
+            ],
+            [
+                "June 18 , 2017",
+                []
+            ],
+            [
+                "MSX , MSX2 , MSX2+ , MSX TurboR",
+                [
+                    "/wiki/MSX",
+                    "/wiki/MSX2",
+                    "/wiki/MSX",
+                    "/wiki/MSX"
+                ],
+                [
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q11232203",
+                        "label": "MSX 2"
+                    },
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "jsMSX",
+                []
+            ],
+            [
+                "beta",
+                []
+            ],
+            [
+                "December 29 , 2011",
+                []
+            ],
+            [
+                "MSX",
+                [
+                    "/wiki/MSX"
+                ],
+                [
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    }
+                ]
+            ],
+            [
+                "Web browser ( JavaScript )",
+                [
+                    "/wiki/Web_browser",
+                    "/wiki/JavaScript"
+                ],
+                [
+                    {
+                        "entity id": "Q6368",
+                        "label": "web browser"
+                    },
+                    {
+                        "entity id": "Q2005",
+                        "label": "JavaScript"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "WebMSX",
+                []
+            ],
+            [
+                "5.4.4",
+                []
+            ],
+            [
+                "June 1 , 2018",
+                []
+            ],
+            [
+                "MSX , MSX2 , MSX2+ , Network Multiplayer/Sharing",
+                [
+                    "/wiki/MSX",
+                    "/wiki/MSX2",
+                    "/wiki/MSX"
+                ],
+                [
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q11232203",
+                        "label": "MSX 2"
+                    },
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    }
+                ]
+            ],
+            [
+                "Web browser ( JavaScript )",
+                [
+                    "/wiki/Web_browser",
+                    "/wiki/JavaScript"
+                ],
+                [
+                    {
+                        "entity id": "Q6368",
+                        "label": "web browser"
+                    },
+                    {
+                        "entity id": "Q2005",
+                        "label": "JavaScript"
+                    }
+                ]
+            ],
+            [
+                "Open Source",
+                [
+                    "/wiki/Open_Source"
+                ],
+                [
+                    {
+                        "entity id": "Q39162",
+                        "label": "open source"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "TMSX",
+                []
+            ],
+            [
+                "beta",
+                []
+            ],
+            [
+                "December 14 , 2015",
+                []
+            ],
+            [
+                "MSX",
+                [
+                    "/wiki/MSX"
+                ],
+                [
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Open Source",
+                [
+                    "/wiki/Open_Source"
+                ],
+                [
+                    {
+                        "entity id": "Q39162",
+                        "label": "open source"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "8-bit guest systems -- MSX",
+    "section_text": "",
+    "uid": "List_of_computer_system_emulators_59",
+    "intro": "This article lists software and hardware that emulates computing platforms. The host in this article is the system running the emulator, and the guest is the system being emulated. The list is organized by guest operating system (the system being emulated), grouped by bitness. Each section contains a list of emulators capable of emulating the specified guest, details of the range of guest systems able to be emulated, and the required host environment and licensing."
+}

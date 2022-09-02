@@ -1,0 +1,596 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Tomography",
+    "title": "Tomography",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Source of data",
+            []
+        ],
+        [
+            "Abbreviation",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Atom probe tomography",
+                [
+                    "/wiki/Atom_probe"
+                ],
+                [
+                    {
+                        "entity id": "Q757649",
+                        "label": "atom probe"
+                    }
+                ]
+            ],
+            [
+                "Atom probe",
+                [
+                    "/wiki/Atom_probe"
+                ],
+                [
+                    {
+                        "entity id": "Q757649",
+                        "label": "atom probe"
+                    }
+                ]
+            ],
+            [
+                "APT",
+                []
+            ]
+        ],
+        [
+            [
+                "Computed Tomography Imaging Spectrometer",
+                []
+            ],
+            [
+                "Visible light spectral imaging",
+                [
+                    "/wiki/Visible_spectrum",
+                    "/wiki/Spectral_imaging"
+                ],
+                [
+                    {
+                        "entity id": "Q76299",
+                        "label": "visible spectrum"
+                    },
+                    {
+                        "entity id": "Q609991",
+                        "label": "imaging spectroscopy"
+                    }
+                ]
+            ],
+            [
+                "CTIS",
+                []
+            ]
+        ],
+        [
+            [
+                "Computed tomography of chemiluminescence",
+                []
+            ],
+            [
+                "Chemiluminescence Flames",
+                [
+                    "/wiki/Chemiluminescence",
+                    "/wiki/Flame"
+                ],
+                [
+                    {
+                        "entity id": "Q2931725",
+                        "label": "chemiluminescence"
+                    },
+                    {
+                        "entity id": "Q235544",
+                        "label": "flame"
+                    }
+                ]
+            ],
+            [
+                "CTC",
+                []
+            ]
+        ],
+        [
+            [
+                "Confocal microscopy ( Laser scanning confocal microscopy )",
+                [
+                    "/wiki/Laser_scanning_confocal_microscopy"
+                ],
+                [
+                    {
+                        "entity id": "Q112751829",
+                        "label": "Laser Scanning Confocal Microscopy for <i>Arabidopsis</i> Epidermal, Mesophyll and Vascular Parenchyma Cells"
+                    }
+                ]
+            ],
+            [
+                "Laser scanning confocal microscopy",
+                [
+                    "/wiki/Laser_scanning_confocal_microscopy"
+                ],
+                [
+                    {
+                        "entity id": "Q112751829",
+                        "label": "Laser Scanning Confocal Microscopy for <i>Arabidopsis</i> Epidermal, Mesophyll and Vascular Parenchyma Cells"
+                    }
+                ]
+            ],
+            [
+                "LSCM",
+                []
+            ]
+        ],
+        [
+            [
+                "Cryogenic electron tomography",
+                [
+                    "/wiki/Cryogenic_electron_tomography"
+                ],
+                [
+                    {
+                        "entity id": "Q33533572",
+                        "label": "Cryogenic electron tomography reveals the template effect of chitosan in biomimetic silicification."
+                    }
+                ]
+            ],
+            [
+                "Cryogenic transmission electron microscopy",
+                [
+                    "/wiki/Cryogenic_transmission_electron_microscopy"
+                ],
+                [
+                    {
+                        "entity id": "Q30318472",
+                        "label": "Cryogenic transmission electron microscopy (cryo-TEM) for studying the morphology of colloidal drug delivery systems"
+                    }
+                ]
+            ],
+            [
+                "CryoET",
+                []
+            ]
+        ],
+        [
+            [
+                "Electrical capacitance tomography",
+                [
+                    "/wiki/Electrical_capacitance_tomography"
+                ],
+                [
+                    {
+                        "entity id": "Q2584887",
+                        "label": "electrical capacitance tomography"
+                    }
+                ]
+            ],
+            [
+                "Electrical capacitance",
+                [
+                    "/wiki/Electrical_capacitance"
+                ],
+                [
+                    {
+                        "entity id": "Q2584887",
+                        "label": "electrical capacitance tomography"
+                    }
+                ]
+            ],
+            [
+                "ECT",
+                []
+            ]
+        ],
+        [
+            [
+                "Electrical capacitance volume tomography",
+                [
+                    "/wiki/Electrical_capacitance_volume_tomography"
+                ],
+                [
+                    {
+                        "entity id": "Q30105405",
+                        "label": "electrical capacitance volume tomography"
+                    }
+                ]
+            ],
+            [
+                "Electrical capacitance",
+                [
+                    "/wiki/Electrical_capacitance"
+                ],
+                [
+                    {
+                        "entity id": "Q2584887",
+                        "label": "electrical capacitance tomography"
+                    }
+                ]
+            ],
+            [
+                "ECVT",
+                []
+            ]
+        ],
+        [
+            [
+                "Electrical resistivity tomography",
+                [
+                    "/wiki/Electrical_resistivity_tomography"
+                ],
+                [
+                    {
+                        "entity id": "Q488986",
+                        "label": "electrical resistivity tomography"
+                    }
+                ]
+            ],
+            [
+                "Electrical resistivity",
+                [
+                    "/wiki/Electrical_resistivity"
+                ],
+                [
+                    {
+                        "entity id": "Q108193",
+                        "label": "electrical resistivity"
+                    }
+                ]
+            ],
+            [
+                "ERT",
+                []
+            ]
+        ],
+        [
+            [
+                "Electrical impedance tomography",
+                [
+                    "/wiki/Electrical_impedance_tomography"
+                ],
+                [
+                    {
+                        "entity id": "Q1326472",
+                        "label": "electrical impedance tomography"
+                    }
+                ]
+            ],
+            [
+                "Electrical impedance",
+                [
+                    "/wiki/Electrical_impedance"
+                ],
+                [
+                    {
+                        "entity id": "Q179043",
+                        "label": "impedance"
+                    }
+                ]
+            ],
+            [
+                "EIT",
+                []
+            ]
+        ],
+        [
+            [
+                "Electron tomography",
+                [
+                    "/wiki/Electron_tomography"
+                ],
+                [
+                    {
+                        "entity id": "Q5358194",
+                        "label": "electron tomography"
+                    }
+                ]
+            ],
+            [
+                "Transmission electron microscopy",
+                [
+                    "/wiki/Transmission_electron_microscopy"
+                ],
+                [
+                    {
+                        "entity id": "Q110779037",
+                        "label": "transmission electron microscopy"
+                    }
+                ]
+            ],
+            [
+                "ET",
+                []
+            ]
+        ],
+        [
+            [
+                "Focal plane tomography",
+                [
+                    "/wiki/Focal_plane_tomography"
+                ],
+                [
+                    {
+                        "entity id": "Q30693082",
+                        "label": "Focal plane tomography"
+                    }
+                ]
+            ],
+            [
+                "X-ray",
+                [
+                    "/wiki/X-ray"
+                ],
+                [
+                    {
+                        "entity id": "Q34777",
+                        "label": "X-ray"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Functional magnetic resonance imaging",
+                [
+                    "/wiki/Functional_magnetic_resonance_imaging"
+                ],
+                [
+                    {
+                        "entity id": "Q903809",
+                        "label": "functional magnetic resonance imaging"
+                    }
+                ]
+            ],
+            [
+                "Magnetic resonance",
+                [
+                    "/wiki/Nuclear_magnetic_resonance"
+                ],
+                [
+                    {
+                        "entity id": "Q209402",
+                        "label": "nuclear magnetic resonance"
+                    }
+                ]
+            ],
+            [
+                "fMRI",
+                []
+            ]
+        ],
+        [
+            [
+                "Hydraulic tomography",
+                [
+                    "/wiki/Hydraulic_tomography"
+                ],
+                [
+                    {
+                        "entity id": "Q5954463",
+                        "label": "Hydraulic tomography"
+                    }
+                ]
+            ],
+            [
+                "fluid flow",
+                [
+                    "/wiki/Fluid_flow"
+                ],
+                [
+                    {
+                        "entity id": "Q12142910",
+                        "label": "fluid flow"
+                    }
+                ]
+            ],
+            [
+                "HT",
+                []
+            ]
+        ],
+        [
+            [
+                "Infrared microtomographic imaging",
+                []
+            ],
+            [
+                "Mid-infrared",
+                [
+                    "/wiki/Mid-infrared"
+                ],
+                [
+                    {
+                        "entity id": "Q1881516",
+                        "label": "MIRI"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Laser Ablation Tomography",
+                []
+            ],
+            [
+                "Laser Ablation & Fluorescent Microscopy",
+                [
+                    "/wiki/Laser_ablation",
+                    "/wiki/Fluorescence_microscopy"
+                ],
+                [
+                    {
+                        "entity id": "Q1806547",
+                        "label": "laser ablation"
+                    },
+                    {
+                        "entity id": "Q73490850",
+                        "label": "fluorescence microscopy"
+                    }
+                ]
+            ],
+            [
+                "LAT",
+                []
+            ]
+        ],
+        [
+            [
+                "Magnetic induction tomography",
+                [
+                    "/wiki/Magnetic_induction_tomography"
+                ],
+                [
+                    {
+                        "entity id": "Q6731557",
+                        "label": "Magnetic induction tomography"
+                    }
+                ]
+            ],
+            [
+                "Magnetic induction",
+                [
+                    "/wiki/Electromagnetic_induction"
+                ],
+                [
+                    {
+                        "entity id": "Q988780",
+                        "label": "electromagnetic induction"
+                    }
+                ]
+            ],
+            [
+                "MIT",
+                []
+            ]
+        ],
+        [
+            [
+                "Magnetic resonance imaging or nuclear magnetic resonance tomography",
+                [
+                    "/wiki/Magnetic_resonance_imaging",
+                    "/wiki/Nuclear_magnetic_resonance"
+                ],
+                [
+                    {
+                        "entity id": "Q161238",
+                        "label": "magnetic-resonance imaging"
+                    },
+                    {
+                        "entity id": "Q209402",
+                        "label": "nuclear magnetic resonance"
+                    }
+                ]
+            ],
+            [
+                "Nuclear magnetic moment",
+                [
+                    "/wiki/Nuclear_magnetic_moment"
+                ],
+                [
+                    {
+                        "entity id": "Q3269677",
+                        "label": "nuclear magnetic moment"
+                    }
+                ]
+            ],
+            [
+                "MRI or MRT",
+                []
+            ]
+        ],
+        [
+            [
+                "Muon tomography",
+                [
+                    "/wiki/Muon_tomography"
+                ],
+                [
+                    {
+                        "entity id": "Q17163044",
+                        "label": "Muon tomography"
+                    }
+                ]
+            ],
+            [
+                "Muon",
+                [
+                    "/wiki/Muon"
+                ],
+                [
+                    {
+                        "entity id": "Q3151",
+                        "label": "muon"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Microwave tomography",
+                []
+            ],
+            [
+                "Microwave ( 1-10 GHz electromagnetic radiation )",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Neutron tomography",
+                [
+                    "/wiki/Neutron_tomography"
+                ],
+                [
+                    {
+                        "entity id": "Q7003125",
+                        "label": "Neutron tomography"
+                    }
+                ]
+            ],
+            [
+                "Neutron",
+                [
+                    "/wiki/Neutron"
+                ],
+                [
+                    {
+                        "entity id": "Q2348",
+                        "label": "neutron"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Types of tomography",
+    "section_text": "",
+    "uid": "Tomography_0",
+    "intro": "Tomography is imaging by sections or sectioning, through the use of any kind of penetrating wave. The method is used in radiology, archaeology, biology, atmospheric science, geophysics, oceanography, plasma physics, materials science, astrophysics, quantum information, and other areas of science. The word tomography is derived from Ancient Greek \u03c4\u03cc\u03bc\u03bf\u03c2 tomos, slice, section and \u03b3\u03c1\u03ac\u03c6\u03c9 graph\u014d, to write. A device used in tomography is called a tomograph, while the image produced is a tomogram. In many cases, the production of these images is based on the mathematical procedure tomographic reconstruction, such as X-ray computed tomography technically being produced from multiple projectional radiographs. Many different reconstruction algorithms exist. Most algorithms fall into one of two categories: filtered back projection (FBP) and iterative reconstruction (IR). These procedures give inexact results: they represent a compromise between accuracy and computation time required. FBP demands fewer computational resources, while IR generally produces fewer artifacts (errors in the reconstruction) at a higher computing cost. Although MRI and ultrasound are transmission methods, they typically do not require movement of the transmitter to acquire data from different directions. In MRI, both projections and higher spatial harmonics are sampled by applying spatially-varying magnetic fields; no moving parts are necessary to generate an image. On the other hand, since ultrasound uses time-of-flight to spatially encode the received signal, it is not strictly a tomographic method and does not require multiple acquisitions at all."
+}

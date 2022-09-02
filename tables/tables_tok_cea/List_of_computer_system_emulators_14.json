@@ -1,0 +1,747 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+    "title": "List of computer system emulators",
+    "header": [
+        [
+            "Emulator",
+            []
+        ],
+        [
+            "Latest version",
+            []
+        ],
+        [
+            "Released",
+            []
+        ],
+        [
+            "Guest emulation capabilities",
+            []
+        ],
+        [
+            "Host Operating System",
+            []
+        ],
+        [
+            "License",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "MAME ( formerly MESS )",
+                [
+                    "/wiki/MAME",
+                    "/wiki/Multi_Emulator_Super_System"
+                ],
+                [
+                    {
+                        "entity id": "Q1054055",
+                        "label": "MAME"
+                    },
+                    {
+                        "entity id": "Q778644",
+                        "label": "MESS"
+                    }
+                ]
+            ],
+            [
+                "0.196",
+                []
+            ],
+            [
+                "March 28 , 2018",
+                []
+            ],
+            [
+                "Various computers , consoles , and arcade systems",
+                []
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "New BSD , GPLv2 or later",
+                [
+                    "/wiki/New_BSD",
+                    "/wiki/GPLv2"
+                ],
+                [
+                    {
+                        "entity id": "Q18491847",
+                        "label": "3-clause BSD License"
+                    },
+                    {
+                        "entity id": "Q10513450",
+                        "label": "GNU General Public License, version 2.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mini vMac",
+                [
+                    "/wiki/Mini_vMac"
+                ],
+                [
+                    {
+                        "entity id": "Q61890162",
+                        "label": "Mini vMac"
+                    }
+                ]
+            ],
+            [
+                "3.5.8",
+                []
+            ],
+            [
+                "August 13 , 2017",
+                []
+            ],
+            [
+                "Macintosh Plus and other early Macintosh computers",
+                [
+                    "/wiki/Macintosh_Plus"
+                ],
+                [
+                    {
+                        "entity id": "Q1255728",
+                        "label": "Macintosh Plus"
+                    }
+                ]
+            ],
+            [
+                "Windows , Linux , OS X",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux",
+                    "/wiki/OS_X"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "PCE/macplus",
+                []
+            ],
+            [
+                "20180323-184b521a",
+                []
+            ],
+            [
+                "December 18 , 2017",
+                []
+            ],
+            [
+                "Macintosh 128k , Macintosh 512k , Macintosh 512Ke , Macintosh Plus , Macintosh SE , Macintosh Classic",
+                [
+                    "/wiki/Macintosh_128k",
+                    "/wiki/Macintosh_512k",
+                    "/wiki/Macintosh_512Ke",
+                    "/wiki/Macintosh_Plus",
+                    "/wiki/Macintosh_SE",
+                    "/wiki/Macintosh_Classic"
+                ],
+                [
+                    {
+                        "entity id": "Q1137478",
+                        "label": "Macintosh 128K"
+                    },
+                    {
+                        "entity id": "Q654114",
+                        "label": "Macintosh 512K"
+                    },
+                    {
+                        "entity id": "Q1052609",
+                        "label": "Macintosh 512Ke"
+                    },
+                    {
+                        "entity id": "Q1255728",
+                        "label": "Macintosh Plus"
+                    },
+                    {
+                        "entity id": "Q1882848",
+                        "label": "Macintosh SE"
+                    },
+                    {
+                        "entity id": "Q756013",
+                        "label": "Macintosh Classic"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "GPLv2",
+                [
+                    "/wiki/GPLv2"
+                ],
+                [
+                    {
+                        "entity id": "Q10513450",
+                        "label": "GNU General Public License, version 2.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Clock Signal ( CLK )",
+                []
+            ],
+            [
+                "2019-08-01",
+                []
+            ],
+            [
+                "August 1 , 2019",
+                []
+            ],
+            [
+                "Macintosh 512ke ; also : Acorn Electron , Amstrad CPC , Apple II , Atari 2600 , ColecoVision , Commodore Vic-20 , MSX , Oric , Sega Master System , ZX80 , ZX81",
+                [
+                    "/wiki/Macintosh_512ke",
+                    "/wiki/Acorn_Electron",
+                    "/wiki/Amstrad_CPC",
+                    "/wiki/Apple_II",
+                    "/wiki/Atari_2600",
+                    "/wiki/ColecoVision",
+                    "/wiki/Commodore_Vic-20",
+                    "/wiki/MSX",
+                    "/wiki/Oric",
+                    "/wiki/Sega_Master_System",
+                    "/wiki/ZX80",
+                    "/wiki/ZX81"
+                ],
+                [
+                    {
+                        "entity id": "Q1052609",
+                        "label": "Macintosh 512Ke"
+                    },
+                    {
+                        "entity id": "Q342163",
+                        "label": "Acorn Electron"
+                    },
+                    {
+                        "entity id": "Q478829",
+                        "label": "Amstrad CPC"
+                    },
+                    {
+                        "entity id": "Q3017175",
+                        "label": "Apple II"
+                    },
+                    {
+                        "entity id": "Q206261",
+                        "label": "Atari 2600"
+                    },
+                    {
+                        "entity id": "Q1046862",
+                        "label": "ColecoVision"
+                    },
+                    {
+                        "entity id": "Q918232",
+                        "label": "Commodore VIC-20"
+                    },
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q17042679",
+                        "label": "Oric"
+                    },
+                    {
+                        "entity id": "Q209868",
+                        "label": "Sega Master System"
+                    },
+                    {
+                        "entity id": "Q602406",
+                        "label": "ZX80"
+                    },
+                    {
+                        "entity id": "Q78503718",
+                        "label": "ZX81 Collection"
+                    }
+                ]
+            ],
+            [
+                "macOS , Linux , BSD",
+                [
+                    "/wiki/MacOS"
+                ],
+                [
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "MIT License",
+                [
+                    "/wiki/MIT_License"
+                ],
+                [
+                    {
+                        "entity id": "Q334661",
+                        "label": "MIT license"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Executor",
+                [
+                    "/wiki/Executor_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "2.1pr11",
+                []
+            ],
+            [
+                "July 9 , 2009",
+                []
+            ],
+            [
+                "Apple Macintosh",
+                [
+                    "/wiki/Apple_Macintosh"
+                ],
+                [
+                    {
+                        "entity id": "Q75687",
+                        "label": "Apple Macintosh"
+                    }
+                ]
+            ],
+            [
+                "Windows , Linux",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ],
+            [
+                "MIT License",
+                [
+                    "/wiki/MIT_License"
+                ],
+                [
+                    {
+                        "entity id": "Q334661",
+                        "label": "MIT license"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "vMac",
+                [
+                    "/wiki/VMac"
+                ],
+                [
+                    {
+                        "entity id": "Q18057572",
+                        "label": "VMAC"
+                    }
+                ]
+            ],
+            [
+                "0.1.9.6",
+                []
+            ],
+            [
+                "1999",
+                []
+            ],
+            [
+                "Macintosh Plus",
+                [
+                    "/wiki/Macintosh_Plus"
+                ],
+                [
+                    {
+                        "entity id": "Q1255728",
+                        "label": "Macintosh Plus"
+                    }
+                ]
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "Open source",
+                [
+                    "/wiki/Open-source_software"
+                ],
+                [
+                    {
+                        "entity id": "Q1130645",
+                        "label": "open-source software"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "A-Max",
+                []
+            ],
+            [
+                "4.0",
+                []
+            ],
+            [
+                "1993",
+                []
+            ],
+            [
+                "Macintosh 128k , Macintosh 512k , Macintosh 512Ke , Macintosh Plus , Macintosh II , Macintosh Quadra",
+                [
+                    "/wiki/Macintosh_128k",
+                    "/wiki/Macintosh_512k",
+                    "/wiki/Macintosh_512Ke",
+                    "/wiki/Macintosh_Plus",
+                    "/wiki/Macintosh_II",
+                    "/wiki/Macintosh_Quadra"
+                ],
+                [
+                    {
+                        "entity id": "Q1137478",
+                        "label": "Macintosh 128K"
+                    },
+                    {
+                        "entity id": "Q654114",
+                        "label": "Macintosh 512K"
+                    },
+                    {
+                        "entity id": "Q1052609",
+                        "label": "Macintosh 512Ke"
+                    },
+                    {
+                        "entity id": "Q1255728",
+                        "label": "Macintosh Plus"
+                    },
+                    {
+                        "entity id": "Q1753588",
+                        "label": "Macintosh II"
+                    },
+                    {
+                        "entity id": "Q1882844",
+                        "label": "Macintosh Quadra"
+                    }
+                ]
+            ],
+            [
+                "Amiga",
+                [
+                    "/wiki/Amiga"
+                ],
+                [
+                    {
+                        "entity id": "Q100047",
+                        "label": "Commodore Amiga"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Basilisk II",
+                [
+                    "/wiki/Basilisk_II"
+                ],
+                [
+                    {
+                        "entity id": "Q810153",
+                        "label": "Basilisk II"
+                    }
+                ]
+            ],
+            [
+                "0.9-1",
+                []
+            ],
+            [
+                "May 31 , 2001",
+                []
+            ],
+            [
+                "Macintosh Classic , Macintosh II",
+                [
+                    "/wiki/Macintosh_Classic",
+                    "/wiki/Macintosh_II"
+                ],
+                [
+                    {
+                        "entity id": "Q756013",
+                        "label": "Macintosh Classic"
+                    },
+                    {
+                        "entity id": "Q1753588",
+                        "label": "Macintosh II"
+                    }
+                ]
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SoftMac XP",
+                []
+            ],
+            [
+                "8.2",
+                []
+            ],
+            [
+                "2008",
+                []
+            ],
+            [
+                "Apple Macintosh",
+                [
+                    "/wiki/Apple_Macintosh"
+                ],
+                [
+                    {
+                        "entity id": "Q75687",
+                        "label": "Apple Macintosh"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Fusion",
+                []
+            ],
+            [
+                "3.0",
+                []
+            ],
+            [
+                "2000",
+                []
+            ],
+            [
+                "Apple Macintosh",
+                [
+                    "/wiki/Apple_Macintosh"
+                ],
+                [
+                    {
+                        "entity id": "Q75687",
+                        "label": "Apple Macintosh"
+                    }
+                ]
+            ],
+            [
+                "DOS",
+                [
+                    "/wiki/DOS"
+                ],
+                [
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Shoebill",
+                []
+            ],
+            [
+                "0.0.5",
+                []
+            ],
+            [
+                "September 15 , 2015",
+                []
+            ],
+            [
+                "Macintosh II , specifically meant to run A/UX",
+                [
+                    "/wiki/Macintosh_II",
+                    "/wiki/A/UX"
+                ],
+                [
+                    {
+                        "entity id": "Q1753588",
+                        "label": "Macintosh II"
+                    },
+                    {
+                        "entity id": "Q1140097",
+                        "label": "A/UX"
+                    }
+                ]
+            ],
+            [
+                "macOS",
+                [
+                    "/wiki/MacOS"
+                ],
+                [
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "BSD",
+                [
+                    "/wiki/BSD"
+                ],
+                [
+                    {
+                        "entity id": "Q34264",
+                        "label": "Berkeley Software Distribution"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "32-bit guest systems -- Apple Macintosh with 680x0 CPU",
+    "section_text": "",
+    "uid": "List_of_computer_system_emulators_14",
+    "intro": "This article lists software and hardware that emulates computing platforms. The host in this article is the system running the emulator, and the guest is the system being emulated. The list is organized by guest operating system (the system being emulated), grouped by bitness. Each section contains a list of emulators capable of emulating the specified guest, details of the range of guest systems able to be emulated, and the required host environment and licensing."
+}

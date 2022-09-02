@@ -1,0 +1,585 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Media_in_Kamloops",
+    "title": "Media in Kamloops",
+    "header": [
+        [
+            "Frequency",
+            []
+        ],
+        [
+            "Call sign",
+            []
+        ],
+        [
+            "Branding",
+            []
+        ],
+        [
+            "Format",
+            []
+        ],
+        [
+            "Owner",
+            []
+        ],
+        [
+            "Notes",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "610 AM",
+                []
+            ],
+            [
+                "CHNL",
+                [
+                    "/wiki/CHNL"
+                ],
+                [
+                    {
+                        "entity id": "Q5011236",
+                        "label": "CHNL"
+                    }
+                ]
+            ],
+            [
+                "Radio NL - News , Talk , Sports",
+                []
+            ],
+            [
+                "news / talk",
+                [
+                    "/wiki/News",
+                    "/wiki/Talk_radio"
+                ],
+                [
+                    {
+                        "entity id": "Q38926",
+                        "label": "news"
+                    },
+                    {
+                        "entity id": "Q502319",
+                        "label": "talk radio"
+                    }
+                ]
+            ],
+            [
+                "Newcap Radio",
+                [
+                    "/wiki/Newcap_Radio"
+                ],
+                [
+                    {
+                        "entity id": "Q7017296",
+                        "label": "Stingray Radio"
+                    }
+                ]
+            ],
+            [
+                "English",
+                []
+            ]
+        ],
+        [
+            [
+                "92.5 FM",
+                []
+            ],
+            [
+                "CFBX-FM",
+                [
+                    "/wiki/CFBX-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5010451",
+                        "label": "CFBX-FM"
+                    }
+                ]
+            ],
+            [
+                "The X",
+                []
+            ],
+            [
+                "campus radio",
+                [
+                    "/wiki/Campus_radio"
+                ],
+                [
+                    {
+                        "entity id": "Q1436229",
+                        "label": "campus radio"
+                    }
+                ]
+            ],
+            [
+                "Thompson Rivers University",
+                [
+                    "/wiki/Thompson_Rivers_University"
+                ],
+                [
+                    {
+                        "entity id": "Q3551501",
+                        "label": "Thompson Rivers University"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "94.1 FM",
+                []
+            ],
+            [
+                "CBYK-FM",
+                [
+                    "/wiki/CBYK-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5009364",
+                        "label": "CBYK-FM"
+                    }
+                ]
+            ],
+            [
+                "CBC Radio One",
+                [
+                    "/wiki/CBC_Radio_One"
+                ],
+                [
+                    {
+                        "entity id": "Q5009037",
+                        "label": "CBC Radio One"
+                    }
+                ]
+            ],
+            [
+                "news / talk",
+                [
+                    "/wiki/News",
+                    "/wiki/Talk_radio"
+                ],
+                [
+                    {
+                        "entity id": "Q38926",
+                        "label": "news"
+                    },
+                    {
+                        "entity id": "Q502319",
+                        "label": "talk radio"
+                    }
+                ]
+            ],
+            [
+                "Canadian Broadcasting Corporation",
+                [
+                    "/wiki/Canadian_Broadcasting_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q461761",
+                        "label": "Canadian Broadcasting Corporation"
+                    }
+                ]
+            ],
+            [
+                "English",
+                []
+            ]
+        ],
+        [
+            [
+                "96.5 FM",
+                []
+            ],
+            [
+                "CBUF-FM-6",
+                [
+                    "/wiki/CBUF-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5009308",
+                        "label": "CBUF-FM"
+                    }
+                ]
+            ],
+            [
+                "Ici Radio-Canada Premi\u00e8re",
+                [
+                    "/wiki/Ici_Radio-Canada_Premi\u00e8re"
+                ],
+                [
+                    {
+                        "entity id": "Q3401855",
+                        "label": "Premi\u00e8re Cha\u00eene"
+                    }
+                ]
+            ],
+            [
+                "news / talk",
+                [
+                    "/wiki/News",
+                    "/wiki/Talk_radio"
+                ],
+                [
+                    {
+                        "entity id": "Q38926",
+                        "label": "news"
+                    },
+                    {
+                        "entity id": "Q502319",
+                        "label": "talk radio"
+                    }
+                ]
+            ],
+            [
+                "Canadian Broadcasting Corporation",
+                [
+                    "/wiki/Canadian_Broadcasting_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q461761",
+                        "label": "Canadian Broadcasting Corporation"
+                    }
+                ]
+            ],
+            [
+                "French ; repeats CBUF-FM Vancouver",
+                [
+                    "/wiki/CBUF-FM",
+                    "/wiki/Vancouver"
+                ],
+                [
+                    {
+                        "entity id": "Q5009308",
+                        "label": "CBUF-FM"
+                    },
+                    {
+                        "entity id": "Q24639",
+                        "label": "Vancouver"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "97.5 FM",
+                []
+            ],
+            [
+                "CKRV-FM",
+                [
+                    "/wiki/CKRV-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5012529",
+                        "label": "CKRV-FM"
+                    }
+                ]
+            ],
+            [
+                "97.5 The River",
+                []
+            ],
+            [
+                "classic hits",
+                [
+                    "/wiki/Classic_hits"
+                ],
+                [
+                    {
+                        "entity id": "Q5128242",
+                        "label": "classic hits"
+                    }
+                ]
+            ],
+            [
+                "Newcap Radio",
+                [
+                    "/wiki/Newcap_Radio"
+                ],
+                [
+                    {
+                        "entity id": "Q7017296",
+                        "label": "Stingray Radio"
+                    }
+                ]
+            ],
+            [
+                "English",
+                []
+            ]
+        ],
+        [
+            [
+                "98.3 FM",
+                []
+            ],
+            [
+                "CIFM-FM",
+                [
+                    "/wiki/CIFM-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5011666",
+                        "label": "CIFM-FM"
+                    }
+                ]
+            ],
+            [
+                "98.3 CIFM",
+                []
+            ],
+            [
+                "active rock",
+                [
+                    "/wiki/Active_rock"
+                ],
+                [
+                    {
+                        "entity id": "Q4677584",
+                        "label": "Active rock"
+                    }
+                ]
+            ],
+            [
+                "Jim Pattison Group",
+                [
+                    "/wiki/Jim_Pattison_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q1356524",
+                        "label": "Jim Pattison Group"
+                    }
+                ]
+            ],
+            [
+                "English",
+                []
+            ]
+        ],
+        [
+            [
+                "100.1 FM",
+                []
+            ],
+            [
+                "CKBZ-FM",
+                [
+                    "/wiki/CKBZ-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5012308",
+                        "label": "CKBZ-FM"
+                    }
+                ]
+            ],
+            [
+                "B100",
+                []
+            ],
+            [
+                "adult contemporary",
+                [
+                    "/wiki/Adult_contemporary"
+                ],
+                [
+                    {
+                        "entity id": "Q378988",
+                        "label": "adult contemporary music"
+                    }
+                ]
+            ],
+            [
+                "Jim Pattison Group",
+                [
+                    "/wiki/Jim_Pattison_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q1356524",
+                        "label": "Jim Pattison Group"
+                    }
+                ]
+            ],
+            [
+                "English",
+                []
+            ]
+        ],
+        [
+            [
+                "101.9 FM",
+                []
+            ],
+            [
+                "CBPL-FM",
+                [
+                    "/wiki/CBPL-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5009170",
+                        "label": "CBPL-FM"
+                    }
+                ]
+            ],
+            [
+                "WeatherRadio",
+                []
+            ],
+            [
+                "Weather",
+                []
+            ],
+            [
+                "Canadian Broadcasting Corporation ( owner ) Weatheradio Canada ( operator )",
+                [
+                    "/wiki/Canadian_Broadcasting_Corporation",
+                    "/wiki/Weatheradio_Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q461761",
+                        "label": "Canadian Broadcasting Corporation"
+                    },
+                    {
+                        "entity id": "Q17034793",
+                        "label": "Weatheradio Canada"
+                    }
+                ]
+            ],
+            [
+                "English / French",
+                []
+            ]
+        ],
+        [
+            [
+                "103.1 FM",
+                []
+            ],
+            [
+                "CJKC-FM",
+                [
+                    "/wiki/CJKC-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5012094",
+                        "label": "CJKC-FM"
+                    }
+                ]
+            ],
+            [
+                "New Country 103.1",
+                []
+            ],
+            [
+                "country",
+                [
+                    "/wiki/Country_music"
+                ],
+                [
+                    {
+                        "entity id": "Q83440",
+                        "label": "country music"
+                    }
+                ]
+            ],
+            [
+                "Newcap Radio",
+                [
+                    "/wiki/Newcap_Radio"
+                ],
+                [
+                    {
+                        "entity id": "Q7017296",
+                        "label": "Stingray Radio"
+                    }
+                ]
+            ],
+            [
+                "English",
+                []
+            ]
+        ],
+        [
+            [
+                "105.3 FM",
+                []
+            ],
+            [
+                "CBU-FM-4",
+                [
+                    "/wiki/CBU-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5009306",
+                        "label": "CBU-FM"
+                    }
+                ]
+            ],
+            [
+                "CBC Music",
+                [
+                    "/wiki/CBC_Music"
+                ],
+                [
+                    {
+                        "entity id": "Q5009015",
+                        "label": "CBC Music"
+                    }
+                ]
+            ],
+            [
+                "Public/Music",
+                []
+            ],
+            [
+                "Canadian Broadcasting Corporation",
+                [
+                    "/wiki/Canadian_Broadcasting_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q461761",
+                        "label": "Canadian Broadcasting Corporation"
+                    }
+                ]
+            ],
+            [
+                "English ; repeats CBU-FM Vancouver",
+                [
+                    "/wiki/CBU-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q5009306",
+                        "label": "CBU-FM"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Radio",
+    "section_text": "",
+    "uid": "Media_in_Kamloops_0",
+    "intro": "This is a list of media in Kamloops, British Columbia."
+}

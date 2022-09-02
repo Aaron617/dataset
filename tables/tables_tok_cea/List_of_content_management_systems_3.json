@@ -1,0 +1,669 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_content_management_systems",
+    "title": "List of content management systems",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Platform",
+            []
+        ],
+        [
+            "Supported databases",
+            []
+        ],
+        [
+            "Latest stable release",
+            []
+        ],
+        [
+            "Licenses",
+            []
+        ],
+        [
+            "Latest release date",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "blosxom",
+                [
+                    "/wiki/Blosxom"
+                ],
+                [
+                    {
+                        "entity id": "Q1091248",
+                        "label": "Blosxom"
+                    }
+                ]
+            ],
+            [
+                "Perl",
+                [
+                    "/wiki/Perl"
+                ],
+                [
+                    {
+                        "entity id": "Q42478",
+                        "label": "Perl"
+                    }
+                ]
+            ],
+            [
+                "Flat-file database",
+                [
+                    "/wiki/Flat-file_database"
+                ],
+                [
+                    {
+                        "entity id": "Q1373925",
+                        "label": "flat file database"
+                    }
+                ]
+            ],
+            [
+                "2.1.2",
+                []
+            ],
+            [
+                "MIT",
+                [
+                    "/wiki/MIT_License"
+                ],
+                [
+                    {
+                        "entity id": "Q334661",
+                        "label": "MIT license"
+                    }
+                ]
+            ],
+            [
+                "2008-10-02",
+                []
+            ]
+        ],
+        [
+            [
+                "Bricolage",
+                [
+                    "/wiki/Bricolage_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Perl on mod perl",
+                [
+                    "/wiki/Perl",
+                    "/wiki/Mod_perl"
+                ],
+                [
+                    {
+                        "entity id": "Q42478",
+                        "label": "Perl"
+                    },
+                    {
+                        "entity id": "Q292390",
+                        "label": "mod_perl"
+                    }
+                ]
+            ],
+            [
+                "MySQL , PostgreSQL , Oracle",
+                [
+                    "/wiki/MySQL",
+                    "/wiki/PostgreSQL",
+                    "/wiki/Oracle_database"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    },
+                    {
+                        "entity id": "Q185524",
+                        "label": "Oracle Database"
+                    }
+                ]
+            ],
+            [
+                "2.0.1",
+                []
+            ],
+            [
+                "BSD",
+                [
+                    "/wiki/BSD_licenses"
+                ],
+                [
+                    {
+                        "entity id": "Q191307",
+                        "label": "BSD licenses"
+                    }
+                ]
+            ],
+            [
+                "2011-02-09",
+                []
+            ]
+        ],
+        [
+            [
+                "EPrints",
+                [
+                    "/wiki/EPrints"
+                ],
+                [
+                    {
+                        "entity id": "Q5323977",
+                        "label": "EPrints"
+                    }
+                ]
+            ],
+            [
+                "Perl on mod perl",
+                [
+                    "/wiki/Perl",
+                    "/wiki/Mod_perl"
+                ],
+                [
+                    {
+                        "entity id": "Q42478",
+                        "label": "Perl"
+                    },
+                    {
+                        "entity id": "Q292390",
+                        "label": "mod_perl"
+                    }
+                ]
+            ],
+            [
+                "MySQL , PostgreSQL",
+                [
+                    "/wiki/MySQL",
+                    "/wiki/PostgreSQL"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    }
+                ]
+            ],
+            [
+                "3.4.1",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2019-04-05 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "Foswiki",
+                [
+                    "/wiki/Foswiki"
+                ],
+                [
+                    {
+                        "entity id": "Q1439485",
+                        "label": "Foswiki"
+                    }
+                ]
+            ],
+            [
+                "Perl",
+                [
+                    "/wiki/Perl"
+                ],
+                [
+                    {
+                        "entity id": "Q42478",
+                        "label": "Perl"
+                    }
+                ]
+            ],
+            [
+                "Flat-file database",
+                [
+                    "/wiki/Flat-file_database"
+                ],
+                [
+                    {
+                        "entity id": "Q1373925",
+                        "label": "flat file database"
+                    }
+                ]
+            ],
+            [
+                "2.1.6",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2018-03-02 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "Ikiwiki",
+                [
+                    "/wiki/Ikiwiki"
+                ],
+                [
+                    {
+                        "entity id": "Q5996014",
+                        "label": "ikiwiki"
+                    }
+                ]
+            ],
+            [
+                "Perl",
+                [
+                    "/wiki/Perl"
+                ],
+                [
+                    {
+                        "entity id": "Q42478",
+                        "label": "Perl"
+                    }
+                ]
+            ],
+            [
+                "Git ( software ) , Apache Subversion , Mercurial",
+                [
+                    "/wiki/Git_(software)",
+                    "/wiki/Apache_Subversion",
+                    "/wiki/Mercurial"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q46794",
+                        "label": "Subversion"
+                    },
+                    {
+                        "entity id": "Q476543",
+                        "label": "Mercurial"
+                    }
+                ]
+            ],
+            [
+                "3.20190228",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2019-02-28 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "Movable Type Open Source",
+                [
+                    "/wiki/Movable_Type"
+                ],
+                [
+                    {
+                        "entity id": "Q426853",
+                        "label": "movable type"
+                    }
+                ]
+            ],
+            [
+                "Perl , mod perl , FastCGI , w/ PHP",
+                [
+                    "/wiki/Perl",
+                    "/wiki/Mod_perl",
+                    "/wiki/FastCGI",
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q42478",
+                        "label": "Perl"
+                    },
+                    {
+                        "entity id": "Q292390",
+                        "label": "mod_perl"
+                    },
+                    {
+                        "entity id": "Q1397631",
+                        "label": "FastCGI"
+                    },
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "MySQL",
+                [
+                    "/wiki/MySQL"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    }
+                ]
+            ],
+            [
+                "5.2.13",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2015-04-14",
+                []
+            ]
+        ],
+        [
+            [
+                "Sellerdeck eCommerce",
+                [
+                    "/wiki/Sellerdeck"
+                ],
+                [
+                    {
+                        "entity id": "Q16918515",
+                        "label": "Sellerdeck"
+                    }
+                ]
+            ],
+            [
+                "Perl",
+                [
+                    "/wiki/Perl"
+                ],
+                [
+                    {
+                        "entity id": "Q42478",
+                        "label": "Perl"
+                    }
+                ]
+            ],
+            [
+                "Flat-file database , Flat-file database",
+                [
+                    "/wiki/Flat-file_database",
+                    "/wiki/Flat-file_database"
+                ],
+                [
+                    {
+                        "entity id": "Q1373925",
+                        "label": "flat file database"
+                    },
+                    {
+                        "entity id": "Q1373925",
+                        "label": "flat file database"
+                    }
+                ]
+            ],
+            [
+                "16.0.3",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2017-02-20",
+                []
+            ]
+        ],
+        [
+            [
+                "SPINE",
+                [
+                    "/wiki/SPINE_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Perl , mod perl",
+                [
+                    "/wiki/Perl",
+                    "/wiki/Mod_perl"
+                ],
+                [
+                    {
+                        "entity id": "Q42478",
+                        "label": "Perl"
+                    },
+                    {
+                        "entity id": "Q292390",
+                        "label": "mod_perl"
+                    }
+                ]
+            ],
+            [
+                "MySQL , PostgreSQL",
+                [
+                    "/wiki/MySQL",
+                    "/wiki/PostgreSQL"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    }
+                ]
+            ],
+            [
+                "1.2.2",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2006-12-27",
+                []
+            ]
+        ],
+        [
+            [
+                "TWiki",
+                [
+                    "/wiki/TWiki"
+                ],
+                [
+                    {
+                        "entity id": "Q611744",
+                        "label": "TWiki"
+                    }
+                ]
+            ],
+            [
+                "Perl",
+                [
+                    "/wiki/Perl"
+                ],
+                [
+                    {
+                        "entity id": "Q42478",
+                        "label": "Perl"
+                    }
+                ]
+            ],
+            [
+                "Plain files ( under version control )",
+                []
+            ],
+            [
+                "6.1.0",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2018-07-16 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "WebGUI",
+                [
+                    "/wiki/WebGUI"
+                ],
+                [
+                    {
+                        "entity id": "Q836055",
+                        "label": "WebGUI"
+                    }
+                ]
+            ],
+            [
+                "Perl on mod perl",
+                [
+                    "/wiki/Perl",
+                    "/wiki/Mod_perl"
+                ],
+                [
+                    {
+                        "entity id": "Q42478",
+                        "label": "Perl"
+                    },
+                    {
+                        "entity id": "Q292390",
+                        "label": "mod_perl"
+                    }
+                ]
+            ],
+            [
+                "MySQL",
+                [
+                    "/wiki/MySQL"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    }
+                ]
+            ],
+            [
+                "7.10.30",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2016-01-06",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Open source software -- Perl",
+    "section_text": "",
+    "uid": "List_of_content_management_systems_3",
+    "intro": "This is a list of notable content management systems that are used to organize and facilitate collaborative content creation. Many of them are built on top of separate content management frameworks."
+}

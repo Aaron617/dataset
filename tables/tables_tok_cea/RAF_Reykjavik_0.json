@@ -1,0 +1,824 @@
+{
+    "url": "https://en.wikipedia.org/wiki/RAF_Reykjavik",
+    "title": "RAF Reykjavik",
+    "header": [
+        [
+            "Sqn",
+            []
+        ],
+        [
+            "Aircraft",
+            []
+        ],
+        [
+            "Joined",
+            []
+        ],
+        [
+            "Departed",
+            []
+        ],
+        [
+            "From \u2192 To",
+            []
+        ],
+        [
+            "Notes",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "53",
+                [
+                    "/wiki/No._53_Squadron_RAF"
+                ],
+                [
+                    {
+                        "entity id": "Q7043617",
+                        "label": "No. 53 Squadron RAF"
+                    }
+                ]
+            ],
+            [
+                "Consolidated Liberator VI & VIII",
+                [
+                    "/wiki/Consolidated_B-24_Liberator"
+                ],
+                [
+                    {
+                        "entity id": "Q220759",
+                        "label": "Consolidated B-24 Liberator"
+                    }
+                ]
+            ],
+            [
+                "13 September 1944",
+                []
+            ],
+            [
+                "1 June 1945",
+                []
+            ],
+            [
+                "RAF St Eval \u2192 RAF St Davids",
+                [
+                    "/wiki/RAF_St_Eval",
+                    "/wiki/RAF_St_Davids"
+                ],
+                [
+                    {
+                        "entity id": "Q7275580",
+                        "label": "RAF St Eval"
+                    },
+                    {
+                        "entity id": "Q15270951",
+                        "label": "RAF St Davids"
+                    }
+                ]
+            ],
+            [
+                "Squadron move and a detachment sent to RAF Ballykelly",
+                [
+                    "/wiki/RAF_Ballykelly"
+                ],
+                [
+                    {
+                        "entity id": "Q7460182",
+                        "label": "RAF Ballykelly"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "86",
+                [
+                    "/wiki/No._86_Squadron_RAF"
+                ],
+                [
+                    {
+                        "entity id": "Q7043847",
+                        "label": "No. 86 Squadron RAF"
+                    }
+                ]
+            ],
+            [
+                "Consolidated Liberator IIIA & V",
+                []
+            ],
+            [
+                "24 March 1944",
+                []
+            ],
+            [
+                "1 July 1944",
+                []
+            ],
+            [
+                "RAF Ballykelly \u2192 RAF Tain",
+                [
+                    "/wiki/RAF_Ballykelly",
+                    "/wiki/RAF_Tain"
+                ],
+                [
+                    {
+                        "entity id": "Q7460182",
+                        "label": "RAF Ballykelly"
+                    },
+                    {
+                        "entity id": "Q7275624",
+                        "label": "RAF Tain"
+                    }
+                ]
+            ],
+            [
+                "Squadron moved with a detachment to RAF Tain",
+                []
+            ]
+        ],
+        [
+            [
+                "120",
+                [
+                    "/wiki/No._120_Squadron_RAF"
+                ],
+                [
+                    {
+                        "entity id": "Q7042888",
+                        "label": "No. 120 Squadron RAF"
+                    }
+                ]
+            ],
+            [
+                "Consolidated Liberator III & V",
+                []
+            ],
+            [
+                "15 April 1943",
+                []
+            ],
+            [
+                "24 March 1944",
+                []
+            ],
+            [
+                "RAF Aldergrove \u2192 RAF Ballykelly",
+                [
+                    "/wiki/RAF_Aldergrove",
+                    "/wiki/RAF_Ballykelly"
+                ],
+                [
+                    {
+                        "entity id": "Q7275131",
+                        "label": "RAF Aldergrove"
+                    },
+                    {
+                        "entity id": "Q7460182",
+                        "label": "RAF Ballykelly"
+                    }
+                ]
+            ],
+            [
+                "Originally detachments from RAF Ballykelly and then RAF Aldergrove before Squadron move and detachment to RAF Aldergrove",
+                []
+            ]
+        ],
+        [
+            [
+                "190",
+                [
+                    "/wiki/No._190_Squadron_RAF"
+                ],
+                [
+                    {
+                        "entity id": "Q7043060",
+                        "label": "No. 190 Squadron RAF"
+                    }
+                ]
+            ],
+            [
+                "Consolidated PBY Catalina IB",
+                [
+                    "/wiki/Consolidated_PBY_Catalina"
+                ],
+                [
+                    {
+                        "entity id": "Q648864",
+                        "label": "PBY Catalina"
+                    }
+                ]
+            ],
+            [
+                "17 February 1943",
+                []
+            ],
+            [
+                "October 1943",
+                []
+            ],
+            [
+                "RAF Sullom Voe \u2192 DB",
+                [
+                    "/wiki/RAF_Sullom_Voe"
+                ],
+                [
+                    {
+                        "entity id": "Q16900854",
+                        "label": "RAF Sullom Voe"
+                    }
+                ]
+            ],
+            [
+                "On detachment before the Squadron was disbanded and then reformed as No . 210 Sqn",
+                []
+            ]
+        ],
+        [
+            [
+                "204",
+                [
+                    "/wiki/No._204_Squadron_RAF"
+                ],
+                [
+                    {
+                        "entity id": "Q7043131",
+                        "label": "No. 204 Squadron RAF"
+                    }
+                ]
+            ],
+            [
+                "Short Sunderland I & II",
+                [
+                    "/wiki/Short_Sunderland"
+                ],
+                [
+                    {
+                        "entity id": "Q617547",
+                        "label": "Sunderland"
+                    }
+                ]
+            ],
+            [
+                "5 April 1941",
+                []
+            ],
+            [
+                "15 July 1941",
+                []
+            ],
+            [
+                "RAF Sullom Voe \u2192 RAF Gibraltar",
+                [
+                    "/wiki/RAF_Sullom_Voe",
+                    "/wiki/RAF_Gibraltar"
+                ],
+                [
+                    {
+                        "entity id": "Q16900854",
+                        "label": "RAF Sullom Voe"
+                    },
+                    {
+                        "entity id": "Q48374",
+                        "label": "RAF Gibraltar"
+                    }
+                ]
+            ],
+            [
+                "Squadron move and a detachment to RAF Pembroke Dock",
+                [
+                    "/wiki/RAF_Pembroke_Dock"
+                ],
+                [
+                    {
+                        "entity id": "Q26940062",
+                        "label": "RAF Pembroke Dock"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "209",
+                [
+                    "/wiki/No._209_Squadron_RAF"
+                ],
+                [
+                    {
+                        "entity id": "Q7043140",
+                        "label": "No. 209 Squadron RAF"
+                    }
+                ]
+            ],
+            [
+                "Consolidated PBY Catalina I",
+                []
+            ],
+            [
+                "26 July 1941",
+                []
+            ],
+            [
+                "10 October 1941",
+                []
+            ],
+            [
+                "RAF Lough Erne \u2192 RAF Pembroke Dock",
+                [
+                    "/wiki/RAF_Lough_Erne",
+                    "/wiki/RAF_Pembroke_Dock"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q26940062",
+                        "label": "RAF Pembroke Dock"
+                    }
+                ]
+            ],
+            [
+                "Squadron move",
+                []
+            ]
+        ],
+        [
+            [
+                "210",
+                [
+                    "/wiki/No._210_Squadron_RAF"
+                ],
+                [
+                    {
+                        "entity id": "Q7043145",
+                        "label": "No. 210 Squadron RAF"
+                    }
+                ]
+            ],
+            [
+                "Short Sunderland I",
+                [
+                    "/wiki/Short_Sunderland"
+                ],
+                [
+                    {
+                        "entity id": "Q617547",
+                        "label": "Sunderland"
+                    }
+                ]
+            ],
+            [
+                "13 July 1940",
+                []
+            ],
+            [
+                "28 February 1942",
+                []
+            ],
+            [
+                "RAF Oban \u2192 RAF Sullom Voe",
+                [
+                    "/wiki/RAF_Oban",
+                    "/wiki/RAF_Sullom_Voe"
+                ],
+                [
+                    {
+                        "entity id": "Q7275512",
+                        "label": "RAF Oban"
+                    },
+                    {
+                        "entity id": "Q16900854",
+                        "label": "RAF Sullom Voe"
+                    }
+                ]
+            ],
+            [
+                "On detachment only",
+                []
+            ]
+        ],
+        [
+            [
+                "220",
+                [
+                    "/wiki/No._220_Squadron_RAF"
+                ],
+                [
+                    {
+                        "entity id": "Q7043166",
+                        "label": "No. 220 Squadron RAF"
+                    }
+                ]
+            ],
+            [
+                "Boeing Fortress II",
+                [
+                    "/wiki/Boeing_B-17_Flying_Fortress"
+                ],
+                [
+                    {
+                        "entity id": "Q185000",
+                        "label": "Boeing B-17 Flying Fortress"
+                    }
+                ]
+            ],
+            [
+                "July 1942",
+                []
+            ],
+            [
+                "14 February 1943",
+                []
+            ],
+            [
+                "RAF Ballykelly \u2192 RAF Aldergrove",
+                [
+                    "/wiki/RAF_Ballykelly",
+                    "/wiki/RAF_Aldergrove"
+                ],
+                [
+                    {
+                        "entity id": "Q7460182",
+                        "label": "RAF Ballykelly"
+                    },
+                    {
+                        "entity id": "Q7275131",
+                        "label": "RAF Aldergrove"
+                    }
+                ]
+            ],
+            [
+                "On detachment only",
+                []
+            ]
+        ],
+        [
+            [
+                "221",
+                [
+                    "/wiki/No._221_Squadron_RAF"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Vickers Wellington IC",
+                [
+                    "/wiki/Vickers_Wellington"
+                ],
+                [
+                    {
+                        "entity id": "Q850244",
+                        "label": "Vickers Wellington"
+                    }
+                ]
+            ],
+            [
+                "2 May 1941",
+                []
+            ],
+            [
+                "25 December 1941",
+                []
+            ],
+            [
+                "RAF Limavady \u2192 RAF Docking",
+                [
+                    "/wiki/RAF_Limavady",
+                    "/wiki/RAF_Docking"
+                ],
+                [
+                    {
+                        "entity id": "Q15270913",
+                        "label": "RAF Limavady"
+                    },
+                    {
+                        "entity id": "Q7275278",
+                        "label": "RAF Docking"
+                    }
+                ]
+            ],
+            [
+                "On detachment initially prior to Squadron move 29 September 1941 ( with a detachment at RAF Limavady )",
+                []
+            ]
+        ],
+        [
+            [
+                "251",
+                [
+                    "/wiki/No._251_Squadron_RAF"
+                ],
+                [
+                    {
+                        "entity id": "Q7043227",
+                        "label": "No. 251 Squadron RAF"
+                    }
+                ]
+            ],
+            [
+                "Lockheed Ventura I",
+                [
+                    "/wiki/Lockheed_PV-1_Ventura"
+                ],
+                [
+                    {
+                        "entity id": "Q1867622",
+                        "label": "Lockheed PV-1 Ventura"
+                    }
+                ]
+            ],
+            [
+                "1 August 1941",
+                []
+            ],
+            [
+                "30 October 1945",
+                []
+            ],
+            [
+                "Reformed \u2192 Disbanded",
+                []
+            ],
+            [
+                "After the Ventura the squadron flew : Lockheed Hudson III , Avro Anson I , Boeing Fortress II and Vickers Warwick I",
+                [
+                    "/wiki/Avro_Anson"
+                ],
+                [
+                    {
+                        "entity id": "Q791469",
+                        "label": "Avro Anson"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "269",
+                [
+                    "/wiki/No._269_Squadron_RAF"
+                ],
+                [
+                    {
+                        "entity id": "Q7043255",
+                        "label": "No. 269 Squadron RAF"
+                    }
+                ]
+            ],
+            [
+                "Lockheed Hudson III",
+                [
+                    "/wiki/Lockheed_Hudson"
+                ],
+                [
+                    {
+                        "entity id": "Q1328822",
+                        "label": "Lockheed Hudson"
+                    }
+                ]
+            ],
+            [
+                "6 March 1943",
+                []
+            ],
+            [
+                "8 January 1944",
+                []
+            ],
+            [
+                "RAF Kaldadarnes \u2192 RAF Davidstow Moor",
+                [
+                    "/wiki/RAF_Kaldadarnes",
+                    "/wiki/RAF_Davidstow_Moor"
+                ],
+                [
+                    {
+                        "entity id": "Q15270904",
+                        "label": "RAF Kaldadarnes"
+                    },
+                    {
+                        "entity id": "Q7275267",
+                        "label": "RAF Davidstow Moor"
+                    }
+                ]
+            ],
+            [
+                "Squadron move",
+                []
+            ]
+        ],
+        [
+            [
+                "279",
+                [
+                    "/wiki/No._279_Squadron_RAF"
+                ],
+                [
+                    {
+                        "entity id": "Q7043278",
+                        "label": "No. 279 Squadron RAF"
+                    }
+                ]
+            ],
+            [
+                "Hawker Hurricane IIC",
+                [
+                    "/wiki/Hawker_Hurricane"
+                ],
+                [
+                    {
+                        "entity id": "Q194251",
+                        "label": "Hurricane"
+                    }
+                ]
+            ],
+            [
+                "February 1945",
+                []
+            ],
+            [
+                "3 September 1945",
+                []
+            ],
+            [
+                "RAF Thornaby \u2192 RAF Beccles",
+                [
+                    "/wiki/RAF_Thornaby",
+                    "/wiki/RAF_Beccles"
+                ],
+                [
+                    {
+                        "entity id": "Q7275628",
+                        "label": "RAF Thornaby"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "On detachment only",
+                []
+            ]
+        ],
+        [
+            [
+                "280",
+                [
+                    "/wiki/No._280_Squadron_RAF"
+                ],
+                [
+                    {
+                        "entity id": "Q7043286",
+                        "label": "No. 280 Squadron RAF"
+                    }
+                ]
+            ],
+            [
+                "Vickers Warwick I",
+                [
+                    "/wiki/Vickers_Warwick"
+                ],
+                [
+                    {
+                        "entity id": "Q1754283",
+                        "label": "Vickers Warwick"
+                    }
+                ]
+            ],
+            [
+                "23 November 1945",
+                []
+            ],
+            [
+                "21 June 1946",
+                []
+            ],
+            [
+                "RAF Thornaby \u2192 DB",
+                [
+                    "/wiki/RAF_Thornaby"
+                ],
+                [
+                    {
+                        "entity id": "Q7275628",
+                        "label": "RAF Thornaby"
+                    }
+                ]
+            ],
+            [
+                "On detachment only prior to Squadron being disbanded",
+                []
+            ]
+        ],
+        [
+            [
+                "330",
+                [
+                    "/wiki/No._330_Squadron_RNoAF"
+                ],
+                [
+                    {
+                        "entity id": "Q7043391",
+                        "label": "No. 330 Squadron RNoAF"
+                    }
+                ]
+            ],
+            [
+                "Northrop N-3PB NOMAD Catalina III",
+                [
+                    "/wiki/Northrop_N-3PB"
+                ],
+                [
+                    {
+                        "entity id": "Q1974980",
+                        "label": "N-3PB Nomad"
+                    }
+                ]
+            ],
+            [
+                "28 January 1943",
+                []
+            ],
+            [
+                "12 July 1943",
+                []
+            ],
+            [
+                "Formed \u2192 RAF Oban",
+                [
+                    "/wiki/RAF_Oban"
+                ],
+                [
+                    {
+                        "entity id": "Q7275512",
+                        "label": "RAF Oban"
+                    }
+                ]
+            ],
+            [
+                "This Squadron was formed at RAF Reykjavik on 25 April 1941 before being moved to RAF Oban leaving behind a detachment until their next move to RAF Sullom Voe . The squadron was disbanded 21 November 1945 and transferred to Norwegian control",
+                []
+            ]
+        ],
+        [
+            [
+                "612",
+                [
+                    "/wiki/No._612_Squadron_RAF"
+                ],
+                [
+                    {
+                        "entity id": "Q7043680",
+                        "label": "No. 612 Squadron RAF"
+                    }
+                ]
+            ],
+            [
+                "Armstrong Whitworth Whitley V & VII",
+                [
+                    "/wiki/Armstrong_Whitworth_Whitley"
+                ],
+                [
+                    {
+                        "entity id": "Q689463",
+                        "label": "Armstrong Whitworth Whitley"
+                    }
+                ]
+            ],
+            [
+                "1 April 1941",
+                []
+            ],
+            [
+                "18 August 1942",
+                []
+            ],
+            [
+                "RAF Wick \u2192 RAF Thorney Island",
+                [
+                    "/wiki/RAF_Wick",
+                    "/wiki/RAF_Thorney_Island"
+                ],
+                [
+                    {
+                        "entity id": "Q91937604",
+                        "label": "RAF Wick"
+                    },
+                    {
+                        "entity id": "Q7275629",
+                        "label": "RAF Thorney Island"
+                    }
+                ]
+            ],
+            [
+                "On detachment first then squadron move",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Squadrons",
+    "section_text": "",
+    "uid": "RAF_Reykjavik_0",
+    "intro": "Royal Air Force Station Reykjavik or more simply RAF Reykjavik is a former Royal Air Force station, at Reykjav\u00edk Airport, Iceland."
+}

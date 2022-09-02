@@ -1,0 +1,738 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_military_inventions",
+    "title": "List of military inventions",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Date invented",
+            []
+        ],
+        [
+            "Invented by",
+            []
+        ],
+        [
+            "Original purpose",
+            []
+        ],
+        [
+            "Civilian uses",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "ASDIC",
+                [
+                    "/wiki/ASDIC"
+                ],
+                [
+                    {
+                        "entity id": "Q133220",
+                        "label": "sonar"
+                    }
+                ]
+            ],
+            [
+                "1910s",
+                []
+            ],
+            [
+                "United Kingdom France",
+                [
+                    "/wiki/United_Kingdom",
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    },
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "Submarine detection",
+                []
+            ],
+            [
+                "Sonar",
+                [
+                    "/wiki/Sonar"
+                ],
+                [
+                    {
+                        "entity id": "Q133220",
+                        "label": "sonar"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Aircraft tracking radar",
+                [
+                    "/wiki/Radar"
+                ],
+                [
+                    {
+                        "entity id": "Q47528",
+                        "label": "radar"
+                    }
+                ]
+            ],
+            [
+                "mid-1930s",
+                []
+            ],
+            [
+                "Royal Air Force",
+                [
+                    "/wiki/Royal_Air_Force"
+                ],
+                [
+                    {
+                        "entity id": "Q165862",
+                        "label": "Royal Air Force"
+                    }
+                ]
+            ],
+            [
+                "Early warning radar , air defence systems",
+                [
+                    "/wiki/Early_warning_radar",
+                    "/wiki/Air_defence_systems"
+                ],
+                [
+                    {
+                        "entity id": "Q16905219",
+                        "label": "early-warning radar"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Air traffic control systems , microwave oven",
+                [
+                    "/wiki/Air_traffic_control",
+                    "/wiki/Microwave_oven"
+                ],
+                [
+                    {
+                        "entity id": "Q221395",
+                        "label": "air traffic control"
+                    },
+                    {
+                        "entity id": "Q127956",
+                        "label": "microwave oven"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Walkie-talkie",
+                [
+                    "/wiki/Walkie-talkie"
+                ],
+                [
+                    {
+                        "entity id": "Q938319",
+                        "label": "walkie-talkie"
+                    }
+                ]
+            ],
+            [
+                "1930s",
+                []
+            ],
+            [
+                "Canada ( Donald Hings ) United States ( Alfred J . Gross , Motorola SCR-300 )",
+                [
+                    "/wiki/Canada",
+                    "/wiki/Donald_Hings",
+                    "/wiki/United_States",
+                    "/wiki/Alfred_J._Gross",
+                    "/wiki/SCR-300"
+                ],
+                [
+                    {
+                        "entity id": "Q16",
+                        "label": "Canada"
+                    },
+                    {
+                        "entity id": "Q614545",
+                        "label": "Donald Hings"
+                    },
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    },
+                    {
+                        "entity id": "Q1446296",
+                        "label": "Alfred J. Gross"
+                    },
+                    {
+                        "entity id": "Q1771972",
+                        "label": "SCR-300"
+                    }
+                ]
+            ],
+            [
+                "Portable two-way radio communications system for military",
+                []
+            ],
+            [
+                "Portable radio communications - business , public safety , marine , amateur radio , CB radio",
+                [
+                    "/wiki/Marine_VHF_radio",
+                    "/wiki/Amateur_radio",
+                    "/wiki/CB_radio"
+                ],
+                [
+                    {
+                        "entity id": "Q1530859",
+                        "label": "Marine VHF radio"
+                    },
+                    {
+                        "entity id": "Q185727",
+                        "label": "amateur radio"
+                    },
+                    {
+                        "entity id": "Q770588",
+                        "label": "citizens band radio"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Night vision",
+                [
+                    "/wiki/Night_vision"
+                ],
+                [
+                    {
+                        "entity id": "Q5353651",
+                        "label": "night vision"
+                    }
+                ]
+            ],
+            [
+                "1939 - 1940s",
+                []
+            ],
+            [
+                "Nazi Germany United States",
+                [
+                    "/wiki/Nazi_Germany",
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q7318",
+                        "label": "Nazi Germany"
+                    },
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Visibility for military personnel in low light situations",
+                []
+            ],
+            [
+                "Low light photography , surveillance",
+                []
+            ]
+        ],
+        [
+            [
+                "Duct tape",
+                [
+                    "/wiki/Duct_tape"
+                ],
+                [
+                    {
+                        "entity id": "Q1030313",
+                        "label": "duct tape"
+                    }
+                ]
+            ],
+            [
+                "1942",
+                []
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Sealing ammunition cases",
+                []
+            ],
+            [
+                "Multiple uses",
+                []
+            ]
+        ],
+        [
+            [
+                "Ballistic missiles",
+                [
+                    "/wiki/Ballistic_missiles"
+                ],
+                [
+                    {
+                        "entity id": "Q1056855",
+                        "label": "Strategic Rocket Forces"
+                    }
+                ]
+            ],
+            [
+                "1940s",
+                []
+            ],
+            [
+                "Nazi Germany Soviet Union",
+                [
+                    "/wiki/Nazi_Germany",
+                    "/wiki/Soviet_Union"
+                ],
+                [
+                    {
+                        "entity id": "Q7318",
+                        "label": "Nazi Germany"
+                    },
+                    {
+                        "entity id": "Q15180",
+                        "label": "Soviet Union"
+                    }
+                ]
+            ],
+            [
+                "Long range attack",
+                []
+            ],
+            [
+                "Space exploration , launch of communication , weather and global positioning satellites",
+                [
+                    "/wiki/Space_exploration",
+                    "/wiki/Communication_satellites",
+                    "/wiki/Weather_satellite",
+                    "/wiki/GPS"
+                ],
+                [
+                    {
+                        "entity id": "Q180046",
+                        "label": "space exploration"
+                    },
+                    {
+                        "entity id": "Q149918",
+                        "label": "communications satellite"
+                    },
+                    {
+                        "entity id": "Q209363",
+                        "label": "weather satellite"
+                    },
+                    {
+                        "entity id": "Q18822",
+                        "label": "Global Positioning System"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Nuclear technology",
+                [
+                    "/wiki/Nuclear_technology"
+                ],
+                [
+                    {
+                        "entity id": "Q348091",
+                        "label": "nuclear technology"
+                    }
+                ]
+            ],
+            [
+                "1940s",
+                []
+            ],
+            [
+                "United States United Kingdom Canada ( Manhattan Project )",
+                [
+                    "/wiki/United_States",
+                    "/wiki/United_Kingdom",
+                    "/wiki/Canada",
+                    "/wiki/Manhattan_Project"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    },
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    },
+                    {
+                        "entity id": "Q16",
+                        "label": "Canada"
+                    },
+                    {
+                        "entity id": "Q127050",
+                        "label": "Manhattan Project"
+                    }
+                ]
+            ],
+            [
+                "Nuclear weapons",
+                [
+                    "/wiki/Nuclear_weapons"
+                ],
+                [
+                    {
+                        "entity id": "Q210112",
+                        "label": "nuclear weapons test"
+                    }
+                ]
+            ],
+            [
+                "Nuclear medicine , nuclear power",
+                [
+                    "/wiki/Nuclear_medicine",
+                    "/wiki/Nuclear_power"
+                ],
+                [
+                    {
+                        "entity id": "Q214963",
+                        "label": "nuclear medicine"
+                    },
+                    {
+                        "entity id": "Q12739",
+                        "label": "nuclear power"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Jet engine",
+                [
+                    "/wiki/Jet_engine"
+                ],
+                [
+                    {
+                        "entity id": "Q723916",
+                        "label": "turbojet"
+                    }
+                ]
+            ],
+            [
+                "1940s",
+                []
+            ],
+            [
+                "Nazi Germany ( Hans von Ohain ) Royal Air Force ( Frank Whittle )",
+                [
+                    "/wiki/Nazi_Germany",
+                    "/wiki/Hans_von_Ohain",
+                    "/wiki/Royal_Air_Force",
+                    "/wiki/Frank_Whittle"
+                ],
+                [
+                    {
+                        "entity id": "Q7318",
+                        "label": "Nazi Germany"
+                    },
+                    {
+                        "entity id": "Q76541",
+                        "label": "Hans von Ohain"
+                    },
+                    {
+                        "entity id": "Q165862",
+                        "label": "Royal Air Force"
+                    },
+                    {
+                        "entity id": "Q312547",
+                        "label": "Frank Whittle"
+                    }
+                ]
+            ],
+            [
+                "Jet fighters , jet bombers",
+                []
+            ],
+            [
+                "Airliners",
+                [
+                    "/wiki/Airliners"
+                ],
+                [
+                    {
+                        "entity id": "Q4698795",
+                        "label": "Airliners"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Digital photography",
+                [
+                    "/wiki/Digital_photography"
+                ],
+                [
+                    {
+                        "entity id": "Q173095",
+                        "label": "digital photography"
+                    }
+                ]
+            ],
+            [
+                "1960s",
+                []
+            ],
+            [
+                "United States Soviet Union",
+                [
+                    "/wiki/United_States",
+                    "/wiki/Soviet_Union"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    },
+                    {
+                        "entity id": "Q15180",
+                        "label": "Soviet Union"
+                    }
+                ]
+            ],
+            [
+                "Spy satellites , eliminated the need to recover deorbited film canisters",
+                [
+                    "/wiki/Spy_satellite"
+                ],
+                [
+                    {
+                        "entity id": "Q466421",
+                        "label": "reconnaissance satellite"
+                    }
+                ]
+            ],
+            [
+                "Cameras",
+                [
+                    "/wiki/Digital_Camera"
+                ],
+                [
+                    {
+                        "entity id": "Q62927",
+                        "label": "digital camera"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Internet",
+                [
+                    "/wiki/Internet"
+                ],
+                [
+                    {
+                        "entity id": "Q75",
+                        "label": "Internet"
+                    }
+                ]
+            ],
+            [
+                "1960s - 1970s",
+                []
+            ],
+            [
+                "United States ( ARPANET ) United Kingdom ( NPL network ) France ( CYCLADES )",
+                [
+                    "/wiki/United_States",
+                    "/wiki/ARPANET",
+                    "/wiki/United_Kingdom",
+                    "/wiki/NPL_network",
+                    "/wiki/France",
+                    "/wiki/CYCLADES"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    },
+                    {
+                        "entity id": "Q177524",
+                        "label": "ARPANET"
+                    },
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    },
+                    {
+                        "entity id": "Q22907385",
+                        "label": "NPL network"
+                    },
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    },
+                    {
+                        "entity id": "Q171132",
+                        "label": "Cyclades"
+                    }
+                ]
+            ],
+            [
+                "Reliable computer networking",
+                []
+            ],
+            [
+                "Led to invention of the World Wide Web by British scientist Tim Berners-Lee ; subsequently widespread availability of information , telecommunication and electronic commerce",
+                [
+                    "/wiki/World_Wide_Web",
+                    "/wiki/Tim_Berners-Lee",
+                    "/wiki/Information",
+                    "/wiki/Telecommunication",
+                    "/wiki/Electronic_commerce"
+                ],
+                [
+                    {
+                        "entity id": "Q466",
+                        "label": "World Wide Web"
+                    },
+                    {
+                        "entity id": "Q80",
+                        "label": "Tim Berners-Lee"
+                    },
+                    {
+                        "entity id": "Q11028",
+                        "label": "information"
+                    },
+                    {
+                        "entity id": "Q418",
+                        "label": "telecommunication"
+                    },
+                    {
+                        "entity id": "Q484847",
+                        "label": "e-commerce"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Satellite navigation",
+                [
+                    "/wiki/Satellite_navigation"
+                ],
+                [
+                    {
+                        "entity id": "Q179435",
+                        "label": "satellite navigation system"
+                    }
+                ]
+            ],
+            [
+                "1970s",
+                []
+            ],
+            [
+                "United States Air Force Soviet Union",
+                [
+                    "/wiki/United_States_Air_Force",
+                    "/wiki/Soviet_Union"
+                ],
+                [
+                    {
+                        "entity id": "Q11223",
+                        "label": "United States Air Force"
+                    },
+                    {
+                        "entity id": "Q15180",
+                        "label": "Soviet Union"
+                    }
+                ]
+            ],
+            [
+                "Nuclear weapons force multiplier , increased warhead accuracy through precise navigation",
+                [
+                    "/wiki/Nuclear_weapons"
+                ],
+                [
+                    {
+                        "entity id": "Q210112",
+                        "label": "nuclear weapons test"
+                    }
+                ]
+            ],
+            [
+                "Navigation , personal tracking",
+                []
+            ]
+        ],
+        [
+            [
+                "Sanitary Napkins",
+                []
+            ],
+            [
+                "1920s",
+                []
+            ],
+            [
+                "United Kingdom France",
+                [
+                    "/wiki/United_Kingdom",
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    },
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "Prevent bleeding using cellulose in bandages",
+                []
+            ],
+            [
+                "British & American nurses picked up the bandages and started using them as Sanitary Napkins",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Military inventions with civilian uses",
+    "section_text": "",
+    "uid": "Military_invention_0",
+    "intro": "A military invention is an invention that was first created by a military. There are many inventions that were originally created by the military and subsequently found civilian uses."
+}

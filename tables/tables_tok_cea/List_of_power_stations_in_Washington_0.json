@@ -1,0 +1,644 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_power_stations_in_Washington",
+    "title": "List of power stations in Washington",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Type",
+            []
+        ],
+        [
+            "Capacity ( MW )",
+            [
+                "/wiki/Megawatt"
+            ],
+            [
+                {
+                    "entity id": "Q6982035",
+                    "label": "megawatt"
+                }
+            ]
+        ],
+        [
+            "Operator",
+            []
+        ],
+        [
+            "Year opened",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Boulder Park Peaking Unit",
+                []
+            ],
+            [
+                "Spokane Valley",
+                [
+                    "/wiki/Spokane_Valley,_Washington"
+                ],
+                [
+                    {
+                        "entity id": "Q988065",
+                        "label": "Spokane Valley"
+                    }
+                ]
+            ],
+            [
+                "Natural Gas",
+                []
+            ],
+            [
+                "24",
+                []
+            ],
+            [
+                "Avista",
+                [
+                    "/wiki/Avista"
+                ],
+                [
+                    {
+                        "entity id": "Q4828988",
+                        "label": "Avista"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Centralia Power Plant",
+                [
+                    "/wiki/Centralia_Power_Plant"
+                ],
+                [
+                    {
+                        "entity id": "Q5062187",
+                        "label": "Centralia Power Plant"
+                    }
+                ]
+            ],
+            [
+                "Centralia",
+                [
+                    "/wiki/Centralia,_Washington"
+                ],
+                [
+                    {
+                        "entity id": "Q868700",
+                        "label": "Centralia"
+                    }
+                ]
+            ],
+            [
+                "Coal",
+                []
+            ],
+            [
+                "1340",
+                []
+            ],
+            [
+                "TransAlta Corporation",
+                [
+                    "/wiki/TransAlta_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q2448801",
+                        "label": "TransAlta Corporation"
+                    }
+                ]
+            ],
+            [
+                "1972",
+                []
+            ]
+        ],
+        [
+            [
+                "Chehalis Generation Facility",
+                []
+            ],
+            [
+                "Chehalis",
+                [
+                    "/wiki/Chehalis,_Washington"
+                ],
+                [
+                    {
+                        "entity id": "Q249441",
+                        "label": "Chehalis"
+                    }
+                ]
+            ],
+            [
+                "Natural Gas",
+                []
+            ],
+            [
+                "520",
+                []
+            ],
+            [
+                "PacifiCorp",
+                [
+                    "/wiki/PacifiCorp"
+                ],
+                [
+                    {
+                        "entity id": "Q2045479",
+                        "label": "PacifiCorp"
+                    }
+                ]
+            ],
+            [
+                "2003",
+                []
+            ]
+        ],
+        [
+            [
+                "Encogen Generating Station",
+                []
+            ],
+            [
+                "Bellingham",
+                [
+                    "/wiki/Bellingham,_Washington"
+                ],
+                [
+                    {
+                        "entity id": "Q430267",
+                        "label": "Bellingham"
+                    }
+                ]
+            ],
+            [
+                "Natural Gas",
+                []
+            ],
+            [
+                "167",
+                []
+            ],
+            [
+                "Puget Sound Energy",
+                [
+                    "/wiki/Puget_Sound_Energy"
+                ],
+                [
+                    {
+                        "entity id": "Q7258927",
+                        "label": "Puget Sound Energy"
+                    }
+                ]
+            ],
+            [
+                "1993",
+                []
+            ]
+        ],
+        [
+            [
+                "Fredonia Generating Station",
+                []
+            ],
+            [
+                "Skagit",
+                [
+                    "/wiki/Skagit_County,_Washington"
+                ],
+                [
+                    {
+                        "entity id": "Q113892",
+                        "label": "Skagit County"
+                    }
+                ]
+            ],
+            [
+                "Natural Gas",
+                []
+            ],
+            [
+                "314",
+                []
+            ],
+            [
+                "Puget Sound Energy",
+                [
+                    "/wiki/Puget_Sound_Energy"
+                ],
+                [
+                    {
+                        "entity id": "Q7258927",
+                        "label": "Puget Sound Energy"
+                    }
+                ]
+            ],
+            [
+                "early 1980s , 2001",
+                []
+            ]
+        ],
+        [
+            [
+                "Frederickson Generating Station",
+                []
+            ],
+            [
+                "Frederickson",
+                [
+                    "/wiki/Frederickson,_Washington"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Natural Gas",
+                []
+            ],
+            [
+                "147",
+                []
+            ],
+            [
+                "Puget Sound Energy",
+                [
+                    "/wiki/Puget_Sound_Energy"
+                ],
+                [
+                    {
+                        "entity id": "Q7258927",
+                        "label": "Puget Sound Energy"
+                    }
+                ]
+            ],
+            [
+                "1981",
+                []
+            ]
+        ],
+        [
+            [
+                "Frederickson 1 Generating Station",
+                []
+            ],
+            [
+                "Frederickson",
+                [
+                    "/wiki/Frederickson,_Washington"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Natural Gas",
+                []
+            ],
+            [
+                "275",
+                []
+            ],
+            [
+                "EPCOR",
+                [
+                    "/wiki/EPCOR"
+                ],
+                [
+                    {
+                        "entity id": "Q1346703",
+                        "label": "Epcor Tower"
+                    }
+                ]
+            ],
+            [
+                "2002",
+                []
+            ]
+        ],
+        [
+            [
+                "Goldendale Generating Station",
+                []
+            ],
+            [
+                "Goldendale",
+                [
+                    "/wiki/Goldendale,_Washington"
+                ],
+                [
+                    {
+                        "entity id": "Q999955",
+                        "label": "Goldendale"
+                    }
+                ]
+            ],
+            [
+                "Natural Gas",
+                []
+            ],
+            [
+                "277",
+                []
+            ],
+            [
+                "Puget Sound Energy",
+                [
+                    "/wiki/Puget_Sound_Energy"
+                ],
+                [
+                    {
+                        "entity id": "Q7258927",
+                        "label": "Puget Sound Energy"
+                    }
+                ]
+            ],
+            [
+                "2004",
+                []
+            ]
+        ],
+        [
+            [
+                "Mint Farm Generating Station",
+                []
+            ],
+            [
+                "Longview",
+                [
+                    "/wiki/Longview,_Washington"
+                ],
+                [
+                    {
+                        "entity id": "Q983801",
+                        "label": "Longview"
+                    }
+                ]
+            ],
+            [
+                "Natural Gas",
+                []
+            ],
+            [
+                "310",
+                []
+            ],
+            [
+                "Puget Sound Energy",
+                [
+                    "/wiki/Puget_Sound_Energy"
+                ],
+                [
+                    {
+                        "entity id": "Q7258927",
+                        "label": "Puget Sound Energy"
+                    }
+                ]
+            ],
+            [
+                "2008",
+                []
+            ]
+        ],
+        [
+            [
+                "River Road Generating Plant",
+                []
+            ],
+            [
+                "Vancouver",
+                [
+                    "/wiki/Vancouver,_Washington"
+                ],
+                [
+                    {
+                        "entity id": "Q234053",
+                        "label": "Vancouver"
+                    }
+                ]
+            ],
+            [
+                "Natural Gas",
+                []
+            ],
+            [
+                "248",
+                []
+            ],
+            [
+                "Clark Public Utilities",
+                [
+                    "/wiki/Clark_Public_Utilities"
+                ],
+                [
+                    {
+                        "entity id": "Q20712245",
+                        "label": "Clark Public Utilities"
+                    }
+                ]
+            ],
+            [
+                "2010",
+                []
+            ]
+        ],
+        [
+            [
+                "Grays Harbor Energy Center",
+                [
+                    "/wiki/Grays_Harbor_Energy_Center"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Satsop",
+                [
+                    "/wiki/Satsop,_Washington"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Natural Gas",
+                []
+            ],
+            [
+                "650",
+                []
+            ],
+            [
+                "Invenergy",
+                [
+                    "/wiki/Invenergy"
+                ],
+                [
+                    {
+                        "entity id": "Q6059803",
+                        "label": "Invenergy"
+                    }
+                ]
+            ],
+            [
+                "2008",
+                []
+            ]
+        ],
+        [
+            [
+                "Sumas Generating Station",
+                []
+            ],
+            [
+                "Sumas",
+                [
+                    "/wiki/Sumas,_Washington"
+                ],
+                [
+                    {
+                        "entity id": "Q1510124",
+                        "label": "Sumas"
+                    }
+                ]
+            ],
+            [
+                "Natural Gas",
+                []
+            ],
+            [
+                "125",
+                []
+            ],
+            [
+                "Puget Sound Energy",
+                [
+                    "/wiki/Puget_Sound_Energy"
+                ],
+                [
+                    {
+                        "entity id": "Q7258927",
+                        "label": "Puget Sound Energy"
+                    }
+                ]
+            ],
+            [
+                "1993",
+                []
+            ]
+        ],
+        [
+            [
+                "Tenaska Generating Station",
+                []
+            ],
+            [
+                "Ferndale",
+                [
+                    "/wiki/Ferndale,_Washington"
+                ],
+                [
+                    {
+                        "entity id": "Q1502426",
+                        "label": "Ferndale"
+                    }
+                ]
+            ],
+            [
+                "Natural Gas",
+                []
+            ],
+            [
+                "266",
+                []
+            ],
+            [
+                "Tenaska Energy",
+                [
+                    "/wiki/Tenaska_Energy"
+                ],
+                [
+                    {
+                        "entity id": "Q2403295",
+                        "label": "Tenaska Energy"
+                    }
+                ]
+            ],
+            [
+                "1994",
+                []
+            ]
+        ],
+        [
+            [
+                "Whitehorn Generating Station",
+                [
+                    "/wiki/Whitehorn_Generating_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q12010590",
+                        "label": "Whitehorn Generating Station"
+                    }
+                ]
+            ],
+            [
+                "Ferndale",
+                [
+                    "/wiki/Ferndale,_Washington"
+                ],
+                [
+                    {
+                        "entity id": "Q1502426",
+                        "label": "Ferndale"
+                    }
+                ]
+            ],
+            [
+                "Natural Gas",
+                []
+            ],
+            [
+                "147",
+                []
+            ],
+            [
+                "Puget Sound Energy",
+                [
+                    "/wiki/Puget_Sound_Energy"
+                ],
+                [
+                    {
+                        "entity id": "Q7258927",
+                        "label": "Puget Sound Energy"
+                    }
+                ]
+            ],
+            [
+                "1974 , 1981",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Fossil fuel",
+    "section_text": "",
+    "uid": "List_of_power_stations_in_Washington_0",
+    "intro": "The following page lists all power stations in the U.S. state of Washington. These include facilities that are located in more than one state."
+}

@@ -1,0 +1,705 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Southeastern_United_States",
+    "title": "Southeastern United States",
+    "header": [
+        [
+            "Rank",
+            []
+        ],
+        [
+            "City",
+            []
+        ],
+        [
+            "State",
+            []
+        ],
+        [
+            "Population ( 2015 )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1",
+                []
+            ],
+            [
+                "Jacksonville",
+                [
+                    "/wiki/Jacksonville,_Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q16568",
+                        "label": "Jacksonville"
+                    }
+                ]
+            ],
+            [
+                "Florida",
+                [
+                    "/wiki/Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q812",
+                        "label": "Florida"
+                    }
+                ]
+            ],
+            [
+                "868,031",
+                []
+            ]
+        ],
+        [
+            [
+                "2",
+                []
+            ],
+            [
+                "Charlotte",
+                [
+                    "/wiki/Charlotte,_North_Carolina"
+                ],
+                [
+                    {
+                        "entity id": "Q16565",
+                        "label": "Charlotte"
+                    }
+                ]
+            ],
+            [
+                "North Carolina",
+                [
+                    "/wiki/North_Carolina"
+                ],
+                [
+                    {
+                        "entity id": "Q1454",
+                        "label": "North Carolina"
+                    }
+                ]
+            ],
+            [
+                "827,097",
+                []
+            ]
+        ],
+        [
+            [
+                "3",
+                []
+            ],
+            [
+                "Washington",
+                [
+                    "/wiki/Washington,_D.C."
+                ],
+                [
+                    {
+                        "entity id": "Q61",
+                        "label": "Washington, D.C."
+                    }
+                ]
+            ],
+            [
+                "District of Columbia",
+                [
+                    "/wiki/District_of_Columbia"
+                ],
+                [
+                    {
+                        "entity id": "Q61",
+                        "label": "Washington, D.C."
+                    }
+                ]
+            ],
+            [
+                "672,228",
+                []
+            ]
+        ],
+        [
+            [
+                "4",
+                []
+            ],
+            [
+                "Nashville",
+                [
+                    "/wiki/Nashville-Davidson_(balance),_Tennessee"
+                ],
+                [
+                    {
+                        "entity id": "Q6966932",
+                        "label": "Nashville-Davidson (balance), Tennessee"
+                    }
+                ]
+            ],
+            [
+                "Tennessee",
+                [
+                    "/wiki/Tennessee"
+                ],
+                [
+                    {
+                        "entity id": "Q1509",
+                        "label": "Tennessee"
+                    }
+                ]
+            ],
+            [
+                "660,388",
+                []
+            ]
+        ],
+        [
+            [
+                "5",
+                []
+            ],
+            [
+                "Memphis",
+                [
+                    "/wiki/Memphis,_Tennessee"
+                ],
+                [
+                    {
+                        "entity id": "Q16563",
+                        "label": "Memphis"
+                    }
+                ]
+            ],
+            [
+                "Tennessee",
+                [
+                    "/wiki/Tennessee"
+                ],
+                [
+                    {
+                        "entity id": "Q1509",
+                        "label": "Tennessee"
+                    }
+                ]
+            ],
+            [
+                "652,717",
+                []
+            ]
+        ],
+        [
+            [
+                "6",
+                []
+            ],
+            [
+                "Baltimore",
+                [
+                    "/wiki/Baltimore"
+                ],
+                [
+                    {
+                        "entity id": "Q5092",
+                        "label": "Baltimore"
+                    }
+                ]
+            ],
+            [
+                "Maryland",
+                [
+                    "/wiki/Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q1391",
+                        "label": "Maryland"
+                    }
+                ]
+            ],
+            [
+                "621,849",
+                []
+            ]
+        ],
+        [
+            [
+                "7",
+                []
+            ],
+            [
+                "Louisville",
+                [
+                    "/wiki/Louisville-Jefferson_County_(balance),_Kentucky"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Kentucky",
+                [
+                    "/wiki/Kentucky"
+                ],
+                [
+                    {
+                        "entity id": "Q1603",
+                        "label": "Kentucky"
+                    }
+                ]
+            ],
+            [
+                "615,366",
+                []
+            ]
+        ],
+        [
+            [
+                "8",
+                []
+            ],
+            [
+                "Atlanta",
+                [
+                    "/wiki/Atlanta"
+                ],
+                [
+                    {
+                        "entity id": "Q23556",
+                        "label": "Atlanta"
+                    }
+                ]
+            ],
+            [
+                "Georgia",
+                [
+                    "/wiki/Georgia_(U.S._state)"
+                ],
+                [
+                    {
+                        "entity id": "Q5354684",
+                        "label": "election in Georgia"
+                    }
+                ]
+            ],
+            [
+                "463,878",
+                []
+            ]
+        ],
+        [
+            [
+                "9",
+                []
+            ],
+            [
+                "Virginia Beach",
+                [
+                    "/wiki/Virginia_Beach,_Virginia"
+                ],
+                [
+                    {
+                        "entity id": "Q49259",
+                        "label": "Virginia Beach"
+                    }
+                ]
+            ],
+            [
+                "Virginia",
+                [
+                    "/wiki/Virginia"
+                ],
+                [
+                    {
+                        "entity id": "Q1370",
+                        "label": "Virginia"
+                    }
+                ]
+            ],
+            [
+                "452,745",
+                []
+            ]
+        ],
+        [
+            [
+                "10",
+                []
+            ],
+            [
+                "Raleigh",
+                [
+                    "/wiki/Raleigh,_North_Carolina"
+                ],
+                [
+                    {
+                        "entity id": "Q41087",
+                        "label": "Raleigh"
+                    }
+                ]
+            ],
+            [
+                "North Carolina",
+                [
+                    "/wiki/North_Carolina"
+                ],
+                [
+                    {
+                        "entity id": "Q1454",
+                        "label": "North Carolina"
+                    }
+                ]
+            ],
+            [
+                "451,066",
+                []
+            ]
+        ],
+        [
+            [
+                "11",
+                []
+            ],
+            [
+                "Miami",
+                [
+                    "/wiki/Miami"
+                ],
+                [
+                    {
+                        "entity id": "Q8652",
+                        "label": "Miami"
+                    }
+                ]
+            ],
+            [
+                "Florida",
+                [
+                    "/wiki/Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q812",
+                        "label": "Florida"
+                    }
+                ]
+            ],
+            [
+                "441,003",
+                []
+            ]
+        ],
+        [
+            [
+                "12",
+                []
+            ],
+            [
+                "New Orleans",
+                [
+                    "/wiki/New_Orleans"
+                ],
+                [
+                    {
+                        "entity id": "Q34404",
+                        "label": "New Orleans"
+                    }
+                ]
+            ],
+            [
+                "Louisiana",
+                [
+                    "/wiki/Louisiana"
+                ],
+                [
+                    {
+                        "entity id": "Q1588",
+                        "label": "Louisiana"
+                    }
+                ]
+            ],
+            [
+                "389,617",
+                []
+            ]
+        ],
+        [
+            [
+                "13",
+                []
+            ],
+            [
+                "Tampa",
+                [
+                    "/wiki/Tampa,_Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q49255",
+                        "label": "Tampa"
+                    }
+                ]
+            ],
+            [
+                "Florida",
+                [
+                    "/wiki/Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q812",
+                        "label": "Florida"
+                    }
+                ]
+            ],
+            [
+                "369,075",
+                []
+            ]
+        ],
+        [
+            [
+                "14",
+                []
+            ],
+            [
+                "Lexington",
+                [
+                    "/wiki/Lexington,_Kentucky"
+                ],
+                [
+                    {
+                        "entity id": "Q49241",
+                        "label": "Lexington"
+                    }
+                ]
+            ],
+            [
+                "Kentucky",
+                [
+                    "/wiki/Kentucky"
+                ],
+                [
+                    {
+                        "entity id": "Q1603",
+                        "label": "Kentucky"
+                    }
+                ]
+            ],
+            [
+                "314,488",
+                []
+            ]
+        ],
+        [
+            [
+                "15",
+                []
+            ],
+            [
+                "Greensboro",
+                [
+                    "/wiki/Greensboro,_North_Carolina"
+                ],
+                [
+                    {
+                        "entity id": "Q49238",
+                        "label": "Greensboro"
+                    }
+                ]
+            ],
+            [
+                "North Carolina",
+                [
+                    "/wiki/North_Carolina"
+                ],
+                [
+                    {
+                        "entity id": "Q1454",
+                        "label": "North Carolina"
+                    }
+                ]
+            ],
+            [
+                "285,342",
+                []
+            ]
+        ],
+        [
+            [
+                "16",
+                []
+            ],
+            [
+                "Orlando",
+                [
+                    "/wiki/Orlando,_Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q49233",
+                        "label": "Orlando"
+                    }
+                ]
+            ],
+            [
+                "Florida",
+                [
+                    "/wiki/Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q812",
+                        "label": "Florida"
+                    }
+                ]
+            ],
+            [
+                "270,394",
+                []
+            ]
+        ],
+        [
+            [
+                "17",
+                []
+            ],
+            [
+                "Durham",
+                [
+                    "/wiki/Durham,_North_Carolina"
+                ],
+                [
+                    {
+                        "entity id": "Q49229",
+                        "label": "Durham"
+                    }
+                ]
+            ],
+            [
+                "North Carolina",
+                [
+                    "/wiki/North_Carolina"
+                ],
+                [
+                    {
+                        "entity id": "Q1454",
+                        "label": "North Carolina"
+                    }
+                ]
+            ],
+            [
+                "257,636",
+                []
+            ]
+        ],
+        [
+            [
+                "18",
+                []
+            ],
+            [
+                "Saint Petersburg",
+                [
+                    "/wiki/Saint_Petersburg,_Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q49236",
+                        "label": "St. Petersburg"
+                    }
+                ]
+            ],
+            [
+                "Florida",
+                [
+                    "/wiki/Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q812",
+                        "label": "Florida"
+                    }
+                ]
+            ],
+            [
+                "257,083",
+                []
+            ]
+        ],
+        [
+            [
+                "19",
+                []
+            ],
+            [
+                "Norfolk",
+                [
+                    "/wiki/Norfolk,_Virginia"
+                ],
+                [
+                    {
+                        "entity id": "Q49231",
+                        "label": "Norfolk"
+                    }
+                ]
+            ],
+            [
+                "Virginia",
+                [
+                    "/wiki/Virginia"
+                ],
+                [
+                    {
+                        "entity id": "Q1370",
+                        "label": "Virginia"
+                    }
+                ]
+            ],
+            [
+                "246,393",
+                []
+            ]
+        ],
+        [
+            [
+                "20",
+                []
+            ],
+            [
+                "Winston-Salem",
+                [
+                    "/wiki/Winston-Salem,_North_Carolina"
+                ],
+                [
+                    {
+                        "entity id": "Q49227",
+                        "label": "Winston-Salem"
+                    }
+                ]
+            ],
+            [
+                "North Carolina",
+                [
+                    "/wiki/North_Carolina"
+                ],
+                [
+                    {
+                        "entity id": "Q1454",
+                        "label": "North Carolina"
+                    }
+                ]
+            ],
+            [
+                "241,218",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Largest cities",
+    "section_text": "These are the largest cities in the Southeastern region of the United States by population , according to the United States Census Bureau : [ 8 ]",
+    "uid": "Southeastern_United_States_1",
+    "intro": "The Southeastern United States is broadly, the eastern portion of the Southern United States, and the southern portion of the Eastern United States. It comprises at least a core of states on the lower East Coast of the United States and eastern Gulf Coast. Expansively, it includes everything south of the Mason-Dixon line, the Ohio River and the 36\u00b030' parallel, and as far west as Arkansas and Louisiana. There is no official U.S. government definition of the region, though various agencies and departments use different definitions."
+}

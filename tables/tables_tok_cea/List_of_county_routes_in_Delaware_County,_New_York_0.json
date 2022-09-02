@@ -1,0 +1,987 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_county_routes_in_Delaware_County,_New_York",
+    "title": "List of county routes in Delaware County, New York",
+    "header": [
+        [
+            "Route",
+            []
+        ],
+        [
+            "Length ( mi )",
+            []
+        ],
+        [
+            "Length ( km )",
+            []
+        ],
+        [
+            "From",
+            []
+        ],
+        [
+            "Via",
+            []
+        ],
+        [
+            "To",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "CR 1",
+                []
+            ],
+            [
+                "5.21",
+                []
+            ],
+            [
+                "8.38",
+                []
+            ],
+            [
+                "NYCDOT -maintained connector to NY 30",
+                [
+                    "/wiki/NYCDOT",
+                    "/wiki/NY_30"
+                ],
+                [
+                    {
+                        "entity id": "Q1058767",
+                        "label": "New York City Department of Transportation"
+                    },
+                    {
+                        "entity id": "Q2486034",
+                        "label": "New York State Route 30"
+                    }
+                ]
+            ],
+            [
+                "Tremper Kill Road in Andes",
+                [
+                    "/wiki/Andes_(town),_New_York"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Former Andes village line",
+                [
+                    "/wiki/Andes_(CDP),_New_York"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "CR 2",
+                []
+            ],
+            [
+                "12.06",
+                []
+            ],
+            [
+                "19.41",
+                []
+            ],
+            [
+                "NY 10 in Hamden",
+                [
+                    "/wiki/NY_10",
+                    "/wiki/Hamden,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q2486224",
+                        "label": "New York State Route 105"
+                    },
+                    {
+                        "entity id": "Q3708662",
+                        "label": "Hamden"
+                    }
+                ]
+            ],
+            [
+                "Andes-Delancey Road",
+                []
+            ],
+            [
+                "Lower Main Street in Andes",
+                [
+                    "/wiki/Andes_(town),_New_York"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "CR 3",
+                []
+            ],
+            [
+                "2.63",
+                []
+            ],
+            [
+                "4.23",
+                []
+            ],
+            [
+                "NY 28",
+                [
+                    "/wiki/NY_28"
+                ],
+                [
+                    {
+                        "entity id": "Q451746",
+                        "label": "New York State Route 28"
+                    }
+                ]
+            ],
+            [
+                "Unnamed road in Middletown",
+                [
+                    "/wiki/Middletown,_Delaware_County,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q6842070",
+                        "label": "Middletown"
+                    }
+                ]
+            ],
+            [
+                "Margaretville village line",
+                [
+                    "/wiki/Margaretville,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q1004016",
+                        "label": "Margaretville"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "CR 4",
+                []
+            ],
+            [
+                "2.19",
+                []
+            ],
+            [
+                "3.52",
+                []
+            ],
+            [
+                "NY 8 in Masonville",
+                [
+                    "/wiki/NY_8",
+                    "/wiki/Masonville,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q2486171",
+                        "label": "New York State Route 83"
+                    },
+                    {
+                        "entity id": "Q3708316",
+                        "label": "Masonville"
+                    }
+                ]
+            ],
+            [
+                "Old Route 8",
+                []
+            ],
+            [
+                "Sidney village line in Sidney",
+                [
+                    "/wiki/Sidney_(village),_New_York",
+                    "/wiki/Sidney_(town),_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q3460542",
+                        "label": "Sidney"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "CR 5",
+                []
+            ],
+            [
+                "6.25",
+                []
+            ],
+            [
+                "10.06",
+                []
+            ],
+            [
+                "CR 6 in Bovina",
+                [
+                    "/wiki/Bovina,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q3708292",
+                        "label": "Bovina"
+                    }
+                ]
+            ],
+            [
+                "Pink Street",
+                []
+            ],
+            [
+                "CR 18 in Stamford",
+                [
+                    "/wiki/Stamford_(town),_New_York"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "CR 6",
+                []
+            ],
+            [
+                "10.63",
+                []
+            ],
+            [
+                "17.11",
+                []
+            ],
+            [
+                "NY 28 in Bovina",
+                [
+                    "/wiki/NY_28",
+                    "/wiki/Bovina,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q451746",
+                        "label": "New York State Route 28"
+                    },
+                    {
+                        "entity id": "Q3708292",
+                        "label": "Bovina"
+                    }
+                ]
+            ],
+            [
+                "Bovina and New Kingston roads",
+                []
+            ],
+            [
+                "NY 28 in Middletown",
+                [
+                    "/wiki/Middletown,_Delaware_County,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q6842070",
+                        "label": "Middletown"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "CR 7",
+                [
+                    "/wiki/County_Route_7_(Delaware_County,_New_York)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "9.23",
+                []
+            ],
+            [
+                "14.85",
+                []
+            ],
+            [
+                "NY 30",
+                [
+                    "/wiki/NY_30"
+                ],
+                [
+                    {
+                        "entity id": "Q2486034",
+                        "label": "New York State Route 30"
+                    }
+                ]
+            ],
+            [
+                "Cat Hollow Road in Colchester",
+                [
+                    "/wiki/Colchester,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q3708614",
+                        "label": "Colchester"
+                    }
+                ]
+            ],
+            [
+                "Sullivan County line ( becomes CR 91 )",
+                [
+                    "/wiki/Sullivan_County,_New_York",
+                    "/wiki/County_Route_91_(Sullivan_County,_New_York)"
+                ],
+                [
+                    {
+                        "entity id": "Q70979",
+                        "label": "Sullivan County"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "CR 8",
+                []
+            ],
+            [
+                "2.40",
+                []
+            ],
+            [
+                "3.86",
+                []
+            ],
+            [
+                "NY 30",
+                [
+                    "/wiki/NY_30"
+                ],
+                [
+                    {
+                        "entity id": "Q2486034",
+                        "label": "New York State Route 30"
+                    }
+                ]
+            ],
+            [
+                "Roxbury Run Road in Roxbury",
+                [
+                    "/wiki/Roxbury,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q3708265",
+                        "label": "Roxbury"
+                    }
+                ]
+            ],
+            [
+                "CR 36",
+                []
+            ]
+        ],
+        [
+            [
+                "CR 9",
+                []
+            ],
+            [
+                "3.33",
+                []
+            ],
+            [
+                "5.36",
+                []
+            ],
+            [
+                "NY 23",
+                [
+                    "/wiki/NY_23"
+                ],
+                [
+                    {
+                        "entity id": "Q12357468",
+                        "label": "New York's 23rd congressional district"
+                    }
+                ]
+            ],
+            [
+                "Butts Corners Road in Davenport",
+                [
+                    "/wiki/Davenport,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q3708254",
+                        "label": "Davenport"
+                    }
+                ]
+            ],
+            [
+                "Otsego County line ( becomes CR 40 )",
+                [
+                    "/wiki/Otsego_County,_New_York",
+                    "/wiki/County_Route_40_(Otsego_County,_New_York)"
+                ],
+                [
+                    {
+                        "entity id": "Q114862",
+                        "label": "Otsego County"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "CR 10",
+                []
+            ],
+            [
+                "8.01",
+                []
+            ],
+            [
+                "12.89",
+                []
+            ],
+            [
+                "NY 28 in Meredith",
+                [
+                    "/wiki/NY_28",
+                    "/wiki/Meredith,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q451746",
+                        "label": "New York State Route 28"
+                    },
+                    {
+                        "entity id": "Q3708223",
+                        "label": "Meredith"
+                    }
+                ]
+            ],
+            [
+                "Davenport Center Road",
+                []
+            ],
+            [
+                "NY 23 in Davenport",
+                [
+                    "/wiki/NY_23",
+                    "/wiki/Davenport,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q12357468",
+                        "label": "New York's 23rd congressional district"
+                    },
+                    {
+                        "entity id": "Q3708254",
+                        "label": "Davenport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "CR 11",
+                []
+            ],
+            [
+                "1.50",
+                []
+            ],
+            [
+                "2.41",
+                []
+            ],
+            [
+                "Otsego County line ( becomes CR 47 )",
+                [
+                    "/wiki/Otsego_County,_New_York",
+                    "/wiki/County_Route_47_(Otsego_County,_New_York)"
+                ],
+                [
+                    {
+                        "entity id": "Q114862",
+                        "label": "Otsego County"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Pindars Creek Road in Davenport",
+                [
+                    "/wiki/Davenport,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q3708254",
+                        "label": "Davenport"
+                    }
+                ]
+            ],
+            [
+                "NY 23",
+                [
+                    "/wiki/NY_23"
+                ],
+                [
+                    {
+                        "entity id": "Q12357468",
+                        "label": "New York's 23rd congressional district"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "CR 12",
+                []
+            ],
+            [
+                "6.12",
+                []
+            ],
+            [
+                "9.85",
+                []
+            ],
+            [
+                "CR 10 in Meredith",
+                [
+                    "/wiki/Meredith,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q3708223",
+                        "label": "Meredith"
+                    }
+                ]
+            ],
+            [
+                "Doonans Corners Road",
+                []
+            ],
+            [
+                "CR 33 in Kortright",
+                [
+                    "/wiki/Kortright,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q3708369",
+                        "label": "Kortright"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "CR 14",
+                []
+            ],
+            [
+                "13.82",
+                []
+            ],
+            [
+                "22.24",
+                []
+            ],
+            [
+                "NY 357 in Franklin",
+                [
+                    "/wiki/NY_357",
+                    "/wiki/Franklin_(town),_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q2486729",
+                        "label": "New York State Route 357"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Leonta Road",
+                []
+            ],
+            [
+                "Delhi village line in Delhi",
+                [
+                    "/wiki/Delhi_(village),_New_York",
+                    "/wiki/Delhi_(town),_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q3021594",
+                        "label": "Delhi"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "CR 16",
+                []
+            ],
+            [
+                "9.29",
+                []
+            ],
+            [
+                "14.95",
+                []
+            ],
+            [
+                "NY 10 in Delhi",
+                [
+                    "/wiki/NY_10",
+                    "/wiki/Delhi_(town),_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q2486224",
+                        "label": "New York State Route 105"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Treadwell Road",
+                []
+            ],
+            [
+                "CR 14 in Franklin",
+                [
+                    "/wiki/Franklin_(town),_New_York"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "CR 17",
+                [
+                    "/wiki/County_Route_17_(Delaware_County,_New_York)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "23.70",
+                []
+            ],
+            [
+                "38.14",
+                []
+            ],
+            [
+                "NY 268 in Hancock",
+                [
+                    "/wiki/NY_268",
+                    "/wiki/Hancock_(town),_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q2487531",
+                        "label": "New York State Route 268"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Old Route 17",
+                []
+            ],
+            [
+                "Sullivan County line in Colchester ( becomes CR 179A )",
+                [
+                    "/wiki/Sullivan_County,_New_York",
+                    "/wiki/Colchester,_New_York",
+                    "/wiki/County_Route_179A_(Sullivan_County,_New_York)"
+                ],
+                [
+                    {
+                        "entity id": "Q70979",
+                        "label": "Sullivan County"
+                    },
+                    {
+                        "entity id": "Q3708614",
+                        "label": "Colchester"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "CR 18",
+                []
+            ],
+            [
+                "18.02",
+                []
+            ],
+            [
+                "29.00",
+                []
+            ],
+            [
+                "Delhi village line in Delhi",
+                [
+                    "/wiki/Delhi_(village),_New_York",
+                    "/wiki/Delhi_(town),_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q3021594",
+                        "label": "Delhi"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Delhi-South Kortright Road",
+                []
+            ],
+            [
+                "Stamford village line in Stamford",
+                [
+                    "/wiki/Stamford_(village),_New_York",
+                    "/wiki/Stamford_(town),_New_York"
+                ],
+                [
+                    {},
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "CR 20",
+                []
+            ],
+            [
+                "7.26",
+                []
+            ],
+            [
+                "11.68",
+                []
+            ],
+            [
+                "Deposit town line",
+                [
+                    "/wiki/Deposit_(town),_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q5260775",
+                        "label": "Deposit"
+                    }
+                ]
+            ],
+            [
+                "Masonville Road in Masonville",
+                [
+                    "/wiki/Masonville,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q3708316",
+                        "label": "Masonville"
+                    }
+                ]
+            ],
+            [
+                "NY 206",
+                [
+                    "/wiki/NY_206"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "CR 21",
+                []
+            ],
+            [
+                "12.54",
+                []
+            ],
+            [
+                "20.18",
+                []
+            ],
+            [
+                "Walton village line in Walton",
+                [
+                    "/wiki/Walton_(village),_New_York",
+                    "/wiki/Walton,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q3453029",
+                        "label": "Walton"
+                    },
+                    {
+                        "entity id": "Q3453029",
+                        "label": "Walton"
+                    }
+                ]
+            ],
+            [
+                "Franklin Road",
+                []
+            ],
+            [
+                "NY 357 in Franklin",
+                [
+                    "/wiki/NY_357",
+                    "/wiki/Franklin_(town),_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q2486729",
+                        "label": "New York State Route 357"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "CR 22",
+                []
+            ],
+            [
+                "5.43",
+                []
+            ],
+            [
+                "8.74",
+                []
+            ],
+            [
+                "Walton village line",
+                [
+                    "/wiki/Walton_(village),_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q3453029",
+                        "label": "Walton"
+                    }
+                ]
+            ],
+            [
+                "East Brook Road in Walton",
+                [
+                    "/wiki/Walton,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q3453029",
+                        "label": "Walton"
+                    }
+                ]
+            ],
+            [
+                "Hamden town line",
+                [
+                    "/wiki/Hamden,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q3708662",
+                        "label": "Hamden"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "CR 23",
+                []
+            ],
+            [
+                "17.60",
+                []
+            ],
+            [
+                "28.32",
+                []
+            ],
+            [
+                "Sidney village line in Sidney",
+                [
+                    "/wiki/Sidney_(village),_New_York",
+                    "/wiki/Sidney_(town),_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q3460542",
+                        "label": "Sidney"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Sidney Hill Road",
+                []
+            ],
+            [
+                "CR 21 in Walton",
+                [
+                    "/wiki/Walton,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q3453029",
+                        "label": "Walton"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Route list",
+    "section_text": "",
+    "uid": "List_of_county_routes_in_Delaware_County,_New_York_0",
+    "intro": "County routes in Delaware County, New York, are signed with the Manual on Uniform Traffic Control Devices-standard yellow-on-blue pentagon route marker. Recently, some new markers have been added at junctions with some state highways. However, others were never added, so it may not be easy to find these routes. Also, several of these routes begin on the outskirts of small towns and villages, and there are no signs pointing the way for motorists to find these routes from main streets. TO signs with arrows would be extremely helpful to motorists, especially in Downsville, Walton, Sidney, and Andes, where the location of the routes can not easily be ascertained. Several county routes are unusual as they terminate as local roads in remote areas. County Rt. 22 begins on a side street in Walton, and ends as a remote town road in the middle of nowhere. County Route 6 has 2 beginnings on State Route 28, but no connecting center section. County Rt. 36 just climbs a long hill and ends. Many County Maintained Routes in Delaware County have no winter road maintenance (plowing, salting, sanding) at NIGHT due to safety concerns (Mountainous Roads)."
+}

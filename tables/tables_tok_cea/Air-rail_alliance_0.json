@@ -1,0 +1,428 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Air-rail_alliance",
+    "title": "Air-rail alliance",
+    "header": [
+        [
+            "Train Operating Company",
+            []
+        ],
+        [
+            "Airline",
+            []
+        ],
+        [
+            "From Airport",
+            []
+        ],
+        [
+            "To City",
+            []
+        ],
+        [
+            "Marketed As",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Amtrak",
+                [
+                    "/wiki/Amtrak"
+                ],
+                [
+                    {
+                        "entity id": "Q23239",
+                        "label": "Amtrak"
+                    }
+                ]
+            ],
+            [
+                "United Airlines",
+                [
+                    "/wiki/United_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q174769",
+                        "label": "United Airlines"
+                    }
+                ]
+            ],
+            [
+                "Newark Liberty International Airport",
+                [
+                    "/wiki/Newark_Liberty_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q466786",
+                        "label": "Newark Liberty International Airport"
+                    }
+                ]
+            ],
+            [
+                "New Haven , CT Philadelphia , PA Stamford , CT Wilmington , DE",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "CRH",
+                [
+                    "/wiki/China_Railway_High-speed"
+                ],
+                [
+                    {
+                        "entity id": "Q765855",
+                        "label": "China Railway High-speed"
+                    }
+                ]
+            ],
+            [
+                "China Eastern Airlines",
+                [
+                    "/wiki/China_Eastern_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q291796",
+                        "label": "China Eastern Airlines"
+                    }
+                ]
+            ],
+            [
+                "Shanghai Hongqiao International Airport",
+                [
+                    "/wiki/Shanghai_Hongqiao_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q421811",
+                        "label": "Shanghai Hongqiao International Airport"
+                    }
+                ]
+            ],
+            [
+                "Shanghai-Hangzhou Shanghai-Wuxi",
+                []
+            ],
+            [
+                "China Eastern Air-Rail Service",
+                []
+            ]
+        ],
+        [
+            [
+                "Deutsche Bahn",
+                [
+                    "/wiki/Deutsche_Bahn"
+                ],
+                [
+                    {
+                        "entity id": "Q9322",
+                        "label": "Deutsche Bahn"
+                    }
+                ]
+            ],
+            [
+                "Lufthansa American Airlines Emirates",
+                [
+                    "/wiki/Lufthansa",
+                    "/wiki/American_Airlines",
+                    "/wiki/Emirates_(airline)"
+                ],
+                [
+                    {
+                        "entity id": "Q9325",
+                        "label": "Lufthansa"
+                    },
+                    {
+                        "entity id": "Q32396",
+                        "label": "American Airlines"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Frankfurt Airport",
+                [
+                    "/wiki/Frankfurt_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q46033",
+                        "label": "Frankfurt Airport"
+                    }
+                ]
+            ],
+            [
+                "Stuttgart Cologne Siegburg/Bonn / Kassel Wilhelmsh\u00f6he / Karlsruhe main station",
+                []
+            ],
+            [
+                "AIRail",
+                [
+                    "/wiki/AIRail_Service"
+                ],
+                [
+                    {
+                        "entity id": "Q293879",
+                        "label": "AIRail Service"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "\u00d6BB",
+                [
+                    "/wiki/\u00d6BB"
+                ],
+                [
+                    {
+                        "entity id": "Q83822",
+                        "label": "\u00d6sterreichische Bundesbahnen"
+                    }
+                ]
+            ],
+            [
+                "Austrian Airlines",
+                [
+                    "/wiki/Austrian_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q781770",
+                        "label": "Austrian Airlines"
+                    }
+                ]
+            ],
+            [
+                "Vienna International Airport",
+                [
+                    "/wiki/Vienna_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q32999",
+                        "label": "Wien-Schwechat Airport"
+                    }
+                ]
+            ],
+            [
+                "Linz Salzburg",
+                [
+                    "/wiki/Linz",
+                    "/wiki/Salzburg"
+                ],
+                [
+                    {
+                        "entity id": "Q41329",
+                        "label": "Linz"
+                    },
+                    {
+                        "entity id": "Q34713",
+                        "label": "Salzburg"
+                    }
+                ]
+            ],
+            [
+                "AIRail",
+                []
+            ]
+        ],
+        [
+            [
+                "SBB",
+                [
+                    "/wiki/Swiss_Federal_Railways"
+                ],
+                [
+                    {
+                        "entity id": "Q83835",
+                        "label": "Swiss Federal Railways"
+                    }
+                ]
+            ],
+            [
+                "Swiss International Air Lines",
+                [
+                    "/wiki/Swiss_International_Air_Lines"
+                ],
+                [
+                    {
+                        "entity id": "Q156776",
+                        "label": "Swiss International Air Lines"
+                    }
+                ]
+            ],
+            [
+                "Zurich Airport",
+                [
+                    "/wiki/Zurich_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q15114",
+                        "label": "Zurich Airport"
+                    }
+                ]
+            ],
+            [
+                "Basel",
+                []
+            ],
+            [
+                "Airtrain",
+                []
+            ]
+        ],
+        [
+            [
+                "SNCF",
+                [
+                    "/wiki/SNCF"
+                ],
+                [
+                    {
+                        "entity id": "Q13646",
+                        "label": "SNCF"
+                    }
+                ]
+            ],
+            [
+                "Air France",
+                [
+                    "/wiki/Air_France"
+                ],
+                [
+                    {
+                        "entity id": "Q131005",
+                        "label": "Air France"
+                    }
+                ]
+            ],
+            [
+                "Paris-Charles de Gaulle Airport",
+                [
+                    "/wiki/Paris-Charles_de_Gaulle_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q46280",
+                        "label": "Paris-Charles de Gaulle Airport"
+                    }
+                ]
+            ],
+            [
+                "Brussels-Midi Strasbourg",
+                []
+            ],
+            [
+                "Air & Rail",
+                []
+            ]
+        ],
+        [
+            [
+                "Thalys",
+                [
+                    "/wiki/Thalys"
+                ],
+                [
+                    {
+                        "entity id": "Q466985",
+                        "label": "Thalys"
+                    }
+                ]
+            ],
+            [
+                "KLM",
+                [
+                    "/wiki/KLM"
+                ],
+                [
+                    {
+                        "entity id": "Q181912",
+                        "label": "KLM"
+                    }
+                ]
+            ],
+            [
+                "Amsterdam-Schiphol Airport",
+                [
+                    "/wiki/Amsterdam-Schiphol_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q100352195",
+                        "label": "Amsterdam Schiphol Airport project"
+                    }
+                ]
+            ],
+            [
+                "Antwerp Brussels",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Thalys",
+                [
+                    "/wiki/Thalys"
+                ],
+                [
+                    {
+                        "entity id": "Q466985",
+                        "label": "Thalys"
+                    }
+                ]
+            ],
+            [
+                "American Airlines",
+                [
+                    "/wiki/American_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q32396",
+                        "label": "American Airlines"
+                    }
+                ]
+            ],
+            [
+                "Paris-Charles de Gaulle Airport",
+                [
+                    "/wiki/Paris-Charles_de_Gaulle_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q46280",
+                        "label": "Paris-Charles de Gaulle Airport"
+                    }
+                ]
+            ],
+            [
+                "Brussels-Midi",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Dedicated services",
+    "section_text": "Dedicated services are less common than Rail & Fly alliances , due to the level of service provided . Often checked through luggage to is provided between the air and rail journeys , dedicated carriages or entire trains are provided to airline passengers , and service is to the same level expected on board an aircraft , including meals and refreshments .",
+    "uid": "Air-rail_alliance_0",
+    "intro": "There are four main types of airline-railway business alliance or codeshare agreements - dedicated services, entire network access, Night&Fly, and re-protection agreements. The currently active air-rail alliances are listed in the various tables below."
+}

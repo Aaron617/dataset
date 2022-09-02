@@ -1,0 +1,584 @@
+{
+    "url": "https://en.wikipedia.org/wiki/WWE",
+    "title": "WWE",
+    "header": [
+        [
+            "Accomplishment",
+            []
+        ],
+        [
+            "Latest winner ( s )",
+            []
+        ],
+        [
+            "Date won",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Notes",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "King of the Ring",
+                [
+                    "/wiki/King_of_the_Ring"
+                ],
+                [
+                    {
+                        "entity id": "Q80353",
+                        "label": "King of the Ring"
+                    }
+                ]
+            ],
+            [
+                "Baron Corbin",
+                [
+                    "/wiki/Baron_Corbin"
+                ],
+                [
+                    {
+                        "entity id": "Q3990706",
+                        "label": "Baron Corbin"
+                    }
+                ]
+            ],
+            [
+                "September 16 , 2019",
+                []
+            ],
+            [
+                "Knoxville , Tennessee",
+                [
+                    "/wiki/Knoxville,_Tennessee"
+                ],
+                [
+                    {
+                        "entity id": "Q185582",
+                        "label": "Knoxville"
+                    }
+                ]
+            ],
+            [
+                "Defeated Chad Gable in the tournament final to win",
+                [
+                    "/wiki/Chad_Gable"
+                ],
+                [
+                    {
+                        "entity id": "Q5087022",
+                        "label": "Chad Gable"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Money in the Bank ( Men )",
+                [
+                    "/wiki/Money_in_the_Bank_ladder_match"
+                ],
+                [
+                    {
+                        "entity id": "Q8947374",
+                        "label": "Money in the Bank ladder match"
+                    }
+                ]
+            ],
+            [
+                "Brock Lesnar",
+                [
+                    "/wiki/Brock_Lesnar"
+                ],
+                [
+                    {
+                        "entity id": "Q220556",
+                        "label": "Brock Lesnar"
+                    }
+                ]
+            ],
+            [
+                "May 19 , 2019",
+                []
+            ],
+            [
+                "Hartford , Connecticut",
+                [
+                    "/wiki/Hartford,_Connecticut"
+                ],
+                [
+                    {
+                        "entity id": "Q33486",
+                        "label": "Hartford"
+                    }
+                ]
+            ],
+            [
+                "Defeated Baron Corbin , Drew McIntyre , Ali , Andrade , Randy Orton , Ricochet and Finn B\u00e1lor to win",
+                [
+                    "/wiki/Baron_Corbin",
+                    "/wiki/Drew_McIntyre",
+                    "/wiki/Mustafa_Ali_(wrestler)",
+                    "/wiki/Andrade_Cien_Almas",
+                    "/wiki/Randy_Orton",
+                    "/wiki/Ricochet_(wrestler)",
+                    "/wiki/Finn_B\u00e1lor"
+                ],
+                [
+                    {
+                        "entity id": "Q3990706",
+                        "label": "Baron Corbin"
+                    },
+                    {
+                        "entity id": "Q311944",
+                        "label": "Drew McIntyre"
+                    },
+                    {},
+                    {
+                        "entity id": "Q5954685",
+                        "label": "Andrade El Idolo"
+                    },
+                    {
+                        "entity id": "Q44449",
+                        "label": "Randy Orton"
+                    },
+                    {},
+                    {
+                        "entity id": "Q984334",
+                        "label": "Finn B\u00e1lor"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Money in the Bank ( Women )",
+                [
+                    "/wiki/Money_in_the_Bank_ladder_match"
+                ],
+                [
+                    {
+                        "entity id": "Q8947374",
+                        "label": "Money in the Bank ladder match"
+                    }
+                ]
+            ],
+            [
+                "Bayley",
+                [
+                    "/wiki/Bayley_(wrestler)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "May 19 , 2019",
+                []
+            ],
+            [
+                "Hartford , Connecticut",
+                [
+                    "/wiki/Hartford,_Connecticut"
+                ],
+                [
+                    {
+                        "entity id": "Q33486",
+                        "label": "Hartford"
+                    }
+                ]
+            ],
+            [
+                "Defeated Carmella , Dana Brooke , Ember Moon , Mandy Rose , Naomi , Natalya , and Nikki Cross to win",
+                [
+                    "/wiki/Carmella_(wrestler)",
+                    "/wiki/Dana_Brooke",
+                    "/wiki/Ember_Moon",
+                    "/wiki/Mandy_Rose",
+                    "/wiki/Naomi_(wrestler)",
+                    "/wiki/Natalya_Neidhart",
+                    "/wiki/Nikki_Cross"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q19566049",
+                        "label": "Dana Brooke"
+                    },
+                    {
+                        "entity id": "Q21107056",
+                        "label": "Ember Moon"
+                    },
+                    {
+                        "entity id": "Q20685383",
+                        "label": "Mandy Rose"
+                    },
+                    {},
+                    {
+                        "entity id": "Q231508",
+                        "label": "Natalya Neidhart"
+                    },
+                    {
+                        "entity id": "Q17160159",
+                        "label": "Nikki Storm"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Royal Rumble ( Men )",
+                [
+                    "/wiki/Royal_Rumble"
+                ],
+                [
+                    {
+                        "entity id": "Q36103",
+                        "label": "Royal Rumble"
+                    }
+                ]
+            ],
+            [
+                "Drew McIntyre",
+                [
+                    "/wiki/Drew_McIntyre"
+                ],
+                [
+                    {
+                        "entity id": "Q311944",
+                        "label": "Drew McIntyre"
+                    }
+                ]
+            ],
+            [
+                "January 26 , 2020",
+                []
+            ],
+            [
+                "Houston , Texas",
+                [
+                    "/wiki/Houston,_Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q16555",
+                        "label": "Houston"
+                    }
+                ]
+            ],
+            [
+                "Last eliminated Roman Reigns to win",
+                [
+                    "/wiki/Roman_Reigns"
+                ],
+                [
+                    {
+                        "entity id": "Q275971",
+                        "label": "Roman Reigns"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Royal Rumble ( Women )",
+                [
+                    "/wiki/Royal_Rumble"
+                ],
+                [
+                    {
+                        "entity id": "Q36103",
+                        "label": "Royal Rumble"
+                    }
+                ]
+            ],
+            [
+                "Charlotte Flair",
+                [
+                    "/wiki/Charlotte_Flair"
+                ],
+                [
+                    {
+                        "entity id": "Q2891336",
+                        "label": "Charlotte Flair"
+                    }
+                ]
+            ],
+            [
+                "January 26 , 2020",
+                []
+            ],
+            [
+                "Houston , Texas",
+                [
+                    "/wiki/Houston,_Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q16555",
+                        "label": "Houston"
+                    }
+                ]
+            ],
+            [
+                "Last eliminated Shayna Baszler to win",
+                [
+                    "/wiki/Shayna_Baszler"
+                ],
+                [
+                    {
+                        "entity id": "Q5975900",
+                        "label": "Shayna Baszler"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dusty Rhodes Tag Team Classic",
+                [
+                    "/wiki/Dusty_Rhodes_Tag_Team_Classic"
+                ],
+                [
+                    {
+                        "entity id": "Q27119665",
+                        "label": "Dusty Rhodes Tag Team Classic"
+                    }
+                ]
+            ],
+            [
+                "The BroserWeights ( Matt Riddle and Pete Dunne )",
+                [
+                    "/wiki/Matt_Riddle",
+                    "/wiki/Pete_Dunne"
+                ],
+                [
+                    {
+                        "entity id": "Q3867244",
+                        "label": "Matt Riddle"
+                    },
+                    {
+                        "entity id": "Q28024992",
+                        "label": "Pete Dunne"
+                    }
+                ]
+            ],
+            [
+                "January 29 , 2020",
+                []
+            ],
+            [
+                "Winter Park , Florida",
+                [
+                    "/wiki/Winter_Park,_Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q986641",
+                        "label": "Winter Park"
+                    }
+                ]
+            ],
+            [
+                "Defeated The Grizzled Young Veterans ( James Drake and Zack Gibson ) in the tournament final to win",
+                [
+                    "/wiki/James_Drake_(wrestler)",
+                    "/wiki/Zack_Gibson"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q53871133",
+                        "label": "Zack Gibson"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Andr\u00e9 the Giant Memorial Battle Royal",
+                [
+                    "/wiki/Andr\u00e9_the_Giant_Memorial_Battle_Royal"
+                ],
+                [
+                    {
+                        "entity id": "Q28200846",
+                        "label": "Andr\u00e9 the Giant Memorial Trophy"
+                    }
+                ]
+            ],
+            [
+                "Braun Strowman",
+                [
+                    "/wiki/Braun_Strowman"
+                ],
+                [
+                    {
+                        "entity id": "Q4679732",
+                        "label": "Braun Strowman"
+                    }
+                ]
+            ],
+            [
+                "April 7 , 2019",
+                []
+            ],
+            [
+                "East Rutherford , New Jersey",
+                [
+                    "/wiki/East_Rutherford,_New_Jersey"
+                ],
+                [
+                    {
+                        "entity id": "Q746830",
+                        "label": "East Rutherford"
+                    }
+                ]
+            ],
+            [
+                "Last eliminated Colin Jost to win",
+                [
+                    "/wiki/Colin_Jost"
+                ],
+                [
+                    {
+                        "entity id": "Q5145253",
+                        "label": "Colin Jost"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "WrestleMania Women 's Battle Royal",
+                [
+                    "/wiki/WrestleMania_Women's_Battle_Royal"
+                ],
+                [
+                    {
+                        "entity id": "Q50417683",
+                        "label": "WrestleMania Women's Battle Royal"
+                    }
+                ]
+            ],
+            [
+                "Carmella",
+                [
+                    "/wiki/Carmella_(wrestler)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "April 7 , 2019",
+                []
+            ],
+            [
+                "East Rutherford , New Jersey",
+                [
+                    "/wiki/East_Rutherford,_New_Jersey",
+                    "/wiki/New_Jersey"
+                ],
+                [
+                    {
+                        "entity id": "Q746830",
+                        "label": "East Rutherford"
+                    },
+                    {
+                        "entity id": "Q1408",
+                        "label": "New Jersey"
+                    }
+                ]
+            ],
+            [
+                "Last eliminated Sarah Logan to win",
+                [
+                    "/wiki/Sarah_Logan"
+                ],
+                [
+                    {
+                        "entity id": "Q11299547",
+                        "label": "Sarah Logan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "WWE World Cup",
+                [
+                    "/wiki/WWE_World_Cup"
+                ],
+                [
+                    {
+                        "entity id": "Q85879328",
+                        "label": "WWE World Cup"
+                    }
+                ]
+            ],
+            [
+                "The O.C . ( Luke Gallows and Karl Anderson )",
+                [
+                    "/wiki/The_O.C._(professional_wrestling)",
+                    "/wiki/Luke_Gallows",
+                    "/wiki/Karl_Anderson"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q946637",
+                        "label": "Drew Hankinson"
+                    },
+                    {
+                        "entity id": "Q3662244",
+                        "label": "Karl Anderson"
+                    }
+                ]
+            ],
+            [
+                "October 31 , 2019",
+                []
+            ],
+            [
+                "Riyadh , Saudi Arabia",
+                [
+                    "/wiki/Riyadh",
+                    "/wiki/Saudi_Arabia"
+                ],
+                [
+                    {
+                        "entity id": "Q3692",
+                        "label": "Riyadh"
+                    },
+                    {
+                        "entity id": "Q851",
+                        "label": "Saudi Arabia"
+                    }
+                ]
+            ],
+            [
+                "Won a nine-team Tag Team Turmoil match , last eliminating the Viking Raiders . ( Previously awarded as a singles accolade in 2018 )",
+                [
+                    "/wiki/Viking_Raiders"
+                ],
+                [
+                    {
+                        "entity id": "Q3222367",
+                        "label": "Viking Raiders"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Championships and accomplishments -- Other accomplishments",
+    "section_text": "",
+    "uid": "WWE_0",
+    "intro": "World Wrestling Entertainment, Inc., d/b/a WWE, is an American integrated media and entertainment company that is primarily known for professional wrestling. WWE has also branched out into other fields, including movies, football, and various other business ventures. The WWE name also refers to the professional wrestling promotion itself, founded in the 1950s as the Capitol Wrestling Corporation. As of 2019, it is the largest wrestling promotion in the world, holding over 500 events a year, with the roster divided up into various globally traveling brands, and is available to about 36 million viewers in more than 150 countries. The company's global headquarters is located in Stamford, Connecticut, with offices in major cities around the world. As in other professional wrestling promotions, WWE shows are not legitimate contests, but purely entertainment-based, featuring storyline-driven, scripted, and choreographed matches, though matches often include moves that can put performers at risk of injury, even death, if not performed correctly. This was first publicly acknowledged by WWE's owner Vince McMahon in 1989 to avoid taxes from athletic commissions. Since the 1980s, WWE publicly has branded its product as sports entertainment, acknowledging the product's roots in competitive sport and dramatic theater. The company's majority owner is its chairman and CEO, Vince McMahon, who retains a 42% ownership of the company's outstanding stock and 83% of the voting power. The current entity, incorporated on February 21, 1980, was previously known as Titan Sports, Inc., which was founded that same year in South Yarmouth, Massachusetts. It acquired Capitol Wrestling Corporation Ltd., the holding company for the World Wrestling Federation, in 1982. Titan was renamed World Wrestling Federation, Inc. in 1998, then World Wrestling Federation Entertainment, Inc. in 1999, and finally the current World Wrestling Entertainment, Inc. in 2002."
+}

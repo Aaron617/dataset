@@ -1,0 +1,562 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Tourism_in_Croatia",
+    "title": "Tourism in Croatia",
+    "header": [
+        [
+            "Site",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "UNESCO data",
+            []
+        ],
+        [
+            "Description",
+            []
+        ],
+        [
+            "Shared with",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Plitvice Lakes National Park",
+                [
+                    "/wiki/Plitvice_Lakes_National_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q189849",
+                        "label": "Plitvice Lakes National Park"
+                    }
+                ]
+            ],
+            [
+                "Plitvi\u010dka Jezera",
+                [
+                    "/wiki/Plitvi\u010dka_Jezera"
+                ],
+                [
+                    {
+                        "entity id": "Q1277540",
+                        "label": "Plitvi\u010dka Jezera"
+                    }
+                ]
+            ],
+            [
+                "98 ; 1979 ; vii , viii , ix ( natural )",
+                []
+            ],
+            [
+                "Over time , water has flown over the natural limestone and chalk , creating natural dams which in turn have created a series of connecting lakes , waterfalls and caves . The nearby forests are home to bears , wolves and many rare bird species",
+                [
+                    "/wiki/Limestone"
+                ],
+                [
+                    {
+                        "entity id": "Q23757",
+                        "label": "limestone"
+                    }
+                ]
+            ],
+            [
+                "N/A",
+                []
+            ]
+        ],
+        [
+            [
+                "Historical Complex of Split with the Palace of Diocletian",
+                [
+                    "/wiki/Split_(city)",
+                    "/wiki/Diocletian's_Palace"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q322287",
+                        "label": "Diocletian's Palace"
+                    }
+                ]
+            ],
+            [
+                "Split",
+                []
+            ],
+            [
+                "97 ; 1979 ; ii , iii , iv ( cultural )",
+                []
+            ],
+            [
+                "The palace was built by the Roman emperor Diocletian at the turn of the fourth century AD , and later served as the basis of the city of Split . A cathedral was built in the Middle Ages inside the ancient mausoleum , along with churches , fortifications , Gothic and Renaissance palaces . The Baroque style makes up the rest of the area",
+                [
+                    "/wiki/Roman_emperor",
+                    "/wiki/Diocletian"
+                ],
+                [
+                    {
+                        "entity id": "Q842606",
+                        "label": "Roman emperor"
+                    },
+                    {
+                        "entity id": "Q43107",
+                        "label": "Diocletian"
+                    }
+                ]
+            ],
+            [
+                "N/A",
+                []
+            ]
+        ],
+        [
+            [
+                "Old City of Dubrovnik",
+                [
+                    "/wiki/Dubrovnik"
+                ],
+                [
+                    {
+                        "entity id": "Q1722",
+                        "label": "Dubrovnik"
+                    }
+                ]
+            ],
+            [
+                "Dubrovnik",
+                []
+            ],
+            [
+                "95 ; 1979 ; i , iii , iv ( cultural )",
+                []
+            ],
+            [
+                "Dubrovnik became a prosperous Maritime Republic during the Middle Ages , it became the only eastern Adriatic city-state to rival Venice . Supported by its wealth and skilled diplomacy , the city achieved a remarkable level of development , particularly during the 15th and 16th centuries",
+                [
+                    "/wiki/Maritime_Republics",
+                    "/wiki/Middle_Ages",
+                    "/wiki/City-state",
+                    "/wiki/Venice",
+                    "/wiki/Diplomacy"
+                ],
+                [
+                    {
+                        "entity id": "Q62825",
+                        "label": "maritime republics"
+                    },
+                    {
+                        "entity id": "Q12554",
+                        "label": "Middle Ages"
+                    },
+                    {
+                        "entity id": "Q133442",
+                        "label": "city-state"
+                    },
+                    {
+                        "entity id": "Q641",
+                        "label": "Venice"
+                    },
+                    {
+                        "entity id": "Q1889",
+                        "label": "diplomacy"
+                    }
+                ]
+            ],
+            [
+                "N/A",
+                []
+            ]
+        ],
+        [
+            [
+                "Episcopal Complex of the Euphrasian Basilica in the Historic Centre of Pore\u010d",
+                [
+                    "/wiki/Euphrasian_Basilica",
+                    "/wiki/Pore\u010d"
+                ],
+                [
+                    {
+                        "entity id": "Q645105",
+                        "label": "Euphrasian Basilica"
+                    },
+                    {
+                        "entity id": "Q5323",
+                        "label": "Pore\u010d"
+                    }
+                ]
+            ],
+            [
+                "Pore\u010d",
+                []
+            ],
+            [
+                "809 ; 1997 ; ii , iv ( cultural )",
+                []
+            ],
+            [
+                "The episcopal complex , with its striking mosaics dating back to the 6th century , is one of the best examples of early Byzantine art and architecture in the Mediterranean region and the world . It includes the basilica itself , a sacristy , a baptistery and the bell tower of the nearby archbishop 's palace",
+                [
+                    "/wiki/Byzantine_art"
+                ],
+                [
+                    {
+                        "entity id": "Q211884",
+                        "label": "Byzantine art"
+                    }
+                ]
+            ],
+            [
+                "N/A",
+                []
+            ]
+        ],
+        [
+            [
+                "Historic city of Trogir",
+                [
+                    "/wiki/Trogir"
+                ],
+                [
+                    {
+                        "entity id": "Q189161",
+                        "label": "Trogir"
+                    }
+                ]
+            ],
+            [
+                "Trogir",
+                []
+            ],
+            [
+                "810 ; 1997 ; ii , iv ( cultural )",
+                []
+            ],
+            [
+                "Trogir 's rich culture was created under the influence of old Greeks , Romans , and Venetians . It is the best-preserved Romanesque- Gothic complex not only in the Adriatic , but in all of Central Europe . Trogir 's medieval core , surrounded by walls , comprises a preserved castle and tower and a series of dwellings and palaces from the Romanesque , Gothic , Renaissance and Baroque periods",
+                [
+                    "/wiki/Gothic_architecture",
+                    "/wiki/Adriatic",
+                    "/wiki/Central_Europe",
+                    "/wiki/Medieval"
+                ],
+                [
+                    {
+                        "entity id": "Q176483",
+                        "label": "Gothic architecture"
+                    },
+                    {
+                        "entity id": "Q2825087",
+                        "label": "2-6-4"
+                    },
+                    {
+                        "entity id": "Q27509",
+                        "label": "Central Europe"
+                    },
+                    {
+                        "entity id": "Q192292",
+                        "label": "medieval philosophy"
+                    }
+                ]
+            ],
+            [
+                "N/A",
+                []
+            ]
+        ],
+        [
+            [
+                "Cathedral of Saint James",
+                [
+                    "/wiki/Cathedral_of_St._James,_\u0160ibenik"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "\u0160ibenik",
+                [
+                    "/wiki/\u0160ibenik"
+                ],
+                [
+                    {
+                        "entity id": "Q3549",
+                        "label": "\u0160ibenik"
+                    }
+                ]
+            ],
+            [
+                "963 ; 2000 ; i , ii , iv ( cultural )",
+                []
+            ],
+            [
+                "The cathedral is a triple-nave basilica with three apses and a dome ( 32 m high inside ) and is also one of the most important Renaissance architectural monuments in the eastern Adriatic",
+                [
+                    "/wiki/Basilica",
+                    "/wiki/Renaissance"
+                ],
+                [
+                    {
+                        "entity id": "Q163687",
+                        "label": "basilica"
+                    },
+                    {
+                        "entity id": "Q4692",
+                        "label": "Renaissance"
+                    }
+                ]
+            ],
+            [
+                "N/A",
+                []
+            ]
+        ],
+        [
+            [
+                "Stari Grad Plain",
+                [
+                    "/wiki/Stari_Grad_Plain"
+                ],
+                [
+                    {
+                        "entity id": "Q614212",
+                        "label": "Stari Grad Plain"
+                    }
+                ]
+            ],
+            [
+                "Hvar",
+                [
+                    "/wiki/Hvar"
+                ],
+                [
+                    {
+                        "entity id": "Q6031",
+                        "label": "Hvar"
+                    }
+                ]
+            ],
+            [
+                "1240 ; 2008 ; ii , iii , v ( cultural",
+                []
+            ],
+            [
+                "The Stari Grad Plain is an agricultural landscape that was set up by the ancient Greek colonists in the 4th century BC , and remains in use today . The plain is generally still in its original form . The ancient layout has been preserved by careful maintenance of the stone walls over 24 centuries",
+                [
+                    "/wiki/Colonies_in_antiquity"
+                ],
+                [
+                    {
+                        "entity id": "Q1094394",
+                        "label": "Colonies in antiquity"
+                    }
+                ]
+            ],
+            [
+                "N/A",
+                []
+            ]
+        ],
+        [
+            [
+                "Ste\u0107ci Medieval Tombstones Graveyards",
+                [
+                    "/wiki/Ste\u0107ci_Medieval_Tombstones_Graveyards"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Dubravka , Cista Velika",
+                [
+                    "/wiki/Cista_Provo"
+                ],
+                [
+                    {
+                        "entity id": "Q1020883",
+                        "label": "Cista Provo"
+                    }
+                ]
+            ],
+            [
+                "1504 ; 2016 ; iii , vi ( cultural )",
+                []
+            ],
+            [
+                "Ste\u0107ak or the medieval tombstones are the monolith stone monuments found in the regions of the present Bosnia and Herzegovina , parts of Croatia , Serbia and Montenegro . The elementary tombstone groups are the laid and the upright stone monoliths",
+                []
+            ],
+            [
+                "Bosnia and Herzegovina , Montenegro , Serbia",
+                [
+                    "/wiki/Bosnia_and_Herzegovina",
+                    "/wiki/Montenegro",
+                    "/wiki/Serbia"
+                ],
+                [
+                    {
+                        "entity id": "Q225",
+                        "label": "Bosnia and Herzegovina"
+                    },
+                    {
+                        "entity id": "Q236",
+                        "label": "Montenegro"
+                    },
+                    {
+                        "entity id": "Q403",
+                        "label": "Serbia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "The Venetian Works of defence between 15th and 17th centuries",
+                [
+                    "/wiki/Venetian_Works_of_Defence_between_15th_and_17th_centuries:_Stato_da_Terra_\u2013_western_Stato_da_Mar"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Zadar , \u0160ibenik",
+                []
+            ],
+            [
+                "1533 ; 2017 ; iii , iv ( cultural )",
+                []
+            ],
+            [
+                "This property consists of 15 components of defence works in Italy , Croatia and Montenegro , spanning more than 1,000 kilometres between the Lombard region of Italy and the eastern Adriatic Coast . The introduction of gunpowder led to significant shifts in military techniques and architecture",
+                []
+            ],
+            [
+                "Italy , Montenegro",
+                [
+                    "/wiki/Italy",
+                    "/wiki/Montenegro"
+                ],
+                [
+                    {
+                        "entity id": "Q38",
+                        "label": "Italy"
+                    },
+                    {
+                        "entity id": "Q236",
+                        "label": "Montenegro"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+                [
+                    "/wiki/Primeval_Beech_Forests_of_the_Carpathians_and_Other_Regions_of_Europe"
+                ],
+                [
+                    {
+                        "entity id": "Q156011",
+                        "label": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe"
+                    }
+                ]
+            ],
+            [
+                "Paklenica , Northern Velebit National Park",
+                [
+                    "/wiki/Paklenica",
+                    "/wiki/Northern_Velebit_National_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q732723",
+                        "label": "Paklenica"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "1133 ; 2017 ; ix ( natural )",
+                []
+            ],
+            [
+                "This transboundary extension of the World Heritage site of the Primeval Beech Forests of the Carpathians and the Ancient Beech Forests of Germany ( Germany , Slovakia , Ukraine ) stretches over 12 countries . This successful expansion is related to the tree 's flexibility and tolerance of different climatic , geographical and physical conditions",
+                []
+            ],
+            [
+                "Albania , Austria , Belgium , Bulgaria , Germany , Italy , Romania , Slovakia , Slovenia , Spain , Ukraine",
+                [
+                    "/wiki/Albania",
+                    "/wiki/Austria",
+                    "/wiki/Belgium",
+                    "/wiki/Bulgaria",
+                    "/wiki/Germany",
+                    "/wiki/Italy",
+                    "/wiki/Romania",
+                    "/wiki/Slovakia",
+                    "/wiki/Slovenia",
+                    "/wiki/Spain",
+                    "/wiki/Ukraine"
+                ],
+                [
+                    {
+                        "entity id": "Q222",
+                        "label": "Albania"
+                    },
+                    {
+                        "entity id": "Q40",
+                        "label": "Austria"
+                    },
+                    {
+                        "entity id": "Q31",
+                        "label": "Belgium"
+                    },
+                    {
+                        "entity id": "Q219",
+                        "label": "Bulgaria"
+                    },
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    },
+                    {
+                        "entity id": "Q38",
+                        "label": "Italy"
+                    },
+                    {
+                        "entity id": "Q218",
+                        "label": "Romania"
+                    },
+                    {
+                        "entity id": "Q214",
+                        "label": "Slovakia"
+                    },
+                    {
+                        "entity id": "Q215",
+                        "label": "Slovenia"
+                    },
+                    {
+                        "entity id": "Q29",
+                        "label": "Spain"
+                    },
+                    {
+                        "entity id": "Q212",
+                        "label": "Ukraine"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Tourist regions -- Attractions",
+    "section_text": "The United Nations Educational , Scientific and Cultural Organization ( UNESCO ) has included the following Croatian sites on its World Heritage List :",
+    "uid": "Tourism_in_Croatia_0",
+    "intro": "Tourism is a major industry in Croatia. In 2018, Croatia had 19.7 million tourist visitors who made 110.275 million overnight stays. The history of tourism in Croatia dates back to the middle of the 19th century in the period around 1850. It has been developing successfully ever since. Today, Croatia is one of the most visited tourist destinations in the Mediterranean. Tourism in Croatia is concentrated in the areas along the Adriatic coast and is strongly seasonal, peaking in July and August. Eight areas in the country have been designated national parks, and the landscape in these areas is afforded extra protection from development. Currently, there are ten sites in Croatia inscribed on the UNESCO List of World Heritage Sites and 15 sites on the tentative list. Lonely Planet named Croatia as the top pick destination for 2005, while National Geographic Adventure Magazine named Croatia as Destination of the Year in 2006."
+}

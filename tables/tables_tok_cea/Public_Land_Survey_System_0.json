@@ -1,0 +1,746 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Public_Land_Survey_System",
+    "title": "Public Land Survey System",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Adopted",
+            []
+        ],
+        [
+            "Initial point",
+            []
+        ],
+        [
+            "State ( s )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Black Hills Meridian",
+                [
+                    "/wiki/Black_Hills_Meridian"
+                ],
+                [
+                    {
+                        "entity id": "Q4920977",
+                        "label": "Black Hills meridian"
+                    }
+                ]
+            ],
+            [
+                "1878",
+                []
+            ],
+            [
+                "43\u00b059\u203244\u2033N 104\u00b003\u203216\u2033W / 43.99556\u00b0N 104.05444\u00b0W / 43.99556 ; -104.05444 ( Black Hills Meridian )",
+                []
+            ],
+            [
+                "South Dakota",
+                [
+                    "/wiki/South_Dakota"
+                ],
+                [
+                    {
+                        "entity id": "Q1211",
+                        "label": "South Dakota"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Boise Meridian",
+                [
+                    "/wiki/Boise_Meridian"
+                ],
+                [
+                    {
+                        "entity id": "Q14687008",
+                        "label": "Boise meridian"
+                    }
+                ]
+            ],
+            [
+                "1867",
+                []
+            ],
+            [
+                "43\u00b022\u203221\u2033N 116\u00b023\u203235\u2033W / 43.37250\u00b0N 116.39306\u00b0W / 43.37250 ; -116.39306 ( Boise Meridian )",
+                []
+            ],
+            [
+                "Idaho",
+                [
+                    "/wiki/Idaho"
+                ],
+                [
+                    {
+                        "entity id": "Q1221",
+                        "label": "Idaho"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Chickasaw Meridian",
+                [
+                    "/wiki/Chickasaw_Meridian"
+                ],
+                [
+                    {
+                        "entity id": "Q5096209",
+                        "label": "Chickasaw meridian"
+                    }
+                ]
+            ],
+            [
+                "1833",
+                []
+            ],
+            [
+                "35\u00b001\u203258\u2033N 89\u00b014\u203247\u2033W / 35.03278\u00b0N 89.24639\u00b0W / 35.03278 ; -89.24639 ( Chickasaw Meridian )",
+                []
+            ],
+            [
+                "Mississippi",
+                [
+                    "/wiki/Mississippi"
+                ],
+                [
+                    {
+                        "entity id": "Q1494",
+                        "label": "Mississippi"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Choctaw Meridian",
+                [
+                    "/wiki/Choctaw_Meridian"
+                ],
+                [
+                    {
+                        "entity id": "Q5103734",
+                        "label": "Choctaw meridian"
+                    }
+                ]
+            ],
+            [
+                "1821",
+                []
+            ],
+            [
+                "31\u00b052\u203232\u2033N 90\u00b014\u203241\u2033W / 31.87556\u00b0N 90.24472\u00b0W / 31.87556 ; -90.24472 ( Choctaw Meridian )",
+                []
+            ],
+            [
+                "Mississippi",
+                [
+                    "/wiki/Mississippi"
+                ],
+                [
+                    {
+                        "entity id": "Q1494",
+                        "label": "Mississippi"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Cimarron Meridian",
+                [
+                    "/wiki/Cimarron_Meridian"
+                ],
+                [
+                    {
+                        "entity id": "Q5120107",
+                        "label": "Cimarron meridian"
+                    }
+                ]
+            ],
+            [
+                "1881",
+                []
+            ],
+            [
+                "36\u00b030\u203205\u2033N 103\u00b000\u203207\u2033W / 36.50139\u00b0N 103.00194\u00b0W / 36.50139 ; -103.00194 ( Cimarron Meridian )",
+                []
+            ],
+            [
+                "Oklahoma",
+                [
+                    "/wiki/Oklahoma"
+                ],
+                [
+                    {
+                        "entity id": "Q1649",
+                        "label": "Oklahoma"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Copper River Meridian",
+                [
+                    "/wiki/Copper_River_Meridian"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1905",
+                []
+            ],
+            [
+                "61\u00b049\u203204\u2033N 145\u00b018\u203237\u2033W / 61.81778\u00b0N 145.31028\u00b0W / 61.81778 ; -145.31028 ( Copper River Meridian )",
+                []
+            ],
+            [
+                "Alaska",
+                [
+                    "/wiki/Alaska"
+                ],
+                [
+                    {
+                        "entity id": "Q797",
+                        "label": "Alaska"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Fairbanks Meridian",
+                [
+                    "/wiki/Fairbanks_Meridian"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1910",
+                []
+            ],
+            [
+                "64\u00b051\u203250.048\u2033N 147\u00b038\u203225.94\u2033W / 64.86390222\u00b0N 147.6405389\u00b0W / 64.86390222 ; -147.6405389 ( Fairbanks Meridian )",
+                []
+            ],
+            [
+                "Alaska",
+                [
+                    "/wiki/Alaska"
+                ],
+                [
+                    {
+                        "entity id": "Q797",
+                        "label": "Alaska"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Fifth Principal Meridian",
+                [
+                    "/wiki/Fifth_Principal_Meridian"
+                ],
+                [
+                    {
+                        "entity id": "Q5447595",
+                        "label": "Fifth principal meridian"
+                    }
+                ]
+            ],
+            [
+                "1815",
+                []
+            ],
+            [
+                "34\u00b038\u203245\u2033N 91\u00b003\u203207\u2033W / 34.64583\u00b0N 91.05194\u00b0W / 34.64583 ; -91.05194 ( Fifth Principal Meridian )",
+                []
+            ],
+            [
+                "Arkansas , Iowa , Minnesota , Missouri , North Dakota & South Dakota",
+                [
+                    "/wiki/Arkansas",
+                    "/wiki/Iowa",
+                    "/wiki/Minnesota",
+                    "/wiki/Missouri",
+                    "/wiki/North_Dakota",
+                    "/wiki/South_Dakota"
+                ],
+                [
+                    {
+                        "entity id": "Q1612",
+                        "label": "Arkansas"
+                    },
+                    {
+                        "entity id": "Q1546",
+                        "label": "Iowa"
+                    },
+                    {
+                        "entity id": "Q1527",
+                        "label": "Minnesota"
+                    },
+                    {
+                        "entity id": "Q1581",
+                        "label": "Missouri"
+                    },
+                    {
+                        "entity id": "Q1207",
+                        "label": "North Dakota"
+                    },
+                    {
+                        "entity id": "Q1211",
+                        "label": "South Dakota"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "First Principal Meridian",
+                [
+                    "/wiki/First_Principal_Meridian"
+                ],
+                [
+                    {
+                        "entity id": "Q5454238",
+                        "label": "First principal meridian"
+                    }
+                ]
+            ],
+            [
+                "1819",
+                []
+            ],
+            [
+                "40\u00b059\u203222\u2033N 84\u00b048\u203211\u2033W / 40.98944\u00b0N 84.80306\u00b0W / 40.98944 ; -84.80306 ( First Principal Meridian )",
+                []
+            ],
+            [
+                "Ohio & Indiana",
+                [
+                    "/wiki/Ohio",
+                    "/wiki/Indiana"
+                ],
+                [
+                    {
+                        "entity id": "Q1397",
+                        "label": "Ohio"
+                    },
+                    {
+                        "entity id": "Q1415",
+                        "label": "Indiana"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Fourth Principal Meridian",
+                [
+                    "/wiki/Fourth_Principal_Meridian"
+                ],
+                [
+                    {
+                        "entity id": "Q5476283",
+                        "label": "Fourth principal meridian"
+                    }
+                ]
+            ],
+            [
+                "1815",
+                []
+            ],
+            [
+                "40\u00b000\u203250\u2033N 90\u00b027\u203211\u2033W / 40.01389\u00b0N 90.45306\u00b0W / 40.01389 ; -90.45306 ( Fourth Principal Meridian )",
+                []
+            ],
+            [
+                "Illinois",
+                [
+                    "/wiki/Illinois"
+                ],
+                [
+                    {
+                        "entity id": "Q1204",
+                        "label": "Illinois"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Fourth Principal Extended Meridian",
+                [
+                    "/wiki/Fourth_Principal_Extended_Meridian"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1831",
+                []
+            ],
+            [
+                "42\u00b030\u203227\u2033N 90\u00b025\u203237\u2033W / 42.50750\u00b0N 90.42694\u00b0W / 42.50750 ; -90.42694 ( Fourth Principal Extended Meridian )",
+                []
+            ],
+            [
+                "Minnesota & Wisconsin",
+                [
+                    "/wiki/Minnesota",
+                    "/wiki/Wisconsin"
+                ],
+                [
+                    {
+                        "entity id": "Q1527",
+                        "label": "Minnesota"
+                    },
+                    {
+                        "entity id": "Q1537",
+                        "label": "Wisconsin"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Gila and Salt River Meridian",
+                [
+                    "/wiki/Gila_and_Salt_River_Meridian"
+                ],
+                [
+                    {
+                        "entity id": "Q5560679",
+                        "label": "Gila and Salt River meridian"
+                    }
+                ]
+            ],
+            [
+                "1865",
+                []
+            ],
+            [
+                "33\u00b022\u203238\u2033N 112\u00b018\u203219\u2033W / 33.37722\u00b0N 112.30528\u00b0W / 33.37722 ; -112.30528 ( Gila and Salt River Meridian )",
+                []
+            ],
+            [
+                "Arizona",
+                [
+                    "/wiki/Arizona"
+                ],
+                [
+                    {
+                        "entity id": "Q816",
+                        "label": "Arizona"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Humboldt Meridian",
+                [
+                    "/wiki/Humboldt_Meridian"
+                ],
+                [
+                    {
+                        "entity id": "Q5940451",
+                        "label": "Humboldt meridian"
+                    }
+                ]
+            ],
+            [
+                "1853",
+                []
+            ],
+            [
+                "40\u00b025\u203202\u2033N 124\u00b007\u203210\u2033W / 40.41722\u00b0N 124.11944\u00b0W / 40.41722 ; -124.11944 ( Humboldt Meridian )",
+                []
+            ],
+            [
+                "California",
+                [
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Huntsville Meridian",
+                [
+                    "/wiki/Huntsville_Meridian"
+                ],
+                [
+                    {
+                        "entity id": "Q5945920",
+                        "label": "Huntsville meridian"
+                    }
+                ]
+            ],
+            [
+                "1807",
+                []
+            ],
+            [
+                "34\u00b059\u203227\u2033N 86\u00b034\u203216\u2033W / 34.99083\u00b0N 86.57111\u00b0W / 34.99083 ; -86.57111 ( Huntsville Meridian )",
+                []
+            ],
+            [
+                "Alabama & Mississippi",
+                [
+                    "/wiki/Alabama",
+                    "/wiki/Mississippi"
+                ],
+                [
+                    {
+                        "entity id": "Q173",
+                        "label": "Alabama"
+                    },
+                    {
+                        "entity id": "Q1494",
+                        "label": "Mississippi"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Indian Meridian",
+                [
+                    "/wiki/Indian_Meridian"
+                ],
+                [
+                    {
+                        "entity id": "Q6022633",
+                        "label": "Indian meridian"
+                    }
+                ]
+            ],
+            [
+                "1870",
+                []
+            ],
+            [
+                "34\u00b029\u203232\u2033N 97\u00b014\u203249\u2033W / 34.49222\u00b0N 97.24694\u00b0W / 34.49222 ; -97.24694 ( Indian Meridian )",
+                []
+            ],
+            [
+                "Oklahoma",
+                [
+                    "/wiki/Oklahoma"
+                ],
+                [
+                    {
+                        "entity id": "Q1649",
+                        "label": "Oklahoma"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kateel River Meridian",
+                [
+                    "/wiki/Kateel_River_Meridian"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1956",
+                []
+            ],
+            [
+                "65\u00b026\u203216.374\u2033N 158\u00b045\u203231.01\u2033W / 65.43788167\u00b0N 158.7586139\u00b0W / 65.43788167 ; -158.7586139 ( Kateel River Meridian )",
+                []
+            ],
+            [
+                "Alaska",
+                [
+                    "/wiki/Alaska"
+                ],
+                [
+                    {
+                        "entity id": "Q797",
+                        "label": "Alaska"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Louisiana Meridian",
+                [
+                    "/wiki/Louisiana_Meridian"
+                ],
+                [
+                    {
+                        "entity id": "Q6689400",
+                        "label": "Louisiana meridian"
+                    }
+                ]
+            ],
+            [
+                "1807",
+                []
+            ],
+            [
+                "31\u00b000\u203231\u2033N 92\u00b024\u203255\u2033W / 31.00861\u00b0N 92.41528\u00b0W / 31.00861 ; -92.41528 ( Louisiana Meridian )",
+                []
+            ],
+            [
+                "Louisiana",
+                [
+                    "/wiki/Louisiana"
+                ],
+                [
+                    {
+                        "entity id": "Q1588",
+                        "label": "Louisiana"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Michigan Meridian",
+                [
+                    "/wiki/Michigan_Meridian"
+                ],
+                [
+                    {
+                        "entity id": "Q6837835",
+                        "label": "Michigan meridian"
+                    }
+                ]
+            ],
+            [
+                "1815",
+                []
+            ],
+            [
+                "42\u00b025\u203228\u2033N 84\u00b021\u203253\u2033W / 42.42444\u00b0N 84.36472\u00b0W / 42.42444 ; -84.36472 ( Michigan Meridian )",
+                []
+            ],
+            [
+                "Michigan & Ohio",
+                [
+                    "/wiki/Michigan",
+                    "/wiki/Ohio"
+                ],
+                [
+                    {
+                        "entity id": "Q1166",
+                        "label": "Michigan"
+                    },
+                    {
+                        "entity id": "Q1397",
+                        "label": "Ohio"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mount Diablo Meridian",
+                [
+                    "/wiki/Mount_Diablo_Meridian"
+                ],
+                [
+                    {
+                        "entity id": "Q6920438",
+                        "label": "Mount Diablo meridian"
+                    }
+                ]
+            ],
+            [
+                "1851",
+                []
+            ],
+            [
+                "37\u00b052\u203254\u2033N 121\u00b054\u203247\u2033W / 37.88167\u00b0N 121.91306\u00b0W / 37.88167 ; -121.91306 ( Mount Diablo Meridian )",
+                []
+            ],
+            [
+                "California & Nevada",
+                [
+                    "/wiki/California",
+                    "/wiki/Nevada"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    },
+                    {
+                        "entity id": "Q1227",
+                        "label": "Nevada"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Navajo Meridian",
+                [
+                    "/wiki/Navajo_Meridian"
+                ],
+                [
+                    {
+                        "entity id": "Q6981663",
+                        "label": "Navajo meridian and baseline"
+                    }
+                ]
+            ],
+            [
+                "1869",
+                []
+            ],
+            [
+                "35\u00b044\u203256\u2033N 108\u00b031\u203259\u2033W / 35.74889\u00b0N 108.53306\u00b0W / 35.74889 ; -108.53306 ( Navajo Meridian )",
+                []
+            ],
+            [
+                "Arizona",
+                [
+                    "/wiki/Arizona"
+                ],
+                [
+                    {
+                        "entity id": "Q816",
+                        "label": "Arizona"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "List of meridians",
+    "section_text": "Main article : List of principal and guide meridians and base lines of the United States",
+    "uid": "Public_Land_Survey_System_0",
+    "intro": "The Public Land Survey System (PLSS) is the surveying method developed and used in the United States to plat, or divide, real property for sale and settling. Also known as the Rectangular Survey System, it was created by the Land Ordinance of 1785 to survey land ceded to the United States by the Treaty of Paris in 1783, following the end of the American Revolution. Beginning with the Seven Ranges, in present-day Ohio, the PLSS has been used as the primary survey method in the United States. Following the passage of the Northwest Ordinance, in 1787, the Surveyor General of the Northwest Territory platted lands in the Northwest Territory. The Surveyor General was later merged with the General Land Office, which later became a part of the U.S. Bureau of Land Management (BLM). Today, the BLM controls the survey, sale, and settling of the new lands."
+}

@@ -1,0 +1,618 @@
+{
+    "url": "https://en.wikipedia.org/wiki/ISO_3166-2:BD",
+    "title": "ISO 3166-2:BD",
+    "header": [
+        [
+            "Code",
+            []
+        ],
+        [
+            "Subdivision name",
+            []
+        ],
+        [
+            "In division",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "BD-05",
+                []
+            ],
+            [
+                "Bagerhat",
+                [
+                    "/wiki/Bagerhat_District"
+                ],
+                [
+                    {
+                        "entity id": "Q2344861",
+                        "label": "Bagerhat District"
+                    }
+                ]
+            ],
+            [
+                "D",
+                [
+                    "/wiki/Khulna_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q501696",
+                        "label": "Khulna Division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BD-01",
+                []
+            ],
+            [
+                "Bandarban",
+                [
+                    "/wiki/Bandarban_District"
+                ],
+                [
+                    {
+                        "entity id": "Q806273",
+                        "label": "Bandarban District"
+                    }
+                ]
+            ],
+            [
+                "B",
+                [
+                    "/wiki/Chittagong_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q158087",
+                        "label": "Chattogram Division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BD-02",
+                []
+            ],
+            [
+                "Barguna",
+                [
+                    "/wiki/Barguna_District"
+                ],
+                [
+                    {
+                        "entity id": "Q808172",
+                        "label": "Barguna District"
+                    }
+                ]
+            ],
+            [
+                "A",
+                [
+                    "/wiki/Barisal_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q459723",
+                        "label": "Barisal Division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BD-06",
+                []
+            ],
+            [
+                "Barisal",
+                [
+                    "/wiki/Barisal_District"
+                ],
+                [
+                    {
+                        "entity id": "Q1763301",
+                        "label": "Barisal District"
+                    }
+                ]
+            ],
+            [
+                "A",
+                [
+                    "/wiki/Barisal_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q459723",
+                        "label": "Barisal Division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BD-07",
+                []
+            ],
+            [
+                "Bhola",
+                [
+                    "/wiki/Bhola_District"
+                ],
+                [
+                    {
+                        "entity id": "Q855042",
+                        "label": "Bhola District"
+                    }
+                ]
+            ],
+            [
+                "A",
+                [
+                    "/wiki/Barisal_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q459723",
+                        "label": "Barisal Division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BD-03",
+                []
+            ],
+            [
+                "Bogra",
+                [
+                    "/wiki/Bogra_District"
+                ],
+                [
+                    {
+                        "entity id": "Q2039066",
+                        "label": "Bogura District"
+                    }
+                ]
+            ],
+            [
+                "E",
+                [
+                    "/wiki/Rajshahi_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q379382",
+                        "label": "Rajshahi Division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BD-04",
+                []
+            ],
+            [
+                "Brahmanbaria",
+                [
+                    "/wiki/Brahmanbaria_District"
+                ],
+                [
+                    {
+                        "entity id": "Q897330",
+                        "label": "Brahmanbaria District"
+                    }
+                ]
+            ],
+            [
+                "B",
+                [
+                    "/wiki/Chittagong_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q158087",
+                        "label": "Chattogram Division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BD-09",
+                []
+            ],
+            [
+                "Chandpur",
+                [
+                    "/wiki/Chandpur_District"
+                ],
+                [
+                    {
+                        "entity id": "Q1429697",
+                        "label": "Chandpur District"
+                    }
+                ]
+            ],
+            [
+                "B",
+                [
+                    "/wiki/Chittagong_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q158087",
+                        "label": "Chattogram Division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BD-45",
+                []
+            ],
+            [
+                "Chapai Nawabganj",
+                [
+                    "/wiki/Chapai_Nawabganj_District"
+                ],
+                [
+                    {
+                        "entity id": "Q46043",
+                        "label": "Chapai Nawabganj District"
+                    }
+                ]
+            ],
+            [
+                "E",
+                [
+                    "/wiki/Rajshahi_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q379382",
+                        "label": "Rajshahi Division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BD-10",
+                []
+            ],
+            [
+                "Chittagong",
+                [
+                    "/wiki/Chittagong_District"
+                ],
+                [
+                    {
+                        "entity id": "Q1074991",
+                        "label": "Chattogram District"
+                    }
+                ]
+            ],
+            [
+                "B",
+                [
+                    "/wiki/Chittagong_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q158087",
+                        "label": "Chattogram Division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BD-12",
+                []
+            ],
+            [
+                "Chuadanga",
+                [
+                    "/wiki/Chuadanga_District"
+                ],
+                [
+                    {
+                        "entity id": "Q2094570",
+                        "label": "Chuadanga District"
+                    }
+                ]
+            ],
+            [
+                "D",
+                [
+                    "/wiki/Khulna_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q501696",
+                        "label": "Khulna Division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BD-08",
+                []
+            ],
+            [
+                "Comilla",
+                [
+                    "/wiki/Comilla_District"
+                ],
+                [
+                    {
+                        "entity id": "Q1480778",
+                        "label": "Comilla District"
+                    }
+                ]
+            ],
+            [
+                "B",
+                [
+                    "/wiki/Chittagong_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q158087",
+                        "label": "Chattogram Division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BD-11",
+                []
+            ],
+            [
+                "Cox 's Bazar",
+                [
+                    "/wiki/Cox's_Bazar_District"
+                ],
+                [
+                    {
+                        "entity id": "Q1122278",
+                        "label": "Cox's Bazar District"
+                    }
+                ]
+            ],
+            [
+                "B",
+                [
+                    "/wiki/Chittagong_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q158087",
+                        "label": "Chattogram Division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BD-13",
+                []
+            ],
+            [
+                "Dhaka",
+                [
+                    "/wiki/Dhaka_District"
+                ],
+                [
+                    {
+                        "entity id": "Q1850485",
+                        "label": "Dhaka District"
+                    }
+                ]
+            ],
+            [
+                "C",
+                [
+                    "/wiki/Dhaka_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q330158",
+                        "label": "Dhaka Division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BD-14",
+                []
+            ],
+            [
+                "Dinajpur",
+                [
+                    "/wiki/Dinajpur_District_(Bangladesh)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "F",
+                [
+                    "/wiki/Rangpur_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q876023",
+                        "label": "Rangpur Division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BD-15",
+                []
+            ],
+            [
+                "Faridpur",
+                [
+                    "/wiki/Faridpur_District"
+                ],
+                [
+                    {
+                        "entity id": "Q2093552",
+                        "label": "Faridpur District"
+                    }
+                ]
+            ],
+            [
+                "C",
+                [
+                    "/wiki/Dhaka_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q330158",
+                        "label": "Dhaka Division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BD-16",
+                []
+            ],
+            [
+                "Feni",
+                [
+                    "/wiki/Feni_District"
+                ],
+                [
+                    {
+                        "entity id": "Q1404741",
+                        "label": "Feni District"
+                    }
+                ]
+            ],
+            [
+                "B",
+                [
+                    "/wiki/Chittagong_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q158087",
+                        "label": "Chattogram Division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BD-19",
+                []
+            ],
+            [
+                "Gaibandha",
+                [
+                    "/wiki/Gaibandha_District"
+                ],
+                [
+                    {
+                        "entity id": "Q2344595",
+                        "label": "Gaibandha District"
+                    }
+                ]
+            ],
+            [
+                "F",
+                [
+                    "/wiki/Rangpur_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q876023",
+                        "label": "Rangpur Division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BD-18",
+                []
+            ],
+            [
+                "Gazipur",
+                [
+                    "/wiki/Gazipur_District"
+                ],
+                [
+                    {
+                        "entity id": "Q2094101",
+                        "label": "Gazipur District"
+                    }
+                ]
+            ],
+            [
+                "C",
+                [
+                    "/wiki/Dhaka_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q330158",
+                        "label": "Dhaka Division"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BD-17",
+                []
+            ],
+            [
+                "Gopalganj",
+                [
+                    "/wiki/Gopalganj_District_(Bangladesh)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "C",
+                [
+                    "/wiki/Dhaka_Division"
+                ],
+                [
+                    {
+                        "entity id": "Q330158",
+                        "label": "Dhaka Division"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Current codes -- Districts",
+    "section_text": "",
+    "uid": "ISO_3166-2:BD_1",
+    "intro": "ISO 3166-2:BD is the entry for Bangladesh in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1. Currently for Bangladesh, ISO 3166-2 codes are defined for two levels of subdivisions:"
+}

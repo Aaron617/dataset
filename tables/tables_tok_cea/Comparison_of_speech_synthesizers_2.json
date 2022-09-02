@@ -1,0 +1,901 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_speech_synthesizers",
+    "title": "Comparison of speech synthesizers",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Online demo",
+            []
+        ],
+        [
+            "Available language ( s )",
+            []
+        ],
+        [
+            "Available voices",
+            []
+        ],
+        [
+            "Programming language",
+            []
+        ],
+        [
+            "Operating system ( s )",
+            [
+                "/wiki/Operating_system"
+            ],
+            [
+                {
+                    "entity id": "Q9135",
+                    "label": "operating system"
+                }
+            ]
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Alfanum TTS",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Serbian , Croatian",
+                []
+            ],
+            [
+                "8",
+                []
+            ],
+            [
+                "C++",
+                []
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Apple PlainTalk",
+                [
+                    "/wiki/PlainTalk"
+                ],
+                [
+                    {
+                        "entity id": "Q7200603",
+                        "label": "PlainTalk"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "English ( United States ) ,",
+                []
+            ],
+            [
+                "15+",
+                []
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "Macintosh",
+                [
+                    "/wiki/Macintosh"
+                ],
+                [
+                    {
+                        "entity id": "Q43627",
+                        "label": "Macintosh operating systems"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "AT & T Natural Voices",
+                [
+                    "/wiki/AT&T_Labs"
+                ],
+                [
+                    {
+                        "entity id": "Q4654544",
+                        "label": "AT&T Labs"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "English ( British ) , English ( Indian ) , English ( US ) , French , French ( Canadian ) , German , Italian , Spanish ( Latin American )",
+                []
+            ],
+            [
+                "20",
+                []
+            ],
+            [
+                "C++",
+                []
+            ],
+            [
+                "Linux Windows",
+                [
+                    "/wiki/Linux",
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "AWS Polly",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Arabic ( arb ) , Chinese , Mandarin ( cmn-CN ) , Danish ( da-DK ) , Dutch ( nl-NL ) , English ( Australian ) ( en-AU ) , English ( British ) ( en-GB ) , English ( Indian ) ( en-IN ) , English ( US ) ( en-US ) , English ( Welsh ) ( en-GB-WLS ) , French ( fr-FR ) , French ( Canadian ) ( fr-CA ) , German ( de-DE ) , Hindi ( hi-IN ) , Icelandic ( is-IS ) , Italian ( it-IT ) , Japanese ( ja-JP ) , Korean ( ko-KR ) , Norwegian ( nb-NO ) , Polish ( pl-PL ) , Portuguese ( Brazilian ) ( pt-BR ) , Portuguese ( European ) ( pt-PT ) , Romanian ( ro-RO ) , Russian ( ru-RU ) , Spanish ( European ) ( es-ES ) , Spanish ( Mexican ) ( es-MX ) , Spanish ( US ) ( es-US ) , Swedish ( sv-SE ) , Turkish ( tr-TR ) , Welsh ( cy-GB )",
+                []
+            ],
+            [
+                "60 ( male , female for most languages . For some languages child and different dialect )",
+                []
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "windows , linux , bsd , apple macos , rest api",
+                []
+            ]
+        ],
+        [
+            [
+                "Cepstral",
+                [
+                    "/wiki/Cepstral_LLC"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "English ( British ) , English ( US ) , Italian , French ( Canadian ) , German , Spanish ( American ) ,",
+                []
+            ],
+            [
+                "25+",
+                []
+            ],
+            [
+                "C/C++",
+                []
+            ],
+            [
+                "Mac OS X Windows i386-Linux x86-64-Linux Sparc-Solaris i386-Solaris",
+                [
+                    "/wiki/Mac_OS_X",
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux",
+                    "/wiki/Linux",
+                    "/wiki/Solaris_(operating_system)",
+                    "/wiki/Solaris_(operating_system)"
+                ],
+                [
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {},
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "CereProc",
+                [
+                    "/wiki/CereProc"
+                ],
+                [
+                    {
+                        "entity id": "Q5064047",
+                        "label": "CereProc"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "English ( British ) , English ( US ) , English ( Scottish ) , English ( Irish ) , French , French ( Canadian ) , German , Austrian German , Italian , Irish , Spanish ( Castilian ) , Spanish ( Latin American ) , Dutch , Polish , Portuguese , Portuguese ( Brazilian ) , Japanese , Catalan , Scottish Gaelic , Swedish , Russian , Mandarin",
+                []
+            ],
+            [
+                "46",
+                []
+            ],
+            [
+                "Java / C C++ / Objective C / Python / C # & .Net through SAPI",
+                [
+                    "/wiki/C_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Linux Windows Mac OS X Embedded Linux Android iOS Cloud service",
+                [
+                    "/wiki/Linux",
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Mac_OS_X",
+                    "/wiki/Embedded_Linux",
+                    "/wiki/Android_(operating_system)",
+                    "/wiki/IOS",
+                    "/wiki/Cloud_computing"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q1199316",
+                        "label": "embedded Linux distribution"
+                    },
+                    {
+                        "entity id": "Q94",
+                        "label": "Android"
+                    },
+                    {
+                        "entity id": "Q48493",
+                        "label": "iOS"
+                    },
+                    {
+                        "entity id": "Q483639",
+                        "label": "cloud computing"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "CPqD Texto Fala",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Brazilian Portuguese , Latin American Spanish , US English",
+                []
+            ],
+            [
+                "5",
+                []
+            ],
+            [
+                "C , C++ and Java",
+                [
+                    "/wiki/C_(programming_language)",
+                    "/wiki/C++",
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Windows Linux Android iOS",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux",
+                    "/wiki/Android_(operating_system)",
+                    "/wiki/IOS"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q94",
+                        "label": "Android"
+                    },
+                    {
+                        "entity id": "Q48493",
+                        "label": "iOS"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Ekho",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Cantonese , Mandarin ( standard Chinese ) , Zhaoan Hakka ( a dialect in Taiwan ) , Tibetan , Ngangien ( an ancient Chinese before Yuan Dynasty ) and Korean",
+                []
+            ],
+            [
+                "7",
+                []
+            ],
+            [
+                "C++",
+                [
+                    "/wiki/C++"
+                ],
+                [
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    }
+                ]
+            ],
+            [
+                "Linux Windows Android",
+                [
+                    "/wiki/Linux",
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Android_(operating_system)"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q94",
+                        "label": "Android"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "eSpeak",
+                [
+                    "/wiki/ESpeak"
+                ],
+                [
+                    {
+                        "entity id": "Q3733071",
+                        "label": "eSpeak"
+                    }
+                ]
+            ],
+            [
+                "Samples",
+                []
+            ],
+            [
+                "Afrikaans , Albanian , Armenian , Cantonese , Catalan , Croatian , Czech , Danish , Dutch , English ( British , US , Scottish , Westindies ... ) , Esperanto , Estonian , Finnish , French ( France , Belgium ) , Georgian , German , Greek , Hindi , Hungarian , Icelandic , Indonesian , Italian , Kannada , Kurdish , Latvian , Lojban , Macedonian , Malayalam , Mandarin , Norwegian , Persian ( Farsi ) , Polish , Portuguese , Romanian , Russian , Serbian , Slovak , Spanish , Swahili , Swedish , Tamil , Turkish , Vietnamese , Welsh",
+                []
+            ],
+            [
+                "Several",
+                []
+            ],
+            [
+                "C++",
+                [
+                    "/wiki/C++"
+                ],
+                [
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    }
+                ]
+            ],
+            [
+                "Linux Windows Mac OS X RISC OS",
+                [
+                    "/wiki/Linux",
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Mac_OS_X",
+                    "/wiki/RISC_OS"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q1202514",
+                        "label": "RISC OS"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Expressive Speech",
+                []
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "French , French ( Canadian ) , French ( African ) , UK English , US English , Spanish , German , Italian , Arabic , Wolof",
+                []
+            ],
+            [
+                "50",
+                []
+            ],
+            [
+                "C / C++ / Java / Python",
+                [
+                    "/wiki/C_(programming_language)",
+                    "/wiki/C++",
+                    "/wiki/Java_(programming_language)",
+                    "/wiki/Python_(programming_language)"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    },
+                    {},
+                    {
+                        "entity id": "Q28865",
+                        "label": "Python"
+                    }
+                ]
+            ],
+            [
+                "Windows Linux Android",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux",
+                    "/wiki/Android_(operating_system)"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q94",
+                        "label": "Android"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Festival Speech Synthesis System",
+                [
+                    "/wiki/Festival_Speech_Synthesis_System"
+                ],
+                [
+                    {
+                        "entity id": "Q1408535",
+                        "label": "Festival Speech Synthesis System"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "English ( UK ) , English ( US ) , Spanish , Hindi , Croatian , Finnish , Polish , Welsh",
+                []
+            ],
+            [
+                "Several",
+                []
+            ],
+            [
+                "C++",
+                [
+                    "/wiki/C++"
+                ],
+                [
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    }
+                ]
+            ],
+            [
+                "Linux Windows",
+                [
+                    "/wiki/Linux",
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FreeTTS",
+                [
+                    "/wiki/FreeTTS"
+                ],
+                [
+                    {
+                        "entity id": "Q458340",
+                        "label": "FreeTTS"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "English",
+                []
+            ],
+            [
+                "Several",
+                []
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "LumenVox",
+                [
+                    "/wiki/LumenVox"
+                ],
+                [
+                    {
+                        "entity id": "Q6703182",
+                        "label": "LumenVox"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Danish , Dutch , English ( Australian ) , English ( US ) , English ( UK ) , English ( Welsh ) , English ( Indian ) , French , French ( Canadian ) , German , Icelandic , Italian , Polish , Portuguese , Portuguese ( Brazilian ) , Romanian , Russian , Spanish ( North American ) , Spanish ( Latin American ) , Spanish ( Castilian ) , Swedish , Turkish , Welsh , Welsh English",
+                []
+            ],
+            [
+                "57",
+                []
+            ],
+            [
+                "C / C++",
+                [
+                    "/wiki/C_(programming_language)",
+                    "/wiki/C++"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    }
+                ]
+            ],
+            [
+                "Windows Linux",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Nuance Vocalizer",
+                [
+                    "/wiki/Nuance_Communications"
+                ],
+                [
+                    {
+                        "entity id": "Q1137289",
+                        "label": "Nuance Communications"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "US English , Australian English , Indian English , Irish English , South African English , UK English , Argentinian Spanish , Castilian Spanish , Colombian Spanish , Mexican Spanish , Arabic , Catalan , Basque , Galician , Dutch , Belgian Dutch , Portuguese , Brazilian Portuguese , Bulgarian , French , Canadian French , Cantonese ( Hong Kong ) , Mandarin , Mandarin Taiwanese , Czech , Danish , Finnish , German , Greek , Hebrew , Hindi , Hungarian , Indonesian , Italian , Japanese , Korean , Norwegian , Polish , Romanian , Russian , Slovak , Swedish , Thai , Turkish",
+                []
+            ],
+            [
+                "70+",
+                []
+            ],
+            [
+                "C/C++",
+                []
+            ],
+            [
+                "Windows Linux Android",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux",
+                    "/wiki/Android_(operating_system)"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q94",
+                        "label": "Android"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Praat",
+                [
+                    "/wiki/Praat"
+                ],
+                [
+                    {
+                        "entity id": "Q378530",
+                        "label": "Praat"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "C",
+                [
+                    "/wiki/C_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Windows Linux Macintosh FreeBSD Solaris",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux",
+                    "/wiki/Macintosh",
+                    "/wiki/FreeBSD",
+                    "/wiki/Solaris_(operating_system)"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q43627",
+                        "label": "Macintosh operating systems"
+                    },
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "VoiceText",
+                [
+                    "/wiki/NeoSpeech"
+                ],
+                [
+                    {
+                        "entity id": "Q16955618",
+                        "label": "NeoSpeech"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "English ( US ) , English ( British ) , American Spanish , Canadian French , Chinese Mandarin , Japanese , Korean",
+                []
+            ],
+            [
+                "13",
+                []
+            ],
+            [
+                "C / C++ / Java",
+                [
+                    "/wiki/C_(programming_language)",
+                    "/wiki/C++",
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Windows Linux",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Technical details",
+    "section_text": "",
+    "uid": "Comparison_of_speech_synthesizers_2",
+    "intro": "Here is a non-exhaustive comparison of speech synthesis programs:"
+}

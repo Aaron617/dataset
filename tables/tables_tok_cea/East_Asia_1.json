@@ -1,0 +1,406 @@
+{
+    "url": "https://en.wikipedia.org/wiki/East_Asia",
+    "title": "East Asia",
+    "header": [
+        [
+            "State/Territory",
+            []
+        ],
+        [
+            "Area km",
+            [
+                "/wiki/List_of_countries_by_area"
+            ],
+            [
+                {}
+            ]
+        ],
+        [
+            "Population ( 2018 )",
+            [
+                "/wiki/List_of_countries_by_population"
+            ],
+            [
+                {
+                    "entity id": "Q3517895",
+                    "label": "list of countries by population growth rate"
+                }
+            ]
+        ],
+        [
+            "Population density per km",
+            [
+                "/wiki/List_of_countries_by_population_density"
+            ],
+            [
+                {
+                    "entity id": "Q176310",
+                    "label": "list of countries and dependencies by population density"
+                }
+            ]
+        ],
+        [
+            "HDI",
+            [
+                "/wiki/List_of_countries_by_Human_Development_Index"
+            ],
+            [
+                {
+                    "entity id": "Q176793",
+                    "label": "list of countries by Human Development Index"
+                }
+            ]
+        ],
+        [
+            "Capital/Administrative Center",
+            [
+                "/wiki/Capital_(political)"
+            ],
+            [
+                {}
+            ]
+        ]
+    ],
+    "data": [
+        [
+            [
+                "China",
+                [
+                    "/wiki/China"
+                ],
+                [
+                    {
+                        "entity id": "Q148",
+                        "label": "People's Republic of China"
+                    }
+                ]
+            ],
+            [
+                "9,640,011",
+                []
+            ],
+            [
+                "1,427,647,786",
+                []
+            ],
+            [
+                "138",
+                []
+            ],
+            [
+                "0.752",
+                []
+            ],
+            [
+                "Beijing",
+                [
+                    "/wiki/Beijing"
+                ],
+                [
+                    {
+                        "entity id": "Q956",
+                        "label": "Beijing"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Hong Kong",
+                [
+                    "/wiki/Hong_Kong"
+                ],
+                [
+                    {
+                        "entity id": "Q8646",
+                        "label": "Hong Kong"
+                    }
+                ]
+            ],
+            [
+                "1,104",
+                []
+            ],
+            [
+                "7,371,730",
+                []
+            ],
+            [
+                "6,390",
+                []
+            ],
+            [
+                "0.933",
+                []
+            ],
+            [
+                "Hong Kong",
+                [
+                    "/wiki/Hong_Kong"
+                ],
+                [
+                    {
+                        "entity id": "Q8646",
+                        "label": "Hong Kong"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Macau",
+                [
+                    "/wiki/Macau"
+                ],
+                [
+                    {
+                        "entity id": "Q14773",
+                        "label": "Macau"
+                    }
+                ]
+            ],
+            [
+                "30",
+                []
+            ],
+            [
+                "631,636",
+                []
+            ],
+            [
+                "18,662",
+                []
+            ],
+            [
+                "0.909",
+                []
+            ],
+            [
+                "Macao",
+                [
+                    "/wiki/Macao"
+                ],
+                [
+                    {
+                        "entity id": "Q14773",
+                        "label": "Macau"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Japan",
+                [
+                    "/wiki/Japan"
+                ],
+                [
+                    {
+                        "entity id": "Q17",
+                        "label": "Japan"
+                    }
+                ]
+            ],
+            [
+                "377,930",
+                []
+            ],
+            [
+                "127,202,192",
+                []
+            ],
+            [
+                "337",
+                []
+            ],
+            [
+                "0.909",
+                []
+            ],
+            [
+                "Tokyo",
+                [
+                    "/wiki/Tokyo"
+                ],
+                [
+                    {
+                        "entity id": "Q1490",
+                        "label": "Tokyo"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mongolia",
+                [
+                    "/wiki/Mongolia"
+                ],
+                [
+                    {
+                        "entity id": "Q711",
+                        "label": "Mongolia"
+                    }
+                ]
+            ],
+            [
+                "1,564,100",
+                []
+            ],
+            [
+                "3,170,216",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "0.741",
+                []
+            ],
+            [
+                "Ulaanbaatar",
+                [
+                    "/wiki/Ulaanbaatar"
+                ],
+                [
+                    {
+                        "entity id": "Q23430",
+                        "label": "Ulaanbaatar"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "North Korea",
+                [
+                    "/wiki/North_Korea"
+                ],
+                [
+                    {
+                        "entity id": "Q423",
+                        "label": "North Korea"
+                    }
+                ]
+            ],
+            [
+                "120,538",
+                []
+            ],
+            [
+                "25,549,604",
+                []
+            ],
+            [
+                "198",
+                []
+            ],
+            [
+                "0.733",
+                []
+            ],
+            [
+                "Pyongyang",
+                [
+                    "/wiki/Pyongyang"
+                ],
+                [
+                    {
+                        "entity id": "Q18808",
+                        "label": "Pyongyang"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "South Korea",
+                [
+                    "/wiki/South_Korea"
+                ],
+                [
+                    {
+                        "entity id": "Q884",
+                        "label": "South Korea"
+                    }
+                ]
+            ],
+            [
+                "100,210",
+                []
+            ],
+            [
+                "51,171,706",
+                []
+            ],
+            [
+                "500",
+                []
+            ],
+            [
+                "0.903",
+                []
+            ],
+            [
+                "Seoul",
+                [
+                    "/wiki/Seoul"
+                ],
+                [
+                    {
+                        "entity id": "Q8684",
+                        "label": "Seoul"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Taiwan",
+                [
+                    "/wiki/Taiwan"
+                ],
+                [
+                    {
+                        "entity id": "Q865",
+                        "label": "Taiwan"
+                    }
+                ]
+            ],
+            [
+                "36,188",
+                []
+            ],
+            [
+                "23,726,460",
+                []
+            ],
+            [
+                "639",
+                []
+            ],
+            [
+                "0.907",
+                []
+            ],
+            [
+                "Taipei",
+                [
+                    "/wiki/Taipei"
+                ],
+                [
+                    {
+                        "entity id": "Q865",
+                        "label": "Taiwan"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Territorial and regional data -- Demographics",
+    "section_text": "",
+    "uid": "East_Asia_1",
+    "intro": "East Asia is the eastern subregion of Asia, which is defined in both geographical and ethno-cultural terms. The region constitutes of China, Hong Kong, Macao, Mongolia, North Korea, South Korea, Japan, and Taiwan. People native to the region are known as East Asians. The East Asian states China, North Korea, South Korea, and Taiwan are all unrecognized by at least one other East Asian state. Hong Kong and Macau are officially highly autonomous but are under effective Chinese sovereignty. North Asia borders East Asia's north, Southeast Asia the south, South Asia the southwest, and Central Asia the west. To the east is the Pacific Ocean, and to the southeast is Micronesia (a Pacific Ocean island group, classified as part of Oceania). The region was the cradle of various ancient civilizations such as ancient China, ancient Japan, ancient Korea, and the Mongol Empire. East Asia was one of the cradles of world civilization, with China, an ancient East Asian civilization being one of the earliest cradles of civilization in human history. For thousands of years, China largely influenced East Asia as it was principally the leading civilization in the region exerting its enormous prestige and influence on its neighbors. Historically, societies in East Asia have been part of the Chinese sphere of influence, and East Asian vocabulary and scripts are often derived from Classical Chinese and Chinese script. The Chinese calendar preserves traditional East Asian culture and serves as the root to which many other East Asian calendars are derived from."
+}

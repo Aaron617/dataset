@@ -1,0 +1,756 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Greater_Houston_Area",
+    "title": "List of airports in the Greater Houston Area",
+    "header": [
+        [
+            "AIRPORT NAME",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "IATA",
+            [
+                "/wiki/IATA_airport_code"
+            ],
+            [
+                {
+                    "entity id": "Q192824",
+                    "label": "IATA airport code"
+                }
+            ]
+        ],
+        [
+            "ICAO",
+            [
+                "/wiki/ICAO_airport_code"
+            ],
+            [
+                {
+                    "entity id": "Q207529",
+                    "label": "ICAO airport code"
+                }
+            ]
+        ],
+        [
+            "Longest runway length ( ft )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "George Bush Intercontinental Airport",
+                [
+                    "/wiki/George_Bush_Intercontinental_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q744748",
+                        "label": "George Bush Intercontinental Airport"
+                    }
+                ]
+            ],
+            [
+                "Houston",
+                [
+                    "/wiki/Houston"
+                ],
+                [
+                    {
+                        "entity id": "Q16555",
+                        "label": "Houston"
+                    }
+                ]
+            ],
+            [
+                "IAH",
+                []
+            ],
+            [
+                "KIAH",
+                []
+            ],
+            [
+                "12,001",
+                []
+            ]
+        ],
+        [
+            [
+                "William P. Hobby Airport",
+                [
+                    "/wiki/William_P._Hobby_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q771340",
+                        "label": "William P. Hobby Airport"
+                    }
+                ]
+            ],
+            [
+                "Houston",
+                [
+                    "/wiki/Houston"
+                ],
+                [
+                    {
+                        "entity id": "Q16555",
+                        "label": "Houston"
+                    }
+                ]
+            ],
+            [
+                "HOU",
+                []
+            ],
+            [
+                "KHOU",
+                []
+            ],
+            [
+                "7,602",
+                []
+            ]
+        ],
+        [
+            [
+                "Texas Gulf Coast Regional Airport",
+                [
+                    "/wiki/Texas_Gulf_Coast_Regional_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q7707719",
+                        "label": "Texas Gulf Coast Regional Airport"
+                    }
+                ]
+            ],
+            [
+                "Angleton / Lake Jackson , Texas",
+                [
+                    "/wiki/Angleton,_Texas",
+                    "/wiki/Lake_Jackson,_Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q162489",
+                        "label": "Angleton"
+                    },
+                    {
+                        "entity id": "Q970581",
+                        "label": "Lake Jackson"
+                    }
+                ]
+            ],
+            [
+                "LJN",
+                []
+            ],
+            [
+                "KLBX",
+                []
+            ],
+            [
+                "7,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Scholes International Airport at Galveston",
+                [
+                    "/wiki/Scholes_International_Airport_at_Galveston"
+                ],
+                [
+                    {
+                        "entity id": "Q6587665",
+                        "label": "Scholes International Airport at Galveston"
+                    }
+                ]
+            ],
+            [
+                "Galveston",
+                [
+                    "/wiki/Galveston"
+                ],
+                [
+                    {
+                        "entity id": "Q135744",
+                        "label": "Galveston"
+                    }
+                ]
+            ],
+            [
+                "GLS",
+                []
+            ],
+            [
+                "KGLS",
+                []
+            ],
+            [
+                "6,001",
+                []
+            ]
+        ],
+        [
+            [
+                "Ellington Field",
+                [
+                    "/wiki/Ellington_Field"
+                ],
+                [
+                    {
+                        "entity id": "Q5365417",
+                        "label": "Ellington Field Joint Reserve Base"
+                    }
+                ]
+            ],
+            [
+                "Houston",
+                [
+                    "/wiki/Houston"
+                ],
+                [
+                    {
+                        "entity id": "Q16555",
+                        "label": "Houston"
+                    }
+                ]
+            ],
+            [
+                "EFD",
+                []
+            ],
+            [
+                "KEFD",
+                []
+            ],
+            [
+                "9,001",
+                []
+            ]
+        ],
+        [
+            [
+                "West Houston Airport",
+                [
+                    "/wiki/West_Houston_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q7985422",
+                        "label": "West Houston Airport"
+                    }
+                ]
+            ],
+            [
+                "Unincorporated Western Harris County",
+                []
+            ],
+            [
+                "IWS",
+                []
+            ],
+            [
+                "KIWS",
+                []
+            ],
+            [
+                "3,953",
+                []
+            ]
+        ],
+        [
+            [
+                "Houston Southwest Airport",
+                [
+                    "/wiki/Houston_Southwest_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3207537",
+                        "label": "Houston Southwest Airport"
+                    }
+                ]
+            ],
+            [
+                "Arcola",
+                [
+                    "/wiki/Arcola"
+                ],
+                [
+                    {
+                        "entity id": "Q581328",
+                        "label": "Arcola"
+                    }
+                ]
+            ],
+            [
+                "AXH",
+                []
+            ],
+            [
+                "KAXH",
+                []
+            ],
+            [
+                "5,002",
+                []
+            ]
+        ],
+        [
+            [
+                "Conroe-North Houston Regional Airport",
+                [
+                    "/wiki/Conroe-North_Houston_Regional_Airport"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Conroe",
+                [
+                    "/wiki/Conroe,_Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q260282",
+                        "label": "Conroe"
+                    }
+                ]
+            ],
+            [
+                "CXO",
+                []
+            ],
+            [
+                "KCXO",
+                []
+            ],
+            [
+                "7,501",
+                []
+            ]
+        ],
+        [
+            [
+                "Pearland Regional Airport",
+                [
+                    "/wiki/Pearland_Regional_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q7158227",
+                        "label": "Pearland Regional Airport"
+                    }
+                ]
+            ],
+            [
+                "Unincorporated Brazoria County",
+                []
+            ],
+            [
+                "LVJ",
+                []
+            ],
+            [
+                "KLVJ",
+                []
+            ],
+            [
+                "4,313",
+                []
+            ]
+        ],
+        [
+            [
+                "Sugar Land Regional Airport",
+                [
+                    "/wiki/Sugar_Land_Regional_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q10853515",
+                        "label": "Sugar Land Regional Airport"
+                    }
+                ]
+            ],
+            [
+                "Sugar Land",
+                [
+                    "/wiki/Sugar_Land"
+                ],
+                [
+                    {
+                        "entity id": "Q93340",
+                        "label": "Sugar Land"
+                    }
+                ]
+            ],
+            [
+                "SGR",
+                []
+            ],
+            [
+                "KSGR",
+                []
+            ],
+            [
+                "8,000",
+                []
+            ]
+        ],
+        [
+            [
+                "David Wayne Hooks Memorial Airport",
+                [
+                    "/wiki/David_Wayne_Hooks_Memorial_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1707737",
+                        "label": "David Wayne Hooks Memorial Airport"
+                    }
+                ]
+            ],
+            [
+                "Tomball",
+                [
+                    "/wiki/Tomball"
+                ],
+                [
+                    {
+                        "entity id": "Q684434",
+                        "label": "Tomball"
+                    }
+                ]
+            ],
+            [
+                "DWH",
+                []
+            ],
+            [
+                "KDWH",
+                []
+            ],
+            [
+                "7,009",
+                []
+            ]
+        ],
+        [
+            [
+                "La Porte Municipal Airport",
+                [
+                    "/wiki/La_Porte_Municipal_Airport_(Texas)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "La Porte",
+                [
+                    "/wiki/La_Porte,_Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q970829",
+                        "label": "La Porte"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "4,165",
+                []
+            ]
+        ],
+        [
+            [
+                "Chambers County Airport",
+                [
+                    "/wiki/Chambers_County_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1835720",
+                        "label": "Chambers County Airport"
+                    }
+                ]
+            ],
+            [
+                "Unincorporated Chambers County",
+                []
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "3,005",
+                []
+            ]
+        ],
+        [
+            [
+                "Cleveland Municipal Airport",
+                [
+                    "/wiki/Cleveland_Municipal_Airport_(Texas)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Cleveland , Texas",
+                [
+                    "/wiki/Cleveland,_Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q982045",
+                        "label": "Cleveland"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "5,001",
+                []
+            ]
+        ],
+        [
+            [
+                "Liberty Municipal Airport",
+                [
+                    "/wiki/Liberty_Municipal_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q6541887",
+                        "label": "Liberty Municipal Airport"
+                    }
+                ]
+            ],
+            [
+                "Liberty , Texas",
+                [
+                    "/wiki/Liberty,_Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q981297",
+                        "label": "Liberty"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "3,801",
+                []
+            ]
+        ],
+        [
+            [
+                "Alvin Airpark",
+                []
+            ],
+            [
+                "Alvin , Texas",
+                [
+                    "/wiki/Alvin,_Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q449033",
+                        "label": "Alvin"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "6R5",
+                []
+            ],
+            [
+                "1,500",
+                []
+            ]
+        ],
+        [
+            [
+                "Flyin Tiger Airport",
+                []
+            ],
+            [
+                "Angleton",
+                [
+                    "/wiki/Angleton,_Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q162489",
+                        "label": "Angleton"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "81D",
+                []
+            ],
+            [
+                "2,261",
+                []
+            ]
+        ],
+        [
+            [
+                "Bailes Airport",
+                []
+            ],
+            [
+                "Angleton",
+                [
+                    "/wiki/Angleton,_Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q162489",
+                        "label": "Angleton"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "2,060",
+                []
+            ]
+        ],
+        [
+            [
+                "Baytown Airport",
+                [
+                    "/wiki/Baytown_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2264909",
+                        "label": "Baytown Airport"
+                    }
+                ]
+            ],
+            [
+                "Baytown",
+                [
+                    "/wiki/Baytown,_Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q812646",
+                        "label": "Baytown"
+                    }
+                ]
+            ],
+            [
+                "HPY",
+                []
+            ],
+            [
+                "KHPY",
+                []
+            ],
+            [
+                "4,334",
+                []
+            ]
+        ],
+        [
+            [
+                "RWJ Airpark",
+                [
+                    "/wiki/RWJ_Airpark"
+                ],
+                [
+                    {
+                        "entity id": "Q7278116",
+                        "label": "RWJ Airpark"
+                    }
+                ]
+            ],
+            [
+                "Beach City , Texas",
+                [
+                    "/wiki/Beach_City,_Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q812835",
+                        "label": "Beach City"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "54T",
+                []
+            ],
+            [
+                "5,035",
+                []
+            ]
+        ]
+    ],
+    "section_title": "List",
+    "section_text": "",
+    "uid": "List_of_airports_in_the_Greater_Houston_Area_0",
+    "intro": "Houston, Texas has many airports due to it being the 4th largest city in the United States. Here are some of the airports:"
+}

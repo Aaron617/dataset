@@ -1,0 +1,1097 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+    "title": "List of computer system emulators",
+    "header": [
+        [
+            "Emulator",
+            []
+        ],
+        [
+            "Latest version",
+            []
+        ],
+        [
+            "Released",
+            []
+        ],
+        [
+            "Guest emulation capabilities",
+            []
+        ],
+        [
+            "Host Operating System",
+            []
+        ],
+        [
+            "License",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "MAME ( formerly MESS )",
+                [
+                    "/wiki/MAME",
+                    "/wiki/Multi_Emulator_Super_System"
+                ],
+                [
+                    {
+                        "entity id": "Q1054055",
+                        "label": "MAME"
+                    },
+                    {
+                        "entity id": "Q778644",
+                        "label": "MESS"
+                    }
+                ]
+            ],
+            [
+                "0.196",
+                []
+            ],
+            [
+                "March 28 , 2018",
+                []
+            ],
+            [
+                "Various computers , consoles , and arcade systems",
+                []
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "New BSD , GPLv2 or later",
+                [
+                    "/wiki/New_BSD",
+                    "/wiki/GPLv2"
+                ],
+                [
+                    {
+                        "entity id": "Q18491847",
+                        "label": "3-clause BSD License"
+                    },
+                    {
+                        "entity id": "Q10513450",
+                        "label": "GNU General Public License, version 2.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MagiC64",
+                []
+            ],
+            [
+                "1.81",
+                []
+            ],
+            [
+                "January 13 , 1999",
+                []
+            ],
+            [
+                "Commodore 64",
+                [
+                    "/wiki/Commodore_64"
+                ],
+                [
+                    {
+                        "entity id": "Q99775",
+                        "label": "Commodore 64"
+                    }
+                ]
+            ],
+            [
+                "Amiga",
+                [
+                    "/wiki/Amiga"
+                ],
+                [
+                    {
+                        "entity id": "Q100047",
+                        "label": "Commodore Amiga"
+                    }
+                ]
+            ],
+            [
+                "Shareware",
+                [
+                    "/wiki/Shareware"
+                ],
+                [
+                    {
+                        "entity id": "Q185534",
+                        "label": "shareware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "C64S",
+                []
+            ],
+            [
+                "2.5B",
+                []
+            ],
+            [
+                "February 28 , 1997",
+                []
+            ],
+            [
+                "Commodore 64",
+                [
+                    "/wiki/Commodore_64"
+                ],
+                [
+                    {
+                        "entity id": "Q99775",
+                        "label": "Commodore 64"
+                    }
+                ]
+            ],
+            [
+                "DOS",
+                [
+                    "/wiki/DOS"
+                ],
+                [
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    }
+                ]
+            ],
+            [
+                "Shareware",
+                [
+                    "/wiki/Shareware"
+                ],
+                [
+                    {
+                        "entity id": "Q185534",
+                        "label": "shareware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "PC64Dos",
+                []
+            ],
+            [
+                "1.22",
+                []
+            ],
+            [
+                "September 1 , 1997",
+                []
+            ],
+            [
+                "Commodore 64",
+                [
+                    "/wiki/Commodore_64"
+                ],
+                [
+                    {
+                        "entity id": "Q99775",
+                        "label": "Commodore 64"
+                    }
+                ]
+            ],
+            [
+                "DOS",
+                [
+                    "/wiki/DOS"
+                ],
+                [
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "PC64Win",
+                []
+            ],
+            [
+                "2.14",
+                []
+            ],
+            [
+                "January 15 , 1997",
+                []
+            ],
+            [
+                "Commodore 64",
+                [
+                    "/wiki/Commodore_64"
+                ],
+                [
+                    {
+                        "entity id": "Q99775",
+                        "label": "Commodore 64"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "VICE",
+                [
+                    "/wiki/VICE"
+                ],
+                [
+                    {
+                        "entity id": "Q1411242",
+                        "label": "vice"
+                    }
+                ]
+            ],
+            [
+                "3.2",
+                []
+            ],
+            [
+                "May 20 , 2018",
+                []
+            ],
+            [
+                "Commodore 64 , Commodore 128 , Commodore VIC-20 , Commodore PET , Commodore Plus/4 , CBM-II",
+                [
+                    "/wiki/Commodore_64",
+                    "/wiki/Commodore_128",
+                    "/wiki/Commodore_VIC-20",
+                    "/wiki/Commodore_PET",
+                    "/wiki/Commodore_Plus/4",
+                    "/wiki/CBM-II"
+                ],
+                [
+                    {
+                        "entity id": "Q99775",
+                        "label": "Commodore 64"
+                    },
+                    {
+                        "entity id": "Q1115919",
+                        "label": "Commodore 128"
+                    },
+                    {
+                        "entity id": "Q918232",
+                        "label": "Commodore VIC-20"
+                    },
+                    {
+                        "entity id": "Q946661",
+                        "label": "Commodore PET"
+                    },
+                    {
+                        "entity id": "Q868568",
+                        "label": "Commodore Plus/4"
+                    },
+                    {
+                        "entity id": "Q1022975",
+                        "label": "CBM-II"
+                    }
+                ]
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "PSPVice",
+                []
+            ],
+            [
+                "1.2",
+                []
+            ],
+            [
+                "January 2008",
+                []
+            ],
+            [
+                "Commodore 64",
+                [
+                    "/wiki/Commodore_64"
+                ],
+                [
+                    {
+                        "entity id": "Q99775",
+                        "label": "Commodore 64"
+                    }
+                ]
+            ],
+            [
+                "Sony PSP",
+                [
+                    "/wiki/Sony_PSP"
+                ],
+                [
+                    {
+                        "entity id": "Q170325",
+                        "label": "PlayStation Portable"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "VICE PSP",
+                []
+            ],
+            [
+                "2.2.15",
+                []
+            ],
+            [
+                "January 16 , 2011",
+                []
+            ],
+            [
+                "Commodore 64",
+                [
+                    "/wiki/Commodore_64"
+                ],
+                [
+                    {
+                        "entity id": "Q99775",
+                        "label": "Commodore 64"
+                    }
+                ]
+            ],
+            [
+                "Sony PSP",
+                [
+                    "/wiki/Sony_PSP"
+                ],
+                [
+                    {
+                        "entity id": "Q170325",
+                        "label": "PlayStation Portable"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "CCS64",
+                [
+                    "/wiki/CCS64"
+                ],
+                [
+                    {
+                        "entity id": "Q5009711",
+                        "label": "CCS64"
+                    }
+                ]
+            ],
+            [
+                "3.9.2",
+                []
+            ],
+            [
+                "September 8 , 2015",
+                []
+            ],
+            [
+                "Commodore 64",
+                [
+                    "/wiki/Commodore_64"
+                ],
+                [
+                    {
+                        "entity id": "Q99775",
+                        "label": "Commodore 64"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Shareware",
+                [
+                    "/wiki/Shareware"
+                ],
+                [
+                    {
+                        "entity id": "Q185534",
+                        "label": "shareware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Frodo",
+                []
+            ],
+            [
+                "4.1b",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Commodore 64",
+                [
+                    "/wiki/Commodore_64"
+                ],
+                [
+                    {
+                        "entity id": "Q99775",
+                        "label": "Commodore 64"
+                    }
+                ]
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Frodo ( Mac )",
+                []
+            ],
+            [
+                "4.4.0",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Commodore 64",
+                [
+                    "/wiki/Commodore_64"
+                ],
+                [
+                    {
+                        "entity id": "Q99775",
+                        "label": "Commodore 64"
+                    }
+                ]
+            ],
+            [
+                "OS X",
+                [
+                    "/wiki/OS_X"
+                ],
+                [
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FrodoDS",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Commodore 64",
+                [
+                    "/wiki/Commodore_64"
+                ],
+                [
+                    {
+                        "entity id": "Q99775",
+                        "label": "Commodore 64"
+                    }
+                ]
+            ],
+            [
+                "Nintendo DS",
+                [
+                    "/wiki/Nintendo_DS"
+                ],
+                [
+                    {
+                        "entity id": "Q170323",
+                        "label": "Nintendo DS"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Hoxs64",
+                []
+            ],
+            [
+                "1.0.9.8",
+                []
+            ],
+            [
+                "February 4 , 2018",
+                []
+            ],
+            [
+                "Commodore 64",
+                [
+                    "/wiki/Commodore_64"
+                ],
+                [
+                    {
+                        "entity id": "Q99775",
+                        "label": "Commodore 64"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Micro64",
+                []
+            ],
+            [
+                "1.00.2013.05.11 Build 714",
+                []
+            ],
+            [
+                "May 11 , 2013",
+                []
+            ],
+            [
+                "Commodore 64",
+                [
+                    "/wiki/Commodore_64"
+                ],
+                [
+                    {
+                        "entity id": "Q99775",
+                        "label": "Commodore 64"
+                    }
+                ]
+            ],
+            [
+                "Windows Linux OS X",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux",
+                    "/wiki/OS_X"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Hyper64",
+                []
+            ],
+            [
+                "1.00.2008.08.08 Build 20",
+                []
+            ],
+            [
+                "August 8 , 2008",
+                []
+            ],
+            [
+                "Commodore 64",
+                [
+                    "/wiki/Commodore_64"
+                ],
+                [
+                    {
+                        "entity id": "Q99775",
+                        "label": "Commodore 64"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "JME C64",
+                []
+            ],
+            [
+                "1.13",
+                []
+            ],
+            [
+                "October 2 , 2009",
+                []
+            ],
+            [
+                "Commodore 64",
+                [
+                    "/wiki/Commodore_64"
+                ],
+                [
+                    {
+                        "entity id": "Q99775",
+                        "label": "Commodore 64"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_Platform"
+                ],
+                [
+                    {
+                        "entity id": "Q1713118",
+                        "label": "Java platform"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ec64",
+                []
+            ],
+            [
+                "0.17",
+                []
+            ],
+            [
+                "December 21 , 2003",
+                []
+            ],
+            [
+                "Commodore 64",
+                [
+                    "/wiki/Commodore_64"
+                ],
+                [
+                    {
+                        "entity id": "Q99775",
+                        "label": "Commodore 64"
+                    }
+                ]
+            ],
+            [
+                "Linux",
+                [
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "VirtualC64",
+                []
+            ],
+            [
+                "1.8.1",
+                []
+            ],
+            [
+                "March 23 , 2018",
+                []
+            ],
+            [
+                "Commodore 64",
+                [
+                    "/wiki/Commodore_64"
+                ],
+                [
+                    {
+                        "entity id": "Q99775",
+                        "label": "Commodore 64"
+                    }
+                ]
+            ],
+            [
+                "OS X",
+                [
+                    "/wiki/OS_X"
+                ],
+                [
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Jac64",
+                []
+            ],
+            [
+                "1.11",
+                []
+            ],
+            [
+                "January 4 , 2008",
+                []
+            ],
+            [
+                "Commodore 64",
+                [
+                    "/wiki/Commodore_64"
+                ],
+                [
+                    {
+                        "entity id": "Q99775",
+                        "label": "Commodore 64"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_Platform"
+                ],
+                [
+                    {
+                        "entity id": "Q1713118",
+                        "label": "Java platform"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FC64",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Commodore 64",
+                [
+                    "/wiki/Commodore_64"
+                ],
+                [
+                    {
+                        "entity id": "Q99775",
+                        "label": "Commodore 64"
+                    }
+                ]
+            ],
+            [
+                "Adobe Flash",
+                [
+                    "/wiki/Adobe_Flash"
+                ],
+                [
+                    {
+                        "entity id": "Q165658",
+                        "label": "Adobe Flash"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "8-bit guest systems -- Commodore 64",
+    "section_text": "",
+    "uid": "List_of_computer_system_emulators_51",
+    "intro": "This article lists software and hardware that emulates computing platforms. The host in this article is the system running the emulator, and the guest is the system being emulated. The list is organized by guest operating system (the system being emulated), grouped by bitness. Each section contains a list of emulators capable of emulating the specified guest, details of the range of guest systems able to be emulated, and the required host environment and licensing."
+}

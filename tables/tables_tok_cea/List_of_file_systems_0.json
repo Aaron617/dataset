@@ -1,0 +1,1209 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_file_systems",
+    "title": "List of file systems",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "By",
+            []
+        ],
+        [
+            "License",
+            []
+        ],
+        [
+            "OS",
+            []
+        ],
+        [
+            "Description",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Alluxio",
+                [
+                    "/wiki/Alluxio"
+                ],
+                [
+                    {
+                        "entity id": "Q65074533",
+                        "label": "Alluxio"
+                    }
+                ]
+            ],
+            [
+                "UC Berkeley , Alluxio",
+                [
+                    "/wiki/UC_Berkeley",
+                    "/wiki/Alluxio"
+                ],
+                [
+                    {
+                        "entity id": "Q168756",
+                        "label": "University of California, Berkeley"
+                    },
+                    {
+                        "entity id": "Q65074533",
+                        "label": "Alluxio"
+                    }
+                ]
+            ],
+            [
+                "Apache License 2.0",
+                [
+                    "/wiki/Apache_License_2.0"
+                ],
+                [
+                    {
+                        "entity id": "Q13785927",
+                        "label": "Apache License, Version 2.0"
+                    }
+                ]
+            ],
+            [
+                "cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "An open-source virtual distributed file system ( VDFS )",
+                []
+            ]
+        ],
+        [
+            [
+                "BeeGFS ( formerly FhGFS )",
+                [
+                    "/wiki/BeeGFS"
+                ],
+                [
+                    {
+                        "entity id": "Q1418202",
+                        "label": "FhGFS"
+                    }
+                ]
+            ],
+            [
+                "Fraunhofer Society",
+                [
+                    "/wiki/Fraunhofer_Society"
+                ],
+                [
+                    {
+                        "entity id": "Q161057",
+                        "label": "Fraunhofer Society"
+                    }
+                ]
+            ],
+            [
+                "GPLv2 for client , BeeGFS EULA for other components",
+                [
+                    "/wiki/GPLv2"
+                ],
+                [
+                    {
+                        "entity id": "Q10513450",
+                        "label": "GNU General Public License, version 2.0"
+                    }
+                ]
+            ],
+            [
+                "Linux",
+                [
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ],
+            [
+                "A free to use file system with optional professional support , designed for easy usage and high performance , used on some of the fastest computer clusters in the world . BeeGFS allows replication of storage volumes with automatic failover and self-healing",
+                [
+                    "/wiki/Computer_cluster"
+                ],
+                [
+                    {
+                        "entity id": "Q206637",
+                        "label": "computer cluster"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "CephFS",
+                [
+                    "/wiki/Ceph_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Inktank Storage , a company acquired by Red Hat",
+                [
+                    "/wiki/Inktank_Storage",
+                    "/wiki/Red_Hat"
+                ],
+                [
+                    {
+                        "entity id": "Q6034685",
+                        "label": "Inktank Storage"
+                    },
+                    {
+                        "entity id": "Q485593",
+                        "label": "Red Hat"
+                    }
+                ]
+            ],
+            [
+                "LGPL",
+                [
+                    "/wiki/LGPL"
+                ],
+                [
+                    {
+                        "entity id": "Q192897",
+                        "label": "GNU Lesser General Public License"
+                    }
+                ]
+            ],
+            [
+                "Linux kernel",
+                [
+                    "/wiki/Linux_kernel"
+                ],
+                [
+                    {
+                        "entity id": "Q14579",
+                        "label": "Linux kernel"
+                    }
+                ]
+            ],
+            [
+                "A massively scalable object store . CephFS was merged into the Linux kernel in 2010 . Ceph 's foundation is the reliable autonomic distributed object store ( RADOS ) , which provides object storage via programmatic interface and S3 or Swift REST APIs , block storage to QEMU/KVM/Linux hosts , and POSIX filesystem storage which can be mounted by Linux kernel and FUSE clients",
+                [
+                    "/wiki/Reliable_autonomic_distributed_object_store"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "CloudStore",
+                [
+                    "/wiki/CloudStore"
+                ],
+                [
+                    {
+                        "entity id": "Q4042322",
+                        "label": "Kosmos Distributed File System"
+                    }
+                ]
+            ],
+            [
+                "Kosmix",
+                [
+                    "/wiki/Kosmix"
+                ],
+                [
+                    {
+                        "entity id": "Q3816562",
+                        "label": "Walmart Labs"
+                    }
+                ]
+            ],
+            [
+                "Apache License 2.0",
+                [
+                    "/wiki/Apache_License"
+                ],
+                [
+                    {
+                        "entity id": "Q616526",
+                        "label": "Apache License"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Google File System workalike . Replaced by Quantcast File System ( QFS )",
+                [
+                    "/wiki/Google_File_System",
+                    "/wiki/Quantcast_File_System_(QFS)"
+                ],
+                [
+                    {
+                        "entity id": "Q1537683",
+                        "label": "Google File System"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "dCache",
+                [
+                    "/wiki/DCache"
+                ],
+                [
+                    {
+                        "entity id": "Q16248677",
+                        "label": "dCache"
+                    }
+                ]
+            ],
+            [
+                "DESY and others",
+                [
+                    "/wiki/DESY"
+                ],
+                [
+                    {
+                        "entity id": "Q311801",
+                        "label": "DESY"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "A write once filesystem , accessible via various protocols",
+                []
+            ]
+        ],
+        [
+            [
+                "General Parallel File System ( GPFS )",
+                [
+                    "/wiki/General_Parallel_File_System"
+                ],
+                [
+                    {
+                        "entity id": "Q2389927",
+                        "label": "IBM General Parallel File System"
+                    }
+                ]
+            ],
+            [
+                "IBM",
+                [
+                    "/wiki/IBM"
+                ],
+                [
+                    {
+                        "entity id": "Q37156",
+                        "label": "IBM"
+                    }
+                ]
+            ],
+            [
+                "proprietary",
+                []
+            ],
+            [
+                "AIX , Linux and Windows",
+                []
+            ],
+            [
+                "Support replication between attached block storage . Symmetric or asymmetric ( configurable )",
+                [
+                    "/wiki/Replication_(computer_science)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Gfarm file system",
+                [
+                    "/wiki/Gfarm_file_system"
+                ],
+                [
+                    {
+                        "entity id": "Q5555116",
+                        "label": "Gfarm file system"
+                    }
+                ]
+            ],
+            [
+                "Asia Pacific Grid",
+                []
+            ],
+            [
+                "X11 License",
+                [
+                    "/wiki/X11_License"
+                ],
+                [
+                    {
+                        "entity id": "Q18526202",
+                        "label": "X11 license"
+                    }
+                ]
+            ],
+            [
+                "Linux , macOS , FreeBSD , NetBSD and Solaris",
+                [
+                    "/wiki/Linux",
+                    "/wiki/MacOS",
+                    "/wiki/FreeBSD",
+                    "/wiki/NetBSD",
+                    "/wiki/Solaris_(operating_system)"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    },
+                    {
+                        "entity id": "Q34225",
+                        "label": "NetBSD"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Uses OpenLDAP or PostgreSQL for metadata and FUSE or LUFS for mounting",
+                [
+                    "/wiki/OpenLDAP",
+                    "/wiki/PostgreSQL",
+                    "/wiki/FUSE_(Linux)",
+                    "/wiki/Linux_Userland_Filesystem"
+                ],
+                [
+                    {
+                        "entity id": "Q682918",
+                        "label": "OpenLDAP"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    },
+                    {},
+                    {
+                        "entity id": "Q1568471",
+                        "label": "Linux Userland Filesystem"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "GlusterFS",
+                [
+                    "/wiki/GlusterFS"
+                ],
+                [
+                    {
+                        "entity id": "Q830550",
+                        "label": "GlusterFS"
+                    }
+                ]
+            ],
+            [
+                "Gluster , a company acquired by Red Hat",
+                []
+            ],
+            [
+                "GNU General Public License v3",
+                [
+                    "/wiki/GPLv3"
+                ],
+                [
+                    {
+                        "entity id": "Q10513445",
+                        "label": "GNU General Public License, version 3.0"
+                    }
+                ]
+            ],
+            [
+                "Linux , NetBSD , FreeBSD , OpenSolaris",
+                [
+                    "/wiki/Linux",
+                    "/wiki/NetBSD",
+                    "/wiki/FreeBSD",
+                    "/wiki/OpenSolaris"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q34225",
+                        "label": "NetBSD"
+                    },
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    },
+                    {
+                        "entity id": "Q237580",
+                        "label": "OpenSolaris"
+                    }
+                ]
+            ],
+            [
+                "A general purpose distributed file system for scalable storage . It aggregates various storage bricks over Infiniband RDMA or TCP/IP interconnect into one large parallel network file system . GlusterFS is the main component in Red Hat Storage Server",
+                [
+                    "/wiki/Remote_direct_memory_access",
+                    "/wiki/GlusterFS"
+                ],
+                [
+                    {
+                        "entity id": "Q2561570",
+                        "label": "Remote direct memory access"
+                    },
+                    {
+                        "entity id": "Q830550",
+                        "label": "GlusterFS"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Google File System ( GFS )",
+                [
+                    "/wiki/Google_File_System"
+                ],
+                [
+                    {
+                        "entity id": "Q1537683",
+                        "label": "Google File System"
+                    }
+                ]
+            ],
+            [
+                "Google",
+                [
+                    "/wiki/Google"
+                ],
+                [
+                    {
+                        "entity id": "Q95",
+                        "label": "Google"
+                    }
+                ]
+            ],
+            [
+                "internal software",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Focus on fault tolerance , high throughput and scalability",
+                [
+                    "/wiki/Fault_tolerance",
+                    "/wiki/Throughput",
+                    "/wiki/Scalability"
+                ],
+                [
+                    {
+                        "entity id": "Q3140932",
+                        "label": "fault tolerance"
+                    },
+                    {
+                        "entity id": "Q1383412",
+                        "label": "throughput"
+                    },
+                    {
+                        "entity id": "Q727490",
+                        "label": "scalability"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Hadoop Distributed File System",
+                [
+                    "/wiki/Hadoop_Distributed_File_System"
+                ],
+                [
+                    {
+                        "entity id": "Q56377723",
+                        "label": "Hadoop Distributed File System"
+                    }
+                ]
+            ],
+            [
+                "Apache Software Foundation",
+                [
+                    "/wiki/Apache_Software_Foundation"
+                ],
+                [
+                    {
+                        "entity id": "Q489709",
+                        "label": "Apache Software Foundation"
+                    }
+                ]
+            ],
+            [
+                "Apache License 2.0",
+                [
+                    "/wiki/Apache_License_2.0"
+                ],
+                [
+                    {
+                        "entity id": "Q13785927",
+                        "label": "Apache License, Version 2.0"
+                    }
+                ]
+            ],
+            [
+                "Cross-platform",
+                []
+            ],
+            [
+                "Open source GoogleFS clone",
+                []
+            ]
+        ],
+        [
+            [
+                "IBRIX Fusion",
+                [
+                    "/wiki/IBRIX_Fusion"
+                ],
+                [
+                    {
+                        "entity id": "Q5969224",
+                        "label": "IBRIX Fusion"
+                    }
+                ]
+            ],
+            [
+                "IBRIX",
+                [
+                    "/wiki/IBRIX"
+                ],
+                [
+                    {
+                        "entity id": "Q5969224",
+                        "label": "IBRIX Fusion"
+                    }
+                ]
+            ],
+            [
+                "proprietary software",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "LizardFS",
+                [
+                    "/wiki/LizardFS"
+                ],
+                [
+                    {
+                        "entity id": "Q25025171",
+                        "label": "LizardFS"
+                    }
+                ]
+            ],
+            [
+                "Skytechnology",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "An open source , highly available POSIX-compliant file system that supports Windows clients",
+                []
+            ]
+        ],
+        [
+            [
+                "Lustre",
+                [
+                    "/wiki/Lustre_(file_system)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "originally developed by Cluster File Systems and currently supported by OpenSFS",
+                [
+                    "/wiki/Cluster_File_Systems"
+                ],
+                [
+                    {
+                        "entity id": "Q5103611",
+                        "label": "Cluster File Systems"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "Linux",
+                [
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ],
+            [
+                "A POSIX -compliant , high-performance filesystem used on a majority of systems in the Top-500 list of HPC systems . Lustre has high availability via storage failover",
+                [
+                    "/wiki/POSIX",
+                    "/wiki/Top-500",
+                    "/wiki/High_Performance_Computing",
+                    "/wiki/High_availability",
+                    "/wiki/Failover"
+                ],
+                [
+                    {
+                        "entity id": "Q14658",
+                        "label": "Portable Operating System Interface"
+                    },
+                    {
+                        "entity id": "Q1386406",
+                        "label": "Top 500 Enterprises of China"
+                    },
+                    {
+                        "entity id": "Q121117",
+                        "label": "supercomputer"
+                    },
+                    {
+                        "entity id": "Q1622420",
+                        "label": "high availability"
+                    },
+                    {
+                        "entity id": "Q998767",
+                        "label": "failover"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MapR FS",
+                [
+                    "/wiki/MapR_FS"
+                ],
+                [
+                    {
+                        "entity id": "Q24896356",
+                        "label": "MapR FS"
+                    }
+                ]
+            ],
+            [
+                "MapR",
+                [
+                    "/wiki/MapR"
+                ],
+                [
+                    {
+                        "entity id": "Q6753728",
+                        "label": "MapR"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Linux",
+                []
+            ],
+            [
+                "Highly scalable , POSIX compliant , fault tolerant , read/write filesystem with a distributed , fault tolerant metadata service . It provides an HDFS and NFS interface to clients as well as a noSQL table interface and Apache Kafka compatible messaging system",
+                [
+                    "/wiki/Apache_Kafka"
+                ],
+                [
+                    {
+                        "entity id": "Q16235208",
+                        "label": "Apache Kafka"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MooseFS",
+                [
+                    "/wiki/MooseFS"
+                ],
+                [
+                    {
+                        "entity id": "Q2328609",
+                        "label": "Moose File System"
+                    }
+                ]
+            ],
+            [
+                "Core Technology",
+                []
+            ],
+            [
+                "GPLv2 / proprietary",
+                [
+                    "/wiki/GPLv2",
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q10513450",
+                        "label": "GNU General Public License, version 2.0"
+                    },
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "cross-platform ( Linux , NetBSD , FreeBSD , macOS , OpenSolaris )",
+                [
+                    "/wiki/Cross-platform",
+                    "/wiki/Linux",
+                    "/wiki/NetBSD",
+                    "/wiki/FreeBSD",
+                    "/wiki/MacOS",
+                    "/wiki/OpenSolaris"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q34225",
+                        "label": "NetBSD"
+                    },
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q237580",
+                        "label": "OpenSolaris"
+                    }
+                ]
+            ],
+            [
+                "A fault tolerant , highly available and high performance scale-out network distributed file system . It spreads data over several physical commodity x86 servers , which are visible to the user as one namespace . For standard file operations MooseFS acts like any other Unix-like file systems",
+                []
+            ]
+        ],
+        [
+            [
+                "ObjectiveFS",
+                [
+                    "/wiki/ObjectiveFS"
+                ],
+                [
+                    {
+                        "entity id": "Q22907428",
+                        "label": "ObjectiveFS"
+                    }
+                ]
+            ],
+            [
+                "Objective Security Corporation",
+                []
+            ],
+            [
+                "proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Linux , macOS",
+                [
+                    "/wiki/Linux",
+                    "/wiki/MacOS"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "POSIX-compliant shared distributed filesystem . Uses object store as a backend . Runs on AWS S3 , GCS and object store devices",
+                []
+            ]
+        ],
+        [
+            [
+                "OneFS distributed file system",
+                [
+                    "/wiki/OneFS_distributed_file_system"
+                ],
+                [
+                    {
+                        "entity id": "Q7092375",
+                        "label": "OneFS distributed file system"
+                    }
+                ]
+            ],
+            [
+                "Isilon",
+                [
+                    "/wiki/Isilon"
+                ],
+                [
+                    {
+                        "entity id": "Q5323381",
+                        "label": "EMC Isilon"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "FreeBSD",
+                [
+                    "/wiki/FreeBSD"
+                ],
+                [
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    }
+                ]
+            ],
+            [
+                "BSD-based OS on dedicated Intel based hardware , serving NFS v3 and SMB/CIFS to Windows , macOS , Linux and other UNIX clients under a proprietary software",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/MacOS",
+                    "/wiki/Linux",
+                    "/wiki/UNIX",
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14656",
+                        "label": "Unix-like operating system"
+                    },
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "OIO-FS",
+                [
+                    "/wiki/OpenIO"
+                ],
+                [
+                    {
+                        "entity id": "Q30348631",
+                        "label": "OpenIO"
+                    }
+                ]
+            ],
+            [
+                "OpenIO",
+                [
+                    "/wiki/OpenIO"
+                ],
+                [
+                    {
+                        "entity id": "Q30348631",
+                        "label": "OpenIO"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Linux",
+                [
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ],
+            [
+                "OIO-FS provides file-oriented access to OpenIO SDS object storage backend . It is based on FUSE technology and presents a POSIX file system to users . This access can be used locally , or over a network using NFS or SMB",
+                [
+                    "/wiki/OpenIO",
+                    "/wiki/Object_storage",
+                    "/wiki/FUSE_(filesystem)",
+                    "/wiki/POSIX",
+                    "/wiki/Network_File_System",
+                    "/wiki/Server_Message_Block"
+                ],
+                [
+                    {
+                        "entity id": "Q30348631",
+                        "label": "OpenIO"
+                    },
+                    {
+                        "entity id": "Q7075068",
+                        "label": "Object storage device"
+                    },
+                    {},
+                    {
+                        "entity id": "Q14658",
+                        "label": "Portable Operating System Interface"
+                    },
+                    {
+                        "entity id": "Q623494",
+                        "label": "Network File System"
+                    },
+                    {
+                        "entity id": "Q857655",
+                        "label": "Server Message Block"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "PanFS",
+                []
+            ],
+            [
+                "Panasas",
+                [
+                    "/wiki/Panasas"
+                ],
+                [
+                    {
+                        "entity id": "Q7130061",
+                        "label": "Panasas"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Linux , macOS , FreeBSD",
+                [
+                    "/wiki/Linux",
+                    "/wiki/MacOS",
+                    "/wiki/FreeBSD"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    }
+                ]
+            ],
+            [
+                "A POSIX -compliant , high-performance , parallel filesystem used by HPC clusters . It uses erasure coding and snapshots for data protection , is based upon a scale-out object store , and is focused on transparent failure recovery and ease of use",
+                [
+                    "/wiki/POSIX",
+                    "/wiki/Parallel_File_System",
+                    "/wiki/High_Performance_Computing",
+                    "/wiki/Erasure_code",
+                    "/wiki/Scale_out",
+                    "/wiki/Object_storage"
+                ],
+                [
+                    {
+                        "entity id": "Q14658",
+                        "label": "Portable Operating System Interface"
+                    },
+                    {
+                        "entity id": "Q29029903",
+                        "label": "Parallel file systems for the IBM SP computers"
+                    },
+                    {
+                        "entity id": "Q121117",
+                        "label": "supercomputer"
+                    },
+                    {
+                        "entity id": "Q5385031",
+                        "label": "erasure code"
+                    },
+                    {
+                        "entity id": "Q52589549",
+                        "label": "Scale-out of a community-based behavioral intervention for childhood obesity: pilot implementation evaluation."
+                    },
+                    {
+                        "entity id": "Q7075068",
+                        "label": "Object storage device"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Distributed file systems -- Distributed parallel fault-tolerant file systems",
+    "section_text": "Distributed file systems , which also are parallel and fault tolerant , stripe and replicate data over multiple servers for high performance and to maintain data integrity . Even if a server fails no data is lost . The file systems are used in both high-performance computing ( HPC ) and high-availability clusters . All file systems listed here focus on high availability , scalability and high performance unless otherwise stated below .",
+    "uid": "List_of_file_systems_0",
+    "intro": "The following lists identify, characterize, and link to more thorough information on computer file systems. Many older operating systems support only their one native file system, which does not bear any name apart from the name of the operating system itself."
+}

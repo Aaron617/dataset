@@ -1,0 +1,951 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_bus_routes_in_London",
+    "title": "List of bus routes in London",
+    "header": [
+        [
+            "Route",
+            []
+        ],
+        [
+            "Start",
+            []
+        ],
+        [
+            "End",
+            []
+        ],
+        [
+            "Operator",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "100",
+                [
+                    "/wiki/London_Buses_route_100"
+                ],
+                [
+                    {
+                        "entity id": "Q17510057",
+                        "label": "London Buses route 100"
+                    }
+                ]
+            ],
+            [
+                "St. Pauls",
+                [
+                    "/wiki/St_Paul's_Cathedral"
+                ],
+                [
+                    {
+                        "entity id": "Q173882",
+                        "label": "St Paul's Cathedral"
+                    }
+                ]
+            ],
+            [
+                "Shadwell station",
+                [
+                    "/wiki/Shadwell_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q4115037",
+                        "label": "Shadwell railway station"
+                    }
+                ]
+            ],
+            [
+                "London General",
+                [
+                    "/wiki/London_General"
+                ],
+                [
+                    {
+                        "entity id": "Q6670447",
+                        "label": "London General"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "101",
+                []
+            ],
+            [
+                "Gallions Reach Shopping Park",
+                [
+                    "/wiki/Gallions_Reach_Shopping_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q96379046",
+                        "label": "Gallions Reach Shopping Park"
+                    }
+                ]
+            ],
+            [
+                "Wanstead",
+                [
+                    "/wiki/Wanstead"
+                ],
+                [
+                    {
+                        "entity id": "Q2491351",
+                        "label": "Wanstead"
+                    }
+                ]
+            ],
+            [
+                "Blue Triangle",
+                [
+                    "/wiki/Blue_Triangle"
+                ],
+                [
+                    {
+                        "entity id": "Q4929965",
+                        "label": "Blue Triangle"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "102",
+                []
+            ],
+            [
+                "Brent Cross bus station Golders Green station",
+                [
+                    "/wiki/Brent_Cross_bus_station",
+                    "/wiki/Golders_Green_tube_station"
+                ],
+                [
+                    {
+                        "entity id": "Q4961358",
+                        "label": "Brent Cross bus station"
+                    },
+                    {
+                        "entity id": "Q2167448",
+                        "label": "Golders Green tube station"
+                    }
+                ]
+            ],
+            [
+                "Edmonton Green station",
+                [
+                    "/wiki/Edmonton_Green_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q2410534",
+                        "label": "Edmonton Green railway station"
+                    }
+                ]
+            ],
+            [
+                "Arriva London",
+                [
+                    "/wiki/Arriva_London"
+                ],
+                [
+                    {
+                        "entity id": "Q4796013",
+                        "label": "Arriva London"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "103",
+                []
+            ],
+            [
+                "Chase Cross",
+                [
+                    "/wiki/Chase_Cross"
+                ],
+                [
+                    {
+                        "entity id": "Q5087121",
+                        "label": "Chase Cross"
+                    }
+                ]
+            ],
+            [
+                "Rainham Interchange",
+                [
+                    "/wiki/Rainham,_London"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Arriva London",
+                [
+                    "/wiki/Arriva_London"
+                ],
+                [
+                    {
+                        "entity id": "Q4796013",
+                        "label": "Arriva London"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "104",
+                []
+            ],
+            [
+                "Manor Park",
+                [
+                    "/wiki/Manor_Park,_London"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Stratford bus station",
+                [
+                    "/wiki/Stratford_bus_station"
+                ],
+                [
+                    {
+                        "entity id": "Q7622001",
+                        "label": "Stratford bus station"
+                    }
+                ]
+            ],
+            [
+                "Blue Triangle",
+                [
+                    "/wiki/Blue_Triangle"
+                ],
+                [
+                    {
+                        "entity id": "Q4929965",
+                        "label": "Blue Triangle"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "105",
+                []
+            ],
+            [
+                "Greenford station",
+                [
+                    "/wiki/Greenford_station"
+                ],
+                [
+                    {
+                        "entity id": "Q800841",
+                        "label": "Greenford station"
+                    }
+                ]
+            ],
+            [
+                "Heathrow Central bus station",
+                [
+                    "/wiki/Heathrow_Central_bus_station"
+                ],
+                [
+                    {
+                        "entity id": "Q5694328",
+                        "label": "Heathrow Airport Central bus station"
+                    }
+                ]
+            ],
+            [
+                "London United",
+                [
+                    "/wiki/London_United_Busways"
+                ],
+                [
+                    {
+                        "entity id": "Q6670984",
+                        "label": "London United Busways"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "106",
+                []
+            ],
+            [
+                "Finsbury Park bus station",
+                [
+                    "/wiki/Finsbury_Park_bus_station"
+                ],
+                [
+                    {
+                        "entity id": "Q5450925",
+                        "label": "Finsbury Park bus station"
+                    }
+                ]
+            ],
+            [
+                "Whitechapel",
+                [
+                    "/wiki/Whitechapel"
+                ],
+                [
+                    {
+                        "entity id": "Q124539",
+                        "label": "Whitechapel"
+                    }
+                ]
+            ],
+            [
+                "Arriva London",
+                [
+                    "/wiki/Arriva_London"
+                ],
+                [
+                    {
+                        "entity id": "Q4796013",
+                        "label": "Arriva London"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "107",
+                []
+            ],
+            [
+                "Edgware bus station",
+                [
+                    "/wiki/Edgware_bus_station"
+                ],
+                [
+                    {
+                        "entity id": "Q5337961",
+                        "label": "Edgware bus station"
+                    }
+                ]
+            ],
+            [
+                "New Barnet",
+                [
+                    "/wiki/New_Barnet"
+                ],
+                [
+                    {
+                        "entity id": "Q149691",
+                        "label": "New Barnet"
+                    }
+                ]
+            ],
+            [
+                "Metroline",
+                [
+                    "/wiki/Metroline"
+                ],
+                [
+                    {
+                        "entity id": "Q6824844",
+                        "label": "Metroline"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "108",
+                [
+                    "/wiki/London_Buses_route_108"
+                ],
+                [
+                    {
+                        "entity id": "Q6669917",
+                        "label": "London Buses route 108"
+                    }
+                ]
+            ],
+            [
+                "Lewisham station",
+                [
+                    "/wiki/Lewisham_station"
+                ],
+                [
+                    {
+                        "entity id": "Q801096",
+                        "label": "Lewisham"
+                    }
+                ]
+            ],
+            [
+                "Stratford International station",
+                [
+                    "/wiki/Stratford_International_station"
+                ],
+                [
+                    {
+                        "entity id": "Q801472",
+                        "label": "Stratford International station"
+                    }
+                ]
+            ],
+            [
+                "London Central",
+                [
+                    "/wiki/London_Central"
+                ],
+                [
+                    {
+                        "entity id": "Q6670208",
+                        "label": "London Central"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "109",
+                [
+                    "/wiki/London_Buses_route_109"
+                ],
+                [
+                    {
+                        "entity id": "Q6669918",
+                        "label": "London Buses route 109"
+                    }
+                ]
+            ],
+            [
+                "Brixton",
+                [
+                    "/wiki/Brixton"
+                ],
+                [
+                    {
+                        "entity id": "Q146690",
+                        "label": "Brixton"
+                    }
+                ]
+            ],
+            [
+                "Croydon Town Centre",
+                [
+                    "/wiki/Croydon"
+                ],
+                [
+                    {
+                        "entity id": "Q26888",
+                        "label": "London Borough of Croydon"
+                    }
+                ]
+            ],
+            [
+                "Abellio London",
+                [
+                    "/wiki/Abellio_(London_&_Surrey)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "110",
+                [
+                    "/wiki/London_Buses_route_110"
+                ],
+                [
+                    {
+                        "entity id": "Q6669921",
+                        "label": "London Buses route 110"
+                    }
+                ]
+            ],
+            [
+                "Hounslow bus station",
+                [
+                    "/wiki/Hounslow",
+                    "/wiki/London_United_Busways"
+                ],
+                [
+                    {
+                        "entity id": "Q214162",
+                        "label": "London Borough of Hounslow"
+                    },
+                    {
+                        "entity id": "Q6670984",
+                        "label": "London United Busways"
+                    }
+                ]
+            ],
+            [
+                "West Middlesex University Hospital",
+                [
+                    "/wiki/West_Middlesex_University_Hospital"
+                ],
+                [
+                    {
+                        "entity id": "Q7985920",
+                        "label": "West Middlesex University Hospital"
+                    }
+                ]
+            ],
+            [
+                "London United",
+                [
+                    "/wiki/London_United_Busways"
+                ],
+                [
+                    {
+                        "entity id": "Q6670984",
+                        "label": "London United Busways"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "111",
+                [
+                    "/wiki/London_Buses_route_111"
+                ],
+                [
+                    {
+                        "entity id": "Q6669923",
+                        "label": "London Buses route 111"
+                    }
+                ]
+            ],
+            [
+                "Heathrow Central bus station",
+                [
+                    "/wiki/Heathrow_Central_bus_station"
+                ],
+                [
+                    {
+                        "entity id": "Q5694328",
+                        "label": "Heathrow Airport Central bus station"
+                    }
+                ]
+            ],
+            [
+                "Kingston",
+                [
+                    "/wiki/Kingston_upon_Thames"
+                ],
+                [
+                    {
+                        "entity id": "Q32508",
+                        "label": "Royal Borough of Kingston upon Thames"
+                    }
+                ]
+            ],
+            [
+                "London United",
+                [
+                    "/wiki/London_United_Busways"
+                ],
+                [
+                    {
+                        "entity id": "Q6670984",
+                        "label": "London United Busways"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "112",
+                [
+                    "/wiki/London_Buses_route_112"
+                ],
+                [
+                    {
+                        "entity id": "Q6669924",
+                        "label": "London Buses route 112"
+                    }
+                ]
+            ],
+            [
+                "Brent Cross bus station",
+                [
+                    "/wiki/Brent_Cross_bus_station"
+                ],
+                [
+                    {
+                        "entity id": "Q4961358",
+                        "label": "Brent Cross bus station"
+                    }
+                ]
+            ],
+            [
+                "Ealing Broadway",
+                [
+                    "/wiki/Ealing_Broadway"
+                ],
+                [
+                    {
+                        "entity id": "Q99705221",
+                        "label": "The Broadway"
+                    }
+                ]
+            ],
+            [
+                "Metroline",
+                [
+                    "/wiki/Metroline"
+                ],
+                [
+                    {
+                        "entity id": "Q6824844",
+                        "label": "Metroline"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "113",
+                [
+                    "/wiki/London_Buses_route_113"
+                ],
+                [
+                    {
+                        "entity id": "Q6669925",
+                        "label": "London Buses route 113"
+                    }
+                ]
+            ],
+            [
+                "Edgware bus station",
+                [
+                    "/wiki/Edgware_bus_station"
+                ],
+                [
+                    {
+                        "entity id": "Q5337961",
+                        "label": "Edgware bus station"
+                    }
+                ]
+            ],
+            [
+                "Oxford Circus",
+                [
+                    "/wiki/Oxford_Circus"
+                ],
+                [
+                    {
+                        "entity id": "Q1996213",
+                        "label": "Oxford Circus"
+                    }
+                ]
+            ],
+            [
+                "Metroline",
+                [
+                    "/wiki/Metroline"
+                ],
+                [
+                    {
+                        "entity id": "Q6824844",
+                        "label": "Metroline"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "114",
+                []
+            ],
+            [
+                "Mill Hill Broadway",
+                [
+                    "/wiki/Mill_Hill_Broadway"
+                ],
+                [
+                    {
+                        "entity id": "Q68623454",
+                        "label": "Mill Hill Broadway"
+                    }
+                ]
+            ],
+            [
+                "Ruislip",
+                [
+                    "/wiki/Ruislip"
+                ],
+                [
+                    {
+                        "entity id": "Q2379971",
+                        "label": "Ruislip"
+                    }
+                ]
+            ],
+            [
+                "Metroline",
+                [
+                    "/wiki/Metroline"
+                ],
+                [
+                    {
+                        "entity id": "Q6824844",
+                        "label": "Metroline"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "115",
+                []
+            ],
+            [
+                "Aldgate",
+                [
+                    "/wiki/Aldgate"
+                ],
+                [
+                    {
+                        "entity id": "Q1309158",
+                        "label": "Aldgate"
+                    }
+                ]
+            ],
+            [
+                "East Ham Central Park",
+                [
+                    "/wiki/East_Ham"
+                ],
+                [
+                    {
+                        "entity id": "Q1025593",
+                        "label": "East Ham"
+                    }
+                ]
+            ],
+            [
+                "Blue Triangle",
+                [
+                    "/wiki/Blue_Triangle"
+                ],
+                [
+                    {
+                        "entity id": "Q4929965",
+                        "label": "Blue Triangle"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "116",
+                []
+            ],
+            [
+                "Ashford Hospital",
+                [
+                    "/wiki/Ashford,_Surrey"
+                ],
+                [
+                    {
+                        "entity id": "Q725270",
+                        "label": "Ashford"
+                    }
+                ]
+            ],
+            [
+                "Hounslow bus station",
+                [
+                    "/wiki/Hounslow",
+                    "/wiki/London_United_Busways"
+                ],
+                [
+                    {
+                        "entity id": "Q214162",
+                        "label": "London Borough of Hounslow"
+                    },
+                    {
+                        "entity id": "Q6670984",
+                        "label": "London United Busways"
+                    }
+                ]
+            ],
+            [
+                "London United",
+                [
+                    "/wiki/London_United_Busways"
+                ],
+                [
+                    {
+                        "entity id": "Q6670984",
+                        "label": "London United Busways"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "117",
+                [
+                    "/wiki/London_Buses_route_117"
+                ],
+                [
+                    {
+                        "entity id": "Q6669929",
+                        "label": "London Buses route 117"
+                    }
+                ]
+            ],
+            [
+                "Staines",
+                [
+                    "/wiki/Staines"
+                ],
+                [
+                    {
+                        "entity id": "Q285323",
+                        "label": "Staines-upon-Thames"
+                    }
+                ]
+            ],
+            [
+                "West Middlesex University Hospital",
+                [
+                    "/wiki/West_Middlesex_University_Hospital"
+                ],
+                [
+                    {
+                        "entity id": "Q7985920",
+                        "label": "West Middlesex University Hospital"
+                    }
+                ]
+            ],
+            [
+                "Metroline",
+                [
+                    "/wiki/Metroline"
+                ],
+                [
+                    {
+                        "entity id": "Q6824844",
+                        "label": "Metroline"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "118",
+                [
+                    "/wiki/London_Buses_route_118"
+                ],
+                [
+                    {
+                        "entity id": "Q16986604",
+                        "label": "London Buses route 118"
+                    }
+                ]
+            ],
+            [
+                "Brixton",
+                [
+                    "/wiki/Brixton"
+                ],
+                [
+                    {
+                        "entity id": "Q146690",
+                        "label": "Brixton"
+                    }
+                ]
+            ],
+            [
+                "Morden",
+                [
+                    "/wiki/Morden"
+                ],
+                [
+                    {
+                        "entity id": "Q579689",
+                        "label": "Morden"
+                    }
+                ]
+            ],
+            [
+                "London General",
+                [
+                    "/wiki/London_General"
+                ],
+                [
+                    {
+                        "entity id": "Q6670447",
+                        "label": "London General"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "119",
+                []
+            ],
+            [
+                "Bromley North station",
+                [
+                    "/wiki/Bromley_North_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q2367801",
+                        "label": "Bromley North railway station"
+                    }
+                ]
+            ],
+            [
+                "Purley Way Colonnades",
+                [
+                    "/wiki/Purley_Way",
+                    "/wiki/Colonnades_Leisure_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q7261318",
+                        "label": "Purley Way"
+                    },
+                    {
+                        "entity id": "Q5148464",
+                        "label": "Colonnades Leisure Park"
+                    }
+                ]
+            ],
+            [
+                "London General",
+                [
+                    "/wiki/London_General"
+                ],
+                [
+                    {
+                        "entity id": "Q6670447",
+                        "label": "London General"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "List of routes -- 100\u2013199",
+    "section_text": "",
+    "uid": "List_of_bus_routes_in_London_1",
+    "intro": "This is a list of Transport for London (TfL) contracted bus routes in London, England, as well as commercial services that enter the Greater London area (except coaches). Bus services in London are operated by Abellio London, Arriva London, HCT Group, Go-Ahead London (Blue Triangle, Docklands Buses, London Central, and London General), Metroline, RATP Group (London Sovereign, London United, and Quality Line) Stagecoach London (East London, Selkent, and Thameside), Sullivan Buses, Tower Transit, and Uno. TfL-sponsored operators run more than 500 services. Non-TfL-sponsored operators including Arriva Shires & Essex, Arriva Southern Counties, Cardinal Buses, Carousel Buses, Go-Coach, First Berkshire & The Thames Valley, Hallmark Connections, Metrobus, Red Rose Travel, Southdown PSV, Stagecoach South, Trustybus, and Uno operate services between parts of Buckinghamshire, Essex, Hertfordshire, Berkshire, Kent, Surrey, and Sussex on the one hand and London on the other, with one local council-sponsored service each in the boroughs of Bexley, Barking & Dagenham, and Hackney (extending into Islington)."
+}

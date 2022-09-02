@@ -1,0 +1,504 @@
+{
+    "url": "https://en.wikipedia.org/wiki/ISO_3166-2:KN",
+    "title": "ISO 3166-2:KN",
+    "header": [
+        [
+            "Code",
+            []
+        ],
+        [
+            "Subdivision name ( en )",
+            []
+        ],
+        [
+            "Abbreviation",
+            []
+        ],
+        [
+            "In state",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "KN-01",
+                []
+            ],
+            [
+                "Christ Church Nichola Town",
+                [
+                    "/wiki/Christ_Church_Nichola_Town_Parish"
+                ],
+                [
+                    {
+                        "entity id": "Q176164",
+                        "label": "Christ Church Nichola Town Parish"
+                    }
+                ]
+            ],
+            [
+                "CCN",
+                []
+            ],
+            [
+                "K",
+                [
+                    "/wiki/Saint_Kitts"
+                ],
+                [
+                    {
+                        "entity id": "Q204989",
+                        "label": "Saint Kitts"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "KN-02",
+                []
+            ],
+            [
+                "Saint Anne Sandy Point",
+                [
+                    "/wiki/Saint_Anne_Sandy_Point_Parish"
+                ],
+                [
+                    {
+                        "entity id": "Q1473654",
+                        "label": "Saint Anne Sandy Point Parish"
+                    }
+                ]
+            ],
+            [
+                "ASP",
+                []
+            ],
+            [
+                "K",
+                [
+                    "/wiki/Saint_Kitts"
+                ],
+                [
+                    {
+                        "entity id": "Q204989",
+                        "label": "Saint Kitts"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "KN-03",
+                []
+            ],
+            [
+                "Saint George Basseterre",
+                [
+                    "/wiki/Saint_George_Basseterre_Parish"
+                ],
+                [
+                    {
+                        "entity id": "Q1540744",
+                        "label": "Saint George Basseterre Parish"
+                    }
+                ]
+            ],
+            [
+                "GBA",
+                []
+            ],
+            [
+                "K",
+                [
+                    "/wiki/Saint_Kitts"
+                ],
+                [
+                    {
+                        "entity id": "Q204989",
+                        "label": "Saint Kitts"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "KN-04",
+                []
+            ],
+            [
+                "Saint George Gingerland",
+                [
+                    "/wiki/Saint_George_Gingerland_Parish"
+                ],
+                [
+                    {
+                        "entity id": "Q1472520",
+                        "label": "Saint George Gingerland Parish"
+                    }
+                ]
+            ],
+            [
+                "GGI",
+                []
+            ],
+            [
+                "N",
+                [
+                    "/wiki/Nevis"
+                ],
+                [
+                    {
+                        "entity id": "Q207794",
+                        "label": "Nevis"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "KN-05",
+                []
+            ],
+            [
+                "Saint James Windward",
+                [
+                    "/wiki/Saint_James_Windward_Parish"
+                ],
+                [
+                    {
+                        "entity id": "Q1342139",
+                        "label": "Saint James Windward Parish"
+                    }
+                ]
+            ],
+            [
+                "JWI",
+                []
+            ],
+            [
+                "N",
+                [
+                    "/wiki/Nevis"
+                ],
+                [
+                    {
+                        "entity id": "Q207794",
+                        "label": "Nevis"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "KN-06",
+                []
+            ],
+            [
+                "Saint John Capisterre",
+                [
+                    "/wiki/Saint_John_Capisterre_Parish"
+                ],
+                [
+                    {
+                        "entity id": "Q668498",
+                        "label": "Saint John Capisterre Parish"
+                    }
+                ]
+            ],
+            [
+                "JCA",
+                []
+            ],
+            [
+                "K",
+                [
+                    "/wiki/Saint_Kitts"
+                ],
+                [
+                    {
+                        "entity id": "Q204989",
+                        "label": "Saint Kitts"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "KN-07",
+                []
+            ],
+            [
+                "Saint John Figtree",
+                [
+                    "/wiki/Saint_John_Figtree_Parish"
+                ],
+                [
+                    {
+                        "entity id": "Q657318",
+                        "label": "Saint John Figtree Parish"
+                    }
+                ]
+            ],
+            [
+                "JFI",
+                []
+            ],
+            [
+                "N",
+                [
+                    "/wiki/Nevis"
+                ],
+                [
+                    {
+                        "entity id": "Q207794",
+                        "label": "Nevis"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "KN-08",
+                []
+            ],
+            [
+                "Saint Mary Cayon",
+                [
+                    "/wiki/Saint_Mary_Cayon_Parish"
+                ],
+                [
+                    {
+                        "entity id": "Q1538034",
+                        "label": "Saint Mary Cayon Parish"
+                    }
+                ]
+            ],
+            [
+                "MCA",
+                []
+            ],
+            [
+                "K",
+                [
+                    "/wiki/Saint_Kitts"
+                ],
+                [
+                    {
+                        "entity id": "Q204989",
+                        "label": "Saint Kitts"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "KN-09",
+                []
+            ],
+            [
+                "Saint Paul Capisterre",
+                [
+                    "/wiki/Saint_Paul_Capisterre_Parish"
+                ],
+                [
+                    {
+                        "entity id": "Q952735",
+                        "label": "Saint Paul Capisterre Parish"
+                    }
+                ]
+            ],
+            [
+                "PCA",
+                []
+            ],
+            [
+                "K",
+                [
+                    "/wiki/Saint_Kitts"
+                ],
+                [
+                    {
+                        "entity id": "Q204989",
+                        "label": "Saint Kitts"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "KN-10",
+                []
+            ],
+            [
+                "Saint Paul Charlestown",
+                [
+                    "/wiki/Saint_Paul_Charlestown_Parish"
+                ],
+                [
+                    {
+                        "entity id": "Q1752127",
+                        "label": "Saint Paul Charlestown Parish"
+                    }
+                ]
+            ],
+            [
+                "PCH",
+                []
+            ],
+            [
+                "N",
+                [
+                    "/wiki/Nevis"
+                ],
+                [
+                    {
+                        "entity id": "Q207794",
+                        "label": "Nevis"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "KN-11",
+                []
+            ],
+            [
+                "Saint Peter Basseterre",
+                [
+                    "/wiki/Saint_Peter_Basseterre_Parish"
+                ],
+                [
+                    {
+                        "entity id": "Q1725609",
+                        "label": "Saint Peter Basseterre Parish"
+                    }
+                ]
+            ],
+            [
+                "PBS",
+                []
+            ],
+            [
+                "K",
+                [
+                    "/wiki/Saint_Kitts"
+                ],
+                [
+                    {
+                        "entity id": "Q204989",
+                        "label": "Saint Kitts"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "KN-12",
+                []
+            ],
+            [
+                "Saint Thomas Lowland",
+                [
+                    "/wiki/Saint_Thomas_Lowland_Parish"
+                ],
+                [
+                    {
+                        "entity id": "Q1752122",
+                        "label": "Saint Thomas Lowland Parish"
+                    }
+                ]
+            ],
+            [
+                "TLO",
+                []
+            ],
+            [
+                "N",
+                [
+                    "/wiki/Nevis"
+                ],
+                [
+                    {
+                        "entity id": "Q207794",
+                        "label": "Nevis"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "KN-13",
+                []
+            ],
+            [
+                "Saint Thomas Middle Island",
+                [
+                    "/wiki/Saint_Thomas_Middle_Island_Parish"
+                ],
+                [
+                    {
+                        "entity id": "Q1752101",
+                        "label": "Saint Thomas Middle Island Parish"
+                    }
+                ]
+            ],
+            [
+                "TMI",
+                []
+            ],
+            [
+                "K",
+                [
+                    "/wiki/Saint_Kitts"
+                ],
+                [
+                    {
+                        "entity id": "Q204989",
+                        "label": "Saint Kitts"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "KN-15",
+                []
+            ],
+            [
+                "Trinity Palmetto Point",
+                [
+                    "/wiki/Trinity_Palmetto_Point_Parish"
+                ],
+                [
+                    {
+                        "entity id": "Q376738",
+                        "label": "Trinity Palmetto Point Parish"
+                    }
+                ]
+            ],
+            [
+                "TPP",
+                []
+            ],
+            [
+                "K",
+                [
+                    "/wiki/Saint_Kitts"
+                ],
+                [
+                    {
+                        "entity id": "Q204989",
+                        "label": "Saint Kitts"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Current codes -- Parishes",
+    "section_text": "",
+    "uid": "ISO_3166-2:KN_1",
+    "intro": "ISO 3166-2:KN is the entry for Saint Kitts and Nevis in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1. Currently for Saint Kitts and Nevis, ISO 3166-2 codes are defined for two levels of subdivisions:"
+}

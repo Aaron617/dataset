@@ -1,0 +1,894 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Phytosaur",
+    "title": "Phytosaur",
+    "header": [
+        [
+            "Genus",
+            []
+        ],
+        [
+            "Status",
+            []
+        ],
+        [
+            "Age",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Unit",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Angistorhinus",
+                [
+                    "/wiki/Angistorhinus"
+                ],
+                [
+                    {
+                        "entity id": "Q2287966",
+                        "label": "Angistorhinus"
+                    }
+                ]
+            ],
+            [
+                "Valid",
+                []
+            ],
+            [
+                "Late Carnian",
+                [
+                    "/wiki/Carnian"
+                ],
+                [
+                    {
+                        "entity id": "Q911899",
+                        "label": "Carnian"
+                    }
+                ]
+            ],
+            [
+                "Morocco US",
+                [
+                    "/wiki/Morocco",
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q1028",
+                        "label": "Morocco"
+                    },
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Argana Formation Dockum Group Popo Agie Formation",
+                [
+                    "/wiki/Argana_Formation",
+                    "/wiki/Dockum_Group",
+                    "/wiki/Popo_Agie_Formation"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q614746",
+                        "label": "Dockum Group"
+                    },
+                    {
+                        "entity id": "Q7229444",
+                        "label": "Popo Agie Formation"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Arganarhinus",
+                [
+                    "/wiki/Arganarhinus"
+                ],
+                [
+                    {
+                        "entity id": "Q4789200",
+                        "label": "Arganarhinus"
+                    }
+                ]
+            ],
+            [
+                "Valid",
+                []
+            ],
+            [
+                "Middle Carnian",
+                [
+                    "/wiki/Carnian"
+                ],
+                [
+                    {
+                        "entity id": "Q911899",
+                        "label": "Carnian"
+                    }
+                ]
+            ],
+            [
+                "Morocco",
+                [
+                    "/wiki/Morocco"
+                ],
+                [
+                    {
+                        "entity id": "Q1028",
+                        "label": "Morocco"
+                    }
+                ]
+            ],
+            [
+                "Argana Formation",
+                [
+                    "/wiki/Argana_Formation"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Belodon",
+                [
+                    "/wiki/Belodon"
+                ],
+                [
+                    {
+                        "entity id": "Q986317",
+                        "label": "Belodon"
+                    }
+                ]
+            ],
+            [
+                "Nomen dubium",
+                [
+                    "/wiki/Nomen_dubium"
+                ],
+                [
+                    {
+                        "entity id": "Q922448",
+                        "label": "nomen dubium"
+                    }
+                ]
+            ],
+            [
+                "Middle Norian",
+                []
+            ],
+            [
+                "Germany US",
+                [
+                    "/wiki/Germany",
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    },
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Stubensandstein Chinle Formation",
+                [
+                    "/wiki/Stubensandstein",
+                    "/wiki/Chinle_Formation"
+                ],
+                [
+                    {
+                        "entity id": "Q1879971",
+                        "label": "Stubensandstein"
+                    },
+                    {
+                        "entity id": "Q1074382",
+                        "label": "Chinle Formation"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Brachysuchus",
+                [
+                    "/wiki/Brachysuchus"
+                ],
+                [
+                    {
+                        "entity id": "Q4953588",
+                        "label": "Brachysuchus"
+                    }
+                ]
+            ],
+            [
+                "Valid",
+                []
+            ],
+            [
+                "Carnian",
+                []
+            ],
+            [
+                "US",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Pre-Tecovas Horizon ( Dockum Group )",
+                [
+                    "/wiki/Dockum_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q614746",
+                        "label": "Dockum Group"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Centemodon",
+                [
+                    "/wiki/Centemodon"
+                ],
+                [
+                    {
+                        "entity id": "Q5059062",
+                        "label": "Centemodon"
+                    }
+                ]
+            ],
+            [
+                "Nomen dubium",
+                []
+            ],
+            [
+                "Norian",
+                []
+            ],
+            [
+                "US",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Cumnock Formation",
+                [
+                    "/wiki/Cumnock_Formation"
+                ],
+                [
+                    {
+                        "entity id": "Q17512260",
+                        "label": "Cumnock Formation"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Coburgosuchus",
+                [
+                    "/wiki/Coburgosuchus"
+                ],
+                [
+                    {
+                        "entity id": "Q4162449",
+                        "label": "Coburgosuchus"
+                    }
+                ]
+            ],
+            [
+                "Valid",
+                []
+            ],
+            [
+                "Norian",
+                []
+            ],
+            [
+                "Germany",
+                [
+                    "/wiki/Germany"
+                ],
+                [
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "? Diandongosuchus",
+                [
+                    "/wiki/Diandongosuchus"
+                ],
+                [
+                    {
+                        "entity id": "Q5271376",
+                        "label": "Diandongosuchus"
+                    }
+                ]
+            ],
+            [
+                "Valid",
+                []
+            ],
+            [
+                "Ladinian",
+                []
+            ],
+            [
+                "China",
+                [
+                    "/wiki/China"
+                ],
+                [
+                    {
+                        "entity id": "Q148",
+                        "label": "People's Republic of China"
+                    }
+                ]
+            ],
+            [
+                "Falang Formation",
+                []
+            ]
+        ],
+        [
+            [
+                "Ebrachosuchus",
+                [
+                    "/wiki/Ebrachosuchus"
+                ],
+                [
+                    {
+                        "entity id": "Q4162609",
+                        "label": "Ebrachosuchus"
+                    }
+                ]
+            ],
+            [
+                "Valid",
+                []
+            ],
+            [
+                "Late Carnian",
+                []
+            ],
+            [
+                "Germany",
+                [
+                    "/wiki/Germany"
+                ],
+                [
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    }
+                ]
+            ],
+            [
+                "Hassberge Formation",
+                [
+                    "/wiki/Hassberge_Formation"
+                ],
+                [
+                    {
+                        "entity id": "Q1588595",
+                        "label": "Hassberge Formation"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Francosuchus",
+                [
+                    "/wiki/Francosuchus"
+                ],
+                [
+                    {
+                        "entity id": "Q16753003",
+                        "label": "Francosuchus"
+                    }
+                ]
+            ],
+            [
+                "Nomen dubium",
+                []
+            ],
+            [
+                "Late Carnian",
+                []
+            ],
+            [
+                "Germany",
+                [
+                    "/wiki/Germany"
+                ],
+                [
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    }
+                ]
+            ],
+            [
+                "Hassberge Formation",
+                [
+                    "/wiki/Hassberge_Formation"
+                ],
+                [
+                    {
+                        "entity id": "Q1588595",
+                        "label": "Hassberge Formation"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Leptosuchus",
+                [
+                    "/wiki/Leptosuchus"
+                ],
+                [
+                    {
+                        "entity id": "Q6528542",
+                        "label": "Leptosuchus"
+                    }
+                ]
+            ],
+            [
+                "Valid",
+                []
+            ],
+            [
+                "Carnian",
+                []
+            ],
+            [
+                "US",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Tecovas Formation and unknown formation ( Dockum Group )",
+                [
+                    "/wiki/Tecovas_Formation"
+                ],
+                [
+                    {
+                        "entity id": "Q7692790",
+                        "label": "Tecovas Formation"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Machaeroprosopus",
+                [
+                    "/wiki/Machaeroprosopus"
+                ],
+                [
+                    {
+                        "entity id": "Q6723374",
+                        "label": "Machaeroprosopus"
+                    }
+                ]
+            ],
+            [
+                "Valid",
+                []
+            ],
+            [
+                "Carnian-Norian",
+                []
+            ],
+            [
+                "US",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Chinle Formation Dockum Group",
+                [
+                    "/wiki/Chinle_Formation",
+                    "/wiki/Dockum_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q1074382",
+                        "label": "Chinle Formation"
+                    },
+                    {
+                        "entity id": "Q614746",
+                        "label": "Dockum Group"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mesorhinosuchus",
+                [
+                    "/wiki/Mesorhinosuchus"
+                ],
+                [
+                    {
+                        "entity id": "Q10872683",
+                        "label": "Mesorhinosuchus"
+                    }
+                ]
+            ],
+            [
+                "? Valid",
+                []
+            ],
+            [
+                "Triassic , ? early Olenekian",
+                []
+            ],
+            [
+                "Germany",
+                [
+                    "/wiki/Germany"
+                ],
+                [
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    }
+                ]
+            ],
+            [
+                "? Middle Buntsandstein",
+                [
+                    "/wiki/Middle_Buntsandstein"
+                ],
+                [
+                    {
+                        "entity id": "Q1940659",
+                        "label": "Middle Buntsandstein"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mystriosuchus",
+                [
+                    "/wiki/Mystriosuchus"
+                ],
+                [
+                    {
+                        "entity id": "Q903342",
+                        "label": "Mystriosuchus"
+                    }
+                ]
+            ],
+            [
+                "Valid",
+                []
+            ],
+            [
+                "Middle Norian",
+                []
+            ],
+            [
+                "Germany",
+                [
+                    "/wiki/Germany"
+                ],
+                [
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    }
+                ]
+            ],
+            [
+                "Stubensandstein",
+                [
+                    "/wiki/Stubensandstein"
+                ],
+                [
+                    {
+                        "entity id": "Q1879971",
+                        "label": "Stubensandstein"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Nicrosaurus",
+                [
+                    "/wiki/Nicrosaurus"
+                ],
+                [
+                    {
+                        "entity id": "Q5224431",
+                        "label": "Nicrosaurus"
+                    }
+                ]
+            ],
+            [
+                "Valid",
+                []
+            ],
+            [
+                "Late Norian - Rhaetian",
+                []
+            ],
+            [
+                "France Germany",
+                [
+                    "/wiki/France",
+                    "/wiki/Germany"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    },
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    }
+                ]
+            ],
+            [
+                "Arnstadt Formation Upper Keuper",
+                [
+                    "/wiki/Keuper"
+                ],
+                [
+                    {
+                        "entity id": "Q37560850",
+                        "label": "Keuper"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Paleorhinus",
+                [
+                    "/wiki/Paleorhinus"
+                ],
+                [
+                    {
+                        "entity id": "Q21711013",
+                        "label": "Paleorhinus"
+                    }
+                ]
+            ],
+            [
+                "Junior synonym",
+                [
+                    "/wiki/Junior_synonym"
+                ],
+                [
+                    {
+                        "entity id": "Q65544853",
+                        "label": "junior synonym"
+                    }
+                ]
+            ],
+            [
+                "Late Carnian",
+                []
+            ],
+            [
+                "Germany Poland US",
+                [
+                    "/wiki/Germany",
+                    "/wiki/Poland",
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    },
+                    {
+                        "entity id": "Q36",
+                        "label": "Poland"
+                    },
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Hassberge Formation Middle Keuper Cooper Canyon Formation Popo Agie Formation Tecovas Formation",
+                [
+                    "/wiki/Hassberge_Formation",
+                    "/wiki/Keuper",
+                    "/wiki/Cooper_Canyon_Formation",
+                    "/wiki/Popo_Agie_Formation",
+                    "/wiki/Tecovas_Formation"
+                ],
+                [
+                    {
+                        "entity id": "Q1588595",
+                        "label": "Hassberge Formation"
+                    },
+                    {
+                        "entity id": "Q37560850",
+                        "label": "Keuper"
+                    },
+                    {
+                        "entity id": "Q5167753",
+                        "label": "Cooper Canyon Formation"
+                    },
+                    {
+                        "entity id": "Q7229444",
+                        "label": "Popo Agie Formation"
+                    },
+                    {
+                        "entity id": "Q7692790",
+                        "label": "Tecovas Formation"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Parasuchus",
+                [
+                    "/wiki/Parasuchus"
+                ],
+                [
+                    {
+                        "entity id": "Q251814",
+                        "label": "Parasuchus"
+                    }
+                ]
+            ],
+            [
+                "Valid",
+                []
+            ],
+            [
+                "Late Carnian - Early Norian",
+                []
+            ],
+            [
+                "India",
+                [
+                    "/wiki/India"
+                ],
+                [
+                    {
+                        "entity id": "Q668",
+                        "label": "India"
+                    }
+                ]
+            ],
+            [
+                "Lower Maleri Formation Tiki Formation",
+                [
+                    "/wiki/Lower_Maleri_Formation",
+                    "/wiki/Tiki_Formation"
+                ],
+                [
+                    {
+                        "entity id": "Q6693584",
+                        "label": "Lower Maleri Formation"
+                    },
+                    {
+                        "entity id": "Q7801921",
+                        "label": "Tiki Formation"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Pravusuchus",
+                [
+                    "/wiki/Pravusuchus"
+                ],
+                [
+                    {
+                        "entity id": "Q7238894",
+                        "label": "Pravusuchus"
+                    }
+                ]
+            ],
+            [
+                "Valid",
+                []
+            ],
+            [
+                "Norian",
+                []
+            ],
+            [
+                "US",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Chinle Formation",
+                [
+                    "/wiki/Chinle_Formation"
+                ],
+                [
+                    {
+                        "entity id": "Q1074382",
+                        "label": "Chinle Formation"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Classification -- Genera",
+    "section_text": "",
+    "uid": "Phytosaur_0",
+    "intro": "Phytosaurs are an extinct group of large, mostly semiaquatic Late Triassic archosauriform reptiles. Phytosaurs belong to the family Phytosauridae and the order Phytosauria. Phytosauria and Phytosauridae are often considered to be equivalent groupings containing the same species, but some studies have identified non-phytosaurid phytosaurians. Phytosaurs were long-snouted and heavily armoured, bearing a remarkable resemblance to modern crocodilians in size, appearance, and lifestyle, as an example of convergence or parallel evolution. The name phytosaur means plant reptile, as the first fossils of phytosaurs were mistakenly thought to belong to plant eaters. The name is misleading because the sharp teeth in phytosaur jaws clearly show that they were predators. For many years, phytosaurs were considered to be the most basal group of Pseudosuchia (crocodile-line archosaurs), meaning that they were thought to be more closely related to the crocodilians than to birds (the other living group of archosaurs). Some recent studies of the evolutionary relationships of early archosauriforms suggest that phytosaurs evolved before the split between crocodile- and bird-line archosaurs and are the sister taxon of Archosauria. Others retain the older classification of phytosaurs as pseudosuchians. Phytosaurs had a nearly global distribution during the Triassic. Fossils have been recovered from Europe, North America, India, Morocco, Thailand, Brazil, Greenland and Madagascar. Fossils attributed to phytosaurs have been found in Early Jurassic rocks, possibly extending their temporal range beyond the Triassic-Jurassic boundary."
+}

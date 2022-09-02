@@ -1,0 +1,951 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Tor_Air",
+    "title": "Tor Air",
+    "header": [
+        [
+            "City",
+            []
+        ],
+        [
+            "Country",
+            []
+        ],
+        [
+            "IATA",
+            []
+        ],
+        [
+            "ICAO",
+            []
+        ],
+        [
+            "Airport",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Baghdad",
+                [
+                    "/wiki/Baghdad"
+                ],
+                [
+                    {
+                        "entity id": "Q1530",
+                        "label": "Baghdad"
+                    }
+                ]
+            ],
+            [
+                "Iraq",
+                [
+                    "/wiki/Iraq"
+                ],
+                [
+                    {
+                        "entity id": "Q796",
+                        "label": "Iraq"
+                    }
+                ]
+            ],
+            [
+                "BGW",
+                []
+            ],
+            [
+                "ORBI",
+                []
+            ],
+            [
+                "Baghdad International Airport",
+                [
+                    "/wiki/Baghdad_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q304438",
+                        "label": "Baghdad International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Burgas",
+                [
+                    "/wiki/Burgas"
+                ],
+                [
+                    {
+                        "entity id": "Q6509",
+                        "label": "Burgas"
+                    }
+                ]
+            ],
+            [
+                "Bulgaria",
+                [
+                    "/wiki/Bulgaria"
+                ],
+                [
+                    {
+                        "entity id": "Q219",
+                        "label": "Bulgaria"
+                    }
+                ]
+            ],
+            [
+                "BOJ",
+                []
+            ],
+            [
+                "LBBG",
+                []
+            ],
+            [
+                "Burgas Airport",
+                [
+                    "/wiki/Burgas_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1324587",
+                        "label": "Burgas Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Chania",
+                [
+                    "/wiki/Chania"
+                ],
+                [
+                    {
+                        "entity id": "Q182299",
+                        "label": "Chania"
+                    }
+                ]
+            ],
+            [
+                "Greece",
+                [
+                    "/wiki/Greece"
+                ],
+                [
+                    {
+                        "entity id": "Q41",
+                        "label": "Greece"
+                    }
+                ]
+            ],
+            [
+                "CHQ",
+                []
+            ],
+            [
+                "LGSA",
+                []
+            ],
+            [
+                "Chania International Airport",
+                [
+                    "/wiki/Chania_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1232348",
+                        "label": "Chania International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Cologne / Bonn",
+                [
+                    "/wiki/Cologne",
+                    "/wiki/Bonn"
+                ],
+                [
+                    {
+                        "entity id": "Q365",
+                        "label": "Cologne"
+                    },
+                    {
+                        "entity id": "Q586",
+                        "label": "Bonn"
+                    }
+                ]
+            ],
+            [
+                "Germany",
+                [
+                    "/wiki/Germany"
+                ],
+                [
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    }
+                ]
+            ],
+            [
+                "CGN",
+                []
+            ],
+            [
+                "EDDK",
+                []
+            ],
+            [
+                "Cologne Bonn Airport",
+                [
+                    "/wiki/Cologne_Bonn_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q157741",
+                        "label": "Cologne Bonn Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Corfu",
+                [
+                    "/wiki/Corfu"
+                ],
+                [
+                    {
+                        "entity id": "Q121378",
+                        "label": "Corfu"
+                    }
+                ]
+            ],
+            [
+                "Greece",
+                [
+                    "/wiki/Greece"
+                ],
+                [
+                    {
+                        "entity id": "Q41",
+                        "label": "Greece"
+                    }
+                ]
+            ],
+            [
+                "CFU",
+                []
+            ],
+            [
+                "LGKR",
+                []
+            ],
+            [
+                "Corfu International Airport",
+                [
+                    "/wiki/Corfu_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1144233",
+                        "label": "Corfu International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dubrovnik",
+                [
+                    "/wiki/Dubrovnik"
+                ],
+                [
+                    {
+                        "entity id": "Q1722",
+                        "label": "Dubrovnik"
+                    }
+                ]
+            ],
+            [
+                "Croatia",
+                [
+                    "/wiki/Croatia"
+                ],
+                [
+                    {
+                        "entity id": "Q224",
+                        "label": "Croatia"
+                    }
+                ]
+            ],
+            [
+                "DBV",
+                []
+            ],
+            [
+                "LDDU",
+                []
+            ],
+            [
+                "Dubrovnik Airport",
+                [
+                    "/wiki/Dubrovnik_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1147000",
+                        "label": "Dubrovnik Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Erbil",
+                [
+                    "/wiki/Erbil"
+                ],
+                [
+                    {
+                        "entity id": "Q132754",
+                        "label": "Erbil"
+                    }
+                ]
+            ],
+            [
+                "Iraq",
+                [
+                    "/wiki/Iraq"
+                ],
+                [
+                    {
+                        "entity id": "Q796",
+                        "label": "Iraq"
+                    }
+                ]
+            ],
+            [
+                "EBL",
+                []
+            ],
+            [
+                "ORER",
+                []
+            ],
+            [
+                "Erbil International Airport",
+                [
+                    "/wiki/Erbil_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q648423",
+                        "label": "Erbil International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Faro",
+                [
+                    "/wiki/Faro,_Portugal"
+                ],
+                [
+                    {
+                        "entity id": "Q159457",
+                        "label": "Faro"
+                    }
+                ]
+            ],
+            [
+                "Portugal",
+                [
+                    "/wiki/Portugal"
+                ],
+                [
+                    {
+                        "entity id": "Q45",
+                        "label": "Portugal"
+                    }
+                ]
+            ],
+            [
+                "FAO",
+                []
+            ],
+            [
+                "LPFR",
+                []
+            ],
+            [
+                "Faro Airport",
+                [
+                    "/wiki/Faro_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q667001",
+                        "label": "Faro Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Friedrichshafen",
+                [
+                    "/wiki/Friedrichshafen"
+                ],
+                [
+                    {
+                        "entity id": "Q4051",
+                        "label": "Friedrichshafen"
+                    }
+                ]
+            ],
+            [
+                "Germany",
+                [
+                    "/wiki/Germany"
+                ],
+                [
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    }
+                ]
+            ],
+            [
+                "FDH",
+                []
+            ],
+            [
+                "EDNY",
+                []
+            ],
+            [
+                "Friedrichshafen Airport",
+                [
+                    "/wiki/Friedrichshafen_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q682232",
+                        "label": "Friedrichshafen Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Gothenburg",
+                [
+                    "/wiki/Gothenburg"
+                ],
+                [
+                    {
+                        "entity id": "Q25287",
+                        "label": "Gothenburg"
+                    }
+                ]
+            ],
+            [
+                "Sweden",
+                [
+                    "/wiki/Sweden"
+                ],
+                [
+                    {
+                        "entity id": "Q34",
+                        "label": "Sweden"
+                    }
+                ]
+            ],
+            [
+                "GSE",
+                []
+            ],
+            [
+                "ESGP",
+                []
+            ],
+            [
+                "Gothenburg City Airport",
+                [
+                    "/wiki/Gothenburg_City_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q844281",
+                        "label": "Gothenburg City Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Gothenburg",
+                [
+                    "/wiki/Gothenburg"
+                ],
+                [
+                    {
+                        "entity id": "Q25287",
+                        "label": "Gothenburg"
+                    }
+                ]
+            ],
+            [
+                "Sweden",
+                [
+                    "/wiki/Sweden"
+                ],
+                [
+                    {
+                        "entity id": "Q34",
+                        "label": "Sweden"
+                    }
+                ]
+            ],
+            [
+                "GOT",
+                []
+            ],
+            [
+                "ESGG",
+                []
+            ],
+            [
+                "G\u00f6teborg Landvetter Airport",
+                [
+                    "/wiki/G\u00f6teborg_Landvetter_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1137115",
+                        "label": "Gothenburg-Landvetter Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Heraklion",
+                [
+                    "/wiki/Heraklion"
+                ],
+                [
+                    {
+                        "entity id": "Q160544",
+                        "label": "Heraklion"
+                    }
+                ]
+            ],
+            [
+                "Greece",
+                [
+                    "/wiki/Greece"
+                ],
+                [
+                    {
+                        "entity id": "Q41",
+                        "label": "Greece"
+                    }
+                ]
+            ],
+            [
+                "HER",
+                []
+            ],
+            [
+                "LGIR",
+                []
+            ],
+            [
+                "Heraklion International Airport",
+                [
+                    "/wiki/Heraklion_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1142384",
+                        "label": "Heraklion International Airport \"Nikos Kazantzakis\""
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kalamata",
+                [
+                    "/wiki/Kalamata"
+                ],
+                [
+                    {
+                        "entity id": "Q167895",
+                        "label": "Kalamata"
+                    }
+                ]
+            ],
+            [
+                "Greece",
+                [
+                    "/wiki/Greece"
+                ],
+                [
+                    {
+                        "entity id": "Q41",
+                        "label": "Greece"
+                    }
+                ]
+            ],
+            [
+                "KLX",
+                []
+            ],
+            [
+                "LGKL",
+                []
+            ],
+            [
+                "Kalamata International Airport",
+                [
+                    "/wiki/Kalamata_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q924954",
+                        "label": "Kalamata International Airport \"Captain Vasilis Konstantakopoulos\""
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kefalonia",
+                [
+                    "/wiki/Kefalonia"
+                ],
+                [
+                    {
+                        "entity id": "Q178488",
+                        "label": "Kefalonia"
+                    }
+                ]
+            ],
+            [
+                "Greece",
+                [
+                    "/wiki/Greece"
+                ],
+                [
+                    {
+                        "entity id": "Q41",
+                        "label": "Greece"
+                    }
+                ]
+            ],
+            [
+                "EFL",
+                []
+            ],
+            [
+                "LGKF",
+                []
+            ],
+            [
+                "Kefalonia Island International Airport",
+                [
+                    "/wiki/Kefalonia_Island_International_Airport"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Kos",
+                [
+                    "/wiki/Kos"
+                ],
+                [
+                    {
+                        "entity id": "Q1246",
+                        "label": "Kosovo"
+                    }
+                ]
+            ],
+            [
+                "Greece",
+                [
+                    "/wiki/Greece"
+                ],
+                [
+                    {
+                        "entity id": "Q41",
+                        "label": "Greece"
+                    }
+                ]
+            ],
+            [
+                "KGS",
+                []
+            ],
+            [
+                "LGKO",
+                []
+            ],
+            [
+                "Kos Island International Airport",
+                [
+                    "/wiki/Kos_Island_International_Airport"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Larnaca",
+                [
+                    "/wiki/Larnaca"
+                ],
+                [
+                    {
+                        "entity id": "Q171882",
+                        "label": "Larnaca"
+                    }
+                ]
+            ],
+            [
+                "Cyprus",
+                [
+                    "/wiki/Cyprus"
+                ],
+                [
+                    {
+                        "entity id": "Q229",
+                        "label": "Cyprus"
+                    }
+                ]
+            ],
+            [
+                "LCA",
+                []
+            ],
+            [
+                "LCLK",
+                []
+            ],
+            [
+                "Larnaca International Airport",
+                [
+                    "/wiki/Larnaca_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q654636",
+                        "label": "Larnaca International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Lemnos",
+                [
+                    "/wiki/Lemnos"
+                ],
+                [
+                    {
+                        "entity id": "Q192483",
+                        "label": "Lemnos"
+                    }
+                ]
+            ],
+            [
+                "Greece",
+                [
+                    "/wiki/Greece"
+                ],
+                [
+                    {
+                        "entity id": "Q41",
+                        "label": "Greece"
+                    }
+                ]
+            ],
+            [
+                "LXS",
+                []
+            ],
+            [
+                "LGLM",
+                []
+            ],
+            [
+                "Lemnos International Airport",
+                [
+                    "/wiki/Lemnos_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2670580",
+                        "label": "Lemnos International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "London",
+                [
+                    "/wiki/London"
+                ],
+                [
+                    {
+                        "entity id": "Q84",
+                        "label": "London"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom",
+                [
+                    "/wiki/United_Kingdom"
+                ],
+                [
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    }
+                ]
+            ],
+            [
+                "LGW",
+                []
+            ],
+            [
+                "EGKK",
+                []
+            ],
+            [
+                "Gatwick Airport",
+                [
+                    "/wiki/Gatwick_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8703",
+                        "label": "Gatwick Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Malm\u00f6",
+                [
+                    "/wiki/Malm\u00f6"
+                ],
+                [
+                    {
+                        "entity id": "Q2211",
+                        "label": "Malm\u00f6"
+                    }
+                ]
+            ],
+            [
+                "Sweden",
+                [
+                    "/wiki/Sweden"
+                ],
+                [
+                    {
+                        "entity id": "Q34",
+                        "label": "Sweden"
+                    }
+                ]
+            ],
+            [
+                "MMX",
+                []
+            ],
+            [
+                "ESMS",
+                []
+            ],
+            [
+                "Malm\u00f6 Airport",
+                [
+                    "/wiki/Malm\u00f6_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q898922",
+                        "label": "Malm\u00f6 Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Manchester",
+                [
+                    "/wiki/Manchester"
+                ],
+                [
+                    {
+                        "entity id": "Q18125",
+                        "label": "Manchester"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom",
+                [
+                    "/wiki/United_Kingdom"
+                ],
+                [
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    }
+                ]
+            ],
+            [
+                "MAN",
+                []
+            ],
+            [
+                "EGCC",
+                []
+            ],
+            [
+                "Manchester Airport",
+                [
+                    "/wiki/Manchester_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8694",
+                        "label": "Manchester Airport"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Destinations",
+    "section_text": "Tor Air operated charter flights , serving the following destinations ( as of March 2011 ) : [ Base ] Base [ Seasonal ] Seasonal service",
+    "uid": "Tor_Air_0",
+    "intro": "Tor Air AB, operated as Tor Air, was a charter airline based in Gothenburg, Sweden, that operated between December 2008 and December 2011. Its main base was Gothenburg City Airport. This airline should not be mixed up with another Swedish charter airline named Tor-Air, which operated from 1964 and 1966 with Curtiss Commando and Douglas DC-3 aircraft."
+}

@@ -1,0 +1,1292 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_content_management_systems",
+    "title": "List of content management systems",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Platform",
+            []
+        ],
+        [
+            "Supported databases",
+            []
+        ],
+        [
+            "Latest stable release",
+            []
+        ],
+        [
+            "Licenses",
+            []
+        ],
+        [
+            "Latest release date",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "ATutor",
+                [
+                    "/wiki/ATutor"
+                ],
+                [
+                    {
+                        "entity id": "Q1852205",
+                        "label": "ATutor"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "MySQL",
+                [
+                    "/wiki/MySQL"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    }
+                ]
+            ],
+            [
+                "2.2.4",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2018-06-20 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "Backdrop CMS",
+                [
+                    "/wiki/Backdrop_CMS"
+                ],
+                [
+                    {
+                        "entity id": "Q65090182",
+                        "label": "Backdrop CMS"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "MySQL",
+                [
+                    "/wiki/MySQL"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    }
+                ]
+            ],
+            [
+                "1.15.0",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2020-01-15 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "Bolt ( CMS )",
+                [
+                    "/wiki/Bolt_(CMS)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "MySQL , PostgreSQL , SQLite",
+                [
+                    "/wiki/MySQL",
+                    "/wiki/PostgreSQL",
+                    "/wiki/SQLite"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    },
+                    {
+                        "entity id": "Q319417",
+                        "label": "SQLite"
+                    }
+                ]
+            ],
+            [
+                "3.6.10",
+                []
+            ],
+            [
+                "MIT",
+                [
+                    "/wiki/MIT_License"
+                ],
+                [
+                    {
+                        "entity id": "Q334661",
+                        "label": "MIT license"
+                    }
+                ]
+            ],
+            [
+                "2019-08-15 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "b2evolution",
+                [
+                    "/wiki/B2evolution"
+                ],
+                [
+                    {
+                        "entity id": "Q247598",
+                        "label": "b2evolution"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "MySQL , MariaDB",
+                [
+                    "/wiki/MySQL",
+                    "/wiki/MariaDB"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q787177",
+                        "label": "MariaDB"
+                    }
+                ]
+            ],
+            [
+                "6.11.2",
+                []
+            ],
+            [
+                "GPLv2",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2019-06-13 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "CMSimple",
+                [
+                    "/wiki/CMSimple"
+                ],
+                [
+                    {
+                        "entity id": "Q1023894",
+                        "label": "CMSimple"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "Flat-file database",
+                [
+                    "/wiki/Flat-file_database"
+                ],
+                [
+                    {
+                        "entity id": "Q1373925",
+                        "label": "flat file database"
+                    }
+                ]
+            ],
+            [
+                "4.7.8",
+                []
+            ],
+            [
+                "GPLv3",
+                [
+                    "/wiki/GPLv3"
+                ],
+                [
+                    {
+                        "entity id": "Q10513445",
+                        "label": "GNU General Public License, version 3.0"
+                    }
+                ]
+            ],
+            [
+                "2019-06-17",
+                []
+            ]
+        ],
+        [
+            [
+                "CMS Made Simple",
+                [
+                    "/wiki/CMS_Made_Simple"
+                ],
+                [
+                    {
+                        "entity id": "Q856341",
+                        "label": "CMS Made Simple"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "MySQL",
+                [
+                    "/wiki/MySQL"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    }
+                ]
+            ],
+            [
+                "2.2.10",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2019-03-06",
+                []
+            ]
+        ],
+        [
+            [
+                "Coderity",
+                [
+                    "/wiki/Coderity"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "MySQL",
+                [
+                    "/wiki/MySQL"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    }
+                ]
+            ],
+            [
+                "3.3.13",
+                []
+            ],
+            [
+                "MIT",
+                [
+                    "/wiki/MIT_License"
+                ],
+                [
+                    {
+                        "entity id": "Q334661",
+                        "label": "MIT license"
+                    }
+                ]
+            ],
+            [
+                "2015-02-27",
+                []
+            ]
+        ],
+        [
+            [
+                "Composr CMS",
+                [
+                    "/wiki/Composr_CMS"
+                ],
+                [
+                    {
+                        "entity id": "Q28127174",
+                        "label": "Composr CMS"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "MySQL",
+                [
+                    "/wiki/MySQL"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    }
+                ]
+            ],
+            [
+                "10.0.13",
+                []
+            ],
+            [
+                "CPAL",
+                [
+                    "/wiki/Common_Public_Attribution_License"
+                ],
+                [
+                    {
+                        "entity id": "Q1116195",
+                        "label": "Common Public Attribution License"
+                    }
+                ]
+            ],
+            [
+                "2018-01-22",
+                []
+            ]
+        ],
+        [
+            [
+                "concrete5",
+                [
+                    "/wiki/Concrete5"
+                ],
+                [
+                    {
+                        "entity id": "Q1935459",
+                        "label": "concrete5"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "MySQL , MariaDB",
+                [
+                    "/wiki/MySQL",
+                    "/wiki/MariaDB"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q787177",
+                        "label": "MariaDB"
+                    }
+                ]
+            ],
+            [
+                "8.5.2",
+                []
+            ],
+            [
+                "MIT",
+                [
+                    "/wiki/MIT_license"
+                ],
+                [
+                    {
+                        "entity id": "Q334661",
+                        "label": "MIT license"
+                    }
+                ]
+            ],
+            [
+                "2019-10-02",
+                []
+            ]
+        ],
+        [
+            [
+                "Contao",
+                [
+                    "/wiki/Contao"
+                ],
+                [
+                    {
+                        "entity id": "Q582482",
+                        "label": "Contao"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "MySQL",
+                [
+                    "/wiki/MySQL"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    }
+                ]
+            ],
+            [
+                "4.8.7",
+                []
+            ],
+            [
+                "LGPL",
+                [
+                    "/wiki/GNU_Lesser_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q192897",
+                        "label": "GNU Lesser General Public License"
+                    }
+                ]
+            ],
+            [
+                "2019-12-17 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "DokuWiki",
+                [
+                    "/wiki/DokuWiki"
+                ],
+                [
+                    {
+                        "entity id": "Q851864",
+                        "label": "DokuWiki"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "Flat-file database",
+                [
+                    "/wiki/Flat-file_database"
+                ],
+                [
+                    {
+                        "entity id": "Q1373925",
+                        "label": "flat file database"
+                    }
+                ]
+            ],
+            [
+                "2018-04-22b",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2018-04-22 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "Dotclear",
+                [
+                    "/wiki/Dotclear"
+                ],
+                [
+                    {
+                        "entity id": "Q3037390",
+                        "label": "Dotclear"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "MySQL , PostgreSQL , SQLite",
+                [
+                    "/wiki/MySQL",
+                    "/wiki/PostgreSQL",
+                    "/wiki/SQLite"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    },
+                    {
+                        "entity id": "Q319417",
+                        "label": "SQLite"
+                    }
+                ]
+            ],
+            [
+                "2.14.3",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2018-09-26 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "Drupal",
+                [
+                    "/wiki/Drupal"
+                ],
+                [
+                    {
+                        "entity id": "Q170855",
+                        "label": "Drupal"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "MariaDB , Microsoft SQL Server , MySQL , Oracle , Percona Server , PostgreSQL , SQLite",
+                [
+                    "/wiki/MariaDB",
+                    "/wiki/Microsoft_SQL_Server",
+                    "/wiki/MySQL",
+                    "/wiki/Oracle_database",
+                    "/wiki/Percona_Server",
+                    "/wiki/PostgreSQL",
+                    "/wiki/SQLite"
+                ],
+                [
+                    {
+                        "entity id": "Q787177",
+                        "label": "MariaDB"
+                    },
+                    {
+                        "entity id": "Q215819",
+                        "label": "Microsoft SQL Server"
+                    },
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q185524",
+                        "label": "Oracle Database"
+                    },
+                    {
+                        "entity id": "Q16688751",
+                        "label": "Percona Server for MySQL"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    },
+                    {
+                        "entity id": "Q319417",
+                        "label": "SQLite"
+                    }
+                ]
+            ],
+            [
+                "8.8.2",
+                []
+            ],
+            [
+                "GPLv2+",
+                [
+                    "/wiki/Gpl"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2020-02-01 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "Exponent CMS",
+                [
+                    "/wiki/Exponent_CMS"
+                ],
+                [
+                    {
+                        "entity id": "Q5421510",
+                        "label": "Exponent CMS"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "MySQL",
+                [
+                    "/wiki/MySQL"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    }
+                ]
+            ],
+            [
+                "2.5.0",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2019-03-14 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "eZ Platform",
+                [
+                    "/wiki/EZ_Platform"
+                ],
+                [
+                    {
+                        "entity id": "Q25345967",
+                        "label": "eZ Platform"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "MySQL , MariaDB , PostgreSQL",
+                [
+                    "/wiki/MySQL",
+                    "/wiki/MariaDB",
+                    "/wiki/PostgreSQL"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q787177",
+                        "label": "MariaDB"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    }
+                ]
+            ],
+            [
+                "2.5",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2019-03-29 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "eZ Publish",
+                [
+                    "/wiki/EZ_Publish"
+                ],
+                [
+                    {
+                        "entity id": "Q284693",
+                        "label": "eZ Publish"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "MySQL , PostgreSQL , Oracle , Microsoft SQL Server",
+                [
+                    "/wiki/MySQL",
+                    "/wiki/PostgreSQL",
+                    "/wiki/Oracle_database",
+                    "/wiki/Microsoft_SQL_Server"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    },
+                    {
+                        "entity id": "Q185524",
+                        "label": "Oracle Database"
+                    },
+                    {
+                        "entity id": "Q215819",
+                        "label": "Microsoft SQL Server"
+                    }
+                ]
+            ],
+            [
+                "5.4",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2014-12-02",
+                []
+            ]
+        ],
+        [
+            [
+                "Geeklog",
+                [
+                    "/wiki/Geeklog"
+                ],
+                [
+                    {
+                        "entity id": "Q3098876",
+                        "label": "Geeklog"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "MySQL , PostgreSQL , Microsoft SQL Server",
+                [
+                    "/wiki/MySQL",
+                    "/wiki/PostgreSQL",
+                    "/wiki/Microsoft_SQL_Server"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    },
+                    {
+                        "entity id": "Q215819",
+                        "label": "Microsoft SQL Server"
+                    }
+                ]
+            ],
+            [
+                "2.2.0",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2018-06-26 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "GetSimple CMS",
+                [
+                    "/wiki/GetSimple_CMS"
+                ],
+                [
+                    {
+                        "entity id": "Q4168833",
+                        "label": "GetSimple CMS"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "Flat-file database",
+                [
+                    "/wiki/Flat-file_database"
+                ],
+                [
+                    {
+                        "entity id": "Q1373925",
+                        "label": "flat file database"
+                    }
+                ]
+            ],
+            [
+                "3.3.14",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2018-09-01",
+                []
+            ]
+        ],
+        [
+            [
+                "Grav",
+                [
+                    "/wiki/Grav_(CMS)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "Flat-file database",
+                [
+                    "/wiki/Flat-file_database"
+                ],
+                [
+                    {
+                        "entity id": "Q1373925",
+                        "label": "flat file database"
+                    }
+                ]
+            ],
+            [
+                "1.6.20",
+                []
+            ],
+            [
+                "MIT",
+                [
+                    "/wiki/MIT_license"
+                ],
+                [
+                    {
+                        "entity id": "Q334661",
+                        "label": "MIT license"
+                    }
+                ]
+            ],
+            [
+                "2020-02-03 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "Habari",
+                [
+                    "/wiki/Habari"
+                ],
+                [
+                    {
+                        "entity id": "Q1067454",
+                        "label": "Habari"
+                    }
+                ]
+            ],
+            [
+                "PHP",
+                [
+                    "/wiki/PHP"
+                ],
+                [
+                    {
+                        "entity id": "Q59",
+                        "label": "PHP"
+                    }
+                ]
+            ],
+            [
+                "MySQL , PostgreSQL , SQLite",
+                [
+                    "/wiki/MySQL",
+                    "/wiki/PostgreSQL",
+                    "/wiki/SQLite"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    },
+                    {
+                        "entity id": "Q319417",
+                        "label": "SQLite"
+                    }
+                ]
+            ],
+            [
+                "0.9.2",
+                []
+            ],
+            [
+                "Apache License",
+                [
+                    "/wiki/Apache_License"
+                ],
+                [
+                    {
+                        "entity id": "Q616526",
+                        "label": "Apache License"
+                    }
+                ]
+            ],
+            [
+                "2014-09-16",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Open source software -- PHP",
+    "section_text": "",
+    "uid": "List_of_content_management_systems_4",
+    "intro": "This is a list of notable content management systems that are used to organize and facilitate collaborative content creation. Many of them are built on top of separate content management frameworks."
+}

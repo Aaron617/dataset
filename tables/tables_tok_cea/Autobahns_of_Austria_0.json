@@ -1,0 +1,1229 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Autobahns_of_Austria",
+    "title": "Autobahns of Austria",
+    "header": [
+        [
+            "Number",
+            []
+        ],
+        [
+            "Name",
+            []
+        ],
+        [
+            "Route",
+            []
+        ],
+        [
+            "Length ( km )",
+            []
+        ],
+        [
+            "Length ( mi )",
+            []
+        ],
+        [
+            "Status",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "A1",
+                [
+                    "/wiki/West_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429138",
+                        "label": "West Autobahn"
+                    }
+                ]
+            ],
+            [
+                "West Autobahn",
+                [
+                    "/wiki/West_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429138",
+                        "label": "West Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Vienna Auhof - Sankt P\u00f6lten - Linz - Salzburg - Walserberg border crossing ( German Bundesautobahn 8 )",
+                [
+                    "/wiki/Vienna",
+                    "/wiki/Penzing_(Vienna)",
+                    "/wiki/Sankt_P\u00f6lten",
+                    "/wiki/Linz",
+                    "/wiki/Salzburg",
+                    "/wiki/Wals-Siezenheim",
+                    "/wiki/Bundesautobahn_8"
+                ],
+                [
+                    {
+                        "entity id": "Q1741",
+                        "label": "Vienna"
+                    },
+                    {
+                        "entity id": "Q690335",
+                        "label": "Penzing"
+                    },
+                    {
+                        "entity id": "Q82500",
+                        "label": "St. P\u00f6lten"
+                    },
+                    {
+                        "entity id": "Q41329",
+                        "label": "Linz"
+                    },
+                    {
+                        "entity id": "Q34713",
+                        "label": "Salzburg"
+                    },
+                    {
+                        "entity id": "Q871414",
+                        "label": "Wals-Siezenheim"
+                    },
+                    {
+                        "entity id": "Q9020",
+                        "label": "Bundesautobahn 8"
+                    }
+                ]
+            ],
+            [
+                "292",
+                []
+            ],
+            [
+                "181",
+                []
+            ],
+            [
+                "Open",
+                []
+            ]
+        ],
+        [
+            [
+                "A2",
+                [
+                    "/wiki/S\u00fcd_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429392",
+                        "label": "S\u00fcd Autobahn"
+                    }
+                ]
+            ],
+            [
+                "S\u00fcd Autobahn",
+                [
+                    "/wiki/S\u00fcd_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429392",
+                        "label": "S\u00fcd Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Vienna Inzersdorf interchange ( A23 ) - Wiener Neustadt - Graz - Klagenfurt - Th\u00f6rl-Maglern border crossing ( Italian Autostrada 23 )",
+                [
+                    "/wiki/Inzersdorf_(Vienna)",
+                    "/wiki/Wiener_Neustadt",
+                    "/wiki/Graz",
+                    "/wiki/Klagenfurt",
+                    "/wiki/Arnoldstein",
+                    "/wiki/Autostrade_of_Italy"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q131612",
+                        "label": "Wiener Neustadt"
+                    },
+                    {
+                        "entity id": "Q13298",
+                        "label": "Graz"
+                    },
+                    {
+                        "entity id": "Q41753",
+                        "label": "Klagenfurt"
+                    },
+                    {
+                        "entity id": "Q660716",
+                        "label": "Arnoldstein"
+                    },
+                    {
+                        "entity id": "Q1050112",
+                        "label": "Autostrade of Italy"
+                    }
+                ]
+            ],
+            [
+                "377",
+                []
+            ],
+            [
+                "234",
+                []
+            ],
+            [
+                "Open",
+                []
+            ]
+        ],
+        [
+            [
+                "A3",
+                [
+                    "/wiki/S\u00fcdost_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429525",
+                        "label": "S\u00fcdost Autobahn"
+                    }
+                ]
+            ],
+            [
+                "S\u00fcdost Autobahn",
+                [
+                    "/wiki/S\u00fcdost_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429525",
+                        "label": "S\u00fcdost Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Guntramsdorf interchange ( A2 ) - Eisenstadt interchange ( S31 )",
+                [
+                    "/wiki/Guntramsdorf",
+                    "/wiki/Eisenstadt"
+                ],
+                [
+                    {
+                        "entity id": "Q661877",
+                        "label": "Guntramsdorf"
+                    },
+                    {
+                        "entity id": "Q126321",
+                        "label": "Eisenstadt"
+                    }
+                ]
+            ],
+            [
+                "38",
+                []
+            ],
+            [
+                "24",
+                []
+            ],
+            [
+                "open ; Eisenstadt - Klingenbach border crossing ( Hungarian M85 motorway ) : planned",
+                [
+                    "/wiki/Klingenbach",
+                    "/wiki/M85_expressway_(Hungary)"
+                ],
+                [
+                    {
+                        "entity id": "Q662564",
+                        "label": "Klingenbach"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "A4",
+                [
+                    "/wiki/Ostautobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429640",
+                        "label": "Ost Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Ost Autobahn",
+                [
+                    "/wiki/Ost_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429640",
+                        "label": "Ost Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Vienna Erdberg - Schwechat - Nickelsdorf border crossing ( Hungarian M1 motorway )",
+                [
+                    "/wiki/Landstra\u00dfe",
+                    "/wiki/Schwechat",
+                    "/wiki/Nickelsdorf",
+                    "/wiki/M1_motorway_(Hungary)"
+                ],
+                [
+                    {
+                        "entity id": "Q519552",
+                        "label": "Landstra\u00dfe"
+                    },
+                    {
+                        "entity id": "Q489972",
+                        "label": "Schwechat"
+                    },
+                    {
+                        "entity id": "Q660749",
+                        "label": "Nickelsdorf"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "66",
+                []
+            ],
+            [
+                "41",
+                []
+            ],
+            [
+                "Open",
+                []
+            ]
+        ],
+        [
+            [
+                "A5",
+                [
+                    "/wiki/Nordautobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429702",
+                        "label": "North Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Nord Autobahn",
+                [
+                    "/wiki/Nord_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429702",
+                        "label": "North Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Eibesbrunn interchange ( S1 ) - Wolkersdorf - Poysdorf",
+                [
+                    "/wiki/Grossebersdorf",
+                    "/wiki/Wolkersdorf_im_Weinviertel",
+                    "/wiki/Poysdorf"
+                ],
+                [
+                    {
+                        "entity id": "Q123416",
+                        "label": "Gro\u00dfebersdorf"
+                    },
+                    {
+                        "entity id": "Q700397",
+                        "label": "Wolkersdorf im Weinviertel"
+                    },
+                    {
+                        "entity id": "Q661260",
+                        "label": "Poysdorf"
+                    }
+                ]
+            ],
+            [
+                "24",
+                []
+            ],
+            [
+                "15",
+                []
+            ],
+            [
+                "Open ; Poysdorf - Drasenhofen border crossing ( Czech R52 expressway ) : planned",
+                [
+                    "/wiki/Drasenhofen",
+                    "/wiki/R52_expressway_(Czech_Republic)"
+                ],
+                [
+                    {
+                        "entity id": "Q691841",
+                        "label": "Drasenhofen"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "A6",
+                [
+                    "/wiki/Nordost_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429819",
+                        "label": "Nordost Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Nordost Autobahn",
+                [
+                    "/wiki/Nordost_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429819",
+                        "label": "Nordost Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Bruckneudorf interchange - Kittsee border crossing ( Slovakian D4 motorway )",
+                [
+                    "/wiki/Bruckneudorf",
+                    "/wiki/Kittsee",
+                    "/wiki/D4_motorway_(Slovakia)"
+                ],
+                [
+                    {
+                        "entity id": "Q660740",
+                        "label": "Bruckneudorf"
+                    },
+                    {
+                        "entity id": "Q680628",
+                        "label": "Kittsee"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "22",
+                []
+            ],
+            [
+                "14",
+                []
+            ],
+            [
+                "Open",
+                []
+            ]
+        ],
+        [
+            [
+                "A7",
+                [
+                    "/wiki/M\u00fchlkreis_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429920",
+                        "label": "M\u00fchlkreis Autobahn"
+                    }
+                ]
+            ],
+            [
+                "M\u00fchlkreis Autobahn",
+                [
+                    "/wiki/M\u00fchlkreis_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429920",
+                        "label": "M\u00fchlkreis Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Linz interchange ( A1 ) - Unterweitersdorf ( connection M\u00fchlviertler Schnellstra\u00dfe ( S10 ) to Czech D3 motorway under construction )",
+                [
+                    "/wiki/Linz",
+                    "/wiki/Unterweitersdorf",
+                    "/wiki/M\u00fchlviertler_Schnellstra\u00dfe",
+                    "/wiki/D3_motorway_(Czech_Republic)"
+                ],
+                [
+                    {
+                        "entity id": "Q41329",
+                        "label": "Linz"
+                    },
+                    {
+                        "entity id": "Q263457",
+                        "label": "Unterweitersdorf"
+                    },
+                    {
+                        "entity id": "Q681174",
+                        "label": "S10 expressway"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "29",
+                []
+            ],
+            [
+                "18",
+                []
+            ],
+            [
+                "Open",
+                []
+            ]
+        ],
+        [
+            [
+                "A8",
+                [
+                    "/wiki/Innkreis_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q430019",
+                        "label": "Innkreis Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Innkreis Autobahn",
+                [
+                    "/wiki/Innkreis_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q430019",
+                        "label": "Innkreis Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Voralpenkreuz interchange ( A1 , A9 ) - Wels - Suben border crossing ( German Bundesautobahn 3 )",
+                [
+                    "/wiki/Sattledt",
+                    "/wiki/Wels",
+                    "/wiki/Suben",
+                    "/wiki/Bundesautobahn_3"
+                ],
+                [
+                    {
+                        "entity id": "Q664111",
+                        "label": "Sattledt"
+                    },
+                    {
+                        "entity id": "Q178582",
+                        "label": "Wels"
+                    },
+                    {
+                        "entity id": "Q683099",
+                        "label": "Suben"
+                    },
+                    {
+                        "entity id": "Q9011",
+                        "label": "Bundesautobahn 3"
+                    }
+                ]
+            ],
+            [
+                "76",
+                []
+            ],
+            [
+                "47",
+                []
+            ],
+            [
+                "Open",
+                []
+            ]
+        ],
+        [
+            [
+                "A9",
+                [
+                    "/wiki/Pyhrnautobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q430066",
+                        "label": "Pyhrn Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Pyhrn Autobahn",
+                [
+                    "/wiki/Pyhrn_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q430066",
+                        "label": "Pyhrn Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Voralpenkreuz interchange ( A1 , A8 ) - Graz - Spielfeld border crossing ( Slovenian A1 motorway )",
+                [
+                    "/wiki/Sattledt",
+                    "/wiki/Graz",
+                    "/wiki/Spielfeld",
+                    "/wiki/A1_motorway_(Slovenia)"
+                ],
+                [
+                    {
+                        "entity id": "Q664111",
+                        "label": "Sattledt"
+                    },
+                    {
+                        "entity id": "Q13298",
+                        "label": "Graz"
+                    },
+                    {
+                        "entity id": "Q672498",
+                        "label": "Spielfeld"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "230",
+                []
+            ],
+            [
+                "140",
+                []
+            ],
+            [
+                "Open ; some two-way tunnels",
+                []
+            ]
+        ],
+        [
+            [
+                "A10",
+                [
+                    "/wiki/Tauern_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q369323",
+                        "label": "Tauern Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Tauern Autobahn",
+                [
+                    "/wiki/Tauern_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q369323",
+                        "label": "Tauern Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Salzburg interchange ( A1 ) - Villach interchange ( A2 , A11 )",
+                [
+                    "/wiki/Salzburg",
+                    "/wiki/Villach"
+                ],
+                [
+                    {
+                        "entity id": "Q34713",
+                        "label": "Salzburg"
+                    },
+                    {
+                        "entity id": "Q483522",
+                        "label": "Villach"
+                    }
+                ]
+            ],
+            [
+                "193",
+                []
+            ],
+            [
+                "120",
+                []
+            ],
+            [
+                "Open",
+                []
+            ]
+        ],
+        [
+            [
+                "A11",
+                [
+                    "/wiki/Karawanken_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429239",
+                        "label": "Karawanken Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Karawanken Autobahn",
+                [
+                    "/wiki/Karawanken_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429239",
+                        "label": "Karawanken Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Villach interchange ( A2 , A10 ) - Karawanken Tunnel border crossing ( Slovenian A2 motorway )",
+                [
+                    "/wiki/Villach",
+                    "/wiki/Karawanken_Tunnel_(motorway)",
+                    "/wiki/A2_motorway_(Slovenia)"
+                ],
+                [
+                    {
+                        "entity id": "Q483522",
+                        "label": "Villach"
+                    },
+                    {},
+                    {}
+                ]
+            ],
+            [
+                "21",
+                []
+            ],
+            [
+                "13",
+                []
+            ],
+            [
+                "Open ; one two-way tunnel",
+                []
+            ]
+        ],
+        [
+            [
+                "A12",
+                [
+                    "/wiki/Inn_Valley_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429253",
+                        "label": "Inn Valley Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Inn Valley Autobahn",
+                [
+                    "/wiki/Inn_Valley_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429253",
+                        "label": "Inn Valley Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Kufstein border crossing ( German Bundesautobahn 93 ) - Innsbruck - Zams ( Arlberg Schnellstra\u00dfe ( S16 ) )",
+                [
+                    "/wiki/Kufstein",
+                    "/wiki/Bundesautobahn_93",
+                    "/wiki/Innsbruck",
+                    "/wiki/Zams"
+                ],
+                [
+                    {
+                        "entity id": "Q486341",
+                        "label": "Kufstein"
+                    },
+                    {
+                        "entity id": "Q10848",
+                        "label": "Bundesautobahn 93"
+                    },
+                    {
+                        "entity id": "Q1735",
+                        "label": "Innsbruck"
+                    },
+                    {
+                        "entity id": "Q145997",
+                        "label": "Zams"
+                    }
+                ]
+            ],
+            [
+                "153",
+                []
+            ],
+            [
+                "95",
+                []
+            ],
+            [
+                "Open",
+                []
+            ]
+        ],
+        [
+            [
+                "A13",
+                [
+                    "/wiki/Brenner_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q357016",
+                        "label": "Brenner Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Brenner Autobahn",
+                [
+                    "/wiki/Brenner_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q357016",
+                        "label": "Brenner Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Innsbruck interchange ( A12 ) - Brenner Pass border crossing ( Italian Autostrada 22 )",
+                [
+                    "/wiki/Innsbruck",
+                    "/wiki/Brenner_Pass",
+                    "/wiki/Autostrade_of_Italy"
+                ],
+                [
+                    {
+                        "entity id": "Q1735",
+                        "label": "Innsbruck"
+                    },
+                    {
+                        "entity id": "Q212946",
+                        "label": "Brenner Pass"
+                    },
+                    {
+                        "entity id": "Q1050112",
+                        "label": "Autostrade of Italy"
+                    }
+                ]
+            ],
+            [
+                "35",
+                []
+            ],
+            [
+                "22",
+                []
+            ],
+            [
+                "Open",
+                []
+            ]
+        ],
+        [
+            [
+                "A14",
+                [
+                    "/wiki/Walgau_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429267",
+                        "label": "Rheintal/Walgau Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Rheintal/Walgau Autobahn",
+                [
+                    "/wiki/Rheintal/Walgau_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429267",
+                        "label": "Rheintal/Walgau Autobahn"
+                    }
+                ]
+            ],
+            [
+                "H\u00f6rbranz border crossing ( German Bundesautobahn 96 ) - Bregenz - Feldkirch - Bludenz - Montafon ( Arlberg Schnellstra\u00dfe ( S16 ) )",
+                [
+                    "/wiki/H\u00f6rbranz",
+                    "/wiki/Bundesautobahn_96",
+                    "/wiki/Bregenz",
+                    "/wiki/Feldkirch,_Vorarlberg",
+                    "/wiki/Bludenz",
+                    "/wiki/Montafon"
+                ],
+                [
+                    {
+                        "entity id": "Q261132",
+                        "label": "H\u00f6rbranz"
+                    },
+                    {
+                        "entity id": "Q10853",
+                        "label": "Bundesautobahn 96"
+                    },
+                    {
+                        "entity id": "Q1737",
+                        "label": "Bregenz"
+                    },
+                    {
+                        "entity id": "Q183104",
+                        "label": "Feldkirch"
+                    },
+                    {
+                        "entity id": "Q494504",
+                        "label": "Bludenz"
+                    },
+                    {
+                        "entity id": "Q698628",
+                        "label": "Montafon"
+                    }
+                ]
+            ],
+            [
+                "61",
+                []
+            ],
+            [
+                "38",
+                []
+            ],
+            [
+                "Open",
+                []
+            ]
+        ],
+        [
+            [
+                "A21",
+                []
+            ],
+            [
+                "Wiener Au\u00dfenring Autobahn",
+                []
+            ],
+            [
+                "Steinh\u00e4usl interchange ( A1 ) - Alland - V\u00f6sendorf interchange ( A2 , S1 )",
+                [
+                    "/wiki/Altlengbach",
+                    "/wiki/Alland",
+                    "/wiki/V\u00f6sendorf"
+                ],
+                [
+                    {
+                        "entity id": "Q442408",
+                        "label": "Altlengbach"
+                    },
+                    {
+                        "entity id": "Q665137",
+                        "label": "Alland"
+                    },
+                    {
+                        "entity id": "Q661694",
+                        "label": "V\u00f6sendorf"
+                    }
+                ]
+            ],
+            [
+                "38",
+                []
+            ],
+            [
+                "24",
+                []
+            ],
+            [
+                "Open",
+                []
+            ]
+        ],
+        [
+            [
+                "A22",
+                []
+            ],
+            [
+                "Donauufer Autobahn",
+                []
+            ],
+            [
+                "Vienna Kaiserm\u00fchlen interchange ( A23 ) - Korneuburg - Stockerau interchange ( S3 , S5 )",
+                [
+                    "/wiki/Donaustadt",
+                    "/wiki/Korneuburg",
+                    "/wiki/Stockerau"
+                ],
+                [
+                    {
+                        "entity id": "Q258333",
+                        "label": "Donaustadt"
+                    },
+                    {
+                        "entity id": "Q659841",
+                        "label": "Korneuburg"
+                    },
+                    {
+                        "entity id": "Q494283",
+                        "label": "Stockerau"
+                    }
+                ]
+            ],
+            [
+                "34",
+                []
+            ],
+            [
+                "21",
+                []
+            ],
+            [
+                "Open ; Kaiserm\u00fchlen - Kaiserebersdorf interchange ( A4 ) : proposed",
+                [
+                    "/wiki/Simmering_(Vienna)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "A23",
+                [
+                    "/wiki/S\u00fcdosttangente"
+                ],
+                [
+                    {
+                        "entity id": "Q429489",
+                        "label": "Autobahn S\u00fcdosttangente Wien A23"
+                    }
+                ]
+            ],
+            [
+                "Autobahn S\u00fcdosttangente Wien",
+                [
+                    "/wiki/Autobahn_S\u00fcdosttangente_Wien"
+                ],
+                [
+                    {
+                        "entity id": "Q429489",
+                        "label": "Autobahn S\u00fcdosttangente Wien A23"
+                    }
+                ]
+            ],
+            [
+                "Vienna Altmannsdorf - Vienna Hirschstetten",
+                [
+                    "/wiki/Meidling",
+                    "/wiki/Donaustadt"
+                ],
+                [
+                    {
+                        "entity id": "Q697557",
+                        "label": "Meidling"
+                    },
+                    {
+                        "entity id": "Q258333",
+                        "label": "Donaustadt"
+                    }
+                ]
+            ],
+            [
+                "18",
+                []
+            ],
+            [
+                "11",
+                []
+            ],
+            [
+                "Open ; Hirschstetten - Raasdorf interchange ( S1 ) : planned",
+                [
+                    "/wiki/Raasdorf"
+                ],
+                [
+                    {
+                        "entity id": "Q700182",
+                        "label": "Raasdorf"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "A24",
+                []
+            ],
+            [
+                "Verbindungsspange Rothneusiedl",
+                []
+            ],
+            [
+                "Vienna Hanssonkurve interchange ( A23 ) - Vienna Rothneusiedl interchange ( S1 )",
+                [
+                    "/wiki/Autobahn_S\u00fcdosttangente_Wien",
+                    "/wiki/Favoriten"
+                ],
+                [
+                    {
+                        "entity id": "Q429489",
+                        "label": "Autobahn S\u00fcdosttangente Wien A23"
+                    },
+                    {
+                        "entity id": "Q697548",
+                        "label": "Favoriten"
+                    }
+                ]
+            ],
+            [
+                "0",
+                []
+            ],
+            [
+                "0",
+                []
+            ],
+            [
+                "Plans rejected",
+                []
+            ]
+        ],
+        [
+            [
+                "A25",
+                [
+                    "/wiki/Welser_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429491",
+                        "label": "Welser Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Welser Autobahn",
+                [
+                    "/wiki/Welser_Autobahn"
+                ],
+                [
+                    {
+                        "entity id": "Q429491",
+                        "label": "Welser Autobahn"
+                    }
+                ]
+            ],
+            [
+                "Haid interchange ( A1 ) - Wels interchange ( A8 )",
+                [
+                    "/wiki/Ansfelden",
+                    "/wiki/Wels"
+                ],
+                [
+                    {
+                        "entity id": "Q257130",
+                        "label": "Ansfelden"
+                    },
+                    {
+                        "entity id": "Q178582",
+                        "label": "Wels"
+                    }
+                ]
+            ],
+            [
+                "20",
+                []
+            ],
+            [
+                "12",
+                []
+            ],
+            [
+                "Open",
+                []
+            ]
+        ],
+        [
+            [
+                "A26",
+                []
+            ],
+            [
+                "Linzer Autobahn",
+                []
+            ],
+            [
+                "Hummelhof interchange ( A7 ) - Urfahr interchange ( A7 )",
+                [
+                    "/wiki/Linz",
+                    "/wiki/Linz"
+                ],
+                [
+                    {
+                        "entity id": "Q41329",
+                        "label": "Linz"
+                    },
+                    {
+                        "entity id": "Q41329",
+                        "label": "Linz"
+                    }
+                ]
+            ],
+            [
+                "0",
+                []
+            ],
+            [
+                "0",
+                []
+            ],
+            [
+                "Planned",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Autobahn system",
+    "section_text": "The system is going to be expanded ; one autobahn is currently under construction , and one more is planned . The transit traffic across the main chain of the Alps , especially by trucks , has led to a considerable environmental load to the fragile Alpine ecosystem . Several action groups urge the transfer of freight transport from road to rail . In 1991 , Austria signed the Alpine Convention on the protection of the natural environment .",
+    "uid": "Autobahns_of_Austria_0",
+    "intro": "The Austrian autobahns are controlled-access highways in Austria. They are officially called Bundesstra\u00dfen A (Bundesautobahnen) under the authority of the Federal Government according to the Austrian Federal Road Act (Bundesstra\u00dfengesetz), not to be confused with the former Bundesstra\u00dfen highways maintained by the Austrian states since 2002."
+}

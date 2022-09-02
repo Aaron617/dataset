@@ -1,0 +1,412 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Fortune_Global_500",
+    "title": "Fortune Global 500",
+    "header": [
+        [
+            "Rank",
+            []
+        ],
+        [
+            "Company",
+            []
+        ],
+        [
+            "Country",
+            []
+        ],
+        [
+            "Industry",
+            []
+        ],
+        [
+            "Revenue in USD",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1",
+                []
+            ],
+            [
+                "Walmart",
+                [
+                    "/wiki/Walmart"
+                ],
+                [
+                    {
+                        "entity id": "Q483551",
+                        "label": "Walmart"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Retail",
+                []
+            ],
+            [
+                "$ 486 billion",
+                []
+            ]
+        ],
+        [
+            [
+                "2",
+                []
+            ],
+            [
+                "State Grid",
+                [
+                    "/wiki/State_Grid"
+                ],
+                [
+                    {
+                        "entity id": "Q209078",
+                        "label": "State Grid Corporation of China"
+                    }
+                ]
+            ],
+            [
+                "China",
+                [
+                    "/wiki/China"
+                ],
+                [
+                    {
+                        "entity id": "Q148",
+                        "label": "People's Republic of China"
+                    }
+                ]
+            ],
+            [
+                "Energy",
+                []
+            ],
+            [
+                "$ 316 billion",
+                []
+            ]
+        ],
+        [
+            [
+                "3",
+                []
+            ],
+            [
+                "Sinopec Group",
+                [
+                    "/wiki/China_Petrochemical_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q2634317",
+                        "label": "China Petrochemical Corporation"
+                    }
+                ]
+            ],
+            [
+                "China",
+                [
+                    "/wiki/China"
+                ],
+                [
+                    {
+                        "entity id": "Q148",
+                        "label": "People's Republic of China"
+                    }
+                ]
+            ],
+            [
+                "Petroleum",
+                []
+            ],
+            [
+                "$ 268 billion",
+                []
+            ]
+        ],
+        [
+            [
+                "4",
+                []
+            ],
+            [
+                "China National Petroleum",
+                [
+                    "/wiki/China_National_Petroleum"
+                ],
+                [
+                    {
+                        "entity id": "Q588786",
+                        "label": "China National Petroleum Corporation"
+                    }
+                ]
+            ],
+            [
+                "China",
+                [
+                    "/wiki/China"
+                ],
+                [
+                    {
+                        "entity id": "Q148",
+                        "label": "People's Republic of China"
+                    }
+                ]
+            ],
+            [
+                "Petroleum",
+                []
+            ],
+            [
+                "$ 263 billion",
+                []
+            ]
+        ],
+        [
+            [
+                "5",
+                []
+            ],
+            [
+                "Toyota Motor",
+                [
+                    "/wiki/Toyota_Motor"
+                ],
+                [
+                    {
+                        "entity id": "Q53268",
+                        "label": "Toyota"
+                    }
+                ]
+            ],
+            [
+                "Japan",
+                [
+                    "/wiki/Japan"
+                ],
+                [
+                    {
+                        "entity id": "Q17",
+                        "label": "Japan"
+                    }
+                ]
+            ],
+            [
+                "Automobiles",
+                []
+            ],
+            [
+                "$ 255 billion",
+                []
+            ]
+        ],
+        [
+            [
+                "6",
+                []
+            ],
+            [
+                "Volkswagen",
+                [
+                    "/wiki/Volkswagen_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q156578",
+                        "label": "Volkswagen Group"
+                    }
+                ]
+            ],
+            [
+                "Germany",
+                [
+                    "/wiki/Germany"
+                ],
+                [
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    }
+                ]
+            ],
+            [
+                "Automobiles",
+                []
+            ],
+            [
+                "$ 240 billion",
+                []
+            ]
+        ],
+        [
+            [
+                "7",
+                []
+            ],
+            [
+                "Royal Dutch Shell",
+                [
+                    "/wiki/Royal_Dutch_Shell"
+                ],
+                [
+                    {
+                        "entity id": "Q154950",
+                        "label": "Shell"
+                    }
+                ]
+            ],
+            [
+                "Netherlands",
+                [
+                    "/wiki/Netherlands"
+                ],
+                [
+                    {
+                        "entity id": "Q55",
+                        "label": "Netherlands"
+                    }
+                ]
+            ],
+            [
+                "Petroleum",
+                []
+            ],
+            [
+                "$ 240 billion",
+                []
+            ]
+        ],
+        [
+            [
+                "8",
+                []
+            ],
+            [
+                "Berkshire Hathaway",
+                [
+                    "/wiki/Berkshire_Hathaway"
+                ],
+                [
+                    {
+                        "entity id": "Q217583",
+                        "label": "Berkshire Hathaway"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Products",
+                []
+            ],
+            [
+                "$ 242 billion",
+                []
+            ]
+        ],
+        [
+            [
+                "9",
+                []
+            ],
+            [
+                "Apple",
+                [
+                    "/wiki/Apple_Inc."
+                ],
+                [
+                    {
+                        "entity id": "Q312",
+                        "label": "Apple Inc."
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Technology",
+                []
+            ],
+            [
+                "$ 216 billion",
+                []
+            ]
+        ],
+        [
+            [
+                "10",
+                []
+            ],
+            [
+                "Exxon Mobil",
+                [
+                    "/wiki/ExxonMobil"
+                ],
+                [
+                    {
+                        "entity id": "Q156238",
+                        "label": "ExxonMobil"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Petroleum",
+                []
+            ],
+            [
+                "$ 205 billion",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Fortune Global 500 list of 2017",
+    "section_text": "The following is the list of top 10 companies . [ 8 ] [ 9 ]",
+    "uid": "Fortune_Global_500_4",
+    "intro": "The Fortune Global 500, also known as Global 500, is an annual ranking of the top 500 corporations worldwide as measured by revenue. The list is compiled and published annually by Fortune magazine."
+}

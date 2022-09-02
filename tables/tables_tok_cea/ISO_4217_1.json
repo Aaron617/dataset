@@ -1,0 +1,548 @@
+{
+    "url": "https://en.wikipedia.org/wiki/ISO_4217",
+    "title": "ISO 4217",
+    "header": [
+        [
+            "Code",
+            []
+        ],
+        [
+            "Num",
+            []
+        ],
+        [
+            "E",
+            []
+        ],
+        [
+            "Currency",
+            []
+        ],
+        [
+            "Locations using this currency",
+            []
+        ],
+        [
+            "Notes",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "CNH",
+                []
+            ],
+            [
+                "-",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Chinese yuan",
+                [
+                    "/wiki/Chinese_yuan"
+                ],
+                [
+                    {
+                        "entity id": "Q39099",
+                        "label": "renminbi"
+                    }
+                ]
+            ],
+            [
+                "Hong Kong",
+                [
+                    "/wiki/Hong_Kong"
+                ],
+                [
+                    {
+                        "entity id": "Q8646",
+                        "label": "Hong Kong"
+                    }
+                ]
+            ],
+            [
+                "Used for offshore trading",
+                []
+            ]
+        ],
+        [
+            [
+                "GGP",
+                []
+            ],
+            [
+                "-",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Guernsey pound",
+                [
+                    "/wiki/Guernsey_pound"
+                ],
+                [
+                    {
+                        "entity id": "Q255792",
+                        "label": "Guernsey pound"
+                    }
+                ]
+            ],
+            [
+                "Guernsey",
+                [
+                    "/wiki/Guernsey"
+                ],
+                [
+                    {
+                        "entity id": "Q25230",
+                        "label": "Guernsey"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "IMP",
+                []
+            ],
+            [
+                "-",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Isle of Man pound",
+                [
+                    "/wiki/Isle_of_Man_pound"
+                ],
+                [
+                    {
+                        "entity id": "Q27614",
+                        "label": "Manx pound"
+                    }
+                ]
+            ],
+            [
+                "Isle of Man",
+                [
+                    "/wiki/Isle_of_Man"
+                ],
+                [
+                    {
+                        "entity id": "Q9676",
+                        "label": "Isle of Man"
+                    }
+                ]
+            ],
+            [
+                "Also known as the Manx pound",
+                []
+            ]
+        ],
+        [
+            [
+                "JEP",
+                []
+            ],
+            [
+                "-",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Jersey pound",
+                [
+                    "/wiki/Jersey_pound"
+                ],
+                [
+                    {
+                        "entity id": "Q270744",
+                        "label": "Jersey pound"
+                    }
+                ]
+            ],
+            [
+                "Jersey",
+                [
+                    "/wiki/Jersey"
+                ],
+                [
+                    {
+                        "entity id": "Q1408",
+                        "label": "New Jersey"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "KID",
+                []
+            ],
+            [
+                "-",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Kiribati dollar",
+                [
+                    "/wiki/Kiribati_dollar"
+                ],
+                [
+                    {
+                        "entity id": "Q1049963",
+                        "label": "Kiribati dollar"
+                    }
+                ]
+            ],
+            [
+                "Kiribati",
+                [
+                    "/wiki/Kiribati"
+                ],
+                [
+                    {
+                        "entity id": "Q710",
+                        "label": "Kiribati"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "NIS",
+                []
+            ],
+            [
+                "-",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Israeli new shekel",
+                [
+                    "/wiki/Israeli_new_shekel"
+                ],
+                [
+                    {
+                        "entity id": "Q131309",
+                        "label": "new shekel"
+                    }
+                ]
+            ],
+            [
+                "Israel",
+                [
+                    "/wiki/Israel"
+                ],
+                [
+                    {
+                        "entity id": "Q801",
+                        "label": "Israel"
+                    }
+                ]
+            ],
+            [
+                "NIS stands for N ew I sraeli S hekel : NIS conflicts with ISO 4217 , because NI stands for Nicaragua",
+                []
+            ]
+        ],
+        [
+            [
+                "NTD",
+                []
+            ],
+            [
+                "-",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "New Taiwan dollar",
+                [
+                    "/wiki/New_Taiwan_dollar"
+                ],
+                [
+                    {
+                        "entity id": "Q208526",
+                        "label": "New Taiwan dollar"
+                    }
+                ]
+            ],
+            [
+                "Taiwan",
+                [
+                    "/wiki/Taiwan"
+                ],
+                [
+                    {
+                        "entity id": "Q865",
+                        "label": "Taiwan"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "PRB",
+                []
+            ],
+            [
+                "-",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Transnistrian ruble",
+                [
+                    "/wiki/Transnistrian_ruble"
+                ],
+                [
+                    {
+                        "entity id": "Q200979",
+                        "label": "Transnistrian ruble"
+                    }
+                ]
+            ],
+            [
+                "Transnistria",
+                [
+                    "/wiki/Transnistria"
+                ],
+                [
+                    {
+                        "entity id": "Q907112",
+                        "label": "Transnistria"
+                    }
+                ]
+            ],
+            [
+                "PRB conflicts with ISO 4217 , because PR stands for Puerto Rico",
+                []
+            ]
+        ],
+        [
+            [
+                "SLS",
+                []
+            ],
+            [
+                "-",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Somaliland shilling",
+                [
+                    "/wiki/Somaliland_shilling"
+                ],
+                [
+                    {
+                        "entity id": "Q737384",
+                        "label": "Somaliland shilling"
+                    }
+                ]
+            ],
+            [
+                "Somaliland",
+                [
+                    "/wiki/Somaliland"
+                ],
+                [
+                    {
+                        "entity id": "Q34754",
+                        "label": "Somaliland"
+                    }
+                ]
+            ],
+            [
+                "SLS conflicts with ISO 4217 , because SL stands for Sierra Leone",
+                []
+            ]
+        ],
+        [
+            [
+                "RMB",
+                []
+            ],
+            [
+                "-",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Renminbi ( Chinese ) yuan",
+                [
+                    "/wiki/Renminbi"
+                ],
+                [
+                    {
+                        "entity id": "Q39099",
+                        "label": "renminbi"
+                    }
+                ]
+            ],
+            [
+                "Mainland China",
+                [
+                    "/wiki/Mainland_China"
+                ],
+                [
+                    {
+                        "entity id": "Q148",
+                        "label": "People's Republic of China"
+                    }
+                ]
+            ],
+            [
+                "RMB is an abbreviation of its official name , R en M in B i",
+                []
+            ]
+        ],
+        [
+            [
+                "TVD",
+                []
+            ],
+            [
+                "-",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Tuvalu dollar",
+                [
+                    "/wiki/Tuvalu_dollar"
+                ],
+                [
+                    {
+                        "entity id": "Q4406",
+                        "label": "Tuvaluan dollar"
+                    }
+                ]
+            ],
+            [
+                "Tuvalu",
+                [
+                    "/wiki/Tuvalu"
+                ],
+                [
+                    {
+                        "entity id": "Q672",
+                        "label": "Tuvalu"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "ZWB",
+                []
+            ],
+            [
+                "-",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "Zimbabwean bonds",
+                [
+                    "/wiki/Zimbabwean_bonds"
+                ],
+                [
+                    {
+                        "entity id": "Q30637538",
+                        "label": "Zimbabwean bonds"
+                    }
+                ]
+            ],
+            [
+                "Zimbabwe",
+                [
+                    "/wiki/Zimbabwe"
+                ],
+                [
+                    {
+                        "entity id": "Q954",
+                        "label": "Zimbabwe"
+                    }
+                ]
+            ],
+            [
+                "Also known as the RTGS Dollar",
+                [
+                    "/wiki/RTGS_Dollar"
+                ],
+                [
+                    {
+                        "entity id": "Q65067684",
+                        "label": "RTGS Dollar"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Non ISO 4217 currencies -- Unofficial currency codes",
+    "section_text": "Despite having no official recognition in ISO 4217 , the following non-ISO codes are sometimes used locally or commercially .",
+    "uid": "ISO_4217_1",
+    "intro": "ISO 4217 is a standard first published by International Organization for Standardization in 1978, which delineates currency designators, country codes (alpha and numeric), and references to minor units in three tables:"
+}

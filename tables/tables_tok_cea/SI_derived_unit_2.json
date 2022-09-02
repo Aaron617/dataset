@@ -1,0 +1,641 @@
+{
+    "url": "https://en.wikipedia.org/wiki/SI_derived_unit",
+    "title": "SI derived unit",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Symbol",
+            []
+        ],
+        [
+            "Quantity",
+            []
+        ],
+        [
+            "Expression in terms of SI base units",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "square metre",
+                [
+                    "/wiki/Square_metre"
+                ],
+                [
+                    {
+                        "entity id": "Q25343",
+                        "label": "square metre"
+                    }
+                ]
+            ],
+            [
+                "m",
+                []
+            ],
+            [
+                "area",
+                [
+                    "/wiki/Area"
+                ],
+                [
+                    {
+                        "entity id": "Q11500",
+                        "label": "area"
+                    }
+                ]
+            ],
+            [
+                "m",
+                []
+            ]
+        ],
+        [
+            [
+                "cubic metre",
+                [
+                    "/wiki/Cubic_metre"
+                ],
+                [
+                    {
+                        "entity id": "Q25517",
+                        "label": "cubic metre"
+                    }
+                ]
+            ],
+            [
+                "m",
+                []
+            ],
+            [
+                "volume",
+                [
+                    "/wiki/Volume"
+                ],
+                [
+                    {
+                        "entity id": "Q39297",
+                        "label": "volume"
+                    }
+                ]
+            ],
+            [
+                "m",
+                []
+            ]
+        ],
+        [
+            [
+                "newton second",
+                [
+                    "/wiki/Newton_second"
+                ],
+                [
+                    {
+                        "entity id": "Q3395194",
+                        "label": "newton second"
+                    }
+                ]
+            ],
+            [
+                "N\u22c5s",
+                []
+            ],
+            [
+                "momentum , impulse",
+                [
+                    "/wiki/Momentum",
+                    "/wiki/Impulse_(physics)"
+                ],
+                [
+                    {
+                        "entity id": "Q41273",
+                        "label": "momentum"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "m\u22c5kg\u22c5s",
+                []
+            ]
+        ],
+        [
+            [
+                "newton metre second",
+                []
+            ],
+            [
+                "N\u22c5m\u22c5s",
+                []
+            ],
+            [
+                "angular momentum",
+                [
+                    "/wiki/Angular_momentum"
+                ],
+                [
+                    {
+                        "entity id": "Q161254",
+                        "label": "angular momentum"
+                    }
+                ]
+            ],
+            [
+                "m \u22c5kg\u22c5s",
+                []
+            ]
+        ],
+        [
+            [
+                "newton metre",
+                [
+                    "/wiki/Newton_metre"
+                ],
+                [
+                    {
+                        "entity id": "Q215571",
+                        "label": "newton metre"
+                    }
+                ]
+            ],
+            [
+                "N\u22c5m = J/rad",
+                []
+            ],
+            [
+                "torque , moment of force",
+                [
+                    "/wiki/Torque"
+                ],
+                [
+                    {
+                        "entity id": "Q48103",
+                        "label": "torque"
+                    }
+                ]
+            ],
+            [
+                "m \u22c5kg\u22c5s",
+                []
+            ]
+        ],
+        [
+            [
+                "newton per second",
+                []
+            ],
+            [
+                "N/s",
+                []
+            ],
+            [
+                "yank",
+                []
+            ],
+            [
+                "m\u22c5kg\u22c5s",
+                []
+            ]
+        ],
+        [
+            [
+                "reciprocal metre",
+                [
+                    "/wiki/Reciprocal_metre"
+                ],
+                [
+                    {
+                        "entity id": "Q11547251",
+                        "label": "reciprocal metre"
+                    }
+                ]
+            ],
+            [
+                "m",
+                []
+            ],
+            [
+                "wavenumber , optical power , curvature , spatial frequency",
+                [
+                    "/wiki/Wavenumber",
+                    "/wiki/Optical_power",
+                    "/wiki/Curvature",
+                    "/wiki/Spatial_frequency"
+                ],
+                [
+                    {
+                        "entity id": "Q192510",
+                        "label": "wavenumber"
+                    },
+                    {
+                        "entity id": "Q559265",
+                        "label": "dioptric power"
+                    },
+                    {
+                        "entity id": "Q214881",
+                        "label": "curvature"
+                    },
+                    {
+                        "entity id": "Q1650811",
+                        "label": "spatial frequency"
+                    }
+                ]
+            ],
+            [
+                "m",
+                []
+            ]
+        ],
+        [
+            [
+                "kilogram per square metre",
+                []
+            ],
+            [
+                "kg/m",
+                []
+            ],
+            [
+                "area density",
+                [
+                    "/wiki/Area_density"
+                ],
+                [
+                    {
+                        "entity id": "Q1907514",
+                        "label": "surface density"
+                    }
+                ]
+            ],
+            [
+                "m \u22c5kg",
+                []
+            ]
+        ],
+        [
+            [
+                "kilogram per cubic metre",
+                [
+                    "/wiki/Kilogram_per_cubic_metre"
+                ],
+                [
+                    {
+                        "entity id": "Q844211",
+                        "label": "kilogram per cubic metre"
+                    }
+                ]
+            ],
+            [
+                "kg/m",
+                []
+            ],
+            [
+                "density , mass density",
+                [
+                    "/wiki/Density"
+                ],
+                [
+                    {
+                        "entity id": "Q29539",
+                        "label": "density"
+                    }
+                ]
+            ],
+            [
+                "m \u22c5kg",
+                []
+            ]
+        ],
+        [
+            [
+                "cubic metre per kilogram",
+                []
+            ],
+            [
+                "m /kg",
+                []
+            ],
+            [
+                "specific volume",
+                [
+                    "/wiki/Specific_volume"
+                ],
+                [
+                    {
+                        "entity id": "Q683556",
+                        "label": "specific volume"
+                    }
+                ]
+            ],
+            [
+                "m \u22c5kg",
+                []
+            ]
+        ],
+        [
+            [
+                "joule second",
+                [
+                    "/wiki/Joule_second"
+                ],
+                [
+                    {
+                        "entity id": "Q1709783",
+                        "label": "joule second"
+                    }
+                ]
+            ],
+            [
+                "J\u22c5s",
+                []
+            ],
+            [
+                "action",
+                [
+                    "/wiki/Action_(physics)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "m \u22c5kg\u22c5s",
+                []
+            ]
+        ],
+        [
+            [
+                "joule per kilogram",
+                []
+            ],
+            [
+                "J/kg",
+                []
+            ],
+            [
+                "specific energy",
+                [
+                    "/wiki/Specific_energy"
+                ],
+                [
+                    {
+                        "entity id": "Q3023293",
+                        "label": "specific energy"
+                    }
+                ]
+            ],
+            [
+                "m \u22c5s",
+                []
+            ]
+        ],
+        [
+            [
+                "joule per cubic metre",
+                []
+            ],
+            [
+                "J/m",
+                []
+            ],
+            [
+                "energy density",
+                [
+                    "/wiki/Energy_density"
+                ],
+                [
+                    {
+                        "entity id": "Q828402",
+                        "label": "energy density"
+                    }
+                ]
+            ],
+            [
+                "m \u22c5kg\u22c5s",
+                []
+            ]
+        ],
+        [
+            [
+                "newton per metre",
+                []
+            ],
+            [
+                "N/m = J/m",
+                []
+            ],
+            [
+                "surface tension , stiffness",
+                [
+                    "/wiki/Surface_tension",
+                    "/wiki/Stiffness"
+                ],
+                [
+                    {
+                        "entity id": "Q170749",
+                        "label": "surface tension"
+                    },
+                    {
+                        "entity id": "Q569057",
+                        "label": "stiffness"
+                    }
+                ]
+            ],
+            [
+                "kg\u22c5s",
+                []
+            ]
+        ],
+        [
+            [
+                "watt per square metre",
+                []
+            ],
+            [
+                "W/m",
+                []
+            ],
+            [
+                "heat flux density , irradiance",
+                [
+                    "/wiki/Irradiance"
+                ],
+                [
+                    {
+                        "entity id": "Q830654",
+                        "label": "irradiance"
+                    }
+                ]
+            ],
+            [
+                "kg\u22c5s",
+                []
+            ]
+        ],
+        [
+            [
+                "square metre per second",
+                [
+                    "/wiki/Square_metre_per_second"
+                ],
+                [
+                    {
+                        "entity id": "Q3332099",
+                        "label": "square metre per second"
+                    }
+                ]
+            ],
+            [
+                "m /s",
+                []
+            ],
+            [
+                "kinematic viscosity , thermal diffusivity , diffusion coefficient",
+                [
+                    "/wiki/Kinematic_viscosity",
+                    "/wiki/Thermal_diffusivity",
+                    "/wiki/Diffusion"
+                ],
+                [
+                    {
+                        "entity id": "Q15106259",
+                        "label": "kinematic viscosity"
+                    },
+                    {
+                        "entity id": "Q3381809",
+                        "label": "thermal diffusivity"
+                    },
+                    {
+                        "entity id": "Q163214",
+                        "label": "diffusion"
+                    }
+                ]
+            ],
+            [
+                "m \u22c5s",
+                []
+            ]
+        ],
+        [
+            [
+                "pascal second",
+                [
+                    "/wiki/Pascal_second"
+                ],
+                [
+                    {
+                        "entity id": "Q21016931",
+                        "label": "pascal second"
+                    }
+                ]
+            ],
+            [
+                "Pa\u22c5s = N\u22c5s/m",
+                []
+            ],
+            [
+                "dynamic viscosity",
+                [
+                    "/wiki/Viscosity"
+                ],
+                [
+                    {
+                        "entity id": "Q128709",
+                        "label": "viscosity"
+                    }
+                ]
+            ],
+            [
+                "m \u22c5kg\u22c5s",
+                []
+            ]
+        ],
+        [
+            [
+                "kilogram per metre",
+                []
+            ],
+            [
+                "kg/m",
+                []
+            ],
+            [
+                "linear mass density",
+                [
+                    "/wiki/Linear_mass_density"
+                ],
+                [
+                    {
+                        "entity id": "Q56298294",
+                        "label": "linear mass density"
+                    }
+                ]
+            ],
+            [
+                "m \u22c5kg",
+                []
+            ]
+        ],
+        [
+            [
+                "kilogram per second",
+                []
+            ],
+            [
+                "kg/s",
+                []
+            ],
+            [
+                "mass flow rate",
+                [
+                    "/wiki/Mass_flow_rate"
+                ],
+                [
+                    {
+                        "entity id": "Q1366187",
+                        "label": "mass flow rate"
+                    }
+                ]
+            ],
+            [
+                "kg\u22c5s",
+                []
+            ]
+        ],
+        [
+            [
+                "watt per steradian square metre",
+                []
+            ],
+            [
+                "W/ ( sr\u22c5m )",
+                []
+            ],
+            [
+                "radiance",
+                [
+                    "/wiki/Radiance"
+                ],
+                [
+                    {
+                        "entity id": "Q1411145",
+                        "label": "radiance"
+                    }
+                ]
+            ],
+            [
+                "kg\u22c5s",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Examples of derived quantities and units",
+    "section_text": "Kinematic SI derived units Name Symbol Quantity Expression in terms of SI base units metre per second m/s speed , velocity m\u22c5s metre per second squared m/s acceleration m\u22c5s metre per second cubed m/s jerk , jolt m\u22c5s metre per second to the fourth m/s snap , jounce m\u22c5s radian per second rad/s angular velocity s radian per second squared rad/s angular acceleration s hertz per second Hz/s frequency drift s cubic metre per second m/s volumetric flow m\u22c5s",
+    "uid": "SI_derived_unit_2",
+    "intro": "SI derived units are units of measurement derived from the seven base units specified by the International System of Units (SI). They are either dimensionless or can be expressed as a product of one or more of the base units, possibly scaled by an appropriate power of exponentiation. The SI has special names for 22 of these derived units (for example, hertz, the SI unit of measurement of frequency), but the rest merely reflect their derivation: for example, the square metre (m2), the SI derived unit of area; and the kilogram per cubic metre (kg/m3 or kg\u22c5m\u22123), the SI derived unit of density. The names of SI derived units, when written in full, are always in lowercase. However, the symbols for units named after persons are written with an uppercase initial letter. For example, the symbol for hertz is Hz, but the symbol for metre is m."
+}

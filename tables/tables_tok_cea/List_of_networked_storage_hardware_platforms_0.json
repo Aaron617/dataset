@@ -1,0 +1,849 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_networked_storage_hardware_platforms",
+    "title": "List of networked storage hardware platforms",
+    "header": [
+        [
+            "Manufacturer",
+            []
+        ],
+        [
+            "Product Family",
+            []
+        ],
+        [
+            "Start capacity ( TB )",
+            []
+        ],
+        [
+            "Max Capacity ( TB )",
+            []
+        ],
+        [
+            "Block Protocols",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "3PAR",
+                [
+                    "/wiki/3PAR"
+                ],
+                [
+                    {
+                        "entity id": "Q2816491",
+                        "label": "HPE 3PAR"
+                    }
+                ]
+            ],
+            [
+                "InServ",
+                []
+            ],
+            [
+                "2.3",
+                []
+            ],
+            [
+                "960",
+                []
+            ],
+            [
+                "FC , iSCSI",
+                [
+                    "/wiki/Fiber_Channel",
+                    "/wiki/ISCSI"
+                ],
+                [
+                    {
+                        "entity id": "Q376827",
+                        "label": "Fibre Channel"
+                    },
+                    {
+                        "entity id": "Q306152",
+                        "label": "iSCSI"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Adaptec",
+                [
+                    "/wiki/Adaptec"
+                ],
+                [
+                    {
+                        "entity id": "Q352390",
+                        "label": "Adaptec"
+                    }
+                ]
+            ],
+            [
+                "Snap Server",
+                []
+            ],
+            [
+                "0.2",
+                []
+            ],
+            [
+                "44",
+                []
+            ],
+            [
+                "iSCSI",
+                [
+                    "/wiki/ISCSI"
+                ],
+                [
+                    {
+                        "entity id": "Q306152",
+                        "label": "iSCSI"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Coraid",
+                [
+                    "/wiki/Coraid"
+                ],
+                [
+                    {
+                        "entity id": "Q5169436",
+                        "label": "Coraid, Inc."
+                    }
+                ]
+            ],
+            [
+                "EtherDrive",
+                [
+                    "/wiki/EtherDrive"
+                ],
+                [
+                    {
+                        "entity id": "Q5403289",
+                        "label": "EtherDrive"
+                    }
+                ]
+            ],
+            [
+                "1",
+                []
+            ],
+            [
+                "24",
+                []
+            ],
+            [
+                "AoE",
+                [
+                    "/wiki/ATA_over_Ethernet"
+                ],
+                [
+                    {
+                        "entity id": "Q298746",
+                        "label": "ATA over Ethernet"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dell Compellent",
+                [
+                    "/wiki/Dell_Compellent"
+                ],
+                [
+                    {
+                        "entity id": "Q5254109",
+                        "label": "Dell Compellent"
+                    }
+                ]
+            ],
+            [
+                "Storage Center",
+                []
+            ],
+            [
+                "1",
+                []
+            ],
+            [
+                "720",
+                []
+            ],
+            [
+                "FC , iSCSI",
+                [
+                    "/wiki/Fiber_Channel",
+                    "/wiki/ISCSI"
+                ],
+                [
+                    {
+                        "entity id": "Q376827",
+                        "label": "Fibre Channel"
+                    },
+                    {
+                        "entity id": "Q306152",
+                        "label": "iSCSI"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dell/EMC",
+                [
+                    "/wiki/Dell"
+                ],
+                [
+                    {
+                        "entity id": "Q30873",
+                        "label": "Dell Inc."
+                    }
+                ]
+            ],
+            [
+                "AX",
+                []
+            ],
+            [
+                "0.7",
+                []
+            ],
+            [
+                "45",
+                []
+            ],
+            [
+                "iSCSI",
+                [
+                    "/wiki/ISCSI"
+                ],
+                [
+                    {
+                        "entity id": "Q306152",
+                        "label": "iSCSI"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dell/EMC",
+                [
+                    "/wiki/Dell"
+                ],
+                [
+                    {
+                        "entity id": "Q30873",
+                        "label": "Dell Inc."
+                    }
+                ]
+            ],
+            [
+                "CX",
+                []
+            ],
+            [
+                "0.7",
+                []
+            ],
+            [
+                "38",
+                []
+            ],
+            [
+                "FC",
+                [
+                    "/wiki/Fiber_Channel"
+                ],
+                [
+                    {
+                        "entity id": "Q376827",
+                        "label": "Fibre Channel"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dell EqualLogic",
+                [
+                    "/wiki/EqualLogic"
+                ],
+                [
+                    {
+                        "entity id": "Q16927844",
+                        "label": "EqualLogic"
+                    }
+                ]
+            ],
+            [
+                "PS",
+                []
+            ],
+            [
+                "3.5",
+                []
+            ],
+            [
+                "84",
+                []
+            ],
+            [
+                "iSCSI",
+                [
+                    "/wiki/ISCSI"
+                ],
+                [
+                    {
+                        "entity id": "Q306152",
+                        "label": "iSCSI"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dell",
+                [
+                    "/wiki/Dell"
+                ],
+                [
+                    {
+                        "entity id": "Q30873",
+                        "label": "Dell Inc."
+                    }
+                ]
+            ],
+            [
+                "PowerVault MD",
+                []
+            ],
+            [
+                "0.1",
+                []
+            ],
+            [
+                "18",
+                []
+            ],
+            [
+                "iSCSI",
+                [
+                    "/wiki/ISCSI"
+                ],
+                [
+                    {
+                        "entity id": "Q306152",
+                        "label": "iSCSI"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dell",
+                [
+                    "/wiki/Dell"
+                ],
+                [
+                    {
+                        "entity id": "Q30873",
+                        "label": "Dell Inc."
+                    }
+                ]
+            ],
+            [
+                "PowerVault NX",
+                []
+            ],
+            [
+                "0.1",
+                []
+            ],
+            [
+                "18",
+                []
+            ],
+            [
+                "FC , iSCSI",
+                [
+                    "/wiki/Fiber_Channel",
+                    "/wiki/ISCSI"
+                ],
+                [
+                    {
+                        "entity id": "Q376827",
+                        "label": "Fibre Channel"
+                    },
+                    {
+                        "entity id": "Q306152",
+                        "label": "iSCSI"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "EMC",
+                [
+                    "/wiki/EMC_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q877536",
+                        "label": "Dell EMC"
+                    }
+                ]
+            ],
+            [
+                "CLARiiON",
+                []
+            ],
+            [
+                "0.3",
+                []
+            ],
+            [
+                "353",
+                []
+            ],
+            [
+                "FC , iSCSI",
+                [
+                    "/wiki/Fiber_Channel",
+                    "/wiki/ISCSI"
+                ],
+                [
+                    {
+                        "entity id": "Q376827",
+                        "label": "Fibre Channel"
+                    },
+                    {
+                        "entity id": "Q306152",
+                        "label": "iSCSI"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "EMC",
+                [
+                    "/wiki/EMC_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q877536",
+                        "label": "Dell EMC"
+                    }
+                ]
+            ],
+            [
+                "Symmetrix",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "1054",
+                []
+            ],
+            [
+                "FC , iSCSI",
+                [
+                    "/wiki/Fiber_Channel",
+                    "/wiki/ISCSI"
+                ],
+                [
+                    {
+                        "entity id": "Q376827",
+                        "label": "Fibre Channel"
+                    },
+                    {
+                        "entity id": "Q306152",
+                        "label": "iSCSI"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "HDS",
+                [
+                    "/wiki/Hitachi_Data_Systems_Corporation"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "HUS",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "2880",
+                []
+            ],
+            [
+                "FC , iSCSI",
+                [
+                    "/wiki/Fiber_Channel",
+                    "/wiki/ISCSI"
+                ],
+                [
+                    {
+                        "entity id": "Q376827",
+                        "label": "Fibre Channel"
+                    },
+                    {
+                        "entity id": "Q306152",
+                        "label": "iSCSI"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "HDS",
+                [
+                    "/wiki/Hitachi_Data_Systems_Corporation"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "SMS",
+                []
+            ],
+            [
+                "1.2",
+                []
+            ],
+            [
+                "9",
+                []
+            ],
+            [
+                "iSCSI",
+                [
+                    "/wiki/ISCSI"
+                ],
+                [
+                    {
+                        "entity id": "Q306152",
+                        "label": "iSCSI"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "HP",
+                [
+                    "/wiki/Hewlett-Packard"
+                ],
+                [
+                    {
+                        "entity id": "Q80978",
+                        "label": "Hewlett-Packard"
+                    }
+                ]
+            ],
+            [
+                "AiO",
+                []
+            ],
+            [
+                "1",
+                []
+            ],
+            [
+                "72",
+                []
+            ],
+            [
+                "iSCSI",
+                [
+                    "/wiki/ISCSI"
+                ],
+                [
+                    {
+                        "entity id": "Q306152",
+                        "label": "iSCSI"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "HP",
+                [
+                    "/wiki/Hewlett-Packard"
+                ],
+                [
+                    {
+                        "entity id": "Q80978",
+                        "label": "Hewlett-Packard"
+                    }
+                ]
+            ],
+            [
+                "XP",
+                []
+            ],
+            [
+                "2.7",
+                []
+            ],
+            [
+                "851",
+                []
+            ],
+            [
+                "FC , iSCSI",
+                [
+                    "/wiki/Fiber_Channel",
+                    "/wiki/ISCSI"
+                ],
+                [
+                    {
+                        "entity id": "Q376827",
+                        "label": "Fibre Channel"
+                    },
+                    {
+                        "entity id": "Q306152",
+                        "label": "iSCSI"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "HP",
+                [
+                    "/wiki/Hewlett-Packard"
+                ],
+                [
+                    {
+                        "entity id": "Q80978",
+                        "label": "Hewlett-Packard"
+                    }
+                ]
+            ],
+            [
+                "MSA",
+                []
+            ],
+            [
+                "0.2",
+                []
+            ],
+            [
+                "72",
+                []
+            ],
+            [
+                "FC , iSCSI",
+                [
+                    "/wiki/Fiber_Channel",
+                    "/wiki/ISCSI"
+                ],
+                [
+                    {
+                        "entity id": "Q376827",
+                        "label": "Fibre Channel"
+                    },
+                    {
+                        "entity id": "Q306152",
+                        "label": "iSCSI"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IBM",
+                [
+                    "/wiki/IBM"
+                ],
+                [
+                    {
+                        "entity id": "Q37156",
+                        "label": "IBM"
+                    }
+                ]
+            ],
+            [
+                "System Storage DS",
+                []
+            ],
+            [
+                "3.6",
+                []
+            ],
+            [
+                "512",
+                []
+            ],
+            [
+                "FC",
+                [
+                    "/wiki/Fiber_Channel"
+                ],
+                [
+                    {
+                        "entity id": "Q376827",
+                        "label": "Fibre Channel"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Infortrend",
+                [
+                    "/wiki/Infortrend"
+                ],
+                [
+                    {
+                        "entity id": "Q16926339",
+                        "label": "Infortrend"
+                    }
+                ]
+            ],
+            [
+                "ESVA",
+                []
+            ],
+            [
+                "2.4",
+                []
+            ],
+            [
+                "5376",
+                []
+            ],
+            [
+                "FC , iSCSI",
+                [
+                    "/wiki/Fiber_Channel",
+                    "/wiki/ISCSI"
+                ],
+                [
+                    {
+                        "entity id": "Q376827",
+                        "label": "Fibre Channel"
+                    },
+                    {
+                        "entity id": "Q306152",
+                        "label": "iSCSI"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Infortrend",
+                [
+                    "/wiki/Infortrend"
+                ],
+                [
+                    {
+                        "entity id": "Q16926339",
+                        "label": "Infortrend"
+                    }
+                ]
+            ],
+            [
+                "EonStor DS",
+                []
+            ],
+            [
+                "0.3",
+                []
+            ],
+            [
+                "960",
+                []
+            ],
+            [
+                "FC , iSCSI",
+                [
+                    "/wiki/Fiber_Channel",
+                    "/wiki/ISCSI"
+                ],
+                [
+                    {
+                        "entity id": "Q376827",
+                        "label": "Fibre Channel"
+                    },
+                    {
+                        "entity id": "Q306152",
+                        "label": "iSCSI"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Infortrend",
+                [
+                    "/wiki/Infortrend"
+                ],
+                [
+                    {
+                        "entity id": "Q16926339",
+                        "label": "Infortrend"
+                    }
+                ]
+            ],
+            [
+                "EonStor",
+                []
+            ],
+            [
+                "0.07",
+                []
+            ],
+            [
+                "336",
+                []
+            ],
+            [
+                "FC , iSCSI",
+                [
+                    "/wiki/Fiber_Channel",
+                    "/wiki/ISCSI"
+                ],
+                [
+                    {
+                        "entity id": "Q376827",
+                        "label": "Fibre Channel"
+                    },
+                    {
+                        "entity id": "Q306152",
+                        "label": "iSCSI"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "",
+    "section_text": "",
+    "uid": "List_of_networked_storage_hardware_platforms_0",
+    "intro": "Related articles are SAN and NAS."
+}

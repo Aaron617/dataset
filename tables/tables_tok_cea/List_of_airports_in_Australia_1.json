@@ -1,0 +1,723 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Australia",
+    "title": "List of airports in Australia",
+    "header": [
+        [
+            "City served/location",
+            [
+                "/wiki/List_of_cities_in_Australia"
+            ],
+            [
+                {
+                    "entity id": "Q207820",
+                    "label": "list of cities in Australia"
+                }
+            ]
+        ],
+        [
+            "ICAO",
+            [
+                "/wiki/ICAO_airport_code"
+            ],
+            [
+                {
+                    "entity id": "Q207529",
+                    "label": "ICAO airport code"
+                }
+            ]
+        ],
+        [
+            "IATA",
+            [
+                "/wiki/IATA_airport_code"
+            ],
+            [
+                {
+                    "entity id": "Q192824",
+                    "label": "IATA airport code"
+                }
+            ]
+        ],
+        [
+            "Airport name",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Albury",
+                [
+                    "/wiki/Albury"
+                ],
+                [
+                    {
+                        "entity id": "Q331764",
+                        "label": "Albury"
+                    }
+                ]
+            ],
+            [
+                "YMAY",
+                []
+            ],
+            [
+                "ABX",
+                []
+            ],
+            [
+                "Albury Airport",
+                [
+                    "/wiki/Albury_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q17440",
+                        "label": "Albury Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Armidale",
+                [
+                    "/wiki/Armidale"
+                ],
+                [
+                    {
+                        "entity id": "Q606169",
+                        "label": "Armidale"
+                    }
+                ]
+            ],
+            [
+                "YARM",
+                []
+            ],
+            [
+                "ARM",
+                []
+            ],
+            [
+                "Armidale Airport",
+                [
+                    "/wiki/Armidale_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q17441",
+                        "label": "Armidale Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Ballina",
+                [
+                    "/wiki/Ballina,_New_South_Wales"
+                ],
+                [
+                    {
+                        "entity id": "Q805263",
+                        "label": "Ballina"
+                    }
+                ]
+            ],
+            [
+                "YBNA",
+                []
+            ],
+            [
+                "BNK",
+                []
+            ],
+            [
+                "Ballina Byron Gateway Airport",
+                [
+                    "/wiki/Ballina_Byron_Gateway_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q17443",
+                        "label": "Ballina Byron Gateway Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Balranald",
+                [
+                    "/wiki/Balranald"
+                ],
+                [
+                    {
+                        "entity id": "Q751598",
+                        "label": "Balranald Shire"
+                    }
+                ]
+            ],
+            [
+                "YBRN",
+                []
+            ],
+            [
+                "BZD",
+                []
+            ],
+            [
+                "Balranald Airport",
+                [
+                    "/wiki/Balranald_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q17445",
+                        "label": "Balranald Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Bathurst",
+                [
+                    "/wiki/Bathurst,_New_South_Wales"
+                ],
+                [
+                    {
+                        "entity id": "Q704978",
+                        "label": "Bathurst"
+                    }
+                ]
+            ],
+            [
+                "YBTH",
+                []
+            ],
+            [
+                "BHS",
+                []
+            ],
+            [
+                "Bathurst Airport",
+                [
+                    "/wiki/Bathurst_Airport_(Australia)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Bourke",
+                [
+                    "/wiki/Bourke,_New_South_Wales"
+                ],
+                [
+                    {
+                        "entity id": "Q895237",
+                        "label": "Bourke"
+                    }
+                ]
+            ],
+            [
+                "YBKE",
+                []
+            ],
+            [
+                "BRK",
+                []
+            ],
+            [
+                "Bourke Airport",
+                [
+                    "/wiki/Bourke_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q17526",
+                        "label": "Bourke Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Brewarrina",
+                [
+                    "/wiki/Brewarrina"
+                ],
+                [
+                    {
+                        "entity id": "Q752514",
+                        "label": "Brewarrina Shire"
+                    }
+                ]
+            ],
+            [
+                "YBRW",
+                []
+            ],
+            [
+                "BWQ",
+                []
+            ],
+            [
+                "Brewarrina Airport",
+                [
+                    "/wiki/Brewarrina_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q17527",
+                        "label": "Brewarrina Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Broken Hill",
+                [
+                    "/wiki/Broken_Hill"
+                ],
+                [
+                    {
+                        "entity id": "Q270734",
+                        "label": "Broken Hill"
+                    }
+                ]
+            ],
+            [
+                "YBHI",
+                []
+            ],
+            [
+                "BHQ",
+                []
+            ],
+            [
+                "Broken Hill Airport",
+                [
+                    "/wiki/Broken_Hill_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q17528",
+                        "label": "Broken Hill Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Camden",
+                [
+                    "/wiki/Camden,_New_South_Wales"
+                ],
+                [
+                    {
+                        "entity id": "Q1028408",
+                        "label": "Camden"
+                    }
+                ]
+            ],
+            [
+                "YSCN",
+                []
+            ],
+            [
+                "CDU",
+                []
+            ],
+            [
+                "Camden Airport",
+                [
+                    "/wiki/Camden_Airport_(Sydney)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Cessnock",
+                [
+                    "/wiki/Cessnock,_New_South_Wales"
+                ],
+                [
+                    {
+                        "entity id": "Q606357",
+                        "label": "Cessnock"
+                    }
+                ]
+            ],
+            [
+                "YCNK",
+                []
+            ],
+            [
+                "CES",
+                []
+            ],
+            [
+                "Cessnock Airport",
+                [
+                    "/wiki/Cessnock_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q17530",
+                        "label": "Cessnock Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Cobar",
+                [
+                    "/wiki/Cobar"
+                ],
+                [
+                    {
+                        "entity id": "Q753128",
+                        "label": "Cobar Shire"
+                    }
+                ]
+            ],
+            [
+                "YCBA",
+                []
+            ],
+            [
+                "CAZ",
+                []
+            ],
+            [
+                "Cobar Airport",
+                [
+                    "/wiki/Cobar_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q17531",
+                        "label": "Cobar Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Coffs Harbour",
+                [
+                    "/wiki/Coffs_Harbour"
+                ],
+                [
+                    {
+                        "entity id": "Q604283",
+                        "label": "Coffs Harbour"
+                    }
+                ]
+            ],
+            [
+                "YCFS",
+                []
+            ],
+            [
+                "CFS",
+                []
+            ],
+            [
+                "Coffs Harbour Airport",
+                [
+                    "/wiki/Coffs_Harbour_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q17532",
+                        "label": "Coffs Harbour Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Collarenebri",
+                [
+                    "/wiki/Collarenebri"
+                ],
+                [
+                    {
+                        "entity id": "Q2982734",
+                        "label": "Collarenebri"
+                    }
+                ]
+            ],
+            [
+                "YCBR",
+                []
+            ],
+            [
+                "CRB",
+                []
+            ],
+            [
+                "Collarenebri Airport",
+                [
+                    "/wiki/Collarenebri_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q17533",
+                        "label": "Collarenebri Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Condobolin",
+                [
+                    "/wiki/Condobolin"
+                ],
+                [
+                    {
+                        "entity id": "Q2469022",
+                        "label": "Condobolin"
+                    }
+                ]
+            ],
+            [
+                "YCDO",
+                []
+            ],
+            [
+                "CBX",
+                []
+            ],
+            [
+                "Condobolin Airport",
+                [
+                    "/wiki/Condobolin_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1655859",
+                        "label": "Condobolin Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Coolah",
+                [
+                    "/wiki/Coolah,_New_South_Wales"
+                ],
+                [
+                    {
+                        "entity id": "Q1129680",
+                        "label": "Coolah"
+                    }
+                ]
+            ],
+            [
+                "YCAH",
+                []
+            ],
+            [
+                "CLH",
+                []
+            ],
+            [
+                "Coolah Airport",
+                [
+                    "/wiki/Coolah_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q5167396",
+                        "label": "Coolah Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Cooma",
+                [
+                    "/wiki/Cooma"
+                ],
+                [
+                    {
+                        "entity id": "Q1129726",
+                        "label": "Cooma"
+                    }
+                ]
+            ],
+            [
+                "YPFT",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Cooma - Polo Flat Airport",
+                [
+                    "/wiki/Cooma\u2013Polo_Flat_Airport"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Cooma",
+                [
+                    "/wiki/Cooma"
+                ],
+                [
+                    {
+                        "entity id": "Q1129726",
+                        "label": "Cooma"
+                    }
+                ]
+            ],
+            [
+                "YCOM",
+                []
+            ],
+            [
+                "OOM",
+                []
+            ],
+            [
+                "Cooma - Snowy Mountains Airport",
+                [
+                    "/wiki/Cooma_\u2013_Snowy_Mountains_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q17534",
+                        "label": "Cooma \u2013 Snowy Mountains Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Coonabarabran",
+                [
+                    "/wiki/Coonabarabran"
+                ],
+                [
+                    {
+                        "entity id": "Q684266",
+                        "label": "2618 Coonabarabran"
+                    }
+                ]
+            ],
+            [
+                "YCBB",
+                []
+            ],
+            [
+                "COJ",
+                []
+            ],
+            [
+                "Coonabarabran Airport",
+                [
+                    "/wiki/Coonabarabran_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q17535",
+                        "label": "Coonabarabran Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Coonamble",
+                [
+                    "/wiki/Coonamble"
+                ],
+                [
+                    {
+                        "entity id": "Q752632",
+                        "label": "Coonamble Shire"
+                    }
+                ]
+            ],
+            [
+                "YCNM",
+                []
+            ],
+            [
+                "CNB",
+                []
+            ],
+            [
+                "Coonamble Airport",
+                [
+                    "/wiki/Coonamble_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q17536",
+                        "label": "Coonamble Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Cootamundra",
+                [
+                    "/wiki/Cootamundra"
+                ],
+                [
+                    {
+                        "entity id": "Q5355275",
+                        "label": "Cootamundra"
+                    }
+                ]
+            ],
+            [
+                "YCTM",
+                []
+            ],
+            [
+                "CMD",
+                []
+            ],
+            [
+                "Cootamundra Airport",
+                [
+                    "/wiki/Cootamundra_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q17537",
+                        "label": "Cootamundra Airport"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Airports -- New South Wales ( NSW )",
+    "section_text": "See also : List of airports in New South Wales",
+    "uid": "List_of_airports_in_Australia_1",
+    "intro": "This is a list of airports in Australia. It includes licensed airports, with the exception of private airports. Aerodromes here are listed with their 4-letter ICAO code, and 3-letter IATA code (where available). A more extensive list can be found in the En Route Supplement Australia (ERSA), available online from the Airservices Australia web site and in the individual lists for each state or territory."
+}

@@ -1,0 +1,944 @@
+{
+    "url": "https://en.wikipedia.org/wiki/1999_Australian_Grand_Prix",
+    "title": "1999 Australian Grand Prix",
+    "header": [
+        [
+            "Pos",
+            []
+        ],
+        [
+            "No",
+            []
+        ],
+        [
+            "Driver",
+            []
+        ],
+        [
+            "Constructor",
+            []
+        ],
+        [
+            "Lap",
+            []
+        ],
+        [
+            "Gap",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1",
+                []
+            ],
+            [
+                "1",
+                []
+            ],
+            [
+                "Mika H\u00e4kkinen",
+                [
+                    "/wiki/Mika_H\u00e4kkinen"
+                ],
+                [
+                    {
+                        "entity id": "Q172842",
+                        "label": "Mika H\u00e4kkinen"
+                    }
+                ]
+            ],
+            [
+                "McLaren - Mercedes",
+                [
+                    "/wiki/McLaren_(racing)",
+                    "/wiki/Mercedes-Benz_HighPerformanceEngines"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q173358",
+                        "label": "Mercedes AMG High Performance Powertrains"
+                    }
+                ]
+            ],
+            [
+                "1:30.462",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "2",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "David Coulthard",
+                [
+                    "/wiki/David_Coulthard"
+                ],
+                [
+                    {
+                        "entity id": "Q172832",
+                        "label": "David Coulthard"
+                    }
+                ]
+            ],
+            [
+                "McLaren - Mercedes",
+                [
+                    "/wiki/McLaren_(racing)",
+                    "/wiki/Mercedes-Benz_HighPerformanceEngines"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q173358",
+                        "label": "Mercedes AMG High Performance Powertrains"
+                    }
+                ]
+            ],
+            [
+                "1:30.946",
+                []
+            ],
+            [
+                "+0.484",
+                []
+            ]
+        ],
+        [
+            [
+                "3",
+                []
+            ],
+            [
+                "3",
+                []
+            ],
+            [
+                "Michael Schumacher",
+                [
+                    "/wiki/Michael_Schumacher"
+                ],
+                [
+                    {
+                        "entity id": "Q9671",
+                        "label": "Michael Schumacher"
+                    }
+                ]
+            ],
+            [
+                "Ferrari",
+                [
+                    "/wiki/Scuderia_Ferrari"
+                ],
+                [
+                    {
+                        "entity id": "Q169898",
+                        "label": "Scuderia Ferrari"
+                    }
+                ]
+            ],
+            [
+                "1:31.781",
+                []
+            ],
+            [
+                "+1.319",
+                []
+            ]
+        ],
+        [
+            [
+                "4",
+                []
+            ],
+            [
+                "16",
+                []
+            ],
+            [
+                "Rubens Barrichello",
+                [
+                    "/wiki/Rubens_Barrichello"
+                ],
+                [
+                    {
+                        "entity id": "Q169846",
+                        "label": "Rubens Barrichello"
+                    }
+                ]
+            ],
+            [
+                "Stewart - Ford",
+                [
+                    "/wiki/Stewart_Grand_Prix",
+                    "/wiki/Ford_Motor_Company"
+                ],
+                [
+                    {
+                        "entity id": "Q173066",
+                        "label": "Stewart Grand Prix"
+                    },
+                    {
+                        "entity id": "Q44294",
+                        "label": "Ford Motor Company"
+                    }
+                ]
+            ],
+            [
+                "1:32.148",
+                []
+            ],
+            [
+                "+1.686",
+                []
+            ]
+        ],
+        [
+            [
+                "5",
+                []
+            ],
+            [
+                "8",
+                []
+            ],
+            [
+                "Heinz-Harald Frentzen",
+                [
+                    "/wiki/Heinz-Harald_Frentzen"
+                ],
+                [
+                    {
+                        "entity id": "Q76720",
+                        "label": "Heinz-Harald Frentzen"
+                    }
+                ]
+            ],
+            [
+                "Jordan - Mugen-Honda",
+                [
+                    "/wiki/Jordan_Grand_Prix",
+                    "/wiki/Mugen-Honda"
+                ],
+                [
+                    {
+                        "entity id": "Q171367",
+                        "label": "Jordan Grand Prix"
+                    },
+                    {
+                        "entity id": "Q173274",
+                        "label": "Mugen Motorsports"
+                    }
+                ]
+            ],
+            [
+                "1:32.276",
+                []
+            ],
+            [
+                "+1.814",
+                []
+            ]
+        ],
+        [
+            [
+                "6",
+                []
+            ],
+            [
+                "4",
+                []
+            ],
+            [
+                "Eddie Irvine",
+                [
+                    "/wiki/Eddie_Irvine"
+                ],
+                [
+                    {
+                        "entity id": "Q171397",
+                        "label": "Eddie Irvine"
+                    }
+                ]
+            ],
+            [
+                "Ferrari",
+                [
+                    "/wiki/Scuderia_Ferrari"
+                ],
+                [
+                    {
+                        "entity id": "Q169898",
+                        "label": "Scuderia Ferrari"
+                    }
+                ]
+            ],
+            [
+                "1:32.289",
+                []
+            ],
+            [
+                "+1.827",
+                []
+            ]
+        ],
+        [
+            [
+                "7",
+                []
+            ],
+            [
+                "9",
+                []
+            ],
+            [
+                "Giancarlo Fisichella",
+                [
+                    "/wiki/Giancarlo_Fisichella"
+                ],
+                [
+                    {
+                        "entity id": "Q172712",
+                        "label": "Giancarlo Fisichella"
+                    }
+                ]
+            ],
+            [
+                "Benetton - Playlife",
+                [
+                    "/wiki/Benetton_Formula",
+                    "/wiki/Playlife"
+                ],
+                [
+                    {
+                        "entity id": "Q171329",
+                        "label": "Benetton Formula"
+                    },
+                    {
+                        "entity id": "Q172227",
+                        "label": "Playlife"
+                    }
+                ]
+            ],
+            [
+                "1:32.540",
+                []
+            ],
+            [
+                "+2.078",
+                []
+            ]
+        ],
+        [
+            [
+                "8",
+                []
+            ],
+            [
+                "6",
+                []
+            ],
+            [
+                "Ralf Schumacher",
+                [
+                    "/wiki/Ralf_Schumacher"
+                ],
+                [
+                    {
+                        "entity id": "Q75825",
+                        "label": "Ralf Schumacher"
+                    }
+                ]
+            ],
+            [
+                "Williams - Supertec",
+                [
+                    "/wiki/WilliamsF1",
+                    "/wiki/Supertec"
+                ],
+                [
+                    {
+                        "entity id": "Q171337",
+                        "label": "Williams Grand Prix Engineering"
+                    },
+                    {
+                        "entity id": "Q173211",
+                        "label": "Supertec"
+                    }
+                ]
+            ],
+            [
+                "1:32.691",
+                []
+            ],
+            [
+                "+2.229",
+                []
+            ]
+        ],
+        [
+            [
+                "9",
+                []
+            ],
+            [
+                "7",
+                []
+            ],
+            [
+                "Damon Hill",
+                [
+                    "/wiki/Damon_Hill"
+                ],
+                [
+                    {
+                        "entity id": "Q10505",
+                        "label": "Damon Hill"
+                    }
+                ]
+            ],
+            [
+                "Jordan - Mugen-Honda",
+                [
+                    "/wiki/Jordan_Grand_Prix",
+                    "/wiki/Mugen-Honda"
+                ],
+                [
+                    {
+                        "entity id": "Q171367",
+                        "label": "Jordan Grand Prix"
+                    },
+                    {
+                        "entity id": "Q173274",
+                        "label": "Mugen Motorsports"
+                    }
+                ]
+            ],
+            [
+                "1:32.695",
+                []
+            ],
+            [
+                "+2.233",
+                []
+            ]
+        ],
+        [
+            [
+                "10",
+                []
+            ],
+            [
+                "10",
+                []
+            ],
+            [
+                "Alexander Wurz",
+                [
+                    "/wiki/Alexander_Wurz"
+                ],
+                [
+                    {
+                        "entity id": "Q78499",
+                        "label": "Alexander Wurz"
+                    }
+                ]
+            ],
+            [
+                "Benetton - Playlife",
+                [
+                    "/wiki/Benetton_Formula",
+                    "/wiki/Playlife"
+                ],
+                [
+                    {
+                        "entity id": "Q171329",
+                        "label": "Benetton Formula"
+                    },
+                    {
+                        "entity id": "Q172227",
+                        "label": "Playlife"
+                    }
+                ]
+            ],
+            [
+                "1:32.789",
+                []
+            ],
+            [
+                "+2.327",
+                []
+            ]
+        ],
+        [
+            [
+                "11",
+                []
+            ],
+            [
+                "22",
+                []
+            ],
+            [
+                "Jacques Villeneuve",
+                [
+                    "/wiki/Jacques_Villeneuve"
+                ],
+                [
+                    {
+                        "entity id": "Q172843",
+                        "label": "Jacques Villeneuve"
+                    }
+                ]
+            ],
+            [
+                "BAR - Supertec",
+                [
+                    "/wiki/British_American_Racing",
+                    "/wiki/Supertec"
+                ],
+                [
+                    {
+                        "entity id": "Q171320",
+                        "label": "British American Racing"
+                    },
+                    {
+                        "entity id": "Q173211",
+                        "label": "Supertec"
+                    }
+                ]
+            ],
+            [
+                "1:32.888",
+                []
+            ],
+            [
+                "+2.426",
+                []
+            ]
+        ],
+        [
+            [
+                "12",
+                []
+            ],
+            [
+                "19",
+                []
+            ],
+            [
+                "Jarno Trulli",
+                [
+                    "/wiki/Jarno_Trulli"
+                ],
+                [
+                    {
+                        "entity id": "Q171350",
+                        "label": "Jarno Trulli"
+                    }
+                ]
+            ],
+            [
+                "Prost - Peugeot",
+                [
+                    "/wiki/Prost_(racing_team)",
+                    "/wiki/Peugeot"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q6742",
+                        "label": "Peugeot"
+                    }
+                ]
+            ],
+            [
+                "1:32.971",
+                []
+            ],
+            [
+                "+2.509",
+                []
+            ]
+        ],
+        [
+            [
+                "13",
+                []
+            ],
+            [
+                "17",
+                []
+            ],
+            [
+                "Johnny Herbert",
+                [
+                    "/wiki/Johnny_Herbert"
+                ],
+                [
+                    {
+                        "entity id": "Q172751",
+                        "label": "Johnny Herbert"
+                    }
+                ]
+            ],
+            [
+                "Stewart - Ford",
+                [
+                    "/wiki/Stewart_Grand_Prix",
+                    "/wiki/Ford_Motor_Company"
+                ],
+                [
+                    {
+                        "entity id": "Q173066",
+                        "label": "Stewart Grand Prix"
+                    },
+                    {
+                        "entity id": "Q44294",
+                        "label": "Ford Motor Company"
+                    }
+                ]
+            ],
+            [
+                "1:32.991",
+                []
+            ],
+            [
+                "+2.529",
+                []
+            ]
+        ],
+        [
+            [
+                "14",
+                []
+            ],
+            [
+                "12",
+                []
+            ],
+            [
+                "Pedro Diniz",
+                [
+                    "/wiki/Pedro_Diniz"
+                ],
+                [
+                    {
+                        "entity id": "Q172999",
+                        "label": "Pedro Diniz"
+                    }
+                ]
+            ],
+            [
+                "Sauber - Petronas",
+                [
+                    "/wiki/Sauber",
+                    "/wiki/Sauber_Petronas_Engineering"
+                ],
+                [
+                    {
+                        "entity id": "Q171335",
+                        "label": "Sauber"
+                    },
+                    {
+                        "entity id": "Q7426996",
+                        "label": "Sauber Petronas Engineering"
+                    }
+                ]
+            ],
+            [
+                "1:33.374",
+                []
+            ],
+            [
+                "+2.912",
+                []
+            ]
+        ],
+        [
+            [
+                "15",
+                []
+            ],
+            [
+                "5",
+                []
+            ],
+            [
+                "Alessandro Zanardi",
+                [
+                    "/wiki/Alex_Zanardi"
+                ],
+                [
+                    {
+                        "entity id": "Q173188",
+                        "label": "Alex Zanardi"
+                    }
+                ]
+            ],
+            [
+                "Williams - Supertec",
+                [
+                    "/wiki/WilliamsF1",
+                    "/wiki/Supertec"
+                ],
+                [
+                    {
+                        "entity id": "Q171337",
+                        "label": "Williams Grand Prix Engineering"
+                    },
+                    {
+                        "entity id": "Q173211",
+                        "label": "Supertec"
+                    }
+                ]
+            ],
+            [
+                "1:33.549",
+                []
+            ],
+            [
+                "+3.087",
+                []
+            ]
+        ],
+        [
+            [
+                "16",
+                []
+            ],
+            [
+                "11",
+                []
+            ],
+            [
+                "Jean Alesi",
+                [
+                    "/wiki/Jean_Alesi"
+                ],
+                [
+                    {
+                        "entity id": "Q172777",
+                        "label": "Jean Alesi"
+                    }
+                ]
+            ],
+            [
+                "Sauber - Petronas",
+                [
+                    "/wiki/Sauber",
+                    "/wiki/Sauber_Petronas_Engineering"
+                ],
+                [
+                    {
+                        "entity id": "Q171335",
+                        "label": "Sauber"
+                    },
+                    {
+                        "entity id": "Q7426996",
+                        "label": "Sauber Petronas Engineering"
+                    }
+                ]
+            ],
+            [
+                "1:33.910",
+                []
+            ],
+            [
+                "+3.448",
+                []
+            ]
+        ],
+        [
+            [
+                "17",
+                []
+            ],
+            [
+                "15",
+                []
+            ],
+            [
+                "Toranosuke Takagi",
+                [
+                    "/wiki/Toranosuke_Takagi"
+                ],
+                [
+                    {
+                        "entity id": "Q173160",
+                        "label": "Toranosuke Takagi"
+                    }
+                ]
+            ],
+            [
+                "Arrows",
+                [
+                    "/wiki/Arrows_Grand_Prix_International"
+                ],
+                [
+                    {
+                        "entity id": "Q174176",
+                        "label": "Arrows"
+                    }
+                ]
+            ],
+            [
+                "1:34.182",
+                []
+            ],
+            [
+                "+3.720",
+                []
+            ]
+        ],
+        [
+            [
+                "18",
+                []
+            ],
+            [
+                "14",
+                []
+            ],
+            [
+                "Pedro de la Rosa",
+                [
+                    "/wiki/Pedro_de_la_Rosa"
+                ],
+                [
+                    {
+                        "entity id": "Q82924",
+                        "label": "Pedro de la Rosa"
+                    }
+                ]
+            ],
+            [
+                "Arrows",
+                [
+                    "/wiki/Arrows_Grand_Prix_International"
+                ],
+                [
+                    {
+                        "entity id": "Q174176",
+                        "label": "Arrows"
+                    }
+                ]
+            ],
+            [
+                "1:34.244",
+                []
+            ],
+            [
+                "+3.782",
+                []
+            ]
+        ],
+        [
+            [
+                "19",
+                []
+            ],
+            [
+                "23",
+                []
+            ],
+            [
+                "Ricardo Zonta",
+                [
+                    "/wiki/Ricardo_Zonta"
+                ],
+                [
+                    {
+                        "entity id": "Q172004",
+                        "label": "Ricardo Zonta"
+                    }
+                ]
+            ],
+            [
+                "BAR - Supertec",
+                [
+                    "/wiki/British_American_Racing",
+                    "/wiki/Supertec"
+                ],
+                [
+                    {
+                        "entity id": "Q171320",
+                        "label": "British American Racing"
+                    },
+                    {
+                        "entity id": "Q173211",
+                        "label": "Supertec"
+                    }
+                ]
+            ],
+            [
+                "1:34.412",
+                []
+            ],
+            [
+                "+3.950",
+                []
+            ]
+        ],
+        [
+            [
+                "20",
+                []
+            ],
+            [
+                "18",
+                []
+            ],
+            [
+                "Olivier Panis",
+                [
+                    "/wiki/Olivier_Panis"
+                ],
+                [
+                    {
+                        "entity id": "Q172018",
+                        "label": "Olivier Panis"
+                    }
+                ]
+            ],
+            [
+                "Prost - Peugeot",
+                [
+                    "/wiki/Prost_(racing_team)",
+                    "/wiki/Peugeot"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q6742",
+                        "label": "Peugeot"
+                    }
+                ]
+            ],
+            [
+                "1:35.068",
+                []
+            ],
+            [
+                "+4.606",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Classification -- Qualifying",
+    "section_text": "",
+    "uid": "1999_Australian_Grand_Prix_0",
+    "intro": "The 1999 Australian Grand Prix (formally the LXIV Qantas Australian Grand Prix) was a Formula One motor race held on 7 March 1999 at the Melbourne Grand Prix Circuit in Albert Park, Melbourne, Australia. The 57-lap race was the first round of the 1999 Formula One season - the 50th World Championship season in the history of Formula One. Mika H\u00e4kkinen and David Coulthard dominated in practice and the opening stage of the race, but retired with technical problems - the new McLaren MP4/14 proved to be very fast but not yet reliable, a trait shared by a number of Adrian Newey designed cars. Michael Schumacher also had problems during this eventful race, which gave his Ferrari teammate Eddie Irvine the opportunity to take his first Grand Prix victory. He made no mistakes and beat Heinz-Harald Frentzen and Ralf Schumacher to the finish by a few seconds."
+}

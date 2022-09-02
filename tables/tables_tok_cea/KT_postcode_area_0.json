@@ -1,0 +1,939 @@
+{
+    "url": "https://en.wikipedia.org/wiki/KT_postcode_area",
+    "title": "KT postcode area",
+    "header": [
+        [
+            "Postcode district",
+            []
+        ],
+        [
+            "Post town",
+            [
+                "/wiki/Post_town"
+            ],
+            [
+                {
+                    "entity id": "Q1968403",
+                    "label": "post town"
+                }
+            ]
+        ],
+        [
+            "Coverage",
+            []
+        ],
+        [
+            "Local authority area",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "KT1",
+                []
+            ],
+            [
+                "KINGSTON UPON THAMES",
+                []
+            ],
+            [
+                "Kingston upon Thames , Hampton Wick , part of Norbiton",
+                [
+                    "/wiki/Kingston_upon_Thames",
+                    "/wiki/Hampton_Wick",
+                    "/wiki/Norbiton"
+                ],
+                [
+                    {
+                        "entity id": "Q32508",
+                        "label": "Royal Borough of Kingston upon Thames"
+                    },
+                    {
+                        "entity id": "Q5646331",
+                        "label": "Hampton Wick"
+                    },
+                    {
+                        "entity id": "Q7050427",
+                        "label": "Norbiton"
+                    }
+                ]
+            ],
+            [
+                "Kingston upon Thames , Richmond upon Thames",
+                [
+                    "/wiki/Royal_Borough_of_Kingston_upon_Thames",
+                    "/wiki/London_Borough_of_Richmond_upon_Thames"
+                ],
+                [
+                    {
+                        "entity id": "Q32508",
+                        "label": "Royal Borough of Kingston upon Thames"
+                    },
+                    {
+                        "entity id": "Q32515",
+                        "label": "London Borough of Richmond upon Thames"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "KT2",
+                []
+            ],
+            [
+                "KINGSTON UPON THAMES",
+                []
+            ],
+            [
+                "Kingston upon Thames , Canbury , Coombe , part of Norbiton",
+                [
+                    "/wiki/Canbury",
+                    "/wiki/Coombe,_Kingston_upon_Thames",
+                    "/wiki/Norbiton"
+                ],
+                [
+                    {
+                        "entity id": "Q56295953",
+                        "label": "Canbury"
+                    },
+                    {},
+                    {
+                        "entity id": "Q7050427",
+                        "label": "Norbiton"
+                    }
+                ]
+            ],
+            [
+                "Kingston upon Thames , Richmond upon Thames",
+                []
+            ]
+        ],
+        [
+            [
+                "KT3",
+                []
+            ],
+            [
+                "NEW MALDEN",
+                []
+            ],
+            [
+                "Motspur Park , New Malden , part of Old Malden",
+                [
+                    "/wiki/Motspur_Park",
+                    "/wiki/New_Malden",
+                    "/wiki/Old_Malden"
+                ],
+                [
+                    {
+                        "entity id": "Q6918601",
+                        "label": "Motspur Park"
+                    },
+                    {
+                        "entity id": "Q3054629",
+                        "label": "New Malden"
+                    },
+                    {
+                        "entity id": "Q2792911",
+                        "label": "Old Malden"
+                    }
+                ]
+            ],
+            [
+                "Kingston upon Thames , Merton",
+                [
+                    "/wiki/London_Borough_of_Merton"
+                ],
+                [
+                    {
+                        "entity id": "Q32504",
+                        "label": "London Borough of Merton"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "KT4",
+                []
+            ],
+            [
+                "WORCESTER PARK",
+                []
+            ],
+            [
+                "Worcester Park , Cuddington , part of Old Malden , Stoneleigh",
+                [
+                    "/wiki/Worcester_Park",
+                    "/wiki/Cuddington,_Surrey",
+                    "/wiki/Old_Malden",
+                    "/wiki/Stoneleigh,_Surrey"
+                ],
+                [
+                    {
+                        "entity id": "Q8034205",
+                        "label": "Worcester Park"
+                    },
+                    {
+                        "entity id": "Q5192497",
+                        "label": "Cuddington"
+                    },
+                    {
+                        "entity id": "Q2792911",
+                        "label": "Old Malden"
+                    },
+                    {
+                        "entity id": "Q7619258",
+                        "label": "Stoneleigh"
+                    }
+                ]
+            ],
+            [
+                "Sutton , Epsom and Ewell , Kingston upon Thames , Merton",
+                [
+                    "/wiki/London_Borough_of_Sutton",
+                    "/wiki/Epsom_and_Ewell"
+                ],
+                [
+                    {
+                        "entity id": "Q320378",
+                        "label": "London Borough of Sutton"
+                    },
+                    {
+                        "entity id": "Q257577",
+                        "label": "Epsom and Ewell"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "KT5",
+                []
+            ],
+            [
+                "SURBITON",
+                []
+            ],
+            [
+                "Berrylands , part of Surbiton , part of Tolworth",
+                [
+                    "/wiki/Berrylands",
+                    "/wiki/Surbiton",
+                    "/wiki/Tolworth"
+                ],
+                [
+                    {
+                        "entity id": "Q957632",
+                        "label": "Berrylands"
+                    },
+                    {
+                        "entity id": "Q2453259",
+                        "label": "Surbiton"
+                    },
+                    {
+                        "entity id": "Q2144907",
+                        "label": "Tolworth"
+                    }
+                ]
+            ],
+            [
+                "Kingston upon Thames",
+                []
+            ]
+        ],
+        [
+            [
+                "KT6",
+                []
+            ],
+            [
+                "SURBITON",
+                []
+            ],
+            [
+                "Surbiton , Tolworth , part of Long Ditton , Seething Wells",
+                [
+                    "/wiki/Surbiton",
+                    "/wiki/Tolworth",
+                    "/wiki/Long_Ditton",
+                    "/wiki/Seething_Wells"
+                ],
+                [
+                    {
+                        "entity id": "Q2453259",
+                        "label": "Surbiton"
+                    },
+                    {
+                        "entity id": "Q2144907",
+                        "label": "Tolworth"
+                    },
+                    {
+                        "entity id": "Q6672525",
+                        "label": "Long Ditton"
+                    },
+                    {
+                        "entity id": "Q2347738",
+                        "label": "Steven Wells"
+                    }
+                ]
+            ],
+            [
+                "Kingston upon Thames , Elmbridge",
+                [
+                    "/wiki/Kingston_upon_Thames",
+                    "/wiki/Borough_of_Elmbridge"
+                ],
+                [
+                    {
+                        "entity id": "Q32508",
+                        "label": "Royal Borough of Kingston upon Thames"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "KT7",
+                []
+            ],
+            [
+                "THAMES DITTON",
+                []
+            ],
+            [
+                "part of Long Ditton , Thames Ditton , part of Weston Green",
+                [
+                    "/wiki/Long_Ditton",
+                    "/wiki/Thames_Ditton",
+                    "/wiki/Weston_Green"
+                ],
+                [
+                    {
+                        "entity id": "Q6672525",
+                        "label": "Long Ditton"
+                    },
+                    {
+                        "entity id": "Q954764",
+                        "label": "Thames Ditton"
+                    },
+                    {
+                        "entity id": "Q9372203",
+                        "label": "Weston Green"
+                    }
+                ]
+            ],
+            [
+                "Kingston upon Thames , Elmbridge",
+                [
+                    "/wiki/Kingston_upon_Thames",
+                    "/wiki/Borough_of_Elmbridge"
+                ],
+                [
+                    {
+                        "entity id": "Q32508",
+                        "label": "Royal Borough of Kingston upon Thames"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "KT8",
+                []
+            ],
+            [
+                "EAST MOLESEY ; WEST MOLESEY",
+                []
+            ],
+            [
+                "East Molesey , West Molesey , Hampton Court Palace and part of its Park ; 1.5 Thames islands , part of Bushy Park , Hampton Court neighbourhood , Hampton",
+                [
+                    "/wiki/East_Molesey",
+                    "/wiki/West_Molesey",
+                    "/wiki/Hampton_Court_Palace",
+                    "/wiki/Bushy_Park",
+                    "/wiki/Hampton,_London"
+                ],
+                [
+                    {
+                        "entity id": "Q36207513",
+                        "label": "East Molesey"
+                    },
+                    {
+                        "entity id": "Q24636671",
+                        "label": "West Molesey"
+                    },
+                    {
+                        "entity id": "Q205666",
+                        "label": "Hampton Court Palace"
+                    },
+                    {
+                        "entity id": "Q1017532",
+                        "label": "Bushy Park"
+                    },
+                    {
+                        "entity id": "Q766353",
+                        "label": "Hampton"
+                    }
+                ]
+            ],
+            [
+                "Elmbridge , Richmond upon Thames",
+                []
+            ]
+        ],
+        [
+            [
+                "KT9",
+                []
+            ],
+            [
+                "CHESSINGTON",
+                []
+            ],
+            [
+                "Chessington including Malden Rushett , Hook , part of Long Ditton",
+                [
+                    "/wiki/Chessington",
+                    "/wiki/Malden_Rushett",
+                    "/wiki/Hook,_London"
+                ],
+                [
+                    {
+                        "entity id": "Q2220767",
+                        "label": "Chessington"
+                    },
+                    {
+                        "entity id": "Q6742786",
+                        "label": "Malden Rushett"
+                    },
+                    {
+                        "entity id": "Q15224991",
+                        "label": "Hook"
+                    }
+                ]
+            ],
+            [
+                "Kingston upon Thames ; Elmbridge",
+                []
+            ]
+        ],
+        [
+            [
+                "KT10",
+                []
+            ],
+            [
+                "ESHER",
+                []
+            ],
+            [
+                "Esher , Claygate , Hinchley Wood , part of Weston Green",
+                [
+                    "/wiki/Esher",
+                    "/wiki/Claygate",
+                    "/wiki/Hinchley_Wood",
+                    "/wiki/Weston_Green"
+                ],
+                [
+                    {
+                        "entity id": "Q637482",
+                        "label": "Esher"
+                    },
+                    {
+                        "entity id": "Q777475",
+                        "label": "Claygate"
+                    },
+                    {
+                        "entity id": "Q5765741",
+                        "label": "Hinchley Wood"
+                    },
+                    {
+                        "entity id": "Q9372203",
+                        "label": "Weston Green"
+                    }
+                ]
+            ],
+            [
+                "Elmbridge",
+                [
+                    "/wiki/Borough_of_Elmbridge"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "KT11",
+                []
+            ],
+            [
+                "COBHAM",
+                []
+            ],
+            [
+                "Cobham , Stoke d'Abernon , Downside , Hatchford , parts of Wisley , Ockham and Hersham",
+                [
+                    "/wiki/Cobham,_Surrey",
+                    "/wiki/Stoke_d'Abernon",
+                    "/wiki/Downside,_Surrey",
+                    "/wiki/Hatchford",
+                    "/wiki/Wisley",
+                    "/wiki/Ockham,_Surrey",
+                    "/wiki/Hersham"
+                ],
+                [
+                    {
+                        "entity id": "Q1006990",
+                        "label": "Cobham"
+                    },
+                    {
+                        "entity id": "Q7618506",
+                        "label": "Stoke d'Abernon"
+                    },
+                    {
+                        "entity id": "Q5303280",
+                        "label": "Downside"
+                    },
+                    {
+                        "entity id": "Q12059651",
+                        "label": "Hatchford"
+                    },
+                    {
+                        "entity id": "Q2287225",
+                        "label": "Wisley"
+                    },
+                    {
+                        "entity id": "Q2705385",
+                        "label": "Ockham"
+                    },
+                    {
+                        "entity id": "Q5744439",
+                        "label": "Hersham"
+                    }
+                ]
+            ],
+            [
+                "Elmbridge , Guildford , Mole Valley",
+                [
+                    "/wiki/Borough_of_Guildford",
+                    "/wiki/Mole_Valley"
+                ],
+                [
+                    {
+                        "entity id": "Q894086",
+                        "label": "Guildford"
+                    },
+                    {
+                        "entity id": "Q961824",
+                        "label": "Mole Valley"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "KT12",
+                []
+            ],
+            [
+                "WALTON-ON-THAMES",
+                []
+            ],
+            [
+                "Walton-on-Thames , Hersham , Whiteley Village",
+                [
+                    "/wiki/Walton-on-Thames",
+                    "/wiki/Hersham",
+                    "/wiki/Whiteley_Village"
+                ],
+                [
+                    {
+                        "entity id": "Q2003600",
+                        "label": "Walton-on-Thames"
+                    },
+                    {
+                        "entity id": "Q5744439",
+                        "label": "Hersham"
+                    },
+                    {
+                        "entity id": "Q7996143",
+                        "label": "Whiteley Village"
+                    }
+                ]
+            ],
+            [
+                "Elmbridge",
+                []
+            ]
+        ],
+        [
+            [
+                "KT13",
+                []
+            ],
+            [
+                "WEYBRIDGE",
+                []
+            ],
+            [
+                "Weybridge , Oatlands , Saint George 's Hill , Hamm Court",
+                [
+                    "/wiki/Weybridge",
+                    "/wiki/Oatlands,_Surrey",
+                    "/wiki/Saint_George's_Hill",
+                    "/wiki/Addlestone"
+                ],
+                [
+                    {
+                        "entity id": "Q1754096",
+                        "label": "Weybridge"
+                    },
+                    {
+                        "entity id": "Q764263",
+                        "label": "Oatlands"
+                    },
+                    {
+                        "entity id": "Q7401291",
+                        "label": "Saint George's Hill"
+                    },
+                    {
+                        "entity id": "Q353307",
+                        "label": "Addlestone"
+                    }
+                ]
+            ],
+            [
+                "Elmbridge , Runnymede",
+                [
+                    "/wiki/Borough_of_Runnymede"
+                ],
+                [
+                    {
+                        "entity id": "Q9324032",
+                        "label": "Runnymede"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "KT14",
+                []
+            ],
+            [
+                "WEST BYFLEET",
+                []
+            ],
+            [
+                "Byfleet , West Byfleet",
+                [
+                    "/wiki/Byfleet",
+                    "/wiki/West_Byfleet"
+                ],
+                [
+                    {
+                        "entity id": "Q1015092",
+                        "label": "Byfleet"
+                    },
+                    {
+                        "entity id": "Q2564185",
+                        "label": "West Byfleet"
+                    }
+                ]
+            ],
+            [
+                "Woking , Elmbridge , Runnymede",
+                [
+                    "/wiki/Borough_of_Woking"
+                ],
+                [
+                    {
+                        "entity id": "Q2277849",
+                        "label": "Woking"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "KT15",
+                []
+            ],
+            [
+                "ADDLESTONE",
+                []
+            ],
+            [
+                "Addlestone , New Haw , Woodham",
+                [
+                    "/wiki/Addlestone",
+                    "/wiki/New_Haw",
+                    "/wiki/Woodham,_Surrey"
+                ],
+                [
+                    {
+                        "entity id": "Q353307",
+                        "label": "Addlestone"
+                    },
+                    {
+                        "entity id": "Q262388",
+                        "label": "New Haw"
+                    },
+                    {
+                        "entity id": "Q8032699",
+                        "label": "Woodham"
+                    }
+                ]
+            ],
+            [
+                "Runnymede , Woking",
+                []
+            ]
+        ],
+        [
+            [
+                "KT16",
+                []
+            ],
+            [
+                "CHERTSEY",
+                []
+            ],
+            [
+                "Chertsey , Ottershaw , Longcross , Lyne , Dumsey Meadow in Littleton",
+                [
+                    "/wiki/Chertsey",
+                    "/wiki/Ottershaw",
+                    "/wiki/Longcross",
+                    "/wiki/Lyne,_Surrey",
+                    "/wiki/Dumsey_Meadow",
+                    "/wiki/Littleton,_Spelthorne"
+                ],
+                [
+                    {
+                        "entity id": "Q1070428",
+                        "label": "Chertsey"
+                    },
+                    {
+                        "entity id": "Q1378748",
+                        "label": "Ottershaw"
+                    },
+                    {
+                        "entity id": "Q6673671",
+                        "label": "Longcross"
+                    },
+                    {
+                        "entity id": "Q6708786",
+                        "label": "Lyne"
+                    },
+                    {
+                        "entity id": "Q5314002",
+                        "label": "Dumsey Meadow"
+                    },
+                    {
+                        "entity id": "Q11761995",
+                        "label": "Littleton"
+                    }
+                ]
+            ],
+            [
+                "Runnymede , Spelthorne",
+                [
+                    "/wiki/Borough_of_Spelthorne"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "KT17",
+                []
+            ],
+            [
+                "EPSOM",
+                []
+            ],
+            [
+                "Epsom , Ewell , Stoneleigh",
+                [
+                    "/wiki/Epsom",
+                    "/wiki/Ewell",
+                    "/wiki/Stoneleigh,_Surrey"
+                ],
+                [
+                    {
+                        "entity id": "Q993164",
+                        "label": "Epsom"
+                    },
+                    {
+                        "entity id": "Q963723",
+                        "label": "Ewell"
+                    },
+                    {
+                        "entity id": "Q7619258",
+                        "label": "Stoneleigh"
+                    }
+                ]
+            ],
+            [
+                "Epsom and Ewell , Reigate and Banstead , Sutton",
+                [
+                    "/wiki/Reigate_and_Banstead"
+                ],
+                [
+                    {
+                        "entity id": "Q2066396",
+                        "label": "Reigate and Banstead"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "KT18",
+                []
+            ],
+            [
+                "EPSOM",
+                []
+            ],
+            [
+                "Epsom , Tattenham Corner , Headley , Langley Vale",
+                [
+                    "/wiki/Epsom",
+                    "/wiki/Tattenham_Corner",
+                    "/wiki/Headley,_Surrey",
+                    "/wiki/Langley_Vale"
+                ],
+                [
+                    {
+                        "entity id": "Q993164",
+                        "label": "Epsom"
+                    },
+                    {
+                        "entity id": "Q7688391",
+                        "label": "Tattenham Corner"
+                    },
+                    {
+                        "entity id": "Q2177281",
+                        "label": "Headley"
+                    },
+                    {
+                        "entity id": "Q11752819",
+                        "label": "Langley Vale"
+                    }
+                ]
+            ],
+            [
+                "Epsom and Ewell , Mole Valley , Reigate and Banstead",
+                []
+            ]
+        ],
+        [
+            [
+                "KT19",
+                []
+            ],
+            [
+                "EPSOM",
+                []
+            ],
+            [
+                "Epsom , West Ewell , Stoneleigh , Horton , Longmead",
+                [
+                    "/wiki/Epsom",
+                    "/wiki/Stoneleigh,_Surrey",
+                    "/wiki/Horton,_Surrey"
+                ],
+                [
+                    {
+                        "entity id": "Q993164",
+                        "label": "Epsom"
+                    },
+                    {
+                        "entity id": "Q7619258",
+                        "label": "Stoneleigh"
+                    },
+                    {
+                        "entity id": "Q11710120",
+                        "label": "Horton"
+                    }
+                ]
+            ],
+            [
+                "Epsom and Ewell",
+                []
+            ]
+        ],
+        [
+            [
+                "KT20",
+                []
+            ],
+            [
+                "TADWORTH",
+                []
+            ],
+            [
+                "Tadworth , Kingswood , Lower Kingswood , Walton-on-the-Hill , Burgh Heath , Mogador , Box Hill",
+                [
+                    "/wiki/Tadworth",
+                    "/wiki/Kingswood,_Surrey",
+                    "/wiki/Lower_Kingswood",
+                    "/wiki/Walton-on-the-Hill",
+                    "/wiki/Burgh_Heath",
+                    "/wiki/Mogador,_Surrey",
+                    "/wiki/Box_Hill,_Surrey"
+                ],
+                [
+                    {
+                        "entity id": "Q11836773",
+                        "label": "Tadworth"
+                    },
+                    {
+                        "entity id": "Q6413757",
+                        "label": "Kingswood"
+                    },
+                    {
+                        "entity id": "Q6693551",
+                        "label": "Lower Kingswood"
+                    },
+                    {
+                        "entity id": "Q3063689",
+                        "label": "Walton"
+                    },
+                    {
+                        "entity id": "Q4998623",
+                        "label": "Burgh Heath"
+                    },
+                    {
+                        "entity id": "Q545930",
+                        "label": "Mogador, Surrey"
+                    },
+                    {
+                        "entity id": "Q895519",
+                        "label": "Box Hill"
+                    }
+                ]
+            ],
+            [
+                "Reigate and Banstead , Mole Valley",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Coverage",
+    "section_text": "The approximate coverage of the postcode districts :",
+    "uid": "KT_postcode_area_0",
+    "intro": "The KT postcode area, also known as the Kingston upon Thames postcode area, is a group of 24 postcode districts in England, within 19 post towns. These cover parts of southwestern Greater London and northern Surrey. Mail for this area is sorted at the Jubilee Mail Centre in Hounslow. In Greater London the area covers most of the Royal Borough of Kingston upon Thames and small parts of the boroughs of Richmond upon Thames, Merton and Sutton, while in Surrey it covers virtually all of the borough of Elmbridge, most of the borough of Epsom and Ewell, the northwestern part of the borough of Reigate and Banstead, the northern part of the Mole Valley district, the northeastern parts of the boroughs of Guildford and Woking and the southern part of the borough of Runnymede, as well as a very small part of the borough of Spelthorne."
+}

@@ -1,0 +1,389 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_traded_commodities",
+    "title": "List of traded commodities",
+    "header": [
+        [
+            "Commodity",
+            []
+        ],
+        [
+            "Unit",
+            []
+        ],
+        [
+            "Currency",
+            []
+        ],
+        [
+            "Main Exchange",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Copper",
+                [
+                    "/wiki/Copper"
+                ],
+                [
+                    {
+                        "entity id": "Q753",
+                        "label": "copper"
+                    }
+                ]
+            ],
+            [
+                "Metric Ton",
+                [
+                    "/wiki/Metric_ton"
+                ],
+                [
+                    {
+                        "entity id": "Q191118",
+                        "label": "tonne"
+                    }
+                ]
+            ],
+            [
+                "USD ( $ )",
+                [
+                    "/wiki/United_States_currency"
+                ],
+                [
+                    {
+                        "entity id": "Q65929831",
+                        "label": "United States currency"
+                    }
+                ]
+            ],
+            [
+                "London Metal Exchange , New York",
+                [
+                    "/wiki/London_Metal_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q952937",
+                        "label": "London Metal Exchange"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Lead",
+                [
+                    "/wiki/Lead"
+                ],
+                [
+                    {
+                        "entity id": "Q708",
+                        "label": "lead"
+                    }
+                ]
+            ],
+            [
+                "Metric Ton",
+                [
+                    "/wiki/Metric_ton"
+                ],
+                [
+                    {
+                        "entity id": "Q191118",
+                        "label": "tonne"
+                    }
+                ]
+            ],
+            [
+                "USD ( $ )",
+                []
+            ],
+            [
+                "London Metal Exchange",
+                []
+            ]
+        ],
+        [
+            [
+                "Zinc",
+                [
+                    "/wiki/Zinc"
+                ],
+                [
+                    {
+                        "entity id": "Q758",
+                        "label": "zinc"
+                    }
+                ]
+            ],
+            [
+                "Metric Ton",
+                [
+                    "/wiki/Metric_ton"
+                ],
+                [
+                    {
+                        "entity id": "Q191118",
+                        "label": "tonne"
+                    }
+                ]
+            ],
+            [
+                "USD ( $ )",
+                []
+            ],
+            [
+                "London Metal Exchange",
+                []
+            ]
+        ],
+        [
+            [
+                "Tin",
+                [
+                    "/wiki/Tin"
+                ],
+                [
+                    {
+                        "entity id": "Q1096",
+                        "label": "tin"
+                    }
+                ]
+            ],
+            [
+                "Metric Ton",
+                [
+                    "/wiki/Metric_ton"
+                ],
+                [
+                    {
+                        "entity id": "Q191118",
+                        "label": "tonne"
+                    }
+                ]
+            ],
+            [
+                "USD ( $ )",
+                []
+            ],
+            [
+                "London Metal Exchange",
+                []
+            ]
+        ],
+        [
+            [
+                "Aluminium",
+                [
+                    "/wiki/Aluminium"
+                ],
+                [
+                    {
+                        "entity id": "Q663",
+                        "label": "aluminium"
+                    }
+                ]
+            ],
+            [
+                "Metric Ton",
+                [
+                    "/wiki/Metric_ton"
+                ],
+                [
+                    {
+                        "entity id": "Q191118",
+                        "label": "tonne"
+                    }
+                ]
+            ],
+            [
+                "USD ( $ )",
+                []
+            ],
+            [
+                "London Metal Exchange , New York",
+                []
+            ]
+        ],
+        [
+            [
+                "Aluminium alloy",
+                [
+                    "/wiki/Aluminium_alloy"
+                ],
+                [
+                    {
+                        "entity id": "Q447725",
+                        "label": "aluminium alloy"
+                    }
+                ]
+            ],
+            [
+                "Metric Ton",
+                [
+                    "/wiki/Metric_ton"
+                ],
+                [
+                    {
+                        "entity id": "Q191118",
+                        "label": "tonne"
+                    }
+                ]
+            ],
+            [
+                "USD ( $ )",
+                []
+            ],
+            [
+                "London Metal Exchange",
+                []
+            ]
+        ],
+        [
+            [
+                "Nickel",
+                [
+                    "/wiki/Nickel"
+                ],
+                [
+                    {
+                        "entity id": "Q744",
+                        "label": "nickel"
+                    }
+                ]
+            ],
+            [
+                "Metric Ton",
+                [
+                    "/wiki/Metric_ton"
+                ],
+                [
+                    {
+                        "entity id": "Q191118",
+                        "label": "tonne"
+                    }
+                ]
+            ],
+            [
+                "USD ( $ )",
+                []
+            ],
+            [
+                "London Metal Exchange",
+                []
+            ]
+        ],
+        [
+            [
+                "Cobalt",
+                [
+                    "/wiki/Cobalt"
+                ],
+                [
+                    {
+                        "entity id": "Q740",
+                        "label": "cobalt"
+                    }
+                ]
+            ],
+            [
+                "Metric Ton",
+                [
+                    "/wiki/Metric_ton"
+                ],
+                [
+                    {
+                        "entity id": "Q191118",
+                        "label": "tonne"
+                    }
+                ]
+            ],
+            [
+                "USD ( $ )",
+                []
+            ],
+            [
+                "London Metal Exchange",
+                []
+            ]
+        ],
+        [
+            [
+                "Molybdenum",
+                [
+                    "/wiki/Molybdenum"
+                ],
+                [
+                    {
+                        "entity id": "Q1053",
+                        "label": "molybdenum"
+                    }
+                ]
+            ],
+            [
+                "Metric Ton",
+                [
+                    "/wiki/Metric_ton"
+                ],
+                [
+                    {
+                        "entity id": "Q191118",
+                        "label": "tonne"
+                    }
+                ]
+            ],
+            [
+                "USD ( $ )",
+                []
+            ],
+            [
+                "London Metal Exchange",
+                []
+            ]
+        ],
+        [
+            [
+                "Recycled steel",
+                [
+                    "/wiki/Recycling",
+                    "/wiki/Steel"
+                ],
+                [
+                    {
+                        "entity id": "Q132580",
+                        "label": "recycling"
+                    },
+                    {
+                        "entity id": "Q11427",
+                        "label": "steel"
+                    }
+                ]
+            ],
+            [
+                "Metric Ton",
+                [
+                    "/wiki/Metric_ton"
+                ],
+                [
+                    {
+                        "entity id": "Q191118",
+                        "label": "tonne"
+                    }
+                ]
+            ],
+            [
+                "USD ( $ )",
+                []
+            ],
+            [
+                "Rotterdam",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Metals -- Industrial",
+    "section_text": "",
+    "uid": "List_of_traded_commodities_4",
+    "intro": "The following is a list of traded commodities."
+}

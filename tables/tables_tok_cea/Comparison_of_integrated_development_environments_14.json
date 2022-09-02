@@ -1,0 +1,1238 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments",
+    "title": "Comparison of integrated development environments",
+    "header": [
+        [
+            "IDE",
+            [
+                "/wiki/Integrated_development_environment"
+            ],
+            [
+                {
+                    "entity id": "Q13741",
+                    "label": "integrated development environment"
+                }
+            ]
+        ],
+        [
+            "Developer",
+            [
+                "/wiki/Software_developer"
+            ],
+            [
+                {
+                    "entity id": "Q5482740",
+                    "label": "programmer"
+                }
+            ]
+        ],
+        [
+            "Latest stable release",
+            [
+                "/wiki/Software_release"
+            ],
+            [
+                {
+                    "entity id": "Q20631656",
+                    "label": "software release"
+                }
+            ]
+        ],
+        [
+            "Platform",
+            [
+                "/wiki/Platform_(computing)"
+            ],
+            [
+                {}
+            ]
+        ],
+        [
+            "License",
+            [
+                "/wiki/Software_license"
+            ],
+            [
+                {
+                    "entity id": "Q207621",
+                    "label": "software license"
+                }
+            ]
+        ],
+        [
+            "Written in",
+            [
+                "/wiki/Programming_language"
+            ],
+            [
+                {
+                    "entity id": "Q9143",
+                    "label": "programming language"
+                }
+            ]
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Anjuta",
+                [
+                    "/wiki/Anjuta"
+                ],
+                [
+                    {
+                        "entity id": "Q551587",
+                        "label": "Anjuta"
+                    }
+                ]
+            ],
+            [
+                "Anjuta Team",
+                []
+            ],
+            [
+                "June 2013",
+                []
+            ],
+            [
+                "Unix-like",
+                [
+                    "/wiki/Unix-like"
+                ],
+                [
+                    {
+                        "entity id": "Q14656",
+                        "label": "Unix-like operating system"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "C",
+                [
+                    "/wiki/C_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Atom",
+                [
+                    "/wiki/Atom_(text_editor)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "GitHub",
+                []
+            ],
+            [
+                "1.33.1 / December 19 , 2018",
+                []
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "MIT License",
+                [
+                    "/wiki/MIT_License"
+                ],
+                [
+                    {
+                        "entity id": "Q334661",
+                        "label": "MIT license"
+                    }
+                ]
+            ],
+            [
+                "JavaScript",
+                [
+                    "/wiki/JavaScript"
+                ],
+                [
+                    {
+                        "entity id": "Q2005",
+                        "label": "JavaScript"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Brackets",
+                [
+                    "/wiki/Brackets_(text_editor)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Adobe",
+                [
+                    "/wiki/Adobe_Systems"
+                ],
+                [
+                    {
+                        "entity id": "Q11463",
+                        "label": "Adobe"
+                    }
+                ]
+            ],
+            [
+                "September 2017",
+                []
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "MIT License",
+                [
+                    "/wiki/MIT_License"
+                ],
+                [
+                    {
+                        "entity id": "Q334661",
+                        "label": "MIT license"
+                    }
+                ]
+            ],
+            [
+                "JavaScript , HTML , CSS",
+                [
+                    "/wiki/JavaScript",
+                    "/wiki/HTML",
+                    "/wiki/Cascading_Style_Sheets"
+                ],
+                [
+                    {
+                        "entity id": "Q2005",
+                        "label": "JavaScript"
+                    },
+                    {
+                        "entity id": "Q8811",
+                        "label": "HyperText Markup Language"
+                    },
+                    {
+                        "entity id": "Q46441",
+                        "label": "Cascading Style Sheets"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Aptana Studio",
+                [
+                    "/wiki/Aptana"
+                ],
+                [
+                    {
+                        "entity id": "Q2618907",
+                        "label": "Aptana Inc."
+                    }
+                ]
+            ],
+            [
+                "Aptana , Inc",
+                [
+                    "/wiki/Aptana"
+                ],
+                [
+                    {
+                        "entity id": "Q2618907",
+                        "label": "Aptana Inc."
+                    }
+                ]
+            ],
+            [
+                "December 2013",
+                []
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "GPL , proprietary",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "Java , JavaScript",
+                [
+                    "/wiki/Java_(programming_language)",
+                    "/wiki/JavaScript"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q2005",
+                        "label": "JavaScript"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Codeanywhere",
+                [
+                    "/wiki/Codeanywhere"
+                ],
+                [
+                    {
+                        "entity id": "Q22077963",
+                        "label": "Codeanywhere"
+                    }
+                ]
+            ],
+            [
+                "Codeanywhere , Inc",
+                []
+            ],
+            [
+                "August 2015",
+                []
+            ],
+            [
+                "Cloud IDE",
+                [
+                    "/wiki/Cloud_IDE"
+                ],
+                [
+                    {
+                        "entity id": "Q63563749",
+                        "label": "online integrated development environment"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "JavaScript",
+                [
+                    "/wiki/JavaScript"
+                ],
+                [
+                    {
+                        "entity id": "Q2005",
+                        "label": "JavaScript"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "CodeLite",
+                [
+                    "/wiki/CodeLite"
+                ],
+                [
+                    {
+                        "entity id": "Q610854",
+                        "label": "CodeLite"
+                    }
+                ]
+            ],
+            [
+                "CodeLite",
+                [
+                    "/wiki/CodeLite"
+                ],
+                [
+                    {
+                        "entity id": "Q610854",
+                        "label": "CodeLite"
+                    }
+                ]
+            ],
+            [
+                "October 2015",
+                []
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "C++",
+                [
+                    "/wiki/C++"
+                ],
+                [
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Eclipse Web Tools",
+                [
+                    "/wiki/Eclipse_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "IBM",
+                [
+                    "/wiki/IBM"
+                ],
+                [
+                    {
+                        "entity id": "Q37156",
+                        "label": "IBM"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Windows , Linux , macOS , FreeBSD , JVM , Solaris",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux",
+                    "/wiki/MacOS",
+                    "/wiki/FreeBSD",
+                    "/wiki/Java_Virtual_Machine",
+                    "/wiki/Solaris_(operating_system)"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    },
+                    {
+                        "entity id": "Q193321",
+                        "label": "Java Virtual Machine"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "EPL",
+                [
+                    "/wiki/Eclipse_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q1281977",
+                        "label": "Eclipse Public License"
+                    }
+                ]
+            ],
+            [
+                "C , Java",
+                [
+                    "/wiki/C_(programming_language)",
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {},
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Komodo IDE / Edit",
+                [
+                    "/wiki/ActiveState_Komodo"
+                ],
+                [
+                    {
+                        "entity id": "Q1265324",
+                        "label": "ActiveState Komodo"
+                    }
+                ]
+            ],
+            [
+                "ActiveState",
+                [
+                    "/wiki/ActiveState"
+                ],
+                [
+                    {
+                        "entity id": "Q4033362",
+                        "label": "ActiveState"
+                    }
+                ]
+            ],
+            [
+                "November 19 , 2013",
+                []
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "IDE : Proprietary , Edit : MPL 1.1",
+                [
+                    "/wiki/Proprietary_software",
+                    "/wiki/Mozilla_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    },
+                    {
+                        "entity id": "Q308915",
+                        "label": "Mozilla Public License"
+                    }
+                ]
+            ],
+            [
+                "C , C++ , JavaScript , Perl , Python , Tcl , XUL",
+                [
+                    "/wiki/C_(programming_language)",
+                    "/wiki/C++",
+                    "/wiki/JavaScript",
+                    "/wiki/Perl",
+                    "/wiki/Python_(programming_language)",
+                    "/wiki/Tcl",
+                    "/wiki/XUL"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    },
+                    {
+                        "entity id": "Q2005",
+                        "label": "JavaScript"
+                    },
+                    {
+                        "entity id": "Q42478",
+                        "label": "Perl"
+                    },
+                    {
+                        "entity id": "Q28865",
+                        "label": "Python"
+                    },
+                    {
+                        "entity id": "Q5288",
+                        "label": "Tcl"
+                    },
+                    {
+                        "entity id": "Q726218",
+                        "label": "XML User Interface Language"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "NetBeans",
+                [
+                    "/wiki/NetBeans"
+                ],
+                [
+                    {
+                        "entity id": "Q264456",
+                        "label": "Apache NetBeans"
+                    }
+                ]
+            ],
+            [
+                "Oracle",
+                [
+                    "/wiki/Oracle_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q19900",
+                        "label": "Oracle"
+                    }
+                ]
+            ],
+            [
+                "9.0 / July 29 , 2018 ; 18 months ago ( 2018-07-29 )",
+                []
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "CDDL , GPL2",
+                [
+                    "/wiki/CDDL",
+                    "/wiki/GPL2"
+                ],
+                [
+                    {
+                        "entity id": "Q304628",
+                        "label": "Common Development and Distribution License"
+                    },
+                    {
+                        "entity id": "Q10513450",
+                        "label": "GNU General Public License, version 2.0"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Nodeclipse NTS",
+                [
+                    "/wiki/Nodeclipse"
+                ],
+                [
+                    {
+                        "entity id": "Q16928039",
+                        "label": "Nodeclipse"
+                    }
+                ]
+            ],
+            [
+                "Nodeclipse",
+                [
+                    "/wiki/Nodeclipse"
+                ],
+                [
+                    {
+                        "entity id": "Q16928039",
+                        "label": "Nodeclipse"
+                    }
+                ]
+            ],
+            [
+                "March 31 , 2014",
+                []
+            ],
+            [
+                "Windows , Linux , macOS , FreeBSD , JVM , Solaris",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux",
+                    "/wiki/MacOS",
+                    "/wiki/FreeBSD",
+                    "/wiki/Java_Virtual_Machine",
+                    "/wiki/Solaris_(operating_system)"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q34236",
+                        "label": "FreeBSD"
+                    },
+                    {
+                        "entity id": "Q193321",
+                        "label": "Java Virtual Machine"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "EPL",
+                [
+                    "/wiki/Eclipse_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q1281977",
+                        "label": "Eclipse Public License"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "NuSphere PhpED",
+                [
+                    "/wiki/PHPEd"
+                ],
+                [
+                    {
+                        "entity id": "Q7119259",
+                        "label": "PHPEd"
+                    }
+                ]
+            ],
+            [
+                "NuSphere",
+                [
+                    "/wiki/NuSphere"
+                ],
+                [
+                    {
+                        "entity id": "Q4045535",
+                        "label": "NuSphere"
+                    }
+                ]
+            ],
+            [
+                "June 2011",
+                []
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "N/A",
+                []
+            ]
+        ],
+        [
+            [
+                "Oracle JDeveloper",
+                [
+                    "/wiki/Oracle_JDeveloper"
+                ],
+                [
+                    {
+                        "entity id": "Q41525",
+                        "label": "JDeveloper"
+                    }
+                ]
+            ],
+            [
+                "Oracle Corporation",
+                [
+                    "/wiki/Oracle_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q19900",
+                        "label": "Oracle"
+                    }
+                ]
+            ],
+            [
+                "July 2013",
+                []
+            ],
+            [
+                "Windows , Linux , macOS",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux",
+                    "/wiki/MacOS"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "Proprietary - free",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Servoy",
+                [
+                    "/wiki/Servoy"
+                ],
+                [
+                    {
+                        "entity id": "Q1688061",
+                        "label": "Servoy"
+                    }
+                ]
+            ],
+            [
+                "Servoy Developer Team",
+                []
+            ],
+            [
+                "June 2011",
+                []
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "Servoy License",
+                []
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "SlickEdit",
+                [
+                    "/wiki/SlickEdit"
+                ],
+                [
+                    {
+                        "entity id": "Q10852588",
+                        "label": "SlickEdit"
+                    }
+                ]
+            ],
+            [
+                "SlickEdit",
+                [
+                    "/wiki/SlickEdit"
+                ],
+                [
+                    {
+                        "entity id": "Q10852588",
+                        "label": "SlickEdit"
+                    }
+                ]
+            ],
+            [
+                "October 2016",
+                []
+            ],
+            [
+                "Windows , Linux , macOS , Solaris , AIX , HP-UX",
+                [
+                    "/wiki/Windows",
+                    "/wiki/Linux",
+                    "/wiki/MacOS",
+                    "/wiki/Solaris_(operating_system)",
+                    "/wiki/AIX",
+                    "/wiki/HP-UX"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {},
+                    {
+                        "entity id": "Q47465",
+                        "label": "Aix-en-Provence"
+                    },
+                    {
+                        "entity id": "Q847593",
+                        "label": "HP-UX"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "C++",
+                [
+                    "/wiki/C++"
+                ],
+                [
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Visual Studio",
+                [
+                    "/wiki/Visual_Studio"
+                ],
+                [
+                    {
+                        "entity id": "Q134067",
+                        "label": "Microsoft Visual Studio"
+                    }
+                ]
+            ],
+            [
+                "Microsoft",
+                []
+            ],
+            [
+                "March 31 , 2016",
+                []
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "C++ , C #",
+                [
+                    "/wiki/C++",
+                    "/wiki/C_Sharp_(programming_language)"
+                ],
+                [
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Visual Studio Code",
+                [
+                    "/wiki/Visual_Studio_Code"
+                ],
+                [
+                    {
+                        "entity id": "Q19841877",
+                        "label": "Visual Studio Code"
+                    }
+                ]
+            ],
+            [
+                "Microsoft",
+                []
+            ],
+            [
+                "1.30.2 / January 8 , 2019",
+                []
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "MIT License",
+                [
+                    "/wiki/MIT_License"
+                ],
+                [
+                    {
+                        "entity id": "Q334661",
+                        "label": "MIT license"
+                    }
+                ]
+            ],
+            [
+                "JavaScript",
+                [
+                    "/wiki/JavaScript"
+                ],
+                [
+                    {
+                        "entity id": "Q2005",
+                        "label": "JavaScript"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "WebStorm",
+                [
+                    "/wiki/WebStorm"
+                ],
+                [
+                    {
+                        "entity id": "Q4053021",
+                        "label": "WebStorm"
+                    }
+                ]
+            ],
+            [
+                "JetBrains",
+                [
+                    "/wiki/JetBrains"
+                ],
+                [
+                    {
+                        "entity id": "Q1688472",
+                        "label": "JetBrains"
+                    }
+                ]
+            ],
+            [
+                "2019.1/ 25 March 2019",
+                []
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ]
+    ],
+    "section_title": "JavaScript",
+    "section_text": "Main article : JavaScript",
+    "uid": "Comparison_of_integrated_development_environments_14",
+    "intro": "The following tables list notable software packages that are nominal IDEs; standalone tools such as source code editors and GUI builders are not included. These IDEs are listed in alphabetical order of the supported language."
+}

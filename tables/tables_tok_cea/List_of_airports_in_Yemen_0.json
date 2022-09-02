@@ -1,0 +1,926 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Yemen",
+    "title": "List of airports in Yemen",
+    "header": [
+        [
+            "Location",
+            [
+                "/wiki/List_of_cities_in_Yemen"
+            ],
+            [
+                {
+                    "entity id": "Q500142",
+                    "label": "list of cities in Yemen"
+                }
+            ]
+        ],
+        [
+            "Governorate",
+            [
+                "/wiki/Governorates_of_Yemen"
+            ],
+            [
+                {}
+            ]
+        ],
+        [
+            "ICAO",
+            [
+                "/wiki/International_Civil_Aviation_Organization_airport_code"
+            ],
+            [
+                {
+                    "entity id": "Q207529",
+                    "label": "ICAO airport code"
+                }
+            ]
+        ],
+        [
+            "IATA",
+            [
+                "/wiki/International_Air_Transport_Association_airport_code"
+            ],
+            [
+                {
+                    "entity id": "Q192824",
+                    "label": "IATA airport code"
+                }
+            ]
+        ],
+        [
+            "Airport name",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Abbs ( Abbse )",
+                []
+            ],
+            [
+                "Hajja Governorate",
+                [
+                    "/wiki/Hajja_Governorate"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "OYAB",
+                []
+            ],
+            [
+                "EAB",
+                []
+            ],
+            [
+                "Abbs Airport ( Abbse Airport )",
+                [
+                    "/wiki/Abbs_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q11824175",
+                        "label": "Abbs Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Aden ( 'Adan )",
+                [
+                    "/wiki/Aden"
+                ],
+                [
+                    {
+                        "entity id": "Q131694",
+                        "label": "Aden"
+                    }
+                ]
+            ],
+            [
+                "'Adan",
+                [
+                    "/wiki/'Adan_Governorate"
+                ],
+                [
+                    {
+                        "entity id": "Q275729",
+                        "label": "'Adan Governorate"
+                    }
+                ]
+            ],
+            [
+                "OYAA",
+                []
+            ],
+            [
+                "ADE",
+                []
+            ],
+            [
+                "Aden International Airport",
+                [
+                    "/wiki/Aden_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1398872",
+                        "label": "Aden International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Al Bayda '",
+                [
+                    "/wiki/Al_Bayda',_Yemen"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Al Bayda '",
+                [
+                    "/wiki/Al_Bayda'_Governorate"
+                ],
+                [
+                    {
+                        "entity id": "Q221212",
+                        "label": "Al Bayda' Governorate"
+                    }
+                ]
+            ],
+            [
+                "OYBI",
+                []
+            ],
+            [
+                "BYD",
+                []
+            ],
+            [
+                "Al Bayda ' Airport",
+                [
+                    "/wiki/Al_Bayda'_Airport_(Yemen)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Al Ghaydah",
+                [
+                    "/wiki/Al_Ghaydah"
+                ],
+                [
+                    {
+                        "entity id": "Q310626",
+                        "label": "Al Ghaydah"
+                    }
+                ]
+            ],
+            [
+                "Al Mahrah",
+                [
+                    "/wiki/Al_Mahrah_Governorate"
+                ],
+                [
+                    {
+                        "entity id": "Q275752",
+                        "label": "Al Mahrah Governorate"
+                    }
+                ]
+            ],
+            [
+                "OYGD",
+                []
+            ],
+            [
+                "AAY",
+                []
+            ],
+            [
+                "Al Ghaydah Airport",
+                [
+                    "/wiki/Al_Ghaydah_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2583916",
+                        "label": "Al Ghaydah Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Al Hazm",
+                [
+                    "/wiki/Al_Hazm,_Yemen"
+                ],
+                [
+                    {
+                        "entity id": "Q2038689",
+                        "label": "Al Hazm"
+                    }
+                ]
+            ],
+            [
+                "Al Jawf",
+                [
+                    "/wiki/Al_Jawf_Governorate"
+                ],
+                [
+                    {
+                        "entity id": "Q328128",
+                        "label": "Al Jawf Governorate"
+                    }
+                ]
+            ],
+            [
+                "OYZM",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Al Hazm Airport",
+                [
+                    "/wiki/Al_Hazm_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q18204932",
+                        "label": "Al Hazm Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Albuq ( Al Buq , Al Bough )",
+                []
+            ],
+            [
+                "Saada",
+                [
+                    "/wiki/Saada_Governorate"
+                ],
+                [
+                    {
+                        "entity id": "Q275732",
+                        "label": "Saada Governorate"
+                    }
+                ]
+            ],
+            [
+                "OYBQ",
+                []
+            ],
+            [
+                "BUK",
+                []
+            ],
+            [
+                "Albuq Airport ( Al Bough Airport )",
+                [
+                    "/wiki/Albuq_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q11824195",
+                        "label": "Albuq Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Ataq",
+                [
+                    "/wiki/Ataq"
+                ],
+                [
+                    {
+                        "entity id": "Q310772",
+                        "label": "Ataq"
+                    }
+                ]
+            ],
+            [
+                "Shabwah",
+                [
+                    "/wiki/Shabwah_Governorate"
+                ],
+                [
+                    {
+                        "entity id": "Q328180",
+                        "label": "Shabwah Governorate"
+                    }
+                ]
+            ],
+            [
+                "OYAT",
+                []
+            ],
+            [
+                "AXK",
+                []
+            ],
+            [
+                "Ataq Airport",
+                [
+                    "/wiki/Ataq_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2584031",
+                        "label": "Ataq Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Beihan",
+                [
+                    "/wiki/Beihan"
+                ],
+                [
+                    {
+                        "entity id": "Q803753",
+                        "label": "Beihan"
+                    }
+                ]
+            ],
+            [
+                "Shabwah",
+                [
+                    "/wiki/Shabwah_Governorate"
+                ],
+                [
+                    {
+                        "entity id": "Q328180",
+                        "label": "Shabwah Governorate"
+                    }
+                ]
+            ],
+            [
+                "OYBN",
+                []
+            ],
+            [
+                "BHN",
+                []
+            ],
+            [
+                "Beihan Airport",
+                [
+                    "/wiki/Beihan_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2583892",
+                        "label": "Beihan Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dathina",
+                [
+                    "/wiki/Dathina"
+                ],
+                [
+                    {
+                        "entity id": "Q1172593",
+                        "label": "Dathina"
+                    }
+                ]
+            ],
+            [
+                "Abyan",
+                [
+                    "/wiki/Abyan_Governorate"
+                ],
+                [
+                    {
+                        "entity id": "Q241774",
+                        "label": "Abyan Governorate"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "DAH",
+                []
+            ],
+            [
+                "Dathina Airport",
+                []
+            ]
+        ],
+        [
+            [
+                "Ad Dali '",
+                [
+                    "/wiki/Dhale"
+                ],
+                [
+                    {
+                        "entity id": "Q328187",
+                        "label": "Dhale Governorate"
+                    }
+                ]
+            ],
+            [
+                "Ad Dali '",
+                [
+                    "/wiki/Dhale_Governorate"
+                ],
+                [
+                    {
+                        "entity id": "Q328187",
+                        "label": "Dhale Governorate"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "DHL",
+                []
+            ],
+            [
+                "Dali ' Airport",
+                []
+            ]
+        ],
+        [
+            [
+                "Hodeida ( Al Hudaydah )",
+                [
+                    "/wiki/Hodeida"
+                ],
+                [
+                    {
+                        "entity id": "Q270041",
+                        "label": "Al Hudaydah"
+                    }
+                ]
+            ],
+            [
+                "Al Hudaydah",
+                [
+                    "/wiki/Al_Hudaydah_Governorate"
+                ],
+                [
+                    {
+                        "entity id": "Q275755",
+                        "label": "Al Hudaydah Governorate"
+                    }
+                ]
+            ],
+            [
+                "OYHD",
+                []
+            ],
+            [
+                "HOD",
+                []
+            ],
+            [
+                "Hodeida International Airport",
+                [
+                    "/wiki/Hodeida_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2584014",
+                        "label": "Hodeida International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kamaran ( Kamaran Island )",
+                [
+                    "/wiki/Kamaran"
+                ],
+                [
+                    {
+                        "entity id": "Q1320260",
+                        "label": "Kamaran"
+                    }
+                ]
+            ],
+            [
+                "Al Hudaydah",
+                [
+                    "/wiki/Al_Hudaydah_Governorate"
+                ],
+                [
+                    {
+                        "entity id": "Q275755",
+                        "label": "Al Hudaydah Governorate"
+                    }
+                ]
+            ],
+            [
+                "OYKM",
+                []
+            ],
+            [
+                "KAM",
+                []
+            ],
+            [
+                "Kamaran Airport",
+                [
+                    "/wiki/Kamaran_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q12693249",
+                        "label": "Kamaran Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Marib ( Ma'rib )",
+                [
+                    "/wiki/Marib"
+                ],
+                [
+                    {
+                        "entity id": "Q335478",
+                        "label": "Ma'rib"
+                    }
+                ]
+            ],
+            [
+                "Ma'rib",
+                [
+                    "/wiki/Ma'rib_Governorate"
+                ],
+                [
+                    {
+                        "entity id": "Q498465",
+                        "label": "Ma'rib Governorate"
+                    }
+                ]
+            ],
+            [
+                "OYMB",
+                []
+            ],
+            [
+                "MYN",
+                []
+            ],
+            [
+                "Marib Airport",
+                [
+                    "/wiki/Marib_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q11824573",
+                        "label": "Marib Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mukalla",
+                [
+                    "/wiki/Mukalla"
+                ],
+                [
+                    {
+                        "entity id": "Q4117650",
+                        "label": "Mukalla District"
+                    }
+                ]
+            ],
+            [
+                "Hadhramaut",
+                [
+                    "/wiki/Hadhramaut_Governorate"
+                ],
+                [
+                    {
+                        "entity id": "Q241135",
+                        "label": "Hadhramaut Governorate"
+                    }
+                ]
+            ],
+            [
+                "OYRN",
+                []
+            ],
+            [
+                "RIY",
+                []
+            ],
+            [
+                "Riyan International Airport ( Riyan Mukalla Airport )",
+                [
+                    "/wiki/Riyan_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3505034",
+                        "label": "Riyan Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mukeiras ( Mukayras )",
+                [
+                    "/wiki/Mukeiras"
+                ],
+                [
+                    {
+                        "entity id": "Q11824615",
+                        "label": "Mukeiras Airport"
+                    }
+                ]
+            ],
+            [
+                "Abyan",
+                [
+                    "/wiki/Abyan_Governorate"
+                ],
+                [
+                    {
+                        "entity id": "Q241774",
+                        "label": "Abyan Governorate"
+                    }
+                ]
+            ],
+            [
+                "OYMK",
+                []
+            ],
+            [
+                "UKR",
+                []
+            ],
+            [
+                "Mukeiras Airport",
+                [
+                    "/wiki/Mukeiras_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q11824615",
+                        "label": "Mukeiras Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Qishn",
+                [
+                    "/wiki/Qishn"
+                ],
+                [
+                    {
+                        "entity id": "Q280123",
+                        "label": "Qishn"
+                    }
+                ]
+            ],
+            [
+                "Al Mahrah",
+                [
+                    "/wiki/Al_Mahrah_Governorate"
+                ],
+                [
+                    {
+                        "entity id": "Q275752",
+                        "label": "Al Mahrah Governorate"
+                    }
+                ]
+            ],
+            [
+                "OYQN",
+                []
+            ],
+            [
+                "IHN",
+                []
+            ],
+            [
+                "Qishn Airport",
+                []
+            ]
+        ],
+        [
+            [
+                "Saadah ( Sa'dah )",
+                [
+                    "/wiki/Saadah"
+                ],
+                [
+                    {
+                        "entity id": "Q12511364",
+                        "label": "Saadah Alim"
+                    }
+                ]
+            ],
+            [
+                "Saada",
+                [
+                    "/wiki/Saada_Governorate"
+                ],
+                [
+                    {
+                        "entity id": "Q275732",
+                        "label": "Saada Governorate"
+                    }
+                ]
+            ],
+            [
+                "OYSH",
+                []
+            ],
+            [
+                "SYE",
+                []
+            ],
+            [
+                "Saadah Airport",
+                [
+                    "/wiki/Saadah_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q11824713",
+                        "label": "Saadah Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Sana ' a",
+                [
+                    "/wiki/Sana'a"
+                ],
+                [
+                    {
+                        "entity id": "Q2152974",
+                        "label": "sana\u2019a"
+                    }
+                ]
+            ],
+            [
+                "Sana ' a",
+                [
+                    "/wiki/Sana'a_Governorate"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "OYSN",
+                []
+            ],
+            [
+                "SAH",
+                []
+            ],
+            [
+                "Sana ' a International Airport ( El Rahaba Airport )",
+                [
+                    "/wiki/Sana'a_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1165296",
+                        "label": "Sanaa International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Seiyun",
+                [
+                    "/wiki/Seiyun"
+                ],
+                [
+                    {
+                        "entity id": "Q2320876",
+                        "label": "Seiyun"
+                    }
+                ]
+            ],
+            [
+                "Hadhramaut",
+                [
+                    "/wiki/Hadhramaut_Governorate"
+                ],
+                [
+                    {
+                        "entity id": "Q241135",
+                        "label": "Hadhramaut Governorate"
+                    }
+                ]
+            ],
+            [
+                "OYSY",
+                []
+            ],
+            [
+                "GXF",
+                []
+            ],
+            [
+                "Seiyun International Airport ( Seiyun Hadhramaut Airport )",
+                [
+                    "/wiki/Seiyun_Airport"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Socotra",
+                [
+                    "/wiki/Socotra"
+                ],
+                [
+                    {
+                        "entity id": "Q82859",
+                        "label": "Socotra"
+                    }
+                ]
+            ],
+            [
+                "Hadhramaut",
+                [
+                    "/wiki/Hadhramaut_Governorate"
+                ],
+                [
+                    {
+                        "entity id": "Q241135",
+                        "label": "Hadhramaut Governorate"
+                    }
+                ]
+            ],
+            [
+                "OYSQ",
+                []
+            ],
+            [
+                "SCT",
+                []
+            ],
+            [
+                "Socotra Airport",
+                [
+                    "/wiki/Socotra_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2583995",
+                        "label": "Socotra Airport"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Airports",
+    "section_text": "Airport names shown in bold currently have scheduled passenger service on commercial airlines ( post-blockade , only flights approved by the Saudi-led alliance are permitted ) . Airport names shown in italic had no scheduled passenger flights before the blockade and currently still do n't . The rest of the airports had commercial passenger flights before the blockade and all flights are currently suspended . [ clarification needed ]",
+    "uid": "List_of_airports_in_Yemen_0",
+    "intro": "This is a list of airports in Yemen, sorted by location. Yemen, officially the Republic of Yemen, is a country located in Western Asia, occupying the southwestern to southern end of the Arabian Peninsula. It is bordered by Saudi Arabia to the north, the Red Sea to the west, the Gulf of Aden and Arabian Sea to the south, and Oman to the east. The capital and largest city of Yemen is Sana'a. Yemen is divided into twenty governorates (muhafazah) and the Capital district. The governorates are subdivided into 333 districts (muderiah), which are subdivided into 2,210 sub-districts, and then into 38,284 villages (as of 2001). On 28 March 2015, a no-fly zone was imposed over the country by the Saudi Air Force as part of the 2015 military intervention in Yemen. The blockade was lifted in November 2015 and reinstated in February 2016. The blockade was lifted in November 2017. Flights were cancelled once again, for four days (28-31 January 2018), but resumed on 1 February 2018."
+}

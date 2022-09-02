@@ -1,0 +1,513 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+    "title": "List of computer system emulators",
+    "header": [
+        [
+            "Emulator",
+            []
+        ],
+        [
+            "Latest version",
+            []
+        ],
+        [
+            "Released",
+            []
+        ],
+        [
+            "Guest emulation capabilities",
+            []
+        ],
+        [
+            "Host Operating System",
+            []
+        ],
+        [
+            "License",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "MAME ( formerly MESS )",
+                [
+                    "/wiki/MAME",
+                    "/wiki/Multi_Emulator_Super_System"
+                ],
+                [
+                    {
+                        "entity id": "Q1054055",
+                        "label": "MAME"
+                    },
+                    {
+                        "entity id": "Q778644",
+                        "label": "MESS"
+                    }
+                ]
+            ],
+            [
+                "0.196",
+                []
+            ],
+            [
+                "March 28 , 2018",
+                []
+            ],
+            [
+                "Various computers , consoles , and arcade systems",
+                []
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "New BSD , GPLv2 or later",
+                [
+                    "/wiki/New_BSD",
+                    "/wiki/GPLv2"
+                ],
+                [
+                    {
+                        "entity id": "Q18491847",
+                        "label": "3-clause BSD License"
+                    },
+                    {
+                        "entity id": "Q10513450",
+                        "label": "GNU General Public License, version 2.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mocha",
+                []
+            ],
+            [
+                "1.34",
+                []
+            ],
+            [
+                "March 6 , 2007",
+                []
+            ],
+            [
+                "Tandy TRS-80 CoCo",
+                [
+                    "/wiki/TRS-80_Color_Computer"
+                ],
+                [
+                    {
+                        "entity id": "Q1411846",
+                        "label": "TRS-80 Color Computer"
+                    }
+                ]
+            ],
+            [
+                "Java applet",
+                [
+                    "/wiki/Java_applet"
+                ],
+                [
+                    {
+                        "entity id": "Q865817",
+                        "label": "Java applet"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "SDLTRS",
+                []
+            ],
+            [
+                "1.1.0",
+                []
+            ],
+            [
+                "February 15 , 2010",
+                []
+            ],
+            [
+                "TRS-80 Model I/III/4/4P",
+                []
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "Open source",
+                [
+                    "/wiki/Open-source_software"
+                ],
+                [
+                    {
+                        "entity id": "Q1130645",
+                        "label": "open-source software"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Sharp 80",
+                []
+            ],
+            [
+                "1.1.0.99",
+                []
+            ],
+            [
+                "April 20 , 2017",
+                []
+            ],
+            [
+                "TRS-80 Model III",
+                []
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Open source",
+                [
+                    "/wiki/Open-source_software"
+                ],
+                [
+                    {
+                        "entity id": "Q1130645",
+                        "label": "open-source software"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "TRS32",
+                []
+            ],
+            [
+                "1.28",
+                []
+            ],
+            [
+                "August 20 , 2013",
+                []
+            ],
+            [
+                "TRS-80 Model I/III/4/4P",
+                []
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Shareware",
+                [
+                    "/wiki/Shareware"
+                ],
+                [
+                    {
+                        "entity id": "Q185534",
+                        "label": "shareware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Virtual MC-10",
+                []
+            ],
+            [
+                "0.73c",
+                []
+            ],
+            [
+                "May 2008",
+                []
+            ],
+            [
+                "TRS-80 , TRS-80 MC-10 , Matra Alice",
+                [
+                    "/wiki/TRS-80",
+                    "/wiki/TRS-80_MC-10",
+                    "/wiki/Matra_Alice"
+                ],
+                [
+                    {
+                        "entity id": "Q610305",
+                        "label": "TRS-80"
+                    },
+                    {
+                        "entity id": "Q168425",
+                        "label": "TRS-80 MC-10"
+                    },
+                    {
+                        "entity id": "Q1908959",
+                        "label": "Matra Alice"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Vcc",
+                []
+            ],
+            [
+                "1.42",
+                []
+            ],
+            [
+                "August 13 , 2010",
+                []
+            ],
+            [
+                "Tandy TRS-80 CoCo 3",
+                [
+                    "/wiki/TRS-80_Color_Computer"
+                ],
+                [
+                    {
+                        "entity id": "Q1411846",
+                        "label": "TRS-80 Color Computer"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Virtual T",
+                []
+            ],
+            [
+                "1.7",
+                []
+            ],
+            [
+                "April 7 , 2015",
+                []
+            ],
+            [
+                "TRS-80 Model 100/102/200",
+                []
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "Open source",
+                [
+                    "/wiki/Open-source_software"
+                ],
+                [
+                    {
+                        "entity id": "Q1130645",
+                        "label": "open-source software"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "XRoar",
+                []
+            ],
+            [
+                "0.35.2",
+                []
+            ],
+            [
+                "November 27 , 2018",
+                []
+            ],
+            [
+                "Tandy TRS-80 CoCo 1 & 2 , Dragon 32/64",
+                [
+                    "/wiki/TRS-80_Color_Computer",
+                    "/wiki/Dragon_32/64"
+                ],
+                [
+                    {
+                        "entity id": "Q1411846",
+                        "label": "TRS-80 Color Computer"
+                    },
+                    {
+                        "entity id": "Q1238768",
+                        "label": "Dragon 32/64"
+                    }
+                ]
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "Open source",
+                [
+                    "/wiki/Open-source_software"
+                ],
+                [
+                    {
+                        "entity id": "Q1130645",
+                        "label": "open-source software"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "xtrs",
+                []
+            ],
+            [
+                "4.9d",
+                []
+            ],
+            [
+                "June 15 , 2009",
+                []
+            ],
+            [
+                "TRS-80 Model I/III/4/4P",
+                []
+            ],
+            [
+                "Unix",
+                [
+                    "/wiki/Unix"
+                ],
+                [
+                    {
+                        "entity id": "Q14656",
+                        "label": "Unix-like operating system"
+                    }
+                ]
+            ],
+            [
+                "Open source",
+                [
+                    "/wiki/Open-source_software"
+                ],
+                [
+                    {
+                        "entity id": "Q1130645",
+                        "label": "open-source software"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "8-bit guest systems -- TRS-80",
+    "section_text": "",
+    "uid": "List_of_computer_system_emulators_69",
+    "intro": "This article lists software and hardware that emulates computing platforms. The host in this article is the system running the emulator, and the guest is the system being emulated. The list is organized by guest operating system (the system being emulated), grouped by bitness. Each section contains a list of emulators capable of emulating the specified guest, details of the range of guest systems able to be emulated, and the required host environment and licensing."
+}

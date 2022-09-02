@@ -1,0 +1,979 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Dignity_Health",
+    "title": "Dignity Health",
+    "header": [
+        [
+            "Hospital",
+            []
+        ],
+        [
+            "City",
+            []
+        ],
+        [
+            "State",
+            []
+        ],
+        [
+            "Founded",
+            []
+        ],
+        [
+            "Acquired",
+            []
+        ],
+        [
+            "Acquired from",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Barrow Neurological Institute",
+                [
+                    "/wiki/Barrow_Neurological_Institute"
+                ],
+                [
+                    {
+                        "entity id": "Q4863895",
+                        "label": "Barrow Neurological Institute"
+                    }
+                ]
+            ],
+            [
+                "Phoenix",
+                [
+                    "/wiki/Phoenix,_Arizona"
+                ],
+                [
+                    {
+                        "entity id": "Q16556",
+                        "label": "Phoenix"
+                    }
+                ]
+            ],
+            [
+                "Arizona",
+                [
+                    "/wiki/Arizona"
+                ],
+                [
+                    {
+                        "entity id": "Q816",
+                        "label": "Arizona"
+                    }
+                ]
+            ],
+            [
+                "1961",
+                []
+            ],
+            [
+                "1986",
+                []
+            ],
+            [
+                "Mercy Health System",
+                []
+            ]
+        ],
+        [
+            [
+                "Chandler Regional Medical Center",
+                [
+                    "/wiki/Chandler_Regional_Medical_Center"
+                ],
+                [
+                    {
+                        "entity id": "Q60769177",
+                        "label": "Chandler Regional Medical Center"
+                    }
+                ]
+            ],
+            [
+                "Chandler",
+                [
+                    "/wiki/Chandler,_Arizona"
+                ],
+                [
+                    {
+                        "entity id": "Q49272",
+                        "label": "Chandler"
+                    }
+                ]
+            ],
+            [
+                "Arizona",
+                [
+                    "/wiki/Arizona"
+                ],
+                [
+                    {
+                        "entity id": "Q816",
+                        "label": "Arizona"
+                    }
+                ]
+            ],
+            [
+                "1961",
+                []
+            ],
+            [
+                "1999",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Mercy Gilbert Medical Center",
+                [
+                    "/wiki/Dignity_Health_Mercy_Gilbert_Medical_Center"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Gilbert",
+                [
+                    "/wiki/Gilbert,_Arizona"
+                ],
+                [
+                    {
+                        "entity id": "Q51684",
+                        "label": "Gilbert"
+                    }
+                ]
+            ],
+            [
+                "Arizona",
+                [
+                    "/wiki/Arizona"
+                ],
+                [
+                    {
+                        "entity id": "Q816",
+                        "label": "Arizona"
+                    }
+                ]
+            ],
+            [
+                "2006",
+                []
+            ],
+            [
+                "2006",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "St. Joseph 's Hospital and Medical Center",
+                [
+                    "/wiki/St._Joseph's_Hospital_and_Medical_Center"
+                ],
+                [
+                    {
+                        "entity id": "Q7589191",
+                        "label": "St. Joseph's Hospital and Medical Center"
+                    }
+                ]
+            ],
+            [
+                "Phoenix",
+                [
+                    "/wiki/Phoenix,_Arizona"
+                ],
+                [
+                    {
+                        "entity id": "Q16556",
+                        "label": "Phoenix"
+                    }
+                ]
+            ],
+            [
+                "Arizona",
+                [
+                    "/wiki/Arizona"
+                ],
+                [
+                    {
+                        "entity id": "Q816",
+                        "label": "Arizona"
+                    }
+                ]
+            ],
+            [
+                "1895",
+                []
+            ],
+            [
+                "1986",
+                []
+            ],
+            [
+                "Mercy Health System",
+                []
+            ]
+        ],
+        [
+            [
+                "St. Josephs Westgate Medical Center",
+                []
+            ],
+            [
+                "Glendale",
+                [
+                    "/wiki/Glendale,_Arizona"
+                ],
+                [
+                    {
+                        "entity id": "Q51682",
+                        "label": "Glendale"
+                    }
+                ]
+            ],
+            [
+                "Arizona",
+                [
+                    "/wiki/Arizona"
+                ],
+                [
+                    {
+                        "entity id": "Q816",
+                        "label": "Arizona"
+                    }
+                ]
+            ],
+            [
+                "2014",
+                []
+            ],
+            [
+                "2014",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Arroyo Grande Community Hospital",
+                []
+            ],
+            [
+                "Arroyo Grande",
+                [
+                    "/wiki/Arroyo_Grande,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q703206",
+                        "label": "Arroyo Grande"
+                    }
+                ]
+            ],
+            [
+                "California",
+                [
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "1962",
+                []
+            ],
+            [
+                "2004",
+                []
+            ],
+            [
+                "Universal Health Services",
+                [
+                    "/wiki/Universal_Health_Services"
+                ],
+                [
+                    {
+                        "entity id": "Q7893967",
+                        "label": "Universal Health Services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Bakersfield Memorial Hospital",
+                []
+            ],
+            [
+                "Bakersfield",
+                [
+                    "/wiki/Bakersfield,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q49256",
+                        "label": "Bakersfield"
+                    }
+                ]
+            ],
+            [
+                "California",
+                [
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "1956",
+                []
+            ],
+            [
+                "1996",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "California Hospital Medical Center",
+                [
+                    "/wiki/California_Hospital_Medical_Center"
+                ],
+                [
+                    {
+                        "entity id": "Q5020617",
+                        "label": "California Hospital Medical Center"
+                    }
+                ]
+            ],
+            [
+                "Los Angeles",
+                [
+                    "/wiki/Los_Angeles"
+                ],
+                [
+                    {
+                        "entity id": "Q65",
+                        "label": "Los Angeles"
+                    }
+                ]
+            ],
+            [
+                "California",
+                [
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "1887",
+                []
+            ],
+            [
+                "1998",
+                []
+            ],
+            [
+                "UniHealth",
+                []
+            ]
+        ],
+        [
+            [
+                "Community Hospital of San Bernardino",
+                [
+                    "/wiki/Community_Hospital_of_San_Bernardino"
+                ],
+                [
+                    {
+                        "entity id": "Q5154793",
+                        "label": "Community Hospital of San Bernardino"
+                    }
+                ]
+            ],
+            [
+                "San Bernardino",
+                [
+                    "/wiki/San_Bernardino,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q486168",
+                        "label": "San Bernardino"
+                    }
+                ]
+            ],
+            [
+                "California",
+                [
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "1910",
+                []
+            ],
+            [
+                "1998",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Dominican Hospital",
+                []
+            ],
+            [
+                "Santa Cruz",
+                [
+                    "/wiki/Santa_Cruz,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q159232",
+                        "label": "Santa Cruz"
+                    }
+                ]
+            ],
+            [
+                "California",
+                [
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "1941",
+                []
+            ],
+            [
+                "1988",
+                []
+            ],
+            [
+                "Adrian Dominican Sisters",
+                [
+                    "/wiki/Adrian_Dominican_Sisters"
+                ],
+                [
+                    {
+                        "entity id": "Q3977197",
+                        "label": "Adrian Dominican Sisters"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "French Hospital Medical Center",
+                []
+            ],
+            [
+                "San Luis Obispo",
+                [
+                    "/wiki/San_Luis_Obispo,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q49012",
+                        "label": "San Luis Obispo"
+                    }
+                ]
+            ],
+            [
+                "California",
+                [
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "1946",
+                []
+            ],
+            [
+                "2004",
+                []
+            ],
+            [
+                "Universal Health Services",
+                [
+                    "/wiki/Universal_Health_Services"
+                ],
+                [
+                    {
+                        "entity id": "Q7893967",
+                        "label": "Universal Health Services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Glendale Memorial Hospital and Health Center",
+                []
+            ],
+            [
+                "Glendale",
+                [
+                    "/wiki/Glendale,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q485716",
+                        "label": "Glendale"
+                    }
+                ]
+            ],
+            [
+                "California",
+                [
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "1926",
+                []
+            ],
+            [
+                "1998",
+                []
+            ],
+            [
+                "UniHealth",
+                []
+            ]
+        ],
+        [
+            [
+                "Marian Regional Medical Center",
+                []
+            ],
+            [
+                "Santa Maria",
+                [
+                    "/wiki/Santa_Maria,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q643953",
+                        "label": "Santa Maria"
+                    }
+                ]
+            ],
+            [
+                "California",
+                [
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "1940",
+                []
+            ],
+            [
+                "1997",
+                []
+            ],
+            [
+                "Sisters of St. Francis of Penance and Christian Charity",
+                [
+                    "/wiki/Sisters_of_St._Francis_of_Penance_and_Christian_Charity"
+                ],
+                [
+                    {
+                        "entity id": "Q3977239",
+                        "label": "Sisters of St. Francis of Penance and Christian Charity"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mark Twain St. Joseph 's Hospital",
+                []
+            ],
+            [
+                "San Andreas",
+                [
+                    "/wiki/San_Andreas,_California"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "California",
+                [
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "1951",
+                []
+            ],
+            [
+                "1996",
+                []
+            ],
+            [
+                "Dominican Sisters of San Rafael",
+                [
+                    "/wiki/Third_Order_of_Saint_Dominic"
+                ],
+                [
+                    {
+                        "entity id": "Q1755429",
+                        "label": "Third Order of Saint Dominic"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mercy General Hospital",
+                [
+                    "/wiki/Mercy_General_Hospital"
+                ],
+                [
+                    {
+                        "entity id": "Q6818732",
+                        "label": "Mercy General Hospital"
+                    }
+                ]
+            ],
+            [
+                "Sacramento",
+                [
+                    "/wiki/Sacramento,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q18013",
+                        "label": "Sacramento"
+                    }
+                ]
+            ],
+            [
+                "California",
+                [
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "1897",
+                []
+            ],
+            [
+                "1986",
+                []
+            ],
+            [
+                "Mercy Healthcare",
+                []
+            ]
+        ],
+        [
+            [
+                "Mercy Hospital of Folsom",
+                []
+            ],
+            [
+                "Folsom",
+                [
+                    "/wiki/Folsom,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q984155",
+                        "label": "Folsom"
+                    }
+                ]
+            ],
+            [
+                "California",
+                [
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "1962",
+                []
+            ],
+            [
+                "1986",
+                []
+            ],
+            [
+                "Mercy Healthcare",
+                []
+            ]
+        ],
+        [
+            [
+                "Mercy Hospitals of Bakersfield , Southwest Campus",
+                []
+            ],
+            [
+                "Bakersfield",
+                [
+                    "/wiki/Bakersfield,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q49256",
+                        "label": "Bakersfield"
+                    }
+                ]
+            ],
+            [
+                "California",
+                [
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "1992",
+                []
+            ],
+            [
+                "1992",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Mercy Hospitals of Bakersfield , Truxtun Campus",
+                []
+            ],
+            [
+                "Bakersfield",
+                [
+                    "/wiki/Bakersfield,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q49256",
+                        "label": "Bakersfield"
+                    }
+                ]
+            ],
+            [
+                "California",
+                [
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "1910",
+                []
+            ],
+            [
+                "1986",
+                []
+            ],
+            [
+                "Mercy Health System",
+                []
+            ]
+        ],
+        [
+            [
+                "Mercy Medical Center Merced",
+                [
+                    "/wiki/Mercy_Medical_Center_Merced"
+                ],
+                [
+                    {
+                        "entity id": "Q6818786",
+                        "label": "Mercy Medical Center Merced"
+                    }
+                ]
+            ],
+            [
+                "Merced",
+                [
+                    "/wiki/Merced,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q499189",
+                        "label": "Merced"
+                    }
+                ]
+            ],
+            [
+                "California",
+                [
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "1923",
+                []
+            ],
+            [
+                "1996",
+                []
+            ],
+            [
+                "Racine Dominican Sisters",
+                [
+                    "/wiki/Racine_Dominican_Sisters"
+                ],
+                [
+                    {
+                        "entity id": "Q7279658",
+                        "label": "Racine Dominican Sisters"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mercy Medical Center Mt . Shasta",
+                []
+            ],
+            [
+                "Mt . Shasta",
+                [
+                    "/wiki/Mt._Shasta,_California"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "California",
+                [
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "1986",
+                []
+            ],
+            [
+                "Mercy Healthcare",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Hospitals",
+    "section_text": "Dignity Health owns or operates 40 hospitals\u201424 Catholic and 15 non-Catholic : [ 26 ]",
+    "uid": "Dignity_Health_0",
+    "intro": "Dignity Health is a California-based not-for-profit public-benefit corporation that operates hospitals and ancillary care facilities in three states. As such, it is exempt from federal and state income taxes. Dignity Health is the fifth-largest hospital system in the nation and the largest not-for-profit hospital provider in California. Dignity Health was founded in 1986 by the Sisters of Mercy under the name Catholic Healthcare West. [citation needed]\n From the time of its founding, and until 2012, the company was an official ministry of the Roman Catholic Church. In 2012, the company's corporate governance structure changed, moving it out of the Catholic Church and resulting in a name change to Dignity Health. In February 2019, Dignity Health merged with Catholic Health Initiatives, becoming CommonSpirit Health. Dignity Health is the official health care provider of the San Francisco Giants. It provides services to minor and major league players and has a clinic at AT&T Park that offers urgent care and physical therapy services to fans and the surrounding community. Its headquarters are located in Suite 300 in the China Basin Landing building in San Francisco."
+}

@@ -1,0 +1,922 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_state_highways_in_Maharashtra",
+    "title": "List of state highways in Maharashtra",
+    "header": [
+        [
+            "State Highway No",
+            []
+        ],
+        [
+            "Route",
+            []
+        ],
+        [
+            "Passes through - District ( s )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "MH SH 1",
+                [
+                    "/wiki/MH_SH_1"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Shahada - Sangvi - Khamkheda - Lasur - Amalner",
+                [
+                    "/wiki/Shahada,_Maharashtra",
+                    "/wiki/Sangvi",
+                    "/wiki/Amalner"
+                ],
+                [
+                    {
+                        "entity id": "Q2723776",
+                        "label": "Shahada"
+                    },
+                    {
+                        "entity id": "Q7418184",
+                        "label": "Sangvi"
+                    },
+                    {
+                        "entity id": "Q589095",
+                        "label": "Amalner"
+                    }
+                ]
+            ],
+            [
+                "Nandurbar , Dhule , Jalgaon",
+                [
+                    "/wiki/Nandurbar_district",
+                    "/wiki/Dhule_district",
+                    "/wiki/Jalgaon_district"
+                ],
+                [
+                    {
+                        "entity id": "Q1623525",
+                        "label": "Nandurbar district"
+                    },
+                    {
+                        "entity id": "Q1797383",
+                        "label": "Dhule district"
+                    },
+                    {
+                        "entity id": "Q1797291",
+                        "label": "Jalgaon district"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MH SH 2",
+                [
+                    "/wiki/MH_SH_2"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Via MH SH 1 From Shahada - Mhasavad - Islampur ( Shahada Taluka ) - Lakkadkot - Ranipur ( Shahada Taluka ) - Nagziri - Toranmal",
+                [
+                    "/wiki/MH_SH_1",
+                    "/wiki/Shahada,_Maharashtra",
+                    "/wiki/Toranmal"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q2723776",
+                        "label": "Shahada"
+                    },
+                    {
+                        "entity id": "Q7825410",
+                        "label": "Toranmal"
+                    }
+                ]
+            ],
+            [
+                "Nandurbar",
+                [
+                    "/wiki/Nandurbar_District"
+                ],
+                [
+                    {
+                        "entity id": "Q1623525",
+                        "label": "Nandurbar district"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MH SH 4",
+                []
+            ],
+            [
+                "From Maharashtra - Madhya Pradesh state border - Loni ( Raver Taluka ) - Raver - Yawal - Chopda - Lasur - Shirpur - Shahada - Talode - Akkalkuwa - Nawapada ( Akkalkuva Taluka ) - Uptill Maharashtra - Gujarat state border",
+                [
+                    "/wiki/Maharashtra",
+                    "/wiki/Madhya_Pradesh",
+                    "/wiki/Raver,_Maharashtra",
+                    "/wiki/Yawal",
+                    "/wiki/Chopda",
+                    "/wiki/Shirpur",
+                    "/wiki/Shahada,_Maharashtra",
+                    "/wiki/Talode",
+                    "/wiki/Akkalkuwa",
+                    "/wiki/Maharashtra",
+                    "/wiki/Gujarat"
+                ],
+                [
+                    {
+                        "entity id": "Q1191",
+                        "label": "Maharashtra"
+                    },
+                    {
+                        "entity id": "Q1188",
+                        "label": "Madhya Pradesh"
+                    },
+                    {},
+                    {
+                        "entity id": "Q596783",
+                        "label": "Yawal"
+                    },
+                    {
+                        "entity id": "Q1192614",
+                        "label": "Chopda"
+                    },
+                    {
+                        "entity id": "Q7498967",
+                        "label": "Shirpur"
+                    },
+                    {
+                        "entity id": "Q2723776",
+                        "label": "Shahada"
+                    },
+                    {
+                        "entity id": "Q2570716",
+                        "label": "Talode"
+                    },
+                    {
+                        "entity id": "Q4701316",
+                        "label": "Akkalkuwa"
+                    },
+                    {
+                        "entity id": "Q1191",
+                        "label": "Maharashtra"
+                    },
+                    {
+                        "entity id": "Q1061",
+                        "label": "Gujarat"
+                    }
+                ]
+            ],
+            [
+                "Jalgaon , Dhule , Nandurbar",
+                [
+                    "/wiki/Jalgaon_district",
+                    "/wiki/Dhule_district",
+                    "/wiki/Nandurbar_district"
+                ],
+                [
+                    {
+                        "entity id": "Q1797291",
+                        "label": "Jalgaon district"
+                    },
+                    {
+                        "entity id": "Q1797383",
+                        "label": "Dhule district"
+                    },
+                    {
+                        "entity id": "Q1623525",
+                        "label": "Nandurbar district"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MH SH 5",
+                []
+            ],
+            [
+                "From Maharashtra - Madhya Pradesh state border - Shahada - Prakasha - Nandurbar - Khanbada - Visarwadi",
+                [
+                    "/wiki/Maharashtra",
+                    "/wiki/Madhya_Pradesh",
+                    "/wiki/Shahada,_Maharashtra",
+                    "/wiki/Prakasha",
+                    "/wiki/Nandurbar"
+                ],
+                [
+                    {
+                        "entity id": "Q1191",
+                        "label": "Maharashtra"
+                    },
+                    {
+                        "entity id": "Q1188",
+                        "label": "Madhya Pradesh"
+                    },
+                    {
+                        "entity id": "Q2723776",
+                        "label": "Shahada"
+                    },
+                    {
+                        "entity id": "Q7238200",
+                        "label": "Prakasha"
+                    },
+                    {
+                        "entity id": "Q2087583",
+                        "label": "Nandurbar"
+                    }
+                ]
+            ],
+            [
+                "Nandurbar ,",
+                [
+                    "/wiki/Nandurbar_District"
+                ],
+                [
+                    {
+                        "entity id": "Q1623525",
+                        "label": "Nandurbar district"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MH SH 6",
+                []
+            ],
+            [
+                "From Maharashtra - Gujarat state border - Nandurbar - Ghotane - Dondaicha - Amalner",
+                [
+                    "/wiki/Maharashtra",
+                    "/wiki/Gujarat",
+                    "/wiki/Nandurbar",
+                    "/wiki/Dondaicha-Warwade",
+                    "/wiki/Amalner"
+                ],
+                [
+                    {
+                        "entity id": "Q1191",
+                        "label": "Maharashtra"
+                    },
+                    {
+                        "entity id": "Q1061",
+                        "label": "Gujarat"
+                    },
+                    {
+                        "entity id": "Q2087583",
+                        "label": "Nandurbar"
+                    },
+                    {
+                        "entity id": "Q1264572",
+                        "label": "Dondaicha-Warwade"
+                    },
+                    {
+                        "entity id": "Q589095",
+                        "label": "Amalner"
+                    }
+                ]
+            ],
+            [
+                "Jalgaon , Dhule , Nandurbar ,",
+                [
+                    "/wiki/Jalgaon_district",
+                    "/wiki/Dhule_district",
+                    "/wiki/Nandurbar_district"
+                ],
+                [
+                    {
+                        "entity id": "Q1797291",
+                        "label": "Jalgaon district"
+                    },
+                    {
+                        "entity id": "Q1797383",
+                        "label": "Dhule district"
+                    },
+                    {
+                        "entity id": "Q1623525",
+                        "label": "Nandurbar district"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MH SH 7",
+                []
+            ],
+            [
+                "Prakasha - Ghotane - Sakri - Pimpalner ( Sakri Taluka ) - Satana - Devla ( ? ? ) - Chandwad - Lasalgaon - Nandgaon - Shirdi",
+                [
+                    "/wiki/Prakasha",
+                    "/wiki/Sakri",
+                    "/wiki/Satana_(India)",
+                    "/wiki/Chandwad",
+                    "/wiki/Lasalgaon",
+                    "/wiki/Nandgaon,_Maharashtra",
+                    "/wiki/Shirdi"
+                ],
+                [
+                    {
+                        "entity id": "Q7238200",
+                        "label": "Prakasha"
+                    },
+                    {
+                        "entity id": "Q13121881",
+                        "label": "Sakri"
+                    },
+                    {},
+                    {
+                        "entity id": "Q5071517",
+                        "label": "Chandwad"
+                    },
+                    {
+                        "entity id": "Q2235584",
+                        "label": "Lasalgaon"
+                    },
+                    {},
+                    {
+                        "entity id": "Q1949112",
+                        "label": "Shirdi"
+                    }
+                ]
+            ],
+            [
+                "Dhule , Nandurbar , Nashik",
+                [
+                    "/wiki/Dhule_district",
+                    "/wiki/Nandurbar_district",
+                    "/wiki/Nashik_district"
+                ],
+                [
+                    {
+                        "entity id": "Q1797383",
+                        "label": "Dhule district"
+                    },
+                    {
+                        "entity id": "Q1623525",
+                        "label": "Nandurbar district"
+                    },
+                    {
+                        "entity id": "Q1797269",
+                        "label": "Nashik district"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MH SH 8",
+                []
+            ],
+            [
+                "Nandurbar - Raipur - Sakri - Dhmnar - Malegaon",
+                [
+                    "/wiki/Nandurbar",
+                    "/wiki/Sakri",
+                    "/wiki/Malegaon"
+                ],
+                [
+                    {
+                        "entity id": "Q2087583",
+                        "label": "Nandurbar"
+                    },
+                    {
+                        "entity id": "Q13121881",
+                        "label": "Sakri"
+                    },
+                    {
+                        "entity id": "Q580965",
+                        "label": "Malegaon"
+                    }
+                ]
+            ],
+            [
+                "Dhule , Nandurbar , Nashik",
+                [
+                    "/wiki/Dhule_district",
+                    "/wiki/Nandurbar_district",
+                    "/wiki/Nashik_district"
+                ],
+                [
+                    {
+                        "entity id": "Q1797383",
+                        "label": "Dhule district"
+                    },
+                    {
+                        "entity id": "Q1623525",
+                        "label": "Nandurbar district"
+                    },
+                    {
+                        "entity id": "Q1797269",
+                        "label": "Nashik district"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MH SH 9",
+                []
+            ],
+            [
+                "Dhanora - Khadbara - Umran - Sawrat - Raipur - Pratappur - Uptill Maharashtra - Gujarat state border",
+                [
+                    "/wiki/Dhanora",
+                    "/wiki/Maharashtra",
+                    "/wiki/Gujarat"
+                ],
+                [
+                    {
+                        "entity id": "Q5269009",
+                        "label": "Dhanora"
+                    },
+                    {
+                        "entity id": "Q1191",
+                        "label": "Maharashtra"
+                    },
+                    {
+                        "entity id": "Q1061",
+                        "label": "Gujarat"
+                    }
+                ]
+            ],
+            [
+                "Nandurbar",
+                [
+                    "/wiki/Nandurbar_district"
+                ],
+                [
+                    {
+                        "entity id": "Q1623525",
+                        "label": "Nandurbar district"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MH SH 10",
+                [
+                    "/wiki/MH_SH_10"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Dondaicha - Shevade - Mehergaon - Kusumbe - Malegaon - Manmad - Kopargaon - Rahata - Rahuri - Ahmednagar - Daund",
+                [
+                    "/wiki/Dondaicha-Warwade",
+                    "/wiki/Malegaon",
+                    "/wiki/Manmad",
+                    "/wiki/Kopargaon",
+                    "/wiki/Rahata",
+                    "/wiki/Rahuri",
+                    "/wiki/Ahmednagar",
+                    "/wiki/Daund"
+                ],
+                [
+                    {
+                        "entity id": "Q1264572",
+                        "label": "Dondaicha-Warwade"
+                    },
+                    {
+                        "entity id": "Q580965",
+                        "label": "Malegaon"
+                    },
+                    {
+                        "entity id": "Q2317441",
+                        "label": "Manmad"
+                    },
+                    {
+                        "entity id": "Q2241490",
+                        "label": "Kopargaon"
+                    },
+                    {
+                        "entity id": "Q7283322",
+                        "label": "Rahata"
+                    },
+                    {
+                        "entity id": "Q2544979",
+                        "label": "Rahuri"
+                    },
+                    {
+                        "entity id": "Q223517",
+                        "label": "Ahmednagar"
+                    },
+                    {
+                        "entity id": "Q3703003",
+                        "label": "Daund"
+                    }
+                ]
+            ],
+            [
+                "Dhule , Nashik",
+                [
+                    "/wiki/Dhule_District",
+                    "/wiki/Nashik_district"
+                ],
+                [
+                    {
+                        "entity id": "Q1797383",
+                        "label": "Dhule district"
+                    },
+                    {
+                        "entity id": "Q1797269",
+                        "label": "Nashik district"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MH SH 11",
+                []
+            ],
+            [
+                "Sawalde - Sindkheda - Chimthane - Shewad - Balsane - Raipur - Sakri",
+                [
+                    "/wiki/Sindkheda",
+                    "/wiki/Chimthane",
+                    "/wiki/Sakri"
+                ],
+                [
+                    {
+                        "entity id": "Q2773905",
+                        "label": "Sindkheda"
+                    },
+                    {
+                        "entity id": "Q5099453",
+                        "label": "Chimthane"
+                    },
+                    {
+                        "entity id": "Q13121881",
+                        "label": "Sakri"
+                    }
+                ]
+            ],
+            [
+                "Dhule",
+                [
+                    "/wiki/Dhule_District"
+                ],
+                [
+                    {
+                        "entity id": "Q1797383",
+                        "label": "Dhule district"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MH SH 12",
+                []
+            ],
+            [
+                "Kharadbari - Navpada - Nizjampur - Lamkani - Nandane - Sakhad",
+                []
+            ],
+            [
+                "Dhule",
+                [
+                    "/wiki/Dhule_District"
+                ],
+                [
+                    {
+                        "entity id": "Q1797383",
+                        "label": "Dhule district"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MH SH 13",
+                []
+            ],
+            [
+                "Navapur - Raipur - Pratappur - Kudashi - Pimpalner ( Sakri Taluka ) - Sakri",
+                [
+                    "/wiki/Navapur",
+                    "/wiki/Sakri"
+                ],
+                [
+                    {
+                        "entity id": "Q2722255",
+                        "label": "Navapur"
+                    },
+                    {
+                        "entity id": "Q13121881",
+                        "label": "Sakri"
+                    }
+                ]
+            ],
+            [
+                "Dhule , Nandurbar ,",
+                [
+                    "/wiki/Dhule_district",
+                    "/wiki/Nandurbar_district"
+                ],
+                [
+                    {
+                        "entity id": "Q1797383",
+                        "label": "Dhule district"
+                    },
+                    {
+                        "entity id": "Q1623525",
+                        "label": "Nandurbar district"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MH SH 14",
+                []
+            ],
+            [
+                "Mehergaon - Dhule - Amalner - Savkheda - Chopda - Vaijapur - Maharashtra - Madhya Pradesh state border",
+                [
+                    "/wiki/Mehergaon",
+                    "/wiki/Dhule",
+                    "/wiki/Amalner",
+                    "/wiki/Chopda",
+                    "/wiki/Maharashtra",
+                    "/wiki/Madhya_Pradesh"
+                ],
+                [
+                    {
+                        "entity id": "Q6809474",
+                        "label": "Mehergaon"
+                    },
+                    {
+                        "entity id": "Q773603",
+                        "label": "Dhule"
+                    },
+                    {
+                        "entity id": "Q589095",
+                        "label": "Amalner"
+                    },
+                    {
+                        "entity id": "Q1192614",
+                        "label": "Chopda"
+                    },
+                    {
+                        "entity id": "Q1191",
+                        "label": "Maharashtra"
+                    },
+                    {
+                        "entity id": "Q1188",
+                        "label": "Madhya Pradesh"
+                    }
+                ]
+            ],
+            [
+                "Dhule , Jalgaon",
+                [
+                    "/wiki/Dhule_district",
+                    "/wiki/Jalgaon"
+                ],
+                [
+                    {
+                        "entity id": "Q1797383",
+                        "label": "Dhule district"
+                    },
+                    {
+                        "entity id": "Q30951",
+                        "label": "Jalgaon"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MH SH 15",
+                []
+            ],
+            [
+                "Arvi - Borkund - Bhadgaon ( Jalgaon District )",
+                []
+            ],
+            [
+                "Jalgaon , Dhule",
+                [
+                    "/wiki/Jalgaon_district",
+                    "/wiki/Dhule_district"
+                ],
+                [
+                    {
+                        "entity id": "Q1797291",
+                        "label": "Jalgaon district"
+                    },
+                    {
+                        "entity id": "Q1797383",
+                        "label": "Dhule district"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MH SH 16",
+                []
+            ],
+            [
+                "Aurangabad - Talvad - Nanadgaon - Malegaon - Nampur - Taharabad",
+                []
+            ],
+            [
+                "Aurangabad , Nashik",
+                [
+                    "/wiki/Aurangabad_district,_Maharashtra",
+                    "/wiki/Nashik_district"
+                ],
+                [
+                    {
+                        "entity id": "Q592942",
+                        "label": "Aurangabad"
+                    },
+                    {
+                        "entity id": "Q1797269",
+                        "label": "Nashik district"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MH SH 17",
+                []
+            ],
+            [
+                "Sakri - Nandurbar - Prakasha",
+                [
+                    "/wiki/Sakri",
+                    "/wiki/Nandurbar",
+                    "/wiki/Prakasha"
+                ],
+                [
+                    {
+                        "entity id": "Q13121881",
+                        "label": "Sakri"
+                    },
+                    {
+                        "entity id": "Q2087583",
+                        "label": "Nandurbar"
+                    },
+                    {
+                        "entity id": "Q7238200",
+                        "label": "Prakasha"
+                    }
+                ]
+            ],
+            [
+                "Nandurbar",
+                [
+                    "/wiki/Nandurbar_District"
+                ],
+                [
+                    {
+                        "entity id": "Q1623525",
+                        "label": "Nandurbar district"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MH SH 18",
+                []
+            ],
+            [
+                "Ajande - Waghambe - Salher Wadi - Salwan - Karanjkhed - Pimpale Budruk - Mohbari - Kanashi",
+                []
+            ],
+            [
+                "Nashik",
+                [
+                    "/wiki/Nashik"
+                ],
+                [
+                    {
+                        "entity id": "Q200235",
+                        "label": "Nashik"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MH SH 19",
+                []
+            ],
+            [
+                "Malegaon - Chalisgaon - Bhadgaon ( Jalgaon District ) - Pachora - Pahur",
+                [
+                    "/wiki/Malegaon",
+                    "/wiki/Chalisgaon",
+                    "/wiki/Pachora",
+                    "/wiki/Pahur,_Maharashtra"
+                ],
+                [
+                    {
+                        "entity id": "Q580965",
+                        "label": "Malegaon"
+                    },
+                    {
+                        "entity id": "Q858598",
+                        "label": "Chalisgaon"
+                    },
+                    {
+                        "entity id": "Q2719146",
+                        "label": "Pachora"
+                    },
+                    {
+                        "entity id": "Q7124601",
+                        "label": "Pahur, Maharashtra"
+                    }
+                ]
+            ],
+            [
+                "Jalgaon",
+                [
+                    "/wiki/Jalgaon_district"
+                ],
+                [
+                    {
+                        "entity id": "Q1797291",
+                        "label": "Jalgaon district"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MH SH 20",
+                []
+            ],
+            [
+                "Parshuramnagar - Ajande - Mulher - Taharabad - Jaikheda - Askheda - Nampur - Vaygaon - Talwade - Lakhmapur - Umbrane - Dongaon - Manmad",
+                []
+            ],
+            [
+                "Nashik",
+                [
+                    "/wiki/Nashik"
+                ],
+                [
+                    {
+                        "entity id": "Q200235",
+                        "label": "Nashik"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MH SH 21",
+                []
+            ],
+            [
+                "Akole - Dhamangaon Pat - Bota",
+                [
+                    "/wiki/Akole"
+                ],
+                [
+                    {
+                        "entity id": "Q4701521",
+                        "label": "Akole"
+                    }
+                ]
+            ],
+            [
+                "Ahmednagar",
+                [
+                    "/wiki/Ahmednagar_district"
+                ],
+                [
+                    {
+                        "entity id": "Q401744",
+                        "label": "Ahmednagar district"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "State highways",
+    "section_text": "",
+    "uid": "List_of_state_highways_in_Maharashtra_1",
+    "intro": "The state highways are arterial routes of a state, linking district headquarters and important towns within the state and connecting them with national highways or highways of the neighbouring states."
+}

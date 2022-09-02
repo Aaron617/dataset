@@ -1,0 +1,804 @@
+{
+    "url": "https://en.wikipedia.org/wiki/TW_postcode_area",
+    "title": "TW postcode area",
+    "header": [
+        [
+            "Postcode district",
+            []
+        ],
+        [
+            "Post town",
+            [
+                "/wiki/Post_town"
+            ],
+            [
+                {
+                    "entity id": "Q1968403",
+                    "label": "post town"
+                }
+            ]
+        ],
+        [
+            "Coverage",
+            []
+        ],
+        [
+            "Local authority area",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "TW1",
+                []
+            ],
+            [
+                "TWICKENHAM",
+                []
+            ],
+            [
+                "Twickenham , St. Margarets , Strawberry Hill ( east )",
+                [
+                    "/wiki/Twickenham",
+                    "/wiki/St_Margarets,_London",
+                    "/wiki/Strawberry_Hill,_London"
+                ],
+                [
+                    {
+                        "entity id": "Q1143278",
+                        "label": "Twickenham"
+                    },
+                    {
+                        "entity id": "Q2796930",
+                        "label": "St Margarets"
+                    },
+                    {
+                        "entity id": "Q1808119",
+                        "label": "Strawberry Hill"
+                    }
+                ]
+            ],
+            [
+                "Richmond upon Thames , Hounslow",
+                [
+                    "/wiki/London_Borough_of_Richmond_upon_Thames",
+                    "/wiki/London_Borough_of_Hounslow"
+                ],
+                [
+                    {
+                        "entity id": "Q32515",
+                        "label": "London Borough of Richmond upon Thames"
+                    },
+                    {
+                        "entity id": "Q214162",
+                        "label": "London Borough of Hounslow"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "TW2",
+                []
+            ],
+            [
+                "TWICKENHAM",
+                []
+            ],
+            [
+                "Twickenham ( west ) , Whitton , Strawberry Hill ( west ) , Fulwell ( north )",
+                [
+                    "/wiki/Twickenham",
+                    "/wiki/Whitton,_London",
+                    "/wiki/Strawberry_Hill,_London",
+                    "/wiki/Fulwell,_London"
+                ],
+                [
+                    {
+                        "entity id": "Q1143278",
+                        "label": "Twickenham"
+                    },
+                    {
+                        "entity id": "Q7996944",
+                        "label": "Whitton"
+                    },
+                    {
+                        "entity id": "Q1808119",
+                        "label": "Strawberry Hill"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Richmond upon Thames",
+                []
+            ]
+        ],
+        [
+            [
+                "TW3",
+                []
+            ],
+            [
+                "HOUNSLOW",
+                []
+            ],
+            [
+                "Hounslow , Lampton , Whitton ( north )",
+                [
+                    "/wiki/Hounslow",
+                    "/wiki/Lampton",
+                    "/wiki/Whitton,_London"
+                ],
+                [
+                    {
+                        "entity id": "Q214162",
+                        "label": "London Borough of Hounslow"
+                    },
+                    {
+                        "entity id": "Q36967114",
+                        "label": "Lampton"
+                    },
+                    {
+                        "entity id": "Q7996944",
+                        "label": "Whitton"
+                    }
+                ]
+            ],
+            [
+                "Hounslow , Richmond upon Thames",
+                []
+            ]
+        ],
+        [
+            [
+                "TW4",
+                []
+            ],
+            [
+                "HOUNSLOW",
+                []
+            ],
+            [
+                "Hounslow West , Hounslow Heath , Whitton ( west ) , Cranford ( south )",
+                [
+                    "/wiki/Hounslow_West",
+                    "/wiki/Hounslow_Heath",
+                    "/wiki/Whitton,_London",
+                    "/wiki/Cranford,_London"
+                ],
+                [
+                    {
+                        "entity id": "Q56295911",
+                        "label": "Hounslow West"
+                    },
+                    {
+                        "entity id": "Q28539944",
+                        "label": "Hounslow Heath"
+                    },
+                    {
+                        "entity id": "Q7996944",
+                        "label": "Whitton"
+                    },
+                    {
+                        "entity id": "Q5182098",
+                        "label": "Cranford"
+                    }
+                ]
+            ],
+            [
+                "Hounslow , Richmond upon Thames",
+                []
+            ]
+        ],
+        [
+            [
+                "TW5",
+                []
+            ],
+            [
+                "HOUNSLOW",
+                []
+            ],
+            [
+                "Heston , Cranford ( north ) , Osterley ( west )",
+                [
+                    "/wiki/Heston",
+                    "/wiki/Cranford,_London",
+                    "/wiki/Osterley"
+                ],
+                [
+                    {
+                        "entity id": "Q2571386",
+                        "label": "Heston"
+                    },
+                    {
+                        "entity id": "Q5182098",
+                        "label": "Cranford"
+                    },
+                    {
+                        "entity id": "Q2137632",
+                        "label": "Osterley"
+                    }
+                ]
+            ],
+            [
+                "Hounslow",
+                []
+            ]
+        ],
+        [
+            [
+                "TW6",
+                []
+            ],
+            [
+                "HOUNSLOW",
+                []
+            ],
+            [
+                "Heathrow Airport",
+                [
+                    "/wiki/London_Heathrow_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8691",
+                        "label": "Heathrow Airport"
+                    }
+                ]
+            ],
+            [
+                "Hillingdon",
+                [
+                    "/wiki/London_Borough_of_Hillingdon"
+                ],
+                [
+                    {
+                        "entity id": "Q205690",
+                        "label": "London Borough of Hillingdon"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "TW7",
+                []
+            ],
+            [
+                "ISLEWORTH",
+                []
+            ],
+            [
+                "Isleworth , Osterley ( east and centre ) , Whitton ( north )",
+                [
+                    "/wiki/Isleworth",
+                    "/wiki/Osterley",
+                    "/wiki/Whitton,_London"
+                ],
+                [
+                    {
+                        "entity id": "Q2432955",
+                        "label": "Isleworth"
+                    },
+                    {
+                        "entity id": "Q2137632",
+                        "label": "Osterley"
+                    },
+                    {
+                        "entity id": "Q7996944",
+                        "label": "Whitton"
+                    }
+                ]
+            ],
+            [
+                "Hounslow , Richmond upon Thames",
+                []
+            ]
+        ],
+        [
+            [
+                "TW8",
+                []
+            ],
+            [
+                "BRENTFORD",
+                []
+            ],
+            [
+                "Brentford , Kew Bridge , Syon Park , Brentford Ait",
+                [
+                    "/wiki/Brentford",
+                    "/wiki/Kew_Bridge",
+                    "/wiki/Syon_House",
+                    "/wiki/Brentford_Ait"
+                ],
+                [
+                    {
+                        "entity id": "Q19571",
+                        "label": "Brentford F.C."
+                    },
+                    {
+                        "entity id": "Q371906",
+                        "label": "Kew Bridge"
+                    },
+                    {
+                        "entity id": "Q2121329",
+                        "label": "Syon Park House"
+                    },
+                    {
+                        "entity id": "Q4961603",
+                        "label": "Brentford Ait"
+                    }
+                ]
+            ],
+            [
+                "Hounslow , Richmond upon Thames",
+                []
+            ]
+        ],
+        [
+            [
+                "TW9",
+                []
+            ],
+            [
+                "RICHMOND",
+                []
+            ],
+            [
+                "Richmond , Kew , North Sheen ( north )",
+                [
+                    "/wiki/Richmond,_London",
+                    "/wiki/Kew",
+                    "/wiki/North_Sheen"
+                ],
+                [
+                    {
+                        "entity id": "Q2500974",
+                        "label": "Richmond"
+                    },
+                    {
+                        "entity id": "Q1740301",
+                        "label": "Kew"
+                    },
+                    {
+                        "entity id": "Q2027808",
+                        "label": "North Sheen"
+                    }
+                ]
+            ],
+            [
+                "Richmond upon Thames",
+                []
+            ]
+        ],
+        [
+            [
+                "TW10",
+                []
+            ],
+            [
+                "RICHMOND",
+                []
+            ],
+            [
+                "Ham , Petersham , Richmond Hill , North Sheen ( south ) , Richmond Park",
+                [
+                    "/wiki/Ham,_London",
+                    "/wiki/Petersham,_London",
+                    "/wiki/Richmond_Hill,_London",
+                    "/wiki/North_Sheen",
+                    "/wiki/Richmond_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q5643819",
+                        "label": "Ham"
+                    },
+                    {
+                        "entity id": "Q2323537",
+                        "label": "Petersham"
+                    },
+                    {
+                        "entity id": "Q7330860",
+                        "label": "Richmond Hill"
+                    },
+                    {
+                        "entity id": "Q2027808",
+                        "label": "North Sheen"
+                    },
+                    {
+                        "entity id": "Q1142072",
+                        "label": "Richmond Park"
+                    }
+                ]
+            ],
+            [
+                "Richmond upon Thames , Kingston upon Thames",
+                [
+                    "/wiki/Royal_Borough_of_Kingston_upon_Thames"
+                ],
+                [
+                    {
+                        "entity id": "Q32508",
+                        "label": "Royal Borough of Kingston upon Thames"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "TW11",
+                []
+            ],
+            [
+                "TEDDINGTON",
+                []
+            ],
+            [
+                "Teddington , Fulwell ( east ) , Bushy Park",
+                [
+                    "/wiki/Teddington",
+                    "/wiki/Fulwell,_London",
+                    "/wiki/Bushy_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q2281721",
+                        "label": "Teddington"
+                    },
+                    {},
+                    {
+                        "entity id": "Q1017532",
+                        "label": "Bushy Park"
+                    }
+                ]
+            ],
+            [
+                "Richmond upon Thames",
+                []
+            ]
+        ],
+        [
+            [
+                "TW12",
+                []
+            ],
+            [
+                "HAMPTON",
+                []
+            ],
+            [
+                "Hampton , Hampton Hill , Fulwell ( west )",
+                [
+                    "/wiki/Hampton,_London",
+                    "/wiki/Hampton_Hill",
+                    "/wiki/Fulwell,_London"
+                ],
+                [
+                    {
+                        "entity id": "Q766353",
+                        "label": "Hampton"
+                    },
+                    {
+                        "entity id": "Q5646227",
+                        "label": "Hampton Hill"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Richmond upon Thames",
+                []
+            ]
+        ],
+        [
+            [
+                "TW13",
+                []
+            ],
+            [
+                "FELTHAM",
+                []
+            ],
+            [
+                "Feltham ( south of the railway line ) , Hanworth",
+                [
+                    "/wiki/Feltham",
+                    "/wiki/Hanworth"
+                ],
+                [
+                    {
+                        "entity id": "Q2545812",
+                        "label": "Feltham"
+                    },
+                    {
+                        "entity id": "Q5651433",
+                        "label": "Hanworth"
+                    }
+                ]
+            ],
+            [
+                "Hounslow , Richmond upon Thames",
+                []
+            ]
+        ],
+        [
+            [
+                "TW14",
+                []
+            ],
+            [
+                "FELTHAM",
+                []
+            ],
+            [
+                "Feltham ( north of the railway line ) , North Feltham , East Bedfont , Hatton",
+                [
+                    "/wiki/Feltham",
+                    "/wiki/Bedfont",
+                    "/wiki/Hatton,_London"
+                ],
+                [
+                    {
+                        "entity id": "Q2545812",
+                        "label": "Feltham"
+                    },
+                    {
+                        "entity id": "Q4879087",
+                        "label": "Bedfont"
+                    },
+                    {
+                        "entity id": "Q15223305",
+                        "label": "Hatton"
+                    }
+                ]
+            ],
+            [
+                "Hounslow , Hillingdon , Spelthorne",
+                [
+                    "/wiki/Borough_of_Spelthorne"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "TW15",
+                []
+            ],
+            [
+                "ASHFORD",
+                []
+            ],
+            [
+                "Ashford",
+                [
+                    "/wiki/Ashford,_Surrey"
+                ],
+                [
+                    {
+                        "entity id": "Q725270",
+                        "label": "Ashford"
+                    }
+                ]
+            ],
+            [
+                "Spelthorne , Hounslow",
+                []
+            ]
+        ],
+        [
+            [
+                "TW16",
+                []
+            ],
+            [
+                "SUNBURY-ON-THAMES",
+                []
+            ],
+            [
+                "Sunbury-on-Thames",
+                [
+                    "/wiki/Sunbury-on-Thames"
+                ],
+                [
+                    {
+                        "entity id": "Q2194010",
+                        "label": "Sunbury-on-Thames"
+                    }
+                ]
+            ],
+            [
+                "Spelthorne , Elmbridge , Richmond upon Thames",
+                [
+                    "/wiki/Borough_of_Elmbridge"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "TW17",
+                []
+            ],
+            [
+                "SHEPPERTON",
+                []
+            ],
+            [
+                "Shepperton , Upper Halliford , Charlton , Littleton",
+                [
+                    "/wiki/Shepperton",
+                    "/wiki/Upper_Halliford",
+                    "/wiki/Charlton,_Surrey",
+                    "/wiki/Littleton,_Spelthorne"
+                ],
+                [
+                    {
+                        "entity id": "Q1545679",
+                        "label": "Shepperton"
+                    },
+                    {
+                        "entity id": "Q7898677",
+                        "label": "Upper Halliford"
+                    },
+                    {
+                        "entity id": "Q5086280",
+                        "label": "Charlton, Surrey"
+                    },
+                    {
+                        "entity id": "Q11761995",
+                        "label": "Littleton"
+                    }
+                ]
+            ],
+            [
+                "Spelthorne , Elmbridge",
+                []
+            ]
+        ],
+        [
+            [
+                "TW18",
+                []
+            ],
+            [
+                "STAINES-UPON-THAMES",
+                []
+            ],
+            [
+                "Staines-upon-Thames , Egham Hythe , Laleham",
+                [
+                    "/wiki/Staines-upon-Thames",
+                    "/wiki/Egham_Hythe",
+                    "/wiki/Laleham"
+                ],
+                [
+                    {
+                        "entity id": "Q285323",
+                        "label": "Staines-upon-Thames"
+                    },
+                    {
+                        "entity id": "Q1610396",
+                        "label": "Egham Hythe"
+                    },
+                    {
+                        "entity id": "Q984973",
+                        "label": "Laleham"
+                    }
+                ]
+            ],
+            [
+                "Spelthorne , Runnymede , Windsor and Maidenhead",
+                [
+                    "/wiki/Borough_of_Runnymede",
+                    "/wiki/Royal_Borough_of_Windsor_and_Maidenhead"
+                ],
+                [
+                    {
+                        "entity id": "Q9324032",
+                        "label": "Runnymede"
+                    },
+                    {
+                        "entity id": "Q1368496",
+                        "label": "Windsor and Maidenhead"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "TW19",
+                []
+            ],
+            [
+                "STAINES-UPON-THAMES",
+                []
+            ],
+            [
+                "Stanwell , Stanwell Moor , Wraysbury , Sunnymeads , Hythe End",
+                [
+                    "/wiki/Stanwell",
+                    "/wiki/Stanwell_Moor",
+                    "/wiki/Wraysbury",
+                    "/wiki/Sunnymeads",
+                    "/wiki/Hythe_End"
+                ],
+                [
+                    {
+                        "entity id": "Q3080673",
+                        "label": "Stanwell"
+                    },
+                    {
+                        "entity id": "Q5930243",
+                        "label": "Stanwell Moor"
+                    },
+                    {
+                        "entity id": "Q629786",
+                        "label": "Wraysbury"
+                    },
+                    {
+                        "entity id": "Q20599218",
+                        "label": "Sunnymeads"
+                    },
+                    {
+                        "entity id": "Q13129212",
+                        "label": "Hythe End"
+                    }
+                ]
+            ],
+            [
+                "Spelthorne , Windsor and Maidenhead , Hillingdon",
+                []
+            ]
+        ],
+        [
+            [
+                "TW20",
+                []
+            ],
+            [
+                "EGHAM",
+                []
+            ],
+            [
+                "Egham , Englefield Green , Thorpe",
+                [
+                    "/wiki/Egham",
+                    "/wiki/Englefield_Green",
+                    "/wiki/Thorpe,_Surrey"
+                ],
+                [
+                    {
+                        "entity id": "Q746681",
+                        "label": "Egham"
+                    },
+                    {
+                        "entity id": "Q1610789",
+                        "label": "Englefield Green"
+                    },
+                    {
+                        "entity id": "Q7796677",
+                        "label": "Thorpe"
+                    }
+                ]
+            ],
+            [
+                "Runnymede",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Coverage",
+    "section_text": "The coverage of the postcode districts , naming all localities [ n 2 ] :",
+    "uid": "TW_postcode_area_0",
+    "intro": "The TW postcode area, also known as the Twickenham postcode area, is a group of 20 postcode districts in England, within 13 post towns. These cover parts of south-west London and north-west Surrey, plus a very small part of Berkshire. Mail for this area is sorted at the Jubilee Mail Centre, Hounslow,[n 1] and the area served includes most of the London Boroughs of Richmond upon Thames and Hounslow, the southernmost part of the London Borough of Hillingdon (including Heathrow Airport) and very small parts of the Royal Borough of Kingston upon Thames. In Surrey it covers virtually all of the borough of Spelthorne, the northern part of the borough of Runnymede and very small parts of the borough of Elmbridge, and in Berkshire it covers the village of Wraysbury in the Royal Borough of Windsor and Maidenhead."
+}

@@ -1,0 +1,518 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Bombardier_BiLevel_Coach",
+    "title": "Bombardier BiLevel Coach",
+    "header": [
+        [
+            "Operator",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Fleet size",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Altamont Corridor Express",
+                [
+                    "/wiki/Altamont_Corridor_Express"
+                ],
+                [
+                    {
+                        "entity id": "Q434302",
+                        "label": "Altamont Corridor Express"
+                    }
+                ]
+            ],
+            [
+                "San Jose , California",
+                [
+                    "/wiki/Stockton,_California",
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q49240",
+                        "label": "Stockton"
+                    },
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "24 cars",
+                []
+            ]
+        ],
+        [
+            [
+                "Caltrain",
+                [
+                    "/wiki/Caltrain"
+                ],
+                [
+                    {
+                        "entity id": "Q166817",
+                        "label": "Caltrain"
+                    }
+                ]
+            ],
+            [
+                "San Francisco , California",
+                [
+                    "/wiki/San_Francisco",
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q62",
+                        "label": "San Francisco"
+                    },
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "41 cars",
+                []
+            ]
+        ],
+        [
+            [
+                "Coaster",
+                [
+                    "/wiki/Coaster_(San_Diego)"
+                ],
+                [
+                    {
+                        "entity id": "Q5138375",
+                        "label": "Coaster"
+                    }
+                ]
+            ],
+            [
+                "San Diego , California",
+                [
+                    "/wiki/San_Diego",
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q16552",
+                        "label": "San Diego"
+                    },
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "28 cars",
+                []
+            ]
+        ],
+        [
+            [
+                "FrontRunner",
+                [
+                    "/wiki/FrontRunner"
+                ],
+                [
+                    {
+                        "entity id": "Q40306164",
+                        "label": "The Front Runner"
+                    }
+                ]
+            ],
+            [
+                "Salt Lake City , Utah",
+                [
+                    "/wiki/Salt_Lake_City",
+                    "/wiki/Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q23337",
+                        "label": "Salt Lake City"
+                    },
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    }
+                ]
+            ],
+            [
+                "22 cars",
+                []
+            ]
+        ],
+        [
+            [
+                "GO Transit",
+                [
+                    "/wiki/GO_Transit"
+                ],
+                [
+                    {
+                        "entity id": "Q1357727",
+                        "label": "GO Transit"
+                    }
+                ]
+            ],
+            [
+                "Greater Toronto Area , Ontario",
+                [
+                    "/wiki/Greater_Toronto_Area",
+                    "/wiki/Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q1024624",
+                        "label": "Greater Toronto Area"
+                    },
+                    {
+                        "entity id": "Q1904",
+                        "label": "Ontario"
+                    }
+                ]
+            ],
+            [
+                "656 cars",
+                []
+            ]
+        ],
+        [
+            [
+                "Metrolink",
+                [
+                    "/wiki/Metrolink_(Southern_California)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Greater Los Angeles Area , California",
+                [
+                    "/wiki/Greater_Los_Angeles_Area",
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q1050826",
+                        "label": "Greater Los Angeles Area"
+                    },
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "184 cars",
+                []
+            ]
+        ],
+        [
+            [
+                "Northstar Line",
+                [
+                    "/wiki/Northstar_Line"
+                ],
+                [
+                    {
+                        "entity id": "Q5327020",
+                        "label": "Northstar Line"
+                    }
+                ]
+            ],
+            [
+                "Minneapolis , Minnesota",
+                [
+                    "/wiki/Minneapolis",
+                    "/wiki/Minnesota"
+                ],
+                [
+                    {
+                        "entity id": "Q36091",
+                        "label": "Minneapolis"
+                    },
+                    {
+                        "entity id": "Q1527",
+                        "label": "Minnesota"
+                    }
+                ]
+            ],
+            [
+                "18 cars",
+                []
+            ]
+        ],
+        [
+            [
+                "Rail Runner Express",
+                [
+                    "/wiki/Rail_Runner_Express"
+                ],
+                [
+                    {
+                        "entity id": "Q11324955",
+                        "label": "New Mexico Rail Runner Express"
+                    }
+                ]
+            ],
+            [
+                "Albuquerque , New Mexico",
+                [
+                    "/wiki/Albuquerque,_New_Mexico",
+                    "/wiki/New_Mexico"
+                ],
+                [
+                    {
+                        "entity id": "Q34804",
+                        "label": "Albuquerque"
+                    },
+                    {
+                        "entity id": "Q1522",
+                        "label": "New Mexico"
+                    }
+                ]
+            ],
+            [
+                "22 cars",
+                []
+            ]
+        ],
+        [
+            [
+                "Sounder",
+                [
+                    "/wiki/Sounder_commuter_rail"
+                ],
+                [
+                    {
+                        "entity id": "Q7564853",
+                        "label": "Sounder commuter rail"
+                    }
+                ]
+            ],
+            [
+                "Seattle , Washington",
+                [
+                    "/wiki/Seattle",
+                    "/wiki/Washington_(U.S._state)"
+                ],
+                [
+                    {
+                        "entity id": "Q5083",
+                        "label": "Seattle"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "58 cars",
+                []
+            ]
+        ],
+        [
+            [
+                "SunRail",
+                [
+                    "/wiki/SunRail"
+                ],
+                [
+                    {
+                        "entity id": "Q3503715",
+                        "label": "SunRail"
+                    }
+                ]
+            ],
+            [
+                "Orlando , Florida",
+                [
+                    "/wiki/Orlando,_Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q49233",
+                        "label": "Orlando"
+                    }
+                ]
+            ],
+            [
+                "20 cars",
+                []
+            ]
+        ],
+        [
+            [
+                "Tri-Rail",
+                [
+                    "/wiki/Tri-Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q2452212",
+                        "label": "Tri-Rail"
+                    }
+                ]
+            ],
+            [
+                "Miami / Fort Lauderdale / West Palm Beach , Florida",
+                [
+                    "/wiki/Miami",
+                    "/wiki/Fort_Lauderdale,_Florida",
+                    "/wiki/West_Palm_Beach,_Florida",
+                    "/wiki/Florida"
+                ],
+                [
+                    {
+                        "entity id": "Q8652",
+                        "label": "Miami"
+                    },
+                    {
+                        "entity id": "Q165972",
+                        "label": "Fort Lauderdale"
+                    },
+                    {
+                        "entity id": "Q163749",
+                        "label": "West Palm Beach"
+                    },
+                    {
+                        "entity id": "Q812",
+                        "label": "Florida"
+                    }
+                ]
+            ],
+            [
+                "26 cars",
+                []
+            ]
+        ],
+        [
+            [
+                "Trinity Railway Express",
+                [
+                    "/wiki/Trinity_Railway_Express"
+                ],
+                [
+                    {
+                        "entity id": "Q2453601",
+                        "label": "Trinity Railway Express"
+                    }
+                ]
+            ],
+            [
+                "Dallas / Fort Worth , Texas",
+                [
+                    "/wiki/Dallas",
+                    "/wiki/Fort_Worth,_Texas",
+                    "/wiki/Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q16557",
+                        "label": "Dallas"
+                    },
+                    {
+                        "entity id": "Q16558",
+                        "label": "Fort Worth"
+                    },
+                    {
+                        "entity id": "Q1439",
+                        "label": "Texas"
+                    }
+                ]
+            ],
+            [
+                "17 cars",
+                []
+            ]
+        ],
+        [
+            [
+                "West Coast Express",
+                [
+                    "/wiki/West_Coast_Express"
+                ],
+                [
+                    {
+                        "entity id": "Q1675085",
+                        "label": "West Coast Express"
+                    }
+                ]
+            ],
+            [
+                "Vancouver , British Columbia",
+                [
+                    "/wiki/Vancouver",
+                    "/wiki/British_Columbia"
+                ],
+                [
+                    {
+                        "entity id": "Q24639",
+                        "label": "Vancouver"
+                    },
+                    {
+                        "entity id": "Q1973",
+                        "label": "British Columbia"
+                    }
+                ]
+            ],
+            [
+                "44 cars",
+                []
+            ]
+        ],
+        [
+            [
+                "Exo",
+                [
+                    "/wiki/Exo_(public_transit)"
+                ],
+                [
+                    {
+                        "entity id": "Q55611277",
+                        "label": "Exo (public transit) Sainte-Julie sector"
+                    }
+                ]
+            ],
+            [
+                "Montreal , Quebec",
+                [
+                    "/wiki/Montreal",
+                    "/wiki/Quebec"
+                ],
+                [
+                    {
+                        "entity id": "Q340",
+                        "label": "Montreal"
+                    },
+                    {
+                        "entity id": "Q176",
+                        "label": "Quebec"
+                    }
+                ]
+            ],
+            [
+                "22 cars",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Operators",
+    "section_text": "Many North American commuter rail agencies operate Bombardier BiLevel Coaches . They include :",
+    "uid": "Bombardier_BiLevel_Coach_0",
+    "intro": "The Bombardier BiLevel Coach is a bilevel passenger railcar built by multiple manufacturers: Hawker Siddeley Canada-SNC Lavalin, the Canadian Car and Foundry (Can Car), the UTDC-SNC Lavalin, and Bombardier Transportation. They are designed to carry up to 360 passengers for commuter railways. These carriages are easily identifiable: they are double-decked and are shaped like elongated octagons."
+}

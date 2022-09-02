@@ -1,0 +1,583 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Central_Africa",
+    "title": "Central Africa",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Capital",
+            []
+        ],
+        [
+            "Currency",
+            []
+        ],
+        [
+            "Official languages",
+            []
+        ],
+        [
+            "Area ( km )",
+            []
+        ],
+        [
+            "Population ( 2018 )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Angola",
+                [
+                    "/wiki/Angola"
+                ],
+                [
+                    {
+                        "entity id": "Q916",
+                        "label": "Angola"
+                    }
+                ]
+            ],
+            [
+                "Luanda",
+                [
+                    "/wiki/Luanda"
+                ],
+                [
+                    {
+                        "entity id": "Q3897",
+                        "label": "Luanda"
+                    }
+                ]
+            ],
+            [
+                "Kwanza",
+                [
+                    "/wiki/Kwanza"
+                ],
+                [
+                    {
+                        "entity id": "Q200337",
+                        "label": "kwanza"
+                    }
+                ]
+            ],
+            [
+                "Portuguese",
+                [
+                    "/wiki/Portuguese_language"
+                ],
+                [
+                    {
+                        "entity id": "Q5146",
+                        "label": "Portuguese"
+                    }
+                ]
+            ],
+            [
+                "1,246,700",
+                []
+            ],
+            [
+                "30,809,787",
+                []
+            ]
+        ],
+        [
+            [
+                "Cameroon",
+                [
+                    "/wiki/Cameroon"
+                ],
+                [
+                    {
+                        "entity id": "Q1009",
+                        "label": "Cameroon"
+                    }
+                ]
+            ],
+            [
+                "Yaound\u00e9",
+                [
+                    "/wiki/Yaound\u00e9"
+                ],
+                [
+                    {
+                        "entity id": "Q3808",
+                        "label": "Yaound\u00e9"
+                    }
+                ]
+            ],
+            [
+                "Central African CFA franc",
+                [
+                    "/wiki/Central_African_CFA_franc"
+                ],
+                [
+                    {
+                        "entity id": "Q847739",
+                        "label": "Central African CFA franc"
+                    }
+                ]
+            ],
+            [
+                "French , English",
+                [
+                    "/wiki/French_language",
+                    "/wiki/English_language"
+                ],
+                [
+                    {
+                        "entity id": "Q150",
+                        "label": "French"
+                    },
+                    {
+                        "entity id": "Q1860",
+                        "label": "English"
+                    }
+                ]
+            ],
+            [
+                "475,442",
+                []
+            ],
+            [
+                "25,216,267",
+                []
+            ]
+        ],
+        [
+            [
+                "Central African Republic",
+                [
+                    "/wiki/Central_African_Republic"
+                ],
+                [
+                    {
+                        "entity id": "Q929",
+                        "label": "Central African Republic"
+                    }
+                ]
+            ],
+            [
+                "Bangui",
+                [
+                    "/wiki/Bangui"
+                ],
+                [
+                    {
+                        "entity id": "Q3832",
+                        "label": "Bangui"
+                    }
+                ]
+            ],
+            [
+                "Central African CFA franc",
+                [
+                    "/wiki/Central_African_CFA_franc"
+                ],
+                [
+                    {
+                        "entity id": "Q847739",
+                        "label": "Central African CFA franc"
+                    }
+                ]
+            ],
+            [
+                "Sango , French",
+                [
+                    "/wiki/Sango",
+                    "/wiki/French_language"
+                ],
+                [
+                    {
+                        "entity id": "Q33954",
+                        "label": "Sango"
+                    },
+                    {
+                        "entity id": "Q150",
+                        "label": "French"
+                    }
+                ]
+            ],
+            [
+                "622,984",
+                []
+            ],
+            [
+                "4,666,368",
+                []
+            ]
+        ],
+        [
+            [
+                "Chad",
+                [
+                    "/wiki/Chad"
+                ],
+                [
+                    {
+                        "entity id": "Q657",
+                        "label": "Chad"
+                    }
+                ]
+            ],
+            [
+                "N'Djamena",
+                [
+                    "/wiki/N'Djamena"
+                ],
+                [
+                    {
+                        "entity id": "Q3659",
+                        "label": "N'Djamena"
+                    }
+                ]
+            ],
+            [
+                "Central African CFA franc",
+                [
+                    "/wiki/Central_African_CFA_franc"
+                ],
+                [
+                    {
+                        "entity id": "Q847739",
+                        "label": "Central African CFA franc"
+                    }
+                ]
+            ],
+            [
+                "French , Arabic",
+                [
+                    "/wiki/French_language",
+                    "/wiki/Arabic_language"
+                ],
+                [
+                    {
+                        "entity id": "Q150",
+                        "label": "French"
+                    },
+                    {
+                        "entity id": "Q13955",
+                        "label": "Arabic"
+                    }
+                ]
+            ],
+            [
+                "1,284,000",
+                []
+            ],
+            [
+                "15,477,729",
+                []
+            ]
+        ],
+        [
+            [
+                "Democratic Republic of the Congo",
+                [
+                    "/wiki/Democratic_Republic_of_the_Congo"
+                ],
+                [
+                    {
+                        "entity id": "Q974",
+                        "label": "Democratic Republic of the Congo"
+                    }
+                ]
+            ],
+            [
+                "Kinshasa",
+                [
+                    "/wiki/Kinshasa"
+                ],
+                [
+                    {
+                        "entity id": "Q3838",
+                        "label": "Kinshasa"
+                    }
+                ]
+            ],
+            [
+                "Congolese franc",
+                [
+                    "/wiki/Congolese_franc"
+                ],
+                [
+                    {
+                        "entity id": "Q4734",
+                        "label": "Congolese franc"
+                    }
+                ]
+            ],
+            [
+                "French",
+                [
+                    "/wiki/French_language"
+                ],
+                [
+                    {
+                        "entity id": "Q150",
+                        "label": "French"
+                    }
+                ]
+            ],
+            [
+                "2,344,858",
+                []
+            ],
+            [
+                "84,068,091",
+                []
+            ]
+        ],
+        [
+            [
+                "Republic of the Congo",
+                [
+                    "/wiki/Republic_of_the_Congo"
+                ],
+                [
+                    {
+                        "entity id": "Q971",
+                        "label": "Republic of the Congo"
+                    }
+                ]
+            ],
+            [
+                "Brazzaville",
+                [
+                    "/wiki/Brazzaville"
+                ],
+                [
+                    {
+                        "entity id": "Q3844",
+                        "label": "Brazzaville"
+                    }
+                ]
+            ],
+            [
+                "Central African CFA franc",
+                [
+                    "/wiki/Central_African_CFA_franc"
+                ],
+                [
+                    {
+                        "entity id": "Q847739",
+                        "label": "Central African CFA franc"
+                    }
+                ]
+            ],
+            [
+                "French",
+                [
+                    "/wiki/French_language"
+                ],
+                [
+                    {
+                        "entity id": "Q150",
+                        "label": "French"
+                    }
+                ]
+            ],
+            [
+                "342,000",
+                []
+            ],
+            [
+                "5,244,359",
+                []
+            ]
+        ],
+        [
+            [
+                "Equatorial Guinea",
+                [
+                    "/wiki/Equatorial_Guinea"
+                ],
+                [
+                    {
+                        "entity id": "Q983",
+                        "label": "Equatorial Guinea"
+                    }
+                ]
+            ],
+            [
+                "Malabo",
+                [
+                    "/wiki/Malabo"
+                ],
+                [
+                    {
+                        "entity id": "Q3818",
+                        "label": "Malabo"
+                    }
+                ]
+            ],
+            [
+                "Central African CFA franc",
+                [
+                    "/wiki/Central_African_CFA_franc"
+                ],
+                [
+                    {
+                        "entity id": "Q847739",
+                        "label": "Central African CFA franc"
+                    }
+                ]
+            ],
+            [
+                "Spanish , Portuguese , French",
+                [
+                    "/wiki/Spanish_language",
+                    "/wiki/Portuguese_language",
+                    "/wiki/French_language"
+                ],
+                [
+                    {
+                        "entity id": "Q1321",
+                        "label": "Spanish"
+                    },
+                    {
+                        "entity id": "Q5146",
+                        "label": "Portuguese"
+                    },
+                    {
+                        "entity id": "Q150",
+                        "label": "French"
+                    }
+                ]
+            ],
+            [
+                "28,051",
+                []
+            ],
+            [
+                "1,308,975",
+                []
+            ]
+        ],
+        [
+            [
+                "Gabon",
+                [
+                    "/wiki/Gabon"
+                ],
+                [
+                    {
+                        "entity id": "Q1000",
+                        "label": "Gabon"
+                    }
+                ]
+            ],
+            [
+                "Libreville",
+                [
+                    "/wiki/Libreville"
+                ],
+                [
+                    {
+                        "entity id": "Q47383",
+                        "label": "Charleville-M\u00e9zi\u00e8res"
+                    }
+                ]
+            ],
+            [
+                "Central African CFA franc",
+                [
+                    "/wiki/Central_African_CFA_franc"
+                ],
+                [
+                    {
+                        "entity id": "Q847739",
+                        "label": "Central African CFA franc"
+                    }
+                ]
+            ],
+            [
+                "French",
+                [
+                    "/wiki/French_language"
+                ],
+                [
+                    {
+                        "entity id": "Q150",
+                        "label": "French"
+                    }
+                ]
+            ],
+            [
+                "267,668",
+                []
+            ],
+            [
+                "2,119,275",
+                []
+            ]
+        ],
+        [
+            [
+                "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+                [
+                    "/wiki/S\u00e3o_Tom\u00e9_and_Pr\u00edncipe"
+                ],
+                [
+                    {
+                        "entity id": "Q1039",
+                        "label": "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+                    }
+                ]
+            ],
+            [
+                "S\u00e3o Tom\u00e9",
+                [
+                    "/wiki/S\u00e3o_Tom\u00e9"
+                ],
+                [
+                    {
+                        "entity id": "Q3932",
+                        "label": "S\u00e3o Tom\u00e9"
+                    }
+                ]
+            ],
+            [
+                "S\u00e3o Tom\u00e9 and Pr\u00edncipe Dobra",
+                [
+                    "/wiki/S\u00e3o_Tom\u00e9_and_Pr\u00edncipe_Dobra"
+                ],
+                [
+                    {
+                        "entity id": "Q193712",
+                        "label": "S\u00e3o Tom\u00e9 and Pr\u00edncipe dobra"
+                    }
+                ]
+            ],
+            [
+                "Portuguese",
+                [
+                    "/wiki/Portuguese_language"
+                ],
+                [
+                    {
+                        "entity id": "Q5146",
+                        "label": "Portuguese"
+                    }
+                ]
+            ],
+            [
+                "964",
+                []
+            ],
+            [
+                "211,028",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Demographics",
+    "section_text": "Further information : Demographics of Africa , List of African countries by population , and List of ethnic groups of Africa \u00a7 Central Africa UN Macroregion of Central Africa Following the Bantu Migration , Central Africa is primarily inhabited by Bantu peoples and Bantu languages predominate . These include the Mongo , Kongo and Luba peoples . Central Africa also includes many Nilo-Saharan and Niger-Congo Ubangian communities : in north western Central Africa the Nilo-Saharan Kanuri [ 36 ] [ 37 ] predominate . Most of the Ubangian speakers in Africa ( often grouped with Niger-Congo ) are also found in Central Africa , such as the Gbaya , [ 38 ] Banda [ 38 ] and Zande , [ 39 ] [ 38 ] in northern Central Africa . Notable Central African supra-regional organizations include the Lake Chad Basin Commission and the Economic Community of Central African States . The predominant religions of Central Africa and Christianity and traditional faiths . Islam is also practiced in some areas in Chad and the Central African Republic .",
+    "uid": "Central_Africa_0",
+    "intro": "Central Africa is a region of the African continent comprising various countries according to different definitions. Angola, Burundi, Cameroon, the Central African Republic, Chad, the Democratic Republic of the Congo, the Republic of the Congo, Equatorial Guinea, Gabon, Rwanda, and S\u00e3o Tom\u00e9 and Pr\u00edncipe are members of the Economic Community of Central African States (ECCAS). Six of those states (Cameroon, the Central African Republic, Chad, the Republic of the Congo, Equatorial Guinea, and Gabon) are also members of the Economic and Monetary Community of Central Africa (CEMAC) and share a common currency, the Central African CFA franc. The African Development Bank defines Central Africa as Cameroon, the Central African Republic, Chad, the Democratic Republic of the Congo, the Republic of the Congo, Equatorial Guinea, and Gabon. Middle Africa is an analogous term used by the United Nations in its geoscheme for Africa. It includes the same countries as the African Development Bank's definition, along with Angola, and S\u00e3o Tom\u00e9 and Pr\u00edncipe."
+}

@@ -1,0 +1,347 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Ottawa_area",
+    "title": "List of airports in the Ottawa area",
+    "header": [
+        [
+            "Airport name",
+            []
+        ],
+        [
+            "ICAO / TC LID / IATA",
+            [
+                "/wiki/International_Civil_Aviation_Organization_airport_code",
+                "/wiki/Transport_Canada",
+                "/wiki/Location_identifier",
+                "/wiki/International_Air_Transport_Association_airport_code"
+            ],
+            [
+                {
+                    "entity id": "Q207529",
+                    "label": "ICAO airport code"
+                },
+                {
+                    "entity id": "Q2035496",
+                    "label": "Transport Canada"
+                },
+                {
+                    "entity id": "Q28758335",
+                    "label": "location identifier"
+                },
+                {
+                    "entity id": "Q192824",
+                    "label": "IATA airport code"
+                }
+            ]
+        ],
+        [
+            "Location",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Arnprior Airport",
+                [
+                    "/wiki/Arnprior_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2903253",
+                        "label": "Arnprior Airport"
+                    }
+                ]
+            ],
+            [
+                "CNP3",
+                []
+            ],
+            [
+                "Arnprior",
+                [
+                    "/wiki/Arnprior"
+                ],
+                [
+                    {
+                        "entity id": "Q543997",
+                        "label": "Arnprior"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Carleton Place Airport",
+                [
+                    "/wiki/Carleton_Place_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3536436",
+                        "label": "Carleton Place Airport"
+                    }
+                ]
+            ],
+            [
+                "CNR6",
+                []
+            ],
+            [
+                "Carleton Place",
+                [
+                    "/wiki/Carleton_Place"
+                ],
+                [
+                    {
+                        "entity id": "Q1041701",
+                        "label": "Carleton Place"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Carp Airport",
+                [
+                    "/wiki/Carp_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1961538",
+                        "label": "Carp Airport"
+                    }
+                ]
+            ],
+            [
+                "CYRP ( YRP )",
+                []
+            ],
+            [
+                "Carp",
+                [
+                    "/wiki/Carp,_Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q4215620",
+                        "label": "Carp"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kars/Rideau Valley Air Park",
+                [
+                    "/wiki/Kars/Rideau_Valley_Air_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q3914597",
+                        "label": "Kars/Rideau Valley Air Park"
+                    }
+                ]
+            ],
+            [
+                "CPL3",
+                []
+            ],
+            [
+                "Kars",
+                [
+                    "/wiki/Kars,_Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q6373384",
+                        "label": "Kars, Ontario"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Ottawa/Casselman ( Shea Field ) Aerodrome",
+                [
+                    "/wiki/Ottawa/Casselman_(Shea_Field)_Aerodrome"
+                ],
+                [
+                    {
+                        "entity id": "Q7109136",
+                        "label": "Ottawa/Casselman (Shea Field) Aerodrome"
+                    }
+                ]
+            ],
+            [
+                "CSF7",
+                []
+            ],
+            [
+                "Ottawa",
+                [
+                    "/wiki/Ottawa"
+                ],
+                [
+                    {
+                        "entity id": "Q1930",
+                        "label": "Ottawa"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Ottawa/Embrun Aerodrome",
+                [
+                    "/wiki/Ottawa/Embrun_Aerodrome"
+                ],
+                [
+                    {
+                        "entity id": "Q3913193",
+                        "label": "Ottawa/Embrun Aerodrome"
+                    }
+                ]
+            ],
+            [
+                "CPR2",
+                []
+            ],
+            [
+                "Embrun",
+                [
+                    "/wiki/Embrun,_Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q1335200",
+                        "label": "Embrun, Ontario"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Ottawa/Manotick ( Hope Field ) Aerodrome",
+                [
+                    "/wiki/Ottawa/Manotick_(Hope_Field)_Aerodrome"
+                ],
+                [
+                    {
+                        "entity id": "Q7109137",
+                        "label": "Ottawa/Manotick (Hope Field) Aerodrome"
+                    }
+                ]
+            ],
+            [
+                "CHF2",
+                []
+            ],
+            [
+                "Manotick",
+                [
+                    "/wiki/Manotick"
+                ],
+                [
+                    {
+                        "entity id": "Q3286496",
+                        "label": "Manotick"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Ottawa/Rockcliffe Airport",
+                [
+                    "/wiki/Ottawa/Rockcliffe_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3912736",
+                        "label": "Ottawa/Rockcliffe Airport"
+                    }
+                ]
+            ],
+            [
+                "CYRO ( YRO )",
+                []
+            ],
+            [
+                "Ottawa",
+                [
+                    "/wiki/Ottawa"
+                ],
+                [
+                    {
+                        "entity id": "Q1930",
+                        "label": "Ottawa"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Pendleton Airport",
+                [
+                    "/wiki/Pendleton_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q5330354",
+                        "label": "Eastern Oregon Regional Airport"
+                    }
+                ]
+            ],
+            [
+                "CNF3",
+                []
+            ],
+            [
+                "Pendleton",
+                [
+                    "/wiki/Alfred_and_Plantagenet"
+                ],
+                [
+                    {
+                        "entity id": "Q2835561",
+                        "label": "Alfred and Plantagenet"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Smiths Falls-Montague Airport",
+                [
+                    "/wiki/Smiths_Falls-Montague_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3913699",
+                        "label": "Smiths Falls-Montague Airport"
+                    }
+                ]
+            ],
+            [
+                "CYSH ( YSH )",
+                []
+            ],
+            [
+                "Smiths Falls",
+                [
+                    "/wiki/Smiths_Falls,_Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q1938153",
+                        "label": "Smiths Falls"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Land airports -- Other",
+    "section_text": "",
+    "uid": "List_of_airports_in_the_Ottawa_area_1",
+    "intro": "The following active airports serve the area around Ottawa, Ontario, Canada, lying under or adjacent to Ottawa's terminal control area:"
+}

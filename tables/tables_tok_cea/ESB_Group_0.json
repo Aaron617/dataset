@@ -1,0 +1,728 @@
+{
+    "url": "https://en.wikipedia.org/wiki/ESB_Group",
+    "title": "ESB Group",
+    "header": [
+        [
+            "Generation Capacity MW",
+            [
+                "/wiki/Megawatt"
+            ],
+            [
+                {
+                    "entity id": "Q6982035",
+                    "label": "megawatt"
+                }
+            ]
+        ],
+        [
+            "Plant",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Fuel",
+            []
+        ],
+        [
+            "Year First Commissioned",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "963",
+                []
+            ],
+            [
+                "Aghada",
+                [
+                    "/wiki/Aghada"
+                ],
+                [
+                    {
+                        "entity id": "Q4072894",
+                        "label": "Aghada"
+                    }
+                ]
+            ],
+            [
+                "County Cork",
+                [
+                    "/wiki/County_Cork"
+                ],
+                [
+                    {
+                        "entity id": "Q162475",
+                        "label": "County Cork"
+                    }
+                ]
+            ],
+            [
+                "Natural gas and distillate",
+                [
+                    "/wiki/Distillate"
+                ],
+                [
+                    {
+                        "entity id": "Q108570127",
+                        "label": "distillate"
+                    }
+                ]
+            ],
+            [
+                "1980",
+                []
+            ]
+        ],
+        [
+            [
+                "915",
+                []
+            ],
+            [
+                "Moneypoint",
+                [
+                    "/wiki/Moneypoint_power_station"
+                ],
+                [
+                    {
+                        "entity id": "Q6899351",
+                        "label": "Moneypoint power station"
+                    }
+                ]
+            ],
+            [
+                "County Clare",
+                [
+                    "/wiki/County_Clare"
+                ],
+                [
+                    {
+                        "entity id": "Q181862",
+                        "label": "County Clare"
+                    }
+                ]
+            ],
+            [
+                "Coal or Oil",
+                []
+            ],
+            [
+                "1985",
+                []
+            ]
+        ],
+        [
+            [
+                "470",
+                []
+            ],
+            [
+                "Poolbeg",
+                [
+                    "/wiki/Poolbeg_Generating_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q7228597",
+                        "label": "Poolbeg Generating Station"
+                    }
+                ]
+            ],
+            [
+                "County Dublin",
+                [
+                    "/wiki/County_Dublin"
+                ],
+                [
+                    {
+                        "entity id": "Q173500",
+                        "label": "County Dublin"
+                    }
+                ]
+            ],
+            [
+                "Natural gas with distillate as an emergency back-up",
+                [
+                    "/wiki/Distillate"
+                ],
+                [
+                    {
+                        "entity id": "Q108570127",
+                        "label": "distillate"
+                    }
+                ]
+            ],
+            [
+                "1971",
+                []
+            ]
+        ],
+        [
+            [
+                "292",
+                []
+            ],
+            [
+                "Turlough Hill",
+                [
+                    "/wiki/Turlough_Hill"
+                ],
+                [
+                    {
+                        "entity id": "Q3542326",
+                        "label": "Turlough Hill"
+                    }
+                ]
+            ],
+            [
+                "County Wicklow",
+                [
+                    "/wiki/County_Wicklow"
+                ],
+                [
+                    {
+                        "entity id": "Q182591",
+                        "label": "County Wicklow"
+                    }
+                ]
+            ],
+            [
+                "Pumped-storage hydroelectricity",
+                [
+                    "/wiki/Pumped-storage_hydroelectricity"
+                ],
+                [
+                    {
+                        "entity id": "Q609296",
+                        "label": "Pumped-storage hydroelectricity \u017bar"
+                    }
+                ]
+            ],
+            [
+                "1968",
+                []
+            ]
+        ],
+        [
+            [
+                "262",
+                []
+            ],
+            [
+                "North Wall",
+                []
+            ],
+            [
+                "County Dublin",
+                [
+                    "/wiki/County_Dublin"
+                ],
+                [
+                    {
+                        "entity id": "Q173500",
+                        "label": "County Dublin"
+                    }
+                ]
+            ],
+            [
+                "Natural gas or distillate",
+                [
+                    "/wiki/Distillate"
+                ],
+                [
+                    {
+                        "entity id": "Q108570127",
+                        "label": "distillate"
+                    }
+                ]
+            ],
+            [
+                "1947",
+                []
+            ]
+        ],
+        [
+            [
+                "150",
+                []
+            ],
+            [
+                "West Offaly Power",
+                []
+            ],
+            [
+                "County Offaly",
+                [
+                    "/wiki/County_Offaly"
+                ],
+                [
+                    {
+                        "entity id": "Q184445",
+                        "label": "County Offaly"
+                    }
+                ]
+            ],
+            [
+                "Peat",
+                [
+                    "/wiki/Peat"
+                ],
+                [
+                    {
+                        "entity id": "Q184624",
+                        "label": "peat"
+                    }
+                ]
+            ],
+            [
+                "2004",
+                []
+            ]
+        ],
+        [
+            [
+                "100",
+                []
+            ],
+            [
+                "Lough Ree Power",
+                [
+                    "/wiki/Lough_Ree"
+                ],
+                [
+                    {
+                        "entity id": "Q608133",
+                        "label": "Lough Ree"
+                    }
+                ]
+            ],
+            [
+                "County Longford",
+                [
+                    "/wiki/County_Longford"
+                ],
+                [
+                    {
+                        "entity id": "Q186220",
+                        "label": "County Longford"
+                    }
+                ]
+            ],
+            [
+                "Peat",
+                [
+                    "/wiki/Peat"
+                ],
+                [
+                    {
+                        "entity id": "Q184624",
+                        "label": "peat"
+                    }
+                ]
+            ],
+            [
+                "2004",
+                []
+            ]
+        ],
+        [
+            [
+                "96",
+                []
+            ],
+            [
+                "Marina",
+                []
+            ],
+            [
+                "County Cork",
+                [
+                    "/wiki/County_Cork"
+                ],
+                [
+                    {
+                        "entity id": "Q162475",
+                        "label": "County Cork"
+                    }
+                ]
+            ],
+            [
+                "Natural gas and distillate",
+                [
+                    "/wiki/Distillate"
+                ],
+                [
+                    {
+                        "entity id": "Q108570127",
+                        "label": "distillate"
+                    }
+                ]
+            ],
+            [
+                "1954",
+                []
+            ]
+        ],
+        [
+            [
+                "86",
+                []
+            ],
+            [
+                "Ardnacrusha",
+                [
+                    "/wiki/Ardnacrusha_power_plant"
+                ],
+                [
+                    {
+                        "entity id": "Q179683",
+                        "label": "Ardnacrusha power plant"
+                    }
+                ]
+            ],
+            [
+                "County Clare",
+                [
+                    "/wiki/County_Clare"
+                ],
+                [
+                    {
+                        "entity id": "Q181862",
+                        "label": "County Clare"
+                    }
+                ]
+            ],
+            [
+                "Hydroelectricity",
+                [
+                    "/wiki/Hydroelectricity"
+                ],
+                [
+                    {
+                        "entity id": "Q80638",
+                        "label": "hydroelectricity"
+                    }
+                ]
+            ],
+            [
+                "1929",
+                []
+            ]
+        ],
+        [
+            [
+                "65",
+                []
+            ],
+            [
+                "Erne ( Cathaleen 's Fall and Cliff )",
+                [
+                    "/wiki/Cathaleen's_Fall_hydroelectric_power_station"
+                ],
+                [
+                    {
+                        "entity id": "Q38251794",
+                        "label": "Cathaleen's Fall hydroelectric power station"
+                    }
+                ]
+            ],
+            [
+                "County Donegal",
+                [
+                    "/wiki/County_Donegal"
+                ],
+                [
+                    {
+                        "entity id": "Q179424",
+                        "label": "County Donegal"
+                    }
+                ]
+            ],
+            [
+                "Hydroelectricity",
+                [
+                    "/wiki/Hydroelectricity"
+                ],
+                [
+                    {
+                        "entity id": "Q80638",
+                        "label": "hydroelectricity"
+                    }
+                ]
+            ],
+            [
+                "1950",
+                []
+            ]
+        ],
+        [
+            [
+                "30",
+                []
+            ],
+            [
+                "Poulaphouca",
+                [
+                    "/wiki/Poulaphouca_Reservoir"
+                ],
+                [
+                    {
+                        "entity id": "Q3079094",
+                        "label": "Poulaphouca Reservoir"
+                    }
+                ]
+            ],
+            [
+                "County Wicklow",
+                [
+                    "/wiki/County_Wicklow"
+                ],
+                [
+                    {
+                        "entity id": "Q182591",
+                        "label": "County Wicklow"
+                    }
+                ]
+            ],
+            [
+                "Hydroelectricity",
+                [
+                    "/wiki/Hydroelectricity"
+                ],
+                [
+                    {
+                        "entity id": "Q80638",
+                        "label": "hydroelectricity"
+                    }
+                ]
+            ],
+            [
+                "1938",
+                []
+            ]
+        ],
+        [
+            [
+                "19",
+                []
+            ],
+            [
+                "Inniscarra Dam",
+                [
+                    "/wiki/Inniscarra_Dam"
+                ],
+                [
+                    {
+                        "entity id": "Q6035824",
+                        "label": "Inniscarra Dam"
+                    }
+                ]
+            ],
+            [
+                "County Cork",
+                [
+                    "/wiki/County_Cork"
+                ],
+                [
+                    {
+                        "entity id": "Q162475",
+                        "label": "County Cork"
+                    }
+                ]
+            ],
+            [
+                "Hydroelectricity",
+                [
+                    "/wiki/Hydroelectricity"
+                ],
+                [
+                    {
+                        "entity id": "Q80638",
+                        "label": "hydroelectricity"
+                    }
+                ]
+            ],
+            [
+                "1957",
+                []
+            ]
+        ],
+        [
+            [
+                "8",
+                []
+            ],
+            [
+                "Carrigadrohid",
+                [
+                    "/wiki/Carrigadrohid_hydroelectric_power_station"
+                ],
+                [
+                    {
+                        "entity id": "Q38251466",
+                        "label": "Carrigadrohid hydroelectric power station"
+                    }
+                ]
+            ],
+            [
+                "County Cork",
+                [
+                    "/wiki/County_Cork"
+                ],
+                [
+                    {
+                        "entity id": "Q162475",
+                        "label": "County Cork"
+                    }
+                ]
+            ],
+            [
+                "Hydroelectricity",
+                [
+                    "/wiki/Hydroelectricity"
+                ],
+                [
+                    {
+                        "entity id": "Q80638",
+                        "label": "hydroelectricity"
+                    }
+                ]
+            ],
+            [
+                "1957",
+                []
+            ]
+        ],
+        [
+            [
+                "4",
+                []
+            ],
+            [
+                "Golden Falls",
+                [
+                    "/wiki/Golden_Falls_hydroelectric_power_station"
+                ],
+                [
+                    {
+                        "entity id": "Q52530502",
+                        "label": "Golden Falls hydroelectric power station"
+                    }
+                ]
+            ],
+            [
+                "County Kildare",
+                [
+                    "/wiki/County_Kildare"
+                ],
+                [
+                    {
+                        "entity id": "Q173332",
+                        "label": "County Kildare"
+                    }
+                ]
+            ],
+            [
+                "Hydroelectricity",
+                [
+                    "/wiki/Hydroelectricity"
+                ],
+                [
+                    {
+                        "entity id": "Q80638",
+                        "label": "hydroelectricity"
+                    }
+                ]
+            ],
+            [
+                "1943",
+                []
+            ]
+        ],
+        [
+            [
+                "4",
+                []
+            ],
+            [
+                "Leixlip",
+                []
+            ],
+            [
+                "County Kildare",
+                [
+                    "/wiki/County_Kildare"
+                ],
+                [
+                    {
+                        "entity id": "Q173332",
+                        "label": "County Kildare"
+                    }
+                ]
+            ],
+            [
+                "Hydroelectricity",
+                [
+                    "/wiki/Hydroelectricity"
+                ],
+                [
+                    {
+                        "entity id": "Q80638",
+                        "label": "hydroelectricity"
+                    }
+                ]
+            ],
+            [
+                "1938",
+                []
+            ]
+        ],
+        [
+            [
+                "4",
+                []
+            ],
+            [
+                "Clady",
+                []
+            ],
+            [
+                "County Donegal",
+                [
+                    "/wiki/County_Donegal"
+                ],
+                [
+                    {
+                        "entity id": "Q179424",
+                        "label": "County Donegal"
+                    }
+                ]
+            ],
+            [
+                "Hydroelectricity",
+                [
+                    "/wiki/Hydroelectricity"
+                ],
+                [
+                    {
+                        "entity id": "Q80638",
+                        "label": "hydroelectricity"
+                    }
+                ]
+            ],
+            [
+                "1959",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Facilities",
+    "section_text": "West Offaly Power Station",
+    "uid": "ESB_Group_0",
+    "intro": "The Electricity Supply Board (ESB; Irish: Bord Sol\u00e1thair an Leictreachais) is a state owned (95%; the rest are owned by employees) electricity company operating in Ireland. While historically a monopoly, the ESB now operates as a commercial semi-state concern in a liberalised and competitive market. It is a statutory corporation whose members are appointed by the Government of Ireland."
+}

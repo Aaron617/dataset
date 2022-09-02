@@ -1,0 +1,414 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_herbaria_in_Europe",
+    "title": "List of herbaria in Europe",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "No . Specimens",
+            []
+        ],
+        [
+            "Abbr",
+            []
+        ],
+        [
+            "Country",
+            []
+        ],
+        [
+            "City",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Estonian University of Life Sciences",
+                [
+                    "/wiki/Estonian_University_of_Life_Sciences"
+                ],
+                [
+                    {
+                        "entity id": "Q655542",
+                        "label": "Estonian University of Life Sciences"
+                    }
+                ]
+            ],
+            [
+                "336,000",
+                []
+            ],
+            [
+                "TAA",
+                []
+            ],
+            [
+                "Estonia",
+                [
+                    "/wiki/Estonia"
+                ],
+                [
+                    {
+                        "entity id": "Q191",
+                        "label": "Estonia"
+                    }
+                ]
+            ],
+            [
+                "Tartu",
+                [
+                    "/wiki/Tartu"
+                ],
+                [
+                    {
+                        "entity id": "Q13972",
+                        "label": "Tartu"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "University of Tartu",
+                [
+                    "/wiki/University_of_Tartu"
+                ],
+                [
+                    {
+                        "entity id": "Q204181",
+                        "label": "University of Tartu"
+                    }
+                ]
+            ],
+            [
+                "324,000",
+                []
+            ],
+            [
+                "TU",
+                []
+            ],
+            [
+                "Estonia",
+                [
+                    "/wiki/Estonia"
+                ],
+                [
+                    {
+                        "entity id": "Q191",
+                        "label": "Estonia"
+                    }
+                ]
+            ],
+            [
+                "Tartu",
+                [
+                    "/wiki/Tartu"
+                ],
+                [
+                    {
+                        "entity id": "Q13972",
+                        "label": "Tartu"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Vilnius University",
+                [
+                    "/wiki/Vilnius_University"
+                ],
+                [
+                    {
+                        "entity id": "Q658192",
+                        "label": "Vilnius University"
+                    }
+                ]
+            ],
+            [
+                "300,000",
+                []
+            ],
+            [
+                "WI",
+                []
+            ],
+            [
+                "Lithuania",
+                [
+                    "/wiki/Lithuania"
+                ],
+                [
+                    {
+                        "entity id": "Q37",
+                        "label": "Lithuania"
+                    }
+                ]
+            ],
+            [
+                "Vilnius",
+                [
+                    "/wiki/Vilnius"
+                ],
+                [
+                    {
+                        "entity id": "Q216",
+                        "label": "Vilnius"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "University of Latvia , Riga",
+                [
+                    "/wiki/University_of_Latvia"
+                ],
+                [
+                    {
+                        "entity id": "Q498407",
+                        "label": "University of Latvia"
+                    }
+                ]
+            ],
+            [
+                "176,000",
+                []
+            ],
+            [
+                "RIG",
+                []
+            ],
+            [
+                "Latvia",
+                [
+                    "/wiki/Latvia"
+                ],
+                [
+                    {
+                        "entity id": "Q211",
+                        "label": "Latvia"
+                    }
+                ]
+            ],
+            [
+                "Riga",
+                [
+                    "/wiki/Riga"
+                ],
+                [
+                    {
+                        "entity id": "Q1773",
+                        "label": "Riga"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "University of Latvia , Salaspils",
+                [
+                    "/wiki/University_of_Latvia"
+                ],
+                [
+                    {
+                        "entity id": "Q498407",
+                        "label": "University of Latvia"
+                    }
+                ]
+            ],
+            [
+                "175,000",
+                []
+            ],
+            [
+                "LATV",
+                []
+            ],
+            [
+                "Latvia",
+                [
+                    "/wiki/Latvia"
+                ],
+                [
+                    {
+                        "entity id": "Q211",
+                        "label": "Latvia"
+                    }
+                ]
+            ],
+            [
+                "Salaspils",
+                [
+                    "/wiki/Salaspils"
+                ],
+                [
+                    {
+                        "entity id": "Q732986",
+                        "label": "Salaspils"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Institute of Botany , Lithuania",
+                []
+            ],
+            [
+                "130,000",
+                []
+            ],
+            [
+                "BILAS",
+                []
+            ],
+            [
+                "Lithuania",
+                [
+                    "/wiki/Lithuania"
+                ],
+                [
+                    {
+                        "entity id": "Q37",
+                        "label": "Lithuania"
+                    }
+                ]
+            ],
+            [
+                "Vilnius",
+                [
+                    "/wiki/Vilnius"
+                ],
+                [
+                    {
+                        "entity id": "Q216",
+                        "label": "Vilnius"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Estonian Museum of Natural History",
+                []
+            ],
+            [
+                "100,000",
+                []
+            ],
+            [
+                "TAM",
+                []
+            ],
+            [
+                "Estonia",
+                [
+                    "/wiki/Estonia"
+                ],
+                [
+                    {
+                        "entity id": "Q191",
+                        "label": "Estonia"
+                    }
+                ]
+            ],
+            [
+                "Tallinn",
+                [
+                    "/wiki/Tallinn"
+                ],
+                [
+                    {
+                        "entity id": "Q1770",
+                        "label": "Tallinn"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Tallinn Botanic Garden",
+                []
+            ],
+            [
+                "85,000",
+                []
+            ],
+            [
+                "TALL",
+                []
+            ],
+            [
+                "Estonia",
+                [
+                    "/wiki/Estonia"
+                ],
+                [
+                    {
+                        "entity id": "Q191",
+                        "label": "Estonia"
+                    }
+                ]
+            ],
+            [
+                "Tallinn",
+                [
+                    "/wiki/Tallinn"
+                ],
+                [
+                    {
+                        "entity id": "Q1770",
+                        "label": "Tallinn"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "National Botanic Garden of Latvia",
+                []
+            ],
+            [
+                "50,000",
+                []
+            ],
+            [
+                "HBA",
+                []
+            ],
+            [
+                "Latvia",
+                [
+                    "/wiki/Latvia"
+                ],
+                [
+                    {
+                        "entity id": "Q211",
+                        "label": "Latvia"
+                    }
+                ]
+            ],
+            [
+                "Salaspils",
+                [
+                    "/wiki/Salaspils"
+                ],
+                [
+                    {
+                        "entity id": "Q732986",
+                        "label": "Salaspils"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Northern Europe -- Baltic states",
+    "section_text": "The following table includes herbaria located in the Baltic states : Estonia , Latvia , and Lithuania .",
+    "uid": "List_of_herbaria_in_Europe_5",
+    "intro": "This is a list of herbaria in Europe, organized first by region where the herbarium is located (using the United Nations geoscheme for Europe), then within each region by size of the collection. For other continents, see List of herbaria."
+}

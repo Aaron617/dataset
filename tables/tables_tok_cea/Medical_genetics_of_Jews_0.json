@@ -1,0 +1,717 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Medical_genetics_of_Jews",
+    "title": "Medical genetics of Jews",
+    "header": [
+        [
+            "Disease",
+            []
+        ],
+        [
+            "Mode of inheritance",
+            []
+        ],
+        [
+            "Gene",
+            []
+        ],
+        [
+            "Carrier frequency",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Favism",
+                [
+                    "/wiki/Glucose-6-phosphate_dehydrogenase_deficiency"
+                ],
+                [
+                    {
+                        "entity id": "Q848343",
+                        "label": "glucose-6-phosphate dehydrogenase deficiency"
+                    }
+                ]
+            ],
+            [
+                "X-linked",
+                []
+            ],
+            [
+                "G6PD",
+                [
+                    "/wiki/G6PD"
+                ],
+                [
+                    {
+                        "entity id": "Q848343",
+                        "label": "glucose-6-phosphate dehydrogenase deficiency"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Bloom syndrome",
+                [
+                    "/wiki/Bloom_syndrome"
+                ],
+                [
+                    {
+                        "entity id": "Q1469646",
+                        "label": "Bloom syndrome"
+                    }
+                ]
+            ],
+            [
+                "Autosomal recessive",
+                []
+            ],
+            [
+                "BLM",
+                [
+                    "/wiki/Bloom_syndrome_protein"
+                ],
+                [
+                    {
+                        "entity id": "Q885306",
+                        "label": "BLM RecQ like helicase"
+                    }
+                ]
+            ],
+            [
+                "1/100",
+                []
+            ]
+        ],
+        [
+            [
+                "Breast cancer and ovarian cancer",
+                [
+                    "/wiki/Breast_cancer",
+                    "/wiki/Ovarian_cancer"
+                ],
+                [
+                    {
+                        "entity id": "Q128581",
+                        "label": "breast cancer"
+                    },
+                    {
+                        "entity id": "Q172341",
+                        "label": "ovarian cancer"
+                    }
+                ]
+            ],
+            [
+                "Autosomal dominant",
+                []
+            ],
+            [
+                "BRCA1 or BRCA2",
+                [
+                    "/wiki/BRCA1",
+                    "/wiki/BRCA2"
+                ],
+                [
+                    {
+                        "entity id": "Q17487737",
+                        "label": "BRCA1 DNA repair associated"
+                    },
+                    {
+                        "entity id": "Q421651",
+                        "label": "BRCA2 DNA repair associated"
+                    }
+                ]
+            ],
+            [
+                "1/100 and 1/75 , respectively",
+                []
+            ]
+        ],
+        [
+            [
+                "Canavan disease",
+                [
+                    "/wiki/Canavan_disease"
+                ],
+                [
+                    {
+                        "entity id": "Q2349546",
+                        "label": "Canavan disease"
+                    }
+                ]
+            ],
+            [
+                "Autosomal recessive",
+                []
+            ],
+            [
+                "ASPA",
+                [
+                    "/wiki/ASPA_(gene)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1/60",
+                []
+            ]
+        ],
+        [
+            [
+                "Congenital deafness",
+                [
+                    "/wiki/Congenital_deafness"
+                ],
+                [
+                    {
+                        "entity id": "Q93116441",
+                        "label": "Congenital Deafness"
+                    }
+                ]
+            ],
+            [
+                "Autosomal recessive",
+                []
+            ],
+            [
+                "GJB2 or GJB6",
+                [
+                    "/wiki/GJB2",
+                    "/wiki/GJB6"
+                ],
+                [
+                    {
+                        "entity id": "Q18025996",
+                        "label": "GJB2"
+                    },
+                    {
+                        "entity id": "Q18035847",
+                        "label": "GJB6"
+                    }
+                ]
+            ],
+            [
+                "1/25",
+                []
+            ]
+        ],
+        [
+            [
+                "Cystic fibrosis",
+                [
+                    "/wiki/Cystic_fibrosis"
+                ],
+                [
+                    {
+                        "entity id": "Q178194",
+                        "label": "cystic fibrosis"
+                    }
+                ]
+            ],
+            [
+                "Autosomal recessive",
+                []
+            ],
+            [
+                "CFTR",
+                [
+                    "/wiki/Cystic_fibrosis_transmembrane_conductance_regulator"
+                ],
+                [
+                    {
+                        "entity id": "Q420470",
+                        "label": "Cystic fibrosis transmembrane conductance regulator"
+                    }
+                ]
+            ],
+            [
+                "1/25",
+                []
+            ]
+        ],
+        [
+            [
+                "Haemophilia C",
+                [
+                    "/wiki/Haemophilia_C"
+                ],
+                [
+                    {
+                        "entity id": "Q1393718",
+                        "label": "hemophilia C"
+                    }
+                ]
+            ],
+            [
+                "Autosomal recessive",
+                []
+            ],
+            [
+                "F11",
+                [
+                    "/wiki/Factor_XI"
+                ],
+                [
+                    {
+                        "entity id": "Q419531",
+                        "label": "Coagulation factor XI"
+                    }
+                ]
+            ],
+            [
+                "1/12",
+                []
+            ]
+        ],
+        [
+            [
+                "Familial dysautonomia",
+                [
+                    "/wiki/Familial_dysautonomia"
+                ],
+                [
+                    {
+                        "entity id": "Q2325854",
+                        "label": "Riley-Day syndrome"
+                    }
+                ]
+            ],
+            [
+                "Autosomal recessive",
+                []
+            ],
+            [
+                "IKBKAP",
+                [
+                    "/wiki/IKBKAP"
+                ],
+                [
+                    {
+                        "entity id": "Q18033065",
+                        "label": "ELP1"
+                    }
+                ]
+            ],
+            [
+                "1/30",
+                []
+            ]
+        ],
+        [
+            [
+                "Familial hypercholesterolemia",
+                [
+                    "/wiki/Familial_hypercholesterolemia"
+                ],
+                [
+                    {
+                        "entity id": "Q2711291",
+                        "label": "familial hypercholesterolemia"
+                    }
+                ]
+            ],
+            [
+                "Autosomal dominant",
+                []
+            ],
+            [
+                "LDLR",
+                [
+                    "/wiki/LDLR"
+                ],
+                [
+                    {
+                        "entity id": "Q14872724",
+                        "label": "LDLR"
+                    }
+                ]
+            ],
+            [
+                "1/69",
+                []
+            ]
+        ],
+        [
+            [
+                "Familial hyperinsulinism",
+                [
+                    "/wiki/Familial_hyperinsulinism"
+                ],
+                [
+                    {
+                        "entity id": "Q55786894",
+                        "label": "familial hyperinsulinism"
+                    }
+                ]
+            ],
+            [
+                "Autosomal recessive",
+                []
+            ],
+            [
+                "ABCC8",
+                [
+                    "/wiki/ABCC8"
+                ],
+                [
+                    {
+                        "entity id": "Q21113671",
+                        "label": "ATP binding cassette subfamily C member 8"
+                    }
+                ]
+            ],
+            [
+                "1/125-1/160",
+                []
+            ]
+        ],
+        [
+            [
+                "Fanconi anemia C",
+                [
+                    "/wiki/Fanconi_anemia"
+                ],
+                [
+                    {
+                        "entity id": "Q845779",
+                        "label": "Fanconi anemia"
+                    }
+                ]
+            ],
+            [
+                "Autosomal recessive",
+                []
+            ],
+            [
+                "FACC",
+                [
+                    "/wiki/Fanconi_anemia,_complementation_group_C"
+                ],
+                [
+                    {
+                        "entity id": "Q32146953",
+                        "label": "Fanconi anemia complementation group C"
+                    }
+                ]
+            ],
+            [
+                "1/100",
+                []
+            ]
+        ],
+        [
+            [
+                "Gaucher disease",
+                [
+                    "/wiki/Gaucher_disease"
+                ],
+                [
+                    {
+                        "entity id": "Q861645",
+                        "label": "Gaucher's disease"
+                    }
+                ]
+            ],
+            [
+                "Autosomal recessive",
+                []
+            ],
+            [
+                "GBA",
+                [
+                    "/wiki/Glucocerebrosidase"
+                ],
+                [
+                    {
+                        "entity id": "Q14878770",
+                        "label": "GBA"
+                    }
+                ]
+            ],
+            [
+                "1/7-1/18",
+                []
+            ]
+        ],
+        [
+            [
+                "Glycogen Storage Disease type 1a",
+                [
+                    "/wiki/Glycogen_storage_disease_type_I"
+                ],
+                [
+                    {
+                        "entity id": "Q630090",
+                        "label": "glycogen storage disease I"
+                    }
+                ]
+            ],
+            [
+                "Autosomal recessive",
+                []
+            ],
+            [
+                "G6PC",
+                [
+                    "/wiki/G6PC"
+                ],
+                [
+                    {
+                        "entity id": "Q18024934",
+                        "label": "G6PC1"
+                    }
+                ]
+            ],
+            [
+                "1/71",
+                []
+            ]
+        ],
+        [
+            [
+                "Mucolipidosis IV",
+                [
+                    "/wiki/Mucolipidosis_IV"
+                ],
+                [
+                    {
+                        "entity id": "Q931538",
+                        "label": "mucolipidosis type IV"
+                    }
+                ]
+            ],
+            [
+                "Autosomal recessive",
+                []
+            ],
+            [
+                "MCOLN1",
+                [
+                    "/wiki/MCOLN1"
+                ],
+                [
+                    {
+                        "entity id": "Q6714959",
+                        "label": "Mucolipin 1"
+                    }
+                ]
+            ],
+            [
+                "1/110",
+                []
+            ]
+        ],
+        [
+            [
+                "Niemann-Pick ( type A )",
+                [
+                    "/wiki/Niemann\u2013Pick_disease"
+                ],
+                [
+                    {
+                        "entity id": "Q2067267",
+                        "label": "Niemann\u2013Pick disease, type C"
+                    }
+                ]
+            ],
+            [
+                "Autosomal recessive",
+                []
+            ],
+            [
+                "SMPD1",
+                [
+                    "/wiki/SMPD1"
+                ],
+                [
+                    {
+                        "entity id": "Q18031608",
+                        "label": "SMPD1"
+                    }
+                ]
+            ],
+            [
+                "1/90",
+                []
+            ]
+        ],
+        [
+            [
+                "Nonclassical 21 OHase deficiency",
+                [
+                    "/wiki/Congenital_adrenal_hyperplasia_due_to_21-hydroxylase_deficiency"
+                ],
+                [
+                    {
+                        "entity id": "Q4127185",
+                        "label": "congenital adrenal hyperplasia due to 21-hydroxylase deficiency"
+                    }
+                ]
+            ],
+            [
+                "Autosomal recessive",
+                []
+            ],
+            [
+                "CPY21",
+                [
+                    "/wiki/CPY21"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1/6",
+                []
+            ]
+        ],
+        [
+            [
+                "Parkinson 's disease",
+                [
+                    "/wiki/Parkinson's_disease"
+                ],
+                [
+                    {
+                        "entity id": "Q11085",
+                        "label": "Parkinson's disease"
+                    }
+                ]
+            ],
+            [
+                "Autosomal dominant",
+                []
+            ],
+            [
+                "LRRK2",
+                [
+                    "/wiki/LRRK2"
+                ],
+                [
+                    {
+                        "entity id": "Q409961",
+                        "label": "Leucine rich repeat kinase 2"
+                    }
+                ]
+            ],
+            [
+                "1/42",
+                []
+            ]
+        ],
+        [
+            [
+                "Tay-Sachs",
+                [
+                    "/wiki/Tay\u2013Sachs"
+                ],
+                [
+                    {
+                        "entity id": "Q560337",
+                        "label": "Tay-Sachs disease"
+                    }
+                ]
+            ],
+            [
+                "Autosomal recessive",
+                []
+            ],
+            [
+                "HEXA",
+                [
+                    "/wiki/HEXA"
+                ],
+                [
+                    {
+                        "entity id": "Q18026873",
+                        "label": "HEXA"
+                    }
+                ]
+            ],
+            [
+                "1/25-1/30",
+                []
+            ]
+        ],
+        [
+            [
+                "Torsion dystonia",
+                [
+                    "/wiki/Torsion_dystonia"
+                ],
+                [
+                    {
+                        "entity id": "Q656199",
+                        "label": "torsion dystonia"
+                    }
+                ]
+            ],
+            [
+                "Autosomal dominant",
+                []
+            ],
+            [
+                "DYT1",
+                [
+                    "/wiki/DYT1"
+                ],
+                [
+                    {
+                        "entity id": "Q17915113",
+                        "label": "TOR1A"
+                    }
+                ]
+            ],
+            [
+                "1/4000",
+                []
+            ]
+        ],
+        [
+            [
+                "Usher syndrome",
+                [
+                    "/wiki/Usher_syndrome"
+                ],
+                [
+                    {
+                        "entity id": "Q917399",
+                        "label": "Usher syndrome"
+                    }
+                ]
+            ],
+            [
+                "Autosomal recessive",
+                []
+            ],
+            [
+                "PCDH15",
+                [
+                    "/wiki/PCDH15"
+                ],
+                [
+                    {
+                        "entity id": "Q21989859",
+                        "label": "Protocadherin 15"
+                    }
+                ]
+            ],
+            [
+                "1/72",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Ashkenazi diseases",
+    "section_text": "Today 's 10 million Ashkenazi Jews descend from a population of only 350 individuals who lived about 600\u2013800 years ago . [ 15 ] That population derived from both Europe and the Middle East . There is evidence that the population bottleneck may have allowed deleterious alleles to become more prevalent in the population due to genetic drift . [ 16 ] As a result , this group has been particularly intensively studied , so many mutations have been identified as common in Ashkenazim . [ 17 ] Of these diseases , many also occur in other Jewish groups and in non-Jewish populations , although the specific mutation which causes the disease may vary between populations . For example , two different mutations in the glucocerebrosidase gene causes Gaucher 's disease in Ashkenazim , which is their most common genetic disease , but only one of these mutations is found in non-Jewish groups . [ 5 ] A few diseases are unique to this group ; for example , familial dysautonomia is almost unknown in other populations . [ 5 ]",
+    "uid": "Medical_genetics_of_Jews_0",
+    "intro": "There are several autosomal recessive genetic disorders that are more common in ethnically Jewish populations, particularly Ashkenazi Jews, than the population as a whole. This is due to population bottlenecks that occurred relatively recently in the past as well as a practice of consanguineous marriage. These two phenomena lead to a decrease in genetic diversity and a higher likelihood that two parents will carry a mutation in the same gene and pass on both mutations to a child. The genetics of Ashkenazi Jews have been particularly well-studied, as the phenomenon affects them the most. This has resulted in the discovery of many genetic disorders associated with this ethnic group. In contrast, the medical genetics of Sephardic Jews and Mizrahi Jews are more complicated, since they are more genetically diverse, and consequently no genetic disorders are more common in these groups as a whole; instead, they tend to have the genetic diseases common in their various countries of origin. Several organizations, such as Dor Yeshorim, offer screening for Ashkenazi genetic diseases, and these screening programs have had a significant impact, in particular by reducing the number of cases of Tay-Sachs disease."
+}

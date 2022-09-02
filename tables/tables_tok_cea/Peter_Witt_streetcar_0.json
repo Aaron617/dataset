@@ -1,0 +1,847 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Peter_Witt_streetcar",
+    "title": "Peter Witt streetcar",
+    "header": [
+        [
+            "Operator",
+            []
+        ],
+        [
+            "City",
+            []
+        ],
+        [
+            "State/Province",
+            []
+        ],
+        [
+            "Country",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Azienda Municipalizzata Trasporti ( now Gruppo Torinese Trasporti )",
+                [
+                    "/wiki/Gruppo_Torinese_Trasporti"
+                ],
+                [
+                    {
+                        "entity id": "Q3756307",
+                        "label": "Gruppo Torinese Trasporti"
+                    }
+                ]
+            ],
+            [
+                "Turin",
+                [
+                    "/wiki/Turin"
+                ],
+                [
+                    {
+                        "entity id": "Q495",
+                        "label": "Turin"
+                    }
+                ]
+            ],
+            [
+                "Turin",
+                [
+                    "/wiki/Turin"
+                ],
+                [
+                    {
+                        "entity id": "Q495",
+                        "label": "Turin"
+                    }
+                ]
+            ],
+            [
+                "Italy",
+                [
+                    "/wiki/Italy"
+                ],
+                [
+                    {
+                        "entity id": "Q38",
+                        "label": "Italy"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Azienda Napoletana Mobilit\u00e0",
+                [
+                    "/wiki/ANM_(Naples)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Naples",
+                [
+                    "/wiki/Naples"
+                ],
+                [
+                    {
+                        "entity id": "Q2634",
+                        "label": "Naples"
+                    }
+                ]
+            ],
+            [
+                "Naples",
+                [
+                    "/wiki/Naples"
+                ],
+                [
+                    {
+                        "entity id": "Q2634",
+                        "label": "Naples"
+                    }
+                ]
+            ],
+            [
+                "Italy",
+                []
+            ]
+        ],
+        [
+            [
+                "Azienda Trasporti Milanesi",
+                [
+                    "/wiki/Azienda_Trasporti_Milanesi"
+                ],
+                [
+                    {
+                        "entity id": "Q381955",
+                        "label": "Azienda Trasporti Milanesi"
+                    }
+                ]
+            ],
+            [
+                "Milan",
+                [
+                    "/wiki/Milan"
+                ],
+                [
+                    {
+                        "entity id": "Q490",
+                        "label": "Milan"
+                    }
+                ]
+            ],
+            [
+                "Milan",
+                [
+                    "/wiki/Milan"
+                ],
+                [
+                    {
+                        "entity id": "Q490",
+                        "label": "Milan"
+                    }
+                ]
+            ],
+            [
+                "Italy",
+                []
+            ]
+        ],
+        [
+            [
+                "Baltimore Transit Company",
+                [
+                    "/wiki/Baltimore_Transit_Company"
+                ],
+                [
+                    {
+                        "entity id": "Q15145503",
+                        "label": "Baltimore Transit Company"
+                    }
+                ]
+            ],
+            [
+                "Baltimore",
+                [
+                    "/wiki/Baltimore,_Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q5092",
+                        "label": "Baltimore"
+                    }
+                ]
+            ],
+            [
+                "Maryland",
+                [
+                    "/wiki/Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q1391",
+                        "label": "Maryland"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Brooklyn & Queens Transit",
+                [
+                    "/wiki/Brooklyn_&_Queens_Transit"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "New York",
+                [
+                    "/wiki/New_York,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q60",
+                        "label": "New York City"
+                    }
+                ]
+            ],
+            [
+                "New York",
+                [
+                    "/wiki/New_York_(state)"
+                ],
+                [
+                    {
+                        "entity id": "Q1384",
+                        "label": "New York"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                []
+            ]
+        ],
+        [
+            [
+                "Chicago Surface Lines",
+                [
+                    "/wiki/Chicago_Surface_Lines"
+                ],
+                [
+                    {
+                        "entity id": "Q305200",
+                        "label": "Chicago Surface Lines"
+                    }
+                ]
+            ],
+            [
+                "Chicago",
+                [
+                    "/wiki/Chicago,_Illinois"
+                ],
+                [
+                    {
+                        "entity id": "Q1297",
+                        "label": "Chicago"
+                    }
+                ]
+            ],
+            [
+                "Illinois",
+                [
+                    "/wiki/Illinois"
+                ],
+                [
+                    {
+                        "entity id": "Q1204",
+                        "label": "Illinois"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                []
+            ]
+        ],
+        [
+            [
+                "Cleveland Railway",
+                [
+                    "/wiki/Cleveland_Railway_(Ohio)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Cleveland",
+                [
+                    "/wiki/Cleveland,_Ohio"
+                ],
+                [
+                    {
+                        "entity id": "Q37320",
+                        "label": "Cleveland"
+                    }
+                ]
+            ],
+            [
+                "Ohio",
+                [
+                    "/wiki/Ohio"
+                ],
+                [
+                    {
+                        "entity id": "Q1397",
+                        "label": "Ohio"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                []
+            ]
+        ],
+        [
+            [
+                "Dallas Railway & Terminal Co",
+                []
+            ],
+            [
+                "Dallas",
+                [
+                    "/wiki/Dallas,_Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q16557",
+                        "label": "Dallas"
+                    }
+                ]
+            ],
+            [
+                "Texas",
+                [
+                    "/wiki/Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q1439",
+                        "label": "Texas"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                []
+            ]
+        ],
+        [
+            [
+                "Department of Street Railways",
+                []
+            ],
+            [
+                "Detroit",
+                [
+                    "/wiki/Detroit,_Michigan"
+                ],
+                [
+                    {
+                        "entity id": "Q12439",
+                        "label": "Detroit"
+                    }
+                ]
+            ],
+            [
+                "Michigan",
+                [
+                    "/wiki/Michigan"
+                ],
+                [
+                    {
+                        "entity id": "Q1166",
+                        "label": "Michigan"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                []
+            ]
+        ],
+        [
+            [
+                "Empresa Municipal de Transportes",
+                []
+            ],
+            [
+                "Madrid",
+                [
+                    "/wiki/Madrid"
+                ],
+                [
+                    {
+                        "entity id": "Q2807",
+                        "label": "Madrid"
+                    }
+                ]
+            ],
+            [
+                "Madrid",
+                [
+                    "/wiki/Madrid"
+                ],
+                [
+                    {
+                        "entity id": "Q2807",
+                        "label": "Madrid"
+                    }
+                ]
+            ],
+            [
+                "Spain",
+                [
+                    "/wiki/Spain"
+                ],
+                [
+                    {
+                        "entity id": "Q29",
+                        "label": "Spain"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "International Railway Co",
+                [
+                    "/wiki/International_Railway_(New_York_\u2013_Ontario)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Buffalo",
+                [
+                    "/wiki/Buffalo,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q40435",
+                        "label": "Buffalo"
+                    }
+                ]
+            ],
+            [
+                "New York",
+                []
+            ],
+            [
+                "United States",
+                []
+            ]
+        ],
+        [
+            [
+                "Leningrad",
+                []
+            ],
+            [
+                "Leningrad",
+                [
+                    "/wiki/Saint_Petersburg"
+                ],
+                [
+                    {
+                        "entity id": "Q656",
+                        "label": "Saint Petersburg"
+                    }
+                ]
+            ],
+            [
+                "Russian SFSR",
+                [
+                    "/wiki/Russian_Soviet_Federative_Socialist_Republic"
+                ],
+                [
+                    {
+                        "entity id": "Q2184",
+                        "label": "Russian Soviet Federative Socialist Republic"
+                    }
+                ]
+            ],
+            [
+                "Soviet Union",
+                [
+                    "/wiki/Soviet_Union"
+                ],
+                [
+                    {
+                        "entity id": "Q15180",
+                        "label": "Soviet Union"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "London Street Railway",
+                [
+                    "/wiki/London_Street_Railway"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "London",
+                [
+                    "/wiki/London,_Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q92561",
+                        "label": "London"
+                    }
+                ]
+            ],
+            [
+                "Ontario",
+                [
+                    "/wiki/Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q1904",
+                        "label": "Ontario"
+                    }
+                ]
+            ],
+            [
+                "Canada",
+                [
+                    "/wiki/Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q16",
+                        "label": "Canada"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Los Angeles Railway",
+                [
+                    "/wiki/Los_Angeles_Railway"
+                ],
+                [
+                    {
+                        "entity id": "Q2509171",
+                        "label": "Los Angeles Railway"
+                    }
+                ]
+            ],
+            [
+                "Los Angeles",
+                [
+                    "/wiki/Los_Angeles,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q65",
+                        "label": "Los Angeles"
+                    }
+                ]
+            ],
+            [
+                "California",
+                [
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                []
+            ]
+        ],
+        [
+            [
+                "Louisville Railway",
+                [
+                    "/wiki/Louisville_Railway"
+                ],
+                [
+                    {
+                        "entity id": "Q6689534",
+                        "label": "Louisville Railway"
+                    }
+                ]
+            ],
+            [
+                "Louisville",
+                [
+                    "/wiki/Louisville,_Kentucky"
+                ],
+                [
+                    {
+                        "entity id": "Q43668",
+                        "label": "Louisville"
+                    }
+                ]
+            ],
+            [
+                "Kentucky",
+                [
+                    "/wiki/Kentucky"
+                ],
+                [
+                    {
+                        "entity id": "Q1603",
+                        "label": "Kentucky"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                []
+            ]
+        ],
+        [
+            [
+                "Melbourne and Metropolitan Tramways Board",
+                [
+                    "/wiki/Melbourne_and_Metropolitan_Tramways_Board"
+                ],
+                [
+                    {
+                        "entity id": "Q6811935",
+                        "label": "Melbourne and Metropolitan Tramways Board"
+                    }
+                ]
+            ],
+            [
+                "Melbourne",
+                [
+                    "/wiki/Melbourne"
+                ],
+                [
+                    {
+                        "entity id": "Q3141",
+                        "label": "Melbourne"
+                    }
+                ]
+            ],
+            [
+                "Victoria",
+                [
+                    "/wiki/Victoria_(Australia)"
+                ],
+                [
+                    {
+                        "entity id": "Q36687",
+                        "label": "Victoria"
+                    }
+                ]
+            ],
+            [
+                "Australia",
+                [
+                    "/wiki/Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q408",
+                        "label": "Australia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "New York State Railways",
+                [
+                    "/wiki/New_York_State_Railways"
+                ],
+                [
+                    {
+                        "entity id": "Q7014178",
+                        "label": "New York State Railways"
+                    }
+                ]
+            ],
+            [
+                "Rochester & Syracuse",
+                [
+                    "/wiki/Rochester,_New_York",
+                    "/wiki/Syracuse,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q49218",
+                        "label": "Rochester"
+                    },
+                    {
+                        "entity id": "Q128069",
+                        "label": "Syracuse"
+                    }
+                ]
+            ],
+            [
+                "New York",
+                []
+            ],
+            [
+                "United States",
+                []
+            ]
+        ],
+        [
+            [
+                "Ottawa Transportation Commission",
+                [
+                    "/wiki/Ottawa_Transportation_Commission"
+                ],
+                [
+                    {
+                        "entity id": "Q7109262",
+                        "label": "Ottawa Transportation Commission"
+                    }
+                ]
+            ],
+            [
+                "Ottawa",
+                [
+                    "/wiki/Ottawa"
+                ],
+                [
+                    {
+                        "entity id": "Q1930",
+                        "label": "Ottawa"
+                    }
+                ]
+            ],
+            [
+                "Ontario",
+                []
+            ],
+            [
+                "Canada",
+                []
+            ]
+        ],
+        [
+            [
+                "Philadelphia Rapid Transit & Philadelphia Transportation Company",
+                [
+                    "/wiki/Philadelphia_Rapid_Transit",
+                    "/wiki/Philadelphia_Transportation_Company"
+                ],
+                [
+                    {
+                        "entity id": "Q76999896",
+                        "label": "Philadelphia Rapid Transit Company"
+                    },
+                    {
+                        "entity id": "Q1923606",
+                        "label": "Philadelphia Transportation Company"
+                    }
+                ]
+            ],
+            [
+                "Philadelphia",
+                [
+                    "/wiki/Philadelphia,_Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q1345",
+                        "label": "Philadelphia"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                [
+                    "/wiki/Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q1400",
+                        "label": "Pennsylvania"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                []
+            ]
+        ],
+        [
+            [
+                "Porto Rico Railway , Light & Power Co",
+                []
+            ],
+            [
+                "San Juan",
+                [
+                    "/wiki/San_Juan,_Puerto_Rico"
+                ],
+                [
+                    {
+                        "entity id": "Q41211",
+                        "label": "San Juan"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Puerto Rico",
+                [
+                    "/wiki/Puerto_Rico"
+                ],
+                [
+                    {
+                        "entity id": "Q1183",
+                        "label": "Puerto Rico"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "History -- Operators",
+    "section_text": "Operators that used Peter Witt streetcars included :",
+    "uid": "Peter_Witt_streetcar_0",
+    "intro": "The Peter Witt streetcar was introduced by Cleveland Railway commissioner Peter Witt (1869-1948) who led the transit agency from 1911-1915 and designed a model of streetcar known by his name that was used in many North American cities, most notably in Toronto and Cleveland."
+}

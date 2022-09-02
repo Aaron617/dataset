@@ -1,0 +1,936 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_metro_systems",
+    "title": "List of metro systems",
+    "header": [
+        [
+            "City",
+            []
+        ],
+        [
+            "Country",
+            []
+        ],
+        [
+            "Name",
+            []
+        ],
+        [
+            "Start of construction",
+            []
+        ],
+        [
+            "Planned opening",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Dhaka",
+                [
+                    "/wiki/Dhaka"
+                ],
+                [
+                    {
+                        "entity id": "Q1354",
+                        "label": "Dhaka"
+                    }
+                ]
+            ],
+            [
+                "Bangladesh",
+                [
+                    "/wiki/Bangladesh"
+                ],
+                [
+                    {
+                        "entity id": "Q902",
+                        "label": "Bangladesh"
+                    }
+                ]
+            ],
+            [
+                "Dhaka Metro",
+                [
+                    "/wiki/Dhaka_Metro"
+                ],
+                [
+                    {
+                        "entity id": "Q5268740",
+                        "label": "Dhaka Metro Rail"
+                    }
+                ]
+            ],
+            [
+                "2016",
+                []
+            ],
+            [
+                "2021",
+                []
+            ]
+        ],
+        [
+            [
+                "Jinhua",
+                [
+                    "/wiki/Jinhua"
+                ],
+                [
+                    {
+                        "entity id": "Q58210",
+                        "label": "Jinhua"
+                    }
+                ]
+            ],
+            [
+                "China",
+                [
+                    "/wiki/China"
+                ],
+                [
+                    {
+                        "entity id": "Q148",
+                        "label": "People's Republic of China"
+                    }
+                ]
+            ],
+            [
+                "Jinhua Metro [ zh ]",
+                []
+            ],
+            [
+                "2016",
+                []
+            ],
+            [
+                "2020",
+                []
+            ]
+        ],
+        [
+            [
+                "Luoyang",
+                [
+                    "/wiki/Luoyang"
+                ],
+                [
+                    {
+                        "entity id": "Q187136",
+                        "label": "Luoyang"
+                    }
+                ]
+            ],
+            [
+                "China",
+                [
+                    "/wiki/China"
+                ],
+                [
+                    {
+                        "entity id": "Q148",
+                        "label": "People's Republic of China"
+                    }
+                ]
+            ],
+            [
+                "Luoyang Metro",
+                [
+                    "/wiki/Luoyang_Metro"
+                ],
+                [
+                    {
+                        "entity id": "Q11146236",
+                        "label": "Luoyang Subway"
+                    }
+                ]
+            ],
+            [
+                "2016",
+                []
+            ],
+            [
+                "2020",
+                []
+            ]
+        ],
+        [
+            [
+                "Nantong",
+                [
+                    "/wiki/Nantong"
+                ],
+                [
+                    {
+                        "entity id": "Q57947",
+                        "label": "Nantong"
+                    }
+                ]
+            ],
+            [
+                "China",
+                [
+                    "/wiki/China"
+                ],
+                [
+                    {
+                        "entity id": "Q148",
+                        "label": "People's Republic of China"
+                    }
+                ]
+            ],
+            [
+                "Nantong Metro",
+                [
+                    "/wiki/Nantong_Metro"
+                ],
+                [
+                    {
+                        "entity id": "Q18110961",
+                        "label": "Nantong Metro"
+                    }
+                ]
+            ],
+            [
+                "2017",
+                []
+            ],
+            [
+                "2022",
+                []
+            ]
+        ],
+        [
+            [
+                "Shaoxing",
+                [
+                    "/wiki/Shaoxing"
+                ],
+                [
+                    {
+                        "entity id": "Q42666",
+                        "label": "Shaoxing"
+                    }
+                ]
+            ],
+            [
+                "China",
+                [
+                    "/wiki/China"
+                ],
+                [
+                    {
+                        "entity id": "Q148",
+                        "label": "People's Republic of China"
+                    }
+                ]
+            ],
+            [
+                "Shaoxing Metro",
+                [
+                    "/wiki/Shaoxing_Metro"
+                ],
+                [
+                    {
+                        "entity id": "Q20063952",
+                        "label": "Shaoxing Metro"
+                    }
+                ]
+            ],
+            [
+                "2017",
+                []
+            ],
+            [
+                "2021",
+                []
+            ]
+        ],
+        [
+            [
+                "Taiyuan",
+                [
+                    "/wiki/Taiyuan"
+                ],
+                [
+                    {
+                        "entity id": "Q72778",
+                        "label": "Taiyuan"
+                    }
+                ]
+            ],
+            [
+                "China",
+                [
+                    "/wiki/China"
+                ],
+                [
+                    {
+                        "entity id": "Q148",
+                        "label": "People's Republic of China"
+                    }
+                ]
+            ],
+            [
+                "Taiyuan Metro",
+                [
+                    "/wiki/Taiyuan_Metro"
+                ],
+                [
+                    {
+                        "entity id": "Q10941073",
+                        "label": "Taiyuan Metro"
+                    }
+                ]
+            ],
+            [
+                "2013",
+                []
+            ],
+            [
+                "2020",
+                []
+            ]
+        ],
+        [
+            [
+                "Wuhu",
+                [
+                    "/wiki/Wuhu"
+                ],
+                [
+                    {
+                        "entity id": "Q359990",
+                        "label": "Wuhu"
+                    }
+                ]
+            ],
+            [
+                "China",
+                [
+                    "/wiki/China"
+                ],
+                [
+                    {
+                        "entity id": "Q148",
+                        "label": "People's Republic of China"
+                    }
+                ]
+            ],
+            [
+                "Wuhu Metro",
+                [
+                    "/wiki/Wuhu_Metro"
+                ],
+                [
+                    {
+                        "entity id": "Q22774332",
+                        "label": "Wuhu Rail Transit"
+                    }
+                ]
+            ],
+            [
+                "2017",
+                []
+            ],
+            [
+                "2020",
+                []
+            ]
+        ],
+        [
+            [
+                "Quito",
+                [
+                    "/wiki/Quito"
+                ],
+                [
+                    {
+                        "entity id": "Q2900",
+                        "label": "Quito"
+                    }
+                ]
+            ],
+            [
+                "Ecuador",
+                [
+                    "/wiki/Ecuador"
+                ],
+                [
+                    {
+                        "entity id": "Q736",
+                        "label": "Ecuador"
+                    }
+                ]
+            ],
+            [
+                "Quito Metro",
+                [
+                    "/wiki/Quito_Metro"
+                ],
+                [
+                    {
+                        "entity id": "Q2466472",
+                        "label": "Quito Metro"
+                    }
+                ]
+            ],
+            [
+                "2012",
+                []
+            ],
+            [
+                "2020",
+                []
+            ]
+        ],
+        [
+            [
+                "Thessaloniki",
+                [
+                    "/wiki/Thessaloniki"
+                ],
+                [
+                    {
+                        "entity id": "Q17151",
+                        "label": "Thessaloniki"
+                    }
+                ]
+            ],
+            [
+                "Greece",
+                [
+                    "/wiki/Greece"
+                ],
+                [
+                    {
+                        "entity id": "Q41",
+                        "label": "Greece"
+                    }
+                ]
+            ],
+            [
+                "Thessaloniki Metro",
+                [
+                    "/wiki/Thessaloniki_Metro"
+                ],
+                [
+                    {
+                        "entity id": "Q1326567",
+                        "label": "Thessaloniki Metro"
+                    }
+                ]
+            ],
+            [
+                "2006",
+                []
+            ],
+            [
+                "2020",
+                []
+            ]
+        ],
+        [
+            [
+                "Bhopal",
+                [
+                    "/wiki/Bhopal"
+                ],
+                [
+                    {
+                        "entity id": "Q80989",
+                        "label": "Bhopal"
+                    }
+                ]
+            ],
+            [
+                "India",
+                [
+                    "/wiki/India"
+                ],
+                [
+                    {
+                        "entity id": "Q668",
+                        "label": "India"
+                    }
+                ]
+            ],
+            [
+                "Bhopal Metro",
+                [
+                    "/wiki/Bhopal_Metro"
+                ],
+                [
+                    {
+                        "entity id": "Q4902010",
+                        "label": "Bhopal Metro"
+                    }
+                ]
+            ],
+            [
+                "2018",
+                []
+            ],
+            [
+                "2024",
+                []
+            ]
+        ],
+        [
+            [
+                "Indore",
+                [
+                    "/wiki/Indore"
+                ],
+                [
+                    {
+                        "entity id": "Q66616",
+                        "label": "Indore"
+                    }
+                ]
+            ],
+            [
+                "India",
+                [
+                    "/wiki/India"
+                ],
+                [
+                    {
+                        "entity id": "Q668",
+                        "label": "India"
+                    }
+                ]
+            ],
+            [
+                "Indore Metro",
+                [
+                    "/wiki/Indore_Metro"
+                ],
+                [
+                    {
+                        "entity id": "Q17056449",
+                        "label": "Indore Metro"
+                    }
+                ]
+            ],
+            [
+                "2018",
+                []
+            ],
+            [
+                "2024",
+                []
+            ]
+        ],
+        [
+            [
+                "Kanpur",
+                [
+                    "/wiki/Kanpur"
+                ],
+                [
+                    {
+                        "entity id": "Q66568",
+                        "label": "Kanpur"
+                    }
+                ]
+            ],
+            [
+                "India",
+                [
+                    "/wiki/India"
+                ],
+                [
+                    {
+                        "entity id": "Q668",
+                        "label": "India"
+                    }
+                ]
+            ],
+            [
+                "Kanpur Metro",
+                [
+                    "/wiki/Kanpur_Metro"
+                ],
+                [
+                    {
+                        "entity id": "Q17063873",
+                        "label": "Kanpur Metro"
+                    }
+                ]
+            ],
+            [
+                "2019",
+                []
+            ],
+            [
+                "2024",
+                []
+            ]
+        ],
+        [
+            [
+                "Navi Mumbai",
+                [
+                    "/wiki/Navi_Mumbai"
+                ],
+                [
+                    {
+                        "entity id": "Q61445",
+                        "label": "Navi Mumbai"
+                    }
+                ]
+            ],
+            [
+                "India",
+                [
+                    "/wiki/India"
+                ],
+                [
+                    {
+                        "entity id": "Q668",
+                        "label": "India"
+                    }
+                ]
+            ],
+            [
+                "Navi Mumbai Metro",
+                [
+                    "/wiki/Navi_Mumbai_Metro"
+                ],
+                [
+                    {
+                        "entity id": "Q4503146",
+                        "label": "Navi Mumbai Metro"
+                    }
+                ]
+            ],
+            [
+                "2011",
+                []
+            ],
+            [
+                "April 2020",
+                []
+            ]
+        ],
+        [
+            [
+                "Pune",
+                [
+                    "/wiki/Pune"
+                ],
+                [
+                    {
+                        "entity id": "Q1538",
+                        "label": "Pune"
+                    }
+                ]
+            ],
+            [
+                "India",
+                [
+                    "/wiki/India"
+                ],
+                [
+                    {
+                        "entity id": "Q668",
+                        "label": "India"
+                    }
+                ]
+            ],
+            [
+                "Pune Metro",
+                [
+                    "/wiki/Pune_Metro"
+                ],
+                [
+                    {
+                        "entity id": "Q3595697",
+                        "label": "Pune Metro"
+                    }
+                ]
+            ],
+            [
+                "2017",
+                []
+            ],
+            [
+                "2021",
+                []
+            ]
+        ],
+        [
+            [
+                "Ahvaz",
+                [
+                    "/wiki/Ahvaz"
+                ],
+                [
+                    {
+                        "entity id": "Q170366",
+                        "label": "Ahvaz"
+                    }
+                ]
+            ],
+            [
+                "Iran",
+                [
+                    "/wiki/Iran"
+                ],
+                [
+                    {
+                        "entity id": "Q794",
+                        "label": "Iran"
+                    }
+                ]
+            ],
+            [
+                "Ahvaz Metro",
+                [
+                    "/wiki/Ahvaz_Metro"
+                ],
+                [
+                    {
+                        "entity id": "Q5949657",
+                        "label": "Ahvaz Metro"
+                    }
+                ]
+            ],
+            [
+                "2004",
+                []
+            ],
+            [
+                "?",
+                []
+            ]
+        ],
+        [
+            [
+                "Karaj",
+                [
+                    "/wiki/Karaj"
+                ],
+                [
+                    {
+                        "entity id": "Q36529",
+                        "label": "Karaj"
+                    }
+                ]
+            ],
+            [
+                "Iran",
+                [
+                    "/wiki/Iran"
+                ],
+                [
+                    {
+                        "entity id": "Q794",
+                        "label": "Iran"
+                    }
+                ]
+            ],
+            [
+                "Karaj Metro [ fa ]",
+                [
+                    "/wiki/Karaj_Metro"
+                ],
+                [
+                    {
+                        "entity id": "Q5881569",
+                        "label": "Karaj Metro"
+                    }
+                ]
+            ],
+            [
+                "2006",
+                []
+            ],
+            [
+                "2020",
+                []
+            ]
+        ],
+        [
+            [
+                "Kermanshah",
+                [
+                    "/wiki/Kermanshah"
+                ],
+                [
+                    {
+                        "entity id": "Q180078",
+                        "label": "Kermanshah"
+                    }
+                ]
+            ],
+            [
+                "Iran",
+                [
+                    "/wiki/Iran"
+                ],
+                [
+                    {
+                        "entity id": "Q794",
+                        "label": "Iran"
+                    }
+                ]
+            ],
+            [
+                "Kermanshah Metro [ fa ]",
+                []
+            ],
+            [
+                "2011",
+                []
+            ],
+            [
+                "2022",
+                []
+            ]
+        ],
+        [
+            [
+                "Qom",
+                [
+                    "/wiki/Qom"
+                ],
+                [
+                    {
+                        "entity id": "Q170573",
+                        "label": "Qom"
+                    }
+                ]
+            ],
+            [
+                "Iran",
+                [
+                    "/wiki/Iran"
+                ],
+                [
+                    {
+                        "entity id": "Q794",
+                        "label": "Iran"
+                    }
+                ]
+            ],
+            [
+                "Qom Metro",
+                [
+                    "/wiki/Qom_Metro"
+                ],
+                [
+                    {
+                        "entity id": "Q38258011",
+                        "label": "Qom Urban Railway"
+                    }
+                ]
+            ],
+            [
+                "2009",
+                []
+            ],
+            [
+                "2020",
+                []
+            ]
+        ],
+        [
+            [
+                "Abidjan",
+                [
+                    "/wiki/Abidjan"
+                ],
+                [
+                    {
+                        "entity id": "Q1515",
+                        "label": "Abidjan"
+                    }
+                ]
+            ],
+            [
+                "Ivory Coast",
+                [
+                    "/wiki/Ivory_Coast"
+                ],
+                [
+                    {
+                        "entity id": "Q1008",
+                        "label": "Ivory Coast"
+                    }
+                ]
+            ],
+            [
+                "Abidjan Metro",
+                [
+                    "/wiki/Abidjan_Metro"
+                ],
+                [
+                    {
+                        "entity id": "Q16680881",
+                        "label": "Abidjan Metro"
+                    }
+                ]
+            ],
+            [
+                "2017",
+                []
+            ],
+            [
+                "2022/2023",
+                []
+            ]
+        ],
+        [
+            [
+                "Lagos",
+                [
+                    "/wiki/Lagos"
+                ],
+                [
+                    {
+                        "entity id": "Q8673",
+                        "label": "Lagos"
+                    }
+                ]
+            ],
+            [
+                "Nigeria",
+                [
+                    "/wiki/Nigeria"
+                ],
+                [
+                    {
+                        "entity id": "Q1033",
+                        "label": "Nigeria"
+                    }
+                ]
+            ],
+            [
+                "Lagos Rail Mass Transit",
+                [
+                    "/wiki/Lagos_Rail_Mass_Transit"
+                ],
+                [
+                    {
+                        "entity id": "Q1287549",
+                        "label": "Lagos Rail Mass Transit"
+                    }
+                ]
+            ],
+            [
+                "2009",
+                []
+            ],
+            [
+                "2022",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Under construction",
+    "section_text": "The countries of Bangladesh , Ecuador , Ivory Coast , Nigeria , Pakistan , and Vietnam are currently constructing their first ever metro systems .",
+    "uid": "List_of_metro_systems_1",
+    "intro": "This list of metro systems includes electrified rapid transit train systems worldwide. In some parts of the world, metro systems are referred to as subways, U-Bahnen or undergrounds. As of December 2017[update], 178 cities in 56 countries around the world host the approximately 180 metro systems that are listed here. The London Underground first opened as an underground railway in 1863 and its first electrified underground line opened in 1890, making it the world's oldest metro system. The metro system with the longest route length is the Beijing Subway; the busiest one is the Beijing Subway; and the one with the most stations is the New York City Subway. China has the largest number of cities that have metro systems, with over 40 by 2019."
+}

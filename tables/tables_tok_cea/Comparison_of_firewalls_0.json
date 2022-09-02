@@ -1,0 +1,885 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_firewalls",
+    "title": "Comparison of firewalls",
+    "header": [
+        [
+            "Firewall",
+            []
+        ],
+        [
+            "License",
+            [
+                "/wiki/Software_license"
+            ],
+            [
+                {
+                    "entity id": "Q207621",
+                    "label": "software license"
+                }
+            ]
+        ],
+        [
+            "Cost and usage limits",
+            []
+        ],
+        [
+            "OS",
+            [
+                "/wiki/Operating_system"
+            ],
+            [
+                {
+                    "entity id": "Q9135",
+                    "label": "operating system"
+                }
+            ]
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Avast Internet Security",
+                [
+                    "/wiki/Avast_Antivirus"
+                ],
+                [
+                    {
+                        "entity id": "Q1574",
+                        "label": "Avast Antivirus"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Paid",
+                []
+            ],
+            [
+                "Microsoft Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Comodo Internet Security",
+                [
+                    "/wiki/Comodo_Internet_Security"
+                ],
+                [
+                    {
+                        "entity id": "Q1789196",
+                        "label": "Comodo Internet Security"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Free",
+                []
+            ],
+            [
+                "Windows 10/8.1/8/7/Vista x32/x64 , XP x32",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Intego VirusBarrier",
+                [
+                    "/wiki/Intego"
+                ],
+                [
+                    {
+                        "entity id": "Q3152978",
+                        "label": "Intego"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Paid",
+                []
+            ],
+            [
+                "Mac OS X 10.5 or later ; on an Xserve",
+                [
+                    "/wiki/Mac_OS_X",
+                    "/wiki/Mac_OS_X_10.5",
+                    "/wiki/Xserve"
+                ],
+                [
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q222996",
+                        "label": "Mac OS X Leopard"
+                    },
+                    {
+                        "entity id": "Q621384",
+                        "label": "Xserve"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kaspersky Internet Security",
+                [
+                    "/wiki/Kaspersky_Internet_Security"
+                ],
+                [
+                    {
+                        "entity id": "Q1588112",
+                        "label": "Kaspersky Internet Security"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Paid / 30 day trial",
+                []
+            ],
+            [
+                "Windows unknown versions x32/x64",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Lavasoft Personal Firewall",
+                [
+                    "/wiki/Lavasoft_Personal_Firewall"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Paid",
+                []
+            ],
+            [
+                "Windows unknown versions x32/x64",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Microsoft Forefront Threat Management Gateway",
+                [
+                    "/wiki/Microsoft_Forefront_Threat_Management_Gateway"
+                ],
+                [
+                    {
+                        "entity id": "Q632851",
+                        "label": "Microsoft Forefront Threat Management Gateway"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Discontinued",
+                []
+            ],
+            [
+                "Windows unknown versions x64",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "NetLimiter",
+                [
+                    "/wiki/NetLimiter"
+                ],
+                [
+                    {
+                        "entity id": "Q4349029",
+                        "label": "NetLimiter"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Paid",
+                []
+            ],
+            [
+                "Windows 10 , 8 , 7 x64",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Norton 360",
+                [
+                    "/wiki/Norton_360"
+                ],
+                [
+                    {
+                        "entity id": "Q741128",
+                        "label": "Norton AntiVirus"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Paid",
+                []
+            ],
+            [
+                "Windows unknown versions x32/x64",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Online Armor Personal Firewall",
+                [
+                    "/wiki/Online_Armor_Personal_Firewall"
+                ],
+                [
+                    {
+                        "entity id": "Q2317454",
+                        "label": "Online Armor Personal Firewall"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Discontinued",
+                []
+            ],
+            [
+                "Windows unknown versions x32/x64",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Outpost Firewall Pro",
+                [
+                    "/wiki/Outpost_Firewall_Pro"
+                ],
+                [
+                    {
+                        "entity id": "Q2995594",
+                        "label": "Outpost Firewall Pro"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Discontinued",
+                []
+            ],
+            [
+                "Windows 10 , 8 , 7 , Vista , XP x32/x64",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "PC Tools Firewall Plus",
+                [
+                    "/wiki/PC_Tools_Firewall_Plus"
+                ],
+                [
+                    {
+                        "entity id": "Q2511315",
+                        "label": "PC Tools Firewall Plus"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Discontinued",
+                []
+            ],
+            [
+                "Windows unknown versions x32/x64",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Sygate Personal Firewall",
+                [
+                    "/wiki/Sygate_Personal_Firewall"
+                ],
+                [
+                    {
+                        "entity id": "Q3979060",
+                        "label": "Sygate Personal Firewall"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Discontinued",
+                []
+            ],
+            [
+                "Windows unknown versions x32",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Windows Firewall",
+                [
+                    "/wiki/Windows_Firewall"
+                ],
+                [
+                    {
+                        "entity id": "Q1068438",
+                        "label": "Windows Firewall"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Included with Windows XP SP2 and later",
+                []
+            ],
+            [
+                "Windows versions x32/x64",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ZoneAlarm",
+                [
+                    "/wiki/ZoneAlarm"
+                ],
+                [
+                    {
+                        "entity id": "Q219866",
+                        "label": "ZoneAlarm"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Free / Paid",
+                []
+            ],
+            [
+                "Windows 10/8.1/8/7/Vista x32/x64 , XP x32",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Netfilter/iptables",
+                [
+                    "/wiki/Netfilter/iptables"
+                ],
+                [
+                    {
+                        "entity id": "Q1545633",
+                        "label": "Netfilter"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "Free",
+                []
+            ],
+            [
+                "Linux kernel module",
+                [
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "nftables",
+                [
+                    "/wiki/Nftables"
+                ],
+                [
+                    {
+                        "entity id": "Q7021717",
+                        "label": "nftables"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "Free",
+                []
+            ],
+            [
+                "Linux kernel ( > =3.13 ) module",
+                [
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Shorewall",
+                [
+                    "/wiki/Shorewall"
+                ],
+                [
+                    {
+                        "entity id": "Q671103",
+                        "label": "Shorewall"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "Free",
+                []
+            ],
+            [
+                "Linux -based appliance",
+                [
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "PeerBlock",
+                [
+                    "/wiki/PeerBlock"
+                ],
+                [
+                    {
+                        "entity id": "Q5242615",
+                        "label": "PeerBlock"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "Free",
+                []
+            ],
+            [
+                "Windows 8/8.1 , 7 , Vista x32/x64",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "NPF",
+                [
+                    "/wiki/NPF_(firewall)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "BSD",
+                [
+                    "/wiki/BSD"
+                ],
+                [
+                    {
+                        "entity id": "Q34264",
+                        "label": "Berkeley Software Distribution"
+                    }
+                ]
+            ],
+            [
+                "Free",
+                []
+            ],
+            [
+                "NetBSD kernel module",
+                [
+                    "/wiki/NetBSD"
+                ],
+                [
+                    {
+                        "entity id": "Q34225",
+                        "label": "NetBSD"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "PF",
+                [
+                    "/wiki/PF_(firewall)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "BSD",
+                [
+                    "/wiki/BSD"
+                ],
+                [
+                    {
+                        "entity id": "Q34264",
+                        "label": "Berkeley Software Distribution"
+                    }
+                ]
+            ],
+            [
+                "Free",
+                []
+            ],
+            [
+                "*BSD kernel module",
+                [
+                    "/wiki/Berkeley_Software_Distribution"
+                ],
+                [
+                    {
+                        "entity id": "Q34264",
+                        "label": "Berkeley Software Distribution"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Firewall software",
+    "section_text": "See also : Personal firewall Some firewall solutions are provided as software solutions that run on general purpose operating systems . The following table lists different firewall software that can be installed / configured in different general purpose operating systems .",
+    "uid": "Comparison_of_firewalls_0",
+    "intro": "The following is a comparison of notable firewalls, starting from simple home firewalls up to the most sophisticated Enterprise-level firewalls."
+}

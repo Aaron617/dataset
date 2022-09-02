@@ -1,0 +1,842 @@
+{
+    "url": "https://en.wikipedia.org/wiki/SI_derived_unit",
+    "title": "SI derived unit",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Symbol",
+            [
+                "/wiki/Symbol"
+            ],
+            [
+                {
+                    "entity id": "Q80071",
+                    "label": "symbol"
+                }
+            ]
+        ],
+        [
+            "Quantity",
+            [
+                "/wiki/Physical_quantity"
+            ],
+            [
+                {
+                    "entity id": "Q107715",
+                    "label": "physical quantity"
+                }
+            ]
+        ],
+        [
+            "Equivalents",
+            []
+        ],
+        [
+            "SI base unit Equivalents",
+            [
+                "/wiki/SI_base_unit"
+            ],
+            [
+                {
+                    "entity id": "Q223662",
+                    "label": "SI base unit"
+                }
+            ]
+        ]
+    ],
+    "data": [
+        [
+            [
+                "hertz",
+                [
+                    "/wiki/Hertz"
+                ],
+                [
+                    {
+                        "entity id": "Q39369",
+                        "label": "hertz"
+                    }
+                ]
+            ],
+            [
+                "Hz",
+                []
+            ],
+            [
+                "frequency",
+                [
+                    "/wiki/Frequency"
+                ],
+                [
+                    {
+                        "entity id": "Q11652",
+                        "label": "frequency"
+                    }
+                ]
+            ],
+            [
+                "1/s",
+                []
+            ],
+            [
+                "s",
+                []
+            ]
+        ],
+        [
+            [
+                "radian",
+                [
+                    "/wiki/Radian"
+                ],
+                [
+                    {
+                        "entity id": "Q33680",
+                        "label": "radian"
+                    }
+                ]
+            ],
+            [
+                "rad",
+                []
+            ],
+            [
+                "angle",
+                [
+                    "/wiki/Angle"
+                ],
+                [
+                    {
+                        "entity id": "Q11352",
+                        "label": "angle"
+                    }
+                ]
+            ],
+            [
+                "m/m",
+                []
+            ],
+            [
+                "1",
+                []
+            ]
+        ],
+        [
+            [
+                "steradian",
+                [
+                    "/wiki/Steradian"
+                ],
+                [
+                    {
+                        "entity id": "Q177612",
+                        "label": "steradian"
+                    }
+                ]
+            ],
+            [
+                "sr",
+                []
+            ],
+            [
+                "solid angle",
+                [
+                    "/wiki/Solid_angle"
+                ],
+                [
+                    {
+                        "entity id": "Q208476",
+                        "label": "solid angle"
+                    }
+                ]
+            ],
+            [
+                "m /m",
+                []
+            ],
+            [
+                "1",
+                []
+            ]
+        ],
+        [
+            [
+                "newton",
+                [
+                    "/wiki/Newton_(unit)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "N",
+                []
+            ],
+            [
+                "force , weight",
+                [
+                    "/wiki/Force",
+                    "/wiki/Weight"
+                ],
+                [
+                    {
+                        "entity id": "Q11402",
+                        "label": "force"
+                    },
+                    {
+                        "entity id": "Q11423",
+                        "label": "mass"
+                    }
+                ]
+            ],
+            [
+                "kg\u22c5m/s",
+                []
+            ],
+            [
+                "kg\u22c5m\u22c5s",
+                []
+            ]
+        ],
+        [
+            [
+                "pascal",
+                [
+                    "/wiki/Pascal_(unit)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Pa",
+                []
+            ],
+            [
+                "pressure , stress",
+                [
+                    "/wiki/Pressure",
+                    "/wiki/Stress_(physics)"
+                ],
+                [
+                    {
+                        "entity id": "Q39552",
+                        "label": "pressure"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "N/m",
+                []
+            ],
+            [
+                "kg\u22c5m \u22c5s",
+                []
+            ]
+        ],
+        [
+            [
+                "joule",
+                [
+                    "/wiki/Joule"
+                ],
+                [
+                    {
+                        "entity id": "Q25269",
+                        "label": "joule"
+                    }
+                ]
+            ],
+            [
+                "J",
+                []
+            ],
+            [
+                "energy , work , heat",
+                [
+                    "/wiki/Energy",
+                    "/wiki/Mechanical_work",
+                    "/wiki/Heat"
+                ],
+                [
+                    {
+                        "entity id": "Q11379",
+                        "label": "energy"
+                    },
+                    {
+                        "entity id": "Q42213",
+                        "label": "work"
+                    },
+                    {
+                        "entity id": "Q169138",
+                        "label": "Miami Heat"
+                    }
+                ]
+            ],
+            [
+                "m\u22c5N , C\u22c5V , W\u22c5s",
+                []
+            ],
+            [
+                "kg\u22c5m \u22c5s",
+                []
+            ]
+        ],
+        [
+            [
+                "watt",
+                [
+                    "/wiki/Watt"
+                ],
+                [
+                    {
+                        "entity id": "Q25236",
+                        "label": "watt"
+                    }
+                ]
+            ],
+            [
+                "W",
+                []
+            ],
+            [
+                "power , radiant flux",
+                [
+                    "/wiki/Power_(physics)",
+                    "/wiki/Radiant_flux"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q1253356",
+                        "label": "radiant flux"
+                    }
+                ]
+            ],
+            [
+                "J/s , V\u22c5A",
+                []
+            ],
+            [
+                "kg\u22c5m \u22c5s",
+                []
+            ]
+        ],
+        [
+            [
+                "coulomb",
+                [
+                    "/wiki/Coulomb"
+                ],
+                [
+                    {
+                        "entity id": "Q25406",
+                        "label": "coulomb"
+                    }
+                ]
+            ],
+            [
+                "C",
+                []
+            ],
+            [
+                "electric charge or quantity of electricity",
+                [
+                    "/wiki/Electric_charge",
+                    "/wiki/Quantity_of_electricity"
+                ],
+                [
+                    {
+                        "entity id": "Q1111",
+                        "label": "electric charge"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "s\u22c5A , F\u22c5V",
+                []
+            ],
+            [
+                "s\u22c5A",
+                []
+            ]
+        ],
+        [
+            [
+                "volt",
+                [
+                    "/wiki/Volt"
+                ],
+                [
+                    {
+                        "entity id": "Q25250",
+                        "label": "volt"
+                    }
+                ]
+            ],
+            [
+                "V",
+                []
+            ],
+            [
+                "voltage , electrical potential difference , electromotive force",
+                [
+                    "/wiki/Voltage",
+                    "/wiki/Electrical_potential_difference",
+                    "/wiki/Electromotive_force"
+                ],
+                [
+                    {
+                        "entity id": "Q25428",
+                        "label": "voltage"
+                    },
+                    {
+                        "entity id": "Q36387873",
+                        "label": "Electrical potential differences and electromotive forces in epithelial tissues"
+                    },
+                    {
+                        "entity id": "Q25428",
+                        "label": "voltage"
+                    }
+                ]
+            ],
+            [
+                "W/A , J/C",
+                []
+            ],
+            [
+                "kg\u22c5m \u22c5s \u22c5A",
+                []
+            ]
+        ],
+        [
+            [
+                "farad",
+                [
+                    "/wiki/Farad"
+                ],
+                [
+                    {
+                        "entity id": "Q131255",
+                        "label": "farad"
+                    }
+                ]
+            ],
+            [
+                "F",
+                []
+            ],
+            [
+                "electrical capacitance",
+                [
+                    "/wiki/Capacitance"
+                ],
+                [
+                    {
+                        "entity id": "Q164399",
+                        "label": "capacitance"
+                    }
+                ]
+            ],
+            [
+                "C/V , s/\u03a9",
+                []
+            ],
+            [
+                "kg \u22c5m \u22c5s \u22c5A",
+                []
+            ]
+        ],
+        [
+            [
+                "ohm",
+                [
+                    "/wiki/Ohm_(unit)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "\u03a9",
+                []
+            ],
+            [
+                "electrical resistance , impedance , reactance",
+                [
+                    "/wiki/Electrical_resistance_and_conductance",
+                    "/wiki/Electrical_impedance",
+                    "/wiki/Reactance_(electronics)"
+                ],
+                [
+                    {
+                        "entity id": "Q106603432",
+                        "label": "electrical resistance and conductance"
+                    },
+                    {
+                        "entity id": "Q179043",
+                        "label": "impedance"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "1/S , V/A",
+                []
+            ],
+            [
+                "kg\u22c5m \u22c5s \u22c5A",
+                []
+            ]
+        ],
+        [
+            [
+                "siemens",
+                [
+                    "/wiki/Siemens_(unit)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "S",
+                []
+            ],
+            [
+                "electrical conductance",
+                [
+                    "/wiki/Electrical_conductance"
+                ],
+                [
+                    {
+                        "entity id": "Q309017",
+                        "label": "electrical conductance"
+                    }
+                ]
+            ],
+            [
+                "1/\u03a9 , A/V",
+                []
+            ],
+            [
+                "kg \u22c5m \u22c5s \u22c5A",
+                []
+            ]
+        ],
+        [
+            [
+                "weber",
+                [
+                    "/wiki/Weber_(unit)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Wb",
+                []
+            ],
+            [
+                "magnetic flux",
+                [
+                    "/wiki/Magnetic_flux"
+                ],
+                [
+                    {
+                        "entity id": "Q177831",
+                        "label": "magnetic flux"
+                    }
+                ]
+            ],
+            [
+                "J/A , T\u22c5m",
+                []
+            ],
+            [
+                "kg\u22c5m \u22c5s \u22c5A",
+                []
+            ]
+        ],
+        [
+            [
+                "tesla",
+                [
+                    "/wiki/Tesla_(unit)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "T",
+                []
+            ],
+            [
+                "magnetic induction , magnetic flux density",
+                [
+                    "/wiki/Magnetic_field",
+                    "/wiki/Magnetic_flux_density"
+                ],
+                [
+                    {
+                        "entity id": "Q11408",
+                        "label": "magnetic field"
+                    },
+                    {
+                        "entity id": "Q30204",
+                        "label": "magnetic flux density"
+                    }
+                ]
+            ],
+            [
+                "V\u22c5s/m , Wb/m , N/ ( A\u22c5m )",
+                []
+            ],
+            [
+                "kg\u22c5s \u22c5A",
+                []
+            ]
+        ],
+        [
+            [
+                "henry",
+                [
+                    "/wiki/Henry_(unit)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "H",
+                []
+            ],
+            [
+                "electrical inductance",
+                [
+                    "/wiki/Inductance"
+                ],
+                [
+                    {
+                        "entity id": "Q177897",
+                        "label": "inductance"
+                    }
+                ]
+            ],
+            [
+                "V\u22c5s/A , \u03a9\u22c5s , Wb/A",
+                []
+            ],
+            [
+                "kg\u22c5m \u22c5s \u22c5A",
+                []
+            ]
+        ],
+        [
+            [
+                "degree Celsius",
+                [
+                    "/wiki/Celsius"
+                ],
+                [
+                    {
+                        "entity id": "Q25267",
+                        "label": "degree Celsius"
+                    }
+                ]
+            ],
+            [
+                "\u00b0C",
+                []
+            ],
+            [
+                "temperature relative to 273.15 K",
+                [
+                    "/wiki/Temperature",
+                    "/wiki/Absolute_zero"
+                ],
+                [
+                    {
+                        "entity id": "Q11466",
+                        "label": "temperature"
+                    },
+                    {
+                        "entity id": "Q81182",
+                        "label": "absolute zero"
+                    }
+                ]
+            ],
+            [
+                "K",
+                []
+            ],
+            [
+                "K",
+                []
+            ]
+        ],
+        [
+            [
+                "lumen",
+                [
+                    "/wiki/Lumen_(unit)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "lm",
+                []
+            ],
+            [
+                "luminous flux",
+                [
+                    "/wiki/Luminous_flux"
+                ],
+                [
+                    {
+                        "entity id": "Q107780",
+                        "label": "luminous flux"
+                    }
+                ]
+            ],
+            [
+                "cd\u22c5sr",
+                []
+            ],
+            [
+                "cd",
+                []
+            ]
+        ],
+        [
+            [
+                "lux",
+                [
+                    "/wiki/Lux"
+                ],
+                [
+                    {
+                        "entity id": "Q32",
+                        "label": "Luxembourg"
+                    }
+                ]
+            ],
+            [
+                "lx",
+                []
+            ],
+            [
+                "illuminance",
+                [
+                    "/wiki/Illuminance"
+                ],
+                [
+                    {
+                        "entity id": "Q194411",
+                        "label": "illuminance"
+                    }
+                ]
+            ],
+            [
+                "lm/m",
+                []
+            ],
+            [
+                "cd\u22c5m",
+                []
+            ]
+        ],
+        [
+            [
+                "becquerel",
+                [
+                    "/wiki/Becquerel"
+                ],
+                [
+                    {
+                        "entity id": "Q102573",
+                        "label": "becquerel"
+                    }
+                ]
+            ],
+            [
+                "Bq",
+                []
+            ],
+            [
+                "radioactivity ( decays per unit time )",
+                [
+                    "/wiki/Radioactivity"
+                ],
+                [
+                    {
+                        "entity id": "Q11448",
+                        "label": "radioactivity"
+                    }
+                ]
+            ],
+            [
+                "1/s",
+                []
+            ],
+            [
+                "s",
+                []
+            ]
+        ],
+        [
+            [
+                "gray",
+                [
+                    "/wiki/Gray_(unit)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Gy",
+                []
+            ],
+            [
+                "absorbed dose ( of ionizing radiation )",
+                [
+                    "/wiki/Absorbed_dose",
+                    "/wiki/Ionizing_radiation"
+                ],
+                [
+                    {
+                        "entity id": "Q215313",
+                        "label": "absorbed dose"
+                    },
+                    {
+                        "entity id": "Q186161",
+                        "label": "ionizing radiation"
+                    }
+                ]
+            ],
+            [
+                "J/kg",
+                []
+            ],
+            [
+                "m \u22c5s",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Derived units with special names",
+    "section_text": "The International System of Units assigns special names to 22 derived units , which includes two dimensionless derived units , the radian ( rad ) and the steradian ( sr ) .",
+    "uid": "SI_derived_unit_0",
+    "intro": "SI derived units are units of measurement derived from the seven base units specified by the International System of Units (SI). They are either dimensionless or can be expressed as a product of one or more of the base units, possibly scaled by an appropriate power of exponentiation. The SI has special names for 22 of these derived units (for example, hertz, the SI unit of measurement of frequency), but the rest merely reflect their derivation: for example, the square metre (m2), the SI derived unit of area; and the kilogram per cubic metre (kg/m3 or kg\u22c5m\u22123), the SI derived unit of density. The names of SI derived units, when written in full, are always in lowercase. However, the symbols for units named after persons are written with an uppercase initial letter. For example, the symbol for hertz is Hz, but the symbol for metre is m."
+}

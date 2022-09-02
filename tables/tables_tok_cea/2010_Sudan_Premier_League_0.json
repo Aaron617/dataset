@@ -1,0 +1,685 @@
+{
+    "url": "https://en.wikipedia.org/wiki/2010_Sudan_Premier_League",
+    "title": "2010 Sudan Premier League",
+    "header": [
+        [
+            "Team",
+            []
+        ],
+        [
+            "Head Coach",
+            []
+        ],
+        [
+            "Venue",
+            []
+        ],
+        [
+            "Capacity",
+            []
+        ],
+        [
+            "City",
+            []
+        ],
+        [
+            "State",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Al-Ahli ( Wad Medani )",
+                [
+                    "/wiki/Al-Ahli_(Wad_Medani)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Algazira Stadium",
+                [
+                    "/wiki/Algazira_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q4723963",
+                        "label": "Algazira Stadium"
+                    }
+                ]
+            ],
+            [
+                "15,000",
+                []
+            ],
+            [
+                "Wad Madani",
+                [
+                    "/wiki/Wad_Madani"
+                ],
+                [
+                    {
+                        "entity id": "Q852528",
+                        "label": "Wad Madani"
+                    }
+                ]
+            ],
+            [
+                "Al Jazirah",
+                [
+                    "/wiki/Al_Jazirah,_Sudan"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Al-Hilal ( Kadougli )",
+                [
+                    "/wiki/Al-Hilal_(Kadougli)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Bakri Abdulgalil",
+                []
+            ],
+            [
+                "Kadugli Stadium",
+                []
+            ],
+            [
+                "1,000",
+                []
+            ],
+            [
+                "Kaduqli",
+                [
+                    "/wiki/Kaduqli"
+                ],
+                [
+                    {
+                        "entity id": "Q1011819",
+                        "label": "Kaduqli"
+                    }
+                ]
+            ],
+            [
+                "South Kurdufan",
+                [
+                    "/wiki/South_Kurdufan_State"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Al-Hilal Omdurman",
+                [
+                    "/wiki/Al-Hilal_Omdurman"
+                ],
+                [
+                    {
+                        "entity id": "Q284461",
+                        "label": "Al-Hilal Club"
+                    }
+                ]
+            ],
+            [
+                "Mesho",
+                [
+                    "/wiki/Milutin_Sredojevi\u0107"
+                ],
+                [
+                    {
+                        "entity id": "Q10384789",
+                        "label": "Milutin Sredojevi\u0107"
+                    }
+                ]
+            ],
+            [
+                "AlHilal Stadium",
+                [
+                    "/wiki/AlHilal_Stadium"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "45,000",
+                []
+            ],
+            [
+                "Omdurman",
+                [
+                    "/wiki/Omdurman"
+                ],
+                [
+                    {
+                        "entity id": "Q180921",
+                        "label": "Omdurman"
+                    }
+                ]
+            ],
+            [
+                "Khartoum",
+                [
+                    "/wiki/Khartoum_State"
+                ],
+                [
+                    {
+                        "entity id": "Q310385",
+                        "label": "Khartoum"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Al-Hilal ( Port Sudan )",
+                [
+                    "/wiki/Al-Hilal_(Port_Sudan)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Stade Port Sudan",
+                [
+                    "/wiki/Stade_Port_Sudan"
+                ],
+                [
+                    {
+                        "entity id": "Q2326163",
+                        "label": "Stade Port Sudan"
+                    }
+                ]
+            ],
+            [
+                "7,000",
+                []
+            ],
+            [
+                "Port Sudan",
+                [
+                    "/wiki/Port_Sudan"
+                ],
+                [
+                    {
+                        "entity id": "Q208718",
+                        "label": "Port Sudan"
+                    }
+                ]
+            ],
+            [
+                "Red Sea",
+                [
+                    "/wiki/Red_Sea_State"
+                ],
+                [
+                    {
+                        "entity id": "Q310120",
+                        "label": "Red Sea"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Al-Ittihad ( Wad Medani )",
+                [
+                    "/wiki/Al-Ittihad_(Wad_Medani)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Mahir Hamam",
+                []
+            ],
+            [
+                "Stade Wad Medani",
+                [
+                    "/wiki/Stade_Wad_Medani"
+                ],
+                [
+                    {
+                        "entity id": "Q2119276",
+                        "label": "Wad Madani Stadium"
+                    }
+                ]
+            ],
+            [
+                "5,000",
+                []
+            ],
+            [
+                "Wad Madani",
+                [
+                    "/wiki/Wad_Madani"
+                ],
+                [
+                    {
+                        "entity id": "Q852528",
+                        "label": "Wad Madani"
+                    }
+                ]
+            ],
+            [
+                "Al Jazirah",
+                [
+                    "/wiki/Al_Jazirah,_Sudan"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Al-Merreikh",
+                [
+                    "/wiki/Al-Merreikh"
+                ],
+                [
+                    {
+                        "entity id": "Q4702891",
+                        "label": "Al-Merreikh Al-Thagher"
+                    }
+                ]
+            ],
+            [
+                "Rodion Ga\u010danin",
+                [
+                    "/wiki/Rodion_Ga\u010danin"
+                ],
+                [
+                    {
+                        "entity id": "Q3447464",
+                        "label": "Rodion Ga\u010danin"
+                    }
+                ]
+            ],
+            [
+                "Al Merreikh Stadium",
+                [
+                    "/wiki/Al_Merreikh_Stadium"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "42,000",
+                []
+            ],
+            [
+                "Omdurman",
+                [
+                    "/wiki/Omdurman"
+                ],
+                [
+                    {
+                        "entity id": "Q180921",
+                        "label": "Omdurman"
+                    }
+                ]
+            ],
+            [
+                "Khartoum",
+                [
+                    "/wiki/Khartoum_State"
+                ],
+                [
+                    {
+                        "entity id": "Q310385",
+                        "label": "Khartoum"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Al-Mourada",
+                [
+                    "/wiki/Al-Mourada"
+                ],
+                [
+                    {
+                        "entity id": "Q2829243",
+                        "label": "Al-Mourada SC"
+                    }
+                ]
+            ],
+            [
+                "Borhan Tia",
+                []
+            ],
+            [
+                "Stade de Omdurman",
+                [
+                    "/wiki/Stade_de_Omdurman"
+                ],
+                [
+                    {
+                        "entity id": "Q7596232",
+                        "label": "Stade de Omdurman"
+                    }
+                ]
+            ],
+            [
+                "14,000",
+                []
+            ],
+            [
+                "Omdurman",
+                [
+                    "/wiki/Omdurman"
+                ],
+                [
+                    {
+                        "entity id": "Q180921",
+                        "label": "Omdurman"
+                    }
+                ]
+            ],
+            [
+                "Khartoum",
+                [
+                    "/wiki/Khartoum_State"
+                ],
+                [
+                    {
+                        "entity id": "Q310385",
+                        "label": "Khartoum"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Al-Nil Al-Hasahesa",
+                [
+                    "/wiki/Al-Nil_Al-Hasahesa"
+                ],
+                [
+                    {
+                        "entity id": "Q4119276",
+                        "label": "Al Nile SC"
+                    }
+                ]
+            ],
+            [
+                "Gamal Abdallah",
+                []
+            ],
+            [
+                "Al-Hasahesa Stadium",
+                []
+            ],
+            [
+                "3,000",
+                []
+            ],
+            [
+                "Al-Hasahesa",
+                []
+            ],
+            [
+                "Al Jazirah",
+                [
+                    "/wiki/Al_Jazirah,_Sudan"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Amal Atbara",
+                [
+                    "/wiki/Amal_Atbara"
+                ],
+                [
+                    {
+                        "entity id": "Q2840931",
+                        "label": "Alamal SC Atbara"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Stade Al-Amal Atbara",
+                [
+                    "/wiki/Stade_Al-Amal_Atbara"
+                ],
+                [
+                    {
+                        "entity id": "Q7596081",
+                        "label": "Stade Al-Amal Atbara"
+                    }
+                ]
+            ],
+            [
+                "4,000",
+                []
+            ],
+            [
+                "Atbara",
+                [
+                    "/wiki/Atbara"
+                ],
+                [
+                    {
+                        "entity id": "Q31892595",
+                        "label": "Atbara"
+                    }
+                ]
+            ],
+            [
+                "River Nile",
+                [
+                    "/wiki/River_Nile_State"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Hay al-Arab Port Sudan",
+                [
+                    "/wiki/Hay_al-Arab_Port_Sudan"
+                ],
+                [
+                    {
+                        "entity id": "Q3826099",
+                        "label": "Hay el-Arab SC"
+                    }
+                ]
+            ],
+            [
+                "Raeft Maki",
+                []
+            ],
+            [
+                "Stade Port Sudan",
+                [
+                    "/wiki/Stade_Port_Sudan"
+                ],
+                [
+                    {
+                        "entity id": "Q2326163",
+                        "label": "Stade Port Sudan"
+                    }
+                ]
+            ],
+            [
+                "7,000",
+                []
+            ],
+            [
+                "Port Sudan",
+                [
+                    "/wiki/Port_Sudan"
+                ],
+                [
+                    {
+                        "entity id": "Q208718",
+                        "label": "Port Sudan"
+                    }
+                ]
+            ],
+            [
+                "Red Sea",
+                [
+                    "/wiki/Red_Sea_State"
+                ],
+                [
+                    {
+                        "entity id": "Q310120",
+                        "label": "Red Sea"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Al-Khartoum",
+                [
+                    "/wiki/Al-Khartoum"
+                ],
+                [
+                    {
+                        "entity id": "Q264506",
+                        "label": "Al Khartoum SC"
+                    }
+                ]
+            ],
+            [
+                "Alfateh Alnager",
+                []
+            ],
+            [
+                "Khartoum Stadium",
+                [
+                    "/wiki/Khartoum_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q1475729",
+                        "label": "Khartoum Stadium"
+                    }
+                ]
+            ],
+            [
+                "33,500",
+                []
+            ],
+            [
+                "Khartoum",
+                [
+                    "/wiki/Khartoum"
+                ],
+                [
+                    {
+                        "entity id": "Q1963",
+                        "label": "Khartoum"
+                    }
+                ]
+            ],
+            [
+                "Khartoum",
+                [
+                    "/wiki/Khartoum_State"
+                ],
+                [
+                    {
+                        "entity id": "Q310385",
+                        "label": "Khartoum"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Al Merghani Kassala",
+                [
+                    "/wiki/Merghani_Kassala"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Mubarak Sulieman",
+                []
+            ],
+            [
+                "Stade Al-Merghani Kassala",
+                [
+                    "/wiki/Stade_Al-Merghani_Kassala"
+                ],
+                [
+                    {
+                        "entity id": "Q7596085",
+                        "label": "Stade Al-Merghani Kassala"
+                    }
+                ]
+            ],
+            [
+                "11,000",
+                []
+            ],
+            [
+                "Kassala",
+                [
+                    "/wiki/Kassala"
+                ],
+                [
+                    {
+                        "entity id": "Q686813",
+                        "label": "Kassala"
+                    }
+                ]
+            ],
+            [
+                "Kassala",
+                [
+                    "/wiki/Kassala_(state)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Team information",
+    "section_text": "Al-AhliAl-IttihadAl-Hilal ( Kadougli ) Omdurman Al-HilalAl-MouradaAl-MerreikhHay al-ArabAl-Hilal ( Port Sudan ) Al-KhartoumAl-NilAl-MerghaniAmal Atbara Locations of teams in the Sudan Premier League 2009",
+    "uid": "2010_Sudan_Premier_League_0",
+    "intro": "The 2010 Sudan Premier League was the 39th edition of the highest club level football competition in Sudan. The competition started on 2010-02-20. For the 2010 season, the number of teams has been expanded from 13 to 14 teams. Al-Hilal Omdurman are the defending champions."
+}

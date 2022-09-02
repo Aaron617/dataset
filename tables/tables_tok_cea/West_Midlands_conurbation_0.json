@@ -1,0 +1,816 @@
+{
+    "url": "https://en.wikipedia.org/wiki/West_Midlands_conurbation",
+    "title": "West Midlands conurbation",
+    "header": [
+        [
+            "Rank",
+            []
+        ],
+        [
+            "Settlement",
+            []
+        ],
+        [
+            "Population ( 2011 )",
+            []
+        ],
+        [
+            "Notes on significant changes since 2001",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1",
+                []
+            ],
+            [
+                "Birmingham",
+                [
+                    "/wiki/Birmingham"
+                ],
+                [
+                    {
+                        "entity id": "Q2256",
+                        "label": "Birmingham"
+                    }
+                ]
+            ],
+            [
+                "1,085,810",
+                []
+            ],
+            [
+                "Gained Quinton from Oldbury - Smethwick USD . Gained Minworth from Sutton Coldfield USD",
+                [
+                    "/wiki/Quinton,_Birmingham",
+                    "/wiki/Oldbury,_West_Midlands",
+                    "/wiki/Smethwick",
+                    "/wiki/Minworth",
+                    "/wiki/Sutton_Coldfield"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q1857563",
+                        "label": "Oldbury"
+                    },
+                    {
+                        "entity id": "Q1018565",
+                        "label": "Smethwick"
+                    },
+                    {
+                        "entity id": "Q6871222",
+                        "label": "Minworth"
+                    },
+                    {
+                        "entity id": "Q868196",
+                        "label": "Sutton Coldfield"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2",
+                []
+            ],
+            [
+                "Wolverhampton",
+                [
+                    "/wiki/Wolverhampton"
+                ],
+                [
+                    {
+                        "entity id": "Q19500",
+                        "label": "Wolverhampton Wanderers F.C."
+                    }
+                ]
+            ],
+            [
+                "210,319",
+                []
+            ],
+            [
+                "Bilston and Wednesfield removed from 2001 . The three BUASDs combined total 265,178 . Essington removed and placed within Willenhall BUASD",
+                [
+                    "/wiki/Bilston",
+                    "/wiki/Wednesfield",
+                    "/wiki/Essington",
+                    "/wiki/Willenhall"
+                ],
+                [
+                    {
+                        "entity id": "Q1015967",
+                        "label": "Bilston"
+                    },
+                    {
+                        "entity id": "Q2260198",
+                        "label": "Wednesfield"
+                    },
+                    {
+                        "entity id": "Q2266985",
+                        "label": "Essington"
+                    },
+                    {
+                        "entity id": "Q617799",
+                        "label": "Willenhall"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "3",
+                []
+            ],
+            [
+                "Solihull",
+                [
+                    "/wiki/Solihull"
+                ],
+                [
+                    {
+                        "entity id": "Q397343",
+                        "label": "Solihull"
+                    }
+                ]
+            ],
+            [
+                "123,187",
+                []
+            ],
+            [
+                "Gained Shelly Green and Knowle - Bentley Heath from 2001",
+                [
+                    "/wiki/Shelly_Green",
+                    "/wiki/Knowle,_West_Midlands",
+                    "/wiki/Bentley_Heath"
+                ],
+                [
+                    {
+                        "entity id": "Q16897175",
+                        "label": "Shelly Green"
+                    },
+                    {
+                        "entity id": "Q2332337",
+                        "label": "Knowle"
+                    },
+                    {
+                        "entity id": "Q4890479",
+                        "label": "Bentley Heath"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "4",
+                []
+            ],
+            [
+                "Sutton Coldfield",
+                [
+                    "/wiki/Sutton_Coldfield"
+                ],
+                [
+                    {
+                        "entity id": "Q868196",
+                        "label": "Sutton Coldfield"
+                    }
+                ]
+            ],
+            [
+                "95,107",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "5",
+                []
+            ],
+            [
+                "Dudley",
+                [
+                    "/wiki/Dudley"
+                ],
+                [
+                    {
+                        "entity id": "Q213832",
+                        "label": "Dudley"
+                    }
+                ]
+            ],
+            [
+                "79,379",
+                []
+            ],
+            [
+                "Coseley , Kingswinford , Brierley Hill and Sedgley removed from 2011 . The five BUASDs combined total 215,693 . Gained Cradley Heath and Quarry Bank from Oldbury - Smethwick USD",
+                [
+                    "/wiki/Coseley",
+                    "/wiki/Kingswinford",
+                    "/wiki/Brierley_Hill",
+                    "/wiki/Sedgley",
+                    "/wiki/Cradley_Heath",
+                    "/wiki/Quarry_Bank",
+                    "/wiki/Oldbury,_West_Midlands",
+                    "/wiki/Smethwick"
+                ],
+                [
+                    {
+                        "entity id": "Q3695060",
+                        "label": "Coseley"
+                    },
+                    {
+                        "entity id": "Q6413749",
+                        "label": "Kingswinford"
+                    },
+                    {
+                        "entity id": "Q2734868",
+                        "label": "Brierley Hill"
+                    },
+                    {
+                        "entity id": "Q2187271",
+                        "label": "Sedgley"
+                    },
+                    {
+                        "entity id": "Q3001983",
+                        "label": "Cradley Heath"
+                    },
+                    {
+                        "entity id": "Q7269205",
+                        "label": "Quarry Bank"
+                    },
+                    {
+                        "entity id": "Q1857563",
+                        "label": "Oldbury"
+                    },
+                    {
+                        "entity id": "Q1018565",
+                        "label": "Smethwick"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "6",
+                []
+            ],
+            [
+                "West Bromwich",
+                [
+                    "/wiki/West_Bromwich"
+                ],
+                [
+                    {
+                        "entity id": "Q212826",
+                        "label": "West Bromwich"
+                    }
+                ]
+            ],
+            [
+                "72,945",
+                []
+            ],
+            [
+                "Wednesbury and Tipton removed from 2001 . Town split in two by Sandwell Valley and the two parts are now considered separately . The four BUASDs combined total 153,366 . Gained Yew Tree from 2001",
+                [
+                    "/wiki/Wednesbury",
+                    "/wiki/Tipton",
+                    "/wiki/Sandwell_Valley",
+                    "/wiki/Yew_Tree,_West_Bromwich"
+                ],
+                [
+                    {
+                        "entity id": "Q501023",
+                        "label": "Wednesbury"
+                    },
+                    {
+                        "entity id": "Q994988",
+                        "label": "Tipton"
+                    },
+                    {
+                        "entity id": "Q7417060",
+                        "label": "Sandwell Valley"
+                    },
+                    {
+                        "entity id": "Q8053325",
+                        "label": "Yew Tree, West Bromwich"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "7",
+                []
+            ],
+            [
+                "Walsall",
+                [
+                    "/wiki/Walsall"
+                ],
+                [
+                    {
+                        "entity id": "Q19644",
+                        "label": "Walsall F.C."
+                    }
+                ]
+            ],
+            [
+                "67,594",
+                []
+            ],
+            [
+                "Willenhall , Darlaston and Bloxwich removed from 2001 . The four BUASDs combined total 185,114",
+                [
+                    "/wiki/Willenhall",
+                    "/wiki/Darlaston",
+                    "/wiki/Bloxwich"
+                ],
+                [
+                    {
+                        "entity id": "Q617799",
+                        "label": "Willenhall"
+                    },
+                    {
+                        "entity id": "Q2571235",
+                        "label": "Darlaston"
+                    },
+                    {
+                        "entity id": "Q2571140",
+                        "label": "Bloxwich"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "8",
+                []
+            ],
+            [
+                "Stourbridge",
+                [
+                    "/wiki/Stourbridge"
+                ],
+                [
+                    {
+                        "entity id": "Q661707",
+                        "label": "Stourbridge"
+                    }
+                ]
+            ],
+            [
+                "63,298",
+                []
+            ],
+            [
+                "Gained Hagley from 2001",
+                [
+                    "/wiki/Hagley"
+                ],
+                [
+                    {
+                        "entity id": "Q1009859",
+                        "label": "Hagley"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "9",
+                []
+            ],
+            [
+                "Halesowen",
+                [
+                    "/wiki/Halesowen"
+                ],
+                [
+                    {
+                        "entity id": "Q612260",
+                        "label": "Halesowen"
+                    }
+                ]
+            ],
+            [
+                "58,135",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "10",
+                []
+            ],
+            [
+                "Willenhall",
+                [
+                    "/wiki/Willenhall"
+                ],
+                [
+                    {
+                        "entity id": "Q617799",
+                        "label": "Willenhall"
+                    }
+                ]
+            ],
+            [
+                "51,429",
+                []
+            ],
+            [
+                "New in 2011 . Previously part of Walsall USD , but also gained Essington from Wolverhampton USD",
+                [
+                    "/wiki/Walsall",
+                    "/wiki/Essington",
+                    "/wiki/Wolverhampton"
+                ],
+                [
+                    {
+                        "entity id": "Q19644",
+                        "label": "Walsall F.C."
+                    },
+                    {
+                        "entity id": "Q2266985",
+                        "label": "Essington"
+                    },
+                    {
+                        "entity id": "Q19500",
+                        "label": "Wolverhampton Wanderers F.C."
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "11",
+                []
+            ],
+            [
+                "Kingswinford",
+                [
+                    "/wiki/Kingswinford"
+                ],
+                [
+                    {
+                        "entity id": "Q6413749",
+                        "label": "Kingswinford"
+                    }
+                ]
+            ],
+            [
+                "50,801",
+                []
+            ],
+            [
+                "New in 2011 . Previously part of Dudley USD",
+                [
+                    "/wiki/Dudley"
+                ],
+                [
+                    {
+                        "entity id": "Q213832",
+                        "label": "Dudley"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "12",
+                []
+            ],
+            [
+                "Smethwick",
+                [
+                    "/wiki/Smethwick"
+                ],
+                [
+                    {
+                        "entity id": "Q1018565",
+                        "label": "Smethwick"
+                    }
+                ]
+            ],
+            [
+                "48,765",
+                []
+            ],
+            [
+                "New in 2011 . Previously part of Oldbury -Smethwick USD",
+                [
+                    "/wiki/Oldbury,_West_Midlands"
+                ],
+                [
+                    {
+                        "entity id": "Q1857563",
+                        "label": "Oldbury"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "13",
+                []
+            ],
+            [
+                "Bloxwich",
+                [
+                    "/wiki/Bloxwich"
+                ],
+                [
+                    {
+                        "entity id": "Q2571140",
+                        "label": "Bloxwich"
+                    }
+                ]
+            ],
+            [
+                "47,288",
+                []
+            ],
+            [
+                "New in 2011 . Previously part of Walsall USD",
+                [
+                    "/wiki/Walsall"
+                ],
+                [
+                    {
+                        "entity id": "Q19644",
+                        "label": "Walsall F.C."
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "13",
+                []
+            ],
+            [
+                "Tipton",
+                [
+                    "/wiki/Tipton"
+                ],
+                [
+                    {
+                        "entity id": "Q994988",
+                        "label": "Tipton"
+                    }
+                ]
+            ],
+            [
+                "42,407",
+                []
+            ],
+            [
+                "New in 2011 . Previously part of West Bromwich USD",
+                [
+                    "/wiki/West_Bromwich"
+                ],
+                [
+                    {
+                        "entity id": "Q212826",
+                        "label": "West Bromwich"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "14",
+                []
+            ],
+            [
+                "Aldridge",
+                [
+                    "/wiki/Aldridge"
+                ],
+                [
+                    {
+                        "entity id": "Q50285502",
+                        "label": "Aldridge"
+                    }
+                ]
+            ],
+            [
+                "39,463",
+                []
+            ],
+            [
+                "Gained Rushall , Shelfield and Pelsall from 2001",
+                [
+                    "/wiki/Rushall,_West_Midlands",
+                    "/wiki/Shelfield",
+                    "/wiki/Pelsall"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q7493600",
+                        "label": "Shelfield"
+                    },
+                    {
+                        "entity id": "Q7161724",
+                        "label": "Pelsall"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "15",
+                []
+            ],
+            [
+                "Rowley Regis",
+                [
+                    "/wiki/Rowley_Regis"
+                ],
+                [
+                    {
+                        "entity id": "Q2571152",
+                        "label": "Rowley Regis"
+                    }
+                ]
+            ],
+            [
+                "34,260",
+                []
+            ],
+            [
+                "New in 2011 . Previously part of Oldbury - Smethwick USD",
+                [
+                    "/wiki/Oldbury,_West_Midlands",
+                    "/wiki/Smethwick"
+                ],
+                [
+                    {
+                        "entity id": "Q1857563",
+                        "label": "Oldbury"
+                    },
+                    {
+                        "entity id": "Q1018565",
+                        "label": "Smethwick"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "16",
+                []
+            ],
+            [
+                "Brierley Hill",
+                [
+                    "/wiki/Brierley_Hill"
+                ],
+                [
+                    {
+                        "entity id": "Q2734868",
+                        "label": "Brierley Hill"
+                    }
+                ]
+            ],
+            [
+                "31,430",
+                []
+            ],
+            [
+                "New in 2011 . Previously part of Dudley USD",
+                [
+                    "/wiki/Dudley"
+                ],
+                [
+                    {
+                        "entity id": "Q213832",
+                        "label": "Dudley"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "17",
+                []
+            ],
+            [
+                "Sedgley",
+                [
+                    "/wiki/Sedgley"
+                ],
+                [
+                    {
+                        "entity id": "Q2187271",
+                        "label": "Sedgley"
+                    }
+                ]
+            ],
+            [
+                "30,979",
+                []
+            ],
+            [
+                "New in 2011 . Previously part of Dudley USD",
+                [
+                    "/wiki/Dudley"
+                ],
+                [
+                    {
+                        "entity id": "Q213832",
+                        "label": "Dudley"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "18",
+                []
+            ],
+            [
+                "Bilston",
+                [
+                    "/wiki/Bilston"
+                ],
+                [
+                    {
+                        "entity id": "Q1015967",
+                        "label": "Bilston"
+                    }
+                ]
+            ],
+            [
+                "29,556",
+                []
+            ],
+            [
+                "New in 2011 . Previously part of Wolverhampton USD",
+                [
+                    "/wiki/Wolverhampton"
+                ],
+                [
+                    {
+                        "entity id": "Q19500",
+                        "label": "Wolverhampton Wanderers F.C."
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "19",
+                []
+            ],
+            [
+                "Wednesfield",
+                [
+                    "/wiki/Wednesfield"
+                ],
+                [
+                    {
+                        "entity id": "Q2260198",
+                        "label": "Wednesfield"
+                    }
+                ]
+            ],
+            [
+                "25,303",
+                []
+            ],
+            [
+                "New in 2011 . Previously part of Wolverhampton USD",
+                [
+                    "/wiki/Wolverhampton"
+                ],
+                [
+                    {
+                        "entity id": "Q19500",
+                        "label": "Wolverhampton Wanderers F.C."
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Settlements -- 2011 Census",
+    "section_text": "The West Midlands Built Up Area consists of the below settlements . Due to the change in methodology between the 2001 and 2011 Census , and the amount of change between 2011 Census and previous census data , it is impossible to compare the data directly between 2011 and earlier Censuses .",
+    "uid": "West_Midlands_conurbation_0",
+    "intro": "The West Midlands conurbation is the large conurbation that includes the cities of Birmingham and Wolverhampton and the towns of Sutton Coldfield, Dudley, Walsall, West Bromwich, Solihull, Stourbridge and Halesowen in the English West Midlands. Not to be confused with the region or metropolitan county of the same name, the conurbation does not include parts of the metropolitan county such as Coventry, but does include parts of the surrounding counties of Staffordshire (e.g. Little Aston, Perton and Essington) and Worcestershire (such as Hagley and Hollywood). According to the 2011 Census the area had a population of 2,440,986, making it the third most populated in the United Kingdom behind the Greater London and Greater Manchester Built Up Areas. However it should be stated that the Conurbation sits within the UK's (and therefore England's) largest Metropolitan Area outside London (known as the Birmingham Metropolitan Area). The conurbation has several other unofficial names, such as Greater Birmingham, the Birmingham conurbation, the Birmingham-Wolverhampton conurbation and the Birmingham-Black Country conurbation with the latter gaining wide traction as an alternative to the generally unliked official name of the Conurbation. The conurbation is polycentric - Birmingham and Wolverhampton have separate Eurostat Larger Urban Zones, and there are separate Travel to Work areas defined for Birmingham, Wolverhampton, Dudley & Sandwell and Walsall & Cannock; whilst the extreme south-west corner of the conurbation at Hagley is within the Kidderminster Travel to Work Area, and the extreme south-east corner is within the Warwick & Stratford upon Avon TTWA."
+}

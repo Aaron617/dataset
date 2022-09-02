@@ -1,0 +1,443 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_supermarket_chains_in_Finland",
+    "title": "List of supermarket chains in Finland",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Stores",
+            []
+        ],
+        [
+            "Type of stores",
+            []
+        ],
+        [
+            "Parent",
+            [
+                "/wiki/Holding_company"
+            ],
+            [
+                {
+                    "entity id": "Q219577",
+                    "label": "holding company"
+                }
+            ]
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Alepa",
+                [
+                    "/wiki/Alepa"
+                ],
+                [
+                    {
+                        "entity id": "Q4716167",
+                        "label": "Alepa"
+                    }
+                ]
+            ],
+            [
+                "111",
+                []
+            ],
+            [
+                "convenience",
+                []
+            ],
+            [
+                "S Group",
+                [
+                    "/wiki/S_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q3892249",
+                        "label": "S Group"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Alko",
+                [
+                    "/wiki/Alko"
+                ],
+                [
+                    {
+                        "entity id": "Q1849187",
+                        "label": "Alko"
+                    }
+                ]
+            ],
+            [
+                "400",
+                []
+            ],
+            [
+                "liquor",
+                []
+            ],
+            [
+                "Finnish state",
+                [
+                    "/wiki/Finland"
+                ],
+                [
+                    {
+                        "entity id": "Q33",
+                        "label": "Finland"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "K-Citymarket",
+                [
+                    "/wiki/K-Citymarket"
+                ],
+                [
+                    {
+                        "entity id": "Q11868561",
+                        "label": "K-Citymarket"
+                    }
+                ]
+            ],
+            [
+                "80",
+                []
+            ],
+            [
+                "hypermarket",
+                []
+            ],
+            [
+                "Kesko Oyj",
+                [
+                    "/wiki/Kesko"
+                ],
+                [
+                    {
+                        "entity id": "Q1739782",
+                        "label": "Kesko"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "K-Market",
+                [
+                    "/wiki/Kesko"
+                ],
+                [
+                    {
+                        "entity id": "Q1739782",
+                        "label": "Kesko"
+                    }
+                ]
+            ],
+            [
+                "900",
+                []
+            ],
+            [
+                "convenience",
+                []
+            ],
+            [
+                "Kesko Oyj",
+                [
+                    "/wiki/Kesko"
+                ],
+                [
+                    {
+                        "entity id": "Q1739782",
+                        "label": "Kesko"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "K-Supermarket",
+                [
+                    "/wiki/Kesko"
+                ],
+                [
+                    {
+                        "entity id": "Q1739782",
+                        "label": "Kesko"
+                    }
+                ]
+            ],
+            [
+                "200",
+                []
+            ],
+            [
+                "supermarket",
+                []
+            ],
+            [
+                "Kesko Oyj",
+                [
+                    "/wiki/Kesko"
+                ],
+                [
+                    {
+                        "entity id": "Q1739782",
+                        "label": "Kesko"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Lidl",
+                [
+                    "/wiki/Lidl"
+                ],
+                [
+                    {
+                        "entity id": "Q151954",
+                        "label": "Lidl"
+                    }
+                ]
+            ],
+            [
+                "160",
+                []
+            ],
+            [
+                "discount",
+                []
+            ],
+            [
+                "Lidl Suomi Ky",
+                [
+                    "/wiki/Lidl"
+                ],
+                [
+                    {
+                        "entity id": "Q151954",
+                        "label": "Lidl"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Prisma",
+                [
+                    "/wiki/S_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q3892249",
+                        "label": "S Group"
+                    }
+                ]
+            ],
+            [
+                "65",
+                []
+            ],
+            [
+                "hypermarket",
+                []
+            ],
+            [
+                "S Group",
+                [
+                    "/wiki/S_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q3892249",
+                        "label": "S Group"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "R-kioski",
+                [
+                    "/wiki/R-kioski"
+                ],
+                [
+                    {
+                        "entity id": "Q1571400",
+                        "label": "R-kioski"
+                    }
+                ]
+            ],
+            [
+                "548",
+                []
+            ],
+            [
+                "convenience",
+                []
+            ],
+            [
+                "Reitan Group",
+                [
+                    "/wiki/Reitan_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q3357065",
+                        "label": "Reitan AS"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "S-Market",
+                [
+                    "/wiki/S_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q3892249",
+                        "label": "S Group"
+                    }
+                ]
+            ],
+            [
+                "400",
+                []
+            ],
+            [
+                "supermarket",
+                []
+            ],
+            [
+                "S Group",
+                [
+                    "/wiki/S_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q3892249",
+                        "label": "S Group"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Sale",
+                [
+                    "/wiki/Sale_(chain_store)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "240",
+                []
+            ],
+            [
+                "convenience",
+                []
+            ],
+            [
+                "S Group",
+                [
+                    "/wiki/S_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q3892249",
+                        "label": "S Group"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Stockmann",
+                [
+                    "/wiki/Stockmann"
+                ],
+                [
+                    {
+                        "entity id": "Q644390",
+                        "label": "Stockmann"
+                    }
+                ]
+            ],
+            [
+                "6",
+                []
+            ],
+            [
+                "department store / supermarket",
+                []
+            ],
+            [
+                "Stockmann",
+                [
+                    "/wiki/Stockmann"
+                ],
+                [
+                    {
+                        "entity id": "Q644390",
+                        "label": "Stockmann"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Tokmanni [ fi ]",
+                []
+            ],
+            [
+                "150",
+                []
+            ],
+            [
+                "discount",
+                []
+            ],
+            [
+                "Tokmanni [ fi ]",
+                []
+            ]
+        ],
+        [
+            [
+                "M-Market",
+                []
+            ],
+            [
+                "67",
+                []
+            ],
+            [
+                "Supermarket",
+                []
+            ],
+            [
+                "M-Itsen\u00e4iset kauppiaat Oy",
+                []
+            ]
+        ]
+    ],
+    "section_title": "",
+    "section_text": "This is a list of supermarket chains in Finland .",
+    "uid": "List_of_supermarket_chains_in_Finland_0",
+    "intro": "This is a list of supermarket chains in Finland."
+}

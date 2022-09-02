@@ -1,0 +1,569 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+    "title": "List of computer system emulators",
+    "header": [
+        [
+            "Emulator",
+            []
+        ],
+        [
+            "Latest version",
+            []
+        ],
+        [
+            "Released",
+            []
+        ],
+        [
+            "Guest emulation capabilities",
+            []
+        ],
+        [
+            "Host Operating System",
+            []
+        ],
+        [
+            "License",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "E-UAE",
+                [
+                    "/wiki/E-UAE"
+                ],
+                [
+                    {
+                        "entity id": "Q9249745",
+                        "label": "E-UAE"
+                    }
+                ]
+            ],
+            [
+                "0.8.29wip4",
+                []
+            ],
+            [
+                "March 27 , 2007",
+                []
+            ],
+            [
+                "Amiga",
+                [
+                    "/wiki/Amiga"
+                ],
+                [
+                    {
+                        "entity id": "Q100047",
+                        "label": "Commodore Amiga"
+                    }
+                ]
+            ],
+            [
+                "Unix , OS X , BeOS",
+                [
+                    "/wiki/BeOS"
+                ],
+                [
+                    {
+                        "entity id": "Q62563",
+                        "label": "BeOS"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Fellow",
+                [
+                    "/wiki/Fellow_(computing)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "0.5.7.1067",
+                []
+            ],
+            [
+                "January 2 , 2018",
+                []
+            ],
+            [
+                "Amiga",
+                [
+                    "/wiki/Amiga"
+                ],
+                [
+                    {
+                        "entity id": "Q100047",
+                        "label": "Commodore Amiga"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FS-UAE",
+                [
+                    "/wiki/Unix_Amiga_Emulator"
+                ],
+                [
+                    {
+                        "entity id": "Q471007",
+                        "label": "UAE"
+                    }
+                ]
+            ],
+            [
+                "2.8.3",
+                []
+            ],
+            [
+                "January 8 , 2017",
+                []
+            ],
+            [
+                "Amiga",
+                [
+                    "/wiki/Amiga"
+                ],
+                [
+                    {
+                        "entity id": "Q100047",
+                        "label": "Commodore Amiga"
+                    }
+                ]
+            ],
+            [
+                "Windows , OS X , Linux , FreeBSD",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MAME ( formerly MESS )",
+                [
+                    "/wiki/MAME",
+                    "/wiki/Multi_Emulator_Super_System"
+                ],
+                [
+                    {
+                        "entity id": "Q1054055",
+                        "label": "MAME"
+                    },
+                    {
+                        "entity id": "Q778644",
+                        "label": "MESS"
+                    }
+                ]
+            ],
+            [
+                "0.196",
+                []
+            ],
+            [
+                "March 28 , 2018",
+                []
+            ],
+            [
+                "Various computers , consoles , and arcade systems",
+                []
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "New BSD , GPLv2 or later",
+                [
+                    "/wiki/New_BSD",
+                    "/wiki/GPLv2"
+                ],
+                [
+                    {
+                        "entity id": "Q18491847",
+                        "label": "3-clause BSD License"
+                    },
+                    {
+                        "entity id": "Q10513450",
+                        "label": "GNU General Public License, version 2.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MyUAE",
+                []
+            ],
+            [
+                "0.91",
+                []
+            ],
+            [
+                "August 24 , 2006",
+                []
+            ],
+            [
+                "Amiga",
+                [
+                    "/wiki/Amiga"
+                ],
+                [
+                    {
+                        "entity id": "Q100047",
+                        "label": "Commodore Amiga"
+                    }
+                ]
+            ],
+            [
+                "Palm OS",
+                [
+                    "/wiki/Palm_OS"
+                ],
+                [
+                    {
+                        "entity id": "Q274582",
+                        "label": "Palm OS"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "PalmUAE",
+                []
+            ],
+            [
+                "1.0",
+                []
+            ],
+            [
+                "September 12 , 2006",
+                []
+            ],
+            [
+                "Amiga",
+                [
+                    "/wiki/Amiga"
+                ],
+                [
+                    {
+                        "entity id": "Q100047",
+                        "label": "Commodore Amiga"
+                    }
+                ]
+            ],
+            [
+                "Palm OS",
+                [
+                    "/wiki/Palm_OS"
+                ],
+                [
+                    {
+                        "entity id": "Q274582",
+                        "label": "Palm OS"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "PocketUAE",
+                []
+            ],
+            [
+                "20060121",
+                []
+            ],
+            [
+                "January 21 , 2006",
+                []
+            ],
+            [
+                "Amiga",
+                [
+                    "/wiki/Amiga"
+                ],
+                [
+                    {
+                        "entity id": "Q100047",
+                        "label": "Commodore Amiga"
+                    }
+                ]
+            ],
+            [
+                "Pocket PC",
+                [
+                    "/wiki/Pocket_PC"
+                ],
+                [
+                    {
+                        "entity id": "Q29758",
+                        "label": "Pocket PC"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "UAE",
+                [
+                    "/wiki/Unix_Amiga_Emulator"
+                ],
+                [
+                    {
+                        "entity id": "Q471007",
+                        "label": "UAE"
+                    }
+                ]
+            ],
+            [
+                "0.8.29",
+                []
+            ],
+            [
+                "UAE v0.8.29 2008-11-30 , FS-UAE v2.6.2 2015-10-27 , E-UAE v0.8.29 2007-03-28",
+                []
+            ],
+            [
+                "Amiga",
+                [
+                    "/wiki/Amiga"
+                ],
+                [
+                    {
+                        "entity id": "Q100047",
+                        "label": "Commodore Amiga"
+                    }
+                ]
+            ],
+            [
+                "Unix , BeOS , NeXTSTEP",
+                [
+                    "/wiki/BeOS",
+                    "/wiki/NeXTSTEP"
+                ],
+                [
+                    {
+                        "entity id": "Q62563",
+                        "label": "BeOS"
+                    },
+                    {
+                        "entity id": "Q831367",
+                        "label": "NeXTSTEP"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "UAE4All",
+                []
+            ],
+            [
+                "rc1",
+                []
+            ],
+            [
+                "November 3 , 2006",
+                []
+            ],
+            [
+                "Amiga",
+                [
+                    "/wiki/Amiga"
+                ],
+                [
+                    {
+                        "entity id": "Q100047",
+                        "label": "Commodore Amiga"
+                    }
+                ]
+            ],
+            [
+                "Windows , Linux , Dreamcast , Dingoo",
+                [
+                    "/wiki/Dreamcast",
+                    "/wiki/Dingoo"
+                ],
+                [
+                    {
+                        "entity id": "Q184198",
+                        "label": "Sega Dreamcast"
+                    },
+                    {
+                        "entity id": "Q935719",
+                        "label": "Dingoo A320"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "WinUAE",
+                [
+                    "/wiki/WinUAE"
+                ],
+                [
+                    {
+                        "entity id": "Q9374948",
+                        "label": "WinUAE"
+                    }
+                ]
+            ],
+            [
+                "4.1.0",
+                []
+            ],
+            [
+                "December 5 , 2018",
+                []
+            ],
+            [
+                "Amiga",
+                [
+                    "/wiki/Amiga"
+                ],
+                [
+                    {
+                        "entity id": "Q100047",
+                        "label": "Commodore Amiga"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "32-bit guest systems -- Amiga",
+    "section_text": "",
+    "uid": "List_of_computer_system_emulators_12",
+    "intro": "This article lists software and hardware that emulates computing platforms. The host in this article is the system running the emulator, and the guest is the system being emulated. The list is organized by guest operating system (the system being emulated), grouped by bitness. Each section contains a list of emulators capable of emulating the specified guest, details of the range of guest systems able to be emulated, and the required host environment and licensing."
+}

@@ -1,0 +1,464 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Pacific_Northwest",
+    "title": "Pacific Northwest",
+    "header": [
+        [
+            "City",
+            []
+        ],
+        [
+            "State/Province",
+            []
+        ],
+        [
+            "Population",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Seattle",
+                [
+                    "/wiki/Seattle"
+                ],
+                [
+                    {
+                        "entity id": "Q5083",
+                        "label": "Seattle"
+                    }
+                ]
+            ],
+            [
+                "Washington",
+                []
+            ],
+            [
+                "704,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Portland",
+                [
+                    "/wiki/Portland,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q6106",
+                        "label": "Portland"
+                    }
+                ]
+            ],
+            [
+                "Oregon",
+                []
+            ],
+            [
+                "658,347",
+                []
+            ]
+        ],
+        [
+            [
+                "Vancouver",
+                [
+                    "/wiki/Vancouver"
+                ],
+                [
+                    {
+                        "entity id": "Q24639",
+                        "label": "Vancouver"
+                    }
+                ]
+            ],
+            [
+                "British Columbia",
+                []
+            ],
+            [
+                "631,486",
+                []
+            ]
+        ],
+        [
+            [
+                "Surrey",
+                [
+                    "/wiki/Surrey,_British_Columbia"
+                ],
+                [
+                    {
+                        "entity id": "Q390583",
+                        "label": "Surrey"
+                    }
+                ]
+            ],
+            [
+                "British Columbia",
+                []
+            ],
+            [
+                "517,887",
+                []
+            ]
+        ],
+        [
+            [
+                "Boise",
+                [
+                    "/wiki/Boise,_Idaho"
+                ],
+                [
+                    {
+                        "entity id": "Q35775",
+                        "label": "Boise"
+                    }
+                ]
+            ],
+            [
+                "Idaho",
+                []
+            ],
+            [
+                "226,570",
+                []
+            ]
+        ],
+        [
+            [
+                "Burnaby",
+                [
+                    "/wiki/Burnaby"
+                ],
+                [
+                    {
+                        "entity id": "Q244025",
+                        "label": "Burnaby"
+                    }
+                ]
+            ],
+            [
+                "British Columbia",
+                []
+            ],
+            [
+                "223,218",
+                []
+            ]
+        ],
+        [
+            [
+                "Spokane",
+                [
+                    "/wiki/Spokane,_Washington"
+                ],
+                [
+                    {
+                        "entity id": "Q187805",
+                        "label": "Spokane"
+                    }
+                ]
+            ],
+            [
+                "Washington",
+                []
+            ],
+            [
+                "210,721",
+                []
+            ]
+        ],
+        [
+            [
+                "Tacoma",
+                [
+                    "/wiki/Tacoma,_Washington"
+                ],
+                [
+                    {
+                        "entity id": "Q199797",
+                        "label": "Tacoma"
+                    }
+                ]
+            ],
+            [
+                "Washington",
+                []
+            ],
+            [
+                "198,397",
+                []
+            ]
+        ],
+        [
+            [
+                "Richmond",
+                [
+                    "/wiki/Richmond,_British_Columbia"
+                ],
+                [
+                    {
+                        "entity id": "Q236837",
+                        "label": "Richmond"
+                    }
+                ]
+            ],
+            [
+                "British Columbia",
+                []
+            ],
+            [
+                "190,473",
+                []
+            ]
+        ],
+        [
+            [
+                "Vancouver",
+                [
+                    "/wiki/Vancouver,_Washington"
+                ],
+                [
+                    {
+                        "entity id": "Q234053",
+                        "label": "Vancouver"
+                    }
+                ]
+            ],
+            [
+                "Washington",
+                []
+            ],
+            [
+                "175,673",
+                []
+            ]
+        ],
+        [
+            [
+                "Salem",
+                [
+                    "/wiki/Salem,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q43919",
+                        "label": "Salem"
+                    }
+                ]
+            ],
+            [
+                "Oregon",
+                []
+            ],
+            [
+                "169,798",
+                []
+            ]
+        ],
+        [
+            [
+                "Eugene",
+                [
+                    "/wiki/Eugene,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q171224",
+                        "label": "Eugene"
+                    }
+                ]
+            ],
+            [
+                "Oregon",
+                []
+            ],
+            [
+                "168,916",
+                []
+            ]
+        ],
+        [
+            [
+                "Bellevue",
+                [
+                    "/wiki/Bellevue,_Washington"
+                ],
+                [
+                    {
+                        "entity id": "Q214164",
+                        "label": "Bellevue"
+                    }
+                ]
+            ],
+            [
+                "Washington",
+                []
+            ],
+            [
+                "136,420",
+                []
+            ]
+        ],
+        [
+            [
+                "Abbotsford",
+                [
+                    "/wiki/Abbotsford,_British_Columbia"
+                ],
+                [
+                    {
+                        "entity id": "Q271730",
+                        "label": "Abbotsford"
+                    }
+                ]
+            ],
+            [
+                "British Columbia",
+                []
+            ],
+            [
+                "133,497",
+                []
+            ]
+        ],
+        [
+            [
+                "Coquitlam",
+                [
+                    "/wiki/Coquitlam"
+                ],
+                [
+                    {
+                        "entity id": "Q643215",
+                        "label": "Coquitlam"
+                    }
+                ]
+            ],
+            [
+                "British Columbia",
+                []
+            ],
+            [
+                "126,456",
+                []
+            ]
+        ],
+        [
+            [
+                "Kent",
+                [
+                    "/wiki/Kent,_Washington"
+                ],
+                [
+                    {
+                        "entity id": "Q844008",
+                        "label": "Kent"
+                    }
+                ]
+            ],
+            [
+                "Washington",
+                []
+            ],
+            [
+                "125,560",
+                []
+            ]
+        ],
+        [
+            [
+                "Kelowna",
+                [
+                    "/wiki/Kelowna"
+                ],
+                [
+                    {
+                        "entity id": "Q232226",
+                        "label": "Kelowna"
+                    }
+                ]
+            ],
+            [
+                "British Columbia",
+                []
+            ],
+            [
+                "127,380",
+                []
+            ]
+        ],
+        [
+            [
+                "Gresham",
+                [
+                    "/wiki/Gresham,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q81844",
+                        "label": "Gresham"
+                    }
+                ]
+            ],
+            [
+                "Oregon",
+                []
+            ],
+            [
+                "111,063",
+                []
+            ]
+        ],
+        [
+            [
+                "Saanich",
+                [
+                    "/wiki/Saanich,_British_Columbia"
+                ],
+                [
+                    {
+                        "entity id": "Q179553",
+                        "label": "Saanich"
+                    }
+                ]
+            ],
+            [
+                "British Columbia",
+                []
+            ],
+            [
+                "109,752",
+                []
+            ]
+        ],
+        [
+            [
+                "Hillsboro",
+                [
+                    "/wiki/Hillsboro,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q81824",
+                        "label": "Hillsboro"
+                    }
+                ]
+            ],
+            [
+                "Oregon",
+                []
+            ],
+            [
+                "106,894",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Population -- List of largest cities by population in the Pacific Northwest",
+    "section_text": "",
+    "uid": "Pacific_Northwest_0",
+    "intro": "The Pacific Northwest (PNW), sometimes referred to as Cascadia, is a geographic region in western North America bounded by the Pacific Ocean to the west and (loosely) by the Rocky Mountains on the east. Though no official boundary exists, the most common conception includes the Canadian province of British Columbia (BC) and the U.S. states of Idaho, Oregon, and Washington. Broader conceptions reach north into Southeast Alaska and Yukon, south into northern California, and east to the Continental Divide to include Western Montana and parts of Wyoming. Narrower conceptions may be limited to the coastal areas west of the Cascade and Coast mountains. The variety of definitions can be attributed to partially overlapping commonalities of the region's history, culture, geography, society, and other factors. The Northwest Coast is the coastal region of the Pacific Northwest, and the Northwest Plateau (also commonly known as the Interior in British Columbia and the Inland Northwest in the United States) is the inland region. The term Pacific Northwest should not be confused with the Northwest Territory (also known as the Great Northwest, a historical term in the United States) or the Northwest Territories of Canada. The region's largest metropolitan areas are Greater Seattle, Washington, with 3.8 million people; Metro Vancouver, British Columbia, with 2.5 million people; and Greater Portland, Oregon, with 2.4 million people. The culture of the Pacific Northwest is influenced by the Canada-United States border, which the United States and the United Kingdom established at a time when the region's inhabitants were composed mostly of indigenous peoples. Two sections of the border - one along the 49th parallel south of British Columbia and one between the Alaska Panhandle and northern British Columbia - have left a great impact on the region. According to Canadian historian Ken Coates, the border has not merely influenced the Pacific Northwest - rather, the region's history and character have been determined by the boundary."
+}

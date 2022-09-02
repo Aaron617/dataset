@@ -1,0 +1,581 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Diuretic",
+    "title": "Diuretic",
+    "header": [
+        [
+            "",
+            []
+        ],
+        [
+            "Examples",
+            []
+        ],
+        [
+            "Mechanism",
+            []
+        ],
+        [
+            "Location ( numbered in distance along nephron )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "-",
+                []
+            ],
+            [
+                "ethanol , water",
+                [
+                    "/wiki/Ethanol",
+                    "/wiki/Water"
+                ],
+                [
+                    {
+                        "entity id": "Q153",
+                        "label": "ethanol"
+                    },
+                    {
+                        "entity id": "Q283",
+                        "label": "water"
+                    }
+                ]
+            ],
+            [
+                "Inhibits vasopressin secretion",
+                [
+                    "/wiki/Vasopressin"
+                ],
+                [
+                    {
+                        "entity id": "Q12009087",
+                        "label": "AVP"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Acidifying salts",
+                [
+                    "/wiki/Salt_(chemistry)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "calcium chloride , ammonium chloride",
+                [
+                    "/wiki/Calcium_chloride",
+                    "/wiki/Ammonium_chloride"
+                ],
+                [
+                    {
+                        "entity id": "Q208451",
+                        "label": "calcium chloride"
+                    },
+                    {
+                        "entity id": "Q188543",
+                        "label": "ammonium chloride"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "1",
+                []
+            ]
+        ],
+        [
+            [
+                "Arginine vasopressin receptor 2 antagonists",
+                [
+                    "/wiki/Arginine_vasopressin_receptor_2"
+                ],
+                [
+                    {
+                        "entity id": "Q4789588",
+                        "label": "Arginine vasopressin receptor 2"
+                    }
+                ]
+            ],
+            [
+                "amphotericin B , lithium",
+                [
+                    "/wiki/Amphotericin_B",
+                    "/wiki/Lithium_(medication)"
+                ],
+                [
+                    {
+                        "entity id": "Q412223",
+                        "label": "amphotericin B"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Inhibits vasopressin 's action",
+                []
+            ],
+            [
+                "5. collecting duct",
+                [
+                    "/wiki/Collecting_duct"
+                ],
+                [
+                    {
+                        "entity id": "Q452419",
+                        "label": "collecting duct system"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Selective vasopressin V2 antagonist ( sometimes called aquaretics )",
+                [
+                    "/wiki/Vasopressin_receptor_antagonist"
+                ],
+                [
+                    {
+                        "entity id": "Q1587028",
+                        "label": "Vasopressin receptor antagonist"
+                    }
+                ]
+            ],
+            [
+                "tolvaptan , conivaptan",
+                [
+                    "/wiki/Tolvaptan",
+                    "/wiki/Conivaptan"
+                ],
+                [
+                    {
+                        "entity id": "Q426132",
+                        "label": "tolvaptan"
+                    },
+                    {
+                        "entity id": "Q5161126",
+                        "label": "conivaptan"
+                    }
+                ]
+            ],
+            [
+                "Competitive vasopressin antagonism leads to decreased number of aquaporin channels in the apical membrane of the renal collecting ducts in kidneys , causing decreased water reabsorption . This causes an increase in renal free water excretion ( aquaresis ) , an increase in serum sodium concentration , a decrease in urine osmolality , and an increase in urine output",
+                []
+            ],
+            [
+                "5. collecting duct",
+                [
+                    "/wiki/Collecting_duct"
+                ],
+                [
+                    {
+                        "entity id": "Q452419",
+                        "label": "collecting duct system"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Na-H exchanger antagonists",
+                [
+                    "/wiki/Na-H_exchanger"
+                ],
+                [
+                    {
+                        "entity id": "Q29680058",
+                        "label": "F41E7.2"
+                    }
+                ]
+            ],
+            [
+                "dopamine",
+                [
+                    "/wiki/Dopamine"
+                ],
+                [
+                    {
+                        "entity id": "Q170304",
+                        "label": "dopamine"
+                    }
+                ]
+            ],
+            [
+                "Promotes Na excretion",
+                []
+            ],
+            [
+                "2. proximal tubule",
+                [
+                    "/wiki/Proximal_tubule"
+                ],
+                [
+                    {
+                        "entity id": "Q2916078",
+                        "label": "proximal tubule"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Carbonic anhydrase inhibitors",
+                [
+                    "/wiki/Carbonic_anhydrase_inhibitors"
+                ],
+                [
+                    {
+                        "entity id": "Q28219057",
+                        "label": "Carbonic anhydrase inhibitors"
+                    }
+                ]
+            ],
+            [
+                "acetazolamide , dorzolamide",
+                [
+                    "/wiki/Acetazolamide",
+                    "/wiki/Dorzolamide"
+                ],
+                [
+                    {
+                        "entity id": "Q413690",
+                        "label": "acetazolamide"
+                    },
+                    {
+                        "entity id": "Q415401",
+                        "label": "dorzolamide"
+                    }
+                ]
+            ],
+            [
+                "Inhibits H secretion , resultant promotion of Na and K excretion",
+                []
+            ],
+            [
+                "2. proximal tubule",
+                [
+                    "/wiki/Proximal_tubule"
+                ],
+                [
+                    {
+                        "entity id": "Q2916078",
+                        "label": "proximal tubule"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Loop diuretics",
+                [
+                    "/wiki/Loop_diuretic"
+                ],
+                [
+                    {
+                        "entity id": "Q424280",
+                        "label": "Loop diuretic"
+                    }
+                ]
+            ],
+            [
+                "bumetanide , ethacrynic acid , furosemide , torsemide",
+                [
+                    "/wiki/Bumetanide",
+                    "/wiki/Ethacrynic_acid",
+                    "/wiki/Furosemide",
+                    "/wiki/Torsemide"
+                ],
+                [
+                    {
+                        "entity id": "Q275926",
+                        "label": "bumetanide"
+                    },
+                    {
+                        "entity id": "Q418571",
+                        "label": "ethacrynic acid"
+                    },
+                    {
+                        "entity id": "Q388801",
+                        "label": "furosemide"
+                    },
+                    {
+                        "entity id": "Q419948",
+                        "label": "torasemide"
+                    }
+                ]
+            ],
+            [
+                "Inhibits the Na-K-2Cl symporter",
+                [
+                    "/wiki/Na-K-2Cl_symporter"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "3. medullary thick ascending limb",
+                [
+                    "/wiki/Thick_ascending_limb"
+                ],
+                [
+                    {
+                        "entity id": "Q7783927",
+                        "label": "thick ascending limb of loop of Henle"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Osmotic diuretics",
+                [
+                    "/wiki/Osmotic_diuretic"
+                ],
+                [
+                    {
+                        "entity id": "Q2034436",
+                        "label": "osmotic diuretic"
+                    }
+                ]
+            ],
+            [
+                "glucose ( especially in uncontrolled diabetes ) , mannitol",
+                [
+                    "/wiki/Glucose",
+                    "/wiki/Mannitol"
+                ],
+                [
+                    {
+                        "entity id": "Q37525",
+                        "label": "glucose"
+                    },
+                    {
+                        "entity id": "Q407646",
+                        "label": "D-(-)-mannitol"
+                    }
+                ]
+            ],
+            [
+                "Promotes osmotic diuresis",
+                []
+            ],
+            [
+                "2. proximal tubule , descending limb",
+                [
+                    "/wiki/Proximal_tubule",
+                    "/wiki/Descending_limb_of_loop_of_Henle"
+                ],
+                [
+                    {
+                        "entity id": "Q2916078",
+                        "label": "proximal tubule"
+                    },
+                    {
+                        "entity id": "Q5263721",
+                        "label": "descending limb of loop of Henle"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Potassium-sparing diuretics",
+                [
+                    "/wiki/Potassium-sparing_diuretic"
+                ],
+                [
+                    {
+                        "entity id": "Q1123792",
+                        "label": "potassium-sparing diuretic"
+                    }
+                ]
+            ],
+            [
+                "amiloride , spironolactone , eplerenone , triamterene , potassium canrenoate",
+                [
+                    "/wiki/Amiloride",
+                    "/wiki/Spironolactone",
+                    "/wiki/Eplerenone",
+                    "/wiki/Triamterene",
+                    "/wiki/Potassium_canrenoate"
+                ],
+                [
+                    {
+                        "entity id": "Q419995",
+                        "label": "amiloride"
+                    },
+                    {
+                        "entity id": "Q422188",
+                        "label": "spironolactone"
+                    },
+                    {
+                        "entity id": "Q423804",
+                        "label": "eplerenone"
+                    },
+                    {
+                        "entity id": "Q221520",
+                        "label": "triamterene"
+                    },
+                    {
+                        "entity id": "Q3655600",
+                        "label": "potassium canrenoate"
+                    }
+                ]
+            ],
+            [
+                "Inhibition of Na+/K+ exchanger : Spironolactone inhibits aldosterone action , Amiloride inhibits epithelial sodium channels",
+                [
+                    "/wiki/Na+/K+-ATPase",
+                    "/wiki/Aldosterone",
+                    "/wiki/Epithelial_sodium_channel"
+                ],
+                [
+                    {
+                        "entity id": "Q59143",
+                        "label": "Na+/K+-ATPase"
+                    },
+                    {
+                        "entity id": "Q184564",
+                        "label": "aldosterone"
+                    },
+                    {
+                        "entity id": "Q424948",
+                        "label": "epithelial sodium channel"
+                    }
+                ]
+            ],
+            [
+                "5. cortical collecting ducts",
+                [
+                    "/wiki/Cortical_collecting_ducts"
+                ],
+                [
+                    {
+                        "entity id": "Q54808935",
+                        "label": "CCD-IC"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Thiazides",
+                [
+                    "/wiki/Thiazide"
+                ],
+                [
+                    {
+                        "entity id": "Q665843",
+                        "label": "thiazide"
+                    }
+                ]
+            ],
+            [
+                "bendroflumethiazide , hydrochlorothiazide",
+                [
+                    "/wiki/Bendroflumethiazide",
+                    "/wiki/Hydrochlorothiazide"
+                ],
+                [
+                    {
+                        "entity id": "Q1169164",
+                        "label": "bendroflumethiazide"
+                    },
+                    {
+                        "entity id": "Q423930",
+                        "label": "hydrochlorothiazide"
+                    }
+                ]
+            ],
+            [
+                "Inhibits reabsorption by Na /Cl symporter",
+                [
+                    "/wiki/Sodium-chloride_symporter"
+                ],
+                [
+                    {
+                        "entity id": "Q14905340",
+                        "label": "SLC12A3"
+                    }
+                ]
+            ],
+            [
+                "4. distal convoluted tubules",
+                [
+                    "/wiki/Distal_convoluted_tubules"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Xanthines",
+                [
+                    "/wiki/Xanthine"
+                ],
+                [
+                    {
+                        "entity id": "Q50980",
+                        "label": "xanthine"
+                    }
+                ]
+            ],
+            [
+                "caffeine , theophylline , theobromine",
+                [
+                    "/wiki/Caffeine",
+                    "/wiki/Theophylline",
+                    "/wiki/Theobromine"
+                ],
+                [
+                    {
+                        "entity id": "Q60235",
+                        "label": "caffeine"
+                    },
+                    {
+                        "entity id": "Q407308",
+                        "label": "theophylline"
+                    },
+                    {
+                        "entity id": "Q206844",
+                        "label": "theobromine"
+                    }
+                ]
+            ],
+            [
+                "Inhibits reabsorption of Na , increase glomerular filtration rate",
+                [
+                    "/wiki/Glomerular_filtration_rate"
+                ],
+                [
+                    {
+                        "entity id": "Q1542839",
+                        "label": "glomerular filtration rate"
+                    }
+                ]
+            ],
+            [
+                "1. tubules",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Mechanism of action",
+    "section_text": "Diuretics are tools of considerable therapeutic importance . First , they effectively reduce blood pressure . Loop and thiazide diuretics are secreted from the proximal tubule via the organic anion transporter-1 and exert their diuretic action by binding to the Na ( + ) -K ( + ) -2Cl ( - ) co-transporter type 2 in the thick ascending limb and the Na ( + ) -Cl ( - ) co-transporter in the distal convoluted tubule , respectively . [ 11 ] Classification of common diuretics and their mechanisms of action .",
+    "uid": "Diuretic_0",
+    "intro": "A diuretic (/\u02ccda\u026aj\u028a\u02c8r\u025bt\u026ak/) is any substance that promotes diuresis, the increased production of urine. This includes forced diuresis. There are several categories of diuretics. All diuretics increase the excretion of water from bodies, although each class does so in a distinct way. Alternatively, an antidiuretic, such as vasopressin (antidiuretic hormone), is an agent or drug which reduces the excretion of water in urine."
+}

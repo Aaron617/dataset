@@ -1,0 +1,960 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Viral_disease",
+    "title": "Viral disease",
+    "header": [
+        [
+            "Family",
+            []
+        ],
+        [
+            "Baltimore group",
+            [
+                "/wiki/Baltimore_classification"
+            ],
+            [
+                {
+                    "entity id": "Q782725",
+                    "label": "Baltimore classification"
+                }
+            ]
+        ],
+        [
+            "Important species",
+            []
+        ],
+        [
+            "envelopment",
+            [
+                "/wiki/Viral_envelope"
+            ],
+            [
+                {
+                    "entity id": "Q994215",
+                    "label": "viral envelope"
+                }
+            ]
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Adenoviridae",
+                [
+                    "/wiki/Adenoviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q193447",
+                        "label": "Adenoviridae"
+                    }
+                ]
+            ],
+            [
+                "Group I ( dsDNA )",
+                [
+                    "/wiki/DsDNA_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q2901600",
+                        "label": "double-stranded DNA virus"
+                    }
+                ]
+            ],
+            [
+                "Adenovirus",
+                [
+                    "/wiki/Adenovirus"
+                ],
+                [
+                    {
+                        "entity id": "Q193447",
+                        "label": "Adenoviridae"
+                    }
+                ]
+            ],
+            [
+                "non-enveloped",
+                []
+            ]
+        ],
+        [
+            [
+                "Herpesviridae",
+                [
+                    "/wiki/Herpesviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q149348",
+                        "label": "Herpesviridae"
+                    }
+                ]
+            ],
+            [
+                "Group I ( dsDNA )",
+                [
+                    "/wiki/DsDNA_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q2901600",
+                        "label": "double-stranded DNA virus"
+                    }
+                ]
+            ],
+            [
+                "Herpes simplex , type 1 , Herpes simplex , type 2 , Varicella-zoster virus , Epstein-Barr virus , Human cytomegalovirus , Human herpesvirus , type 8",
+                [
+                    "/wiki/Herpes_simplex,_type_1",
+                    "/wiki/Herpes_simplex,_type_2",
+                    "/wiki/Varicella-zoster_virus",
+                    "/wiki/Epstein\u2013Barr_virus",
+                    "/wiki/Human_cytomegalovirus",
+                    "/wiki/Human_herpesvirus,_type_8"
+                ],
+                [
+                    {},
+                    {},
+                    {
+                        "entity id": "Q6868",
+                        "label": "Human herpesvirus 3"
+                    },
+                    {
+                        "entity id": "Q6900",
+                        "label": "Epstein\u2013Barr virus"
+                    },
+                    {
+                        "entity id": "Q6929",
+                        "label": "human betaherpesvirus 5"
+                    },
+                    {
+                        "entity id": "Q77977596",
+                        "label": "Human Herpesvirus, Type 8. Early Days"
+                    }
+                ]
+            ],
+            [
+                "enveloped",
+                []
+            ]
+        ],
+        [
+            [
+                "Papillomaviridae",
+                [
+                    "/wiki/Papillomaviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q9055203",
+                        "label": "Papillomaviridae"
+                    }
+                ]
+            ],
+            [
+                "Group I ( dsDNA )",
+                [
+                    "/wiki/DsDNA_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q2901600",
+                        "label": "double-stranded DNA virus"
+                    }
+                ]
+            ],
+            [
+                "Human papillomavirus",
+                [
+                    "/wiki/Human_papillomavirus"
+                ],
+                [
+                    {
+                        "entity id": "Q69999790",
+                        "label": "human papilloma virus"
+                    }
+                ]
+            ],
+            [
+                "non-enveloped",
+                []
+            ]
+        ],
+        [
+            [
+                "Polyomaviridae",
+                [
+                    "/wiki/Polyomaviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q18670504",
+                        "label": "Polyomaviridae"
+                    }
+                ]
+            ],
+            [
+                "Group I ( dsDNA )",
+                [
+                    "/wiki/DsDNA_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q2901600",
+                        "label": "double-stranded DNA virus"
+                    }
+                ]
+            ],
+            [
+                "BK virus , JC virus",
+                [
+                    "/wiki/BK_virus",
+                    "/wiki/JC_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q582873",
+                        "label": "BK virus"
+                    },
+                    {
+                        "entity id": "Q1676563",
+                        "label": "JC virus"
+                    }
+                ]
+            ],
+            [
+                "non-enveloped",
+                []
+            ]
+        ],
+        [
+            [
+                "Poxviridae",
+                [
+                    "/wiki/Poxviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q948421",
+                        "label": "Poxviridae"
+                    }
+                ]
+            ],
+            [
+                "Group I ( dsDNA )",
+                [
+                    "/wiki/DsDNA_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q2901600",
+                        "label": "double-stranded DNA virus"
+                    }
+                ]
+            ],
+            [
+                "Smallpox",
+                [
+                    "/wiki/Smallpox"
+                ],
+                [
+                    {
+                        "entity id": "Q12214",
+                        "label": "smallpox"
+                    }
+                ]
+            ],
+            [
+                "enveloped",
+                []
+            ]
+        ],
+        [
+            [
+                "Hepadnaviridae",
+                [
+                    "/wiki/Hepadnaviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q1356878",
+                        "label": "Hepadnaviridae"
+                    }
+                ]
+            ],
+            [
+                "Group VII ( dsDNA-RT )",
+                [
+                    "/wiki/DsDNA-RT_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q3754200",
+                        "label": "double-stranded DNA reverse transcriptase virus"
+                    }
+                ]
+            ],
+            [
+                "Hepatitis B virus",
+                [
+                    "/wiki/Hepatitis_B_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q6844",
+                        "label": "Hepatitis B virus"
+                    }
+                ]
+            ],
+            [
+                "enveloped",
+                []
+            ]
+        ],
+        [
+            [
+                "Parvoviridae",
+                [
+                    "/wiki/Parvoviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q13210344",
+                        "label": "Parvoviridae"
+                    }
+                ]
+            ],
+            [
+                "Group II ( ssDNA )",
+                [
+                    "/wiki/SsDNA_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q9094469",
+                        "label": "single-stranded DNA virus"
+                    }
+                ]
+            ],
+            [
+                "Parvovirus B19",
+                [
+                    "/wiki/Parvovirus_B19"
+                ],
+                [
+                    {
+                        "entity id": "Q933694",
+                        "label": "Parvovirus B19"
+                    }
+                ]
+            ],
+            [
+                "non-enveloped",
+                []
+            ]
+        ],
+        [
+            [
+                "Astroviridae",
+                [
+                    "/wiki/Astroviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q752185",
+                        "label": "Astrovirus"
+                    }
+                ]
+            ],
+            [
+                "Group IV ( positive-sense ssRNA )",
+                [
+                    "/wiki/Positive-sense_ssRNA_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q55009681",
+                        "label": "(+)ssRNA virus infectious disease"
+                    }
+                ]
+            ],
+            [
+                "Human astrovirus",
+                []
+            ],
+            [
+                "non-enveloped",
+                []
+            ]
+        ],
+        [
+            [
+                "Caliciviridae",
+                [
+                    "/wiki/Caliciviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q1026758",
+                        "label": "Caliciviridae"
+                    }
+                ]
+            ],
+            [
+                "Group IV ( positive-sense ssRNA )",
+                [
+                    "/wiki/Positive-sense_ssRNA_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q55009681",
+                        "label": "(+)ssRNA virus infectious disease"
+                    }
+                ]
+            ],
+            [
+                "Norwalk virus",
+                [
+                    "/wiki/Norwalk_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q562082",
+                        "label": "Norwalk virus"
+                    }
+                ]
+            ],
+            [
+                "non-enveloped",
+                []
+            ]
+        ],
+        [
+            [
+                "Picornaviridae",
+                [
+                    "/wiki/Picornaviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q936600",
+                        "label": "Picornavirus"
+                    }
+                ]
+            ],
+            [
+                "Group IV ( positive-sense ssRNA )",
+                [
+                    "/wiki/Positive-sense_ssRNA_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q55009681",
+                        "label": "(+)ssRNA virus infectious disease"
+                    }
+                ]
+            ],
+            [
+                "coxsackievirus , hepatitis A virus , poliovirus , rhinovirus",
+                [
+                    "/wiki/Coxsackievirus",
+                    "/wiki/Hepatitis_A_virus",
+                    "/wiki/Poliovirus",
+                    "/wiki/Rhinovirus"
+                ],
+                [
+                    {
+                        "entity id": "Q1138287",
+                        "label": "Coxsackievirus"
+                    },
+                    {
+                        "entity id": "Q4112120",
+                        "label": "Hepatitis A virus"
+                    },
+                    {
+                        "entity id": "Q12438936",
+                        "label": "poliovirus"
+                    },
+                    {
+                        "entity id": "Q1351647",
+                        "label": "Rhinovirus"
+                    }
+                ]
+            ],
+            [
+                "non-enveloped",
+                []
+            ]
+        ],
+        [
+            [
+                "Coronaviridae",
+                [
+                    "/wiki/Coronaviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q1134583",
+                        "label": "Coronaviridae"
+                    }
+                ]
+            ],
+            [
+                "Group IV ( positive-sense ssRNA )",
+                [
+                    "/wiki/Positive-sense_ssRNA_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q55009681",
+                        "label": "(+)ssRNA virus infectious disease"
+                    }
+                ]
+            ],
+            [
+                "Severe acute respiratory syndrome virus",
+                [
+                    "/wiki/SARS_coronavirus"
+                ],
+                [
+                    {
+                        "entity id": "Q85438966",
+                        "label": "SARS-CoV-1"
+                    }
+                ]
+            ],
+            [
+                "enveloped",
+                []
+            ]
+        ],
+        [
+            [
+                "Flaviviridae",
+                [
+                    "/wiki/Flaviviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q1331256",
+                        "label": "Flaviviridae"
+                    }
+                ]
+            ],
+            [
+                "Group IV ( positive-sense ssRNA )",
+                [
+                    "/wiki/Positive-sense_ssRNA_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q55009681",
+                        "label": "(+)ssRNA virus infectious disease"
+                    }
+                ]
+            ],
+            [
+                "Hepatitis C virus , yellow fever virus , dengue virus , West Nile virus , TBE virus",
+                [
+                    "/wiki/Hepatitis_C_virus",
+                    "/wiki/Yellow_fever",
+                    "/wiki/Dengue_fever",
+                    "/wiki/West_Nile_virus",
+                    "/wiki/Tick-borne_encephalitis_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q708693",
+                        "label": "Hepatitis C virus"
+                    },
+                    {
+                        "entity id": "Q154874",
+                        "label": "yellow fever"
+                    },
+                    {
+                        "entity id": "Q30953",
+                        "label": "dengue fever"
+                    },
+                    {
+                        "entity id": "Q158856",
+                        "label": "West Nile virus"
+                    },
+                    {
+                        "entity id": "Q251824",
+                        "label": "tick-borne encephalitis virus"
+                    }
+                ]
+            ],
+            [
+                "enveloped",
+                []
+            ]
+        ],
+        [
+            [
+                "Togaviridae",
+                [
+                    "/wiki/Togaviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q1413137",
+                        "label": "Togaviridae"
+                    }
+                ]
+            ],
+            [
+                "Group IV ( positive-sense ssRNA )",
+                [
+                    "/wiki/Positive-sense_ssRNA_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q55009681",
+                        "label": "(+)ssRNA virus infectious disease"
+                    }
+                ]
+            ],
+            [
+                "Rubella virus",
+                [
+                    "/wiki/Rubella_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q701609",
+                        "label": "Rubella virus"
+                    }
+                ]
+            ],
+            [
+                "enveloped",
+                []
+            ]
+        ],
+        [
+            [
+                "Hepeviridae",
+                [
+                    "/wiki/Hepeviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q5731858",
+                        "label": "Hepeviridae"
+                    }
+                ]
+            ],
+            [
+                "Group IV ( positive-sense ssRNA )",
+                [
+                    "/wiki/Positive-sense_ssRNA_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q55009681",
+                        "label": "(+)ssRNA virus infectious disease"
+                    }
+                ]
+            ],
+            [
+                "Hepatitis E virus",
+                [
+                    "/wiki/Hepatitis_E_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q5731737",
+                        "label": "hepatitis E virus"
+                    }
+                ]
+            ],
+            [
+                "non-enveloped",
+                []
+            ]
+        ],
+        [
+            [
+                "Retroviridae",
+                [
+                    "/wiki/Retroviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q189308",
+                        "label": "retrovirus"
+                    }
+                ]
+            ],
+            [
+                "Group VI ( ssRNA-RT )",
+                [
+                    "/wiki/SsRNA-RT_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q3933801",
+                        "label": "single-stranded RNA reverse transcriptase virus"
+                    }
+                ]
+            ],
+            [
+                "Human immunodeficiency virus ( HIV )",
+                [
+                    "/wiki/Human_immunodeficiency_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q15787",
+                        "label": "HIV"
+                    }
+                ]
+            ],
+            [
+                "enveloped",
+                []
+            ]
+        ],
+        [
+            [
+                "Orthomyxoviridae",
+                [
+                    "/wiki/Orthomyxoviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q287246",
+                        "label": "Orthomyxoviridae"
+                    }
+                ]
+            ],
+            [
+                "Group V ( negative-sense ssRNA )",
+                [
+                    "/wiki/Negative-sense_ssRNA_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q55009682",
+                        "label": "(-)ssRNA virus infectious disease"
+                    }
+                ]
+            ],
+            [
+                "Influenza virus",
+                [
+                    "/wiki/Influenza_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q287246",
+                        "label": "Orthomyxoviridae"
+                    }
+                ]
+            ],
+            [
+                "enveloped",
+                []
+            ]
+        ],
+        [
+            [
+                "Arenaviridae",
+                [
+                    "/wiki/Arenaviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q641664",
+                        "label": "Arenaviridae"
+                    }
+                ]
+            ],
+            [
+                "Group V ( negative-sense ssRNA )",
+                [
+                    "/wiki/Negative-sense_ssRNA_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q55009682",
+                        "label": "(-)ssRNA virus infectious disease"
+                    }
+                ]
+            ],
+            [
+                "Lassa virus",
+                [
+                    "/wiki/Lassa_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q1806636",
+                        "label": "Lassa virus"
+                    }
+                ]
+            ],
+            [
+                "enveloped",
+                []
+            ]
+        ],
+        [
+            [
+                "Bunyaviridae",
+                [
+                    "/wiki/Bunyaviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q1010102",
+                        "label": "Bunyaviridae"
+                    }
+                ]
+            ],
+            [
+                "Group V ( negative-sense ssRNA )",
+                [
+                    "/wiki/Negative-sense_ssRNA_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q55009682",
+                        "label": "(-)ssRNA virus infectious disease"
+                    }
+                ]
+            ],
+            [
+                "Crimean-Congo hemorrhagic fever virus , Hantaan virus",
+                [
+                    "/wiki/Crimean-Congo_hemorrhagic_fever_virus",
+                    "/wiki/Hantaan_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q1788951",
+                        "label": "Crimean-Congo hemorrhagic fever virus"
+                    },
+                    {
+                        "entity id": "Q16982722",
+                        "label": "Hantaan River virus"
+                    }
+                ]
+            ],
+            [
+                "enveloped",
+                []
+            ]
+        ],
+        [
+            [
+                "Filoviridae",
+                [
+                    "/wiki/Filoviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q46305",
+                        "label": "Filoviridae"
+                    }
+                ]
+            ],
+            [
+                "Group V ( negative-sense ssRNA )",
+                [
+                    "/wiki/Negative-sense_ssRNA_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q55009682",
+                        "label": "(-)ssRNA virus infectious disease"
+                    }
+                ]
+            ],
+            [
+                "Ebola virus , Marburg virus",
+                [
+                    "/wiki/Ebola_virus",
+                    "/wiki/Marburg_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q10538943",
+                        "label": "Ebola virus"
+                    },
+                    {
+                        "entity id": "Q6755280",
+                        "label": "Marburg marburgvirus"
+                    }
+                ]
+            ],
+            [
+                "enveloped",
+                []
+            ]
+        ],
+        [
+            [
+                "Paramyxoviridae",
+                [
+                    "/wiki/Paramyxoviridae"
+                ],
+                [
+                    {
+                        "entity id": "Q911129",
+                        "label": "Paramyxoviridae"
+                    }
+                ]
+            ],
+            [
+                "Group V ( negative-sense ssRNA )",
+                [
+                    "/wiki/Negative-sense_ssRNA_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q55009682",
+                        "label": "(-)ssRNA virus infectious disease"
+                    }
+                ]
+            ],
+            [
+                "Measles virus , Mumps virus , Parainfluenza virus , Respiratory syncytial virus ,",
+                [
+                    "/wiki/Measles_virus",
+                    "/wiki/Mumps_virus",
+                    "/wiki/Parainfluenza_virus",
+                    "/wiki/Respiratory_syncytial_virus"
+                ],
+                [
+                    {
+                        "entity id": "Q573943",
+                        "label": "Measles virus"
+                    },
+                    {
+                        "entity id": "Q1952649",
+                        "label": "mumps virus"
+                    },
+                    {
+                        "entity id": "Q18967920",
+                        "label": "parainfluenzal pneumonia"
+                    },
+                    {
+                        "entity id": "Q1052913",
+                        "label": "human respiratory syncytial virus"
+                    }
+                ]
+            ],
+            [
+                "enveloped",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Structural characteristics -- Pragmatic rules",
+    "section_text": "Among the human infecting families there are a number of rules that may assist physicians and medical microbiologists/virologists . As a general rule , DNA viruses replicate within the nucleus while RNA viruses replicate within the cytoplasm . Exceptions are known to this rule : poxviruses replicate within the cytoplasm and orthomyxoviruses and hepatitis D virus ( RNA viruses ) replicate within the nucleus . Four families have segmented genomes : Bunyaviridae , Orthomyxoviridae , Arenaviridae and Reoviridae ( acronym BOAR ) . All are RNA viruses . Three families are transmitted almost exclusively by arthropods : Bunyavirus , Flavivirus and Togavirus . Some Reoviruses are transmitted from arthropod vectors as well . All are RNA viruses . [ 2 ] Only one family of enveloped viruses causes gastroenteritis ( Coronaviridae ) . All other viruses associated with gastroenteritis are non enveloped . These are tables of the clinically most important [ 3 ] viruses .",
+    "uid": "Viral_disease_0",
+    "intro": "A viral disease (or viral infection, or infectious disease) occurs when an organism's body is invaded by pathogenic viruses, and infectious virus particles (virions) attach to and enter susceptible cells."
+}

@@ -1,0 +1,778 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Liga_MX",
+    "title": "Liga MX",
+    "header": [
+        [
+            "Club",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Stadium",
+            []
+        ],
+        [
+            "Capacity",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Am\u00e9rica",
+                [
+                    "/wiki/Club_Am\u00e9rica"
+                ],
+                [
+                    {
+                        "entity id": "Q459090",
+                        "label": "Club Am\u00e9rica"
+                    }
+                ]
+            ],
+            [
+                "Mexico City",
+                [
+                    "/wiki/Mexico_City"
+                ],
+                [
+                    {
+                        "entity id": "Q1489",
+                        "label": "Mexico City"
+                    }
+                ]
+            ],
+            [
+                "Azteca",
+                [
+                    "/wiki/Estadio_Azteca"
+                ],
+                [
+                    {
+                        "entity id": "Q320454",
+                        "label": "Estadio Azteca"
+                    }
+                ]
+            ],
+            [
+                "87,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Atlas",
+                [
+                    "/wiki/Club_Atlas"
+                ],
+                [
+                    {
+                        "entity id": "Q1023532",
+                        "label": "Atlas F.C."
+                    }
+                ]
+            ],
+            [
+                "Guadalajara",
+                [
+                    "/wiki/Guadalajara"
+                ],
+                [
+                    {
+                        "entity id": "Q9022",
+                        "label": "Guadalajara"
+                    }
+                ]
+            ],
+            [
+                "Jalisco",
+                [
+                    "/wiki/Estadio_Jalisco"
+                ],
+                [
+                    {
+                        "entity id": "Q1346716",
+                        "label": "Jalisco Stadium"
+                    }
+                ]
+            ],
+            [
+                "56,713",
+                []
+            ]
+        ],
+        [
+            [
+                "Atl\u00e9tico San Luis",
+                [
+                    "/wiki/Atl\u00e9tico_San_Luis"
+                ],
+                [
+                    {
+                        "entity id": "Q13408349",
+                        "label": "Atl\u00e9tico de San Luis"
+                    }
+                ]
+            ],
+            [
+                "San Luis Potos\u00ed City",
+                [
+                    "/wiki/San_Luis_Potos\u00ed_City"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Alfonso Lastras",
+                [
+                    "/wiki/Estadio_Alfonso_Lastras"
+                ],
+                [
+                    {
+                        "entity id": "Q925728",
+                        "label": "Estadio Alfonso Lastras"
+                    }
+                ]
+            ],
+            [
+                "25,111",
+                []
+            ]
+        ],
+        [
+            [
+                "Ju\u00e1rez",
+                [
+                    "/wiki/FC_Ju\u00e1rez"
+                ],
+                [
+                    {
+                        "entity id": "Q20051399",
+                        "label": "FC Ju\u00e1rez"
+                    }
+                ]
+            ],
+            [
+                "Ciudad Ju\u00e1rez",
+                [
+                    "/wiki/Ciudad_Ju\u00e1rez"
+                ],
+                [
+                    {
+                        "entity id": "Q26590",
+                        "label": "Ciudad Ju\u00e1rez"
+                    }
+                ]
+            ],
+            [
+                "Ol\u00edmpico Benito Ju\u00e1rez",
+                [
+                    "/wiki/Estadio_Ol\u00edmpico_Benito_Ju\u00e1rez"
+                ],
+                [
+                    {
+                        "entity id": "Q1369529",
+                        "label": "Estadio Ol\u00edmpico Benito Ju\u00e1rez"
+                    }
+                ]
+            ],
+            [
+                "19,703",
+                []
+            ]
+        ],
+        [
+            [
+                "Cruz Azul",
+                [
+                    "/wiki/Cruz_Azul"
+                ],
+                [
+                    {
+                        "entity id": "Q845859",
+                        "label": "Cruz Azul"
+                    }
+                ]
+            ],
+            [
+                "Mexico City",
+                [
+                    "/wiki/Mexico_City"
+                ],
+                [
+                    {
+                        "entity id": "Q1489",
+                        "label": "Mexico City"
+                    }
+                ]
+            ],
+            [
+                "Azteca",
+                [
+                    "/wiki/Estadio_Azteca"
+                ],
+                [
+                    {
+                        "entity id": "Q320454",
+                        "label": "Estadio Azteca"
+                    }
+                ]
+            ],
+            [
+                "87,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Guadalajara",
+                [
+                    "/wiki/C.D._Guadalajara"
+                ],
+                [
+                    {
+                        "entity id": "Q503321",
+                        "label": "C.D. Guadalajara"
+                    }
+                ]
+            ],
+            [
+                "Zapopan",
+                [
+                    "/wiki/Zapopan"
+                ],
+                [
+                    {
+                        "entity id": "Q147402",
+                        "label": "Zapopan"
+                    }
+                ]
+            ],
+            [
+                "Akron",
+                [
+                    "/wiki/Estadio_Akron"
+                ],
+                [
+                    {
+                        "entity id": "Q666183",
+                        "label": "Estadio Akron"
+                    }
+                ]
+            ],
+            [
+                "45,364",
+                []
+            ]
+        ],
+        [
+            [
+                "Le\u00f3n",
+                [
+                    "/wiki/Club_Le\u00f3n"
+                ],
+                [
+                    {
+                        "entity id": "Q633223",
+                        "label": "Club Le\u00f3n"
+                    }
+                ]
+            ],
+            [
+                "Le\u00f3n",
+                [
+                    "/wiki/Le\u00f3n,_Guanajuato"
+                ],
+                [
+                    {
+                        "entity id": "Q189128",
+                        "label": "Le\u00f3n de Los Aldama"
+                    }
+                ]
+            ],
+            [
+                "Le\u00f3n",
+                [
+                    "/wiki/Estadio_Le\u00f3n"
+                ],
+                [
+                    {
+                        "entity id": "Q1369510",
+                        "label": "Le\u00f3n Stadium"
+                    }
+                ]
+            ],
+            [
+                "31,297",
+                []
+            ]
+        ],
+        [
+            [
+                "Monterrey",
+                [
+                    "/wiki/C.F._Monterrey"
+                ],
+                [
+                    {
+                        "entity id": "Q768253",
+                        "label": "Club de F\u00fatbol Monterrey"
+                    }
+                ]
+            ],
+            [
+                "Guadalupe",
+                [
+                    "/wiki/Guadalupe,_Nuevo_Le\u00f3n"
+                ],
+                [
+                    {
+                        "entity id": "Q938835",
+                        "label": "Guadalupe"
+                    }
+                ]
+            ],
+            [
+                "BBVA Bancomer",
+                [
+                    "/wiki/Estadio_BBVA_Bancomer"
+                ],
+                [
+                    {
+                        "entity id": "Q3058827",
+                        "label": "Estadio BBVA"
+                    }
+                ]
+            ],
+            [
+                "53,500",
+                []
+            ]
+        ],
+        [
+            [
+                "Morelia",
+                [
+                    "/wiki/Monarcas_Morelia"
+                ],
+                [
+                    {
+                        "entity id": "Q25238416",
+                        "label": "Monarcas Morelia Premier"
+                    }
+                ]
+            ],
+            [
+                "Morelia",
+                [
+                    "/wiki/Morelia"
+                ],
+                [
+                    {
+                        "entity id": "Q200252",
+                        "label": "Morelia"
+                    }
+                ]
+            ],
+            [
+                "Morelos",
+                [
+                    "/wiki/Estadio_Morelos"
+                ],
+                [
+                    {
+                        "entity id": "Q1308618",
+                        "label": "Morelos Stadium"
+                    }
+                ]
+            ],
+            [
+                "35,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Necaxa",
+                [
+                    "/wiki/Club_Necaxa"
+                ],
+                [
+                    {
+                        "entity id": "Q1280895",
+                        "label": "Club Necaxa"
+                    }
+                ]
+            ],
+            [
+                "Aguascalientes City",
+                [
+                    "/wiki/Aguascalientes_City"
+                ],
+                [
+                    {
+                        "entity id": "Q200805",
+                        "label": "Aguascalientes City"
+                    }
+                ]
+            ],
+            [
+                "Victoria",
+                [
+                    "/wiki/Estadio_Victoria"
+                ],
+                [
+                    {
+                        "entity id": "Q1369661",
+                        "label": "Victoria Stadium"
+                    }
+                ]
+            ],
+            [
+                "25,500",
+                []
+            ]
+        ],
+        [
+            [
+                "Pachuca",
+                [
+                    "/wiki/C.F._Pachuca"
+                ],
+                [
+                    {
+                        "entity id": "Q30115941",
+                        "label": "C.F. Pachuca"
+                    }
+                ]
+            ],
+            [
+                "Pachuca",
+                [
+                    "/wiki/Pachuca"
+                ],
+                [
+                    {
+                        "entity id": "Q160750",
+                        "label": "Pachuca"
+                    }
+                ]
+            ],
+            [
+                "Hidalgo",
+                [
+                    "/wiki/Estadio_Hidalgo"
+                ],
+                [
+                    {
+                        "entity id": "Q1369255",
+                        "label": "Hidalgo Stadium"
+                    }
+                ]
+            ],
+            [
+                "30,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Puebla",
+                [
+                    "/wiki/Club_Puebla"
+                ],
+                [
+                    {
+                        "entity id": "Q646596",
+                        "label": "Puebla F.C."
+                    }
+                ]
+            ],
+            [
+                "Puebla City",
+                [
+                    "/wiki/Puebla_City"
+                ],
+                [
+                    {
+                        "entity id": "Q125293",
+                        "label": "Puebla City"
+                    }
+                ]
+            ],
+            [
+                "Cuauht\u00e9moc",
+                [
+                    "/wiki/Estadio_Cuauht\u00e9moc"
+                ],
+                [
+                    {
+                        "entity id": "Q124769",
+                        "label": "Cuauht\u00e9moc Stadium"
+                    }
+                ]
+            ],
+            [
+                "51,726",
+                []
+            ]
+        ],
+        [
+            [
+                "Quer\u00e9taro",
+                [
+                    "/wiki/Quer\u00e9taro_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q606210",
+                        "label": "Quer\u00e9taro F.C."
+                    }
+                ]
+            ],
+            [
+                "Quer\u00e9taro City",
+                [
+                    "/wiki/Quer\u00e9taro_City"
+                ],
+                [
+                    {
+                        "entity id": "Q173121",
+                        "label": "Santiago de Quer\u00e9taro"
+                    }
+                ]
+            ],
+            [
+                "Corregidora",
+                [
+                    "/wiki/Estadio_Corregidora"
+                ],
+                [
+                    {
+                        "entity id": "Q713216",
+                        "label": "Corregidora Stadium"
+                    }
+                ]
+            ],
+            [
+                "33,162",
+                []
+            ]
+        ],
+        [
+            [
+                "Santos Laguna",
+                [
+                    "/wiki/Santos_Laguna"
+                ],
+                [
+                    {
+                        "entity id": "Q745246",
+                        "label": "Santos Laguna"
+                    }
+                ]
+            ],
+            [
+                "Torre\u00f3n",
+                [
+                    "/wiki/Torre\u00f3n"
+                ],
+                [
+                    {
+                        "entity id": "Q386991",
+                        "label": "Torre\u00f3n"
+                    }
+                ]
+            ],
+            [
+                "Corona",
+                [
+                    "/wiki/Estadio_Corona"
+                ],
+                [
+                    {
+                        "entity id": "Q1369155",
+                        "label": "Estadio Corona"
+                    }
+                ]
+            ],
+            [
+                "30,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Tijuana",
+                [
+                    "/wiki/Club_Tijuana"
+                ],
+                [
+                    {
+                        "entity id": "Q1103168",
+                        "label": "Club Tijuana"
+                    }
+                ]
+            ],
+            [
+                "Tijuana",
+                [
+                    "/wiki/Tijuana"
+                ],
+                [
+                    {
+                        "entity id": "Q124739",
+                        "label": "Tijuana"
+                    }
+                ]
+            ],
+            [
+                "Caliente",
+                [
+                    "/wiki/Estadio_Caliente"
+                ],
+                [
+                    {
+                        "entity id": "Q2706196",
+                        "label": "Caliente Stadium"
+                    }
+                ]
+            ],
+            [
+                "27,333",
+                []
+            ]
+        ],
+        [
+            [
+                "Toluca",
+                [
+                    "/wiki/Deportivo_Toluca_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q670186",
+                        "label": "Deportivo Toluca F.C."
+                    }
+                ]
+            ],
+            [
+                "Toluca",
+                [
+                    "/wiki/Toluca"
+                ],
+                [
+                    {
+                        "entity id": "Q209034",
+                        "label": "Toluca"
+                    }
+                ]
+            ],
+            [
+                "Nemesio D\u00edez",
+                [
+                    "/wiki/Estadio_Nemesio_D\u00edez"
+                ],
+                [
+                    {
+                        "entity id": "Q604859",
+                        "label": "Nemesio D\u00edez Stadium"
+                    }
+                ]
+            ],
+            [
+                "31,000",
+                []
+            ]
+        ],
+        [
+            [
+                "UANL",
+                [
+                    "/wiki/Tigres_UANL"
+                ],
+                [
+                    {
+                        "entity id": "Q849823",
+                        "label": "Tigres UANL"
+                    }
+                ]
+            ],
+            [
+                "San Nicol\u00e1s de los Garza",
+                [
+                    "/wiki/San_Nicol\u00e1s_de_los_Garza"
+                ],
+                [
+                    {
+                        "entity id": "Q914055",
+                        "label": "San Nicol\u00e1s de los Garza"
+                    }
+                ]
+            ],
+            [
+                "Universitario",
+                [
+                    "/wiki/Estadio_Universitario_(UANL)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "42,000",
+                []
+            ]
+        ],
+        [
+            [
+                "UNAM",
+                [
+                    "/wiki/Club_Universidad_Nacional"
+                ],
+                [
+                    {
+                        "entity id": "Q1143000",
+                        "label": "Club Universidad Nacional"
+                    }
+                ]
+            ],
+            [
+                "Mexico City",
+                [
+                    "/wiki/Mexico_City"
+                ],
+                [
+                    {
+                        "entity id": "Q1489",
+                        "label": "Mexico City"
+                    }
+                ]
+            ],
+            [
+                "Ol\u00edmpico Universitario",
+                [
+                    "/wiki/Estadio_Ol\u00edmpico_Universitario"
+                ],
+                [
+                    {
+                        "entity id": "Q767558",
+                        "label": "Universitary Olympic Stadium"
+                    }
+                ]
+            ],
+            [
+                "52,000",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Stadiums and locations",
+    "section_text": "GuadalajaraAtlasAtl . San LuisLe\u00f3nUANLMonterreyMoreliaNecaxaPachucaPueblaJu\u00e1rezQuer\u00e9taroSantos LagunaTijuanaTolucaMexico City Location of the 2019\u201320 Liga MX teams Am\u00e9ricaCruz AzulUNAM Location of the 2018\u201319 Liga MX teams in Greater Mexico City",
+    "uid": "Liga_MX_1",
+    "intro": "The Liga MX (Spanish pronunciation: [\u02c8li\u0263a \u02c8eme \u02c8ekis] is the top tier of the Mexican football league system. Currently sponsored by BBVA through its Mexican subsidiary BBVA M\u00e9xico, it is officially known as Liga BBVA MX. The season has two tournaments: Apertura, which starts in the summer, and Clausura, which starts in the winter. As of 2020, the league comprises 18 clubs, with one being relegated every year (two tournaments) based upon its league performances over the previous three years. The first 8 teams in the table at the end of the regular phase of the tournament qualify to the liguilla (mini-league, or playoff). Until July 2011, the league was divided into 3 tiers. The group formatting was removed in favor of a single-table format. The league is considered the strongest in North America, and among the strongest in all of Latin America. According to the International Federation of Football History and Statistics, the league currently ranks 20th worldwide and was ranked as the 10th strongest league in the first decade of the 21st century (2001-2010). According to CONCACAF, the league - with an average attendance of 25,557 during the 2014-15 season - draws the largest crowds on average of any football league in the Americas and the third largest crowds of any professional sports league in North America, behind only the National Football League and Major League Baseball, and ahead of the Canadian Football League. It is also the fourth most attended football league in the world behind Germany's Bundesliga, England's Premier League and Spain's La Liga. Of the 56 teams to have competed in the league, Am\u00e9rica has won the title 13 times, followed by Guadalajara (12), Toluca (10), Cruz Azul (8), Le\u00f3n, UANL and UNAM (7), and Pachuca and Santos Laguna (6)."
+}

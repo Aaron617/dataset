@@ -1,0 +1,577 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Italy",
+    "title": "Italy",
+    "header": [
+        [
+            "Metropolitan city",
+            [
+                "/wiki/Metropolitan_cities_of_Italy"
+            ],
+            [
+                {}
+            ]
+        ],
+        [
+            "Region",
+            [
+                "/wiki/Regions_of_Italy"
+            ],
+            [
+                {
+                    "entity id": "Q21235336",
+                    "label": "regions of Italy"
+                }
+            ]
+        ],
+        [
+            "Area ( km )",
+            []
+        ],
+        [
+            "Population ( 1 January 2016 )",
+            []
+        ],
+        [
+            "Functional Urban Areas ( FUA ) Population ( 2016 )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Rome",
+                [
+                    "/wiki/Metropolitan_City_of_Rome"
+                ],
+                [
+                    {
+                        "entity id": "Q18288160",
+                        "label": "Metropolitan City of Rome"
+                    }
+                ]
+            ],
+            [
+                "Lazio",
+                [
+                    "/wiki/Lazio"
+                ],
+                [
+                    {
+                        "entity id": "Q1282",
+                        "label": "Lazio"
+                    }
+                ]
+            ],
+            [
+                "5,352",
+                []
+            ],
+            [
+                "4,340,474",
+                []
+            ],
+            [
+                "4,414,288",
+                []
+            ]
+        ],
+        [
+            [
+                "Milan",
+                [
+                    "/wiki/Metropolitan_City_of_Milan"
+                ],
+                [
+                    {
+                        "entity id": "Q18288155",
+                        "label": "Metropolitan City of Milan"
+                    }
+                ]
+            ],
+            [
+                "Lombardy",
+                [
+                    "/wiki/Lombardy"
+                ],
+                [
+                    {
+                        "entity id": "Q1210",
+                        "label": "Lombardy"
+                    }
+                ]
+            ],
+            [
+                "1,575",
+                []
+            ],
+            [
+                "3,208,509",
+                []
+            ],
+            [
+                "5,111,481",
+                []
+            ]
+        ],
+        [
+            [
+                "Naples",
+                [
+                    "/wiki/Metropolitan_City_of_Naples"
+                ],
+                [
+                    {
+                        "entity id": "Q18241891",
+                        "label": "Metropolitan City of Naples"
+                    }
+                ]
+            ],
+            [
+                "Campania",
+                [
+                    "/wiki/Campania"
+                ],
+                [
+                    {
+                        "entity id": "Q1438",
+                        "label": "Campania"
+                    }
+                ]
+            ],
+            [
+                "1,171",
+                []
+            ],
+            [
+                "3,113,898",
+                []
+            ],
+            [
+                "3,418,061",
+                []
+            ]
+        ],
+        [
+            [
+                "Turin",
+                [
+                    "/wiki/Metropolitan_City_of_Turin"
+                ],
+                [
+                    {
+                        "entity id": "Q18288162",
+                        "label": "Metropolitan City of Turin"
+                    }
+                ]
+            ],
+            [
+                "Piedmont",
+                [
+                    "/wiki/Piedmont"
+                ],
+                [
+                    {
+                        "entity id": "Q1216",
+                        "label": "Piedmont"
+                    }
+                ]
+            ],
+            [
+                "6,829",
+                []
+            ],
+            [
+                "2,282,127",
+                []
+            ],
+            [
+                "1,769,475",
+                []
+            ]
+        ],
+        [
+            [
+                "Palermo",
+                [
+                    "/wiki/Metropolitan_City_of_Palermo"
+                ],
+                [
+                    {
+                        "entity id": "Q20795016",
+                        "label": "Metropolitan City of Palermo"
+                    }
+                ]
+            ],
+            [
+                "Sicily",
+                [
+                    "/wiki/Sicily"
+                ],
+                [
+                    {
+                        "entity id": "Q1460",
+                        "label": "Sicily"
+                    }
+                ]
+            ],
+            [
+                "5,009",
+                []
+            ],
+            [
+                "1,271,406",
+                []
+            ],
+            [
+                "1,033,226",
+                []
+            ]
+        ],
+        [
+            [
+                "Bari",
+                [
+                    "/wiki/Metropolitan_City_of_Bari"
+                ],
+                [
+                    {
+                        "entity id": "Q18241854",
+                        "label": "Metropolitan City of Bari"
+                    }
+                ]
+            ],
+            [
+                "Apulia",
+                [
+                    "/wiki/Apulia"
+                ],
+                [
+                    {
+                        "entity id": "Q1447",
+                        "label": "Apulia"
+                    }
+                ]
+            ],
+            [
+                "3,821",
+                []
+            ],
+            [
+                "1,263,820",
+                []
+            ],
+            [
+                "749,723",
+                []
+            ]
+        ],
+        [
+            [
+                "Catania",
+                [
+                    "/wiki/Metropolitan_City_of_Catania"
+                ],
+                [
+                    {
+                        "entity id": "Q20991246",
+                        "label": "Metropolitan City of Catania"
+                    }
+                ]
+            ],
+            [
+                "Sicily",
+                [
+                    "/wiki/Sicily"
+                ],
+                [
+                    {
+                        "entity id": "Q1460",
+                        "label": "Sicily"
+                    }
+                ]
+            ],
+            [
+                "3,574",
+                []
+            ],
+            [
+                "1,115,535",
+                []
+            ],
+            [
+                "658,805",
+                []
+            ]
+        ],
+        [
+            [
+                "Florence",
+                [
+                    "/wiki/Metropolitan_City_of_Florence"
+                ],
+                [
+                    {
+                        "entity id": "Q18288148",
+                        "label": "Metropolitan City of Florence"
+                    }
+                ]
+            ],
+            [
+                "Tuscany",
+                [
+                    "/wiki/Tuscany"
+                ],
+                [
+                    {
+                        "entity id": "Q1273",
+                        "label": "Tuscany"
+                    }
+                ]
+            ],
+            [
+                "3,514",
+                []
+            ],
+            [
+                "1,113,348",
+                []
+            ],
+            [
+                "807,896",
+                []
+            ]
+        ],
+        [
+            [
+                "Bologna",
+                [
+                    "/wiki/Metropolitan_City_of_Bologna"
+                ],
+                [
+                    {
+                        "entity id": "Q18288145",
+                        "label": "Metropolitan City of Bologna"
+                    }
+                ]
+            ],
+            [
+                "Emilia-Romagna",
+                [
+                    "/wiki/Emilia-Romagna"
+                ],
+                [
+                    {
+                        "entity id": "Q1263",
+                        "label": "Emilia-Romagna"
+                    }
+                ]
+            ],
+            [
+                "3,702",
+                []
+            ],
+            [
+                "1,005,831",
+                []
+            ],
+            [
+                "775,247",
+                []
+            ]
+        ],
+        [
+            [
+                "Genoa",
+                [
+                    "/wiki/Metropolitan_City_of_Genoa"
+                ],
+                [
+                    {
+                        "entity id": "Q18288152",
+                        "label": "Metropolitan City of Genoa"
+                    }
+                ]
+            ],
+            [
+                "Liguria",
+                [
+                    "/wiki/Liguria"
+                ],
+                [
+                    {
+                        "entity id": "Q1256",
+                        "label": "Liguria"
+                    }
+                ]
+            ],
+            [
+                "1,839",
+                []
+            ],
+            [
+                "854,099",
+                []
+            ],
+            [
+                "713,243",
+                []
+            ]
+        ],
+        [
+            [
+                "Venice",
+                [
+                    "/wiki/Metropolitan_City_of_Venice"
+                ],
+                [
+                    {
+                        "entity id": "Q3678587",
+                        "label": "Metropolitan City of Venice"
+                    }
+                ]
+            ],
+            [
+                "Veneto",
+                [
+                    "/wiki/Veneto"
+                ],
+                [
+                    {
+                        "entity id": "Q1243",
+                        "label": "Veneto"
+                    }
+                ]
+            ],
+            [
+                "2,462",
+                []
+            ],
+            [
+                "855,696",
+                []
+            ],
+            [
+                "561,697",
+                []
+            ]
+        ],
+        [
+            [
+                "Messina",
+                [
+                    "/wiki/Metropolitan_City_of_Messina"
+                ],
+                [
+                    {
+                        "entity id": "Q20991250",
+                        "label": "Metropolitan City of Messina"
+                    }
+                ]
+            ],
+            [
+                "Sicily",
+                [
+                    "/wiki/Sicily"
+                ],
+                [
+                    {
+                        "entity id": "Q1460",
+                        "label": "Sicily"
+                    }
+                ]
+            ],
+            [
+                "3,266",
+                []
+            ],
+            [
+                "640,675",
+                []
+            ],
+            [
+                "273,680",
+                []
+            ]
+        ],
+        [
+            [
+                "Reggio Calabria",
+                [
+                    "/wiki/Metropolitan_City_of_Reggio_Calabria"
+                ],
+                [
+                    {
+                        "entity id": "Q3678586",
+                        "label": "Metropolitan City of Reggio Calabria"
+                    }
+                ]
+            ],
+            [
+                "Calabria",
+                [
+                    "/wiki/Calabria"
+                ],
+                [
+                    {
+                        "entity id": "Q1458",
+                        "label": "Calabria"
+                    }
+                ]
+            ],
+            [
+                "3,183",
+                []
+            ],
+            [
+                "555,836",
+                []
+            ],
+            [
+                "221,139",
+                []
+            ]
+        ],
+        [
+            [
+                "Cagliari",
+                [
+                    "/wiki/Metropolitan_City_of_Cagliari"
+                ],
+                [
+                    {
+                        "entity id": "Q3622022",
+                        "label": "Metropolitan City of Cagliari"
+                    }
+                ]
+            ],
+            [
+                "Sardinia",
+                [
+                    "/wiki/Sardinia"
+                ],
+                [
+                    {
+                        "entity id": "Q1462",
+                        "label": "Sardinia"
+                    }
+                ]
+            ],
+            [
+                "1,248",
+                []
+            ],
+            [
+                "430,413",
+                []
+            ],
+            [
+                "488,954",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Demographics -- Metropolitan cities and larger urban zone",
+    "section_text": "",
+    "uid": "Italy_0",
+    "intro": "Italy (Italian: Italia [i\u02c8ta\u02d0lja] (listen)), officially the Italian Republic (Italian: Repubblica Italiana [re\u02c8pubblika ita\u02c8lja\u02d0na]), is a European country consisting of a peninsula delimited by the Alps and surrounded by several islands. Italy is located in south-central Europe, and it is also considered a part of Western Europe. The country covers a total area of 301,340 km2 (116,350 sq mi) and shares land borders with France, Switzerland, Austria, Slovenia, and the enclaved microstates of Vatican City and San Marino. Italy has a territorial exclave in Switzerland (Campione) and a maritime exclave in the Tunisian Sea (Lampedusa). With around 60 million inhabitants, Italy is the third-most populous member state of the European Union. The capital and largest city is Rome; other major cities are Milan, Naples, Turin, Palermo, Genoa, Bologna, Florence and Venice. Due to its central geographic location in Southern Europe and the Mediterranean, Italy has historically been home to myriad peoples and cultures. In addition to the various ancient peoples dispersed throughout what is now modern-day Italy, the most predominant being the Indo-European Italic peoples who gave the peninsula its name, beginning from the classical era, Phoenicians and Carthaginians founded colonies mostly in insular Italy, Greeks established settlements in the so-called Magna Graecia of Southern Italy, while Etruscans and Celts inhabited central and northern Italy respectively. An Italic tribe known as the Latins formed the Roman Kingdom in the 8th century BC, which eventually became a republic with a government of the Senate and the People. The Roman Republic initially conquered and assimilated its neighbours on the Italian peninsula, eventually expanding and conquering parts of Europe, North Africa and Asia. By the first century BC, the Roman Empire emerged as the dominant power in the Mediterranean Basin and became a leading cultural, political and religious centre, inaugurating the Pax Romana, a period of more than 200 years during which Italy's law, technology, economy, art, and literature developed. Italy remained the homeland of the Romans and the metropole of the empire, whose legacy can also be observed in the global distribution of culture, governments, Christianity and the Latin script."
+}

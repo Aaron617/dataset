@@ -1,0 +1,932 @@
+{
+    "url": "https://en.wikipedia.org/wiki/BB_postcode_area",
+    "title": "BB postcode area",
+    "header": [
+        [
+            "Postcode district",
+            []
+        ],
+        [
+            "Post town",
+            [
+                "/wiki/Post_town"
+            ],
+            [
+                {
+                    "entity id": "Q1968403",
+                    "label": "post town"
+                }
+            ]
+        ],
+        [
+            "Coverage",
+            []
+        ],
+        [
+            "Local authority area",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "BB0",
+                []
+            ],
+            [
+                "BLACKBURN",
+                []
+            ],
+            [
+                "Granby Marketing , Blackburn",
+                []
+            ],
+            [
+                "non-geographic",
+                [
+                    "/wiki/Postcodes_in_the_United_Kingdom"
+                ],
+                [
+                    {
+                        "entity id": "Q1370074",
+                        "label": "postcodes in the United Kingdom"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BB1",
+                []
+            ],
+            [
+                "BLACKBURN",
+                []
+            ],
+            [
+                "Blackburn ( east ) , Bank Hey , Belthorn ( part ) , Blackamoor , Clayton-le-Dale , Guide , Knuzden , Mellor , Ramsgreave , Rishton , Salesbury , Shadsworth , Sunnybower , Tottleworth , Whitebirk , Wilpshire",
+                [
+                    "/wiki/Bank_Hey",
+                    "/wiki/Belthorn",
+                    "/wiki/Blackamoor,_Lancashire",
+                    "/wiki/Clayton-le-Dale",
+                    "/wiki/Guide,_Lancashire",
+                    "/wiki/Mellor,_Lancashire",
+                    "/wiki/Ramsgreave",
+                    "/wiki/Rishton",
+                    "/wiki/Salesbury",
+                    "/wiki/Sunnybower",
+                    "/wiki/Tottleworth",
+                    "/wiki/Whitebirk",
+                    "/wiki/Wilpshire"
+                ],
+                [
+                    {
+                        "entity id": "Q4855927",
+                        "label": "Bank Hey"
+                    },
+                    {
+                        "entity id": "Q4884745",
+                        "label": "Belthorn"
+                    },
+                    {
+                        "entity id": "Q4922529",
+                        "label": "Blackamoor, Lancashire"
+                    },
+                    {
+                        "entity id": "Q2114891",
+                        "label": "Clayton-le-Dale"
+                    },
+                    {
+                        "entity id": "Q5615410",
+                        "label": "Guide, Lancashire"
+                    },
+                    {
+                        "entity id": "Q742852",
+                        "label": "Mellor"
+                    },
+                    {
+                        "entity id": "Q15271702",
+                        "label": "Ramsgreave"
+                    },
+                    {
+                        "entity id": "Q250276",
+                        "label": "Rishton"
+                    },
+                    {
+                        "entity id": "Q7404331",
+                        "label": "Salesbury"
+                    },
+                    {},
+                    {
+                        "entity id": "Q7828494",
+                        "label": "Tottleworth"
+                    },
+                    {
+                        "entity id": "Q7995736",
+                        "label": "Whitebirk"
+                    },
+                    {
+                        "entity id": "Q2134584",
+                        "label": "Wilpshire"
+                    }
+                ]
+            ],
+            [
+                "Blackburn with Darwen , Hyndburn , Ribble Valley",
+                [
+                    "/wiki/Blackburn_with_Darwen",
+                    "/wiki/Hyndburn",
+                    "/wiki/Ribble_Valley"
+                ],
+                [
+                    {
+                        "entity id": "Q880782",
+                        "label": "Blackburn with Darwen"
+                    },
+                    {
+                        "entity id": "Q1640713",
+                        "label": "Hyndburn"
+                    },
+                    {
+                        "entity id": "Q2116317",
+                        "label": "Ribble Valley"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BB2",
+                []
+            ],
+            [
+                "BLACKBURN",
+                []
+            ],
+            [
+                "Blackburn ( west ) , Beardwood , Balderstone , Belthorn ( part ) , Cherry Tree , Feniscowles , Griffin , Holly Tree , Livesey , Mellor , Mellor Brook , Mill Hill , Osbaldeston , Pleasington , Witton",
+                [
+                    "/wiki/Beardwood",
+                    "/wiki/Balderstone,_Lancashire",
+                    "/wiki/Belthorn",
+                    "/wiki/Cherry_Tree,_Lancashire",
+                    "/wiki/Feniscowles",
+                    "/wiki/Livesey",
+                    "/wiki/Mellor,_Lancashire",
+                    "/wiki/Mellor_Brook",
+                    "/wiki/Osbaldeston",
+                    "/wiki/Pleasington"
+                ],
+                [
+                    {
+                        "entity id": "Q4876700",
+                        "label": "Beardwood"
+                    },
+                    {
+                        "entity id": "Q375460",
+                        "label": "Balderstone"
+                    },
+                    {
+                        "entity id": "Q4884745",
+                        "label": "Belthorn"
+                    },
+                    {},
+                    {
+                        "entity id": "Q5443491",
+                        "label": "Feniscowles"
+                    },
+                    {
+                        "entity id": "Q740713",
+                        "label": "7170 Livesey"
+                    },
+                    {
+                        "entity id": "Q742852",
+                        "label": "Mellor"
+                    },
+                    {
+                        "entity id": "Q6813181",
+                        "label": "Mellor Brook"
+                    },
+                    {
+                        "entity id": "Q7105720",
+                        "label": "Osbaldeston"
+                    },
+                    {
+                        "entity id": "Q2342447",
+                        "label": "Pleasington"
+                    }
+                ]
+            ],
+            [
+                "Blackburn with Darwen , Chorley , South Ribble , Ribble Valley",
+                [
+                    "/wiki/Borough_of_Chorley",
+                    "/wiki/South_Ribble"
+                ],
+                [
+                    {
+                        "entity id": "Q894081",
+                        "label": "Chorley"
+                    },
+                    {
+                        "entity id": "Q290838",
+                        "label": "South Ribble"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BB3",
+                []
+            ],
+            [
+                "DARWEN",
+                []
+            ],
+            [
+                "Darwen , Bank Fold , Eccleshill , Hoddlesden , Livesey , Lower Darwen , Pickup Bank , Tockholes",
+                [
+                    "/wiki/Bank_Fold",
+                    "/wiki/Eccleshill,_Lancashire",
+                    "/wiki/Hoddlesden",
+                    "/wiki/Livesey",
+                    "/wiki/Lower_Darwen",
+                    "/wiki/Pickup_Bank",
+                    "/wiki/Tockholes"
+                ],
+                [
+                    {
+                        "entity id": "Q4855920",
+                        "label": "Bank Fold"
+                    },
+                    {
+                        "entity id": "Q3142858",
+                        "label": "Eccleshill"
+                    },
+                    {
+                        "entity id": "Q5876001",
+                        "label": "Hoddlesden"
+                    },
+                    {
+                        "entity id": "Q740713",
+                        "label": "7170 Livesey"
+                    },
+                    {
+                        "entity id": "Q11762917",
+                        "label": "Lower Darwen"
+                    },
+                    {
+                        "entity id": "Q24639084",
+                        "label": "Pickup Bank Reservoir"
+                    },
+                    {
+                        "entity id": "Q2492148",
+                        "label": "Tockholes"
+                    }
+                ]
+            ],
+            [
+                "Blackburn with Darwen",
+                []
+            ]
+        ],
+        [
+            [
+                "BB4",
+                []
+            ],
+            [
+                "ROSSENDALE",
+                []
+            ],
+            [
+                "Acre , Balladen , Bent Gate , Cloughfold , Cowpe , Crawshawbooth , Haslingden , Helmshore , Lumb ( near Rawtenstall ) , Newchurch , Rawtenstall , Waterfoot , Weir",
+                [
+                    "/wiki/Acre,_Lancashire",
+                    "/wiki/Balladen",
+                    "/wiki/Bent_Gate",
+                    "/wiki/Cloughfold",
+                    "/wiki/Cowpe",
+                    "/wiki/Crawshawbooth",
+                    "/wiki/Haslingden",
+                    "/wiki/Helmshore",
+                    "/wiki/Lumb,_Rawtenstall",
+                    "/wiki/Newchurch,_Lancashire",
+                    "/wiki/Rawtenstall",
+                    "/wiki/Waterfoot,_Lancashire",
+                    "/wiki/Weir,_Lancashire"
+                ],
+                [
+                    {
+                        "entity id": "Q4675075",
+                        "label": "Acre, Lancashire"
+                    },
+                    {
+                        "entity id": "Q4851354",
+                        "label": "Balladen"
+                    },
+                    {
+                        "entity id": "Q4890319",
+                        "label": "Bent Gate"
+                    },
+                    {
+                        "entity id": "Q5135811",
+                        "label": "Cloughfold"
+                    },
+                    {
+                        "entity id": "Q5179787",
+                        "label": "Cowpe"
+                    },
+                    {
+                        "entity id": "Q5183010",
+                        "label": "Crawshawbooth"
+                    },
+                    {
+                        "entity id": "Q2361633",
+                        "label": "Haslingden"
+                    },
+                    {
+                        "entity id": "Q5709509",
+                        "label": "Helmshore"
+                    },
+                    {
+                        "entity id": "Q18161240",
+                        "label": "Lumb"
+                    },
+                    {
+                        "entity id": "Q11790914",
+                        "label": "Newchurch"
+                    },
+                    {
+                        "entity id": "Q2201943",
+                        "label": "Rawtenstall"
+                    },
+                    {
+                        "entity id": "Q7973988",
+                        "label": "Waterfoot"
+                    },
+                    {
+                        "entity id": "Q7980280",
+                        "label": "Weir"
+                    }
+                ]
+            ],
+            [
+                "Rossendale",
+                [
+                    "/wiki/Borough_of_Rossendale"
+                ],
+                [
+                    {
+                        "entity id": "Q527423",
+                        "label": "Rossendale"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BB5",
+                []
+            ],
+            [
+                "ACCRINGTON",
+                []
+            ],
+            [
+                "Accrington , Altham , Baxenden , Church , Clayton-le-Moors , Huncoat , Oswaldtwistle , Rising Bridge",
+                [
+                    "/wiki/Altham,_Lancashire",
+                    "/wiki/Baxenden",
+                    "/wiki/Church,_Lancashire",
+                    "/wiki/Clayton-le-Moors",
+                    "/wiki/Huncoat",
+                    "/wiki/Oswaldtwistle"
+                ],
+                [
+                    {
+                        "entity id": "Q4284701",
+                        "label": "Altham"
+                    },
+                    {
+                        "entity id": "Q4873808",
+                        "label": "Baxenden"
+                    },
+                    {},
+                    {
+                        "entity id": "Q927181",
+                        "label": "Clayton-le-Moors"
+                    },
+                    {
+                        "entity id": "Q5942114",
+                        "label": "Huncoat"
+                    },
+                    {
+                        "entity id": "Q246632",
+                        "label": "Oswaldtwistle"
+                    }
+                ]
+            ],
+            [
+                "Hyndburn , Rossendale",
+                []
+            ]
+        ],
+        [
+            [
+                "BB6",
+                []
+            ],
+            [
+                "BLACKBURN",
+                []
+            ],
+            [
+                "Dinckley , Great Harwood , Langho",
+                [
+                    "/wiki/Dinckley",
+                    "/wiki/Great_Harwood",
+                    "/wiki/Langho"
+                ],
+                [
+                    {
+                        "entity id": "Q2358752",
+                        "label": "Dinckley"
+                    },
+                    {
+                        "entity id": "Q2305059",
+                        "label": "Great Harwood"
+                    },
+                    {
+                        "entity id": "Q11752814",
+                        "label": "Langho"
+                    }
+                ]
+            ],
+            [
+                "Hyndburn , Ribble Valley",
+                []
+            ]
+        ],
+        [
+            [
+                "BB7",
+                []
+            ],
+            [
+                "CLITHEROE",
+                []
+            ],
+            [
+                "Clitheroe , Barrow , Bashall Eaves , Billington , Bolton-by-Bowland , Chatburn , Downham , Dunsop Bridge , Gisburn , Great Mitton , Grindleton , Hurst Green , Little Mitton , Middop , Newsholme , Newton-in-Bowland , Paythorne , Pendleton , Rimington , Sabden , Sawley , Slaidburn , Twiston , Waddington , Whalley , Whitewell , Wiswell , Worston",
+                [
+                    "/wiki/Barrow,_Clitheroe",
+                    "/wiki/Bashall_Eaves",
+                    "/wiki/Billington,_Lancashire",
+                    "/wiki/Bolton-by-Bowland",
+                    "/wiki/Chatburn",
+                    "/wiki/Downham,_Lancashire",
+                    "/wiki/Dunsop_Bridge",
+                    "/wiki/Gisburn",
+                    "/wiki/Great_Mitton",
+                    "/wiki/Grindleton",
+                    "/wiki/Hurst_Green,_Lancashire",
+                    "/wiki/Little_Mitton",
+                    "/wiki/Middop",
+                    "/wiki/Newsholme,_Lancashire",
+                    "/wiki/Newton-in-Bowland",
+                    "/wiki/Paythorne",
+                    "/wiki/Pendleton,_Lancashire",
+                    "/wiki/Rimington",
+                    "/wiki/Sabden",
+                    "/wiki/Sawley,_Lancashire",
+                    "/wiki/Slaidburn",
+                    "/wiki/Twiston",
+                    "/wiki/Waddington,_Lancashire",
+                    "/wiki/Whalley,_Lancashire",
+                    "/wiki/Whitewell",
+                    "/wiki/Wiswell",
+                    "/wiki/Worston"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q2178217",
+                        "label": "Bashall Eaves"
+                    },
+                    {
+                        "entity id": "Q4911982",
+                        "label": "Billington"
+                    },
+                    {
+                        "entity id": "Q2145781",
+                        "label": "Bolton-by-Bowland"
+                    },
+                    {
+                        "entity id": "Q677309",
+                        "label": "Chatburn"
+                    },
+                    {
+                        "entity id": "Q2376413",
+                        "label": "Downham"
+                    },
+                    {
+                        "entity id": "Q1266264",
+                        "label": "Dunsop Bridge"
+                    },
+                    {
+                        "entity id": "Q2122333",
+                        "label": "Gisburn"
+                    },
+                    {
+                        "entity id": "Q2344403",
+                        "label": "Great Mitton"
+                    },
+                    {
+                        "entity id": "Q2294405",
+                        "label": "Grindleton"
+                    },
+                    {
+                        "entity id": "Q5948583",
+                        "label": "Hurst Green"
+                    },
+                    {
+                        "entity id": "Q2279192",
+                        "label": "Little Mitton"
+                    },
+                    {
+                        "entity id": "Q4355206",
+                        "label": "Middop"
+                    },
+                    {
+                        "entity id": "Q3294889",
+                        "label": "Newsholme"
+                    },
+                    {
+                        "entity id": "Q2321350",
+                        "label": "Newton"
+                    },
+                    {
+                        "entity id": "Q518681",
+                        "label": "Paythorne"
+                    },
+                    {
+                        "entity id": "Q2209469",
+                        "label": "Pendleton"
+                    },
+                    {
+                        "entity id": "Q1959673",
+                        "label": "Rimington"
+                    },
+                    {
+                        "entity id": "Q2755561",
+                        "label": "Sabden"
+                    },
+                    {
+                        "entity id": "Q1835990",
+                        "label": "Sawley"
+                    },
+                    {
+                        "entity id": "Q2609696",
+                        "label": "Slaidburn"
+                    },
+                    {
+                        "entity id": "Q2499785",
+                        "label": "Twiston"
+                    },
+                    {
+                        "entity id": "Q2618433",
+                        "label": "Waddington"
+                    },
+                    {
+                        "entity id": "Q1009524",
+                        "label": "Whalley"
+                    },
+                    {
+                        "entity id": "Q48810782",
+                        "label": "Whitewell"
+                    },
+                    {
+                        "entity id": "Q2190788",
+                        "label": "Wiswell"
+                    },
+                    {
+                        "entity id": "Q2413625",
+                        "label": "Worston"
+                    }
+                ]
+            ],
+            [
+                "Ribble Valley",
+                []
+            ]
+        ],
+        [
+            [
+                "BB8",
+                []
+            ],
+            [
+                "COLNE",
+                []
+            ],
+            [
+                "Colne , Foulridge , Laneshaw Bridge , Trawden , Winewall , Wycoller",
+                [
+                    "/wiki/Foulridge",
+                    "/wiki/Laneshaw_Bridge",
+                    "/wiki/Trawden",
+                    "/wiki/Winewall",
+                    "/wiki/Wycoller"
+                ],
+                [
+                    {
+                        "entity id": "Q630115",
+                        "label": "Foulridge"
+                    },
+                    {
+                        "entity id": "Q611622",
+                        "label": "Laneshaw Bridge"
+                    },
+                    {
+                        "entity id": "Q2139119",
+                        "label": "Trawden"
+                    },
+                    {
+                        "entity id": "Q89433147",
+                        "label": "Winewall"
+                    },
+                    {
+                        "entity id": "Q8039638",
+                        "label": "Wycoller"
+                    }
+                ]
+            ],
+            [
+                "Pendle",
+                [
+                    "/wiki/Borough_of_Pendle"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "BB9",
+                []
+            ],
+            [
+                "NELSON",
+                []
+            ],
+            [
+                "Nelson , Barrowford , Blacko , Brierfield , Higherford , Roughlee",
+                [
+                    "/wiki/Barrowford",
+                    "/wiki/Blacko",
+                    "/wiki/Brierfield,_Lancashire",
+                    "/wiki/Higherford,_Lancashire",
+                    "/wiki/Roughlee"
+                ],
+                [
+                    {
+                        "entity id": "Q303243",
+                        "label": "Barrowford"
+                    },
+                    {
+                        "entity id": "Q2344923",
+                        "label": "Blacko"
+                    },
+                    {
+                        "entity id": "Q523025",
+                        "label": "Brierfield"
+                    },
+                    {},
+                    {
+                        "entity id": "Q3443269",
+                        "label": "Roughlee"
+                    }
+                ]
+            ],
+            [
+                "Pendle",
+                []
+            ]
+        ],
+        [
+            [
+                "BB10",
+                []
+            ],
+            [
+                "BURNLEY",
+                []
+            ],
+            [
+                "Burnley ( east ) , Cliviger , Haggate , Harle Syke , Reedley , Worsthorne",
+                [
+                    "/wiki/Cliviger",
+                    "/wiki/Haggate",
+                    "/wiki/Harle_Syke",
+                    "/wiki/Reedley,_Lancashire",
+                    "/wiki/Worsthorne"
+                ],
+                [
+                    {
+                        "entity id": "Q921279",
+                        "label": "Cliviger"
+                    },
+                    {
+                        "entity id": "Q5638682",
+                        "label": "Haggate"
+                    },
+                    {
+                        "entity id": "Q5658458",
+                        "label": "Harle Syke"
+                    },
+                    {},
+                    {
+                        "entity id": "Q8037143",
+                        "label": "Worsthorne"
+                    }
+                ]
+            ],
+            [
+                "Burnley , Pendle",
+                [
+                    "/wiki/Borough_of_Burnley"
+                ],
+                [
+                    {
+                        "entity id": "Q894079",
+                        "label": "Burnley"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BB11",
+                []
+            ],
+            [
+                "BURNLEY",
+                []
+            ],
+            [
+                "Burnley ( south and town centre ) , Dunnockshaw and Clowbridge , Hapton",
+                [
+                    "/wiki/Dunnockshaw_and_Clowbridge",
+                    "/wiki/Hapton,_Lancashire"
+                ],
+                [
+                    {
+                        "entity id": "Q2272791",
+                        "label": "Dunnockshaw"
+                    },
+                    {
+                        "entity id": "Q2805266",
+                        "label": "Hapton"
+                    }
+                ]
+            ],
+            [
+                "Burnley",
+                []
+            ]
+        ],
+        [
+            [
+                "BB12",
+                []
+            ],
+            [
+                "BURNLEY",
+                []
+            ],
+            [
+                "Burnley ( west ) , Barley , Fence , Hapton , Higham , Padiham , Read , Simonstone , Wheatley Lane",
+                [
+                    "/wiki/Barley,_Lancashire",
+                    "/wiki/Fence,_Lancashire",
+                    "/wiki/Hapton,_Lancashire",
+                    "/wiki/Higham,_Lancashire",
+                    "/wiki/Padiham",
+                    "/wiki/Read,_Lancashire",
+                    "/wiki/Simonstone,_Lancashire",
+                    "/wiki/Wheatley_Lane,_Lancashire"
+                ],
+                [
+                    {
+                        "entity id": "Q4861152",
+                        "label": "Barley"
+                    },
+                    {
+                        "entity id": "Q5442975",
+                        "label": "Fence"
+                    },
+                    {
+                        "entity id": "Q2805266",
+                        "label": "Hapton"
+                    },
+                    {
+                        "entity id": "Q5757791",
+                        "label": "Higham"
+                    },
+                    {
+                        "entity id": "Q2035820",
+                        "label": "Padiham"
+                    },
+                    {
+                        "entity id": "Q2230619",
+                        "label": "Read"
+                    },
+                    {
+                        "entity id": "Q2053864",
+                        "label": "Simonstone"
+                    },
+                    {
+                        "entity id": "Q9372300",
+                        "label": "Wheatley Lane"
+                    }
+                ]
+            ],
+            [
+                "Burnley , Pendle , Ribble Valley",
+                []
+            ]
+        ],
+        [
+            [
+                "BB18",
+                []
+            ],
+            [
+                "BARNOLDSWICK",
+                []
+            ],
+            [
+                "Barnoldswick , Bracewell and Brogden , Earby , Kelbrook , Salterforth , Sough",
+                [
+                    "/wiki/Bracewell_and_Brogden",
+                    "/wiki/Earby",
+                    "/wiki/Kelbrook",
+                    "/wiki/Salterforth",
+                    "/wiki/Sough,_Lancashire"
+                ],
+                [
+                    {
+                        "entity id": "Q2150148",
+                        "label": "Bracewell and Brogden"
+                    },
+                    {
+                        "entity id": "Q2193132",
+                        "label": "Earby"
+                    },
+                    {
+                        "entity id": "Q4340976",
+                        "label": "Kelbrook"
+                    },
+                    {
+                        "entity id": "Q2663911",
+                        "label": "Salterforth"
+                    },
+                    {
+                        "entity id": "Q7564110",
+                        "label": "Sough"
+                    }
+                ]
+            ],
+            [
+                "Pendle",
+                []
+            ]
+        ],
+        [
+            [
+                "BB94",
+                []
+            ],
+            [
+                "BARNOLDSWICK",
+                []
+            ],
+            [
+                "Holiday Cottages Group , Earby",
+                []
+            ],
+            [
+                "non-geographic",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Coverage",
+    "section_text": "The approximate coverage of the postcode districts :",
+    "uid": "BB_postcode_area_0",
+    "intro": "The BB postcode area, also known as the Blackburn postcode area, is a group of thirteen postcode districts in North West England, which are subdivisions of nine post towns. These cover east Lancashire, including Blackburn, Burnley, Accrington, Barnoldswick, Clitheroe, Colne, Darwen, Nelson and Rossendale."
+}

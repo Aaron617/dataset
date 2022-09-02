@@ -1,0 +1,656 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Dynasty_Warriors_5",
+    "title": "Dynasty Warriors 5",
+    "header": [
+        [
+            "Shu",
+            [
+                "/wiki/Shu_Han"
+            ],
+            [
+                {
+                    "entity id": "Q320925",
+                    "label": "Shu Han"
+                }
+            ]
+        ],
+        [
+            "Wei",
+            [
+                "/wiki/Cao_Wei"
+            ],
+            [
+                {
+                    "entity id": "Q320930",
+                    "label": "Cao Wei"
+                }
+            ]
+        ],
+        [
+            "Wu",
+            [
+                "/wiki/Eastern_Wu"
+            ],
+            [
+                {
+                    "entity id": "Q274488",
+                    "label": "Eastern Wu"
+                }
+            ]
+        ],
+        [
+            "Other",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Guan Ping *",
+                [
+                    "/wiki/Guan_Ping"
+                ],
+                [
+                    {
+                        "entity id": "Q735481",
+                        "label": "Guan Ping"
+                    }
+                ]
+            ],
+            [
+                "Cao Cao",
+                [
+                    "/wiki/Cao_Cao"
+                ],
+                [
+                    {
+                        "entity id": "Q204077",
+                        "label": "Cao Cao"
+                    }
+                ]
+            ],
+            [
+                "Da Qiao",
+                [
+                    "/wiki/Two_Qiaos"
+                ],
+                [
+                    {
+                        "entity id": "Q232102",
+                        "label": "Two Qiaos"
+                    }
+                ]
+            ],
+            [
+                "Diao Chan",
+                [
+                    "/wiki/Diaochan"
+                ],
+                [
+                    {
+                        "entity id": "Q1137442",
+                        "label": "Diaochan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Guan Yu",
+                [
+                    "/wiki/Guan_Yu"
+                ],
+                [
+                    {
+                        "entity id": "Q222797",
+                        "label": "Guan Yu"
+                    }
+                ]
+            ],
+            [
+                "Cao Pi *",
+                [
+                    "/wiki/Cao_Pi"
+                ],
+                [
+                    {
+                        "entity id": "Q313333",
+                        "label": "Cao Pi"
+                    }
+                ]
+            ],
+            [
+                "Gan Ning",
+                [
+                    "/wiki/Gan_Ning"
+                ],
+                [
+                    {
+                        "entity id": "Q468706",
+                        "label": "Gan Ning"
+                    }
+                ]
+            ],
+            [
+                "Dong Zhuo",
+                [
+                    "/wiki/Dong_Zhuo"
+                ],
+                [
+                    {
+                        "entity id": "Q334081",
+                        "label": "Dong Zhuo"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Huang Zhong",
+                [
+                    "/wiki/Huang_Zhong"
+                ],
+                [
+                    {
+                        "entity id": "Q378547",
+                        "label": "Huang Zhong"
+                    }
+                ]
+            ],
+            [
+                "Cao Ren",
+                [
+                    "/wiki/Cao_Ren"
+                ],
+                [
+                    {
+                        "entity id": "Q378439",
+                        "label": "Cao Ren"
+                    }
+                ]
+            ],
+            [
+                "Huang Gai",
+                [
+                    "/wiki/Huang_Gai"
+                ],
+                [
+                    {
+                        "entity id": "Q559727",
+                        "label": "Huang Gai"
+                    }
+                ]
+            ],
+            [
+                "Lu Bu",
+                [
+                    "/wiki/L\u00fc_Bu"
+                ],
+                [
+                    {
+                        "entity id": "Q317846",
+                        "label": "L\u00fc Bu"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Jiang Wei",
+                [
+                    "/wiki/Jiang_Wei"
+                ],
+                [
+                    {
+                        "entity id": "Q280866",
+                        "label": "Jiang Wei"
+                    }
+                ]
+            ],
+            [
+                "Dian Wei",
+                [
+                    "/wiki/Dian_Wei"
+                ],
+                [
+                    {
+                        "entity id": "Q468730",
+                        "label": "Dian Wei"
+                    }
+                ]
+            ],
+            [
+                "Ling Tong *",
+                [
+                    "/wiki/Ling_Tong"
+                ],
+                [
+                    {
+                        "entity id": "Q468773",
+                        "label": "Ling Tong"
+                    }
+                ]
+            ],
+            [
+                "Meng Huo",
+                [
+                    "/wiki/Meng_Huo"
+                ],
+                [
+                    {
+                        "entity id": "Q467375",
+                        "label": "Meng Huo"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Liu Bei",
+                [
+                    "/wiki/Liu_Bei"
+                ],
+                [
+                    {
+                        "entity id": "Q245315",
+                        "label": "Liu Bei"
+                    }
+                ]
+            ],
+            [
+                "Pang De *",
+                [
+                    "/wiki/Pang_De"
+                ],
+                [
+                    {
+                        "entity id": "Q468737",
+                        "label": "Pang De"
+                    }
+                ]
+            ],
+            [
+                "Lu Meng",
+                [
+                    "/wiki/L\u00fc_Meng"
+                ],
+                [
+                    {
+                        "entity id": "Q470080",
+                        "label": "L\u00fc Meng"
+                    }
+                ]
+            ],
+            [
+                "Yuan Shao",
+                [
+                    "/wiki/Yuan_Shao"
+                ],
+                [
+                    {
+                        "entity id": "Q337013",
+                        "label": "Yuan Shao"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Ma Chao",
+                [
+                    "/wiki/Ma_Chao"
+                ],
+                [
+                    {
+                        "entity id": "Q468743",
+                        "label": "Ma Chao"
+                    }
+                ]
+            ],
+            [
+                "Sima Yi",
+                [
+                    "/wiki/Sima_Yi"
+                ],
+                [
+                    {
+                        "entity id": "Q353698",
+                        "label": "Sima Yi"
+                    }
+                ]
+            ],
+            [
+                "Lu Xun",
+                [
+                    "/wiki/Lu_Xun_(Three_Kingdoms)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Zhang Jiao",
+                [
+                    "/wiki/Zhang_Jue"
+                ],
+                [
+                    {
+                        "entity id": "Q197202",
+                        "label": "Zhang Jue"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Pang Tong",
+                [
+                    "/wiki/Pang_Tong"
+                ],
+                [
+                    {
+                        "entity id": "Q381904",
+                        "label": "Pang Tong"
+                    }
+                ]
+            ],
+            [
+                "Xiahou Dun",
+                [
+                    "/wiki/Xiahou_Dun"
+                ],
+                [
+                    {
+                        "entity id": "Q378433",
+                        "label": "Xiahou Dun"
+                    }
+                ]
+            ],
+            [
+                "Sun Ce",
+                [
+                    "/wiki/Sun_Ce"
+                ],
+                [
+                    {
+                        "entity id": "Q380598",
+                        "label": "Sun Ce"
+                    }
+                ]
+            ],
+            [
+                "Zhu Rong",
+                [
+                    "/wiki/Lady_Zhurong"
+                ],
+                [
+                    {
+                        "entity id": "Q1209889",
+                        "label": "Lady Zhurong"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Wei Yan",
+                [
+                    "/wiki/Wei_Yan"
+                ],
+                [
+                    {
+                        "entity id": "Q48977213",
+                        "label": "Wei Yan"
+                    }
+                ]
+            ],
+            [
+                "Xiahou Yuan",
+                [
+                    "/wiki/Xiahou_Yuan"
+                ],
+                [
+                    {
+                        "entity id": "Q378510",
+                        "label": "Xiahou Yuan"
+                    }
+                ]
+            ],
+            [
+                "Sun Jian",
+                [
+                    "/wiki/Sun_Jian"
+                ],
+                [
+                    {
+                        "entity id": "Q334101",
+                        "label": "Sun Jian"
+                    }
+                ]
+            ],
+            [
+                "Zuo Ci *",
+                [
+                    "/wiki/Zuo_Ci"
+                ],
+                [
+                    {
+                        "entity id": "Q1192870",
+                        "label": "Zuo Ci"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Xing Cai *",
+                [
+                    "/wiki/Empress_Zhang_(Liu_Shan's_second_wife)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Xu Huang",
+                [
+                    "/wiki/Xu_Huang"
+                ],
+                [
+                    {
+                        "entity id": "Q468763",
+                        "label": "Xu Huang"
+                    }
+                ]
+            ],
+            [
+                "Sun Quan",
+                [
+                    "/wiki/Sun_Quan"
+                ],
+                [
+                    {
+                        "entity id": "Q313327",
+                        "label": "Sun Quan"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Yue Ying",
+                [
+                    "/wiki/Lady_Huang"
+                ],
+                [
+                    {
+                        "entity id": "Q107493202",
+                        "label": "Lady Huang"
+                    }
+                ]
+            ],
+            [
+                "Xu Zhu",
+                [
+                    "/wiki/Xu_Chu"
+                ],
+                [
+                    {
+                        "entity id": "Q559736",
+                        "label": "Xu Chu"
+                    }
+                ]
+            ],
+            [
+                "Sun Shang Xiang",
+                [
+                    "/wiki/Lady_Sun"
+                ],
+                [
+                    {
+                        "entity id": "Q283993",
+                        "label": "Lady Sun"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Zhang Fei",
+                [
+                    "/wiki/Zhang_Fei"
+                ],
+                [
+                    {
+                        "entity id": "Q197183",
+                        "label": "Zhang Fei"
+                    }
+                ]
+            ],
+            [
+                "Zhang He",
+                [
+                    "/wiki/Zhang_He"
+                ],
+                [
+                    {
+                        "entity id": "Q197191",
+                        "label": "Zhang He"
+                    }
+                ]
+            ],
+            [
+                "Taishi Ci",
+                [
+                    "/wiki/Taishi_Ci"
+                ],
+                [
+                    {
+                        "entity id": "Q468752",
+                        "label": "Taishi Ci"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Zhao Yun",
+                [
+                    "/wiki/Zhao_Yun"
+                ],
+                [
+                    {
+                        "entity id": "Q7497",
+                        "label": "Emperor Lizong of Song"
+                    }
+                ]
+            ],
+            [
+                "Zhang Liao",
+                [
+                    "/wiki/Zhang_Liao"
+                ],
+                [
+                    {
+                        "entity id": "Q197249",
+                        "label": "Zhang Liao"
+                    }
+                ]
+            ],
+            [
+                "Xiao Qiao",
+                [
+                    "/wiki/Two_Qiaos"
+                ],
+                [
+                    {
+                        "entity id": "Q232102",
+                        "label": "Two Qiaos"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Zhuge Liang",
+                [
+                    "/wiki/Zhuge_Liang"
+                ],
+                [
+                    {
+                        "entity id": "Q198211",
+                        "label": "Zhuge Liang"
+                    }
+                ]
+            ],
+            [
+                "Zhen Ji",
+                [
+                    "/wiki/Lady_Zhen"
+                ],
+                [
+                    {
+                        "entity id": "Q197585",
+                        "label": "Lady Zhen"
+                    }
+                ]
+            ],
+            [
+                "Zhou Tai",
+                [
+                    "/wiki/Zhou_Tai"
+                ],
+                [
+                    {
+                        "entity id": "Q198015",
+                        "label": "Zhou Tai"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Characters",
+    "section_text": "",
+    "uid": "Dynasty_Warriors_5_0",
+    "intro": "Dynasty Warriors 5 (\u771f\u30fb\u4e09\u570b\u7121\u53cc4, Shin Sangokumus\u014d 4, Shin Sangokumusou 4 in Japan) is a hack and slash video game set in China and the fifth installment in the Dynasty Warriors series, developed by Omega Force and published by Koei. The game was released on the PlayStation 2 and Xbox. It is based on the Chinese novel Romance of the Three Kingdoms by Luo Guanzhong."
+}

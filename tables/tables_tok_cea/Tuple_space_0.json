@@ -1,0 +1,571 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Tuple_space",
+    "title": "Tuple space",
+    "header": [
+        [
+            "Project",
+            []
+        ],
+        [
+            "Supported Languages",
+            []
+        ],
+        [
+            "License used",
+            []
+        ],
+        [
+            "Notable features",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Apache River",
+                []
+            ],
+            [
+                "Java",
+                []
+            ],
+            [
+                "Apache License",
+                [
+                    "/wiki/Apache_License"
+                ],
+                [
+                    {
+                        "entity id": "Q616526",
+                        "label": "Apache License"
+                    }
+                ]
+            ],
+            [
+                "Based on the Jini project that Sun contributed to Apache . See page",
+                [
+                    "/wiki/Jini",
+                    "/wiki/Sun_Microsystems",
+                    "/wiki/Apache_Software_Foundation",
+                    "/wiki/Apache_River"
+                ],
+                [
+                    {
+                        "entity id": "Q1282140",
+                        "label": "Jini"
+                    },
+                    {
+                        "entity id": "Q14647",
+                        "label": "Sun Microsystems"
+                    },
+                    {
+                        "entity id": "Q489709",
+                        "label": "Apache Software Foundation"
+                    },
+                    {
+                        "entity id": "Q28915761",
+                        "label": "Apache River"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "The Blitz Project",
+                []
+            ],
+            [
+                "Java",
+                []
+            ],
+            [
+                "BSD License",
+                [
+                    "/wiki/BSD_License"
+                ],
+                [
+                    {
+                        "entity id": "Q191307",
+                        "label": "BSD licenses"
+                    }
+                ]
+            ],
+            [
+                "Single site server",
+                []
+            ]
+        ],
+        [
+            [
+                "The Fly Object Space",
+                []
+            ],
+            [
+                "Java , Ruby , Scala",
+                []
+            ],
+            [
+                "Proprietary Allows free non-commercial use",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "GigaSpaces",
+                []
+            ],
+            [
+                "Java , .Net , C++",
+                []
+            ],
+            [
+                "Proprietary Offers free community license with a subset of features",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Clustered , fault-tolerant",
+                []
+            ]
+        ],
+        [
+            [
+                "Heterocera",
+                []
+            ],
+            [
+                "Ruby",
+                []
+            ],
+            [
+                "BSD License",
+                [
+                    "/wiki/BSD_License"
+                ],
+                [
+                    {
+                        "entity id": "Q191307",
+                        "label": "BSD licenses"
+                    }
+                ]
+            ],
+            [
+                "Web server based",
+                []
+            ]
+        ],
+        [
+            [
+                "jRESP",
+                []
+            ],
+            [
+                "Java",
+                []
+            ],
+            [
+                "EPL",
+                [
+                    "/wiki/Eclipse_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q1281977",
+                        "label": "Eclipse Public License"
+                    }
+                ]
+            ],
+            [
+                "Supports spaces of various kinds ( including tuple spaces ) , distributed tuple spaces , mobility , access control and various forms of multicast",
+                []
+            ]
+        ],
+        [
+            [
+                "LighTS",
+                []
+            ],
+            [
+                "Java",
+                []
+            ],
+            [
+                "LGPL",
+                [
+                    "/wiki/LGPL"
+                ],
+                [
+                    {
+                        "entity id": "Q192897",
+                        "label": "GNU Lesser General Public License"
+                    }
+                ]
+            ],
+            [
+                "lightweight",
+                []
+            ]
+        ],
+        [
+            [
+                "Linda in a Mobile Environment ( LIME )",
+                []
+            ],
+            [
+                "Java",
+                []
+            ],
+            [
+                "LGPL",
+                [
+                    "/wiki/LGPL"
+                ],
+                [
+                    {
+                        "entity id": "Q192897",
+                        "label": "GNU Lesser General Public License"
+                    }
+                ]
+            ],
+            [
+                "Suited for pure mobile environments , no server ( light house ) to host tuple spaces required",
+                []
+            ]
+        ],
+        [
+            [
+                "LinuxTuples",
+                []
+            ],
+            [
+                "C , Python , Rust",
+                []
+            ],
+            [
+                "BSD License",
+                [
+                    "/wiki/BSD_License"
+                ],
+                [
+                    {
+                        "entity id": "Q191307",
+                        "label": "BSD licenses"
+                    }
+                ]
+            ],
+            [
+                "Clustered",
+                []
+            ]
+        ],
+        [
+            [
+                "MozartSpaces",
+                []
+            ],
+            [
+                "Java",
+                []
+            ],
+            [
+                "AGPL",
+                [
+                    "/wiki/Affero_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q28130012",
+                        "label": "Affero General Public License"
+                    }
+                ]
+            ],
+            [
+                "Provides many features and extensibility options",
+                []
+            ]
+        ],
+        [
+            [
+                "polyester",
+                []
+            ],
+            [
+                "Java",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "lightweight , extension of LighTS",
+                []
+            ]
+        ],
+        [
+            [
+                "pSpaces",
+                []
+            ],
+            [
+                "Java , C # , Go , Swift , JavaScript",
+                []
+            ],
+            [
+                "MIT License",
+                [
+                    "/wiki/MIT_License"
+                ],
+                [
+                    {
+                        "entity id": "Q334661",
+                        "label": "MIT license"
+                    }
+                ]
+            ],
+            [
+                "Multiple languages supported",
+                []
+            ]
+        ],
+        [
+            [
+                "PyLinda",
+                [
+                    "/wiki/PyLinda"
+                ],
+                [
+                    {
+                        "entity id": "Q7262800",
+                        "label": "PyLinda"
+                    }
+                ]
+            ],
+            [
+                "Python",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "See page",
+                [
+                    "/wiki/PyLinda"
+                ],
+                [
+                    {
+                        "entity id": "Q7262800",
+                        "label": "PyLinda"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Rinda",
+                [
+                    "/wiki/Rinda_(Ruby_programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Ruby",
+                []
+            ],
+            [
+                "Ruby License",
+                [
+                    "/wiki/Ruby_License"
+                ],
+                [
+                    {
+                        "entity id": "Q3066722",
+                        "label": "Ruby License"
+                    }
+                ]
+            ],
+            [
+                "See page",
+                [
+                    "/wiki/Rinda_(Ruby_programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "simple spaces",
+                []
+            ],
+            [
+                "Java",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "lightweight",
+                []
+            ]
+        ],
+        [
+            [
+                "SemiSpace",
+                []
+            ],
+            [
+                "Java",
+                []
+            ],
+            [
+                "Apache License",
+                [
+                    "/wiki/Apache_License"
+                ],
+                [
+                    {
+                        "entity id": "Q616526",
+                        "label": "Apache License"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "TIBCO ActiveSpaces",
+                []
+            ],
+            [
+                "Java , .Net , C/C++",
+                []
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Clustered , fault-tolerant",
+                []
+            ]
+        ],
+        [
+            [
+                "Tuple Spaces",
+                []
+            ],
+            [
+                "Java",
+                []
+            ],
+            [
+                "LGPL",
+                [
+                    "/wiki/LGPL"
+                ],
+                [
+                    {
+                        "entity id": "Q192897",
+                        "label": "GNU Lesser General Public License"
+                    }
+                ]
+            ],
+            [
+                "In-process and remote options",
+                []
+            ]
+        ],
+        [
+            [
+                "Fabrix",
+                []
+            ],
+            [
+                "TypeScript",
+                []
+            ],
+            [
+                "MIT License",
+                [
+                    "/wiki/MIT_License"
+                ],
+                [
+                    {
+                        "entity id": "Q334661",
+                        "label": "MIT license"
+                    }
+                ]
+            ],
+            [
+                "Suited for Node.js environments and provides many extensibility options",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Tuple Space Implementations",
+    "section_text": "",
+    "uid": "Tuple_space_0",
+    "intro": "A tuple space is an implementation of the associative memory paradigm for parallel/distributed computing. It provides a repository of tuples that can be accessed concurrently. As an illustrative example, consider that there are a group of processors that produce pieces of data and a group of processors that use the data. Producers post their data as tuples in the space, and the consumers then retrieve data from the space that match a certain pattern. This is also known as the blackboard metaphor. Tuple space may be thought as a form of distributed shared memory. Tuple spaces were the theoretical underpinning of the Linda language developed by David Gelernter and Nicholas Carriero at Yale University in 1986. Implementations of tuple spaces have also been developed for Java (JavaSpaces), Lisp, Lua, Prolog, Python, Ruby, Smalltalk, Tcl, and the .NET framework."
+}

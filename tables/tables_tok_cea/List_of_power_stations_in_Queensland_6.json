@@ -1,0 +1,772 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_power_stations_in_Queensland",
+    "title": "List of power stations in Queensland",
+    "header": [
+        [
+            "Power station",
+            []
+        ],
+        [
+            "Max . capacity ( MW )",
+            [
+                "/wiki/Electric_power"
+            ],
+            [
+                {
+                    "entity id": "Q27137",
+                    "label": "electric power"
+                }
+            ]
+        ],
+        [
+            "Turbines",
+            [
+                "/wiki/Turbines"
+            ],
+            [
+                {
+                    "entity id": "Q106832473",
+                    "label": "The Turbines"
+                }
+            ]
+        ],
+        [
+            "Fuel Type",
+            []
+        ],
+        [
+            "Conveyance",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Babinda Sugar Mill , Decommissioned",
+                []
+            ],
+            [
+                "0",
+                []
+            ],
+            [
+                "1",
+                []
+            ],
+            [
+                "bagasse",
+                [
+                    "/wiki/Bagasse"
+                ],
+                [
+                    {
+                        "entity id": "Q799856",
+                        "label": "bagasse"
+                    }
+                ]
+            ],
+            [
+                "on-site",
+                []
+            ]
+        ],
+        [
+            [
+                "Bingera Sugar Mill , Bundaberg Sugar",
+                [
+                    "/wiki/Bundaberg_Sugar"
+                ],
+                [
+                    {
+                        "entity id": "Q60752914",
+                        "label": "Bundaberg Sugar"
+                    }
+                ]
+            ],
+            [
+                "5",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "bagasse",
+                [
+                    "/wiki/Bagasse"
+                ],
+                [
+                    {
+                        "entity id": "Q799856",
+                        "label": "bagasse"
+                    }
+                ]
+            ],
+            [
+                "on-site",
+                []
+            ]
+        ],
+        [
+            [
+                "Farleigh Mill , Mackay Sugar Ltd",
+                []
+            ],
+            [
+                "13",
+                []
+            ],
+            [
+                "4",
+                []
+            ],
+            [
+                "bagasse",
+                [
+                    "/wiki/Bagasse"
+                ],
+                [
+                    {
+                        "entity id": "Q799856",
+                        "label": "bagasse"
+                    }
+                ]
+            ],
+            [
+                "on-site",
+                []
+            ]
+        ],
+        [
+            [
+                "Gympie Coffee Manufacturing , Nestl\u00e9",
+                [
+                    "/wiki/Nestl\u00e9"
+                ],
+                [
+                    {
+                        "entity id": "Q160746",
+                        "label": "Nestl\u00e9"
+                    }
+                ]
+            ],
+            [
+                "16",
+                []
+            ],
+            [
+                "1",
+                []
+            ],
+            [
+                "coffee grounds and sawdust",
+                [
+                    "/wiki/Coffee_grounds",
+                    "/wiki/Sawdust"
+                ],
+                [
+                    {
+                        "entity id": "Q362788",
+                        "label": "used coffee grounds"
+                    },
+                    {
+                        "entity id": "Q816713",
+                        "label": "sawdust"
+                    }
+                ]
+            ],
+            [
+                "on-site",
+                []
+            ]
+        ],
+        [
+            [
+                "Inkerman Mill , Wilmar International",
+                [
+                    "/wiki/Wilmar_International"
+                ],
+                [
+                    {
+                        "entity id": "Q1786712",
+                        "label": "Wilmar International"
+                    }
+                ]
+            ],
+            [
+                "10",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "bagasse",
+                [
+                    "/wiki/Bagasse"
+                ],
+                [
+                    {
+                        "entity id": "Q799856",
+                        "label": "bagasse"
+                    }
+                ]
+            ],
+            [
+                "on-site",
+                []
+            ]
+        ],
+        [
+            [
+                "Invicta Mill , Wilmar International",
+                [
+                    "/wiki/Wilmar_International"
+                ],
+                [
+                    {
+                        "entity id": "Q1786712",
+                        "label": "Wilmar International"
+                    }
+                ]
+            ],
+            [
+                "38.8",
+                []
+            ],
+            [
+                "1",
+                []
+            ],
+            [
+                "bagasse",
+                [
+                    "/wiki/Bagasse"
+                ],
+                [
+                    {
+                        "entity id": "Q799856",
+                        "label": "bagasse"
+                    }
+                ]
+            ],
+            [
+                "on-site",
+                []
+            ]
+        ],
+        [
+            [
+                "Isis Central Sugar Mill",
+                [
+                    "/wiki/Isis_Central_Sugar_Mill"
+                ],
+                [
+                    {
+                        "entity id": "Q18352291",
+                        "label": "Isis Central Sugar Mill"
+                    }
+                ]
+            ],
+            [
+                "11.5",
+                []
+            ],
+            [
+                "4",
+                []
+            ],
+            [
+                "bagasse",
+                [
+                    "/wiki/Bagasse"
+                ],
+                [
+                    {
+                        "entity id": "Q799856",
+                        "label": "bagasse"
+                    }
+                ]
+            ],
+            [
+                "on-site",
+                []
+            ]
+        ],
+        [
+            [
+                "Kalamia Mill , Wilmar International",
+                [
+                    "/wiki/Wilmar_International"
+                ],
+                [
+                    {
+                        "entity id": "Q1786712",
+                        "label": "Wilmar International"
+                    }
+                ]
+            ],
+            [
+                "9",
+                []
+            ],
+            [
+                "1",
+                []
+            ],
+            [
+                "bagasse",
+                [
+                    "/wiki/Bagasse"
+                ],
+                [
+                    {
+                        "entity id": "Q799856",
+                        "label": "bagasse"
+                    }
+                ]
+            ],
+            [
+                "on-site",
+                []
+            ]
+        ],
+        [
+            [
+                "Macknade Mill , Wilmar International",
+                [
+                    "/wiki/Wilmar_International"
+                ],
+                [
+                    {
+                        "entity id": "Q1786712",
+                        "label": "Wilmar International"
+                    }
+                ]
+            ],
+            [
+                "8",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "bagasse",
+                [
+                    "/wiki/Bagasse"
+                ],
+                [
+                    {
+                        "entity id": "Q799856",
+                        "label": "bagasse"
+                    }
+                ]
+            ],
+            [
+                "on-site",
+                []
+            ]
+        ],
+        [
+            [
+                "Marian Mill , Mackay Sugar Ltd",
+                [
+                    "/wiki/Marian_Mill"
+                ],
+                [
+                    {
+                        "entity id": "Q62023636",
+                        "label": "Marian Millares"
+                    }
+                ]
+            ],
+            [
+                "18",
+                []
+            ],
+            [
+                "3",
+                []
+            ],
+            [
+                "bagasse",
+                [
+                    "/wiki/Bagasse"
+                ],
+                [
+                    {
+                        "entity id": "Q799856",
+                        "label": "bagasse"
+                    }
+                ]
+            ],
+            [
+                "on-site",
+                []
+            ]
+        ],
+        [
+            [
+                "Maryborough Sugar Factory , MSF Sugar Ltd",
+                []
+            ],
+            [
+                "4.75",
+                []
+            ],
+            [
+                "3",
+                []
+            ],
+            [
+                "bagasse",
+                [
+                    "/wiki/Bagasse"
+                ],
+                [
+                    {
+                        "entity id": "Q799856",
+                        "label": "bagasse"
+                    }
+                ]
+            ],
+            [
+                "on-site",
+                []
+            ]
+        ],
+        [
+            [
+                "Millaquin Sugar Mill , Bundaberg Sugar",
+                [
+                    "/wiki/Bundaberg_Sugar"
+                ],
+                [
+                    {
+                        "entity id": "Q60752914",
+                        "label": "Bundaberg Sugar"
+                    }
+                ]
+            ],
+            [
+                "5",
+                []
+            ],
+            [
+                "3",
+                []
+            ],
+            [
+                "bagasse",
+                [
+                    "/wiki/Bagasse"
+                ],
+                [
+                    {
+                        "entity id": "Q799856",
+                        "label": "bagasse"
+                    }
+                ]
+            ],
+            [
+                "on-site",
+                []
+            ]
+        ],
+        [
+            [
+                "Mossman Central Mill , Mackay Sugar",
+                [
+                    "/wiki/Mossman_Central_Mill",
+                    "/wiki/Mackay_Sugar"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q60739844",
+                        "label": "Mackay Sugar"
+                    }
+                ]
+            ],
+            [
+                "11.85",
+                []
+            ],
+            [
+                "5",
+                []
+            ],
+            [
+                "bagasse",
+                [
+                    "/wiki/Bagasse"
+                ],
+                [
+                    {
+                        "entity id": "Q799856",
+                        "label": "bagasse"
+                    }
+                ]
+            ],
+            [
+                "on-site",
+                []
+            ]
+        ],
+        [
+            [
+                "Mourilyan Sugar Mill , Decommissioned",
+                []
+            ],
+            [
+                "0",
+                []
+            ],
+            [
+                "5",
+                []
+            ],
+            [
+                "bagasse",
+                [
+                    "/wiki/Bagasse"
+                ],
+                [
+                    {
+                        "entity id": "Q799856",
+                        "label": "bagasse"
+                    }
+                ]
+            ],
+            [
+                "on-site",
+                []
+            ]
+        ],
+        [
+            [
+                "Mulgrave Sugar Mill , MSF Sugar Ltd",
+                [
+                    "/wiki/Mulgrave_Sugar_Mill"
+                ],
+                [
+                    {
+                        "entity id": "Q24190478",
+                        "label": "Mulgrave Sugar Mill"
+                    }
+                ]
+            ],
+            [
+                "10.5",
+                []
+            ],
+            [
+                "4",
+                []
+            ],
+            [
+                "bagasse",
+                [
+                    "/wiki/Bagasse"
+                ],
+                [
+                    {
+                        "entity id": "Q799856",
+                        "label": "bagasse"
+                    }
+                ]
+            ],
+            [
+                "on-site",
+                []
+            ]
+        ],
+        [
+            [
+                "Pioneer Mill , Wilmar International",
+                [
+                    "/wiki/Wilmar_International"
+                ],
+                [
+                    {
+                        "entity id": "Q1786712",
+                        "label": "Wilmar International"
+                    }
+                ]
+            ],
+            [
+                "68",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "bagasse",
+                [
+                    "/wiki/Bagasse"
+                ],
+                [
+                    {
+                        "entity id": "Q799856",
+                        "label": "bagasse"
+                    }
+                ]
+            ],
+            [
+                "on-site",
+                []
+            ]
+        ],
+        [
+            [
+                "Pleystowe Mill , Decommissioned",
+                []
+            ],
+            [
+                "0",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "bagasse",
+                [
+                    "/wiki/Bagasse"
+                ],
+                [
+                    {
+                        "entity id": "Q799856",
+                        "label": "bagasse"
+                    }
+                ]
+            ],
+            [
+                "on-site",
+                []
+            ]
+        ],
+        [
+            [
+                "Proserpine Sugar Mill , Wilmar International",
+                [
+                    "/wiki/Wilmar_International"
+                ],
+                [
+                    {
+                        "entity id": "Q1786712",
+                        "label": "Wilmar International"
+                    }
+                ]
+            ],
+            [
+                "20",
+                []
+            ],
+            [
+                "4",
+                []
+            ],
+            [
+                "bagasse",
+                [
+                    "/wiki/Bagasse"
+                ],
+                [
+                    {
+                        "entity id": "Q799856",
+                        "label": "bagasse"
+                    }
+                ]
+            ],
+            [
+                "on-site",
+                []
+            ]
+        ],
+        [
+            [
+                "Racecourse Mill , Mackay Sugar Ltd",
+                [
+                    "/wiki/Racecourse_Mill"
+                ],
+                [
+                    {
+                        "entity id": "Q29019948",
+                        "label": "Racecourse Mill"
+                    }
+                ]
+            ],
+            [
+                "13.8",
+                []
+            ],
+            [
+                "2",
+                []
+            ],
+            [
+                "bagasse",
+                [
+                    "/wiki/Bagasse"
+                ],
+                [
+                    {
+                        "entity id": "Q799856",
+                        "label": "bagasse"
+                    }
+                ]
+            ],
+            [
+                "on-site",
+                []
+            ]
+        ],
+        [
+            [
+                "Rocky Point",
+                []
+            ],
+            [
+                "30",
+                []
+            ],
+            [
+                "1",
+                []
+            ],
+            [
+                "bagasse , wood waste",
+                [
+                    "/wiki/Bagasse",
+                    "/wiki/Biofuels"
+                ],
+                [
+                    {
+                        "entity id": "Q799856",
+                        "label": "bagasse"
+                    },
+                    {
+                        "entity id": "Q128991",
+                        "label": "biofuel"
+                    }
+                ]
+            ],
+            [
+                "on-site , road",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Biomass combustion",
+    "section_text": "These power stations burn biomass ( biofuel ) to generate some or all of the electricity they produce .",
+    "uid": "List_of_power_stations_in_Queensland_6",
+    "intro": "This is a list of active power stations in Queensland, Australia. Candidates for this list must already be commissioned and capable of generating 1 MW or more of electricity."
+}

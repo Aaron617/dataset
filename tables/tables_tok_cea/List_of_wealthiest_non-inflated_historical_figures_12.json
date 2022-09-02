@@ -1,0 +1,564 @@
+{
+    "url": "https://en.wikipedia.org/wiki/The_World's_Billionaires",
+    "title": "The World's Billionaires",
+    "header": [
+        [
+            "No",
+            []
+        ],
+        [
+            "Name",
+            []
+        ],
+        [
+            "Net worth ( USD )",
+            [
+                "/wiki/Net_worth",
+                "/wiki/United_States_dollar"
+            ],
+            [
+                {
+                    "entity id": "Q1933764",
+                    "label": "net worth"
+                },
+                {
+                    "entity id": "Q4917",
+                    "label": "United States dollar"
+                }
+            ]
+        ],
+        [
+            "Age",
+            []
+        ],
+        [
+            "Nationality",
+            [
+                "/wiki/Citizenship"
+            ],
+            [
+                {
+                    "entity id": "Q42138",
+                    "label": "citizenship"
+                }
+            ]
+        ],
+        [
+            "Source ( s ) of wealth",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1",
+                []
+            ],
+            [
+                "Bill Gates",
+                [
+                    "/wiki/Bill_Gates"
+                ],
+                [
+                    {
+                        "entity id": "Q5284",
+                        "label": "Bill Gates"
+                    }
+                ]
+            ],
+            [
+                "$ 56.0 billion",
+                []
+            ],
+            [
+                "51",
+                []
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Microsoft",
+                [
+                    "/wiki/Microsoft"
+                ],
+                [
+                    {
+                        "entity id": "Q2283",
+                        "label": "Microsoft"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2",
+                []
+            ],
+            [
+                "Warren Buffett",
+                [
+                    "/wiki/Warren_Buffett"
+                ],
+                [
+                    {
+                        "entity id": "Q47213",
+                        "label": "Warren Buffett"
+                    }
+                ]
+            ],
+            [
+                "$ 52.0 billion",
+                []
+            ],
+            [
+                "76",
+                []
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Berkshire Hathaway",
+                [
+                    "/wiki/Berkshire_Hathaway"
+                ],
+                [
+                    {
+                        "entity id": "Q217583",
+                        "label": "Berkshire Hathaway"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "3",
+                []
+            ],
+            [
+                "Carlos Slim",
+                [
+                    "/wiki/Carlos_Slim"
+                ],
+                [
+                    {
+                        "entity id": "Q170419",
+                        "label": "Carlos Slim"
+                    }
+                ]
+            ],
+            [
+                "$ 49.0 billion",
+                []
+            ],
+            [
+                "67",
+                []
+            ],
+            [
+                "Mexico",
+                [
+                    "/wiki/Mexico"
+                ],
+                [
+                    {
+                        "entity id": "Q96",
+                        "label": "Mexico"
+                    }
+                ]
+            ],
+            [
+                "Am\u00e9rica M\u00f3vil , Grupo Carso",
+                [
+                    "/wiki/Am\u00e9rica_M\u00f3vil",
+                    "/wiki/Grupo_Carso"
+                ],
+                [
+                    {
+                        "entity id": "Q482267",
+                        "label": "Am\u00e9rica M\u00f3vil"
+                    },
+                    {
+                        "entity id": "Q1396455",
+                        "label": "Grupo Carso"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "4",
+                []
+            ],
+            [
+                "Ingvar Kamprad",
+                [
+                    "/wiki/Ingvar_Kamprad"
+                ],
+                [
+                    {
+                        "entity id": "Q216932",
+                        "label": "Ingvar Kamprad"
+                    }
+                ]
+            ],
+            [
+                "$ 33.0 billion",
+                []
+            ],
+            [
+                "80",
+                []
+            ],
+            [
+                "Sweden",
+                [
+                    "/wiki/Sweden"
+                ],
+                [
+                    {
+                        "entity id": "Q34",
+                        "label": "Sweden"
+                    }
+                ]
+            ],
+            [
+                "IKEA",
+                [
+                    "/wiki/IKEA"
+                ],
+                [
+                    {
+                        "entity id": "Q54078",
+                        "label": "IKEA"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "5",
+                []
+            ],
+            [
+                "Lakshmi Mittal",
+                [
+                    "/wiki/Lakshmi_Mittal"
+                ],
+                [
+                    {
+                        "entity id": "Q191311",
+                        "label": "Lakshmi Mittal"
+                    }
+                ]
+            ],
+            [
+                "$ 32.0 billion",
+                []
+            ],
+            [
+                "56",
+                []
+            ],
+            [
+                "India",
+                [
+                    "/wiki/India"
+                ],
+                [
+                    {
+                        "entity id": "Q668",
+                        "label": "India"
+                    }
+                ]
+            ],
+            [
+                "Arcelor Mittal",
+                [
+                    "/wiki/Arcelor_Mittal"
+                ],
+                [
+                    {
+                        "entity id": "Q27893",
+                        "label": "ArcelorMittal"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "6",
+                []
+            ],
+            [
+                "Sheldon Adelson",
+                [
+                    "/wiki/Sheldon_Adelson"
+                ],
+                [
+                    {
+                        "entity id": "Q319137",
+                        "label": "Sheldon Adelson"
+                    }
+                ]
+            ],
+            [
+                "$ 26.5 billion",
+                []
+            ],
+            [
+                "73",
+                []
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Las Vegas Sands",
+                [
+                    "/wiki/Las_Vegas_Sands"
+                ],
+                [
+                    {
+                        "entity id": "Q1506045",
+                        "label": "Las Vegas Sands"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "7",
+                []
+            ],
+            [
+                "Bernard Arnault",
+                [
+                    "/wiki/Bernard_Arnault"
+                ],
+                [
+                    {
+                        "entity id": "Q32055",
+                        "label": "Bernard Arnault"
+                    }
+                ]
+            ],
+            [
+                "$ 26.0 billion",
+                []
+            ],
+            [
+                "58",
+                []
+            ],
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "LVMH",
+                [
+                    "/wiki/LVMH"
+                ],
+                [
+                    {
+                        "entity id": "Q504998",
+                        "label": "LVMH"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "8",
+                []
+            ],
+            [
+                "Amancio Ortega",
+                [
+                    "/wiki/Amancio_Ortega"
+                ],
+                [
+                    {
+                        "entity id": "Q29279",
+                        "label": "Amancio Ortega"
+                    }
+                ]
+            ],
+            [
+                "$ 24.0 billion",
+                []
+            ],
+            [
+                "71",
+                []
+            ],
+            [
+                "Spain",
+                [
+                    "/wiki/Spain"
+                ],
+                [
+                    {
+                        "entity id": "Q29",
+                        "label": "Spain"
+                    }
+                ]
+            ],
+            [
+                "Inditex Group",
+                [
+                    "/wiki/Inditex_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q44504",
+                        "label": "Inditex"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "9",
+                []
+            ],
+            [
+                "Li Ka-shing",
+                [
+                    "/wiki/Li_Ka-shing"
+                ],
+                [
+                    {
+                        "entity id": "Q20151",
+                        "label": "Li Ka-shing"
+                    }
+                ]
+            ],
+            [
+                "$ 23.0 billion",
+                []
+            ],
+            [
+                "78",
+                []
+            ],
+            [
+                "Hong Kong",
+                [
+                    "/wiki/Hong_Kong"
+                ],
+                [
+                    {
+                        "entity id": "Q8646",
+                        "label": "Hong Kong"
+                    }
+                ]
+            ],
+            [
+                "Cheung Kong Holdings , Hutchison Whampoa",
+                [
+                    "/wiki/Cheung_Kong_Holdings",
+                    "/wiki/Hutchison_Whampoa"
+                ],
+                [
+                    {
+                        "entity id": "Q709535",
+                        "label": "Cheung Kong Holdings"
+                    },
+                    {
+                        "entity id": "Q15805",
+                        "label": "Hutchison Whampoa"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "10",
+                []
+            ],
+            [
+                "David Thomson",
+                [
+                    "/wiki/David_Thomson,_3rd_Baron_Thomson_of_Fleet"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "$ 22.0 billion",
+                []
+            ],
+            [
+                "49",
+                []
+            ],
+            [
+                "Canada",
+                [
+                    "/wiki/Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q16",
+                        "label": "Canada"
+                    }
+                ]
+            ],
+            [
+                "Thomson Corporation",
+                [
+                    "/wiki/Thomson_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q1141267",
+                        "label": "Thomson Reuters"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Annual rankings -- 2007",
+    "section_text": "Forbes recorded a then record of 946 billionaires . There were 178 newcomers , as well as the first billionaires from Cyprus , Oman , Romania and Serbia . Over 66% of the previous year 's billionaires became richer . The billionaires ' net worth increased in 2007 by $ 900 billion to $ 3.5 trillion . [ 43 ]",
+    "uid": "List_of_wealthiest_non-inflated_historical_figures_12",
+    "intro": "The World's Billionaires is an annual ranking by documented net worth of the wealthiest billionaires in the world, compiled and published in March annually by the American business magazine Forbes. The list was first published in March 1987. The total net worth of each individual on the list is estimated and is cited in United States dollars, based on their documented assets and accounting for debt. Royalty and dictators whose wealth comes from their positions are excluded from these lists. This ranking is an index of the wealthiest documented individuals, excluding and ranking against those with wealth that is not able to be completely ascertained. In 2018, there was a record of 2,208 people on the list, that included 259 newcomers mostly from China and the U.S.; there were 63 people under 40 and it had a record number of 256 women. The average net worth of the list came in at US$4.1 billion, up US$350 million from 2017. Added together, the total net worth for 2018's billionaires was US$9.1 trillion, up from US$7.67 trillion in 2017. As of 2018[update], Microsoft founder Bill Gates had topped the list 18 of the past 24 years, while Amazon founder Jeff Bezos is ranked at the top for the first time and he became the first centibillionaire included in the ranking. In 2017, Mark Zuckerberg was the only person in the top 10 billionaires list who is under the age of 50, and the only one in the top 20 billionaires list who is under the age of 40. In 2017, 500 of the richest people in the world became richer by $1 trillion, according to a report by Bloomberg News. According to a 2017 Oxfam report, the top eight billionaires own as much combined wealth as the poorest half of the human race."
+}

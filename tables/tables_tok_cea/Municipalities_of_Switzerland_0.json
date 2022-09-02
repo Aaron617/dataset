@@ -1,0 +1,384 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Municipalities_of_Switzerland",
+    "title": "Municipalities of Switzerland",
+    "header": [
+        [
+            "Rank",
+            []
+        ],
+        [
+            "City",
+            []
+        ],
+        [
+            "Canton",
+            [
+                "/wiki/Cantons_of_Switzerland"
+            ],
+            [
+                {
+                    "entity id": "Q23058",
+                    "label": "canton of Switzerland"
+                }
+            ]
+        ],
+        [
+            "Pop",
+            [
+                "/wiki/Population"
+            ],
+            [
+                {
+                    "entity id": "Q33829",
+                    "label": "human population"
+                }
+            ]
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1",
+                []
+            ],
+            [
+                "Z\u00fcrich",
+                [
+                    "/wiki/Z\u00fcrich"
+                ],
+                [
+                    {
+                        "entity id": "Q72",
+                        "label": "Z\u00fcrich"
+                    }
+                ]
+            ],
+            [
+                "Z\u00fcrich",
+                [
+                    "/wiki/Canton_of_Z\u00fcrich"
+                ],
+                [
+                    {
+                        "entity id": "Q11943",
+                        "label": "Canton of Z\u00fcrich"
+                    }
+                ]
+            ],
+            [
+                "376,990",
+                []
+            ]
+        ],
+        [
+            [
+                "2",
+                []
+            ],
+            [
+                "Geneva",
+                [
+                    "/wiki/Geneva"
+                ],
+                [
+                    {
+                        "entity id": "Q71",
+                        "label": "Geneva"
+                    }
+                ]
+            ],
+            [
+                "Geneva",
+                [
+                    "/wiki/Canton_of_Geneva"
+                ],
+                [
+                    {
+                        "entity id": "Q11917",
+                        "label": "Canton of Geneva"
+                    }
+                ]
+            ],
+            [
+                "188,234",
+                []
+            ]
+        ],
+        [
+            [
+                "3",
+                []
+            ],
+            [
+                "Basel",
+                [
+                    "/wiki/Basel"
+                ],
+                [
+                    {
+                        "entity id": "Q78",
+                        "label": "Basel"
+                    }
+                ]
+            ],
+            [
+                "Basel-Stadt",
+                [
+                    "/wiki/Canton_of_Basel-Stadt"
+                ],
+                [
+                    {
+                        "entity id": "Q12172",
+                        "label": "Basel-Stadt"
+                    }
+                ]
+            ],
+            [
+                "164,516",
+                []
+            ]
+        ],
+        [
+            [
+                "4",
+                []
+            ],
+            [
+                "Lausanne",
+                [
+                    "/wiki/Lausanne"
+                ],
+                [
+                    {
+                        "entity id": "Q807",
+                        "label": "Lausanne"
+                    }
+                ]
+            ],
+            [
+                "Vaud",
+                [
+                    "/wiki/Vaud"
+                ],
+                [
+                    {
+                        "entity id": "Q12771",
+                        "label": "Canton of Vaud"
+                    }
+                ]
+            ],
+            [
+                "129,383",
+                []
+            ]
+        ],
+        [
+            [
+                "5",
+                []
+            ],
+            [
+                "Bern",
+                [
+                    "/wiki/Bern"
+                ],
+                [
+                    {
+                        "entity id": "Q70",
+                        "label": "Bern"
+                    }
+                ]
+            ],
+            [
+                "Bern",
+                [
+                    "/wiki/Canton_of_Bern"
+                ],
+                [
+                    {
+                        "entity id": "Q11911",
+                        "label": "canton of Bern"
+                    }
+                ]
+            ],
+            [
+                "125,681",
+                []
+            ]
+        ],
+        [
+            [
+                "6",
+                []
+            ],
+            [
+                "Winterthur",
+                [
+                    "/wiki/Winterthur"
+                ],
+                [
+                    {
+                        "entity id": "Q9125",
+                        "label": "Winterthur"
+                    }
+                ]
+            ],
+            [
+                "Z\u00fcrich",
+                [
+                    "/wiki/Canton_of_Z\u00fcrich"
+                ],
+                [
+                    {
+                        "entity id": "Q11943",
+                        "label": "Canton of Z\u00fcrich"
+                    }
+                ]
+            ],
+            [
+                "103,075",
+                []
+            ]
+        ],
+        [
+            [
+                "7",
+                []
+            ],
+            [
+                "Lucerne",
+                [
+                    "/wiki/Lucerne"
+                ],
+                [
+                    {
+                        "entity id": "Q4191",
+                        "label": "Lucerne"
+                    }
+                ]
+            ],
+            [
+                "Lucerne",
+                [
+                    "/wiki/Canton_of_Lucerne"
+                ],
+                [
+                    {
+                        "entity id": "Q12121",
+                        "label": "Canton of Lucerne"
+                    }
+                ]
+            ],
+            [
+                "78,093",
+                []
+            ]
+        ],
+        [
+            [
+                "8",
+                []
+            ],
+            [
+                "St. Gallen",
+                [
+                    "/wiki/St._Gallen"
+                ],
+                [
+                    {
+                        "entity id": "Q12746",
+                        "label": "Canton of St. Gallen"
+                    }
+                ]
+            ],
+            [
+                "St. Gallen",
+                [
+                    "/wiki/Canton_of_St._Gallen"
+                ],
+                [
+                    {
+                        "entity id": "Q12746",
+                        "label": "Canton of St. Gallen"
+                    }
+                ]
+            ],
+            [
+                "73,505",
+                []
+            ]
+        ],
+        [
+            [
+                "9",
+                []
+            ],
+            [
+                "Lugano",
+                [
+                    "/wiki/Lugano"
+                ],
+                [
+                    {
+                        "entity id": "Q7024",
+                        "label": "Lugano"
+                    }
+                ]
+            ],
+            [
+                "Ticino",
+                [
+                    "/wiki/Canton_of_Ticino"
+                ],
+                [
+                    {
+                        "entity id": "Q12724",
+                        "label": "Canton of Ticino"
+                    }
+                ]
+            ],
+            [
+                "55,151",
+                []
+            ]
+        ],
+        [
+            [
+                "10",
+                []
+            ],
+            [
+                "Biel/Bienne",
+                [
+                    "/wiki/Biel/Bienne"
+                ],
+                [
+                    {
+                        "entity id": "Q56448968",
+                        "label": "Biel/Bienne"
+                    }
+                ]
+            ],
+            [
+                "Bern",
+                [
+                    "/wiki/Canton_of_Bern"
+                ],
+                [
+                    {
+                        "entity id": "Q11911",
+                        "label": "canton of Bern"
+                    }
+                ]
+            ],
+            [
+                "51,635",
+                []
+            ]
+        ]
+    ],
+    "section_title": "",
+    "section_text": "",
+    "uid": "Municipalities_of_Switzerland_0",
+    "intro": "Municipalities (German: Gemeinden, Einwohnergemeinden or politische Gemeinden; French: communes; Italian: comuni; Romansh: vischnancas) are the lowest level of administrative division in Switzerland. Each municipality is part of one of the Swiss cantons, which form the Swiss Confederation. In most cantons municipalities are also part of districts or other sub-cantonal administrative divisions. There are 2,212 municipalities as of January 2019[update]. Their populations range between several hundred thousand (Z\u00fcrich), and a few dozen people (Bister), and their territory between 0.32 km\u00b2 (Kaiserstuhl and Rivaz) and 439 km\u00b2 (Scuol)."
+}

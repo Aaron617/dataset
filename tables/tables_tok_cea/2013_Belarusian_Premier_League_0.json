@@ -1,0 +1,562 @@
+{
+    "url": "https://en.wikipedia.org/wiki/2013_Belarusian_Premier_League",
+    "title": "2013 Belarusian Premier League",
+    "header": [
+        [
+            "Team",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Venue",
+            []
+        ],
+        [
+            "Capacity",
+            []
+        ],
+        [
+            "Position in 2012",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "BATE",
+                [
+                    "/wiki/FC_BATE_Borisov"
+                ],
+                [
+                    {
+                        "entity id": "Q191101",
+                        "label": "FC BATE Borisov"
+                    }
+                ]
+            ],
+            [
+                "Borisov",
+                [
+                    "/wiki/Barysaw"
+                ],
+                [
+                    {
+                        "entity id": "Q19313",
+                        "label": "Barysaw"
+                    }
+                ]
+            ],
+            [
+                "City Stadium",
+                [
+                    "/wiki/Haradzki_Stadium"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "5,402",
+                []
+            ],
+            [
+                "1",
+                []
+            ]
+        ],
+        [
+            [
+                "Belshina",
+                [
+                    "/wiki/FC_Belshina_Bobruisk"
+                ],
+                [
+                    {
+                        "entity id": "Q756110",
+                        "label": "FC Belshina Bobruisk"
+                    }
+                ]
+            ],
+            [
+                "Bobruisk",
+                [
+                    "/wiki/Bobruisk"
+                ],
+                [
+                    {
+                        "entity id": "Q1704354",
+                        "label": "Babruysk Theatre"
+                    }
+                ]
+            ],
+            [
+                "Spartak Stadium ( Bobruisk )",
+                [
+                    "/wiki/Spartak_Stadium_(Babruysk)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "3,700",
+                []
+            ],
+            [
+                "7",
+                []
+            ]
+        ],
+        [
+            [
+                "Dinamo Brest",
+                [
+                    "/wiki/FC_Dinamo_Brest"
+                ],
+                [
+                    {
+                        "entity id": "Q772725",
+                        "label": "FC Dynamo Brest"
+                    }
+                ]
+            ],
+            [
+                "Brest",
+                [
+                    "/wiki/Brest,_Belarus"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "OSK Brestskiy",
+                [
+                    "/wiki/OSK_Brestskiy"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "10,060",
+                []
+            ],
+            [
+                "8",
+                []
+            ]
+        ],
+        [
+            [
+                "Dinamo Minsk",
+                [
+                    "/wiki/FC_Dinamo_Minsk"
+                ],
+                [
+                    {
+                        "entity id": "Q211477",
+                        "label": "FC Dinamo Minsk"
+                    }
+                ]
+            ],
+            [
+                "Minsk",
+                [
+                    "/wiki/Minsk"
+                ],
+                [
+                    {
+                        "entity id": "Q2280",
+                        "label": "Minsk"
+                    }
+                ]
+            ],
+            [
+                "Traktor Stadium",
+                [
+                    "/wiki/Traktor_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q2464927",
+                        "label": "Traktor Stadium"
+                    }
+                ]
+            ],
+            [
+                "16,500",
+                []
+            ],
+            [
+                "3",
+                []
+            ]
+        ],
+        [
+            [
+                "Dnepr",
+                [
+                    "/wiki/FC_Dnepr_Mogilev"
+                ],
+                [
+                    {
+                        "entity id": "Q834555",
+                        "label": "FC Dnepr Mogilev"
+                    }
+                ]
+            ],
+            [
+                "Mogilev",
+                [
+                    "/wiki/Mogilev"
+                ],
+                [
+                    {
+                        "entity id": "Q154835",
+                        "label": "Mogilev"
+                    }
+                ]
+            ],
+            [
+                "Spartak Stadium ( Mogilev )",
+                [
+                    "/wiki/Spartak_Stadion_(Mogilev)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "7,350",
+                []
+            ],
+            [
+                "First League , 1",
+                [
+                    "/wiki/2012_Belarusian_First_League"
+                ],
+                [
+                    {
+                        "entity id": "Q794350",
+                        "label": "2012 Belarusian First League"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Gomel",
+                [
+                    "/wiki/FC_Gomel"
+                ],
+                [
+                    {
+                        "entity id": "Q726285",
+                        "label": "FC Gomel"
+                    }
+                ]
+            ],
+            [
+                "Gomel",
+                [
+                    "/wiki/Gomel"
+                ],
+                [
+                    {
+                        "entity id": "Q2678",
+                        "label": "Gomel"
+                    }
+                ]
+            ],
+            [
+                "Central Stadium",
+                [
+                    "/wiki/Central_Stadium_(Gomel)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "14,307",
+                []
+            ],
+            [
+                "4",
+                []
+            ]
+        ],
+        [
+            [
+                "Minsk",
+                [
+                    "/wiki/FC_Minsk"
+                ],
+                [
+                    {
+                        "entity id": "Q594092",
+                        "label": "FC Minsk"
+                    }
+                ]
+            ],
+            [
+                "Minsk",
+                [
+                    "/wiki/Minsk"
+                ],
+                [
+                    {
+                        "entity id": "Q2280",
+                        "label": "Minsk"
+                    }
+                ]
+            ],
+            [
+                "Torpedo Stadium ( Minsk )",
+                [
+                    "/wiki/Torpedo_Stadium_(Minsk)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "4,820",
+                []
+            ],
+            [
+                "6",
+                []
+            ]
+        ],
+        [
+            [
+                "Naftan",
+                [
+                    "/wiki/FC_Naftan_Novopolotsk"
+                ],
+                [
+                    {
+                        "entity id": "Q840765",
+                        "label": "FC Naftan Novopolotsk"
+                    }
+                ]
+            ],
+            [
+                "Novopolotsk",
+                [
+                    "/wiki/Novopolotsk"
+                ],
+                [
+                    {
+                        "entity id": "Q31203646",
+                        "label": "Novopolotsk State Musical College"
+                    }
+                ]
+            ],
+            [
+                "Atlant Stadium",
+                [
+                    "/wiki/Atlant_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q2041015",
+                        "label": "Atlant Stadium"
+                    }
+                ]
+            ],
+            [
+                "4,500",
+                []
+            ],
+            [
+                "9",
+                []
+            ]
+        ],
+        [
+            [
+                "Neman",
+                [
+                    "/wiki/FC_Neman_Grodno"
+                ],
+                [
+                    {
+                        "entity id": "Q545869",
+                        "label": "FC Neman Grodno"
+                    }
+                ]
+            ],
+            [
+                "Grodno",
+                [
+                    "/wiki/Grodno"
+                ],
+                [
+                    {
+                        "entity id": "Q181376",
+                        "label": "Hrodna"
+                    }
+                ]
+            ],
+            [
+                "Neman Stadium",
+                [
+                    "/wiki/Neman_Stadium"
+                ],
+                [
+                    {
+                        "entity id": "Q2662436",
+                        "label": "Neman Stadium"
+                    }
+                ]
+            ],
+            [
+                "8,500",
+                []
+            ],
+            [
+                "5",
+                []
+            ]
+        ],
+        [
+            [
+                "Shakhtyor",
+                [
+                    "/wiki/FC_Shakhtyor_Soligorsk"
+                ],
+                [
+                    {
+                        "entity id": "Q531866",
+                        "label": "FC Shakhtyor Salihorsk"
+                    }
+                ]
+            ],
+            [
+                "Soligorsk",
+                [
+                    "/wiki/Soligorsk"
+                ],
+                [
+                    {
+                        "entity id": "Q55633459",
+                        "label": "Soligorskopterus"
+                    }
+                ]
+            ],
+            [
+                "Stroitel Stadium",
+                [
+                    "/wiki/Stroitel_Stadium_(Soligorsk)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "4,200",
+                []
+            ],
+            [
+                "2",
+                []
+            ]
+        ],
+        [
+            [
+                "Slavia Mozyr",
+                [
+                    "/wiki/FC_Slavia_Mozyr"
+                ],
+                [
+                    {
+                        "entity id": "Q1165833",
+                        "label": "FC Slavia-Mozyr"
+                    }
+                ]
+            ],
+            [
+                "Mozyr",
+                [
+                    "/wiki/Mozyr"
+                ],
+                [
+                    {
+                        "entity id": "Q386487",
+                        "label": "Mazyr"
+                    }
+                ]
+            ],
+            [
+                "Yunost Stadium",
+                [
+                    "/wiki/Yunost_Stadium_(Mozyr)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "5,300",
+                []
+            ],
+            [
+                "10",
+                []
+            ]
+        ],
+        [
+            [
+                "Torpedo-BelAZ",
+                [
+                    "/wiki/FC_Torpedo-BelAZ_Zhodino"
+                ],
+                [
+                    {
+                        "entity id": "Q757109",
+                        "label": "FC Torpedo-BelAZ Zhodino"
+                    }
+                ]
+            ],
+            [
+                "Zhodino",
+                [
+                    "/wiki/Zhodino"
+                ],
+                [
+                    {
+                        "entity id": "Q200905",
+                        "label": "\u017dodzina"
+                    }
+                ]
+            ],
+            [
+                "Torpedo Stadium ( Zhodino )",
+                [
+                    "/wiki/Torpedo_Stadium_(Zhodino)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "3,020",
+                []
+            ],
+            [
+                "11",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Teams -- Team summaries",
+    "section_text": "",
+    "uid": "2013_Belarusian_Premier_League_0",
+    "intro": "The 2013 Belarusian Premier League is the 23rd season of top-tier football in Belarus. It began in April 2013 and end in November 2013. BATE Borisov are the defending champions, having won their 9th league title the previous year."
+}

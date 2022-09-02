@@ -1,0 +1,954 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_handheld_game_consoles",
+    "title": "Comparison of handheld game consoles",
+    "header": [
+        [
+            "",
+            []
+        ],
+        [
+            "Main processor",
+            [
+                "/wiki/Central_processing_unit"
+            ],
+            [
+                {
+                    "entity id": "Q5300",
+                    "label": "central processing unit"
+                }
+            ]
+        ],
+        [
+            "Clock speed",
+            [
+                "/wiki/Clock_rate"
+            ],
+            [
+                {
+                    "entity id": "Q911691",
+                    "label": "clock rate"
+                }
+            ]
+        ],
+        [
+            "Main memory",
+            []
+        ],
+        [
+            "Storage",
+            []
+        ],
+        [
+            "Video memory",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Game Boy Micro",
+                [
+                    "/wiki/Game_Boy_Micro"
+                ],
+                [
+                    {
+                        "entity id": "Q865012",
+                        "label": "Game Boy Micro"
+                    }
+                ]
+            ],
+            [
+                "Sharp ARM7TDMI",
+                []
+            ],
+            [
+                "16.78 MHz",
+                []
+            ],
+            [
+                "32 KB ( 32 KiB ) , 256 KB external",
+                [
+                    "/wiki/Kibibyte"
+                ],
+                [
+                    {
+                        "entity id": "Q79756",
+                        "label": "kibibyte"
+                    }
+                ]
+            ],
+            [
+                "None",
+                []
+            ],
+            [
+                "96 KB",
+                []
+            ]
+        ],
+        [
+            [
+                "GPD Win",
+                [
+                    "/wiki/GPD_Win"
+                ],
+                [
+                    {
+                        "entity id": "Q27983315",
+                        "label": "GPD Win"
+                    }
+                ]
+            ],
+            [
+                "64-bit Intel Atom x7-Z8750",
+                [
+                    "/wiki/Intel_Atom"
+                ],
+                [
+                    {
+                        "entity id": "Q324536",
+                        "label": "Intel Atom"
+                    }
+                ]
+            ],
+            [
+                "1.60-2.56GHz max ( with Turbo Boost )",
+                [
+                    "/wiki/Intel_Turbo_Boost"
+                ],
+                [
+                    {
+                        "entity id": "Q1361298",
+                        "label": "Intel Turbo Boost"
+                    }
+                ]
+            ],
+            [
+                "4GB LPDDR3 RAM",
+                [
+                    "/wiki/LPDDR3"
+                ],
+                [
+                    {
+                        "entity id": "Q16651575",
+                        "label": "LPDDR3"
+                    }
+                ]
+            ],
+            [
+                "64GB eMMC ROM MicroSD",
+                [
+                    "/wiki/EMMC",
+                    "/wiki/MicroSD"
+                ],
+                [
+                    {
+                        "entity id": "Q11054432",
+                        "label": "Embedded MultiMediaCard"
+                    },
+                    {
+                        "entity id": "Q482531",
+                        "label": "MicroSD"
+                    }
+                ]
+            ],
+            [
+                "Intel HD 405 integrated",
+                [
+                    "/wiki/Intel_HD_and_Iris_Graphics"
+                ],
+                [
+                    {
+                        "entity id": "Q1665604",
+                        "label": "Intel HD Graphics"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "GPD Win 2",
+                [
+                    "/wiki/GPD_Win_2"
+                ],
+                [
+                    {
+                        "entity id": "Q48852160",
+                        "label": "GPD Win 2"
+                    }
+                ]
+            ],
+            [
+                "64-bit Intel Core M3-7Y30",
+                [
+                    "/wiki/List_of_Intel_Core_M_microprocessors"
+                ],
+                [
+                    {
+                        "entity id": "Q18716331",
+                        "label": "list of Intel Core M microprocessors"
+                    }
+                ]
+            ],
+            [
+                "1.00 GHz/2.60 GHz max ( with Turbo Boost )",
+                [
+                    "/wiki/Intel_Turbo_Boost"
+                ],
+                [
+                    {
+                        "entity id": "Q1361298",
+                        "label": "Intel Turbo Boost"
+                    }
+                ]
+            ],
+            [
+                "8GB LPDDR3 RAM",
+                []
+            ],
+            [
+                "128GB M.2 SSD MicroSD",
+                [
+                    "/wiki/M.2",
+                    "/wiki/Solid_state_drive"
+                ],
+                [
+                    {
+                        "entity id": "Q15528609",
+                        "label": "M.2"
+                    },
+                    {
+                        "entity id": "Q487343",
+                        "label": "solid-state drive"
+                    }
+                ]
+            ],
+            [
+                "Intel HD 615 integrated",
+                [
+                    "/wiki/Intel_HD_and_Iris_Graphics"
+                ],
+                [
+                    {
+                        "entity id": "Q1665604",
+                        "label": "Intel HD Graphics"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Gizmondo",
+                [
+                    "/wiki/Gizmondo"
+                ],
+                [
+                    {
+                        "entity id": "Q909005",
+                        "label": "Gizmondo"
+                    }
+                ]
+            ],
+            [
+                "32-bit ARM9 / 128-bit Nvidia GPU",
+                []
+            ],
+            [
+                "400 MHz",
+                []
+            ],
+            [
+                "64 MB ( 64 MiB )",
+                [
+                    "/wiki/Mebibyte"
+                ],
+                [
+                    {
+                        "entity id": "Q79758",
+                        "label": "mebibyte"
+                    }
+                ]
+            ],
+            [
+                "64 MB flash ( shared with program stack ) , SD slot",
+                [
+                    "/wiki/Secure_Digital"
+                ],
+                [
+                    {
+                        "entity id": "Q466977",
+                        "label": "Secure Digital card"
+                    }
+                ]
+            ],
+            [
+                "1204 KB",
+                []
+            ]
+        ],
+        [
+            [
+                "PlayStation Portable",
+                [
+                    "/wiki/PlayStation_Portable"
+                ],
+                [
+                    {
+                        "entity id": "Q170325",
+                        "label": "PlayStation Portable"
+                    }
+                ]
+            ],
+            [
+                "MIPS R4000 32-bit RISC",
+                []
+            ],
+            [
+                "1 - 333 MHz ( variable clock speed )",
+                []
+            ],
+            [
+                "32 MB EDRAM ( 8 MB reserved for kernel )",
+                [
+                    "/wiki/EDRAM"
+                ],
+                [
+                    {
+                        "entity id": "Q286144",
+                        "label": "eDRAM"
+                    }
+                ]
+            ],
+            [
+                "Memory Stick Duo slot , Universal Media Disc",
+                [
+                    "/wiki/Memory_Stick",
+                    "/wiki/Universal_Media_Disc"
+                ],
+                [
+                    {
+                        "entity id": "Q1647694",
+                        "label": "USB flash drive"
+                    },
+                    {
+                        "entity id": "Q270309",
+                        "label": "Universal Media Disc"
+                    }
+                ]
+            ],
+            [
+                "2 MB EDRAM",
+                []
+            ]
+        ],
+        [
+            [
+                "GCW Zero",
+                [
+                    "/wiki/GCW_Zero"
+                ],
+                [
+                    {
+                        "entity id": "Q16638273",
+                        "label": "GCW Zero"
+                    }
+                ]
+            ],
+            [
+                "32-bit Ingenic JZ4770 ( MIPS )",
+                [
+                    "/wiki/Ingenic_Semiconductor",
+                    "/wiki/MIPS_architecture"
+                ],
+                [
+                    {
+                        "entity id": "Q511901",
+                        "label": "Ingenic Semiconductor"
+                    },
+                    {
+                        "entity id": "Q527464",
+                        "label": "MIPS"
+                    }
+                ]
+            ],
+            [
+                "1000 MHz",
+                []
+            ],
+            [
+                "512 MB DDR2",
+                [
+                    "/wiki/DDR2_SDRAM"
+                ],
+                [
+                    {
+                        "entity id": "Q847146",
+                        "label": "DDR2 SDRAM"
+                    }
+                ]
+            ],
+            [
+                "internal 16GB microSD ( replaceable ) , external microSD slot",
+                []
+            ],
+            [
+                "?",
+                []
+            ]
+        ],
+        [
+            [
+                "Nintendo DS",
+                [
+                    "/wiki/Nintendo_DS"
+                ],
+                [
+                    {
+                        "entity id": "Q170323",
+                        "label": "Nintendo DS"
+                    }
+                ]
+            ],
+            [
+                "ARM9 and ARM7TDMI",
+                []
+            ],
+            [
+                "67 MHz and 33 MHz",
+                []
+            ],
+            [
+                "4 MB SRAM",
+                [
+                    "/wiki/Static_random-access_memory"
+                ],
+                [
+                    {
+                        "entity id": "Q267416",
+                        "label": "static random-access memory"
+                    }
+                ]
+            ],
+            [
+                "None",
+                []
+            ],
+            [
+                "656 KB",
+                []
+            ]
+        ],
+        [
+            [
+                "N-Gage QD",
+                [
+                    "/wiki/N-Gage_QD"
+                ],
+                [
+                    {
+                        "entity id": "Q2405260",
+                        "label": "N-Gage QD"
+                    }
+                ]
+            ],
+            [
+                "ARM9",
+                []
+            ],
+            [
+                "104 MHz",
+                []
+            ],
+            [
+                "3.4 MB",
+                []
+            ],
+            [
+                "4 MB flash , MMC slot",
+                [
+                    "/wiki/MultiMediaCard"
+                ],
+                [
+                    {
+                        "entity id": "Q646104",
+                        "label": "MultiMediaCard"
+                    }
+                ]
+            ],
+            [
+                "N/A",
+                []
+            ]
+        ],
+        [
+            [
+                "Timetop Gameking 1 & 2",
+                [
+                    "/wiki/GameKing"
+                ],
+                [
+                    {
+                        "entity id": "Q3183771",
+                        "label": "GameKing"
+                    }
+                ]
+            ],
+            [
+                "65C02",
+                [
+                    "/wiki/WDC_65C02"
+                ],
+                [
+                    {
+                        "entity id": "Q1323895",
+                        "label": "WDC 65C02"
+                    }
+                ]
+            ],
+            [
+                "6 MHz",
+                []
+            ],
+            [
+                "Unknown",
+                []
+            ],
+            [
+                "None",
+                []
+            ],
+            [
+                "N/A",
+                []
+            ]
+        ],
+        [
+            [
+                "GP2X",
+                [
+                    "/wiki/GP2X"
+                ],
+                [
+                    {
+                        "entity id": "Q907531",
+                        "label": "GP2X"
+                    }
+                ]
+            ],
+            [
+                "ARM920T ( host ) and ARM940T ( video )",
+                []
+            ],
+            [
+                "200 MHz default , overclockable in software ( maximum varies )",
+                []
+            ],
+            [
+                "64 MB SDRAM , 64 MB NAND flash memory",
+                [
+                    "/wiki/Synchronous_dynamic_random-access_memory"
+                ],
+                [
+                    {
+                        "entity id": "Q746478",
+                        "label": "synchronous dynamic random-access memory"
+                    }
+                ]
+            ],
+            [
+                "SD memory cards , NAND flash ( SDHC supported in F200 model )",
+                [
+                    "/wiki/Secure_Digital"
+                ],
+                [
+                    {
+                        "entity id": "Q466977",
+                        "label": "Secure Digital card"
+                    }
+                ]
+            ],
+            [
+                "Depends on program used , no dedicated 3D",
+                []
+            ]
+        ],
+        [
+            [
+                "GP32",
+                [
+                    "/wiki/GP32"
+                ],
+                [
+                    {
+                        "entity id": "Q426119",
+                        "label": "GP32"
+                    }
+                ]
+            ],
+            [
+                "ARM920T",
+                []
+            ],
+            [
+                "22-133 MHz default , overclockable in software ( maximum varies )",
+                []
+            ],
+            [
+                "8 MB SDRAM",
+                []
+            ],
+            [
+                "SmartMedia 8-128 MB",
+                [
+                    "/wiki/SmartMedia"
+                ],
+                [
+                    {
+                        "entity id": "Q1051763",
+                        "label": "SmartMedia"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ]
+        ],
+        [
+            [
+                "Dingoo A320",
+                [
+                    "/wiki/Dingoo_A320"
+                ],
+                [
+                    {
+                        "entity id": "Q935719",
+                        "label": "Dingoo A320"
+                    }
+                ]
+            ],
+            [
+                "32-bit Ingenic jz4740 ( MIPS R3000 Clone ) with XBurst SIMD",
+                []
+            ],
+            [
+                "336 MHz ( Reliably clocks to 430 MHz )",
+                []
+            ],
+            [
+                "32 MB ( 32 MiB )",
+                [
+                    "/wiki/Mebibyte"
+                ],
+                [
+                    {
+                        "entity id": "Q79758",
+                        "label": "mebibyte"
+                    }
+                ]
+            ],
+            [
+                "4 GB flash , miniSD slot",
+                [
+                    "/wiki/Secure_Digital"
+                ],
+                [
+                    {
+                        "entity id": "Q466977",
+                        "label": "Secure Digital card"
+                    }
+                ]
+            ],
+            [
+                "N/A",
+                []
+            ]
+        ],
+        [
+            [
+                "Pandora",
+                [
+                    "/wiki/Pandora_(console)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "ARM Cortex-A8",
+                []
+            ],
+            [
+                "600 MHz + 430 MHz TMS320C64x+ Core ( can be reliably overclocked to 900 MHz ) , 1 GHz model goes to 1.2 GHz",
+                []
+            ],
+            [
+                "256 MB / Rebirth edition : 512 MB",
+                []
+            ],
+            [
+                "512 MB onboard Flash , 2 SDHC cards : up to 2 times 512 GB ( SDXC cards work , but only at SDHC speed [ 3 ] , so 1 TB is possible )",
+                []
+            ],
+            [
+                "?",
+                []
+            ]
+        ],
+        [
+            [
+                "Tapwave Zodiac",
+                [
+                    "/wiki/Tapwave_Zodiac"
+                ],
+                [
+                    {
+                        "entity id": "Q523532",
+                        "label": "Tapwave Zodiac"
+                    }
+                ]
+            ],
+            [
+                "Motorola i. Mxi ARM9",
+                []
+            ],
+            [
+                "200 MHz",
+                []
+            ],
+            [
+                "32 MB or 128 MB",
+                []
+            ],
+            [
+                "32 MB or 128 MB ( shared with program stack ) , 2 SD slots",
+                [
+                    "/wiki/Secure_Digital"
+                ],
+                [
+                    {
+                        "entity id": "Q466977",
+                        "label": "Secure Digital card"
+                    }
+                ]
+            ],
+            [
+                "8 MB",
+                []
+            ]
+        ],
+        [
+            [
+                "N-Gage",
+                [
+                    "/wiki/N-Gage_(device)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "ARM9",
+                []
+            ],
+            [
+                "104 MHz",
+                []
+            ],
+            [
+                "3.4 MB , 32-128 MB external",
+                []
+            ],
+            [
+                "4 MB flash , MMC slot",
+                [
+                    "/wiki/MultiMediaCard"
+                ],
+                [
+                    {
+                        "entity id": "Q646104",
+                        "label": "MultiMediaCard"
+                    }
+                ]
+            ],
+            [
+                "N/A",
+                []
+            ]
+        ],
+        [
+            [
+                "Game Boy Advance SP",
+                [
+                    "/wiki/Game_Boy_Advance_SP"
+                ],
+                [
+                    {
+                        "entity id": "Q842836",
+                        "label": "Game Boy Advance SP"
+                    }
+                ]
+            ],
+            [
+                "Sharp ARM7TDMI and Z80",
+                []
+            ],
+            [
+                "16.78 MHz and 4.194 MHz",
+                []
+            ],
+            [
+                "32 KB , 256 KB external",
+                []
+            ],
+            [
+                "None",
+                []
+            ],
+            [
+                "96 KB",
+                []
+            ]
+        ],
+        [
+            [
+                "Game Boy Advance",
+                [
+                    "/wiki/Game_Boy_Advance"
+                ],
+                [
+                    {
+                        "entity id": "Q188642",
+                        "label": "Game Boy Advance"
+                    }
+                ]
+            ],
+            [
+                "Sharp ARM7TDMI and Z80",
+                []
+            ],
+            [
+                "16.78 MHz and 4.194 MHz",
+                []
+            ],
+            [
+                "32 KB , 256 KB external",
+                []
+            ],
+            [
+                "None",
+                []
+            ],
+            [
+                "96 KB",
+                []
+            ]
+        ],
+        [
+            [
+                "Swan Crystal",
+                [
+                    "/wiki/WonderSwan"
+                ],
+                [
+                    {
+                        "entity id": "Q1065792",
+                        "label": "WonderSwan"
+                    }
+                ]
+            ],
+            [
+                "SPGY-1002",
+                []
+            ],
+            [
+                "3.072 MHz",
+                []
+            ],
+            [
+                "512 KB",
+                []
+            ],
+            [
+                "None",
+                []
+            ],
+            [
+                "?",
+                []
+            ]
+        ],
+        [
+            [
+                "WonderSwan Color",
+                [
+                    "/wiki/WonderSwan"
+                ],
+                [
+                    {
+                        "entity id": "Q1065792",
+                        "label": "WonderSwan"
+                    }
+                ]
+            ],
+            [
+                "SPGY-1002",
+                []
+            ],
+            [
+                "3.072 MHz",
+                []
+            ],
+            [
+                "512 KB",
+                []
+            ],
+            [
+                "None",
+                []
+            ],
+            [
+                "?",
+                []
+            ]
+        ],
+        [
+            [
+                "WonderSwan",
+                [
+                    "/wiki/WonderSwan"
+                ],
+                [
+                    {
+                        "entity id": "Q1065792",
+                        "label": "WonderSwan"
+                    }
+                ]
+            ],
+            [
+                "SPGY-1002",
+                []
+            ],
+            [
+                "3.072 MHz",
+                []
+            ],
+            [
+                "512 KB",
+                []
+            ],
+            [
+                "None",
+                []
+            ],
+            [
+                "?",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Specifications",
+    "section_text": "",
+    "uid": "Comparison_of_handheld_game_consoles_1",
+    "intro": "This is a comparison of the features of various handheld game consoles."
+}

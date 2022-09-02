@@ -1,0 +1,577 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_candies",
+    "title": "List of candies",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Manufacturer",
+            []
+        ],
+        [
+            "Description",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Cadbury",
+                [
+                    "/wiki/Cadbury"
+                ],
+                [
+                    {
+                        "entity id": "Q6677525",
+                        "label": "Cadbury"
+                    }
+                ]
+            ],
+            [
+                "Cadbury",
+                []
+            ],
+            [
+                "A British confectionery company owned by Mondel\u0113z International Inc. and is the industry 's second-largest globally after Mars , Incorporated . With its headquarters in Uxbridge , London , England , the company operates in more than 50 countries worldwide",
+                [
+                    "/wiki/Confectionery",
+                    "/wiki/Mondel\u0113z_International",
+                    "/wiki/Mars,_Incorporated",
+                    "/wiki/Uxbridge"
+                ],
+                [
+                    {
+                        "entity id": "Q5159627",
+                        "label": "confection"
+                    },
+                    {
+                        "entity id": "Q12857502",
+                        "label": "Mondel\u0113z International"
+                    },
+                    {
+                        "entity id": "Q695087",
+                        "label": "Mars, Incorporated"
+                    },
+                    {
+                        "entity id": "Q3552816",
+                        "label": "Uxbridge"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dark chocolate",
+                [
+                    "/wiki/Dark_chocolate"
+                ],
+                [
+                    {
+                        "entity id": "Q277628",
+                        "label": "dark chocolate"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Produced by adding fat and sugar to cocoa , it is chocolate with no or much less milk compared to milk chocolate . The U.S. has no official definition for dark chocolate but European rules specify a minimum of 35% cocoa solids",
+                [
+                    "/wiki/Cocoa_solids"
+                ],
+                [
+                    {
+                        "entity id": "Q1062396",
+                        "label": "cocoa powder"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Hershey Bar",
+                [
+                    "/wiki/Hershey_Bar"
+                ],
+                [
+                    {
+                        "entity id": "Q4793617",
+                        "label": "Hershey bar"
+                    }
+                ]
+            ],
+            [
+                "Hershey",
+                [
+                    "/wiki/The_Hershey_Company"
+                ],
+                [
+                    {
+                        "entity id": "Q1056637",
+                        "label": "The Hershey Company"
+                    }
+                ]
+            ],
+            [
+                "The Hershey Milk Chocolate Bar was first sold in 1900 with the Hershey 's Milk Chocolate with Almonds variety beginning produced in 1908 . A circular version of the milk chocolate bar called Hershey 's Drops was released in 2010",
+                [
+                    "/wiki/Hershey's_Drops"
+                ],
+                [
+                    {
+                        "entity id": "Q5744477",
+                        "label": "Hershey's Drops"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Hershey 's Kisses",
+                [
+                    "/wiki/Hershey's_Kisses"
+                ],
+                [
+                    {
+                        "entity id": "Q2893738",
+                        "label": "Hershey's Kisses"
+                    }
+                ]
+            ],
+            [
+                "Hershey",
+                [
+                    "/wiki/The_Hershey_Company"
+                ],
+                [
+                    {
+                        "entity id": "Q1056637",
+                        "label": "The Hershey Company"
+                    }
+                ]
+            ],
+            [
+                "Bite-sized pieces of chocolate with a distinctive shape , they are wrapped in squares of lightweight aluminum foil with a narrow strip of paper protruding from the top",
+                [
+                    "/wiki/Aluminium_foil"
+                ],
+                [
+                    {
+                        "entity id": "Q447349",
+                        "label": "aluminium foil"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Jersey Milk",
+                [
+                    "/wiki/Jersey_Milk"
+                ],
+                [
+                    {
+                        "entity id": "Q24190175",
+                        "label": "Jersey Milk"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Milk chocolate bar",
+                []
+            ]
+        ],
+        [
+            [
+                "Kit Kat",
+                [
+                    "/wiki/Kit_Kat"
+                ],
+                [
+                    {
+                        "entity id": "Q243547",
+                        "label": "ketamine"
+                    }
+                ]
+            ],
+            [
+                "U.S.- Hershey , UK- Nestl\u00e9",
+                [
+                    "/wiki/The_Hershey_Company",
+                    "/wiki/Nestl\u00e9"
+                ],
+                [
+                    {
+                        "entity id": "Q1056637",
+                        "label": "The Hershey Company"
+                    },
+                    {
+                        "entity id": "Q160746",
+                        "label": "Nestl\u00e9"
+                    }
+                ]
+            ],
+            [
+                "Chocolate-covered wafer biscuit bar confection",
+                []
+            ]
+        ],
+        [
+            [
+                "Lindt",
+                [
+                    "/wiki/Lindt"
+                ],
+                [
+                    {
+                        "entity id": "Q152822",
+                        "label": "Lindt & Spr\u00fcngli"
+                    }
+                ]
+            ],
+            [
+                "Lindt",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Maltesers",
+                [
+                    "/wiki/Maltesers"
+                ],
+                [
+                    {
+                        "entity id": "Q2716518",
+                        "label": "Maltesers"
+                    }
+                ]
+            ],
+            [
+                "Mars , Inc",
+                [
+                    "/wiki/Mars,_Inc."
+                ],
+                [
+                    {
+                        "entity id": "Q695087",
+                        "label": "Mars, Incorporated"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Milk Duds",
+                [
+                    "/wiki/Milk_Duds"
+                ],
+                [
+                    {
+                        "entity id": "Q6857984",
+                        "label": "Milk Duds"
+                    }
+                ]
+            ],
+            [
+                "Hershey",
+                [
+                    "/wiki/The_Hershey_Company"
+                ],
+                [
+                    {
+                        "entity id": "Q1056637",
+                        "label": "The Hershey Company"
+                    }
+                ]
+            ],
+            [
+                "A caramel candy , historically enrobed with milk chocolate and currently enrobed with a confectionery coating made from cocoa and vegetable oil",
+                [
+                    "/wiki/Enrober",
+                    "/wiki/Milk_chocolate",
+                    "/wiki/Cocoa_solids",
+                    "/wiki/Vegetable_oil"
+                ],
+                [
+                    {
+                        "entity id": "Q4544011",
+                        "label": "Enrober"
+                    },
+                    {
+                        "entity id": "Q2164820",
+                        "label": "Milk chocolate"
+                    },
+                    {
+                        "entity id": "Q1062396",
+                        "label": "cocoa powder"
+                    },
+                    {
+                        "entity id": "Q4739805",
+                        "label": "vegetable oil"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Milky Way",
+                [
+                    "/wiki/Milky_Way_(chocolate_bar)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Mars , Inc",
+                [
+                    "/wiki/Mars,_Incorporated"
+                ],
+                [
+                    {
+                        "entity id": "Q695087",
+                        "label": "Mars, Incorporated"
+                    }
+                ]
+            ],
+            [
+                "Pictured are a larger American ( left ) and a smaller European ( right ) Milky Way bar",
+                []
+            ]
+        ],
+        [
+            [
+                "Peppermint bark",
+                [
+                    "/wiki/Peppermint_bark"
+                ],
+                [
+                    {
+                        "entity id": "Q7166431",
+                        "label": "peppermint bark"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "A chocolate confection that consists of peppermint candy pieces , such as candy canes , in white chocolate on top of dark chocolate , but peppermint bark can refer to any chocolate with peppermint candy pieces in it",
+                [
+                    "/wiki/Peppermint",
+                    "/wiki/Candy_canes",
+                    "/wiki/White_chocolate",
+                    "/wiki/Dark_chocolate"
+                ],
+                [
+                    {
+                        "entity id": "Q156037",
+                        "label": "Mentha \u00d7piperita"
+                    },
+                    {},
+                    {
+                        "entity id": "Q742385",
+                        "label": "White chocolate"
+                    },
+                    {
+                        "entity id": "Q277628",
+                        "label": "dark chocolate"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Reese 's Peanut Butter Cup",
+                [
+                    "/wiki/Reese's_Peanut_Butter_Cup"
+                ],
+                [
+                    {
+                        "entity id": "Q2136612",
+                        "label": "Reese's Peanut Butter Cups"
+                    }
+                ]
+            ],
+            [
+                "Hershey",
+                [
+                    "/wiki/The_Hershey_Company"
+                ],
+                [
+                    {
+                        "entity id": "Q1056637",
+                        "label": "The Hershey Company"
+                    }
+                ]
+            ],
+            [
+                "Peanut butter covered in milk chocolate",
+                []
+            ]
+        ],
+        [
+            [
+                "Rolo",
+                [
+                    "/wiki/Rolo"
+                ],
+                [
+                    {
+                        "entity id": "Q111270",
+                        "label": "Rolo"
+                    }
+                ]
+            ],
+            [
+                "U.S.- Hershey , UK- Nestl\u00e9",
+                [
+                    "/wiki/The_Hershey_Company",
+                    "/wiki/Nestl\u00e9"
+                ],
+                [
+                    {
+                        "entity id": "Q1056637",
+                        "label": "The Hershey Company"
+                    },
+                    {
+                        "entity id": "Q160746",
+                        "label": "Nestl\u00e9"
+                    }
+                ]
+            ],
+            [
+                "Chocolate-coated caramels",
+                []
+            ]
+        ],
+        [
+            [
+                "Snickers",
+                [
+                    "/wiki/Snickers"
+                ],
+                [
+                    {
+                        "entity id": "Q714179",
+                        "label": "Snickers"
+                    }
+                ]
+            ],
+            [
+                "Mars , Inc",
+                [
+                    "/wiki/Mars,_Incorporated"
+                ],
+                [
+                    {
+                        "entity id": "Q695087",
+                        "label": "Mars, Incorporated"
+                    }
+                ]
+            ],
+            [
+                "Peanuts and caramel covered in milk chocolate",
+                [
+                    "/wiki/Peanut"
+                ],
+                [
+                    {
+                        "entity id": "Q37383",
+                        "label": "peanut"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Twix",
+                [
+                    "/wiki/Twix"
+                ],
+                [
+                    {
+                        "entity id": "Q869733",
+                        "label": "Twix"
+                    }
+                ]
+            ],
+            [
+                "Mars , Inc",
+                [
+                    "/wiki/Mars,_Incorporated"
+                ],
+                [
+                    {
+                        "entity id": "Q695087",
+                        "label": "Mars, Incorporated"
+                    }
+                ]
+            ],
+            [
+                "Caramel and cookie covered in milk chocolate",
+                []
+            ]
+        ],
+        [
+            [
+                "Whoppers",
+                [
+                    "/wiki/Whoppers"
+                ],
+                [
+                    {
+                        "entity id": "Q126392",
+                        "label": "Whoppers"
+                    }
+                ]
+            ],
+            [
+                "Hershey",
+                [
+                    "/wiki/The_Hershey_Company"
+                ],
+                [
+                    {
+                        "entity id": "Q1056637",
+                        "label": "The Hershey Company"
+                    }
+                ]
+            ],
+            [
+                "Chocolate-covered malted milk balls",
+                [
+                    "/wiki/Malted_milk"
+                ],
+                [
+                    {
+                        "entity id": "Q2223519",
+                        "label": "malted milk"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Western candies -- Chocolate",
+    "section_text": "Chocolate is made from the fermented , roasted and ground beans of the tropical cacao tree . In America , cocoa refers to ground cacao beans . Chocolate is the combination of cocoa , cocoa butter , sugar and other ingredients ( milk , flavorings , and emulsifiers ) and they are sweet .",
+    "uid": "List_of_candies_42",
+    "intro": "Candy, known also as sweets and confectionery, has a long history as a familiar food treat that is available in many varieties. Candy varieties are influenced by the size of the sugar crystals, aeration, sugar concentrations, colour and the types of sugar used. Simple sugar or sucrose is turned into candy by dissolving it in water, concentrating this solution through cooking and allowing the mass either to form a mutable solid or to recrystallize. Maple sugar candy has been made in this way for thousands of years, with concentration taking place from both freezing and heating. Other sugars, sugar substitutes, and corn syrup are also used. Jelly candies, such as gumdrops and gummies, use stabilizers including starch, pectin or gelatin. Another type of candy is cotton candy, which is made from spun sugar. In their Thanksgiving Address, Native peoples of the Haudenosaunee Confederacy give special thanks to the Sugar Maple tree as the leader of all trees to recognize its gift of sugar when the People need it most. In traditional times, maple sugar candy reduced from sap was an important food source in the lean times of winter in North America."
+}

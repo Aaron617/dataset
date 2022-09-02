@@ -1,0 +1,606 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_countries_that_border_only_one_other_country",
+    "title": "List of countries that border only one other country",
+    "header": [
+        [
+            "Country",
+            []
+        ],
+        [
+            "Neighbour",
+            []
+        ],
+        [
+            "Border length ( km )",
+            []
+        ],
+        [
+            "Border length ( mi )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Brunei",
+                [
+                    "/wiki/Brunei"
+                ],
+                [
+                    {
+                        "entity id": "Q921",
+                        "label": "Brunei"
+                    }
+                ]
+            ],
+            [
+                "Malaysia",
+                [
+                    "/wiki/Malaysia"
+                ],
+                [
+                    {
+                        "entity id": "Q833",
+                        "label": "Malaysia"
+                    }
+                ]
+            ],
+            [
+                "381",
+                []
+            ],
+            [
+                "237",
+                []
+            ]
+        ],
+        [
+            [
+                "Canada",
+                [
+                    "/wiki/Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q16",
+                        "label": "Canada"
+                    }
+                ]
+            ],
+            [
+                "United States",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "8,893",
+                []
+            ],
+            [
+                "5,526",
+                []
+            ]
+        ],
+        [
+            [
+                "Denmark",
+                [
+                    "/wiki/Denmark"
+                ],
+                [
+                    {
+                        "entity id": "Q35",
+                        "label": "Denmark"
+                    }
+                ]
+            ],
+            [
+                "Germany",
+                [
+                    "/wiki/Germany"
+                ],
+                [
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    }
+                ]
+            ],
+            [
+                "68",
+                []
+            ],
+            [
+                "42",
+                []
+            ]
+        ],
+        [
+            [
+                "Dominican Republic",
+                [
+                    "/wiki/Dominican_Republic"
+                ],
+                [
+                    {
+                        "entity id": "Q786",
+                        "label": "Dominican Republic"
+                    }
+                ]
+            ],
+            [
+                "Haiti",
+                [
+                    "/wiki/Haiti"
+                ],
+                [
+                    {
+                        "entity id": "Q790",
+                        "label": "Haiti"
+                    }
+                ]
+            ],
+            [
+                "360",
+                []
+            ],
+            [
+                "220",
+                []
+            ]
+        ],
+        [
+            [
+                "The Gambia",
+                [
+                    "/wiki/The_Gambia"
+                ],
+                [
+                    {
+                        "entity id": "Q1005",
+                        "label": "The Gambia"
+                    }
+                ]
+            ],
+            [
+                "Senegal",
+                [
+                    "/wiki/Senegal"
+                ],
+                [
+                    {
+                        "entity id": "Q1041",
+                        "label": "Senegal"
+                    }
+                ]
+            ],
+            [
+                "740",
+                []
+            ],
+            [
+                "460",
+                []
+            ]
+        ],
+        [
+            [
+                "Haiti",
+                [
+                    "/wiki/Haiti"
+                ],
+                [
+                    {
+                        "entity id": "Q790",
+                        "label": "Haiti"
+                    }
+                ]
+            ],
+            [
+                "Dominican Republic",
+                [
+                    "/wiki/Dominican_Republic"
+                ],
+                [
+                    {
+                        "entity id": "Q786",
+                        "label": "Dominican Republic"
+                    }
+                ]
+            ],
+            [
+                "360",
+                []
+            ],
+            [
+                "220",
+                []
+            ]
+        ],
+        [
+            [
+                "Ireland",
+                [
+                    "/wiki/Republic_of_Ireland"
+                ],
+                [
+                    {
+                        "entity id": "Q27",
+                        "label": "Republic of Ireland"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom",
+                [
+                    "/wiki/United_Kingdom"
+                ],
+                [
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    }
+                ]
+            ],
+            [
+                "360",
+                []
+            ],
+            [
+                "220",
+                []
+            ]
+        ],
+        [
+            [
+                "Lesotho",
+                [
+                    "/wiki/Lesotho"
+                ],
+                [
+                    {
+                        "entity id": "Q1013",
+                        "label": "Lesotho"
+                    }
+                ]
+            ],
+            [
+                "South Africa",
+                [
+                    "/wiki/South_Africa"
+                ],
+                [
+                    {
+                        "entity id": "Q258",
+                        "label": "South Africa"
+                    }
+                ]
+            ],
+            [
+                "909",
+                []
+            ],
+            [
+                "565",
+                []
+            ]
+        ],
+        [
+            [
+                "Monaco",
+                [
+                    "/wiki/Monaco"
+                ],
+                [
+                    {
+                        "entity id": "Q235",
+                        "label": "Monaco"
+                    }
+                ]
+            ],
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "4.4",
+                []
+            ],
+            [
+                "2.7",
+                []
+            ]
+        ],
+        [
+            [
+                "Papua New Guinea",
+                [
+                    "/wiki/Papua_New_Guinea"
+                ],
+                [
+                    {
+                        "entity id": "Q691",
+                        "label": "Papua New Guinea"
+                    }
+                ]
+            ],
+            [
+                "Indonesia",
+                [
+                    "/wiki/Indonesia"
+                ],
+                [
+                    {
+                        "entity id": "Q252",
+                        "label": "Indonesia"
+                    }
+                ]
+            ],
+            [
+                "820",
+                []
+            ],
+            [
+                "510",
+                []
+            ]
+        ],
+        [
+            [
+                "Portugal",
+                [
+                    "/wiki/Portugal"
+                ],
+                [
+                    {
+                        "entity id": "Q45",
+                        "label": "Portugal"
+                    }
+                ]
+            ],
+            [
+                "Spain",
+                [
+                    "/wiki/Spain"
+                ],
+                [
+                    {
+                        "entity id": "Q29",
+                        "label": "Spain"
+                    }
+                ]
+            ],
+            [
+                "1,214",
+                []
+            ],
+            [
+                "754",
+                []
+            ]
+        ],
+        [
+            [
+                "Qatar",
+                [
+                    "/wiki/Qatar"
+                ],
+                [
+                    {
+                        "entity id": "Q846",
+                        "label": "Qatar"
+                    }
+                ]
+            ],
+            [
+                "Saudi Arabia",
+                [
+                    "/wiki/Saudi_Arabia"
+                ],
+                [
+                    {
+                        "entity id": "Q851",
+                        "label": "Saudi Arabia"
+                    }
+                ]
+            ],
+            [
+                "60",
+                []
+            ],
+            [
+                "37",
+                []
+            ]
+        ],
+        [
+            [
+                "San Marino",
+                [
+                    "/wiki/San_Marino"
+                ],
+                [
+                    {
+                        "entity id": "Q238",
+                        "label": "San Marino"
+                    }
+                ]
+            ],
+            [
+                "Italy",
+                [
+                    "/wiki/Italy"
+                ],
+                [
+                    {
+                        "entity id": "Q38",
+                        "label": "Italy"
+                    }
+                ]
+            ],
+            [
+                "39",
+                []
+            ],
+            [
+                "24",
+                []
+            ]
+        ],
+        [
+            [
+                "South Korea",
+                [
+                    "/wiki/South_Korea"
+                ],
+                [
+                    {
+                        "entity id": "Q884",
+                        "label": "South Korea"
+                    }
+                ]
+            ],
+            [
+                "North Korea",
+                [
+                    "/wiki/North_Korea"
+                ],
+                [
+                    {
+                        "entity id": "Q423",
+                        "label": "North Korea"
+                    }
+                ]
+            ],
+            [
+                "238",
+                []
+            ],
+            [
+                "148",
+                []
+            ]
+        ],
+        [
+            [
+                "Timor-Leste",
+                [
+                    "/wiki/East_Timor"
+                ],
+                [
+                    {
+                        "entity id": "Q574",
+                        "label": "East Timor"
+                    }
+                ]
+            ],
+            [
+                "Indonesia",
+                [
+                    "/wiki/Indonesia"
+                ],
+                [
+                    {
+                        "entity id": "Q252",
+                        "label": "Indonesia"
+                    }
+                ]
+            ],
+            [
+                "228",
+                []
+            ],
+            [
+                "142",
+                []
+            ]
+        ],
+        [
+            [
+                "United Kingdom",
+                [
+                    "/wiki/United_Kingdom"
+                ],
+                [
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    }
+                ]
+            ],
+            [
+                "Ireland",
+                [
+                    "/wiki/Republic_of_Ireland"
+                ],
+                [
+                    {
+                        "entity id": "Q27",
+                        "label": "Republic of Ireland"
+                    }
+                ]
+            ],
+            [
+                "360",
+                []
+            ],
+            [
+                "220",
+                []
+            ]
+        ],
+        [
+            [
+                "Vatican City",
+                [
+                    "/wiki/Vatican_City"
+                ],
+                [
+                    {
+                        "entity id": "Q237",
+                        "label": "Vatican City"
+                    }
+                ]
+            ],
+            [
+                "Italy",
+                [
+                    "/wiki/Italy"
+                ],
+                [
+                    {
+                        "entity id": "Q38",
+                        "label": "Italy"
+                    }
+                ]
+            ],
+            [
+                "3.2",
+                []
+            ],
+            [
+                "2.0",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Countries bordering only one other country",
+    "section_text": "",
+    "uid": "List_of_countries_that_border_only_one_other_country_0",
+    "intro": "This is a list of countries that have a land border with only one other country. Some on this list have a maritime border with additional countries: for example Denmark borders by sea Sweden, Norway and Canada (between Greenland and Baffin Island); while, in addition to Denmark, Canada also has a sea boundary with France (between the island of Newfoundland and the territory of St. Pierre and Miquelon). Some countries, which are not listed here, have no land border but do have a maritime border with a single other country, such as Sri Lanka. There are generally four arrangements by which a country would have a single land border:"
+}

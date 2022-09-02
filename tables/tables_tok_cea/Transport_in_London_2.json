@@ -1,0 +1,512 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Transport_in_London",
+    "title": "Transport in London",
+    "header": [
+        [
+            "Operator",
+            []
+        ],
+        [
+            "Routes",
+            []
+        ],
+        [
+            "TfL routes",
+            []
+        ],
+        [
+            "Parent company",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Abellio London",
+                [
+                    "/wiki/Abellio_London"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "London",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Abellio",
+                [
+                    "/wiki/Abellio_(transport_company)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Arriva London",
+                [
+                    "/wiki/Arriva_London"
+                ],
+                [
+                    {
+                        "entity id": "Q4796013",
+                        "label": "Arriva London"
+                    }
+                ]
+            ],
+            [
+                "London",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Arriva",
+                [
+                    "/wiki/Arriva"
+                ],
+                [
+                    {
+                        "entity id": "Q680991",
+                        "label": "Arriva"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Carousel Buses",
+                [
+                    "/wiki/Carousel_Buses"
+                ],
+                [
+                    {
+                        "entity id": "Q5045560",
+                        "label": "Carousel Buses"
+                    }
+                ]
+            ],
+            [
+                "Buckinghamshire",
+                []
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Go-Ahead Group",
+                [
+                    "/wiki/Go-Ahead_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q1166056",
+                        "label": "Go-Ahead Group plc"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "CT Plus",
+                [
+                    "/wiki/HCT_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q5629125",
+                        "label": "HCT Group"
+                    }
+                ]
+            ],
+            [
+                "Greater London",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "HCT Group",
+                [
+                    "/wiki/HCT_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q5629125",
+                        "label": "HCT Group"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "First Berkshire & The Thames Valley",
+                [
+                    "/wiki/First_Berkshire_&_The_Thames_Valley"
+                ],
+                [
+                    {
+                        "entity id": "Q5452550",
+                        "label": "First Berkshire & The Thames Valley"
+                    }
+                ]
+            ],
+            [
+                "Berkshire",
+                []
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "FirstGroup",
+                [
+                    "/wiki/FirstGroup"
+                ],
+                [
+                    {
+                        "entity id": "Q1198156",
+                        "label": "FirstGroup plc"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Go-Ahead London",
+                [
+                    "/wiki/Go-Ahead_London"
+                ],
+                [
+                    {
+                        "entity id": "Q12858362",
+                        "label": "Go-Ahead London"
+                    }
+                ]
+            ],
+            [
+                "London",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Go-Ahead Group",
+                []
+            ]
+        ],
+        [
+            [
+                "Green Line Coaches",
+                [
+                    "/wiki/Green_Line_Coaches"
+                ],
+                [
+                    {
+                        "entity id": "Q5602826",
+                        "label": "Green Line Coaches"
+                    }
+                ]
+            ],
+            [
+                "Express services to Berkshire & Hertfordshire",
+                []
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Arriva",
+                []
+            ]
+        ],
+        [
+            [
+                "London Sovereign",
+                [
+                    "/wiki/London_Sovereign"
+                ],
+                [
+                    {
+                        "entity id": "Q7833957",
+                        "label": "Transdev London Sovereign"
+                    }
+                ]
+            ],
+            [
+                "North London",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "RATP Group",
+                [
+                    "/wiki/RATP_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q643290",
+                        "label": "RATP"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "London United",
+                [
+                    "/wiki/London_United_Busways"
+                ],
+                [
+                    {
+                        "entity id": "Q6670984",
+                        "label": "London United Busways"
+                    }
+                ]
+            ],
+            [
+                "West & Central London",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "RATP Group",
+                []
+            ]
+        ],
+        [
+            [
+                "Metrobus",
+                [
+                    "/wiki/Metrobus_(South_East_England)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "South and South-east London , and parts of Surrey , Kent , West and East Sussex",
+                []
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Go-Ahead Group",
+                []
+            ]
+        ],
+        [
+            [
+                "Metroline",
+                [
+                    "/wiki/Metroline"
+                ],
+                [
+                    {
+                        "entity id": "Q6824844",
+                        "label": "Metroline"
+                    }
+                ]
+            ],
+            [
+                "North & West London",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "ComfortDelGro",
+                [
+                    "/wiki/ComfortDelGro"
+                ],
+                [
+                    {
+                        "entity id": "Q4140545",
+                        "label": "ComfortDelGro"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Quality Line",
+                [
+                    "/wiki/Quality_Line"
+                ],
+                [
+                    {
+                        "entity id": "Q7268746",
+                        "label": "Quality Line"
+                    }
+                ]
+            ],
+            [
+                "South London & Surrey",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "RATP Group",
+                []
+            ]
+        ],
+        [
+            [
+                "Stagecoach London",
+                [
+                    "/wiki/Stagecoach_London"
+                ],
+                [
+                    {
+                        "entity id": "Q7596856",
+                        "label": "Stagecoach London"
+                    }
+                ]
+            ],
+            [
+                "South and East London",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Stagecoach Group",
+                [
+                    "/wiki/Stagecoach_Group"
+                ],
+                [
+                    {
+                        "entity id": "Q660261",
+                        "label": "Stagecoach Group"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Sullivan Buses",
+                [
+                    "/wiki/Sullivan_Buses"
+                ],
+                [
+                    {
+                        "entity id": "Q7636393",
+                        "label": "Sullivan Buses"
+                    }
+                ]
+            ],
+            [
+                "Hertfordshire & North London",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "-",
+                []
+            ]
+        ],
+        [
+            [
+                "Tower Transit",
+                [
+                    "/wiki/Tower_Transit"
+                ],
+                [
+                    {
+                        "entity id": "Q17019292",
+                        "label": "Tower Transit"
+                    }
+                ]
+            ],
+            [
+                "East , West & Central London",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Transit Systems",
+                [
+                    "/wiki/Transit_Systems"
+                ],
+                [
+                    {
+                        "entity id": "Q7834353",
+                        "label": "Transit Systems"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Uno",
+                [
+                    "/wiki/Uno_(bus_company)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Hertfordshire & North London",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "University of Hertfordshire",
+                [
+                    "/wiki/University_of_Hertfordshire"
+                ],
+                [
+                    {
+                        "entity id": "Q1745633",
+                        "label": "University of Hertfordshire"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Buses",
+    "section_text": "Main article : Buses in London Metroline Alexander Dennis Enviro400 double-decker bus operating services on route 139 The red double-decker London bus has entered popular culture as an internationally-recognised icon [ 54 ] of England . While the design and operation of London buses has changed over the years , the vehicles still maintain their traditional red colour . [ 55 ] The London bus network is extensive , with over 6,800 scheduled services every weekday carrying about six million passengers on over 700 different routes making it one of the most extensive bus systems in the world and by far the largest in Europe . [ 56 ] Catering mainly for local journeys , it carries more passengers than the Underground . In addition to this extensive daytime system , a 100-route night bus service is also operated , providing a 24-hour service . The London Buses network and its branded services , the Red Arrow and East London Transit systems are managed by TfL through its arms-length subsidiary company , London Buses Ltd. As a result of the Privatisation of London bus services in the mid-1990s , bus operations in London are put out to competitive tendering and routes are operated by a number of private companies , while TfL sets the routes , frequencies , fares and even the type of vehicle used ( Greater London was exempted from the bus deregulation in Great Britain ) . Transport companies may bid to run London bus services for a fixed price for several years , with incentives and penalties in place to encourage good performance against certain criteria . [ 57 ] The tendering system is open to transport operators from a global market , with the result that some London bus services are now operated by international groups such as RATP Group , the state-owned operator of the Paris public transport system . [ 22 ] [ 23 ] [ 58 ]",
+    "uid": "Transport_in_London_2",
+    "intro": "London has an extensive and developed transport network which includes both private and public services. Journeys made by public transport systems account for 37% of London's journeys while private services accounted for 36% of journeys, walking 24% and cycling 2%. London's public transport network serves as the central hub for the United Kingdom in rail, air and road transport. Public transport services are dominated by the executive agency for transport in London: Transport for London (TfL). TfL controls the majority of public transport, including the Underground, Buses, Tramlink, the Docklands Light Railway, London River Services and the London Overground. Other rail services are either franchised to train operating companies by the Department for Transport (DfT) or, like Eurostar and Heathrow Express, operated on an open-access basis. TfL also controls most major roads in London, but not minor roads. In addition, there are several independent airports serving London, including Heathrow, the busiest airport in Europe."
+}

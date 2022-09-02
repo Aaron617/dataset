@@ -1,0 +1,305 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Timeline_of_free_and_open-source_software",
+    "title": "Timeline of free and open-source software",
+    "header": [
+        [
+            "Date",
+            []
+        ],
+        [
+            "Project",
+            []
+        ],
+        [
+            "Event",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "March 2010",
+                []
+            ],
+            [
+                "Linaro",
+                [
+                    "/wiki/Linaro"
+                ],
+                [
+                    {
+                        "entity id": "Q1051139",
+                        "label": "Linaro"
+                    }
+                ]
+            ],
+            [
+                "Founded",
+                []
+            ]
+        ],
+        [
+            [
+                "2010",
+                []
+            ],
+            [
+                "LibreOffice",
+                [
+                    "/wiki/LibreOffice"
+                ],
+                [
+                    {
+                        "entity id": "Q10135",
+                        "label": "LibreOffice"
+                    }
+                ]
+            ],
+            [
+                "LibreOffice is released ; a free open office suite including applications such as word processing , spreadsheets , drawing and database",
+                [
+                    "/wiki/LibreOffice"
+                ],
+                [
+                    {
+                        "entity id": "Q10135",
+                        "label": "LibreOffice"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2010",
+                []
+            ],
+            [
+                "Android",
+                [
+                    "/wiki/Android_(operating_system)"
+                ],
+                [
+                    {
+                        "entity id": "Q94",
+                        "label": "Android"
+                    }
+                ]
+            ],
+            [
+                "Becomes most popular smartphone operating system ( OS ) , later became most popular general purpose OS overall",
+                [
+                    "/wiki/Smartphone"
+                ],
+                [
+                    {
+                        "entity id": "Q22645",
+                        "label": "smartphone"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2011",
+                []
+            ],
+            [
+                "Git",
+                [
+                    "/wiki/Git"
+                ],
+                [
+                    {
+                        "entity id": "Q186055",
+                        "label": "Git"
+                    }
+                ]
+            ],
+            [
+                "Microsoft survey of 1,000 software developers reveals that Git is the most popular revision control system among developers",
+                []
+            ]
+        ],
+        [
+            [
+                "2011",
+                []
+            ],
+            [
+                "Bootstrap",
+                [
+                    "/wiki/Bootstrap_(front-end_framework)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Free CSS and JavaScript development starting kit , released by Twitter",
+                [
+                    "/wiki/Cascading_Style_Sheets",
+                    "/wiki/JavaScript",
+                    "/wiki/Twitter"
+                ],
+                [
+                    {
+                        "entity id": "Q46441",
+                        "label": "Cascading Style Sheets"
+                    },
+                    {
+                        "entity id": "Q2005",
+                        "label": "JavaScript"
+                    },
+                    {
+                        "entity id": "Q918",
+                        "label": "Twitter"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2012",
+                []
+            ],
+            [
+                "Google Chrome , based on Chromium",
+                [
+                    "/wiki/Google_Chrome"
+                ],
+                [
+                    {
+                        "entity id": "Q777",
+                        "label": "Google Chrome"
+                    }
+                ]
+            ],
+            [
+                "Overtakes Internet Explorer to become most widely used web browser , according to StatCounter",
+                [
+                    "/wiki/Internet_Explorer",
+                    "/wiki/StatCounter"
+                ],
+                [
+                    {
+                        "entity id": "Q1575",
+                        "label": "Internet Explorer"
+                    },
+                    {
+                        "entity id": "Q3497284",
+                        "label": "StatCounter"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2013",
+                []
+            ],
+            [
+                "Firefox OS",
+                [
+                    "/wiki/Firefox_OS"
+                ],
+                [
+                    {
+                        "entity id": "Q550303",
+                        "label": "Firefox OS"
+                    }
+                ]
+            ],
+            [
+                "Mobile phone operating system , released by Mozilla Foundation",
+                [
+                    "/wiki/Mozilla_Foundation"
+                ],
+                [
+                    {
+                        "entity id": "Q55672",
+                        "label": "Mozilla Foundation"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2013 ( Q2 )",
+                []
+            ],
+            [
+                "Android",
+                [
+                    "/wiki/Android_(operating_system)"
+                ],
+                [
+                    {
+                        "entity id": "Q94",
+                        "label": "Android"
+                    }
+                ]
+            ],
+            [
+                "Overtakes iOS to become most popular tablet operating system",
+                [
+                    "/wiki/IOS",
+                    "/wiki/Tablet_computer"
+                ],
+                [
+                    {
+                        "entity id": "Q48493",
+                        "label": "iOS"
+                    },
+                    {
+                        "entity id": "Q155972",
+                        "label": "tablet computer"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2013 , September",
+                []
+            ],
+            [
+                "SteamOS",
+                [
+                    "/wiki/SteamOS"
+                ],
+                [
+                    {
+                        "entity id": "Q14944085",
+                        "label": "SteamOS"
+                    }
+                ]
+            ],
+            [
+                "Valve 's new Linux-based operating system for its Steambox consoles , intended to promote Linux gaming and spread Linux adoption in the high-end video game sector",
+                [
+                    "/wiki/Valve_Corporation",
+                    "/wiki/Linux_gaming",
+                    "/wiki/Linux_adoption"
+                ],
+                [
+                    {
+                        "entity id": "Q193559",
+                        "label": "Valve Corporation"
+                    },
+                    {
+                        "entity id": "Q1125755",
+                        "label": "Linux gaming"
+                    },
+                    {
+                        "entity id": "Q491761",
+                        "label": "Linux adoption"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "2010s",
+    "section_text": "",
+    "uid": "Timeline_of_open-source_software_4",
+    "intro": "This article presents a timeline of events related to popular free/open-source software. For a narrative explaining the overall development, see the related history of free and open-source software. The Achievements column documents achievements a project attained at some point in time (not necessarily when it was first released)."
+}

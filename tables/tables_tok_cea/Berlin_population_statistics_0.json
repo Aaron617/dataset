@@ -1,0 +1,715 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Berlin_population_statistics",
+    "title": "Berlin population statistics",
+    "header": [
+        [
+            "Borough",
+            [
+                "/wiki/Borough"
+            ],
+            [
+                {
+                    "entity id": "Q5273898",
+                    "label": "Southwark"
+                }
+            ]
+        ],
+        [
+            "Population 30 September 2010",
+            []
+        ],
+        [
+            "Area in km\u00b2",
+            []
+        ],
+        [
+            "Largest Non-German ethnic groups",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Mitte",
+                [
+                    "/wiki/Mitte"
+                ],
+                [
+                    {
+                        "entity id": "Q163966",
+                        "label": "Mitte"
+                    }
+                ]
+            ],
+            [
+                "332,100",
+                []
+            ],
+            [
+                "39.47",
+                []
+            ],
+            [
+                "Turks , Arabs , Kurds , many Asians , Africans and Western Europeans",
+                [
+                    "/wiki/Turkish_people",
+                    "/wiki/Arabs",
+                    "/wiki/Kurds"
+                ],
+                [
+                    {
+                        "entity id": "Q84072",
+                        "label": "Turks"
+                    },
+                    {
+                        "entity id": "Q35323",
+                        "label": "Arabs"
+                    },
+                    {
+                        "entity id": "Q12223",
+                        "label": "Kurds"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Friedrichshain-Kreuzberg",
+                [
+                    "/wiki/Friedrichshain-Kreuzberg"
+                ],
+                [
+                    {
+                        "entity id": "Q158893",
+                        "label": "Friedrichshain-Kreuzberg"
+                    }
+                ]
+            ],
+            [
+                "268,831",
+                []
+            ],
+            [
+                "20.16",
+                []
+            ],
+            [
+                "Turks , Arabs , African , Kurds , Chinese",
+                [
+                    "/wiki/Turkish_people",
+                    "/wiki/Arabs",
+                    "/wiki/Ethnic_groups_of_Africa",
+                    "/wiki/Kurds",
+                    "/wiki/Chinese_people"
+                ],
+                [
+                    {
+                        "entity id": "Q84072",
+                        "label": "Turks"
+                    },
+                    {
+                        "entity id": "Q35323",
+                        "label": "Arabs"
+                    },
+                    {},
+                    {
+                        "entity id": "Q12223",
+                        "label": "Kurds"
+                    },
+                    {
+                        "entity id": "Q6501380",
+                        "label": "Chinese people"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Pankow",
+                [
+                    "/wiki/Pankow"
+                ],
+                [
+                    {
+                        "entity id": "Q163012",
+                        "label": "Pankow"
+                    }
+                ]
+            ],
+            [
+                "368,956",
+                []
+            ],
+            [
+                "103.01",
+                []
+            ],
+            [
+                "Poles , Italians , French , Americans , Vietnamese , British",
+                [
+                    "/wiki/Poles",
+                    "/wiki/Italians",
+                    "/wiki/French_people",
+                    "/wiki/United_States",
+                    "/wiki/Vietnamese_people",
+                    "/wiki/British_people"
+                ],
+                [
+                    {
+                        "entity id": "Q1026",
+                        "label": "Poles"
+                    },
+                    {
+                        "entity id": "Q50001",
+                        "label": "Italians"
+                    },
+                    {
+                        "entity id": "Q121842",
+                        "label": "French"
+                    },
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    },
+                    {
+                        "entity id": "Q216151",
+                        "label": "Vietnamese people"
+                    },
+                    {
+                        "entity id": "Q842438",
+                        "label": "British people"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Charlottenburg-Wilmersdorf",
+                [
+                    "/wiki/Charlottenburg-Wilmersdorf"
+                ],
+                [
+                    {
+                        "entity id": "Q158095",
+                        "label": "Charlottenburg-Wilmersdorf"
+                    }
+                ]
+            ],
+            [
+                "320,014",
+                []
+            ],
+            [
+                "64.72",
+                []
+            ],
+            [
+                "Turks , Africans , Russians , Arabs , others",
+                [
+                    "/wiki/Turkish_people",
+                    "/wiki/Africans",
+                    "/wiki/Russians",
+                    "/wiki/Arabs"
+                ],
+                [
+                    {
+                        "entity id": "Q84072",
+                        "label": "Turks"
+                    },
+                    {
+                        "entity id": "Q1075929",
+                        "label": "African people"
+                    },
+                    {
+                        "entity id": "Q49542",
+                        "label": "Russians"
+                    },
+                    {
+                        "entity id": "Q35323",
+                        "label": "Arabs"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Spandau",
+                [
+                    "/wiki/Spandau"
+                ],
+                [
+                    {
+                        "entity id": "Q158083",
+                        "label": "Spandau"
+                    }
+                ]
+            ],
+            [
+                "225,420",
+                []
+            ],
+            [
+                "91.91",
+                []
+            ],
+            [
+                "Turks , Africans , Russians , Arabs , others",
+                [
+                    "/wiki/Turkish_people",
+                    "/wiki/Africans",
+                    "/wiki/Russians",
+                    "/wiki/Arabs"
+                ],
+                [
+                    {
+                        "entity id": "Q84072",
+                        "label": "Turks"
+                    },
+                    {
+                        "entity id": "Q1075929",
+                        "label": "African people"
+                    },
+                    {
+                        "entity id": "Q49542",
+                        "label": "Russians"
+                    },
+                    {
+                        "entity id": "Q35323",
+                        "label": "Arabs"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Steglitz-Zehlendorf",
+                [
+                    "/wiki/Steglitz-Zehlendorf"
+                ],
+                [
+                    {
+                        "entity id": "Q158064",
+                        "label": "Steglitz-Zehlendorf"
+                    }
+                ]
+            ],
+            [
+                "293,989",
+                []
+            ],
+            [
+                "102.50",
+                []
+            ],
+            [
+                "Poles , Turks , Croats , Serbs , Koreans",
+                [
+                    "/wiki/Poles",
+                    "/wiki/Turkish_people",
+                    "/wiki/Croats",
+                    "/wiki/Serbs",
+                    "/wiki/Koreans"
+                ],
+                [
+                    {
+                        "entity id": "Q1026",
+                        "label": "Poles"
+                    },
+                    {
+                        "entity id": "Q84072",
+                        "label": "Turks"
+                    },
+                    {
+                        "entity id": "Q167420",
+                        "label": "Croats"
+                    },
+                    {
+                        "entity id": "Q127885",
+                        "label": "Serbs"
+                    },
+                    {
+                        "entity id": "Q484464",
+                        "label": "Koreans"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Tempelhof-Sch\u00f6neberg",
+                [
+                    "/wiki/Tempelhof-Sch\u00f6neberg"
+                ],
+                [
+                    {
+                        "entity id": "Q158106",
+                        "label": "Tempelhof-Sch\u00f6neberg"
+                    }
+                ]
+            ],
+            [
+                "335,060",
+                []
+            ],
+            [
+                "53.09",
+                []
+            ],
+            [
+                "Turks , Croats , Serbs , Koreans , Africans",
+                [
+                    "/wiki/Turkish_people",
+                    "/wiki/Croats",
+                    "/wiki/Serbs",
+                    "/wiki/Koreans",
+                    "/wiki/Africans"
+                ],
+                [
+                    {
+                        "entity id": "Q84072",
+                        "label": "Turks"
+                    },
+                    {
+                        "entity id": "Q167420",
+                        "label": "Croats"
+                    },
+                    {
+                        "entity id": "Q127885",
+                        "label": "Serbs"
+                    },
+                    {
+                        "entity id": "Q484464",
+                        "label": "Koreans"
+                    },
+                    {
+                        "entity id": "Q1075929",
+                        "label": "African people"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Neuk\u00f6lln",
+                [
+                    "/wiki/Neuk\u00f6lln"
+                ],
+                [
+                    {
+                        "entity id": "Q4071168",
+                        "label": "Neuk\u00f6lln"
+                    }
+                ]
+            ],
+            [
+                "310,283",
+                []
+            ],
+            [
+                "44.93",
+                []
+            ],
+            [
+                "Arabs , Turks , Kurds , Russians , Africans , Poles",
+                [
+                    "/wiki/Arabs",
+                    "/wiki/Turkish_people",
+                    "/wiki/Kurds",
+                    "/wiki/Russians",
+                    "/wiki/Africans",
+                    "/wiki/Poles"
+                ],
+                [
+                    {
+                        "entity id": "Q35323",
+                        "label": "Arabs"
+                    },
+                    {
+                        "entity id": "Q84072",
+                        "label": "Turks"
+                    },
+                    {
+                        "entity id": "Q12223",
+                        "label": "Kurds"
+                    },
+                    {
+                        "entity id": "Q49542",
+                        "label": "Russians"
+                    },
+                    {
+                        "entity id": "Q1075929",
+                        "label": "African people"
+                    },
+                    {
+                        "entity id": "Q1026",
+                        "label": "Poles"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Treptow-K\u00f6penick",
+                [
+                    "/wiki/Treptow-K\u00f6penick"
+                ],
+                [
+                    {
+                        "entity id": "Q158089",
+                        "label": "Treptow-K\u00f6penick"
+                    }
+                ]
+            ],
+            [
+                "241,335",
+                []
+            ],
+            [
+                "168.42",
+                []
+            ],
+            [
+                "Russians , Poles , Ukrainians , Vietnamese",
+                [
+                    "/wiki/Russians",
+                    "/wiki/Poles",
+                    "/wiki/Ukrainians",
+                    "/wiki/Vietnamese_people"
+                ],
+                [
+                    {
+                        "entity id": "Q49542",
+                        "label": "Russians"
+                    },
+                    {
+                        "entity id": "Q1026",
+                        "label": "Poles"
+                    },
+                    {
+                        "entity id": "Q44806",
+                        "label": "Ukrainians"
+                    },
+                    {
+                        "entity id": "Q216151",
+                        "label": "Vietnamese people"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Marzahn-Hellersdorf",
+                [
+                    "/wiki/Marzahn-Hellersdorf"
+                ],
+                [
+                    {
+                        "entity id": "Q119284",
+                        "label": "Marzahn-Hellersdorf"
+                    }
+                ]
+            ],
+            [
+                "248,264",
+                []
+            ],
+            [
+                "61.74",
+                []
+            ],
+            [
+                "Russians , Vietnamese , several other Eastern Europeans",
+                [
+                    "/wiki/Russians",
+                    "/wiki/Vietnamese_people"
+                ],
+                [
+                    {
+                        "entity id": "Q49542",
+                        "label": "Russians"
+                    },
+                    {
+                        "entity id": "Q216151",
+                        "label": "Vietnamese people"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Lichtenberg",
+                [
+                    "/wiki/Lichtenberg"
+                ],
+                [
+                    {
+                        "entity id": "Q329609",
+                        "label": "Lichtenberg"
+                    }
+                ]
+            ],
+            [
+                "259,881",
+                []
+            ],
+            [
+                "52.29",
+                []
+            ],
+            [
+                "Vietnamese , Russians , Ukrainians , Poles , Chinese",
+                [
+                    "/wiki/Vietnamese_people",
+                    "/wiki/Russians",
+                    "/wiki/Ukrainians",
+                    "/wiki/Poles",
+                    "/wiki/Chinese_people"
+                ],
+                [
+                    {
+                        "entity id": "Q216151",
+                        "label": "Vietnamese people"
+                    },
+                    {
+                        "entity id": "Q49542",
+                        "label": "Russians"
+                    },
+                    {
+                        "entity id": "Q44806",
+                        "label": "Ukrainians"
+                    },
+                    {
+                        "entity id": "Q1026",
+                        "label": "Poles"
+                    },
+                    {
+                        "entity id": "Q6501380",
+                        "label": "Chinese people"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Reinickendorf",
+                [
+                    "/wiki/Reinickendorf"
+                ],
+                [
+                    {
+                        "entity id": "Q158876",
+                        "label": "Reinickendorf"
+                    }
+                ]
+            ],
+            [
+                "240,454",
+                []
+            ],
+            [
+                "89.46",
+                []
+            ],
+            [
+                "Turks , Poles , Serbs , Croats , Arabs , Italians",
+                [
+                    "/wiki/Turkish_people",
+                    "/wiki/Poles",
+                    "/wiki/Serbs",
+                    "/wiki/Croats",
+                    "/wiki/Arabs",
+                    "/wiki/Italians"
+                ],
+                [
+                    {
+                        "entity id": "Q84072",
+                        "label": "Turks"
+                    },
+                    {
+                        "entity id": "Q1026",
+                        "label": "Poles"
+                    },
+                    {
+                        "entity id": "Q127885",
+                        "label": "Serbs"
+                    },
+                    {
+                        "entity id": "Q167420",
+                        "label": "Croats"
+                    },
+                    {
+                        "entity id": "Q35323",
+                        "label": "Arabs"
+                    },
+                    {
+                        "entity id": "Q50001",
+                        "label": "Italians"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Total Berlin",
+                [
+                    "/wiki/Berlin"
+                ],
+                [
+                    {
+                        "entity id": "Q64",
+                        "label": "Berlin"
+                    }
+                ]
+            ],
+            [
+                "3,450,889",
+                []
+            ],
+            [
+                "891.82",
+                []
+            ],
+            [
+                "Turks , Arabs , Russians , Vietnamese , Poles , Africans",
+                [
+                    "/wiki/Turkish_people",
+                    "/wiki/Arabs",
+                    "/wiki/Russians",
+                    "/wiki/Vietnamese_people",
+                    "/wiki/Poles",
+                    "/wiki/Africans"
+                ],
+                [
+                    {
+                        "entity id": "Q84072",
+                        "label": "Turks"
+                    },
+                    {
+                        "entity id": "Q35323",
+                        "label": "Arabs"
+                    },
+                    {
+                        "entity id": "Q49542",
+                        "label": "Russians"
+                    },
+                    {
+                        "entity id": "Q216151",
+                        "label": "Vietnamese people"
+                    },
+                    {
+                        "entity id": "Q1026",
+                        "label": "Poles"
+                    },
+                    {
+                        "entity id": "Q1075929",
+                        "label": "African people"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Population by borough",
+    "section_text": "in Kreuzberg Berliners at the Tiergarten",
+    "uid": "Berlin_population_statistics_0",
+    "intro": "Berlin is the most populous city in the European Union, as calculated by city-proper population (not metropolitan area)."
+}

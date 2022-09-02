@@ -1,0 +1,609 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Antidepressant",
+    "title": "Antidepressant",
+    "header": [
+        [
+            "Drug name",
+            []
+        ],
+        [
+            "Drug class",
+            []
+        ],
+        [
+            "Total prescriptions",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Sertraline",
+                [
+                    "/wiki/Sertraline"
+                ],
+                [
+                    {
+                        "entity id": "Q407617",
+                        "label": "sertraline"
+                    }
+                ]
+            ],
+            [
+                "SSRI",
+                [
+                    "/wiki/SSRI"
+                ],
+                [
+                    {
+                        "entity id": "Q334477",
+                        "label": "selective serotonin reuptake inhibitor"
+                    }
+                ]
+            ],
+            [
+                "33,409,838",
+                []
+            ]
+        ],
+        [
+            [
+                "Citalopram",
+                [
+                    "/wiki/Citalopram"
+                ],
+                [
+                    {
+                        "entity id": "Q409672",
+                        "label": "(RS)-citalopram"
+                    }
+                ]
+            ],
+            [
+                "SSRI",
+                [
+                    "/wiki/SSRI"
+                ],
+                [
+                    {
+                        "entity id": "Q334477",
+                        "label": "selective serotonin reuptake inhibitor"
+                    }
+                ]
+            ],
+            [
+                "27,993,635",
+                []
+            ]
+        ],
+        [
+            [
+                "Fluoxetine",
+                [
+                    "/wiki/Fluoxetine"
+                ],
+                [
+                    {
+                        "entity id": "Q422244",
+                        "label": "fluoxetine"
+                    }
+                ]
+            ],
+            [
+                "SSRI",
+                [
+                    "/wiki/SSRI"
+                ],
+                [
+                    {
+                        "entity id": "Q334477",
+                        "label": "selective serotonin reuptake inhibitor"
+                    }
+                ]
+            ],
+            [
+                "24,473,994",
+                []
+            ]
+        ],
+        [
+            [
+                "Escitalopram",
+                [
+                    "/wiki/Escitalopram"
+                ],
+                [
+                    {
+                        "entity id": "Q423757",
+                        "label": "escitalopram"
+                    }
+                ]
+            ],
+            [
+                "SSRI",
+                [
+                    "/wiki/SSRI"
+                ],
+                [
+                    {
+                        "entity id": "Q334477",
+                        "label": "selective serotonin reuptake inhibitor"
+                    }
+                ]
+            ],
+            [
+                "23,000,456",
+                []
+            ]
+        ],
+        [
+            [
+                "Trazodone",
+                [
+                    "/wiki/Trazodone"
+                ],
+                [
+                    {
+                        "entity id": "Q411457",
+                        "label": "trazodone"
+                    }
+                ]
+            ],
+            [
+                "SARI",
+                [
+                    "/wiki/Serotonin_antagonist_and_reuptake_inhibitor"
+                ],
+                [
+                    {
+                        "entity id": "Q7455057",
+                        "label": "Serotonin antagonist and reuptake inhibitor"
+                    }
+                ]
+            ],
+            [
+                "18,786,495",
+                []
+            ]
+        ],
+        [
+            [
+                "Venlafaxine ( all formulations )",
+                [
+                    "/wiki/Venlafaxine"
+                ],
+                [
+                    {
+                        "entity id": "Q898407",
+                        "label": "venlafaxine"
+                    }
+                ]
+            ],
+            [
+                "SNRI",
+                [
+                    "/wiki/Serotonin\u2013norepinephrine_reuptake_inhibitor"
+                ],
+                [
+                    {
+                        "entity id": "Q2273909",
+                        "label": "serotonin\u2013norepinephrine reuptake inhibitor"
+                    }
+                ]
+            ],
+            [
+                "16,110,606",
+                []
+            ]
+        ],
+        [
+            [
+                "Bupropion ( all formulations )",
+                [
+                    "/wiki/Bupropion"
+                ],
+                [
+                    {
+                        "entity id": "Q834280",
+                        "label": "bupropion"
+                    }
+                ]
+            ],
+            [
+                "NDRI",
+                [
+                    "/wiki/Norepinephrine\u2013dopamine_reuptake_inhibitor"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "15,792,653",
+                []
+            ]
+        ],
+        [
+            [
+                "Duloxetine",
+                [
+                    "/wiki/Duloxetine"
+                ],
+                [
+                    {
+                        "entity id": "Q411932",
+                        "label": "(S)-duloxetine"
+                    }
+                ]
+            ],
+            [
+                "SNRI",
+                [
+                    "/wiki/Serotonin\u2013norepinephrine_reuptake_inhibitor"
+                ],
+                [
+                    {
+                        "entity id": "Q2273909",
+                        "label": "serotonin\u2013norepinephrine reuptake inhibitor"
+                    }
+                ]
+            ],
+            [
+                "14,591,949",
+                []
+            ]
+        ],
+        [
+            [
+                "Paroxetine",
+                [
+                    "/wiki/Paroxetine"
+                ],
+                [
+                    {
+                        "entity id": "Q408471",
+                        "label": "paroxetine"
+                    }
+                ]
+            ],
+            [
+                "SSRI",
+                [
+                    "/wiki/SSRI"
+                ],
+                [
+                    {
+                        "entity id": "Q334477",
+                        "label": "selective serotonin reuptake inhibitor"
+                    }
+                ]
+            ],
+            [
+                "12,979,366",
+                []
+            ]
+        ],
+        [
+            [
+                "Amitriptyline",
+                [
+                    "/wiki/Amitriptyline"
+                ],
+                [
+                    {
+                        "entity id": "Q58397",
+                        "label": "amitriptyline"
+                    }
+                ]
+            ],
+            [
+                "TCA",
+                [
+                    "/wiki/Tricyclic_antidepressant"
+                ],
+                [
+                    {
+                        "entity id": "Q908843",
+                        "label": "tricyclic antidepressant"
+                    }
+                ]
+            ],
+            [
+                "12,611,254",
+                []
+            ]
+        ],
+        [
+            [
+                "Venlafaxine XR",
+                [
+                    "/wiki/Venlafaxine"
+                ],
+                [
+                    {
+                        "entity id": "Q898407",
+                        "label": "venlafaxine"
+                    }
+                ]
+            ],
+            [
+                "SNRI",
+                [
+                    "/wiki/Serotonin\u2013norepinephrine_reuptake_inhibitor"
+                ],
+                [
+                    {
+                        "entity id": "Q2273909",
+                        "label": "serotonin\u2013norepinephrine reuptake inhibitor"
+                    }
+                ]
+            ],
+            [
+                "7,603,949",
+                []
+            ]
+        ],
+        [
+            [
+                "Bupropion XL",
+                [
+                    "/wiki/Bupropion"
+                ],
+                [
+                    {
+                        "entity id": "Q834280",
+                        "label": "bupropion"
+                    }
+                ]
+            ],
+            [
+                "NDRI",
+                [
+                    "/wiki/Norepinephrine\u2013dopamine_reuptake_inhibitor"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "7,317,814",
+                []
+            ]
+        ],
+        [
+            [
+                "Mirtazapine",
+                [
+                    "/wiki/Mirtazapine"
+                ],
+                [
+                    {
+                        "entity id": "Q421930",
+                        "label": "mirtazapine"
+                    }
+                ]
+            ],
+            [
+                "TeCA",
+                [
+                    "/wiki/Tetracyclic_antidepressant"
+                ],
+                [
+                    {
+                        "entity id": "Q176564",
+                        "label": "tetracyclic antidepressant"
+                    }
+                ]
+            ],
+            [
+                "6,308,288",
+                []
+            ]
+        ],
+        [
+            [
+                "Venlafaxine ER",
+                [
+                    "/wiki/Venlafaxine"
+                ],
+                [
+                    {
+                        "entity id": "Q898407",
+                        "label": "venlafaxine"
+                    }
+                ]
+            ],
+            [
+                "SNRI",
+                [
+                    "/wiki/Serotonin\u2013norepinephrine_reuptake_inhibitor"
+                ],
+                [
+                    {
+                        "entity id": "Q2273909",
+                        "label": "serotonin\u2013norepinephrine reuptake inhibitor"
+                    }
+                ]
+            ],
+            [
+                "5,526,132",
+                []
+            ]
+        ],
+        [
+            [
+                "Bupropion SR",
+                [
+                    "/wiki/Bupropion"
+                ],
+                [
+                    {
+                        "entity id": "Q834280",
+                        "label": "bupropion"
+                    }
+                ]
+            ],
+            [
+                "NDRI",
+                [
+                    "/wiki/Norepinephrine\u2013dopamine_reuptake_inhibitor"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "4,588,996",
+                []
+            ]
+        ],
+        [
+            [
+                "Desvenlafaxine",
+                [
+                    "/wiki/Desvenlafaxine"
+                ],
+                [
+                    {
+                        "entity id": "Q2419445",
+                        "label": "desvenlafaxine"
+                    }
+                ]
+            ],
+            [
+                "SNRI",
+                [
+                    "/wiki/Serotonin\u2013norepinephrine_reuptake_inhibitor"
+                ],
+                [
+                    {
+                        "entity id": "Q2273909",
+                        "label": "serotonin\u2013norepinephrine reuptake inhibitor"
+                    }
+                ]
+            ],
+            [
+                "3,412,354",
+                []
+            ]
+        ],
+        [
+            [
+                "Nortriptyline",
+                [
+                    "/wiki/Nortriptyline"
+                ],
+                [
+                    {
+                        "entity id": "Q61387",
+                        "label": "nortriptyline"
+                    }
+                ]
+            ],
+            [
+                "TCA",
+                [
+                    "/wiki/Tricyclic_antidepressant"
+                ],
+                [
+                    {
+                        "entity id": "Q908843",
+                        "label": "tricyclic antidepressant"
+                    }
+                ]
+            ],
+            [
+                "3,210,476",
+                []
+            ]
+        ],
+        [
+            [
+                "Bupropion ER",
+                [
+                    "/wiki/Bupropion"
+                ],
+                [
+                    {
+                        "entity id": "Q834280",
+                        "label": "bupropion"
+                    }
+                ]
+            ],
+            [
+                "NDRI",
+                [
+                    "/wiki/Norepinephrine\u2013dopamine_reuptake_inhibitor"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "3,132,327",
+                []
+            ]
+        ],
+        [
+            [
+                "Venlafaxine",
+                [
+                    "/wiki/Venlafaxine"
+                ],
+                [
+                    {
+                        "entity id": "Q898407",
+                        "label": "venlafaxine"
+                    }
+                ]
+            ],
+            [
+                "SNRI",
+                [
+                    "/wiki/Serotonin\u2013norepinephrine_reuptake_inhibitor"
+                ],
+                [
+                    {
+                        "entity id": "Q2273909",
+                        "label": "serotonin\u2013norepinephrine reuptake inhibitor"
+                    }
+                ]
+            ],
+            [
+                "2,980,525",
+                []
+            ]
+        ],
+        [
+            [
+                "Bupropion",
+                [
+                    "/wiki/Bupropion"
+                ],
+                [
+                    {
+                        "entity id": "Q834280",
+                        "label": "bupropion"
+                    }
+                ]
+            ],
+            [
+                "NDRI",
+                [
+                    "/wiki/Norepinephrine\u2013dopamine_reuptake_inhibitor"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "753,516",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Society and culture -- Prescription trends",
+    "section_text": "In the United States , antidepressants were the most commonly prescribed medication in 2013 . [ 169 ] Of the estimated 16 million `` long term '' ( over 24 months ) users , roughly 70 percent are female . [ 169 ] As of 2017 , about 16.5% of white people in the United States took antidepressants compared with 5.6% of black people in the United States . [ 170 ] Structural formula of the SSRI sertraline United States : The most commonly prescribed antidepressants in the US retail market in 2010 were : [ 173 ]",
+    "uid": "Antidepressant_0",
+    "intro": "Antidepressants are medications used to treat major depressive disorder, some anxiety disorders, some chronic pain conditions, and to help manage some addictions. Common side-effects of antidepressants include dry mouth, weight gain, dizziness, headaches, and sexual dysfunction. Most types of antidepressants are typically safe to take, but may cause increased thoughts of suicide when taken by children, adolescents, and young adults. A discontinuation syndrome can occur after stopping any antidepressant which resembles recurrent depression. Some reviews of antidepressants for depression in adults find benefit while others do not. Evidence of benefit in children and adolescents is unclear. There is debate in the medical community about how much of the observed effects of antidepressants can be attributed to the placebo effect."
+}

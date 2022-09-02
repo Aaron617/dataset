@@ -1,0 +1,961 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Inertial_Upper_Stage",
+    "title": "Inertial Upper Stage",
+    "header": [
+        [
+            "S/N",
+            []
+        ],
+        [
+            "Launch Date",
+            []
+        ],
+        [
+            "Launch Vehicle",
+            []
+        ],
+        [
+            "Payload",
+            []
+        ],
+        [
+            "Remarks",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "2",
+                []
+            ],
+            [
+                "1982-10-30",
+                []
+            ],
+            [
+                "Titan 34D",
+                [
+                    "/wiki/Titan_34D"
+                ],
+                [
+                    {
+                        "entity id": "Q1187342",
+                        "label": "Titan 34D"
+                    }
+                ]
+            ],
+            [
+                "DSCS II F-16 / III A-1",
+                []
+            ],
+            [
+                "Mission successful despite telemetry loss for most of the flight",
+                []
+            ]
+        ],
+        [
+            [
+                "1",
+                []
+            ],
+            [
+                "1983-04-04",
+                []
+            ],
+            [
+                "Space Shuttle Challenger ( STS-6 )",
+                [
+                    "/wiki/Space_Shuttle",
+                    "/wiki/Space_Shuttle_Challenger",
+                    "/wiki/STS-6"
+                ],
+                [
+                    {
+                        "entity id": "Q48806",
+                        "label": "Space Shuttle"
+                    },
+                    {
+                        "entity id": "Q54382",
+                        "label": "Challenger"
+                    },
+                    {
+                        "entity id": "Q731368",
+                        "label": "STS-6"
+                    }
+                ]
+            ],
+            [
+                "TDRS-A ( TDRS-1 )",
+                [
+                    "/wiki/TDRS-1"
+                ],
+                [
+                    {
+                        "entity id": "Q7669864",
+                        "label": "TDRS-1"
+                    }
+                ]
+            ],
+            [
+                "The second stage tumbled due to a thruster motor problem , resulting in an incorrect orbit . The Boeing staff that was monitoring the flight was able to separate the tumbling IUS from the satellite so it could be maneuvered into its final orbit",
+                []
+            ]
+        ],
+        [
+            [
+                "11",
+                []
+            ],
+            [
+                "1985-01-24",
+                []
+            ],
+            [
+                "Space Shuttle Discovery ( STS-51-C )",
+                [
+                    "/wiki/Space_Shuttle",
+                    "/wiki/Space_Shuttle_Discovery",
+                    "/wiki/STS-51-C"
+                ],
+                [
+                    {
+                        "entity id": "Q48806",
+                        "label": "Space Shuttle"
+                    },
+                    {
+                        "entity id": "Q54384",
+                        "label": "Discovery"
+                    },
+                    {
+                        "entity id": "Q606269",
+                        "label": "STS-51-C"
+                    }
+                ]
+            ],
+            [
+                "USA-8 ( Magnum )",
+                [
+                    "/wiki/USA-8",
+                    "/wiki/Magnum_(satellite)"
+                ],
+                [
+                    {
+                        "entity id": "Q7865709",
+                        "label": "USA-84"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Classified DoD payload",
+                []
+            ]
+        ],
+        [
+            [
+                "12",
+                []
+            ],
+            [
+                "1985-10-03",
+                []
+            ],
+            [
+                "Space Shuttle Atlantis ( STS-51-J )",
+                [
+                    "/wiki/Space_Shuttle",
+                    "/wiki/Space_Shuttle_Atlantis",
+                    "/wiki/STS-51-J"
+                ],
+                [
+                    {
+                        "entity id": "Q48806",
+                        "label": "Space Shuttle"
+                    },
+                    {
+                        "entity id": "Q54381",
+                        "label": "Atlantis"
+                    },
+                    {
+                        "entity id": "Q524091",
+                        "label": "STS-51-J"
+                    }
+                ]
+            ],
+            [
+                "USA-11 / 12 ( DSCS )",
+                [
+                    "/wiki/USA-11",
+                    "/wiki/USA-12",
+                    "/wiki/DSCS"
+                ],
+                [
+                    {
+                        "entity id": "Q7865648",
+                        "label": "USA-117"
+                    },
+                    {
+                        "entity id": "Q7865650",
+                        "label": "USA-128"
+                    },
+                    {
+                        "entity id": "Q23933954",
+                        "label": "USA-170"
+                    }
+                ]
+            ],
+            [
+                "Classified DoD payload",
+                []
+            ]
+        ],
+        [
+            [
+                "3",
+                []
+            ],
+            [
+                "1986-01-28",
+                []
+            ],
+            [
+                "Space Shuttle Challenger ( STS-51-L )",
+                [
+                    "/wiki/Space_Shuttle",
+                    "/wiki/Space_Shuttle_Challenger",
+                    "/wiki/STS-51-L"
+                ],
+                [
+                    {
+                        "entity id": "Q48806",
+                        "label": "Space Shuttle"
+                    },
+                    {
+                        "entity id": "Q54382",
+                        "label": "Challenger"
+                    },
+                    {
+                        "entity id": "Q19050",
+                        "label": "STS-51-L"
+                    }
+                ]
+            ],
+            [
+                "TDRS-B",
+                [
+                    "/wiki/TDRS-B"
+                ],
+                [
+                    {
+                        "entity id": "Q7669874",
+                        "label": "TDRS-B"
+                    }
+                ]
+            ],
+            [
+                "Destroyed during launch",
+                [
+                    "/wiki/Space_Shuttle_Challenger_disaster"
+                ],
+                [
+                    {
+                        "entity id": "Q858145",
+                        "label": "Space Shuttle Challenger disaster"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "7",
+                []
+            ],
+            [
+                "1988-09-29",
+                []
+            ],
+            [
+                "Space Shuttle Discovery ( STS-26 )",
+                [
+                    "/wiki/Space_Shuttle",
+                    "/wiki/Space_Shuttle_Discovery",
+                    "/wiki/STS-26"
+                ],
+                [
+                    {
+                        "entity id": "Q48806",
+                        "label": "Space Shuttle"
+                    },
+                    {
+                        "entity id": "Q54384",
+                        "label": "Discovery"
+                    },
+                    {
+                        "entity id": "Q752766",
+                        "label": "STS-26"
+                    }
+                ]
+            ],
+            [
+                "TDRS-C ( TDRS-3 )",
+                [
+                    "/wiki/TDRS-3"
+                ],
+                [
+                    {
+                        "entity id": "Q7669867",
+                        "label": "TDRS-3"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "9",
+                []
+            ],
+            [
+                "1989-03-13",
+                []
+            ],
+            [
+                "Space Shuttle Discovery ( STS-29 )",
+                [
+                    "/wiki/Space_Shuttle",
+                    "/wiki/Space_Shuttle_Discovery",
+                    "/wiki/STS-29"
+                ],
+                [
+                    {
+                        "entity id": "Q48806",
+                        "label": "Space Shuttle"
+                    },
+                    {
+                        "entity id": "Q54384",
+                        "label": "Discovery"
+                    },
+                    {
+                        "entity id": "Q281355",
+                        "label": "STS-29"
+                    }
+                ]
+            ],
+            [
+                "TDRS-D ( TDRS-4 )",
+                [
+                    "/wiki/TDRS-4"
+                ],
+                [
+                    {
+                        "entity id": "Q7669869",
+                        "label": "TDRS-4"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "18",
+                []
+            ],
+            [
+                "1989-05-04",
+                []
+            ],
+            [
+                "Space Shuttle Atlantis ( STS-30 )",
+                [
+                    "/wiki/Space_Shuttle",
+                    "/wiki/Space_Shuttle_Atlantis",
+                    "/wiki/STS-30"
+                ],
+                [
+                    {
+                        "entity id": "Q48806",
+                        "label": "Space Shuttle"
+                    },
+                    {
+                        "entity id": "Q54381",
+                        "label": "Atlantis"
+                    },
+                    {
+                        "entity id": "Q183369",
+                        "label": "STS-30"
+                    }
+                ]
+            ],
+            [
+                "Magellan",
+                [
+                    "/wiki/Magellan_(spacecraft)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Probe to Venus",
+                [
+                    "/wiki/Venus"
+                ],
+                [
+                    {
+                        "entity id": "Q313",
+                        "label": "Venus"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "8",
+                []
+            ],
+            [
+                "1989-06-14",
+                []
+            ],
+            [
+                "Titan IV ( 402 ) A",
+                [
+                    "/wiki/Titan_IV"
+                ],
+                [
+                    {
+                        "entity id": "Q74369",
+                        "label": "Titan IV"
+                    }
+                ]
+            ],
+            [
+                "USA-39 ( DSP )",
+                [
+                    "/wiki/Defense_Support_Program"
+                ],
+                [
+                    {
+                        "entity id": "Q1182623",
+                        "label": "Defense Support Program"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "19",
+                []
+            ],
+            [
+                "1989-10-18",
+                []
+            ],
+            [
+                "Space Shuttle Atlantis ( STS-34 )",
+                [
+                    "/wiki/Space_Shuttle",
+                    "/wiki/Space_Shuttle_Atlantis",
+                    "/wiki/STS-34"
+                ],
+                [
+                    {
+                        "entity id": "Q48806",
+                        "label": "Space Shuttle"
+                    },
+                    {
+                        "entity id": "Q54381",
+                        "label": "Atlantis"
+                    },
+                    {
+                        "entity id": "Q648350",
+                        "label": "STS-34"
+                    }
+                ]
+            ],
+            [
+                "Galileo",
+                [
+                    "/wiki/Galileo_(spacecraft)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Probe to Jupiter",
+                [
+                    "/wiki/Jupiter"
+                ],
+                [
+                    {
+                        "entity id": "Q34201",
+                        "label": "Zeus"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "5",
+                []
+            ],
+            [
+                "1989-11-23",
+                []
+            ],
+            [
+                "Space Shuttle Discovery ( STS-33 )",
+                [
+                    "/wiki/Space_Shuttle",
+                    "/wiki/Space_Shuttle_Discovery",
+                    "/wiki/STS-33"
+                ],
+                [
+                    {
+                        "entity id": "Q48806",
+                        "label": "Space Shuttle"
+                    },
+                    {
+                        "entity id": "Q54384",
+                        "label": "Discovery"
+                    },
+                    {
+                        "entity id": "Q845718",
+                        "label": "STS-33"
+                    }
+                ]
+            ],
+            [
+                "USA-48 ( Magnum )",
+                [
+                    "/wiki/Magnum_(satellite)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Classified DoD payload",
+                []
+            ]
+        ],
+        [
+            [
+                "17",
+                []
+            ],
+            [
+                "1990-10-06",
+                []
+            ],
+            [
+                "Space Shuttle Discovery ( STS-41 )",
+                [
+                    "/wiki/Space_Shuttle",
+                    "/wiki/Space_Shuttle_Discovery",
+                    "/wiki/STS-41"
+                ],
+                [
+                    {
+                        "entity id": "Q48806",
+                        "label": "Space Shuttle"
+                    },
+                    {
+                        "entity id": "Q54384",
+                        "label": "Discovery"
+                    },
+                    {
+                        "entity id": "Q834714",
+                        "label": "STS-41"
+                    }
+                ]
+            ],
+            [
+                "Ulysses",
+                [
+                    "/wiki/Ulysses_(spacecraft)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Probe to the polar regions of the Sun",
+                [
+                    "/wiki/Sun"
+                ],
+                [
+                    {
+                        "entity id": "Q132",
+                        "label": "Sunday"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "6",
+                []
+            ],
+            [
+                "1990-11-13",
+                []
+            ],
+            [
+                "Titan IV ( 402 ) A",
+                [
+                    "/wiki/Titan_IV"
+                ],
+                [
+                    {
+                        "entity id": "Q74369",
+                        "label": "Titan IV"
+                    }
+                ]
+            ],
+            [
+                "USA-65 ( DSP )",
+                [
+                    "/wiki/Defense_Support_Program"
+                ],
+                [
+                    {
+                        "entity id": "Q1182623",
+                        "label": "Defense Support Program"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "15",
+                []
+            ],
+            [
+                "1991-08-02",
+                []
+            ],
+            [
+                "Space Shuttle Atlantis ( STS-43 )",
+                [
+                    "/wiki/Space_Shuttle",
+                    "/wiki/Space_Shuttle_Atlantis",
+                    "/wiki/STS-43"
+                ],
+                [
+                    {
+                        "entity id": "Q48806",
+                        "label": "Space Shuttle"
+                    },
+                    {
+                        "entity id": "Q54381",
+                        "label": "Atlantis"
+                    },
+                    {
+                        "entity id": "Q901010",
+                        "label": "STS-43"
+                    }
+                ]
+            ],
+            [
+                "TDRS-E ( TDRS-5 )",
+                [
+                    "/wiki/TDRS-5"
+                ],
+                [
+                    {
+                        "entity id": "Q7669868",
+                        "label": "TDRS-5"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "14",
+                []
+            ],
+            [
+                "1991-11-24",
+                []
+            ],
+            [
+                "Space Shuttle Atlantis ( STS-44 )",
+                [
+                    "/wiki/Space_Shuttle",
+                    "/wiki/Space_Shuttle_Atlantis",
+                    "/wiki/STS-44"
+                ],
+                [
+                    {
+                        "entity id": "Q48806",
+                        "label": "Space Shuttle"
+                    },
+                    {
+                        "entity id": "Q54381",
+                        "label": "Atlantis"
+                    },
+                    {
+                        "entity id": "Q905035",
+                        "label": "STS-44"
+                    }
+                ]
+            ],
+            [
+                "USA-75 ( DSP )",
+                [
+                    "/wiki/Defense_Support_Program"
+                ],
+                [
+                    {
+                        "entity id": "Q1182623",
+                        "label": "Defense Support Program"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "13",
+                []
+            ],
+            [
+                "1993-01-13",
+                []
+            ],
+            [
+                "Space Shuttle Endeavour ( STS-54 )",
+                [
+                    "/wiki/Space_Shuttle",
+                    "/wiki/Space_Shuttle_Endeavour",
+                    "/wiki/STS-54"
+                ],
+                [
+                    {
+                        "entity id": "Q48806",
+                        "label": "Space Shuttle"
+                    },
+                    {
+                        "entity id": "Q182508",
+                        "label": "Endeavour"
+                    },
+                    {
+                        "entity id": "Q844934",
+                        "label": "STS-54"
+                    }
+                ]
+            ],
+            [
+                "TDRS-F ( TDRS-6 )",
+                [
+                    "/wiki/TDRS-6"
+                ],
+                [
+                    {
+                        "entity id": "Q14174202",
+                        "label": "TDRS-6"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "20",
+                []
+            ],
+            [
+                "1994-12-22",
+                []
+            ],
+            [
+                "Titan IV ( 402 ) A",
+                [
+                    "/wiki/Titan_IV"
+                ],
+                [
+                    {
+                        "entity id": "Q74369",
+                        "label": "Titan IV"
+                    }
+                ]
+            ],
+            [
+                "USA-107 ( DSP )",
+                [
+                    "/wiki/Defense_Support_Program"
+                ],
+                [
+                    {
+                        "entity id": "Q1182623",
+                        "label": "Defense Support Program"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "26",
+                []
+            ],
+            [
+                "1995-07-13",
+                []
+            ],
+            [
+                "Space Shuttle Discovery ( STS-70 )",
+                [
+                    "/wiki/Space_Shuttle",
+                    "/wiki/Space_Shuttle_Discovery",
+                    "/wiki/STS-70"
+                ],
+                [
+                    {
+                        "entity id": "Q48806",
+                        "label": "Space Shuttle"
+                    },
+                    {
+                        "entity id": "Q54384",
+                        "label": "Discovery"
+                    },
+                    {
+                        "entity id": "Q1426913",
+                        "label": "STS-70"
+                    }
+                ]
+            ],
+            [
+                "TDRS-G ( TDRS-7 )",
+                [
+                    "/wiki/TDRS-7"
+                ],
+                [
+                    {
+                        "entity id": "Q7669871",
+                        "label": "TDRS-7"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "4",
+                []
+            ],
+            [
+                "1997-02-23",
+                []
+            ],
+            [
+                "Titan IV ( 402 ) B",
+                [
+                    "/wiki/Titan_IV"
+                ],
+                [
+                    {
+                        "entity id": "Q74369",
+                        "label": "Titan IV"
+                    }
+                ]
+            ],
+            [
+                "USA-130 ( DSP )",
+                [
+                    "/wiki/USA-130",
+                    "/wiki/Defense_Support_Program"
+                ],
+                [
+                    {
+                        "entity id": "Q56276923",
+                        "label": "USA-130"
+                    },
+                    {
+                        "entity id": "Q1182623",
+                        "label": "Defense Support Program"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "21",
+                []
+            ],
+            [
+                "1999-04-09",
+                []
+            ],
+            [
+                "Titan IV ( 402 ) B",
+                [
+                    "/wiki/Titan_IV"
+                ],
+                [
+                    {
+                        "entity id": "Q74369",
+                        "label": "Titan IV"
+                    }
+                ]
+            ],
+            [
+                "USA-142 ( DSP )",
+                [
+                    "/wiki/Defense_Support_Program"
+                ],
+                [
+                    {
+                        "entity id": "Q1182623",
+                        "label": "Defense Support Program"
+                    }
+                ]
+            ],
+            [
+                "IUS first and second stages failed to separate , payload placed into useless orbit",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Flights",
+    "section_text": "",
+    "uid": "Inertial_Upper_Stage_0",
+    "intro": "The Inertial Upper Stage (IUS), originally designated the Interim Upper Stage, was a two-stage solid-fueled rocket upper stage developed by Boeing for the United States Air Force beginning in 1976 for raising payloads from low Earth orbit to higher orbits or interplanetary trajectories following launch aboard a Titan 34D or Titan IV rocket, or from the payload bay of the Space Shuttle."
+}

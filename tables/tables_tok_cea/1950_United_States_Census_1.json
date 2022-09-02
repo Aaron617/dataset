@@ -1,0 +1,945 @@
+{
+    "url": "https://en.wikipedia.org/wiki/1950_United_States_Census",
+    "title": "1950 United States Census",
+    "header": [
+        [
+            "Rank",
+            []
+        ],
+        [
+            "City",
+            []
+        ],
+        [
+            "State",
+            []
+        ],
+        [
+            "Population",
+            []
+        ],
+        [
+            "Region ( 2016 )",
+            [
+                "/wiki/List_of_regions_of_the_United_States"
+            ],
+            [
+                {
+                    "entity id": "Q2264649",
+                    "label": "list of regions of the United States"
+                }
+            ]
+        ]
+    ],
+    "data": [
+        [
+            [
+                "01",
+                []
+            ],
+            [
+                "New York City",
+                [
+                    "/wiki/New_York_City"
+                ],
+                [
+                    {
+                        "entity id": "Q60",
+                        "label": "New York City"
+                    }
+                ]
+            ],
+            [
+                "New York",
+                [
+                    "/wiki/New_York_(state)"
+                ],
+                [
+                    {
+                        "entity id": "Q1384",
+                        "label": "New York"
+                    }
+                ]
+            ],
+            [
+                "7,891,957",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "02",
+                []
+            ],
+            [
+                "Chicago",
+                [
+                    "/wiki/Chicago"
+                ],
+                [
+                    {
+                        "entity id": "Q1297",
+                        "label": "Chicago"
+                    }
+                ]
+            ],
+            [
+                "Illinois",
+                [
+                    "/wiki/Illinois"
+                ],
+                [
+                    {
+                        "entity id": "Q1204",
+                        "label": "Illinois"
+                    }
+                ]
+            ],
+            [
+                "3,620,962",
+                []
+            ],
+            [
+                "Midwest",
+                [
+                    "/wiki/Midwestern_United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q186545",
+                        "label": "Midwestern United States"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "03",
+                []
+            ],
+            [
+                "Philadelphia",
+                [
+                    "/wiki/Philadelphia"
+                ],
+                [
+                    {
+                        "entity id": "Q1345",
+                        "label": "Philadelphia"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                [
+                    "/wiki/Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q1400",
+                        "label": "Pennsylvania"
+                    }
+                ]
+            ],
+            [
+                "2,071,605",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "04",
+                []
+            ],
+            [
+                "Los Angeles",
+                [
+                    "/wiki/Los_Angeles"
+                ],
+                [
+                    {
+                        "entity id": "Q65",
+                        "label": "Los Angeles"
+                    }
+                ]
+            ],
+            [
+                "California",
+                [
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "1,970,358",
+                []
+            ],
+            [
+                "West",
+                [
+                    "/wiki/Western_United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q12612",
+                        "label": "Western United States"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "05",
+                []
+            ],
+            [
+                "Detroit",
+                [
+                    "/wiki/Detroit"
+                ],
+                [
+                    {
+                        "entity id": "Q12439",
+                        "label": "Detroit"
+                    }
+                ]
+            ],
+            [
+                "Michigan",
+                [
+                    "/wiki/Michigan"
+                ],
+                [
+                    {
+                        "entity id": "Q1166",
+                        "label": "Michigan"
+                    }
+                ]
+            ],
+            [
+                "1,849,568",
+                []
+            ],
+            [
+                "Midwest",
+                [
+                    "/wiki/Midwestern_United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q186545",
+                        "label": "Midwestern United States"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "06",
+                []
+            ],
+            [
+                "Baltimore",
+                [
+                    "/wiki/Baltimore"
+                ],
+                [
+                    {
+                        "entity id": "Q5092",
+                        "label": "Baltimore"
+                    }
+                ]
+            ],
+            [
+                "Maryland",
+                [
+                    "/wiki/Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q1391",
+                        "label": "Maryland"
+                    }
+                ]
+            ],
+            [
+                "949,708",
+                []
+            ],
+            [
+                "South",
+                [
+                    "/wiki/Southern_United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q49042",
+                        "label": "Southern United States"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "07",
+                []
+            ],
+            [
+                "Cleveland",
+                [
+                    "/wiki/Cleveland"
+                ],
+                [
+                    {
+                        "entity id": "Q37320",
+                        "label": "Cleveland"
+                    }
+                ]
+            ],
+            [
+                "Ohio",
+                [
+                    "/wiki/Ohio"
+                ],
+                [
+                    {
+                        "entity id": "Q1397",
+                        "label": "Ohio"
+                    }
+                ]
+            ],
+            [
+                "914,808",
+                []
+            ],
+            [
+                "Midwest",
+                [
+                    "/wiki/Midwestern_United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q186545",
+                        "label": "Midwestern United States"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "08",
+                []
+            ],
+            [
+                "St. Louis",
+                [
+                    "/wiki/St._Louis"
+                ],
+                [
+                    {
+                        "entity id": "Q38022",
+                        "label": "St. Louis"
+                    }
+                ]
+            ],
+            [
+                "Missouri",
+                [
+                    "/wiki/Missouri"
+                ],
+                [
+                    {
+                        "entity id": "Q1581",
+                        "label": "Missouri"
+                    }
+                ]
+            ],
+            [
+                "856,796",
+                []
+            ],
+            [
+                "Midwest",
+                [
+                    "/wiki/Midwestern_United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q186545",
+                        "label": "Midwestern United States"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "09",
+                []
+            ],
+            [
+                "Washington",
+                [
+                    "/wiki/Washington,_D.C."
+                ],
+                [
+                    {
+                        "entity id": "Q61",
+                        "label": "Washington, D.C."
+                    }
+                ]
+            ],
+            [
+                "District of Columbia",
+                [
+                    "/wiki/District_of_Columbia"
+                ],
+                [
+                    {
+                        "entity id": "Q61",
+                        "label": "Washington, D.C."
+                    }
+                ]
+            ],
+            [
+                "802,178",
+                []
+            ],
+            [
+                "South",
+                [
+                    "/wiki/Southern_United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q49042",
+                        "label": "Southern United States"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "10",
+                []
+            ],
+            [
+                "Boston",
+                [
+                    "/wiki/Boston"
+                ],
+                [
+                    {
+                        "entity id": "Q100",
+                        "label": "Boston"
+                    }
+                ]
+            ],
+            [
+                "Massachusetts",
+                [
+                    "/wiki/Massachusetts"
+                ],
+                [
+                    {
+                        "entity id": "Q771",
+                        "label": "Massachusetts"
+                    }
+                ]
+            ],
+            [
+                "801,444",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "11",
+                []
+            ],
+            [
+                "San Francisco",
+                [
+                    "/wiki/San_Francisco"
+                ],
+                [
+                    {
+                        "entity id": "Q62",
+                        "label": "San Francisco"
+                    }
+                ]
+            ],
+            [
+                "California",
+                [
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "775,357",
+                []
+            ],
+            [
+                "West",
+                [
+                    "/wiki/Western_United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q12612",
+                        "label": "Western United States"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "12",
+                []
+            ],
+            [
+                "Pittsburgh",
+                [
+                    "/wiki/Pittsburgh"
+                ],
+                [
+                    {
+                        "entity id": "Q1342",
+                        "label": "Pittsburgh"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                [
+                    "/wiki/Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q1400",
+                        "label": "Pennsylvania"
+                    }
+                ]
+            ],
+            [
+                "676,806",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "13",
+                []
+            ],
+            [
+                "Milwaukee",
+                [
+                    "/wiki/Milwaukee"
+                ],
+                [
+                    {
+                        "entity id": "Q37836",
+                        "label": "Milwaukee"
+                    }
+                ]
+            ],
+            [
+                "Wisconsin",
+                [
+                    "/wiki/Wisconsin"
+                ],
+                [
+                    {
+                        "entity id": "Q1537",
+                        "label": "Wisconsin"
+                    }
+                ]
+            ],
+            [
+                "637,392",
+                []
+            ],
+            [
+                "Midwest",
+                [
+                    "/wiki/Midwestern_United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q186545",
+                        "label": "Midwestern United States"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "14",
+                []
+            ],
+            [
+                "Houston",
+                [
+                    "/wiki/Houston"
+                ],
+                [
+                    {
+                        "entity id": "Q16555",
+                        "label": "Houston"
+                    }
+                ]
+            ],
+            [
+                "Texas",
+                [
+                    "/wiki/Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q1439",
+                        "label": "Texas"
+                    }
+                ]
+            ],
+            [
+                "596,163",
+                []
+            ],
+            [
+                "South",
+                [
+                    "/wiki/Southern_United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q49042",
+                        "label": "Southern United States"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "15",
+                []
+            ],
+            [
+                "Buffalo",
+                [
+                    "/wiki/Buffalo,_New_York"
+                ],
+                [
+                    {
+                        "entity id": "Q40435",
+                        "label": "Buffalo"
+                    }
+                ]
+            ],
+            [
+                "New York",
+                [
+                    "/wiki/New_York_(state)"
+                ],
+                [
+                    {
+                        "entity id": "Q1384",
+                        "label": "New York"
+                    }
+                ]
+            ],
+            [
+                "580,132",
+                []
+            ],
+            [
+                "Northeast",
+                [
+                    "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "16",
+                []
+            ],
+            [
+                "New Orleans",
+                [
+                    "/wiki/New_Orleans"
+                ],
+                [
+                    {
+                        "entity id": "Q34404",
+                        "label": "New Orleans"
+                    }
+                ]
+            ],
+            [
+                "Louisiana",
+                [
+                    "/wiki/Louisiana"
+                ],
+                [
+                    {
+                        "entity id": "Q1588",
+                        "label": "Louisiana"
+                    }
+                ]
+            ],
+            [
+                "570,445",
+                []
+            ],
+            [
+                "South",
+                [
+                    "/wiki/Southern_United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q49042",
+                        "label": "Southern United States"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "17",
+                []
+            ],
+            [
+                "Minneapolis",
+                [
+                    "/wiki/Minneapolis"
+                ],
+                [
+                    {
+                        "entity id": "Q36091",
+                        "label": "Minneapolis"
+                    }
+                ]
+            ],
+            [
+                "Minnesota",
+                [
+                    "/wiki/Minnesota"
+                ],
+                [
+                    {
+                        "entity id": "Q1527",
+                        "label": "Minnesota"
+                    }
+                ]
+            ],
+            [
+                "521,718",
+                []
+            ],
+            [
+                "Midwest",
+                [
+                    "/wiki/Midwestern_United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q186545",
+                        "label": "Midwestern United States"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "18",
+                []
+            ],
+            [
+                "Cincinnati",
+                [
+                    "/wiki/Cincinnati"
+                ],
+                [
+                    {
+                        "entity id": "Q43196",
+                        "label": "Cincinnati"
+                    }
+                ]
+            ],
+            [
+                "Ohio",
+                [
+                    "/wiki/Ohio"
+                ],
+                [
+                    {
+                        "entity id": "Q1397",
+                        "label": "Ohio"
+                    }
+                ]
+            ],
+            [
+                "503,998",
+                []
+            ],
+            [
+                "Midwest",
+                [
+                    "/wiki/Midwestern_United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q186545",
+                        "label": "Midwestern United States"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "19",
+                []
+            ],
+            [
+                "Seattle",
+                [
+                    "/wiki/Seattle"
+                ],
+                [
+                    {
+                        "entity id": "Q5083",
+                        "label": "Seattle"
+                    }
+                ]
+            ],
+            [
+                "Washington",
+                [
+                    "/wiki/Washington_(state)"
+                ],
+                [
+                    {
+                        "entity id": "Q1223",
+                        "label": "Washington"
+                    }
+                ]
+            ],
+            [
+                "467,591",
+                []
+            ],
+            [
+                "West",
+                [
+                    "/wiki/Western_United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q12612",
+                        "label": "Western United States"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "20",
+                []
+            ],
+            [
+                "Kansas City",
+                [
+                    "/wiki/Kansas_City,_Missouri"
+                ],
+                [
+                    {
+                        "entity id": "Q41819",
+                        "label": "Kansas City"
+                    }
+                ]
+            ],
+            [
+                "Missouri",
+                [
+                    "/wiki/Missouri"
+                ],
+                [
+                    {
+                        "entity id": "Q1581",
+                        "label": "Missouri"
+                    }
+                ]
+            ],
+            [
+                "456,622",
+                []
+            ],
+            [
+                "Midwest",
+                [
+                    "/wiki/Midwestern_United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q186545",
+                        "label": "Midwestern United States"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "City rankings",
+    "section_text": "",
+    "uid": "1950_United_States_Census_1",
+    "intro": "The United States Census of 1950, conducted by the Census Bureau, determined the resident population of the United States to be 150,697,361, an increase of 14.5 percent over the 131,669,275 persons enumerated during the 1940 Census. This was the first census in which:"
+}

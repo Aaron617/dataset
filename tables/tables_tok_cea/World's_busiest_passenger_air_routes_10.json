@@ -1,0 +1,325 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_busiest_passenger_air_routes",
+    "title": "List of busiest passenger air routes",
+    "header": [
+        [
+            "Rank",
+            []
+        ],
+        [
+            "City 1",
+            []
+        ],
+        [
+            "City 2",
+            []
+        ],
+        [
+            "Passengers ( 2016 )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1",
+                []
+            ],
+            [
+                "London",
+                [
+                    "/wiki/London"
+                ],
+                [
+                    {
+                        "entity id": "Q84",
+                        "label": "London"
+                    }
+                ]
+            ],
+            [
+                "Dublin",
+                [
+                    "/wiki/Dublin"
+                ],
+                [
+                    {
+                        "entity id": "Q1761",
+                        "label": "Dublin"
+                    }
+                ]
+            ],
+            [
+                "4,771,614",
+                []
+            ]
+        ],
+        [
+            [
+                "2",
+                []
+            ],
+            [
+                "London",
+                []
+            ],
+            [
+                "Amsterdam",
+                [
+                    "/wiki/Amsterdam"
+                ],
+                [
+                    {
+                        "entity id": "Q727",
+                        "label": "Amsterdam"
+                    }
+                ]
+            ],
+            [
+                "4,344,935",
+                []
+            ]
+        ],
+        [
+            [
+                "3",
+                []
+            ],
+            [
+                "London",
+                []
+            ],
+            [
+                "New York",
+                [
+                    "/wiki/New_York_City"
+                ],
+                [
+                    {
+                        "entity id": "Q60",
+                        "label": "New York City"
+                    }
+                ]
+            ],
+            [
+                "4,243,687",
+                []
+            ]
+        ],
+        [
+            [
+                "4",
+                []
+            ],
+            [
+                "London",
+                []
+            ],
+            [
+                "Dubai",
+                [
+                    "/wiki/Dubai"
+                ],
+                [
+                    {
+                        "entity id": "Q612",
+                        "label": "Dubai"
+                    }
+                ]
+            ],
+            [
+                "3,960,389",
+                []
+            ]
+        ],
+        [
+            [
+                "5",
+                []
+            ],
+            [
+                "Moscow",
+                [
+                    "/wiki/Moscow"
+                ],
+                [
+                    {
+                        "entity id": "Q649",
+                        "label": "Moscow"
+                    }
+                ]
+            ],
+            [
+                "Saint Petersburg",
+                [
+                    "/wiki/Saint_Petersburg"
+                ],
+                [
+                    {
+                        "entity id": "Q656",
+                        "label": "Saint Petersburg"
+                    }
+                ]
+            ],
+            [
+                "3,836,588",
+                []
+            ]
+        ],
+        [
+            [
+                "6",
+                []
+            ],
+            [
+                "London",
+                []
+            ],
+            [
+                "Edinburgh",
+                [
+                    "/wiki/Edinburgh"
+                ],
+                [
+                    {
+                        "entity id": "Q23436",
+                        "label": "Edinburgh"
+                    }
+                ]
+            ],
+            [
+                "3,393,013",
+                []
+            ]
+        ],
+        [
+            [
+                "7",
+                []
+            ],
+            [
+                "Paris",
+                [
+                    "/wiki/Paris"
+                ],
+                [
+                    {
+                        "entity id": "Q90",
+                        "label": "Paris"
+                    }
+                ]
+            ],
+            [
+                "Toulouse",
+                [
+                    "/wiki/Toulouse"
+                ],
+                [
+                    {
+                        "entity id": "Q7880",
+                        "label": "Toulouse"
+                    }
+                ]
+            ],
+            [
+                "3,260,074",
+                []
+            ]
+        ],
+        [
+            [
+                "8",
+                []
+            ],
+            [
+                "London",
+                []
+            ],
+            [
+                "Barcelona",
+                [
+                    "/wiki/Barcelona"
+                ],
+                [
+                    {
+                        "entity id": "Q1492",
+                        "label": "Barcelona"
+                    }
+                ]
+            ],
+            [
+                "3,125,080",
+                []
+            ]
+        ],
+        [
+            [
+                "9",
+                []
+            ],
+            [
+                "Berlin",
+                [
+                    "/wiki/Berlin"
+                ],
+                [
+                    {
+                        "entity id": "Q64",
+                        "label": "Berlin"
+                    }
+                ]
+            ],
+            [
+                "Cologne + D\u00fcsseldorf",
+                [
+                    "/wiki/Cologne",
+                    "/wiki/D\u00fcsseldorf"
+                ],
+                [
+                    {
+                        "entity id": "Q365",
+                        "label": "Cologne"
+                    },
+                    {
+                        "entity id": "Q1718",
+                        "label": "D\u00fcsseldorf"
+                    }
+                ]
+            ],
+            [
+                "3,017,845",
+                []
+            ]
+        ],
+        [
+            [
+                "10",
+                []
+            ],
+            [
+                "Paris",
+                []
+            ],
+            [
+                "Nice",
+                [
+                    "/wiki/Nice"
+                ],
+                [
+                    {
+                        "entity id": "Q33959",
+                        "label": "Nice"
+                    }
+                ]
+            ],
+            [
+                "2,975,405",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Regional statistics -- Europe",
+    "section_text": "",
+    "uid": "World's_busiest_passenger_air_routes_10",
+    "intro": "These are lists of the busiest air routes by the number of passengers flown, by seat capacity and by aircraft movements."
+}

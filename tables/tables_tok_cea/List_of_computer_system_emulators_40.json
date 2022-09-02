@@ -1,0 +1,691 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+    "title": "List of computer system emulators",
+    "header": [
+        [
+            "Emulator",
+            []
+        ],
+        [
+            "Latest version",
+            []
+        ],
+        [
+            "Released",
+            []
+        ],
+        [
+            "Guest emulation capabilities",
+            []
+        ],
+        [
+            "Host Operating System",
+            []
+        ],
+        [
+            "License",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "86Box",
+                [
+                    "/wiki/86Box"
+                ],
+                [
+                    {
+                        "entity id": "Q107214939",
+                        "label": "86Box"
+                    }
+                ]
+            ],
+            [
+                "2.10",
+                []
+            ],
+            [
+                "February 21 , 2017",
+                []
+            ],
+            [
+                "x86 PC",
+                [
+                    "/wiki/IBM_PC_compatible"
+                ],
+                [
+                    {
+                        "entity id": "Q751046",
+                        "label": "IBM PC compatible"
+                    }
+                ]
+            ],
+            [
+                "Microsoft Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "GPLv2",
+                [
+                    "/wiki/GPLv2"
+                ],
+                [
+                    {
+                        "entity id": "Q10513450",
+                        "label": "GNU General Public License, version 2.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Fake86",
+                []
+            ],
+            [
+                "0.13.9.16",
+                []
+            ],
+            [
+                "September 16 , 2013",
+                []
+            ],
+            [
+                "IBM PC/XT & Intel 80186",
+                [
+                    "/wiki/IBM_Personal_Computer_XT",
+                    "/wiki/Intel_80186"
+                ],
+                [
+                    {
+                        "entity id": "Q34349",
+                        "label": "IBM Personal Computer XT"
+                    },
+                    {
+                        "entity id": "Q725524",
+                        "label": "Intel 80186"
+                    }
+                ]
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "GPLv2",
+                [
+                    "/wiki/GPLv2"
+                ],
+                [
+                    {
+                        "entity id": "Q10513450",
+                        "label": "GNU General Public License, version 2.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "PCE/ibmpc",
+                []
+            ],
+            [
+                "20180323-184b521a",
+                []
+            ],
+            [
+                "December 18 , 2017",
+                []
+            ],
+            [
+                "IBM PC / XT , 8086 , 80186 / 80188",
+                [
+                    "/wiki/IBM_Personal_Computer",
+                    "/wiki/IBM_Personal_Computer_XT",
+                    "/wiki/Intel_8086",
+                    "/wiki/Intel_80186",
+                    "/wiki/Intel_80188"
+                ],
+                [
+                    {
+                        "entity id": "Q202712",
+                        "label": "IBM Personal Computer"
+                    },
+                    {
+                        "entity id": "Q34349",
+                        "label": "IBM Personal Computer XT"
+                    },
+                    {
+                        "entity id": "Q207539",
+                        "label": "Intel 8086"
+                    },
+                    {
+                        "entity id": "Q725524",
+                        "label": "Intel 80186"
+                    },
+                    {
+                        "entity id": "Q1065726",
+                        "label": "Intel 80188"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "GPLv2",
+                [
+                    "/wiki/GPLv2"
+                ],
+                [
+                    {
+                        "entity id": "Q10513450",
+                        "label": "GNU General Public License, version 2.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Pico XT",
+                []
+            ],
+            [
+                "0.1.1",
+                []
+            ],
+            [
+                "October 24 , 2006",
+                []
+            ],
+            [
+                "IBM PC/XT",
+                [
+                    "/wiki/IBM_Personal_Computer_XT"
+                ],
+                [
+                    {
+                        "entity id": "Q34349",
+                        "label": "IBM Personal Computer XT"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "PCem",
+                [
+                    "/wiki/PCem"
+                ],
+                [
+                    {
+                        "entity id": "Q28127098",
+                        "label": "PCem"
+                    }
+                ]
+            ],
+            [
+                "v14",
+                []
+            ],
+            [
+                "April 20 , 2018",
+                []
+            ],
+            [
+                "x86 PC",
+                [
+                    "/wiki/IBM_PC_compatible"
+                ],
+                [
+                    {
+                        "entity id": "Q751046",
+                        "label": "IBM PC compatible"
+                    }
+                ]
+            ],
+            [
+                "Windows , Linux",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ],
+            [
+                "GPLv2",
+                [
+                    "/wiki/GPLv2"
+                ],
+                [
+                    {
+                        "entity id": "Q10513450",
+                        "label": "GNU General Public License, version 2.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "PCjs",
+                []
+            ],
+            [
+                "v1.62.0",
+                []
+            ],
+            [
+                "April 1 , 2018",
+                []
+            ],
+            [
+                "x86 PC",
+                [
+                    "/wiki/IBM_PC_compatible"
+                ],
+                [
+                    {
+                        "entity id": "Q751046",
+                        "label": "IBM PC compatible"
+                    }
+                ]
+            ],
+            [
+                "Web Browser",
+                [
+                    "/wiki/Web_Browser"
+                ],
+                [
+                    {
+                        "entity id": "Q6368",
+                        "label": "web browser"
+                    }
+                ]
+            ],
+            [
+                "GPLv3",
+                [
+                    "/wiki/GPLv3"
+                ],
+                [
+                    {
+                        "entity id": "Q10513445",
+                        "label": "GNU General Public License, version 3.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "PocketDOS",
+                []
+            ],
+            [
+                "1.12.3",
+                []
+            ],
+            [
+                "August 8 , 2009",
+                []
+            ],
+            [
+                "x86 PC Intel 8086/80186/80286 ( real-mode only )",
+                [
+                    "/wiki/IBM_PC_compatible"
+                ],
+                [
+                    {
+                        "entity id": "Q751046",
+                        "label": "IBM PC compatible"
+                    }
+                ]
+            ],
+            [
+                "Windows , Windows CE / Pocket PC",
+                [
+                    "/wiki/Microsoft_Windows",
+                    "/wiki/Windows_CE",
+                    "/wiki/Pocket_PC"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q488244",
+                        "label": "Windows Embedded Compact"
+                    },
+                    {
+                        "entity id": "Q29758",
+                        "label": "Pocket PC"
+                    }
+                ]
+            ],
+            [
+                "Commercial",
+                []
+            ]
+        ],
+        [
+            [
+                "DOSBox",
+                [
+                    "/wiki/DOSBox"
+                ],
+                [
+                    {
+                        "entity id": "Q479783",
+                        "label": "DOSBox"
+                    }
+                ]
+            ],
+            [
+                "0.74",
+                []
+            ],
+            [
+                "May 12 , 2010",
+                []
+            ],
+            [
+                "DOS & x86 PC",
+                [
+                    "/wiki/DOS",
+                    "/wiki/IBM_PC_compatible"
+                ],
+                [
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    },
+                    {
+                        "entity id": "Q751046",
+                        "label": "IBM PC compatible"
+                    }
+                ]
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "GPLv2",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "jDosbox",
+                [
+                    "/wiki/DOSBox"
+                ],
+                [
+                    {
+                        "entity id": "Q479783",
+                        "label": "DOSBox"
+                    }
+                ]
+            ],
+            [
+                "0.74.28",
+                []
+            ],
+            [
+                "February 27 , 2013",
+                []
+            ],
+            [
+                "DOS & x86 PC",
+                [
+                    "/wiki/DOS",
+                    "/wiki/IBM_PC_compatible"
+                ],
+                [
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    },
+                    {
+                        "entity id": "Q751046",
+                        "label": "IBM PC compatible"
+                    }
+                ]
+            ],
+            [
+                "JVM",
+                [
+                    "/wiki/Java_virtual_machine"
+                ],
+                [
+                    {
+                        "entity id": "Q193321",
+                        "label": "Java Virtual Machine"
+                    }
+                ]
+            ],
+            [
+                "GPLv2",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "JsDOSBox",
+                [
+                    "/wiki/DOSBox"
+                ],
+                [
+                    {
+                        "entity id": "Q479783",
+                        "label": "DOSBox"
+                    }
+                ]
+            ],
+            [
+                "3.3",
+                []
+            ],
+            [
+                "January 10 , 2016",
+                []
+            ],
+            [
+                "DOS & x86 PC",
+                [
+                    "/wiki/DOS",
+                    "/wiki/IBM_PC_compatible"
+                ],
+                [
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    },
+                    {
+                        "entity id": "Q751046",
+                        "label": "IBM PC compatible"
+                    }
+                ]
+            ],
+            [
+                "Web browser ( JavaScript )",
+                [
+                    "/wiki/Web_browser",
+                    "/wiki/JavaScript"
+                ],
+                [
+                    {
+                        "entity id": "Q6368",
+                        "label": "web browser"
+                    },
+                    {
+                        "entity id": "Q2005",
+                        "label": "JavaScript"
+                    }
+                ]
+            ],
+            [
+                "GPLv2",
+                [
+                    "/wiki/GPLv2"
+                ],
+                [
+                    {
+                        "entity id": "Q10513450",
+                        "label": "GNU General Public License, version 2.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "NaClBox",
+                [
+                    "/wiki/DOSBox"
+                ],
+                [
+                    {
+                        "entity id": "Q479783",
+                        "label": "DOSBox"
+                    }
+                ]
+            ],
+            [
+                "CVS ( follows DOSBox )",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "DOS & x86 PC",
+                [
+                    "/wiki/DOS",
+                    "/wiki/IBM_PC_compatible"
+                ],
+                [
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    },
+                    {
+                        "entity id": "Q751046",
+                        "label": "IBM PC compatible"
+                    }
+                ]
+            ],
+            [
+                "Google Native Client",
+                [
+                    "/wiki/Google_Native_Client"
+                ],
+                [
+                    {
+                        "entity id": "Q1011995",
+                        "label": "Google Native Client"
+                    }
+                ]
+            ],
+            [
+                "GPLv2",
+                [
+                    "/wiki/GPLv2"
+                ],
+                [
+                    {
+                        "entity id": "Q10513450",
+                        "label": "GNU General Public License, version 2.0"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "16-bit guest systems -- x86-16 IBM PC/XT/AT compatible",
+    "section_text": "",
+    "uid": "List_of_computer_system_emulators_40",
+    "intro": "This article lists software and hardware that emulates computing platforms. The host in this article is the system running the emulator, and the guest is the system being emulated. The list is organized by guest operating system (the system being emulated), grouped by bitness. Each section contains a list of emulators capable of emulating the specified guest, details of the range of guest systems able to be emulated, and the required host environment and licensing."
+}

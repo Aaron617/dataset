@@ -1,0 +1,966 @@
+{
+    "url": "https://en.wikipedia.org/wiki/SO_postcode_area",
+    "title": "SO postcode area",
+    "header": [
+        [
+            "Postcode district",
+            []
+        ],
+        [
+            "Post town",
+            [
+                "/wiki/Post_town"
+            ],
+            [
+                {
+                    "entity id": "Q1968403",
+                    "label": "post town"
+                }
+            ]
+        ],
+        [
+            "Coverage",
+            []
+        ],
+        [
+            "Local authority area",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "SO14",
+                []
+            ],
+            [
+                "SOUTHAMPTON",
+                []
+            ],
+            [
+                "City Centre , St. Mary 's , Newtown , Nicholstown , Ocean Village , Chapel , Eastern Docks , Bevois Valley",
+                [
+                    "/wiki/Southampton_City_Centre",
+                    "/wiki/St_Mary's,_Hampshire",
+                    "/wiki/Nicholstown,_Hampshire",
+                    "/wiki/Ocean_Village,_Southampton",
+                    "/wiki/Bevois_Valley"
+                ],
+                [
+                    {
+                        "entity id": "Q7569109",
+                        "label": "Southampton city centre"
+                    },
+                    {},
+                    {},
+                    {},
+                    {
+                        "entity id": "Q4899693",
+                        "label": "Bevois Valley"
+                    }
+                ]
+            ],
+            [
+                "Southampton",
+                [
+                    "/wiki/Southampton"
+                ],
+                [
+                    {
+                        "entity id": "Q79848",
+                        "label": "Southampton"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SO15",
+                []
+            ],
+            [
+                "SOUTHAMPTON",
+                []
+            ],
+            [
+                "Shirley , Freemantle , Banister Park , Polygon , Millbrook , Redbridge",
+                [
+                    "/wiki/Shirley,_Hampshire",
+                    "/wiki/Freemantle",
+                    "/wiki/The_Polygon,_Southampton",
+                    "/wiki/Millbrook,_Hampshire",
+                    "/wiki/Redbridge,_Hampshire"
+                ],
+                [
+                    {
+                        "entity id": "Q7498669",
+                        "label": "Shirley"
+                    },
+                    {
+                        "entity id": "Q16870023",
+                        "label": "Fremantle"
+                    },
+                    {
+                        "entity id": "Q16898654",
+                        "label": "The Polygon, Southampton"
+                    },
+                    {},
+                    {}
+                ]
+            ],
+            [
+                "Southampton",
+                []
+            ]
+        ],
+        [
+            [
+                "SO16",
+                []
+            ],
+            [
+                "SOUTHAMPTON",
+                []
+            ],
+            [
+                "Bassett , Lordswood , Lordshill , Redbridge , Rownhams , Nursling , Chilworth",
+                [
+                    "/wiki/Bassett,_Hampshire",
+                    "/wiki/Southampton",
+                    "/wiki/Southampton",
+                    "/wiki/Redbridge,_Hampshire",
+                    "/wiki/Rownhams",
+                    "/wiki/Nursling",
+                    "/wiki/Chilworth,_Hampshire"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q79848",
+                        "label": "Southampton"
+                    },
+                    {
+                        "entity id": "Q79848",
+                        "label": "Southampton"
+                    },
+                    {},
+                    {
+                        "entity id": "Q15273443",
+                        "label": "Rownhams"
+                    },
+                    {
+                        "entity id": "Q3657243",
+                        "label": "Nursling"
+                    },
+                    {
+                        "entity id": "Q5099270",
+                        "label": "Chilworth"
+                    }
+                ]
+            ],
+            [
+                "Southampton , Test Valley",
+                [
+                    "/wiki/Test_Valley"
+                ],
+                [
+                    {
+                        "entity id": "Q2116338",
+                        "label": "Test Valley"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SO17",
+                []
+            ],
+            [
+                "SOUTHAMPTON",
+                []
+            ],
+            [
+                "Highfield , Portswood , St Denys , Swaythling",
+                [
+                    "/wiki/Highfield,_Hampshire",
+                    "/wiki/Portswood",
+                    "/wiki/St_Denys",
+                    "/wiki/Swaythling"
+                ],
+                [
+                    {
+                        "entity id": "Q5758483",
+                        "label": "Highfield"
+                    },
+                    {
+                        "entity id": "Q7232527",
+                        "label": "Portswood"
+                    },
+                    {
+                        "entity id": "Q7592954",
+                        "label": "St Denys"
+                    },
+                    {
+                        "entity id": "Q5005835",
+                        "label": "Swaythling"
+                    }
+                ]
+            ],
+            [
+                "Southampton",
+                []
+            ]
+        ],
+        [
+            [
+                "SO18",
+                []
+            ],
+            [
+                "SOUTHAMPTON",
+                []
+            ],
+            [
+                "Bitterne , Bitterne Park , Harefield , Townhill Park , Chartwell Green , Mansbridge , Southampton Airport",
+                [
+                    "/wiki/Bitterne",
+                    "/wiki/Bitterne_Park",
+                    "/wiki/Harefield",
+                    "/wiki/Townhill_Park",
+                    "/wiki/Chartwell_Green",
+                    "/wiki/Southampton_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q4919059",
+                        "label": "Bitterne"
+                    },
+                    {
+                        "entity id": "Q4919057",
+                        "label": "Bitterne Park"
+                    },
+                    {
+                        "entity id": "Q2243312",
+                        "label": "Harefield"
+                    },
+                    {
+                        "entity id": "Q7830124",
+                        "label": "Townhill Park"
+                    },
+                    {
+                        "entity id": "Q5086949",
+                        "label": "Chartwell Green"
+                    },
+                    {
+                        "entity id": "Q8988",
+                        "label": "Southampton Airport"
+                    }
+                ]
+            ],
+            [
+                "Southampton , Eastleigh",
+                [
+                    "/wiki/Borough_of_Eastleigh"
+                ],
+                [
+                    {
+                        "entity id": "Q894083",
+                        "label": "Eastleigh"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SO19",
+                []
+            ],
+            [
+                "SOUTHAMPTON",
+                []
+            ],
+            [
+                "Sholing , Thornhill , Woolston , Weston",
+                [
+                    "/wiki/Sholing",
+                    "/wiki/Thornhill,_Hampshire",
+                    "/wiki/Woolston,_Southampton",
+                    "/wiki/Weston,_Southampton"
+                ],
+                [
+                    {
+                        "entity id": "Q7500230",
+                        "label": "Sholing"
+                    },
+                    {},
+                    {
+                        "entity id": "Q8033947",
+                        "label": "Woolston"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Southampton",
+                []
+            ]
+        ],
+        [
+            [
+                "SO20",
+                []
+            ],
+            [
+                "STOCKBRIDGE",
+                []
+            ],
+            [
+                "Stockbridge , King 's Somborne , Middle Wallop",
+                [
+                    "/wiki/Stockbridge,_Hampshire",
+                    "/wiki/King's_Somborne",
+                    "/wiki/Middle_Wallop"
+                ],
+                [
+                    {
+                        "entity id": "Q547492",
+                        "label": "Stockbridge"
+                    },
+                    {
+                        "entity id": "Q6411104",
+                        "label": "King's Somborne"
+                    },
+                    {
+                        "entity id": "Q6841645",
+                        "label": "Middle Wallop"
+                    }
+                ]
+            ],
+            [
+                "Test Valley",
+                []
+            ]
+        ],
+        [
+            [
+                "SO21",
+                []
+            ],
+            [
+                "WINCHESTER",
+                []
+            ],
+            [
+                "Compton , Colden Common , Easton , Hursley , Itchen Abbas , Martyr Worthy , Micheldever , Owslebury , Shawford , South Wonston , Sutton Scotney , Sparsholt , Twyford",
+                [
+                    "/wiki/Compton_and_Shawford",
+                    "/wiki/Colden_Common",
+                    "/wiki/Easton,_Hampshire",
+                    "/wiki/Hursley",
+                    "/wiki/Itchen_Abbas",
+                    "/wiki/Martyr_Worthy",
+                    "/wiki/Micheldever",
+                    "/wiki/Owslebury",
+                    "/wiki/Compton_and_Shawford",
+                    "/wiki/South_Wonston",
+                    "/wiki/Sutton_Scotney",
+                    "/wiki/Sparsholt,_Hampshire",
+                    "/wiki/Twyford,_Hampshire"
+                ],
+                [
+                    {
+                        "entity id": "Q2648901",
+                        "label": "Compton and Shawford"
+                    },
+                    {
+                        "entity id": "Q2020511",
+                        "label": "Colden Common"
+                    },
+                    {
+                        "entity id": "Q926256",
+                        "label": "Easton"
+                    },
+                    {
+                        "entity id": "Q2077113",
+                        "label": "Hursley"
+                    },
+                    {
+                        "entity id": "Q1826984",
+                        "label": "Itchen Abbas"
+                    },
+                    {
+                        "entity id": "Q2628416",
+                        "label": "Martyr Worthy"
+                    },
+                    {
+                        "entity id": "Q2698939",
+                        "label": "Micheldever"
+                    },
+                    {
+                        "entity id": "Q5470760",
+                        "label": "Owslebury"
+                    },
+                    {
+                        "entity id": "Q2648901",
+                        "label": "Compton and Shawford"
+                    },
+                    {
+                        "entity id": "Q2264190",
+                        "label": "South Wonston"
+                    },
+                    {
+                        "entity id": "Q1981125",
+                        "label": "Sutton Scotney"
+                    },
+                    {
+                        "entity id": "Q2605849",
+                        "label": "Sparsholt"
+                    },
+                    {
+                        "entity id": "Q2685778",
+                        "label": "Twyford"
+                    }
+                ]
+            ],
+            [
+                "Winchester",
+                [
+                    "/wiki/Winchester"
+                ],
+                [
+                    {
+                        "entity id": "Q172157",
+                        "label": "Winchester"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SO22",
+                []
+            ],
+            [
+                "WINCHESTER",
+                []
+            ],
+            [
+                "Badger Farm , Fulflood , Hursley , Littleton and Harestock , Olivers Battery , Pitt , St Cross ( W ) , Stanmore , Weeke",
+                [
+                    "/wiki/Badger_Farm",
+                    "/wiki/Hursley",
+                    "/wiki/Littleton_and_Harestock",
+                    "/wiki/Olivers_Battery"
+                ],
+                [
+                    {
+                        "entity id": "Q2065483",
+                        "label": "Badger Farm"
+                    },
+                    {
+                        "entity id": "Q2077113",
+                        "label": "Hursley"
+                    },
+                    {
+                        "entity id": "Q15242520",
+                        "label": "Littleton and Harestock"
+                    },
+                    {
+                        "entity id": "Q11798039",
+                        "label": "Oliver's Battery"
+                    }
+                ]
+            ],
+            [
+                "Winchester",
+                []
+            ]
+        ],
+        [
+            [
+                "SO23",
+                []
+            ],
+            [
+                "WINCHESTER",
+                []
+            ],
+            [
+                "City Centre , Abbotts Barton , Bar End , Highcliffe , Hyde , St Cross ( E ) , Winnall",
+                [
+                    "/wiki/Abbotts_Barton",
+                    "/wiki/Bar_End",
+                    "/wiki/Winnall,_Hampshire"
+                ],
+                [
+                    {
+                        "entity id": "Q4664405",
+                        "label": "Abbotts Barton"
+                    },
+                    {
+                        "entity id": "Q4857926",
+                        "label": "Bar End"
+                    },
+                    {
+                        "entity id": "Q8025538",
+                        "label": "Winnall"
+                    }
+                ]
+            ],
+            [
+                "Winchester",
+                []
+            ]
+        ],
+        [
+            [
+                "SO24",
+                []
+            ],
+            [
+                "ALRESFORD",
+                []
+            ],
+            [
+                "New Alresford , Old Alresford , Cheriton , Tichborne , Ropley",
+                [
+                    "/wiki/New_Alresford",
+                    "/wiki/Old_Alresford",
+                    "/wiki/Cheriton,_Hampshire",
+                    "/wiki/Tichborne",
+                    "/wiki/Ropley"
+                ],
+                [
+                    {
+                        "entity id": "Q1227651",
+                        "label": "New Alresford"
+                    },
+                    {
+                        "entity id": "Q2465296",
+                        "label": "Old Alresford"
+                    },
+                    {
+                        "entity id": "Q731345",
+                        "label": "Cheriton"
+                    },
+                    {
+                        "entity id": "Q984472",
+                        "label": "Tichborne"
+                    },
+                    {
+                        "entity id": "Q1884466",
+                        "label": "Ropley"
+                    }
+                ]
+            ],
+            [
+                "Winchester",
+                []
+            ]
+        ],
+        [
+            [
+                "SO25",
+                []
+            ],
+            [
+                "WINCHESTER",
+                []
+            ],
+            [
+                "Bulk users",
+                []
+            ],
+            [
+                "non-geographic",
+                []
+            ]
+        ],
+        [
+            [
+                "SO30",
+                []
+            ],
+            [
+                "SOUTHAMPTON",
+                []
+            ],
+            [
+                "Botley , Hedge End , West End",
+                [
+                    "/wiki/Botley,_Hampshire",
+                    "/wiki/Hedge_End",
+                    "/wiki/West_End,_Hampshire"
+                ],
+                [
+                    {
+                        "entity id": "Q1241154",
+                        "label": "Botley"
+                    },
+                    {
+                        "entity id": "Q2972103",
+                        "label": "Hedge End"
+                    },
+                    {
+                        "entity id": "Q2528648",
+                        "label": "West End"
+                    }
+                ]
+            ],
+            [
+                "Eastleigh",
+                []
+            ]
+        ],
+        [
+            [
+                "SO31",
+                []
+            ],
+            [
+                "SOUTHAMPTON",
+                []
+            ],
+            [
+                "Warsash , Hamble-le-Rice , Locks Heath Netley Abbey",
+                [
+                    "/wiki/Warsash",
+                    "/wiki/Hamble-le-Rice",
+                    "/wiki/Locks_Heath",
+                    "/wiki/Netley_Abbey"
+                ],
+                [
+                    {
+                        "entity id": "Q7970877",
+                        "label": "Warsash"
+                    },
+                    {
+                        "entity id": "Q1439543",
+                        "label": "Hamble-le-Rice"
+                    },
+                    {
+                        "entity id": "Q6665797",
+                        "label": "Locks Heath"
+                    },
+                    {
+                        "entity id": "Q740418",
+                        "label": "Netley"
+                    }
+                ]
+            ],
+            [
+                "Eastleigh , Fareham",
+                [
+                    "/wiki/Borough_of_Fareham"
+                ],
+                [
+                    {
+                        "entity id": "Q894084",
+                        "label": "Fareham"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SO32",
+                []
+            ],
+            [
+                "SOUTHAMPTON",
+                []
+            ],
+            [
+                "Bishops Waltham , Corhampton , Droxford , Durley , Exton , Meonstoke , Shedfield , Soberton , Swanmore , Upham , Warnford , Wickham",
+                [
+                    "/wiki/Bishops_Waltham",
+                    "/wiki/Corhampton",
+                    "/wiki/Droxford",
+                    "/wiki/Durley",
+                    "/wiki/Exton,_Hampshire",
+                    "/wiki/Meonstoke",
+                    "/wiki/Shedfield",
+                    "/wiki/Soberton",
+                    "/wiki/Swanmore",
+                    "/wiki/Upham,_Hampshire",
+                    "/wiki/Warnford",
+                    "/wiki/Wickham,_Hampshire"
+                ],
+                [
+                    {
+                        "entity id": "Q24668688",
+                        "label": "Bishops Waltham"
+                    },
+                    {
+                        "entity id": "Q2099572",
+                        "label": "Corhampton"
+                    },
+                    {
+                        "entity id": "Q1998191",
+                        "label": "Droxford"
+                    },
+                    {
+                        "entity id": "Q5316680",
+                        "label": "Durley"
+                    },
+                    {
+                        "entity id": "Q1612911",
+                        "label": "Exton"
+                    },
+                    {
+                        "entity id": "Q1215935",
+                        "label": "Meonstoke"
+                    },
+                    {
+                        "entity id": "Q2419681",
+                        "label": "Shedfield"
+                    },
+                    {
+                        "entity id": "Q2004073",
+                        "label": "Soberton"
+                    },
+                    {
+                        "entity id": "Q2723914",
+                        "label": "Swanmore"
+                    },
+                    {
+                        "entity id": "Q255750",
+                        "label": "Upham"
+                    },
+                    {
+                        "entity id": "Q2880948",
+                        "label": "Warnford"
+                    },
+                    {
+                        "entity id": "Q642227",
+                        "label": "Wickham"
+                    }
+                ]
+            ],
+            [
+                "Eastleigh , Winchester",
+                []
+            ]
+        ],
+        [
+            [
+                "SO40",
+                []
+            ],
+            [
+                "LYNDHURST , SOUTHAMPTON",
+                []
+            ],
+            [
+                "Totton , Lyndhurst , Cadnam , Marchwood",
+                [
+                    "/wiki/Totton",
+                    "/wiki/Lyndhurst,_Hampshire",
+                    "/wiki/Cadnam",
+                    "/wiki/Marchwood"
+                ],
+                [
+                    {
+                        "entity id": "Q19966924",
+                        "label": "Totton"
+                    },
+                    {
+                        "entity id": "Q3182986",
+                        "label": "Lyndhurst"
+                    },
+                    {
+                        "entity id": "Q5016557",
+                        "label": "Cadnam"
+                    },
+                    {
+                        "entity id": "Q2025245",
+                        "label": "Marchwood"
+                    }
+                ]
+            ],
+            [
+                "New Forest",
+                [
+                    "/wiki/New_Forest_District"
+                ],
+                [
+                    {
+                        "entity id": "Q1972541",
+                        "label": "New Forest"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SO41",
+                []
+            ],
+            [
+                "LYMINGTON",
+                []
+            ],
+            [
+                "Lymington , Milford-on-Sea , Pennington , Boldre , Hordle , Sway",
+                [
+                    "/wiki/Lymington",
+                    "/wiki/Milford-on-Sea",
+                    "/wiki/Pennington,_Hampshire",
+                    "/wiki/Boldre",
+                    "/wiki/Hordle",
+                    "/wiki/Sway,_Hampshire"
+                ],
+                [
+                    {
+                        "entity id": "Q1018133",
+                        "label": "Lymington"
+                    },
+                    {
+                        "entity id": "Q24279397",
+                        "label": "Milford-on-Sea"
+                    },
+                    {},
+                    {
+                        "entity id": "Q684394",
+                        "label": "Boldre"
+                    },
+                    {
+                        "entity id": "Q2601865",
+                        "label": "Hordle"
+                    },
+                    {
+                        "entity id": "Q7654068",
+                        "label": "Sway"
+                    }
+                ]
+            ],
+            [
+                "New Forest",
+                []
+            ]
+        ],
+        [
+            [
+                "SO42",
+                []
+            ],
+            [
+                "BROCKENHURST",
+                []
+            ],
+            [
+                "Beaulieu , Brockenhurst , East Boldre",
+                [
+                    "/wiki/Beaulieu,_Hampshire",
+                    "/wiki/Brockenhurst",
+                    "/wiki/East_Boldre"
+                ],
+                [
+                    {
+                        "entity id": "Q186954",
+                        "label": "Beaulieu"
+                    },
+                    {
+                        "entity id": "Q1612283",
+                        "label": "Brockenhurst"
+                    },
+                    {
+                        "entity id": "Q5327887",
+                        "label": "East Boldre"
+                    }
+                ]
+            ],
+            [
+                "New Forest",
+                []
+            ]
+        ],
+        [
+            [
+                "SO43",
+                []
+            ],
+            [
+                "LYNDHURST",
+                []
+            ],
+            [
+                "Lyndhurst , Minstead , Bramshaw",
+                [
+                    "/wiki/Lyndhurst,_Hampshire",
+                    "/wiki/Minstead",
+                    "/wiki/Bramshaw"
+                ],
+                [
+                    {
+                        "entity id": "Q3182986",
+                        "label": "Lyndhurst"
+                    },
+                    {
+                        "entity id": "Q1961039",
+                        "label": "Minstead"
+                    },
+                    {
+                        "entity id": "Q4956282",
+                        "label": "Bramshaw"
+                    }
+                ]
+            ],
+            [
+                "New Forest",
+                []
+            ]
+        ],
+        [
+            [
+                "SO45",
+                []
+            ],
+            [
+                "SOUTHAMPTON",
+                []
+            ],
+            [
+                "Hythe , Fawley , Blackfield , Calshot , Hardley",
+                [
+                    "/wiki/Hythe,_Hampshire",
+                    "/wiki/Fawley,_Hampshire",
+                    "/wiki/Blackfield,_Hampshire",
+                    "/wiki/Calshot",
+                    "/wiki/Hardley,_Hampshire"
+                ],
+                [
+                    {
+                        "entity id": "Q5962455",
+                        "label": "Hythe"
+                    },
+                    {
+                        "entity id": "Q2749703",
+                        "label": "Fawley"
+                    },
+                    {
+                        "entity id": "Q4922839",
+                        "label": "Blackfield, Hampshire"
+                    },
+                    {
+                        "entity id": "Q5023961",
+                        "label": "Calshot"
+                    },
+                    {
+                        "entity id": "Q5656215",
+                        "label": "Hardley"
+                    }
+                ]
+            ],
+            [
+                "New Forest",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Coverage",
+    "section_text": "The approximate coverage of the postcode districts :",
+    "uid": "SO_postcode_area_0",
+    "intro": "The SO postcode area, also known as the Southampton postcode area, is a group of 23 postcode districts in England, which are subdivisions of nine post towns. These postcode districts cover south and central Hampshire, including the post towns of Southampton, Winchester, Alresford, Brockenhurst, Eastleigh, Lymington, Lyndhurst, Romsey and Stockbridge; and other towns, such as Totton, Hythe, Hedge End and Bishop's Waltham. The area originally had both single and double-digit postcode districts. From a short time after inception of postcodes in Southampton, 'large users' within the old SO1 and SO2 postcode areas (which broadly covered the area of the City) were allocated SO9 postcodes. In the early 1990s, a shortage of available postcodes occurred due to increased demand. On 1 December 1993 Royal Mail took the step of dividing all single-digit SO districts so that new, smaller SO districts could be drawn with two digits rather than one. For example, the SO1 and SO2 districts were divided into SO14-19. The Southampton postcode area is now, therefore, one of the few in the United Kingdom with no district numbered '1'."
+}

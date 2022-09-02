@@ -1,0 +1,526 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Edmonton_Metropolitan_Region",
+    "title": "List of airports in the Edmonton Metropolitan Region",
+    "header": [
+        [
+            "Airport name",
+            []
+        ],
+        [
+            "ICAO / TC LID ( IATA )",
+            [
+                "/wiki/International_Civil_Aviation_Organization_airport_code",
+                "/wiki/Transport_Canada",
+                "/wiki/Location_identifier",
+                "/wiki/International_Air_Transport_Association_airport_code"
+            ],
+            [
+                {
+                    "entity id": "Q207529",
+                    "label": "ICAO airport code"
+                },
+                {
+                    "entity id": "Q2035496",
+                    "label": "Transport Canada"
+                },
+                {
+                    "entity id": "Q28758335",
+                    "label": "location identifier"
+                },
+                {
+                    "entity id": "Q192824",
+                    "label": "IATA airport code"
+                }
+            ]
+        ],
+        [
+            "Location",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Edmonton International Airport",
+                [
+                    "/wiki/Edmonton_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q269588",
+                        "label": "Edmonton International Airport"
+                    }
+                ]
+            ],
+            [
+                "CYEG ( YEG )",
+                []
+            ],
+            [
+                "Nisku , Leduc County",
+                [
+                    "/wiki/Nisku,_Alberta",
+                    "/wiki/Leduc_County"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q6512776",
+                        "label": "Leduc County"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Edmonton/Calmar ( Maplelane Farm ) Aerodrome",
+                [
+                    "/wiki/Edmonton/Calmar_(Maplelane_Farm)_Aerodrome"
+                ],
+                [
+                    {
+                        "entity id": "Q5339004",
+                        "label": "Edmonton/Calmar (Maplelane Farm) Aerodrome"
+                    }
+                ]
+            ],
+            [
+                "CMF2",
+                []
+            ],
+            [
+                "Maplelane farm , ( Calmar , ) Leduc County",
+                [
+                    "/wiki/Calmar,_Alberta",
+                    "/wiki/Leduc_County"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q6512776",
+                        "label": "Leduc County"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Edmonton/Cooking Lake Airport",
+                [
+                    "/wiki/Edmonton/Cooking_Lake_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3915638",
+                        "label": "Edmonton/Cooking Lake Airport"
+                    }
+                ]
+            ],
+            [
+                "CEZ3",
+                []
+            ],
+            [
+                "South Cooking Lake , Strathcona County",
+                [
+                    "/wiki/South_Cooking_Lake,_Alberta",
+                    "/wiki/Strathcona_County"
+                ],
+                [
+                    {
+                        "entity id": "Q7566894",
+                        "label": "South Cooking Lake, Alberta"
+                    },
+                    {
+                        "entity id": "Q1768240",
+                        "label": "Strathcona County"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Edmonton/Gartner Airport",
+                [
+                    "/wiki/Edmonton/Gartner_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3915456",
+                        "label": "Edmonton/Gartner Airport"
+                    }
+                ]
+            ],
+            [
+                "CFQ7",
+                []
+            ],
+            [
+                "Gartner farm , ( Rolly View , ) Leduc County",
+                [
+                    "/wiki/Rolly_View,_Alberta",
+                    "/wiki/Leduc_County"
+                ],
+                [
+                    {
+                        "entity id": "Q7361379",
+                        "label": "Rolly View, Alberta"
+                    },
+                    {
+                        "entity id": "Q6512776",
+                        "label": "Leduc County"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Edmonton/Josephburg Aerodrome",
+                [
+                    "/wiki/Edmonton/Josephburg_Aerodrome"
+                ],
+                [
+                    {
+                        "entity id": "Q3915661",
+                        "label": "Edmonton/Josephburg Aerodrome"
+                    }
+                ]
+            ],
+            [
+                "CFB6",
+                []
+            ],
+            [
+                "( Josephburg , ) Strathcona County",
+                [
+                    "/wiki/Josephburg,_Alberta",
+                    "/wiki/Strathcona_County"
+                ],
+                [
+                    {
+                        "entity id": "Q6288281",
+                        "label": "Josephburg, Alberta"
+                    },
+                    {
+                        "entity id": "Q1768240",
+                        "label": "Strathcona County"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Edmonton/Lechelt Field Aerodrome",
+                [
+                    "/wiki/Edmonton/Lechelt_Field_Aerodrome"
+                ],
+                [
+                    {
+                        "entity id": "Q5339006",
+                        "label": "Edmonton/Lechelt Field Aerodrome"
+                    }
+                ]
+            ],
+            [
+                "CGF2",
+                []
+            ],
+            [
+                "Lechelt farm , ( Ardrossan , ) Strathcona County",
+                [
+                    "/wiki/Ardrossan,_Alberta",
+                    "/wiki/Strathcona_County"
+                ],
+                [
+                    {
+                        "entity id": "Q4788262",
+                        "label": "Ardrossan"
+                    },
+                    {
+                        "entity id": "Q1768240",
+                        "label": "Strathcona County"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Edmonton/Morinville ( Currie Field ) Aerodrome",
+                [
+                    "/wiki/Edmonton/Morinville_(Currie_Field)_Aerodrome"
+                ],
+                [
+                    {
+                        "entity id": "Q11877491",
+                        "label": "Edmonton/Morinville (Currie Field) Aerodrome"
+                    }
+                ]
+            ],
+            [
+                "CCF6",
+                []
+            ],
+            [
+                "Currie farm , ( Morinville , ) Sturgeon County",
+                [
+                    "/wiki/Morinville",
+                    "/wiki/Sturgeon_County"
+                ],
+                [
+                    {
+                        "entity id": "Q1746026",
+                        "label": "Morinville"
+                    },
+                    {
+                        "entity id": "Q7628998",
+                        "label": "Sturgeon County"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Edmonton/Morinville ( Mike 's Field ) Aerodrome",
+                [
+                    "/wiki/Edmonton/Morinville_(Mike's_Field)_Aerodrome"
+                ],
+                [
+                    {
+                        "entity id": "Q13099462",
+                        "label": "Edmonton/Morinville (Mike's Field) Aerodrome"
+                    }
+                ]
+            ],
+            [
+                "CMN6",
+                []
+            ],
+            [
+                "Poworoznik farm , ( Morinville , ) Sturgeon County",
+                [
+                    "/wiki/Morinville",
+                    "/wiki/Sturgeon_County"
+                ],
+                [
+                    {
+                        "entity id": "Q1746026",
+                        "label": "Morinville"
+                    },
+                    {
+                        "entity id": "Q7628998",
+                        "label": "Sturgeon County"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Parkland Airport",
+                [
+                    "/wiki/Parkland_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q16896423",
+                        "label": "Parkland Airport"
+                    }
+                ]
+            ],
+            [
+                "CPL6",
+                []
+            ],
+            [
+                "( Enoch Cree Nation 135 , ) Parkland County",
+                [
+                    "/wiki/Enoch_Cree_Nation_135",
+                    "/wiki/Parkland_County"
+                ],
+                [
+                    {
+                        "entity id": "Q7619585",
+                        "label": "Enoch Cree Nation 135"
+                    },
+                    {
+                        "entity id": "Q7138563",
+                        "label": "Parkland County"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Edmonton/Twin Island Airpark",
+                [
+                    "/wiki/Edmonton/Twin_Island_Airpark"
+                ],
+                [
+                    {
+                        "entity id": "Q3915296",
+                        "label": "Edmonton/Twin Island Airpark"
+                    }
+                ]
+            ],
+            [
+                "CEE6",
+                []
+            ],
+            [
+                "Twin Island Air Park , Strathcona County",
+                [
+                    "/wiki/Strathcona_County"
+                ],
+                [
+                    {
+                        "entity id": "Q1768240",
+                        "label": "Strathcona County"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Edmonton/Villeneuve Airport",
+                [
+                    "/wiki/Edmonton/Villeneuve_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3914957",
+                        "label": "Edmonton/Villeneuve Airport"
+                    }
+                ]
+            ],
+            [
+                "CZVL",
+                []
+            ],
+            [
+                "( Villeneuve , ) Sturgeon County",
+                [
+                    "/wiki/Villeneuve,_Alberta",
+                    "/wiki/Sturgeon_County"
+                ],
+                [
+                    {
+                        "entity id": "Q7931051",
+                        "label": "Villeneuve, Alberta"
+                    },
+                    {
+                        "entity id": "Q7628998",
+                        "label": "Sturgeon County"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Edmonton/Villeneuve ( Rose Field ) Aerodrome",
+                [
+                    "/wiki/Edmonton/Villeneuve_(Rose_Field)_Aerodrome"
+                ],
+                [
+                    {
+                        "entity id": "Q5339007",
+                        "label": "Edmonton/Villeneuve (Rose Field) Aerodrome"
+                    }
+                ]
+            ],
+            [
+                "CRF3",
+                []
+            ],
+            [
+                "Rose farm , ( Villeneuve , ) Sturgeon County",
+                [
+                    "/wiki/Villeneuve,_Alberta",
+                    "/wiki/Sturgeon_County"
+                ],
+                [
+                    {
+                        "entity id": "Q7931051",
+                        "label": "Villeneuve, Alberta"
+                    },
+                    {
+                        "entity id": "Q7628998",
+                        "label": "Sturgeon County"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Stony Plain ( Lichtner Farms ) Airport",
+                [
+                    "/wiki/Stony_Plain_(Lichtner_Farms)_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3912542",
+                        "label": "Stony Plain (Lichtner Farms) Airport"
+                    }
+                ]
+            ],
+            [
+                "CSP3",
+                []
+            ],
+            [
+                "Lichtner farm , ( Stony Plain , ) Parkland County",
+                [
+                    "/wiki/Stony_Plain,_Alberta",
+                    "/wiki/Parkland_County"
+                ],
+                [
+                    {
+                        "entity id": "Q1744021",
+                        "label": "Stony Plain"
+                    },
+                    {
+                        "entity id": "Q7138563",
+                        "label": "Parkland County"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Warburg/Zajes Airport",
+                [
+                    "/wiki/Warburg/Zajes_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3912702",
+                        "label": "Warburg/Zajes Airport"
+                    }
+                ]
+            ],
+            [
+                "CFH8",
+                []
+            ],
+            [
+                "Zajes farm , ( Warburg , ) Leduc County",
+                [
+                    "/wiki/Warburg,_Alberta",
+                    "/wiki/Leduc_County"
+                ],
+                [
+                    {
+                        "entity id": "Q981",
+                        "label": "Warburg"
+                    },
+                    {
+                        "entity id": "Q6512776",
+                        "label": "Leduc County"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "",
+    "section_text": "Map all coordinates using : OpenStreetMap Download coordinates as : KML \u00b7 GPX The following active airports serve the Edmonton Metropolitan Region in Alberta , Canada :",
+    "uid": "List_of_airports_in_the_Edmonton_area_0",
+    "intro": "The following active airports serve the Edmonton Metropolitan Region in Alberta, Canada:\n Communities in parentheses () indicates the airport is not in a community."
+}

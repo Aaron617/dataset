@@ -1,0 +1,683 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Active_Gaming_Media",
+    "title": "Active Gaming Media",
+    "header": [
+        [
+            "Game Title",
+            []
+        ],
+        [
+            "Platform",
+            []
+        ],
+        [
+            "Source Language",
+            []
+        ],
+        [
+            "Target Language",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1112 episode 3",
+                []
+            ],
+            [
+                "iOS",
+                [
+                    "/wiki/IOS"
+                ],
+                [
+                    {
+                        "entity id": "Q48493",
+                        "label": "iOS"
+                    }
+                ]
+            ],
+            [
+                "French",
+                []
+            ],
+            [
+                "English , Italian , German , Spanish",
+                []
+            ]
+        ],
+        [
+            [
+                "2020 : My Country",
+                []
+            ],
+            [
+                "Facebook",
+                [
+                    "/wiki/Facebook"
+                ],
+                [
+                    {
+                        "entity id": "Q355",
+                        "label": "Facebook"
+                    }
+                ]
+            ],
+            [
+                "English",
+                []
+            ],
+            [
+                "Japanese , Korean , Chinese",
+                []
+            ]
+        ],
+        [
+            [
+                "Age of Champions",
+                []
+            ],
+            [
+                "Facebook",
+                [
+                    "/wiki/Facebook"
+                ],
+                [
+                    {
+                        "entity id": "Q355",
+                        "label": "Facebook"
+                    }
+                ]
+            ],
+            [
+                "Japanese",
+                []
+            ],
+            [
+                "English , German , Spanish , French",
+                []
+            ]
+        ],
+        [
+            [
+                "Alan Wake",
+                [
+                    "/wiki/Alan_Wake"
+                ],
+                [
+                    {
+                        "entity id": "Q575505",
+                        "label": "Alan Wake"
+                    }
+                ]
+            ],
+            [
+                "Xbox 360",
+                [
+                    "/wiki/Xbox_360"
+                ],
+                [
+                    {
+                        "entity id": "Q48263",
+                        "label": "Xbox 360"
+                    }
+                ]
+            ],
+            [
+                "Korean , Taiwanese",
+                []
+            ],
+            [
+                "Korean , Taiwanese",
+                []
+            ]
+        ],
+        [
+            [
+                "CityVille",
+                [
+                    "/wiki/CityVille"
+                ],
+                [
+                    {
+                        "entity id": "Q76794",
+                        "label": "CityVille"
+                    }
+                ]
+            ],
+            [
+                "Facebook",
+                [
+                    "/wiki/Facebook"
+                ],
+                [
+                    {
+                        "entity id": "Q355",
+                        "label": "Facebook"
+                    }
+                ]
+            ],
+            [
+                "English",
+                []
+            ],
+            [
+                "Japanese",
+                []
+            ]
+        ],
+        [
+            [
+                "CastleVille",
+                [
+                    "/wiki/CastleVille"
+                ],
+                [
+                    {
+                        "entity id": "Q2256724",
+                        "label": "CastleVille"
+                    }
+                ]
+            ],
+            [
+                "Facebook",
+                [
+                    "/wiki/Facebook"
+                ],
+                [
+                    {
+                        "entity id": "Q355",
+                        "label": "Facebook"
+                    }
+                ]
+            ],
+            [
+                "English",
+                []
+            ],
+            [
+                "Japanese",
+                []
+            ]
+        ],
+        [
+            [
+                "Deadfall Adventures",
+                [
+                    "/wiki/Deadfall_Adventures"
+                ],
+                [
+                    {
+                        "entity id": "Q16259412",
+                        "label": "Deadfall Adventures"
+                    }
+                ]
+            ],
+            [
+                "Xbox 360",
+                [
+                    "/wiki/Xbox_360"
+                ],
+                [
+                    {
+                        "entity id": "Q48263",
+                        "label": "Xbox 360"
+                    }
+                ]
+            ],
+            [
+                "English",
+                []
+            ],
+            [
+                "Japanese",
+                []
+            ]
+        ],
+        [
+            [
+                "Dear Esther",
+                [
+                    "/wiki/Dear_Esther"
+                ],
+                [
+                    {
+                        "entity id": "Q1583764",
+                        "label": "Dear Esther"
+                    }
+                ]
+            ],
+            [
+                "PC",
+                [
+                    "/wiki/Personal_computer"
+                ],
+                [
+                    {
+                        "entity id": "Q16338",
+                        "label": "personal computer"
+                    }
+                ]
+            ],
+            [
+                "English",
+                []
+            ],
+            [
+                "Japanese",
+                []
+            ]
+        ],
+        [
+            [
+                "Demon 's Souls",
+                [
+                    "/wiki/Demon's_Souls"
+                ],
+                [
+                    {
+                        "entity id": "Q1153708",
+                        "label": "Demon's Souls"
+                    }
+                ]
+            ],
+            [
+                "PlayStation 3",
+                [
+                    "/wiki/PlayStation_3"
+                ],
+                [
+                    {
+                        "entity id": "Q10683",
+                        "label": "PlayStation 3"
+                    }
+                ]
+            ],
+            [
+                "Japanese",
+                []
+            ],
+            [
+                "English",
+                []
+            ]
+        ],
+        [
+            [
+                "Eufloria",
+                [
+                    "/wiki/Eufloria"
+                ],
+                [
+                    {
+                        "entity id": "Q2662584",
+                        "label": "Eufloria"
+                    }
+                ]
+            ],
+            [
+                "PC / PlayStation 3 / PS Vita",
+                [
+                    "/wiki/Personal_computer",
+                    "/wiki/PlayStation_3",
+                    "/wiki/PS_Vita"
+                ],
+                [
+                    {
+                        "entity id": "Q16338",
+                        "label": "personal computer"
+                    },
+                    {
+                        "entity id": "Q10683",
+                        "label": "PlayStation 3"
+                    },
+                    {
+                        "entity id": "Q188808",
+                        "label": "PlayStation Vita"
+                    }
+                ]
+            ],
+            [
+                "English",
+                []
+            ],
+            [
+                "Japanese",
+                []
+            ]
+        ],
+        [
+            [
+                "Gran Turismo PSP",
+                [
+                    "/wiki/Gran_Turismo_PSP"
+                ],
+                [
+                    {
+                        "entity id": "Q1152420",
+                        "label": "Gran Turismo"
+                    }
+                ]
+            ],
+            [
+                "PlayStation Portable",
+                [
+                    "/wiki/PlayStation_Portable"
+                ],
+                [
+                    {
+                        "entity id": "Q170325",
+                        "label": "PlayStation Portable"
+                    }
+                ]
+            ],
+            [
+                "Japanese",
+                []
+            ],
+            [
+                "English",
+                []
+            ]
+        ],
+        [
+            [
+                "Great Edo of Nippon",
+                []
+            ],
+            [
+                "PlayStation 3",
+                [
+                    "/wiki/PlayStation_3"
+                ],
+                [
+                    {
+                        "entity id": "Q10683",
+                        "label": "PlayStation 3"
+                    }
+                ]
+            ],
+            [
+                "Japanese",
+                []
+            ],
+            [
+                "French , Spanish , Italian , German",
+                []
+            ]
+        ],
+        [
+            [
+                "Half-Minute Hero",
+                [
+                    "/wiki/Half-Minute_Hero"
+                ],
+                [
+                    {
+                        "entity id": "Q4040359",
+                        "label": "Half-Minute Hero"
+                    }
+                ]
+            ],
+            [
+                "Wii",
+                [
+                    "/wiki/Wii"
+                ],
+                [
+                    {
+                        "entity id": "Q8079",
+                        "label": "Wii"
+                    }
+                ]
+            ],
+            [
+                "Japanese",
+                []
+            ],
+            [
+                "French , Spanish , Italian , German , English",
+                []
+            ]
+        ],
+        [
+            [
+                "Harvest Moon : Tree of Tranquility",
+                [
+                    "/wiki/Harvest_Moon:_Tree_of_Tranquility"
+                ],
+                [
+                    {
+                        "entity id": "Q2700360",
+                        "label": "Harvest Moon: Tree of Tranquility"
+                    }
+                ]
+            ],
+            [
+                "Wii",
+                [
+                    "/wiki/Wii"
+                ],
+                [
+                    {
+                        "entity id": "Q8079",
+                        "label": "Wii"
+                    }
+                ]
+            ],
+            [
+                "English",
+                []
+            ],
+            [
+                "French , Spanish , Italian , German",
+                []
+            ]
+        ],
+        [
+            [
+                "Hidden Chronicles",
+                [
+                    "/wiki/Hidden_Chronicles"
+                ],
+                [
+                    {
+                        "entity id": "Q5751752",
+                        "label": "Hidden Chronicles"
+                    }
+                ]
+            ],
+            [
+                "Facebook",
+                [
+                    "/wiki/Facebook"
+                ],
+                [
+                    {
+                        "entity id": "Q355",
+                        "label": "Facebook"
+                    }
+                ]
+            ],
+            [
+                "English",
+                []
+            ],
+            [
+                "Japanese",
+                []
+            ]
+        ],
+        [
+            [
+                "Joe Danger",
+                [
+                    "/wiki/Joe_Danger"
+                ],
+                [
+                    {
+                        "entity id": "Q3808648",
+                        "label": "Joe Danger"
+                    }
+                ]
+            ],
+            [
+                "PlayStation 3",
+                [
+                    "/wiki/PlayStation_3"
+                ],
+                [
+                    {
+                        "entity id": "Q10683",
+                        "label": "PlayStation 3"
+                    }
+                ]
+            ],
+            [
+                "English",
+                []
+            ],
+            [
+                "Japanese",
+                []
+            ]
+        ],
+        [
+            [
+                "Kingdom Conquest",
+                [
+                    "/wiki/Kingdom_Conquest"
+                ],
+                [
+                    {
+                        "entity id": "Q6412492",
+                        "label": "Kingdom Conquest"
+                    }
+                ]
+            ],
+            [
+                "iOS",
+                [
+                    "/wiki/IOS"
+                ],
+                [
+                    {
+                        "entity id": "Q48493",
+                        "label": "iOS"
+                    }
+                ]
+            ],
+            [
+                "Japanese",
+                []
+            ],
+            [
+                "English , French , German , Spanish , Chinese , Korean",
+                []
+            ]
+        ],
+        [
+            [
+                "Kingdom Conquest 2",
+                []
+            ],
+            [
+                "iOS",
+                [
+                    "/wiki/IOS"
+                ],
+                [
+                    {
+                        "entity id": "Q48493",
+                        "label": "iOS"
+                    }
+                ]
+            ],
+            [
+                "Japanese",
+                []
+            ],
+            [
+                "English , French , German , Spanish , Portuguese , Chinese , Korean",
+                []
+            ]
+        ],
+        [
+            [
+                "King of Fighters XIII",
+                [
+                    "/wiki/King_of_Fighters_XIII"
+                ],
+                [
+                    {
+                        "entity id": "Q1206683",
+                        "label": "The King of Fighters XIII"
+                    }
+                ]
+            ],
+            [
+                "Xbox 360 / PlayStation 3",
+                [
+                    "/wiki/Xbox_360",
+                    "/wiki/PlayStation_3"
+                ],
+                [
+                    {
+                        "entity id": "Q48263",
+                        "label": "Xbox 360"
+                    },
+                    {
+                        "entity id": "Q10683",
+                        "label": "PlayStation 3"
+                    }
+                ]
+            ],
+            [
+                "Japanese",
+                []
+            ],
+            [
+                "English , French , Spanish , Italian , German , Korean , Chinese",
+                []
+            ]
+        ],
+        [
+            [
+                "Deca Sports Extreme",
+                [
+                    "/wiki/Deca_Sports_Extreme"
+                ],
+                [
+                    {
+                        "entity id": "Q5248674",
+                        "label": "Deca Sports Extreme"
+                    }
+                ]
+            ],
+            [
+                "3DS",
+                [
+                    "/wiki/Nintendo_3DS"
+                ],
+                [
+                    {
+                        "entity id": "Q203597",
+                        "label": "Nintendo 3DS"
+                    }
+                ]
+            ],
+            [
+                "Japanese",
+                []
+            ],
+            [
+                "English , French , Spanish , Italian , German",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Completed projects",
+    "section_text": "Over the past five years , AGM has translated more than 300 games titles for six different platforms into nine languages . [ 10 ]",
+    "uid": "Active_Gaming_Media_0",
+    "intro": "Active Gaming Media Inc. (AGM) is a localization company based in Osaka, Japan. Founded in 2008 by CEO Ibai Ameztoy, the company's main focus lies in providing localization services for video games. AGM has since branched out to provide services such as game debugging, marketing, promotion, voice acting, and publishing for games and anime. Having worked on a number of titles for various platforms including PlayStation 3, PS Vita, PC, as well as online and mobile games, AGM has collaborated with a number of major Japanese video game companies, including Sony Corporation, Grasshopper Manufacture and Capcom. Notable titles are Demons Souls, No More Heroes, Monster Hunter, the survival-horror series Resident Evil, and the Devil May Cry series. In May 2011, AGM launched the Japan-based version of the Playism website, an indie game distribution platform. With the aim of introducing Western indie games to Japan, Playism started off by distributing localized versions of Machinarium and SpaceChem. Aside from being a distribution platform, Playism offers indie game funding, localization, and publishing services for indie game developers. Along with the English release of Nigoros archaeological platformer La-Mulana, Playism launched the English version of the Playism store in July 2012. In addition to both paid and free indie games, Playism also offers a Pay what you want system for some of its titles. The platform adapts a concept similar to Steam."
+}

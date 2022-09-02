@@ -1,0 +1,559 @@
+{
+    "url": "https://en.wikipedia.org/wiki/County_of_Bowen",
+    "title": "County of Bowen",
+    "header": [
+        [
+            "Parish",
+            []
+        ],
+        [
+            "LGA",
+            []
+        ],
+        [
+            "Towns",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Binjour",
+                []
+            ],
+            [
+                "North Burnett",
+                [
+                    "/wiki/North_Burnett_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1069375",
+                        "label": "North Burnett Region"
+                    }
+                ]
+            ],
+            [
+                "Binjour",
+                [
+                    "/wiki/Binjour,_Queensland"
+                ],
+                [
+                    {
+                        "entity id": "Q30913313",
+                        "label": "Binjour"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Boolbunda",
+                []
+            ],
+            [
+                "Bundaberg",
+                [
+                    "/wiki/Bundaberg_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1005343",
+                        "label": "Bundaberg Region"
+                    }
+                ]
+            ],
+            [
+                "Boolboonda",
+                [
+                    "/wiki/Boolboonda,_Queensland"
+                ],
+                [
+                    {
+                        "entity id": "Q24189310",
+                        "label": "Boolboonda"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Chin Chin",
+                []
+            ],
+            [
+                "North Burnett",
+                [
+                    "/wiki/North_Burnett_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1069375",
+                        "label": "North Burnett Region"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Gin Gin",
+                []
+            ],
+            [
+                "Bundaberg",
+                [
+                    "/wiki/Bundaberg_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1005343",
+                        "label": "Bundaberg Region"
+                    }
+                ]
+            ],
+            [
+                "Gin Gin , Bullyard , Tirroan",
+                [
+                    "/wiki/Gin_Gin,_Queensland",
+                    "/wiki/Bullyard,_Queensland",
+                    "/wiki/Tirroan,_Queensland"
+                ],
+                [
+                    {
+                        "entity id": "Q3106686",
+                        "label": "Gin Gin"
+                    },
+                    {
+                        "entity id": "Q4997100",
+                        "label": "Bullyard"
+                    },
+                    {
+                        "entity id": "Q21900730",
+                        "label": "Tirroan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Grosvenor",
+                []
+            ],
+            [
+                "North Burnett",
+                [
+                    "/wiki/North_Burnett_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1069375",
+                        "label": "North Burnett Region"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Joanborough",
+                []
+            ],
+            [
+                "Bundaberg",
+                [
+                    "/wiki/Bundaberg_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1005343",
+                        "label": "Bundaberg Region"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Jonday",
+                []
+            ],
+            [
+                "North Burnett",
+                [
+                    "/wiki/North_Burnett_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1069375",
+                        "label": "North Burnett Region"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Kolonga",
+                []
+            ],
+            [
+                "Bundaberg",
+                [
+                    "/wiki/Bundaberg_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1005343",
+                        "label": "Bundaberg Region"
+                    }
+                ]
+            ],
+            [
+                "Kolonga",
+                [
+                    "/wiki/Kolonga,_Queensland"
+                ],
+                [
+                    {
+                        "entity id": "Q55771981",
+                        "label": "Kolonga"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mingo",
+                []
+            ],
+            [
+                "North Burnett",
+                [
+                    "/wiki/North_Burnett_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1069375",
+                        "label": "North Burnett Region"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Monduran",
+                []
+            ],
+            [
+                "Bundaberg",
+                [
+                    "/wiki/Bundaberg_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1005343",
+                        "label": "Bundaberg Region"
+                    }
+                ]
+            ],
+            [
+                "Monduran",
+                [
+                    "/wiki/Monduran,_Queensland"
+                ],
+                [
+                    {
+                        "entity id": "Q55453348",
+                        "label": "Monduran"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Moolboolaman",
+                []
+            ],
+            [
+                "Bundaberg",
+                [
+                    "/wiki/Bundaberg_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1005343",
+                        "label": "Bundaberg Region"
+                    }
+                ]
+            ],
+            [
+                "Moolboolaman",
+                [
+                    "/wiki/Moolboolaman,_Queensland"
+                ],
+                [
+                    {
+                        "entity id": "Q31047705",
+                        "label": "Moolboolaman"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mount Perry",
+                []
+            ],
+            [
+                "North Burnett",
+                [
+                    "/wiki/North_Burnett_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1069375",
+                        "label": "North Burnett Region"
+                    }
+                ]
+            ],
+            [
+                "Mount Perry",
+                [
+                    "/wiki/Mount_Perry,_Queensland"
+                ],
+                [
+                    {
+                        "entity id": "Q6922714",
+                        "label": "Mount Perry"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "St Agnes",
+                []
+            ],
+            [
+                "Bundaberg",
+                [
+                    "/wiki/Bundaberg_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1005343",
+                        "label": "Bundaberg Region"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Tarrara",
+                []
+            ],
+            [
+                "North Burnett",
+                [
+                    "/wiki/North_Burnett_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1069375",
+                        "label": "North Burnett Region"
+                    }
+                ]
+            ],
+            [
+                "Yenda",
+                [
+                    "/wiki/Yenda,_Queensland"
+                ],
+                [
+                    {
+                        "entity id": "Q55808005",
+                        "label": "Yenda"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Taughboyne",
+                []
+            ],
+            [
+                "North Burnett",
+                [
+                    "/wiki/North_Burnett_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1069375",
+                        "label": "North Burnett Region"
+                    }
+                ]
+            ],
+            [
+                "Gayndah ( N ) , Ideraway",
+                [
+                    "/wiki/Gayndah,_Queensland",
+                    "/wiki/Ideraway,_Queensland"
+                ],
+                [
+                    {
+                        "entity id": "Q180757",
+                        "label": "Gayndah"
+                    },
+                    {
+                        "entity id": "Q14935444",
+                        "label": "Ideraway"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Toweran",
+                []
+            ],
+            [
+                "Gladstone",
+                [
+                    "/wiki/Gladstone_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q925987",
+                        "label": "Gladstone Region"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Walla",
+                []
+            ],
+            [
+                "Bundaberg",
+                [
+                    "/wiki/Bundaberg_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1005343",
+                        "label": "Bundaberg Region"
+                    }
+                ]
+            ],
+            [
+                "Wallaville",
+                [
+                    "/wiki/Wallaville,_Queensland"
+                ],
+                [
+                    {
+                        "entity id": "Q7962994",
+                        "label": "Wallaville"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Wateranga",
+                []
+            ],
+            [
+                "North Burnett",
+                [
+                    "/wiki/North_Burnett_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1069375",
+                        "label": "North Burnett Region"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Wetheron",
+                []
+            ],
+            [
+                "North Burnett",
+                [
+                    "/wiki/North_Burnett_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1069375",
+                        "label": "North Burnett Region"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Wolca",
+                []
+            ],
+            [
+                "North Burnett",
+                [
+                    "/wiki/North_Burnett_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1069375",
+                        "label": "North Burnett Region"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Parishes",
+    "section_text": "Bowen is divided into parishes , as listed below :",
+    "uid": "County_of_Bowen_0",
+    "intro": "The County of Bowen is a county (a cadastral division) in Queensland, Australia, located in the Wide Bay-Burnett region to the west of Bundaberg. It was named in honour of Sir George Ferguson Bowen, the first Governor of Queensland. On 7 March 1901, the Governor issued a proclamation legally dividing Queensland into counties under the Land Act 1897. Its schedule described Bowen thus:"
+}

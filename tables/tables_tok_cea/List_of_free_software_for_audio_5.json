@@ -1,0 +1,835 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio",
+    "title": "Comparison of free software for audio",
+    "header": [
+        [
+            "Component",
+            []
+        ],
+        [
+            "GUI",
+            []
+        ],
+        [
+            "Programming language",
+            []
+        ],
+        [
+            "Database",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Amarok",
+                [
+                    "/wiki/Amarok_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Qt",
+                [
+                    "/wiki/Qt_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "C++",
+                [
+                    "/wiki/C++"
+                ],
+                [
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    }
+                ]
+            ],
+            [
+                "MySQL",
+                [
+                    "/wiki/MySQL"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "aTunes",
+                [
+                    "/wiki/ATunes"
+                ],
+                [
+                    {
+                        "entity id": "Q286637",
+                        "label": "aTunes"
+                    }
+                ]
+            ],
+            [
+                "Swing_ ( Java )",
+                [
+                    "/wiki/Swing_(Java)"
+                ],
+                [
+                    {
+                        "entity id": "Q859221",
+                        "label": "Swing"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Aqualung",
+                [
+                    "/wiki/Aqualung_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "GTK+",
+                [
+                    "/wiki/GTK+"
+                ],
+                [
+                    {
+                        "entity id": "Q189464",
+                        "label": "GTK"
+                    }
+                ]
+            ],
+            [
+                "C",
+                [
+                    "/wiki/C_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "no database",
+                []
+            ]
+        ],
+        [
+            [
+                "Audacious",
+                [
+                    "/wiki/Audacious_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "GTK+ / Qt",
+                [
+                    "/wiki/GTK+",
+                    "/wiki/Qt_(software)"
+                ],
+                [
+                    {
+                        "entity id": "Q189464",
+                        "label": "GTK"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "C",
+                [
+                    "/wiki/C_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "no database",
+                []
+            ]
+        ],
+        [
+            [
+                "Banshee",
+                [
+                    "/wiki/Banshee_(media_player)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "GTK+",
+                [
+                    "/wiki/GTK+"
+                ],
+                [
+                    {
+                        "entity id": "Q189464",
+                        "label": "GTK"
+                    }
+                ]
+            ],
+            [
+                "C #",
+                [
+                    "/wiki/C_Sharp_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "SQLite",
+                [
+                    "/wiki/SQLite"
+                ],
+                [
+                    {
+                        "entity id": "Q319417",
+                        "label": "SQLite"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Clementine",
+                [
+                    "/wiki/Clementine_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Qt",
+                [
+                    "/wiki/Qt_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "C++",
+                [
+                    "/wiki/C++"
+                ],
+                [
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    }
+                ]
+            ],
+            [
+                "SQLite3",
+                [
+                    "/wiki/SQLite3"
+                ],
+                [
+                    {
+                        "entity id": "Q319417",
+                        "label": "SQLite"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Exaile",
+                [
+                    "/wiki/Exaile"
+                ],
+                [
+                    {
+                        "entity id": "Q947786",
+                        "label": "Exaile"
+                    }
+                ]
+            ],
+            [
+                "GTK+",
+                [
+                    "/wiki/GTK+"
+                ],
+                [
+                    {
+                        "entity id": "Q189464",
+                        "label": "GTK"
+                    }
+                ]
+            ],
+            [
+                "Python",
+                [
+                    "/wiki/Python_(programming_language)"
+                ],
+                [
+                    {
+                        "entity id": "Q28865",
+                        "label": "Python"
+                    }
+                ]
+            ],
+            [
+                "Pickle",
+                [
+                    "/wiki/Pickle_(Python)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Guayadeque",
+                [
+                    "/wiki/Guayadeque_Music_Player"
+                ],
+                [
+                    {
+                        "entity id": "Q14943874",
+                        "label": "Guayadeque Music Player"
+                    }
+                ]
+            ],
+            [
+                "wxWidgets",
+                [
+                    "/wiki/WxWidgets"
+                ],
+                [
+                    {
+                        "entity id": "Q284982",
+                        "label": "wxWidgets"
+                    }
+                ]
+            ],
+            [
+                "C++ , C",
+                [
+                    "/wiki/C++",
+                    "/wiki/C_(programming_language)"
+                ],
+                [
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "SQLite3",
+                [
+                    "/wiki/SQLite3"
+                ],
+                [
+                    {
+                        "entity id": "Q319417",
+                        "label": "SQLite"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "JuK",
+                [
+                    "/wiki/JuK"
+                ],
+                [
+                    {
+                        "entity id": "Q878624",
+                        "label": "congee"
+                    }
+                ]
+            ],
+            [
+                "Qt",
+                [
+                    "/wiki/Qt_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "C++",
+                [
+                    "/wiki/C++"
+                ],
+                [
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Miro",
+                [
+                    "/wiki/Miro_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "WebKit in GTK+/ Cocoa",
+                [
+                    "/wiki/WebKit",
+                    "/wiki/Cocoa_(API)"
+                ],
+                [
+                    {
+                        "entity id": "Q654034",
+                        "label": "WebKit"
+                    },
+                    {
+                        "entity id": "Q1051988",
+                        "label": "Cocoa"
+                    }
+                ]
+            ],
+            [
+                "Python",
+                [
+                    "/wiki/Python_(programming_language)"
+                ],
+                [
+                    {
+                        "entity id": "Q28865",
+                        "label": "Python"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ]
+        ],
+        [
+            [
+                "Muine",
+                [
+                    "/wiki/Muine"
+                ],
+                [
+                    {
+                        "entity id": "Q3327542",
+                        "label": "Muine"
+                    }
+                ]
+            ],
+            [
+                "Mono",
+                [
+                    "/wiki/Mono_(software)"
+                ],
+                [
+                    {
+                        "entity id": "Q722656",
+                        "label": "Mono"
+                    }
+                ]
+            ],
+            [
+                "C #",
+                [
+                    "/wiki/C_Sharp_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "no database",
+                []
+            ]
+        ],
+        [
+            [
+                "Nightingale",
+                [
+                    "/wiki/Nightingale_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "XULRunner",
+                [
+                    "/wiki/XULRunner"
+                ],
+                [
+                    {
+                        "entity id": "Q947284",
+                        "label": "XULRunner"
+                    }
+                ]
+            ],
+            [
+                "C++",
+                [
+                    "/wiki/C++"
+                ],
+                [
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    }
+                ]
+            ],
+            [
+                "SQLite ?",
+                [
+                    "/wiki/SQLite"
+                ],
+                [
+                    {
+                        "entity id": "Q319417",
+                        "label": "SQLite"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Quod Libet",
+                [
+                    "/wiki/Quod_Libet_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "GTK+",
+                [
+                    "/wiki/GTK+"
+                ],
+                [
+                    {
+                        "entity id": "Q189464",
+                        "label": "GTK"
+                    }
+                ]
+            ],
+            [
+                "Python",
+                [
+                    "/wiki/Python_(programming_language)"
+                ],
+                [
+                    {
+                        "entity id": "Q28865",
+                        "label": "Python"
+                    }
+                ]
+            ],
+            [
+                "Pickle",
+                [
+                    "/wiki/Pickle_(Python)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "qmmp",
+                [
+                    "/wiki/Qmmp"
+                ],
+                [
+                    {
+                        "entity id": "Q14943878",
+                        "label": "qmmp"
+                    }
+                ]
+            ],
+            [
+                "Qt",
+                [
+                    "/wiki/Qt_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "C++",
+                [
+                    "/wiki/C++"
+                ],
+                [
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    }
+                ]
+            ],
+            [
+                "no database",
+                []
+            ]
+        ],
+        [
+            [
+                "Rhythmbox",
+                [
+                    "/wiki/Rhythmbox"
+                ],
+                [
+                    {
+                        "entity id": "Q319897",
+                        "label": "Rhythmbox"
+                    }
+                ]
+            ],
+            [
+                "GTK+",
+                [
+                    "/wiki/GTK+"
+                ],
+                [
+                    {
+                        "entity id": "Q189464",
+                        "label": "GTK"
+                    }
+                ]
+            ],
+            [
+                "C",
+                [
+                    "/wiki/C_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Songbird",
+                [
+                    "/wiki/Songbird_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "XULRunner",
+                [
+                    "/wiki/XULRunner"
+                ],
+                [
+                    {
+                        "entity id": "Q947284",
+                        "label": "XULRunner"
+                    }
+                ]
+            ],
+            [
+                "C++",
+                [
+                    "/wiki/C++"
+                ],
+                [
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    }
+                ]
+            ],
+            [
+                "SQLite ?",
+                [
+                    "/wiki/SQLite"
+                ],
+                [
+                    {
+                        "entity id": "Q319417",
+                        "label": "SQLite"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Tomahawk",
+                [
+                    "/wiki/Tomahawk_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Qt",
+                [
+                    "/wiki/Qt_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "C++",
+                [
+                    "/wiki/C++"
+                ],
+                [
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    }
+                ]
+            ],
+            [
+                "SQLite",
+                [
+                    "/wiki/SQLite"
+                ],
+                [
+                    {
+                        "entity id": "Q319417",
+                        "label": "SQLite"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "XMMS",
+                [
+                    "/wiki/XMMS"
+                ],
+                [
+                    {
+                        "entity id": "Q380671",
+                        "label": "XMMS"
+                    }
+                ]
+            ],
+            [
+                "GTK+",
+                [
+                    "/wiki/GTK+"
+                ],
+                [
+                    {
+                        "entity id": "Q189464",
+                        "label": "GTK"
+                    }
+                ]
+            ],
+            [
+                "C++",
+                [
+                    "/wiki/C++"
+                ],
+                [
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    }
+                ]
+            ],
+            [
+                "no database",
+                []
+            ]
+        ],
+        [
+            [
+                "XMMS2",
+                [
+                    "/wiki/XMMS2"
+                ],
+                [
+                    {
+                        "entity id": "Q2447945",
+                        "label": "XMMS2"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "C",
+                [
+                    "/wiki/C_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "SQLite",
+                [
+                    "/wiki/SQLite"
+                ],
+                [
+                    {
+                        "entity id": "Q319417",
+                        "label": "SQLite"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Players",
+    "section_text": "See also : Comparison of audio player software",
+    "uid": "List_of_free_software_for_audio_5",
+    "intro": "This list of free software for audio lists notable free and open source software for use by sound engineers, audio producers, and those involved in sound recording and reproduction."
+}

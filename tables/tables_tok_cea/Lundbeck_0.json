@@ -1,0 +1,1037 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Lundbeck",
+    "title": "Lundbeck",
+    "header": [
+        [
+            "Brand name",
+            []
+        ],
+        [
+            "INN",
+            [
+                "/wiki/International_Nonproprietary_Name"
+            ],
+            [
+                {
+                    "entity id": "Q824258",
+                    "label": "International nonproprietary name"
+                }
+            ]
+        ],
+        [
+            "Drug class",
+            []
+        ],
+        [
+            "Indication ( s )",
+            [
+                "/wiki/Indication_(medicine)"
+            ],
+            [
+                {}
+            ]
+        ],
+        [
+            "Notes",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Abilify Maintena",
+                []
+            ],
+            [
+                "Aripiprazole",
+                [
+                    "/wiki/Aripiprazole"
+                ],
+                [
+                    {
+                        "entity id": "Q411188",
+                        "label": "aripiprazole"
+                    }
+                ]
+            ],
+            [
+                "Atypical antipsychotic",
+                [
+                    "/wiki/Atypical_antipsychotic"
+                ],
+                [
+                    {
+                        "entity id": "Q758295",
+                        "label": "atypical antipsychotic"
+                    }
+                ]
+            ],
+            [
+                "Maintenance treatment of schizophrenia",
+                [
+                    "/wiki/Schizophrenia"
+                ],
+                [
+                    {
+                        "entity id": "Q41112",
+                        "label": "schizophrenia"
+                    }
+                ]
+            ],
+            [
+                "Co-marketed with Otsuka",
+                [
+                    "/wiki/Otsuka_Pharmaceutical"
+                ],
+                [
+                    {
+                        "entity id": "Q386434",
+                        "label": "Otsuka Pharmaceutical"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Azilect",
+                []
+            ],
+            [
+                "Rasagiline",
+                [
+                    "/wiki/Rasagiline"
+                ],
+                [
+                    {
+                        "entity id": "Q420685",
+                        "label": "rasagiline"
+                    }
+                ]
+            ],
+            [
+                "MAO B inhibitor",
+                [
+                    "/wiki/Monoamine_oxidase_B",
+                    "/wiki/Monoamine_oxidase_inhibitor"
+                ],
+                [
+                    {
+                        "entity id": "Q18028862",
+                        "label": "MAOB"
+                    },
+                    {
+                        "entity id": "Q410954",
+                        "label": "monoamine oxidase inhibitor"
+                    }
+                ]
+            ],
+            [
+                "Parkinson 's disease",
+                [
+                    "/wiki/Parkinson's_disease"
+                ],
+                [
+                    {
+                        "entity id": "Q11085",
+                        "label": "Parkinson's disease"
+                    }
+                ]
+            ],
+            [
+                "In some countries co-marketed with Teva",
+                [
+                    "/wiki/Teva_Pharmaceutical_Industries"
+                ],
+                [
+                    {
+                        "entity id": "Q898750",
+                        "label": "Teva Pharmaceutical Industries"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Brintellix , Trintellix",
+                []
+            ],
+            [
+                "Vortioxetine",
+                [
+                    "/wiki/Vortioxetine"
+                ],
+                [
+                    {
+                        "entity id": "Q3563148",
+                        "label": "vortioxetine"
+                    }
+                ]
+            ],
+            [
+                "SRI multimodal antidepressant ( described as serotonin modulator and stimulator )",
+                [
+                    "/wiki/Serotonin_reuptake_inhibitor"
+                ],
+                [
+                    {
+                        "entity id": "Q7455053",
+                        "label": "Serotonin reuptake inhibitor"
+                    }
+                ]
+            ],
+            [
+                "Major depressive disorder",
+                [
+                    "/wiki/Major_depressive_disorder"
+                ],
+                [
+                    {
+                        "entity id": "Q42844",
+                        "label": "major depressive disorder"
+                    }
+                ]
+            ],
+            [
+                "Co-marketed in the USA with Takeda , who also has rights to Japan",
+                []
+            ]
+        ],
+        [
+            [
+                "Cipramil , Celexa , Seropram",
+                []
+            ],
+            [
+                "Citalopram",
+                [
+                    "/wiki/Citalopram"
+                ],
+                [
+                    {
+                        "entity id": "Q409672",
+                        "label": "(RS)-citalopram"
+                    }
+                ]
+            ],
+            [
+                "SSRI",
+                [
+                    "/wiki/SSRI"
+                ],
+                [
+                    {
+                        "entity id": "Q334477",
+                        "label": "selective serotonin reuptake inhibitor"
+                    }
+                ]
+            ],
+            [
+                "Major depressive disorder Anxiety disorders",
+                [
+                    "/wiki/Major_depressive_disorder",
+                    "/wiki/Anxiety_disorders"
+                ],
+                [
+                    {
+                        "entity id": "Q42844",
+                        "label": "major depressive disorder"
+                    },
+                    {
+                        "entity id": "Q60703459",
+                        "label": "Anxiety disorders"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Cipralex , Lexapro",
+                []
+            ],
+            [
+                "Escitalopram",
+                [
+                    "/wiki/Escitalopram"
+                ],
+                [
+                    {
+                        "entity id": "Q423757",
+                        "label": "escitalopram"
+                    }
+                ]
+            ],
+            [
+                "SSRI",
+                []
+            ],
+            [
+                "Major depressive disorder Generalized anxiety disorder ( GAD )",
+                [
+                    "/wiki/Generalized_anxiety_disorder"
+                ],
+                [
+                    {
+                        "entity id": "Q845224",
+                        "label": "generalized anxiety disorder"
+                    }
+                ]
+            ],
+            [
+                "( S ) - enantiomer of citalopram",
+                [
+                    "/wiki/Enantiomer"
+                ],
+                [
+                    {
+                        "entity id": "Q494483",
+                        "label": "enantiomer"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Clopixol , Cisordinol",
+                []
+            ],
+            [
+                "Zuclopenthixol",
+                [
+                    "/wiki/Zuclopenthixol"
+                ],
+                [
+                    {
+                        "entity id": "Q228143",
+                        "label": "zuclopenthixol"
+                    }
+                ]
+            ],
+            [
+                "High-potency typical antipsychotic ( of thioxanthene class )",
+                [
+                    "/wiki/Typical_antipsychotic",
+                    "/wiki/Thioxanthene"
+                ],
+                [
+                    {
+                        "entity id": "Q2554162",
+                        "label": "typical antipsychotic"
+                    },
+                    {
+                        "entity id": "Q2628525",
+                        "label": "thioxanthine"
+                    }
+                ]
+            ],
+            [
+                "Psychoses , including schizophrenia",
+                []
+            ],
+            [
+                "Cis -isomer of clopenthixol ( a predecessor drug )",
+                [
+                    "/wiki/Cis\u2013trans_isomerism",
+                    "/wiki/Clopenthixol"
+                ],
+                [
+                    {
+                        "entity id": "Q283611",
+                        "label": "cis\u2013trans isomerism"
+                    },
+                    {
+                        "entity id": "Q413000",
+                        "label": "clopenthixol"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Deanxit",
+                []
+            ],
+            [
+                "Flupentixol/melitracen",
+                [
+                    "/wiki/Flupentixol/melitracen"
+                ],
+                [
+                    {
+                        "entity id": "Q5462883",
+                        "label": "Flupentixol/melitracen"
+                    }
+                ]
+            ],
+            [
+                "Typical antipsychotic / Tricyclic antidepressant",
+                [
+                    "/wiki/Tricyclic_antidepressant"
+                ],
+                [
+                    {
+                        "entity id": "Q908843",
+                        "label": "tricyclic antidepressant"
+                    }
+                ]
+            ],
+            [
+                "Moderate-to-severe depression associated with anxiety and/or agitation",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Ebixa , Ebix",
+                []
+            ],
+            [
+                "Memantine",
+                [
+                    "/wiki/Memantine"
+                ],
+                [
+                    {
+                        "entity id": "Q412189",
+                        "label": "memantine"
+                    }
+                ]
+            ],
+            [
+                "NMDA receptor antagonist",
+                [
+                    "/wiki/NMDA_receptor_antagonist"
+                ],
+                [
+                    {
+                        "entity id": "Q4044974",
+                        "label": "NMDA receptor antagonist"
+                    }
+                ]
+            ],
+            [
+                "Alzheimer 's disease",
+                [
+                    "/wiki/Alzheimer's_disease"
+                ],
+                [
+                    {
+                        "entity id": "Q11081",
+                        "label": "Alzheimer's disease"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Fluanxol",
+                []
+            ],
+            [
+                "Flupentixol",
+                [
+                    "/wiki/Flupentixol"
+                ],
+                [
+                    {
+                        "entity id": "Q27164953",
+                        "label": "flupentixol"
+                    }
+                ]
+            ],
+            [
+                "High-potency thioxanthene typical antipsychotic",
+                []
+            ],
+            [
+                "Psychoses , including schizophrenia",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Modiodal",
+                []
+            ],
+            [
+                "Modafinil",
+                [
+                    "/wiki/Modafinil"
+                ],
+                [
+                    {
+                        "entity id": "Q410441",
+                        "label": "modafinil"
+                    }
+                ]
+            ],
+            [
+                "Eugeroic ( wakefulness-promoting agent )",
+                [
+                    "/wiki/Wakefulness-promoting_agent"
+                ],
+                [
+                    {
+                        "entity id": "Q7961095",
+                        "label": "Wakefulness-promoting agent"
+                    }
+                ]
+            ],
+            [
+                "Narcolepsy Shift work sleep disorder Obstructive sleep apnea / hypopnea",
+                [
+                    "/wiki/Narcolepsy",
+                    "/wiki/Shift_work_sleep_disorder",
+                    "/wiki/Sleep_apnea",
+                    "/wiki/Hypopnea"
+                ],
+                [
+                    {
+                        "entity id": "Q189561",
+                        "label": "narcolepsy"
+                    },
+                    {
+                        "entity id": "Q2398352",
+                        "label": "shift work sleep disorder"
+                    },
+                    {
+                        "entity id": "Q213600",
+                        "label": "sleep apnea"
+                    },
+                    {
+                        "entity id": "Q957217",
+                        "label": "hypopnea"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Nortrilen , Sensoval",
+                []
+            ],
+            [
+                "Nortriptyline",
+                [
+                    "/wiki/Nortriptyline"
+                ],
+                [
+                    {
+                        "entity id": "Q61387",
+                        "label": "nortriptyline"
+                    }
+                ]
+            ],
+            [
+                "Tricyclic antidepressant",
+                [
+                    "/wiki/Tricyclic_antidepressant"
+                ],
+                [
+                    {
+                        "entity id": "Q908843",
+                        "label": "tricyclic antidepressant"
+                    }
+                ]
+            ],
+            [
+                "Depression Nocturnal enuresis",
+                [
+                    "/wiki/Nocturnal_enuresis"
+                ],
+                [
+                    {
+                        "entity id": "Q318005",
+                        "label": "nocturnal enuresis"
+                    }
+                ]
+            ],
+            [
+                "Active metabolite of amitriptyline",
+                []
+            ]
+        ],
+        [
+            [
+                "Onfi",
+                []
+            ],
+            [
+                "Clobazam",
+                [
+                    "/wiki/Clobazam"
+                ],
+                [
+                    {
+                        "entity id": "Q412164",
+                        "label": "clobazam"
+                    }
+                ]
+            ],
+            [
+                "Benzodiazepine anticonvulsant and anxiolytic",
+                [
+                    "/wiki/Benzodiazepine",
+                    "/wiki/Anticonvulsant",
+                    "/wiki/Anxiolytic"
+                ],
+                [
+                    {
+                        "entity id": "Q83871",
+                        "label": "benzodiazepine"
+                    },
+                    {
+                        "entity id": "Q576618",
+                        "label": "anticonvulsant agent"
+                    },
+                    {
+                        "entity id": "Q62903",
+                        "label": "anxiolytic"
+                    }
+                ]
+            ],
+            [
+                "Seizures associated with Lennox-Gastaut syndrome",
+                [
+                    "/wiki/Lennox-Gastaut_syndrome"
+                ],
+                [
+                    {
+                        "entity id": "Q1544884",
+                        "label": "Lennox-Gastaut syndrome"
+                    }
+                ]
+            ],
+            [
+                "Outside the US , approved for anxiety and treatment-resistant epilepsy ( under the brand name Frisium )",
+                []
+            ]
+        ],
+        [
+            [
+                "Rexulti",
+                []
+            ],
+            [
+                "Brexpiprazole",
+                [
+                    "/wiki/Brexpiprazole"
+                ],
+                [
+                    {
+                        "entity id": "Q2924764",
+                        "label": "brexpiprazole"
+                    }
+                ]
+            ],
+            [
+                "Atypical antipsychotic ( the so-called serotonin-dopamine activity modulator )",
+                []
+            ],
+            [
+                "Schizophrenia Major depressive disorder ( as an adjunctive treatment )",
+                [
+                    "/wiki/Schizophrenia",
+                    "/wiki/Major_depressive_disorder"
+                ],
+                [
+                    {
+                        "entity id": "Q41112",
+                        "label": "schizophrenia"
+                    },
+                    {
+                        "entity id": "Q42844",
+                        "label": "major depressive disorder"
+                    }
+                ]
+            ],
+            [
+                "Marketed in partnership with Otsuka",
+                [
+                    "/wiki/Otsuka_Pharmaceutical"
+                ],
+                [
+                    {
+                        "entity id": "Q386434",
+                        "label": "Otsuka Pharmaceutical"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Sabril",
+                []
+            ],
+            [
+                "Vigabatrin",
+                [
+                    "/wiki/Vigabatrin"
+                ],
+                [
+                    {
+                        "entity id": "Q421663",
+                        "label": "vigabatrin"
+                    }
+                ]
+            ],
+            [
+                "Anticonvulsant ( GABA transaminase inhibitor )",
+                [
+                    "/wiki/GABA_transaminase"
+                ],
+                [
+                    {
+                        "entity id": "Q4637204",
+                        "label": "4-aminobutyrate transaminase"
+                    }
+                ]
+            ],
+            [
+                "Treatment-resistant epilepsy ( complex partial seizures and West syndrome )",
+                [
+                    "/wiki/West_syndrome"
+                ],
+                [
+                    {
+                        "entity id": "Q1041258",
+                        "label": "West syndrome"
+                    }
+                ]
+            ],
+            [
+                "Use is restricted to resistant and refractory epilepsy due to the risk of irreversible vision loss",
+                []
+            ]
+        ],
+        [
+            [
+                "Saphris , Sycrest",
+                []
+            ],
+            [
+                "Asenapine",
+                [
+                    "/wiki/Asenapine"
+                ],
+                [
+                    {
+                        "entity id": "Q416545",
+                        "label": "asenapine"
+                    }
+                ]
+            ],
+            [
+                "Atypical antipsychotic",
+                [
+                    "/wiki/Atypical_antipsychotic"
+                ],
+                [
+                    {
+                        "entity id": "Q758295",
+                        "label": "atypical antipsychotic"
+                    }
+                ]
+            ],
+            [
+                "Psychoses , including schizophrenia Acute and maintenance treatment of Bipolar I disorder",
+                [
+                    "/wiki/Bipolar_I_disorder"
+                ],
+                [
+                    {
+                        "entity id": "Q4915474",
+                        "label": "bipolar I disorder"
+                    }
+                ]
+            ],
+            [
+                "In some countries ( like Philippines , Latvia and Russian Federation ) marketed by or co-marketed with Merck & Co. ( Merck Sharp & Dohme )",
+                [
+                    "/wiki/Merck_&_Co."
+                ],
+                [
+                    {
+                        "entity id": "Q247489",
+                        "label": "Merck & Co."
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Saroten , Sarotex , Redomex",
+                []
+            ],
+            [
+                "Amitriptyline",
+                [
+                    "/wiki/Amitriptyline"
+                ],
+                [
+                    {
+                        "entity id": "Q58397",
+                        "label": "amitriptyline"
+                    }
+                ]
+            ],
+            [
+                "Tricyclic antidepressant",
+                []
+            ],
+            [
+                "Depression ( both unipolar and bipolar ) Anxiety disorders Eating disorders Migraine prophylaxis Insomnia , etc",
+                [
+                    "/wiki/Major_depressive_disorder",
+                    "/wiki/Bipolar_disorder",
+                    "/wiki/Eating_disorders",
+                    "/wiki/Prevention_of_migraines",
+                    "/wiki/Insomnia"
+                ],
+                [
+                    {
+                        "entity id": "Q42844",
+                        "label": "major depressive disorder"
+                    },
+                    {
+                        "entity id": "Q131755",
+                        "label": "bipolar disorder"
+                    },
+                    {
+                        "entity id": "Q373822",
+                        "label": "eating disorder"
+                    },
+                    {
+                        "entity id": "Q7242393",
+                        "label": "Prevention of migraines"
+                    },
+                    {
+                        "entity id": "Q1869874",
+                        "label": "insomnia"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Selincro",
+                []
+            ],
+            [
+                "Nalmefene",
+                [
+                    "/wiki/Nalmefene"
+                ],
+                [
+                    {
+                        "entity id": "Q4353252",
+                        "label": "nalmefene"
+                    }
+                ]
+            ],
+            [
+                "Opioid receptor antagonist",
+                [
+                    "/wiki/Opioid_antagonist"
+                ],
+                [
+                    {
+                        "entity id": "Q908096",
+                        "label": "opioid antagonist"
+                    }
+                ]
+            ],
+            [
+                "Reduction of alcohol consumption in alcohol dependence ( in combination with psychosocial support )",
+                [
+                    "/wiki/Alcoholism"
+                ],
+                [
+                    {
+                        "entity id": "Q15326",
+                        "label": "alcoholism"
+                    }
+                ]
+            ],
+            [
+                "Only be used in patients with high drinking risk ( at initial assessment and 2 weeks later ) , in those who do not have physical withdrawal symptoms or require immediate detoxification",
+                [
+                    "/wiki/Alcohol_withdrawal_syndrome",
+                    "/wiki/Alcohol_detoxification"
+                ],
+                [
+                    {
+                        "entity id": "Q2914873",
+                        "label": "alcohol withdrawal syndrome"
+                    },
+                    {
+                        "entity id": "Q4713265",
+                        "label": "Alcohol detoxification"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Serdolect , Serlect",
+                []
+            ],
+            [
+                "Sertindole",
+                [
+                    "/wiki/Sertindole"
+                ],
+                [
+                    {
+                        "entity id": "Q418050",
+                        "label": "sertindole"
+                    }
+                ]
+            ],
+            [
+                "Atypical antipsychotic",
+                [
+                    "/wiki/Atypical_antipsychotic"
+                ],
+                [
+                    {
+                        "entity id": "Q758295",
+                        "label": "atypical antipsychotic"
+                    }
+                ]
+            ],
+            [
+                "Psychoses , including schizophrenia",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Treanda",
+                []
+            ],
+            [
+                "Bendamustine",
+                [
+                    "/wiki/Bendamustine"
+                ],
+                [
+                    {
+                        "entity id": "Q425745",
+                        "label": "bendamustine"
+                    }
+                ]
+            ],
+            [
+                "Nitrogen mustard alkylating agent",
+                [
+                    "/wiki/Nitrogen_mustard",
+                    "/wiki/Alkylating_antineoplastic_agent"
+                ],
+                [
+                    {
+                        "entity id": "Q418011",
+                        "label": "mechlorethamine"
+                    },
+                    {
+                        "entity id": "Q619908",
+                        "label": "alkylating antineoplastic agent"
+                    }
+                ]
+            ],
+            [
+                "Chronic lymphocytic leukemia",
+                [
+                    "/wiki/Chronic_lymphocytic_leukemia"
+                ],
+                [
+                    {
+                        "entity id": "Q1088156",
+                        "label": "chronic lymphocytic leukemia"
+                    }
+                ]
+            ],
+            [
+                "Co-marketed with Teva",
+                [
+                    "/wiki/Teva_Pharmaceutical_Industries"
+                ],
+                [
+                    {
+                        "entity id": "Q898750",
+                        "label": "Teva Pharmaceutical Industries"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Truxal",
+                []
+            ],
+            [
+                "Chlorprothixene",
+                [
+                    "/wiki/Chlorprothixene"
+                ],
+                [
+                    {
+                        "entity id": "Q423809",
+                        "label": "(E)-chlorprothixene"
+                    }
+                ]
+            ],
+            [
+                "Thioxanthene typical antipsychotic",
+                []
+            ],
+            [
+                "Psychosis , including schizophrenia",
+                []
+            ],
+            [
+                "In some other countries approved for menopausal depression , insomnia and resistant nausea/vomiting",
+                [
+                    "/wiki/Menopause"
+                ],
+                [
+                    {
+                        "entity id": "Q177708",
+                        "label": "menopause"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Key products",
+    "section_text": "Lundbeck markets a number of different pharmaceuticals for the treatment of psychiatric and neurological disorders . The most recently launched compounds include : Rexulti ( depression and schizophrenia ) , Brintellix ( depression ) and Abilify Maintena ( schizophrenia and bipolar 1 ) . Lundbeck manufactures drugs such as :",
+    "uid": "Lundbeck_0",
+    "intro": "H. Lundbeck A/S (commonly known simply as Lundbeck) is a Danish international pharmaceutical company engaged in the research and development, production, marketing, and sale of drugs for the treatment of disorders in the central nervous system (CNS), including depression, schizophrenia, Alzheimer's disease and Parkinson's disease. Headquartered in Copenhagen, Denmark, Lundbeck has international production facilities in Denmark, Italy and France and affiliates or sales offices in more than 50 countries. Lundbeck employs around 5,000 people globally (as of 2017), and the companys products are registered in more than 100 countries worldwide. In 2017, the company's revenue was DKK 17.2 billion (\u20ac2.3 billion). Lundbeck is listed on the Copenhagen Stock Exchange (CSE). Lundbeck is a full member of the European Federation of Pharmaceutical Industries and Associations (EFPIA) and of the International Federation of Pharmaceutical Manufacturers and Associations (IFPMA)"
+}

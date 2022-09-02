@@ -1,0 +1,913 @@
+{
+    "url": "https://en.wikipedia.org/wiki/JCDecaux",
+    "title": "JCDecaux",
+    "header": [
+        [
+            "City",
+            []
+        ],
+        [
+            "Country",
+            []
+        ],
+        [
+            "Launch date",
+            []
+        ],
+        [
+            "System name",
+            []
+        ],
+        [
+            "Stations",
+            []
+        ],
+        [
+            "Bikes",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Amiens",
+                [
+                    "/wiki/Amiens"
+                ],
+                [
+                    {
+                        "entity id": "Q41604",
+                        "label": "Amiens"
+                    }
+                ]
+            ],
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "2008",
+                []
+            ],
+            [
+                "V\u00e9lam",
+                []
+            ],
+            [
+                "26",
+                []
+            ],
+            [
+                "313",
+                []
+            ]
+        ],
+        [
+            [
+                "Besan\u00e7on",
+                [
+                    "/wiki/Besan\u00e7on"
+                ],
+                [
+                    {
+                        "entity id": "Q37776",
+                        "label": "Besan\u00e7on"
+                    }
+                ]
+            ],
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "2007",
+                []
+            ],
+            [
+                "V\u00e9loCit\u00e9",
+                []
+            ],
+            [
+                "30",
+                []
+            ],
+            [
+                "200",
+                []
+            ]
+        ],
+        [
+            [
+                "Brisbane",
+                [
+                    "/wiki/Brisbane"
+                ],
+                [
+                    {
+                        "entity id": "Q34932",
+                        "label": "Brisbane"
+                    }
+                ]
+            ],
+            [
+                "Australia",
+                [
+                    "/wiki/Australia"
+                ],
+                [
+                    {
+                        "entity id": "Q408",
+                        "label": "Australia"
+                    }
+                ]
+            ],
+            [
+                "2010",
+                []
+            ],
+            [
+                "CityCycle",
+                []
+            ],
+            [
+                "150",
+                []
+            ],
+            [
+                "2000",
+                []
+            ]
+        ],
+        [
+            [
+                "Brussels",
+                [
+                    "/wiki/Brussels"
+                ],
+                [
+                    {
+                        "entity id": "Q239",
+                        "label": "City of Brussels"
+                    }
+                ]
+            ],
+            [
+                "Belgium",
+                [
+                    "/wiki/Belgium"
+                ],
+                [
+                    {
+                        "entity id": "Q31",
+                        "label": "Belgium"
+                    }
+                ]
+            ],
+            [
+                "2009",
+                []
+            ],
+            [
+                "Villo !",
+                [
+                    "/wiki/Villo!"
+                ],
+                [
+                    {
+                        "entity id": "Q2510744",
+                        "label": "Villo!"
+                    }
+                ]
+            ],
+            [
+                "360",
+                []
+            ],
+            [
+                "5000",
+                []
+            ]
+        ],
+        [
+            [
+                "Cergy-Pontoise",
+                [
+                    "/wiki/Cergy-Pontoise"
+                ],
+                [
+                    {
+                        "entity id": "Q18681428",
+                        "label": "Cergy-Pontoise"
+                    }
+                ]
+            ],
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "2009",
+                []
+            ],
+            [
+                "V\u00e9lO2",
+                []
+            ],
+            [
+                "42",
+                []
+            ],
+            [
+                "400",
+                []
+            ]
+        ],
+        [
+            [
+                "C\u00f3rdoba",
+                [
+                    "/wiki/C\u00f3rdoba,_Andalusia"
+                ],
+                [
+                    {
+                        "entity id": "Q5818",
+                        "label": "C\u00f3rdoba"
+                    }
+                ]
+            ],
+            [
+                "Spain",
+                [
+                    "/wiki/Spain"
+                ],
+                [
+                    {
+                        "entity id": "Q29",
+                        "label": "Spain"
+                    }
+                ]
+            ],
+            [
+                "2003",
+                []
+            ],
+            [
+                "Cyclocity",
+                []
+            ],
+            [
+                "4",
+                []
+            ],
+            [
+                "35",
+                []
+            ]
+        ],
+        [
+            [
+                "Cr\u00e9teil",
+                [
+                    "/wiki/Cr\u00e9teil"
+                ],
+                [
+                    {
+                        "entity id": "Q46135",
+                        "label": "Cr\u00e9teil"
+                    }
+                ]
+            ],
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "2010",
+                []
+            ],
+            [
+                "Cristolib",
+                []
+            ],
+            [
+                "10",
+                []
+            ],
+            [
+                "130",
+                []
+            ]
+        ],
+        [
+            [
+                "Dublin",
+                [
+                    "/wiki/Dublin"
+                ],
+                [
+                    {
+                        "entity id": "Q1761",
+                        "label": "Dublin"
+                    }
+                ]
+            ],
+            [
+                "Ireland",
+                [
+                    "/wiki/Republic_of_Ireland"
+                ],
+                [
+                    {
+                        "entity id": "Q27",
+                        "label": "Republic of Ireland"
+                    }
+                ]
+            ],
+            [
+                "2009",
+                []
+            ],
+            [
+                "dublinbikes",
+                [
+                    "/wiki/Dublinbikes"
+                ],
+                [
+                    {
+                        "entity id": "Q5311025",
+                        "label": "Dublinbikes"
+                    }
+                ]
+            ],
+            [
+                "102",
+                []
+            ],
+            [
+                "1500",
+                []
+            ]
+        ],
+        [
+            [
+                "Gij\u00f3n",
+                [
+                    "/wiki/Gij\u00f3n"
+                ],
+                [
+                    {
+                        "entity id": "Q12273",
+                        "label": "Gij\u00f3n"
+                    }
+                ]
+            ],
+            [
+                "Spain",
+                [
+                    "/wiki/Spain"
+                ],
+                [
+                    {
+                        "entity id": "Q29",
+                        "label": "Spain"
+                    }
+                ]
+            ],
+            [
+                "2003",
+                []
+            ],
+            [
+                "Gijon-Bici",
+                []
+            ],
+            [
+                "8",
+                []
+            ],
+            [
+                "64",
+                []
+            ]
+        ],
+        [
+            [
+                "Gothenburg",
+                [
+                    "/wiki/Gothenburg"
+                ],
+                [
+                    {
+                        "entity id": "Q25287",
+                        "label": "Gothenburg"
+                    }
+                ]
+            ],
+            [
+                "Sweden",
+                [
+                    "/wiki/Sweden"
+                ],
+                [
+                    {
+                        "entity id": "Q34",
+                        "label": "Sweden"
+                    }
+                ]
+            ],
+            [
+                "2010",
+                []
+            ],
+            [
+                "Styr & St\u00e4ll",
+                [
+                    "/wiki/Styr_&_St\u00e4ll"
+                ],
+                [
+                    {
+                        "entity id": "Q6198848",
+                        "label": "Styr & St\u00e4ll"
+                    }
+                ]
+            ],
+            [
+                "50",
+                []
+            ],
+            [
+                "600",
+                []
+            ]
+        ],
+        [
+            [
+                "Kazan",
+                [
+                    "/wiki/Kazan"
+                ],
+                [
+                    {
+                        "entity id": "Q900",
+                        "label": "Kazan"
+                    }
+                ]
+            ],
+            [
+                "Russia",
+                [
+                    "/wiki/Russia"
+                ],
+                [
+                    {
+                        "entity id": "Q159",
+                        "label": "Russia"
+                    }
+                ]
+            ],
+            [
+                "2013",
+                []
+            ],
+            [
+                "VeliK",
+                []
+            ],
+            [
+                "6",
+                []
+            ],
+            [
+                "120",
+                []
+            ]
+        ],
+        [
+            [
+                "Lillestr\u00f8m",
+                [
+                    "/wiki/Lillestr\u00f8m"
+                ],
+                [
+                    {
+                        "entity id": "Q214374",
+                        "label": "Lillestr\u00f8m SK"
+                    }
+                ]
+            ],
+            [
+                "Norway",
+                [
+                    "/wiki/Norway"
+                ],
+                [
+                    {
+                        "entity id": "Q20",
+                        "label": "Norway"
+                    }
+                ]
+            ],
+            [
+                "2013",
+                []
+            ],
+            [
+                "Bysykkel",
+                []
+            ],
+            [
+                "5",
+                []
+            ],
+            [
+                "50",
+                []
+            ]
+        ],
+        [
+            [
+                "Ljubljana",
+                [
+                    "/wiki/Ljubljana"
+                ],
+                [
+                    {
+                        "entity id": "Q437",
+                        "label": "Ljubljana"
+                    }
+                ]
+            ],
+            [
+                "Slovenia",
+                [
+                    "/wiki/Slovenia"
+                ],
+                [
+                    {
+                        "entity id": "Q215",
+                        "label": "Slovenia"
+                    }
+                ]
+            ],
+            [
+                "2011",
+                []
+            ],
+            [
+                "BicikeLJ",
+                [
+                    "/wiki/BicikeLJ"
+                ],
+                [
+                    {
+                        "entity id": "Q4903630",
+                        "label": "BicikeLJ"
+                    }
+                ]
+            ],
+            [
+                "51",
+                []
+            ],
+            [
+                "510",
+                []
+            ]
+        ],
+        [
+            [
+                "Lund",
+                [
+                    "/wiki/Lund"
+                ],
+                [
+                    {
+                        "entity id": "Q2167",
+                        "label": "Lund"
+                    }
+                ]
+            ],
+            [
+                "Sweden",
+                [
+                    "/wiki/Sweden"
+                ],
+                [
+                    {
+                        "entity id": "Q34",
+                        "label": "Sweden"
+                    }
+                ]
+            ],
+            [
+                "2014",
+                []
+            ],
+            [
+                "Lundahoj",
+                []
+            ],
+            [
+                "17",
+                []
+            ],
+            [
+                "250",
+                []
+            ]
+        ],
+        [
+            [
+                "Luxembourg",
+                [
+                    "/wiki/Luxembourg"
+                ],
+                [
+                    {
+                        "entity id": "Q32",
+                        "label": "Luxembourg"
+                    }
+                ]
+            ],
+            [
+                "Luxembourg",
+                [
+                    "/wiki/Luxembourg"
+                ],
+                [
+                    {
+                        "entity id": "Q32",
+                        "label": "Luxembourg"
+                    }
+                ]
+            ],
+            [
+                "2008",
+                []
+            ],
+            [
+                "Vel'oh",
+                []
+            ],
+            [
+                "72",
+                []
+            ],
+            [
+                "742",
+                []
+            ]
+        ],
+        [
+            [
+                "Lyon",
+                [
+                    "/wiki/Lyon"
+                ],
+                [
+                    {
+                        "entity id": "Q456",
+                        "label": "Lyon"
+                    }
+                ]
+            ],
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "2005",
+                []
+            ],
+            [
+                "V\u00e9lo ' v",
+                [
+                    "/wiki/V\u00e9lo'v"
+                ],
+                [
+                    {
+                        "entity id": "Q4096",
+                        "label": "V\u00e9lo'v"
+                    }
+                ]
+            ],
+            [
+                "348",
+                []
+            ],
+            [
+                "4000",
+                []
+            ]
+        ],
+        [
+            [
+                "Marseille",
+                [
+                    "/wiki/Marseille"
+                ],
+                [
+                    {
+                        "entity id": "Q23482",
+                        "label": "Marseille"
+                    }
+                ]
+            ],
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "2007",
+                []
+            ],
+            [
+                "Le v\u00e9lo",
+                []
+            ],
+            [
+                "130",
+                []
+            ],
+            [
+                "1000",
+                []
+            ]
+        ],
+        [
+            [
+                "Mulhouse",
+                [
+                    "/wiki/Mulhouse"
+                ],
+                [
+                    {
+                        "entity id": "Q79815",
+                        "label": "Mulhouse"
+                    }
+                ]
+            ],
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "2007",
+                []
+            ],
+            [
+                "V\u00e9locit\u00e9",
+                []
+            ],
+            [
+                "40",
+                []
+            ],
+            [
+                "240",
+                []
+            ]
+        ],
+        [
+            [
+                "Namur",
+                [
+                    "/wiki/Namur"
+                ],
+                [
+                    {
+                        "entity id": "Q134121",
+                        "label": "Namur"
+                    }
+                ]
+            ],
+            [
+                "Belgium",
+                [
+                    "/wiki/Belgium"
+                ],
+                [
+                    {
+                        "entity id": "Q31",
+                        "label": "Belgium"
+                    }
+                ]
+            ],
+            [
+                "2010",
+                []
+            ],
+            [
+                "Li Bia Velo",
+                []
+            ],
+            [
+                "24",
+                []
+            ],
+            [
+                "240",
+                []
+            ]
+        ],
+        [
+            [
+                "Nancy",
+                [
+                    "/wiki/Nancy,_France"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "2008",
+                []
+            ],
+            [
+                "V\u00e9lOstan'lib",
+                []
+            ],
+            [
+                "29",
+                []
+            ],
+            [
+                "250",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Bicycle rental systems",
+    "section_text": "V\u00e9lib ' bicycle hire station at S\u00e8vres \u2013 Lecourbe ( Paris M\u00e9tro ) . JCDecaux van in France . The public bicycle rental systems are each financed by local advertising operators , in most cases in return for the cities signing over a 10-year licence to exploit citywide billboards . The overall scheme is called Cyclocity by the company , but each city 's system is branded under an individual name . The cities that have implemented its bicycle rental systems are listed below . [ 11 ] To sort this table by any column , click on the icon next to the column title .",
+    "uid": "JCDecaux_0",
+    "intro": "JCDecaux Group (JCDecaux SA, French pronunciation: \u200b[\u0292ised\u0259\u02c8ko]) is a multinational corporation based in Neuilly-sur-Seine, near Paris, France, known for its bus-stop advertising systems, billboards, public bicycle rental systems, and street furniture. It is the largest outdoor advertising corporation in the world. The company was founded in 1964 in Lyon, France by Jean-Claude Decaux. Over the years it has expanded aggressively, partly through acquisitions of smaller advertising companies in several countries. JCDecaux currently employs more than 13,030 people worldwide and maintains a presence in over 75 countries. In France alone, JCDecaux employs more than 3,500 people. [citation needed]"
+}

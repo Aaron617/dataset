@@ -1,0 +1,658 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Borough_of_Bedford",
+    "title": "Borough of Bedford",
+    "header": [
+        [
+            "Ward name",
+            []
+        ],
+        [
+            "Civil Parishes",
+            []
+        ],
+        [
+            "Population ( 2009 estimate )",
+            []
+        ],
+        [
+            "Percentage from minority groups",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Biddenham & Bromham",
+                [
+                    "/wiki/Biddenham",
+                    "/wiki/Bromham,_Bedfordshire"
+                ],
+                [
+                    {
+                        "entity id": "Q731179",
+                        "label": "Biddenham"
+                    },
+                    {
+                        "entity id": "Q1519942",
+                        "label": "Bromham"
+                    }
+                ]
+            ],
+            [
+                "Biddenham Bromham",
+                [
+                    "/wiki/Biddenham",
+                    "/wiki/Bromham,_Bedfordshire"
+                ],
+                [
+                    {
+                        "entity id": "Q731179",
+                        "label": "Biddenham"
+                    },
+                    {
+                        "entity id": "Q1519942",
+                        "label": "Bromham"
+                    }
+                ]
+            ],
+            [
+                "7,460",
+                []
+            ],
+            [
+                "9%",
+                []
+            ]
+        ],
+        [
+            [
+                "Clapham",
+                [
+                    "/wiki/Clapham,_Bedfordshire"
+                ],
+                [
+                    {
+                        "entity id": "Q1520409",
+                        "label": "Clapham"
+                    }
+                ]
+            ],
+            [
+                "Clapham",
+                [
+                    "/wiki/Clapham,_Bedfordshire"
+                ],
+                [
+                    {
+                        "entity id": "Q1520409",
+                        "label": "Clapham"
+                    }
+                ]
+            ],
+            [
+                "4,670",
+                []
+            ],
+            [
+                "9%",
+                []
+            ]
+        ],
+        [
+            [
+                "Eastcotts",
+                [
+                    "/wiki/Eastcotts"
+                ],
+                [
+                    {
+                        "entity id": "Q5329867",
+                        "label": "Eastcotts"
+                    }
+                ]
+            ],
+            [
+                "Cotton End Shortstown",
+                [
+                    "/wiki/Cotton_End",
+                    "/wiki/Shortstown"
+                ],
+                [
+                    {
+                        "entity id": "Q1523157",
+                        "label": "Cotton End"
+                    },
+                    {
+                        "entity id": "Q1520650",
+                        "label": "Shortstown"
+                    }
+                ]
+            ],
+            [
+                "3,330",
+                []
+            ],
+            [
+                "9%",
+                []
+            ]
+        ],
+        [
+            [
+                "Elstow",
+                [
+                    "/wiki/Elstow"
+                ],
+                [
+                    {
+                        "entity id": "Q1520099",
+                        "label": "Elstow"
+                    }
+                ]
+            ],
+            [
+                "Elstow Stewartby",
+                [
+                    "/wiki/Elstow",
+                    "/wiki/Stewartby"
+                ],
+                [
+                    {
+                        "entity id": "Q1520099",
+                        "label": "Elstow"
+                    },
+                    {
+                        "entity id": "Q1522913",
+                        "label": "Stewartby"
+                    }
+                ]
+            ],
+            [
+                "4,500",
+                []
+            ],
+            [
+                "15%",
+                []
+            ]
+        ],
+        [
+            [
+                "Great Barford",
+                [
+                    "/wiki/Great_Barford"
+                ],
+                [
+                    {
+                        "entity id": "Q1521199",
+                        "label": "Great Barford"
+                    }
+                ]
+            ],
+            [
+                "Great Barford Cardington Cople Ravensden Renhold Willington",
+                [
+                    "/wiki/Great_Barford",
+                    "/wiki/Cardington,_Bedfordshire",
+                    "/wiki/Cople",
+                    "/wiki/Ravensden",
+                    "/wiki/Renhold",
+                    "/wiki/Willington,_Bedfordshire"
+                ],
+                [
+                    {
+                        "entity id": "Q1521199",
+                        "label": "Great Barford"
+                    },
+                    {
+                        "entity id": "Q659945",
+                        "label": "Cardington"
+                    },
+                    {
+                        "entity id": "Q1520369",
+                        "label": "Cople"
+                    },
+                    {
+                        "entity id": "Q1520011",
+                        "label": "Ravensden"
+                    },
+                    {
+                        "entity id": "Q1520304",
+                        "label": "Renhold"
+                    },
+                    {
+                        "entity id": "Q1520393",
+                        "label": "Willington"
+                    }
+                ]
+            ],
+            [
+                "6,870",
+                []
+            ],
+            [
+                "6%",
+                []
+            ]
+        ],
+        [
+            [
+                "Harrold",
+                [
+                    "/wiki/Harrold,_Bedfordshire"
+                ],
+                [
+                    {
+                        "entity id": "Q1520103",
+                        "label": "Harrold"
+                    }
+                ]
+            ],
+            [
+                "Carlton and Chellington Harrold Odell Podington Wymington",
+                [
+                    "/wiki/Carlton_with_Chellington",
+                    "/wiki/Harrold,_Bedfordshire",
+                    "/wiki/Odell,_Bedfordshire",
+                    "/wiki/Podington",
+                    "/wiki/Wymington"
+                ],
+                [
+                    {
+                        "entity id": "Q2191009",
+                        "label": "Carlton and Chellington"
+                    },
+                    {
+                        "entity id": "Q1520103",
+                        "label": "Harrold"
+                    },
+                    {
+                        "entity id": "Q1110176",
+                        "label": "Odell"
+                    },
+                    {
+                        "entity id": "Q1520038",
+                        "label": "Podington"
+                    },
+                    {
+                        "entity id": "Q1518912",
+                        "label": "Wymington"
+                    }
+                ]
+            ],
+            [
+                "4,240",
+                []
+            ],
+            [
+                "4%",
+                []
+            ]
+        ],
+        [
+            [
+                "Kempston Rural",
+                [
+                    "/wiki/Kempston_Rural"
+                ],
+                [
+                    {
+                        "entity id": "Q2295827",
+                        "label": "Kempston Rural"
+                    }
+                ]
+            ],
+            [
+                "Great Denham Kempston Rural Stagsden Turvey",
+                [
+                    "/wiki/Great_Denham",
+                    "/wiki/Kempston_Rural",
+                    "/wiki/Stagsden",
+                    "/wiki/Turvey,_Bedfordshire"
+                ],
+                [
+                    {
+                        "entity id": "Q1520280",
+                        "label": "Great Denham"
+                    },
+                    {
+                        "entity id": "Q2295827",
+                        "label": "Kempston Rural"
+                    },
+                    {
+                        "entity id": "Q1520491",
+                        "label": "Stagsden"
+                    },
+                    {
+                        "entity id": "Q1520342",
+                        "label": "Turvey"
+                    }
+                ]
+            ],
+            [
+                "3,600",
+                []
+            ],
+            [
+                "7%",
+                []
+            ]
+        ],
+        [
+            [
+                "Oakley",
+                [
+                    "/wiki/Oakley,_Bedfordshire"
+                ],
+                [
+                    {
+                        "entity id": "Q1520175",
+                        "label": "Oakley"
+                    }
+                ]
+            ],
+            [
+                "Oakley Pavenham Stevington",
+                [
+                    "/wiki/Oakley,_Bedfordshire",
+                    "/wiki/Pavenham",
+                    "/wiki/Stevington"
+                ],
+                [
+                    {
+                        "entity id": "Q1520175",
+                        "label": "Oakley"
+                    },
+                    {
+                        "entity id": "Q1520268",
+                        "label": "Pavenham"
+                    },
+                    {
+                        "entity id": "Q1520344",
+                        "label": "Stevington"
+                    }
+                ]
+            ],
+            [
+                "3,790",
+                []
+            ],
+            [
+                "5%",
+                []
+            ]
+        ],
+        [
+            [
+                "Riseley",
+                [
+                    "/wiki/Riseley,_Bedfordshire"
+                ],
+                [
+                    {
+                        "entity id": "Q1520106",
+                        "label": "Riseley"
+                    }
+                ]
+            ],
+            [
+                "Dean and Shelton Bletsoe Melchbourne and Yielden Pertenhall Riseley Swineshead Thurleigh",
+                [
+                    "/wiki/Dean_and_Shelton",
+                    "/wiki/Bletsoe",
+                    "/wiki/Melchbourne_and_Yielden",
+                    "/wiki/Pertenhall",
+                    "/wiki/Riseley,_Bedfordshire",
+                    "/wiki/Swineshead,_Bedfordshire",
+                    "/wiki/Thurleigh"
+                ],
+                [
+                    {
+                        "entity id": "Q2030343",
+                        "label": "Dean and Shelton"
+                    },
+                    {
+                        "entity id": "Q1523163",
+                        "label": "Bletsoe"
+                    },
+                    {
+                        "entity id": "Q2229087",
+                        "label": "Melchbourne and Yielden"
+                    },
+                    {
+                        "entity id": "Q1521881",
+                        "label": "Pertenhall"
+                    },
+                    {
+                        "entity id": "Q1520106",
+                        "label": "Riseley"
+                    },
+                    {
+                        "entity id": "Q1520379",
+                        "label": "Swineshead"
+                    },
+                    {
+                        "entity id": "Q406914",
+                        "label": "Thurleigh"
+                    }
+                ]
+            ],
+            [
+                "3,440",
+                []
+            ],
+            [
+                "4%",
+                []
+            ]
+        ],
+        [
+            [
+                "Sharnbrook",
+                [
+                    "/wiki/Sharnbrook"
+                ],
+                [
+                    {
+                        "entity id": "Q1520049",
+                        "label": "Sharnbrook"
+                    }
+                ]
+            ],
+            [
+                "Sharnbrook Felmersham Knotting and Souldrop Milton Ernest",
+                [
+                    "/wiki/Sharnbrook",
+                    "/wiki/Felmersham",
+                    "/wiki/Knotting_and_Souldrop",
+                    "/wiki/Milton_Ernest"
+                ],
+                [
+                    {
+                        "entity id": "Q1520049",
+                        "label": "Sharnbrook"
+                    },
+                    {
+                        "entity id": "Q1520092",
+                        "label": "Felmersham"
+                    },
+                    {
+                        "entity id": "Q2385921",
+                        "label": "Knotting and Souldrop"
+                    },
+                    {
+                        "entity id": "Q1520359",
+                        "label": "Milton Ernest"
+                    }
+                ]
+            ],
+            [
+                "4,170",
+                []
+            ],
+            [
+                "4%",
+                []
+            ]
+        ],
+        [
+            [
+                "Wilshamstead",
+                [
+                    "/wiki/Wilshamstead"
+                ],
+                [
+                    {
+                        "entity id": "Q20989046",
+                        "label": "Wilshamstead"
+                    }
+                ]
+            ],
+            [
+                "Wilshamstead",
+                [
+                    "/wiki/Wilshamstead"
+                ],
+                [
+                    {
+                        "entity id": "Q20989046",
+                        "label": "Wilshamstead"
+                    }
+                ]
+            ],
+            [
+                "2,550",
+                []
+            ],
+            [
+                "4%",
+                []
+            ]
+        ],
+        [
+            [
+                "Wootton",
+                [
+                    "/wiki/Wootton,_Bedfordshire"
+                ],
+                [
+                    {
+                        "entity id": "Q1519568",
+                        "label": "Wootton"
+                    }
+                ]
+            ],
+            [
+                "Wootton",
+                [
+                    "/wiki/Wootton,_Bedfordshire"
+                ],
+                [
+                    {
+                        "entity id": "Q1519568",
+                        "label": "Wootton"
+                    }
+                ]
+            ],
+            [
+                "4,480",
+                []
+            ],
+            [
+                "6%",
+                []
+            ]
+        ],
+        [
+            [
+                "Wyboston",
+                [
+                    "/wiki/Wyboston"
+                ],
+                [
+                    {
+                        "entity id": "Q1518941",
+                        "label": "Wyboston"
+                    }
+                ]
+            ],
+            [
+                "Bolnhurst and Keysoe Colmworth Little Barford Little Staughton Roxton Staploe Wilden Wyboston , Chawston and Colesden",
+                [
+                    "/wiki/Bolnhurst_and_Keysoe",
+                    "/wiki/Colmworth",
+                    "/wiki/Little_Barford",
+                    "/wiki/Little_Staughton",
+                    "/wiki/Roxton,_Bedfordshire",
+                    "/wiki/Staploe",
+                    "/wiki/Wilden,_Bedfordshire",
+                    "/wiki/Wyboston,_Chawston_and_Colesden"
+                ],
+                [
+                    {
+                        "entity id": "Q1519977",
+                        "label": "Bolnhurst and Keysoe"
+                    },
+                    {
+                        "entity id": "Q1520656",
+                        "label": "Colmworth"
+                    },
+                    {
+                        "entity id": "Q1520005",
+                        "label": "Little Barford"
+                    },
+                    {
+                        "entity id": "Q1519984",
+                        "label": "Little Staughton"
+                    },
+                    {
+                        "entity id": "Q1521630",
+                        "label": "Roxton"
+                    },
+                    {
+                        "entity id": "Q1520377",
+                        "label": "Staploe"
+                    },
+                    {
+                        "entity id": "Q1522874",
+                        "label": "Wilden"
+                    },
+                    {
+                        "entity id": "Q1518921",
+                        "label": "Wyboston, Chawston and Colesden"
+                    }
+                ]
+            ],
+            [
+                "3,780",
+                []
+            ],
+            [
+                "4%",
+                []
+            ]
+        ],
+        [
+            [
+                "Total population",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "56,880",
+                []
+            ],
+            [
+                "7%",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Wards and civil parishes",
+    "section_text": "The urban part of the borough consisting of most of the Bedford/Kempston Urban Area is divided into 13 wards , some of which are also civil parishes : [ 9 ] Ward name Population ( 2009 estimate ) Percentage from minority groups Brickhill 8,540 14% Castle 7,190 32% Cauldwell 9,170 44% De Parys 6,840 18% Goldington 8,360 19% Harpur 8,370 26% Kempston Central and East 7,500 23% Kempston North 4,050 24% Kempston South 4,370 20% Kempston West 3,770 15% Kingsbrook 9,280 25% Newnham 7,620 18% Putnoe 7,650 14% Queens Park 8,470 58% Total population 101,180 25% Map of the wards in Bedford Borough The wards and constituent civil parishes in the rural part of the borough are as follows : [ 9 ]",
+    "uid": "Bedford_Borough_1",
+    "intro": "Bedford is a unitary authority area with borough status in the ceremonial county of Bedfordshire, England. Its council is based at Bedford, the county town of Bedfordshire. The borough contains one large urban area, the 71st largest in the United Kingdom that comprises Bedford and the adjacent town of Kempston, surrounded by a rural area with many villages. 75% of the borough's population live in the Bedford Urban Area and the five large villages which surround it, which makes up slightly less than 6% of the total land area of the Borough. The borough is also the location of the Wixams new town development, which received its first residents in 2009."
+}

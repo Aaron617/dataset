@@ -1,0 +1,1196 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Protein_kinase_C",
+    "title": "Protein kinase C",
+    "header": [
+        [
+            "Cell type",
+            []
+        ],
+        [
+            "Organ/system",
+            []
+        ],
+        [
+            "Activators ligands -- > G q - GPCRs",
+            [
+                "/wiki/Ligands",
+                "/wiki/Gq_alpha_subunit",
+                "/wiki/G-protein_coupled_receptor"
+            ],
+            [
+                {
+                    "entity id": "Q193161",
+                    "label": "ligand"
+                },
+                {
+                    "entity id": "Q24726231",
+                    "label": "G-protein alpha subunit, group Q"
+                },
+                {
+                    "entity id": "Q38173",
+                    "label": "G protein-coupled receptor"
+                }
+            ]
+        ],
+        [
+            "Effects",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "smooth muscle cell ( gastrointestinal tract sphincters )",
+                [
+                    "/wiki/Smooth_muscle",
+                    "/wiki/Gastrointestinal_tract",
+                    "/wiki/Sphincter"
+                ],
+                [
+                    {
+                        "entity id": "Q208453",
+                        "label": "smooth muscle tissue"
+                    },
+                    {
+                        "entity id": "Q11829360",
+                        "label": "gastrointestinal tract"
+                    },
+                    {
+                        "entity id": "Q746416",
+                        "label": "sphincter"
+                    }
+                ]
+            ],
+            [
+                "digestive system",
+                [
+                    "/wiki/Digestive_system"
+                ],
+                [
+                    {
+                        "entity id": "Q9649",
+                        "label": "digestive system"
+                    }
+                ]
+            ],
+            [
+                "prostaglandin F 2\u03b1 -- > thromboxanes",
+                [
+                    "/wiki/Prostaglandin_F2alpha",
+                    "/wiki/Thromboxane"
+                ],
+                [
+                    {
+                        "entity id": "Q21990458",
+                        "label": "Prostaglandin F receptor"
+                    },
+                    {
+                        "entity id": "Q412212",
+                        "label": "thromboxane"
+                    }
+                ]
+            ],
+            [
+                "contraction",
+                []
+            ]
+        ],
+        [
+            [
+                "smooth muscle cells in : iris dilator muscle ( sensory system ) urethral sphincter ( urinary system ) uterus ( reproductive system ) arrector pili muscles ( integumentary system ) ureter ( urinary system ) urinary bladder ( urinary system )",
+                [
+                    "/wiki/Smooth_muscle",
+                    "/wiki/Iris_dilator_muscle",
+                    "/wiki/Sensory_system",
+                    "/wiki/Urethral_sphincter",
+                    "/wiki/Urinary_system",
+                    "/wiki/Uterus",
+                    "/wiki/Reproductive_system",
+                    "/wiki/Arrector_pili_muscles",
+                    "/wiki/Integumentary_system",
+                    "/wiki/Ureter",
+                    "/wiki/Urinary_system",
+                    "/wiki/Urinary_bladder",
+                    "/wiki/Urinary_system"
+                ],
+                [
+                    {
+                        "entity id": "Q208453",
+                        "label": "smooth muscle tissue"
+                    },
+                    {
+                        "entity id": "Q638147",
+                        "label": "iris dilator muscle"
+                    },
+                    {
+                        "entity id": "Q11101",
+                        "label": "sensory system"
+                    },
+                    {
+                        "entity id": "Q1424728",
+                        "label": "Urethral sphincter"
+                    },
+                    {
+                        "entity id": "Q181100",
+                        "label": "urinary system"
+                    },
+                    {
+                        "entity id": "Q9612",
+                        "label": "uterus"
+                    },
+                    {
+                        "entity id": "Q7895",
+                        "label": "reproductive system"
+                    },
+                    {
+                        "entity id": "Q64450369",
+                        "label": "Arrector pili muscles surround human facial vellus hair follicles"
+                    },
+                    {
+                        "entity id": "Q483213",
+                        "label": "integumentary system"
+                    },
+                    {
+                        "entity id": "Q9385",
+                        "label": "ureter"
+                    },
+                    {
+                        "entity id": "Q181100",
+                        "label": "urinary system"
+                    },
+                    {
+                        "entity id": "Q9382",
+                        "label": "urinary bladder"
+                    },
+                    {
+                        "entity id": "Q181100",
+                        "label": "urinary system"
+                    }
+                ]
+            ],
+            [
+                "Various",
+                []
+            ],
+            [
+                "adrenergic agonists -- > \u03b11 receptor",
+                [
+                    "/wiki/Adrenergic_agonist",
+                    "/wiki/\u03911_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q2496749",
+                        "label": "adrenergic agonist"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "contraction",
+                []
+            ]
+        ],
+        [
+            [
+                "smooth muscle cells in : iris constrictor muscle ciliary muscle",
+                [
+                    "/wiki/Smooth_muscle",
+                    "/wiki/Iris_constrictor_muscle",
+                    "/wiki/Ciliary_muscle"
+                ],
+                [
+                    {
+                        "entity id": "Q208453",
+                        "label": "smooth muscle tissue"
+                    },
+                    {},
+                    {
+                        "entity id": "Q239972",
+                        "label": "ciliary muscle"
+                    }
+                ]
+            ],
+            [
+                "sensory system",
+                [
+                    "/wiki/Sensory_system"
+                ],
+                [
+                    {
+                        "entity id": "Q11101",
+                        "label": "sensory system"
+                    }
+                ]
+            ],
+            [
+                "acetylcholine -- > M3 receptor",
+                [
+                    "/wiki/Acetylcholine",
+                    "/wiki/M3_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q180623",
+                        "label": "acetylcholine"
+                    },
+                    {
+                        "entity id": "Q24720972",
+                        "label": "Muscarinic acetylcholine receptor M3"
+                    }
+                ]
+            ],
+            [
+                "contraction",
+                []
+            ]
+        ],
+        [
+            [
+                "smooth muscle cell ( vascular )",
+                [
+                    "/wiki/Smooth_muscle"
+                ],
+                [
+                    {
+                        "entity id": "Q208453",
+                        "label": "smooth muscle tissue"
+                    }
+                ]
+            ],
+            [
+                "circulatory system",
+                [
+                    "/wiki/Circulatory_system"
+                ],
+                [
+                    {
+                        "entity id": "Q11068",
+                        "label": "circulatory system"
+                    }
+                ]
+            ],
+            [
+                "5-HT -- > 5-HT2A receptor adrenergic agonists -- > \u03b11 receptor",
+                [
+                    "/wiki/5-HT",
+                    "/wiki/5-HT2A_receptor",
+                    "/wiki/Adrenergic_agonist",
+                    "/wiki/\u03911_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q167934",
+                        "label": "serotonin"
+                    },
+                    {
+                        "entity id": "Q14891461",
+                        "label": "5-hydroxytryptamine (serotonin) receptor 2A"
+                    },
+                    {
+                        "entity id": "Q2496749",
+                        "label": "adrenergic agonist"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "vasoconstriction",
+                [
+                    "/wiki/Vasoconstriction"
+                ],
+                [
+                    {
+                        "entity id": "Q1067506",
+                        "label": "vasoconstriction"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "smooth muscle cell ( seminal tract )",
+                [
+                    "/wiki/Smooth_muscle",
+                    "/wiki/Seminal_tract"
+                ],
+                [
+                    {
+                        "entity id": "Q208453",
+                        "label": "smooth muscle tissue"
+                    },
+                    {
+                        "entity id": "Q7449455",
+                        "label": "seminal tract"
+                    }
+                ]
+            ],
+            [
+                "reproductive system",
+                [
+                    "/wiki/Reproductive_system"
+                ],
+                [
+                    {
+                        "entity id": "Q7895",
+                        "label": "reproductive system"
+                    }
+                ]
+            ],
+            [
+                "adrenergic agonists -- > \u03b11 receptor",
+                [
+                    "/wiki/Adrenergic_agonist",
+                    "/wiki/\u03911_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q2496749",
+                        "label": "adrenergic agonist"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "ejaculation",
+                [
+                    "/wiki/Ejaculation"
+                ],
+                [
+                    {
+                        "entity id": "Q14820885",
+                        "label": "ejaculation"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "smooth muscle cell ( GI tract )",
+                [
+                    "/wiki/Smooth_muscle",
+                    "/wiki/Gastrointestinal_tract"
+                ],
+                [
+                    {
+                        "entity id": "Q208453",
+                        "label": "smooth muscle tissue"
+                    },
+                    {
+                        "entity id": "Q11829360",
+                        "label": "gastrointestinal tract"
+                    }
+                ]
+            ],
+            [
+                "digestive system",
+                [
+                    "/wiki/Digestive_system"
+                ],
+                [
+                    {
+                        "entity id": "Q9649",
+                        "label": "digestive system"
+                    }
+                ]
+            ],
+            [
+                "5-HT -- > 5-HT2A or 5-HT2B receptor acetylcholine ( ACh ) -- > M3 receptor",
+                [
+                    "/wiki/5-HT",
+                    "/wiki/5-HT2A_receptor",
+                    "/wiki/5-HT2B_receptor",
+                    "/wiki/Acetylcholine",
+                    "/wiki/M3_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q167934",
+                        "label": "serotonin"
+                    },
+                    {
+                        "entity id": "Q14891461",
+                        "label": "5-hydroxytryptamine (serotonin) receptor 2A"
+                    },
+                    {
+                        "entity id": "Q24315072",
+                        "label": "5-HT2B receptor-mediated calcium release from ryanodine-sensitive intracellular stores in human pulmonary artery endothelial cells"
+                    },
+                    {
+                        "entity id": "Q180623",
+                        "label": "acetylcholine"
+                    },
+                    {
+                        "entity id": "Q24720972",
+                        "label": "Muscarinic acetylcholine receptor M3"
+                    }
+                ]
+            ],
+            [
+                "contraction",
+                []
+            ]
+        ],
+        [
+            [
+                "smooth muscle cell ( bronchi )",
+                [
+                    "/wiki/Smooth_muscle",
+                    "/wiki/Bronchi"
+                ],
+                [
+                    {
+                        "entity id": "Q208453",
+                        "label": "smooth muscle tissue"
+                    },
+                    {
+                        "entity id": "Q181602",
+                        "label": "bronchus"
+                    }
+                ]
+            ],
+            [
+                "respiratory system",
+                [
+                    "/wiki/Respiratory_system"
+                ],
+                [
+                    {
+                        "entity id": "Q7891",
+                        "label": "respiratory system"
+                    }
+                ]
+            ],
+            [
+                "5-HT -- > 5-HT2A receptor adrenergic agonists -- > \u03b2\u2082 receptor acetylcholine -- > M3 and M1 receptor",
+                [
+                    "/wiki/5-HT",
+                    "/wiki/5-HT2A_receptor",
+                    "/wiki/Adrenergic_agonist",
+                    "/wiki/Acetylcholine",
+                    "/wiki/M3_receptor",
+                    "/wiki/M1_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q167934",
+                        "label": "serotonin"
+                    },
+                    {
+                        "entity id": "Q14891461",
+                        "label": "5-hydroxytryptamine (serotonin) receptor 2A"
+                    },
+                    {
+                        "entity id": "Q2496749",
+                        "label": "adrenergic agonist"
+                    },
+                    {
+                        "entity id": "Q180623",
+                        "label": "acetylcholine"
+                    },
+                    {
+                        "entity id": "Q24720972",
+                        "label": "Muscarinic acetylcholine receptor M3"
+                    },
+                    {
+                        "entity id": "Q24726403",
+                        "label": "Muscarinic acetylcholine receptor M1"
+                    }
+                ]
+            ],
+            [
+                "bronchoconstriction",
+                [
+                    "/wiki/Bronchoconstriction"
+                ],
+                [
+                    {
+                        "entity id": "Q4375",
+                        "label": "bronchoconstriction"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "proximal convoluted tubule cell",
+                [
+                    "/wiki/Proximal_convoluted_tubule_cell"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "kidney",
+                [
+                    "/wiki/Kidney"
+                ],
+                [
+                    {
+                        "entity id": "Q9377",
+                        "label": "kidney"
+                    }
+                ]
+            ],
+            [
+                "angiotensin II -- > AT1 receptor adrenergic agonists -- > \u03b11 receptor",
+                [
+                    "/wiki/Angiotensin_II",
+                    "/wiki/AT1_receptor",
+                    "/wiki/Adrenergic_agonist",
+                    "/wiki/\u03911_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q412999",
+                        "label": "angiotensin II"
+                    },
+                    {
+                        "entity id": "Q14859583",
+                        "label": "type 1 angiotensin receptor binding"
+                    },
+                    {
+                        "entity id": "Q2496749",
+                        "label": "adrenergic agonist"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "stimulate NHE3 -- > H secretion & Na reabsorption stimulate basolateral Na-K ATPase -- > Na reabsorption",
+                [
+                    "/wiki/NHE3",
+                    "/wiki/Na-K_ATPase"
+                ],
+                [
+                    {
+                        "entity id": "Q18031553",
+                        "label": "SLC9A3"
+                    },
+                    {
+                        "entity id": "Q21499089",
+                        "label": "ATPase, Na+/K+ transporting, beta 3 polypeptide"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "neurons in autonomic ganglia",
+                [
+                    "/wiki/Neurons",
+                    "/wiki/Autonomic_ganglia"
+                ],
+                [
+                    {
+                        "entity id": "Q43054",
+                        "label": "neuron"
+                    },
+                    {
+                        "entity id": "Q24650590",
+                        "label": "Autonomic ganglia, acetylcholine receptor antibodies, and autoimmune ganglionopathy"
+                    }
+                ]
+            ],
+            [
+                "nervous system",
+                [
+                    "/wiki/Nervous_system"
+                ],
+                [
+                    {
+                        "entity id": "Q9404",
+                        "label": "nervous system"
+                    }
+                ]
+            ],
+            [
+                "acetylcholine -- > M1 receptor",
+                [
+                    "/wiki/Acetylcholine",
+                    "/wiki/M1_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q180623",
+                        "label": "acetylcholine"
+                    },
+                    {
+                        "entity id": "Q24726403",
+                        "label": "Muscarinic acetylcholine receptor M1"
+                    }
+                ]
+            ],
+            [
+                "EPSP",
+                [
+                    "/wiki/Excitatory_postsynaptic_potential"
+                ],
+                [
+                    {
+                        "entity id": "Q1207387",
+                        "label": "excitatory postsynaptic potential"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "neurons in CNS",
+                [
+                    "/wiki/Neurons",
+                    "/wiki/Central_nervous_system"
+                ],
+                [
+                    {
+                        "entity id": "Q43054",
+                        "label": "neuron"
+                    },
+                    {
+                        "entity id": "Q47273",
+                        "label": "central nervous system"
+                    }
+                ]
+            ],
+            [
+                "nervous system",
+                [
+                    "/wiki/Nervous_system"
+                ],
+                [
+                    {
+                        "entity id": "Q9404",
+                        "label": "nervous system"
+                    }
+                ]
+            ],
+            [
+                "5-HT -- > 5-HT2A receptor glutamate -- > NMDA receptor",
+                [
+                    "/wiki/5-HT",
+                    "/wiki/5-HT2A_receptor",
+                    "/wiki/Glutamate_(neurotransmitter)",
+                    "/wiki/NMDA_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q167934",
+                        "label": "serotonin"
+                    },
+                    {
+                        "entity id": "Q14891461",
+                        "label": "5-hydroxytryptamine (serotonin) receptor 2A"
+                    },
+                    {},
+                    {
+                        "entity id": "Q414896",
+                        "label": "NMDA receptor"
+                    }
+                ]
+            ],
+            [
+                "neuronal excitation ( 5-HT ) memory ( glutamate )",
+                []
+            ]
+        ],
+        [
+            [
+                "platelets",
+                [
+                    "/wiki/Platelet"
+                ],
+                [
+                    {
+                        "entity id": "Q101026",
+                        "label": "platelets"
+                    }
+                ]
+            ],
+            [
+                "circulatory system",
+                [
+                    "/wiki/Circulatory_system"
+                ],
+                [
+                    {
+                        "entity id": "Q11068",
+                        "label": "circulatory system"
+                    }
+                ]
+            ],
+            [
+                "5-HT -- > 5-HT2A receptor",
+                [
+                    "/wiki/5-HT",
+                    "/wiki/5-HT2A_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q167934",
+                        "label": "serotonin"
+                    },
+                    {
+                        "entity id": "Q14891461",
+                        "label": "5-hydroxytryptamine (serotonin) receptor 2A"
+                    }
+                ]
+            ],
+            [
+                "aggregation",
+                []
+            ]
+        ],
+        [
+            [
+                "ependymal cells ( choroid plexus )",
+                [
+                    "/wiki/Ependymal_cell",
+                    "/wiki/Choroid_plexus"
+                ],
+                [
+                    {
+                        "entity id": "Q28646122",
+                        "label": "ependymal cell"
+                    },
+                    {
+                        "entity id": "Q926250",
+                        "label": "choroid plexus"
+                    }
+                ]
+            ],
+            [
+                "ventricular system",
+                [
+                    "/wiki/Ventricular_system"
+                ],
+                [
+                    {
+                        "entity id": "Q105402",
+                        "label": "ventricular system"
+                    }
+                ]
+            ],
+            [
+                "5-HT -- > 5-HT2C receptor",
+                [
+                    "/wiki/5-HT",
+                    "/wiki/5-HT2C_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q167934",
+                        "label": "serotonin"
+                    },
+                    {
+                        "entity id": "Q18027437",
+                        "label": "HTR2C"
+                    }
+                ]
+            ],
+            [
+                "\u2191 cerebrospinal fluid secretion",
+                [
+                    "/wiki/Cerebrospinal_fluid"
+                ],
+                [
+                    {
+                        "entity id": "Q54196",
+                        "label": "cerebrospinal fluid"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "heart muscle",
+                [
+                    "/wiki/Heart_muscle"
+                ],
+                [
+                    {
+                        "entity id": "Q10334846",
+                        "label": "cardiac muscles"
+                    }
+                ]
+            ],
+            [
+                "circulatory system",
+                [
+                    "/wiki/Circulatory_system"
+                ],
+                [
+                    {
+                        "entity id": "Q11068",
+                        "label": "circulatory system"
+                    }
+                ]
+            ],
+            [
+                "adrenergic agonists -- > \u03b21 receptor",
+                [
+                    "/wiki/Adrenergic_agonist",
+                    "/wiki/\u03921_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q2496749",
+                        "label": "adrenergic agonist"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "positive inotropic effect",
+                []
+            ]
+        ],
+        [
+            [
+                "serous cells ( salivary gland )",
+                [
+                    "/wiki/Serous_cell",
+                    "/wiki/Salivary_gland"
+                ],
+                [
+                    {
+                        "entity id": "Q66558824",
+                        "label": "serous cell"
+                    },
+                    {
+                        "entity id": "Q134938",
+                        "label": "salivary gland"
+                    }
+                ]
+            ],
+            [
+                "digestive system",
+                [
+                    "/wiki/Digestive_system"
+                ],
+                [
+                    {
+                        "entity id": "Q9649",
+                        "label": "digestive system"
+                    }
+                ]
+            ],
+            [
+                "acetylcholine -- > M1 and M3 receptors adrenergic agonists -- > \u03b21 receptor",
+                [
+                    "/wiki/Acetylcholine",
+                    "/wiki/M1_receptor",
+                    "/wiki/M3_receptor",
+                    "/wiki/Adrenergic_agonist",
+                    "/wiki/\u03921_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q180623",
+                        "label": "acetylcholine"
+                    },
+                    {
+                        "entity id": "Q24726403",
+                        "label": "Muscarinic acetylcholine receptor M1"
+                    },
+                    {
+                        "entity id": "Q24720972",
+                        "label": "Muscarinic acetylcholine receptor M3"
+                    },
+                    {
+                        "entity id": "Q2496749",
+                        "label": "adrenergic agonist"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "\u2191secretion increase salivary potassium levels",
+                [
+                    "/wiki/Potassium"
+                ],
+                [
+                    {
+                        "entity id": "Q703",
+                        "label": "potassium"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "serous cells ( lacrimal gland )",
+                [
+                    "/wiki/Serous_cell",
+                    "/wiki/Lacrimal_gland"
+                ],
+                [
+                    {
+                        "entity id": "Q66558824",
+                        "label": "serous cell"
+                    },
+                    {
+                        "entity id": "Q913628",
+                        "label": "lacrimal gland"
+                    }
+                ]
+            ],
+            [
+                "digestive system",
+                [
+                    "/wiki/Digestive_system"
+                ],
+                [
+                    {
+                        "entity id": "Q9649",
+                        "label": "digestive system"
+                    }
+                ]
+            ],
+            [
+                "acetylcholine -- > M3 receptor",
+                [
+                    "/wiki/Acetylcholine",
+                    "/wiki/M3_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q180623",
+                        "label": "acetylcholine"
+                    },
+                    {
+                        "entity id": "Q24720972",
+                        "label": "Muscarinic acetylcholine receptor M3"
+                    }
+                ]
+            ],
+            [
+                "\u2191secretion",
+                []
+            ]
+        ],
+        [
+            [
+                "adipocyte",
+                [
+                    "/wiki/Adipocyte"
+                ],
+                [
+                    {
+                        "entity id": "Q357519",
+                        "label": "adipocyte"
+                    }
+                ]
+            ],
+            [
+                "digestive system / endocrine system",
+                [
+                    "/wiki/Digestive_system",
+                    "/wiki/Endocrine_system"
+                ],
+                [
+                    {
+                        "entity id": "Q9649",
+                        "label": "digestive system"
+                    },
+                    {
+                        "entity id": "Q11078",
+                        "label": "endocrine system"
+                    }
+                ]
+            ],
+            [
+                "adrenergic agonists -- > \u03b23 receptor",
+                [
+                    "/wiki/Adrenergic_agonist"
+                ],
+                [
+                    {
+                        "entity id": "Q2496749",
+                        "label": "adrenergic agonist"
+                    }
+                ]
+            ],
+            [
+                "glycogenolysis and gluconeogenesis",
+                [
+                    "/wiki/Glycogenolysis",
+                    "/wiki/Gluconeogenesis"
+                ],
+                [
+                    {
+                        "entity id": "Q680603",
+                        "label": "glycogen catabolic process"
+                    },
+                    {
+                        "entity id": "Q191835",
+                        "label": "gluconeogenesis"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "hepatocyte",
+                [
+                    "/wiki/Hepatocyte"
+                ],
+                [
+                    {
+                        "entity id": "Q827450",
+                        "label": "hepatocyte"
+                    }
+                ]
+            ],
+            [
+                "digestive system",
+                [
+                    "/wiki/Digestive_system"
+                ],
+                [
+                    {
+                        "entity id": "Q9649",
+                        "label": "digestive system"
+                    }
+                ]
+            ],
+            [
+                "adrenergic agonists -- > \u03b11 receptor",
+                [
+                    "/wiki/Adrenergic_agonist",
+                    "/wiki/\u03911_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q2496749",
+                        "label": "adrenergic agonist"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "glycogenolysis and gluconeogenesis",
+                [
+                    "/wiki/Glycogenolysis",
+                    "/wiki/Gluconeogenesis"
+                ],
+                [
+                    {
+                        "entity id": "Q680603",
+                        "label": "glycogen catabolic process"
+                    },
+                    {
+                        "entity id": "Q191835",
+                        "label": "gluconeogenesis"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "sweat gland cells",
+                [
+                    "/wiki/Sweat_gland"
+                ],
+                [
+                    {
+                        "entity id": "Q243784",
+                        "label": "sweat gland"
+                    }
+                ]
+            ],
+            [
+                "integumentary system",
+                [
+                    "/wiki/Integumentary_system"
+                ],
+                [
+                    {
+                        "entity id": "Q483213",
+                        "label": "integumentary system"
+                    }
+                ]
+            ],
+            [
+                "adrenergic agonists -- > \u03b22 receptor",
+                [
+                    "/wiki/Adrenergic_agonist",
+                    "/wiki/\u03922_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q2496749",
+                        "label": "adrenergic agonist"
+                    },
+                    {
+                        "entity id": "Q51152138",
+                        "label": "\u03b22-receptor agonists salbutamol and terbutaline attenuated cytokine production by suppressing ERK pathway through cAMP in macrophages."
+                    }
+                ]
+            ],
+            [
+                "\u2191secretion",
+                []
+            ]
+        ],
+        [
+            [
+                "parietal cells",
+                [
+                    "/wiki/Parietal_cell"
+                ],
+                [
+                    {
+                        "entity id": "Q1640093",
+                        "label": "parietal cell"
+                    }
+                ]
+            ],
+            [
+                "digestive system",
+                [
+                    "/wiki/Digestive_system"
+                ],
+                [
+                    {
+                        "entity id": "Q9649",
+                        "label": "digestive system"
+                    }
+                ]
+            ],
+            [
+                "acetylcholine -- > M3 receptors",
+                [
+                    "/wiki/Acetylcholine",
+                    "/wiki/M3_receptor"
+                ],
+                [
+                    {
+                        "entity id": "Q180623",
+                        "label": "acetylcholine"
+                    },
+                    {
+                        "entity id": "Q24720972",
+                        "label": "Muscarinic acetylcholine receptor M3"
+                    }
+                ]
+            ],
+            [
+                "\u2191 gastric acid secretion",
+                [
+                    "/wiki/Gastric_acid"
+                ],
+                [
+                    {
+                        "entity id": "Q846270",
+                        "label": "gastric acid"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Function",
+    "section_text": "A multiplicity of functions have been ascribed to PKC . Recurring themes are that PKC is involved in receptor desensitization , in modulating membrane structure events , in regulating transcription , in mediating immune responses , in regulating cell growth , and in learning and memory . These functions are achieved by PKC-mediated phosphorylation of other proteins . However , the substrate proteins present for phosphorylation vary , since protein expression is different between different kinds of cells . Thus , effects of PKC are cell-type-specific :",
+    "uid": "Protein_kinase_C_0",
+    "intro": "Protein kinase C, commonly abbreviated to PKC (EC 2.7.11.13), is a family of protein kinase enzymes that are involved in controlling the function of other proteins through the phosphorylation of hydroxyl groups of serine and threonine amino acid residues on these proteins, or a member of this family. PKC enzymes in turn are activated by signals such as increases in the concentration of diacylglycerol (DAG) or calcium ions (Ca2+). Hence PKC enzymes play important roles in several signal transduction cascades. The PKC family consists of fifteen isozymes in humans. They are divided into three subfamilies, based on their second messenger requirements: conventional (or classical), novel, and atypical. Conventional (c)PKCs contain the isoforms \u03b1, \u03b2I, \u03b2II, and \u03b3. These require Ca2+, DAG, and a phospholipid such as phosphatidylserine for activation. Novel (n)PKCs include the \u03b4, \u03b5, \u03b7, and \u03b8 isoforms, and require DAG, but do not require Ca2+ for activation. Thus, conventional and novel PKCs are activated through the same signal transduction pathway as phospholipase C. On the other hand, atypical (a)PKCs (including protein kinase M\u03b6 and \u03b9 / \u03bb isoforms) require neither Ca2+ nor diacylglycerol for activation. The term protein kinase C usually refers to the entire family of isoforms."
+}

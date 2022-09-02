@@ -1,0 +1,1367 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Philippine_highway_network",
+    "title": "Philippine highway network",
+    "header": [
+        [
+            "Route",
+            [
+                "/wiki/Route_number"
+            ],
+            [
+                {
+                    "entity id": "Q3241753",
+                    "label": "road number"
+                }
+            ]
+        ],
+        [
+            "From",
+            []
+        ],
+        [
+            "To",
+            []
+        ],
+        [
+            "Length",
+            []
+        ],
+        [
+            "Component highways",
+            []
+        ],
+        [
+            "Areas served",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "N1",
+                [
+                    "/wiki/Pan-Philippine_Highway"
+                ],
+                [
+                    {
+                        "entity id": "Q1520784",
+                        "label": "Pan-Philippine Highway"
+                    }
+                ]
+            ],
+            [
+                "Laoag",
+                [
+                    "/wiki/Laoag"
+                ],
+                [
+                    {
+                        "entity id": "Q39738",
+                        "label": "Laoag"
+                    }
+                ]
+            ],
+            [
+                "Zamboanga City",
+                [
+                    "/wiki/Zamboanga_City"
+                ],
+                [
+                    {
+                        "entity id": "Q1629",
+                        "label": "Zamboanga City"
+                    }
+                ]
+            ],
+            [
+                "3,517 km ( 2,185 mi )",
+                []
+            ],
+            [
+                "Maharlika Highway ( Laoag to Allacapan ) Cagayan Valley Road MacArthur Highway ( Guiguinto to Caloocan ) Epifanio de los Santos Avenue Daang Maharlika ( Makati to Zamboanga City",
+                [
+                    "/wiki/Maharlika_Highway",
+                    "/wiki/Cagayan_Valley_Road",
+                    "/wiki/MacArthur_Highway",
+                    "/wiki/EDSA_(road)",
+                    "/wiki/Maharlika_Highway"
+                ],
+                [
+                    {
+                        "entity id": "Q1520784",
+                        "label": "Pan-Philippine Highway"
+                    },
+                    {
+                        "entity id": "Q59587425",
+                        "label": "Cagayan Valley Road"
+                    },
+                    {
+                        "entity id": "Q14153558",
+                        "label": "MacArthur Highway"
+                    },
+                    {},
+                    {
+                        "entity id": "Q1520784",
+                        "label": "Pan-Philippine Highway"
+                    }
+                ]
+            ],
+            [
+                "Eastern Visayas , Luzon , Mindanao",
+                [
+                    "/wiki/Eastern_Visayas",
+                    "/wiki/Luzon",
+                    "/wiki/Mindanao"
+                ],
+                [
+                    {
+                        "entity id": "Q13675",
+                        "label": "Eastern Visayas"
+                    },
+                    {
+                        "entity id": "Q125384",
+                        "label": "Luzon"
+                    },
+                    {
+                        "entity id": "Q124873",
+                        "label": "Mindanao"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "N2",
+                [
+                    "/wiki/N2_highway_(Philippines)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Caloocan",
+                [
+                    "/wiki/Caloocan"
+                ],
+                [
+                    {
+                        "entity id": "Q1478",
+                        "label": "Caloocan"
+                    }
+                ]
+            ],
+            [
+                "Laoag",
+                [
+                    "/wiki/Laoag"
+                ],
+                [
+                    {
+                        "entity id": "Q39738",
+                        "label": "Laoag"
+                    }
+                ]
+            ],
+            [
+                "473 km ( 294 mi )",
+                []
+            ],
+            [
+                "MacArthur Highway ( Guiguinto to Pangasinan-La Union boundary ) Manila North Road ( Pangasinan-La Union boundary to Laoag )",
+                [
+                    "/wiki/MacArthur_Highway"
+                ],
+                [
+                    {
+                        "entity id": "Q14153558",
+                        "label": "MacArthur Highway"
+                    }
+                ]
+            ],
+            [
+                "Metro Manila , Central Luzon , Ilocos Region",
+                [
+                    "/wiki/Metro_Manila",
+                    "/wiki/Central_Luzon",
+                    "/wiki/Ilocos_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q13580",
+                        "label": "Metro Manila"
+                    },
+                    {
+                        "entity id": "Q13617",
+                        "label": "Central Luzon"
+                    },
+                    {
+                        "entity id": "Q12933",
+                        "label": "Ilocos Region"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "N3",
+                [
+                    "/wiki/N3_highway_(Philippines)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Olongapo",
+                [
+                    "/wiki/Olongapo"
+                ],
+                [
+                    {
+                        "entity id": "Q56759",
+                        "label": "Olongapo"
+                    }
+                ]
+            ],
+            [
+                "Gapan",
+                [
+                    "/wiki/Gapan"
+                ],
+                [
+                    {
+                        "entity id": "Q55596",
+                        "label": "Gapan"
+                    }
+                ]
+            ],
+            [
+                "118 km ( 73 mi )",
+                []
+            ],
+            [
+                "Jose Abad Santos Avenue",
+                [
+                    "/wiki/Jose_Abad_Santos_Avenue"
+                ],
+                [
+                    {
+                        "entity id": "Q33125572",
+                        "label": "Jose Abad Santos Avenue"
+                    }
+                ]
+            ],
+            [
+                "Zambales , Bataan , Pampanga , Nueva Ecija",
+                [
+                    "/wiki/Zambales",
+                    "/wiki/Bataan",
+                    "/wiki/Pampanga",
+                    "/wiki/Nueva_Ecija"
+                ],
+                [
+                    {
+                        "entity id": "Q13895",
+                        "label": "Zambales"
+                    },
+                    {
+                        "entity id": "Q13739",
+                        "label": "Bataan"
+                    },
+                    {
+                        "entity id": "Q13870",
+                        "label": "Pampanga"
+                    },
+                    {
+                        "entity id": "Q13865",
+                        "label": "Nueva Ecija"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "N4",
+                [
+                    "/wiki/N4_highway_(Philippines)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Santo Tomas",
+                [
+                    "/wiki/Santo_Tomas,_Batangas"
+                ],
+                [
+                    {
+                        "entity id": "Q59799",
+                        "label": "Santo Tomas"
+                    }
+                ]
+            ],
+            [
+                "Batangas City",
+                [
+                    "/wiki/Batangas_City"
+                ],
+                [
+                    {
+                        "entity id": "Q1723",
+                        "label": "Batangas City"
+                    }
+                ]
+            ],
+            [
+                "45 km ( 28 mi )",
+                []
+            ],
+            [
+                "Jose P. Laurel Highway",
+                [
+                    "/wiki/Jose_P._Laurel_Highway"
+                ],
+                [
+                    {
+                        "entity id": "Q51129230",
+                        "label": "Jose P. Laurel Highway"
+                    }
+                ]
+            ],
+            [
+                "Batangas",
+                [
+                    "/wiki/Batangas"
+                ],
+                [
+                    {
+                        "entity id": "Q13744",
+                        "label": "Batangas"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "N5",
+                [
+                    "/wiki/N5_highway_(Philippines)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Roxas",
+                [
+                    "/wiki/Roxas,_Capiz"
+                ],
+                [
+                    {
+                        "entity id": "Q2209",
+                        "label": "Roxas"
+                    }
+                ]
+            ],
+            [
+                "Iloilo",
+                [
+                    "/wiki/Iloilo_City"
+                ],
+                [
+                    {
+                        "entity id": "Q459787",
+                        "label": "Iloilo City"
+                    }
+                ]
+            ],
+            [
+                "125 km ( 78 mi )",
+                []
+            ],
+            [
+                "Iloilo-Capiz Road Jaro Spur Road Mandurriao-Jaro Road Senator Benigno S. Aquino , Jr. Avenue",
+                [
+                    "/wiki/Iloilo\u2013Capiz_Road",
+                    "/wiki/Jaro_Spur_Road"
+                ],
+                [
+                    {
+                        "entity id": "Q65091679",
+                        "label": "Iloilo\u2013Capiz Road"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Capiz , Iloilo",
+                [
+                    "/wiki/Capiz",
+                    "/wiki/Iloilo"
+                ],
+                [
+                    {
+                        "entity id": "Q13772",
+                        "label": "Capiz"
+                    },
+                    {
+                        "entity id": "Q13825",
+                        "label": "Iloilo"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "N6",
+                [
+                    "/wiki/N6_highway_(Philippines)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Bacolod",
+                [
+                    "/wiki/Bacolod"
+                ],
+                [
+                    {
+                        "entity id": "Q5217",
+                        "label": "Bacolod"
+                    }
+                ]
+            ],
+            [
+                "Bais",
+                [
+                    "/wiki/Bais,_Negros_Oriental"
+                ],
+                [
+                    {
+                        "entity id": "Q628590",
+                        "label": "Bais"
+                    }
+                ]
+            ],
+            [
+                "155 km ( 96 mi )",
+                []
+            ],
+            [
+                "Bacolod South Road Bais-Kabankalan Road",
+                [
+                    "/wiki/Bacolod_South_Road"
+                ],
+                [
+                    {
+                        "entity id": "Q56278046",
+                        "label": "Bacolod South Road"
+                    }
+                ]
+            ],
+            [
+                "Negros Occidental , Negros Oriental",
+                [
+                    "/wiki/Negros_Occidental",
+                    "/wiki/Negros_Oriental"
+                ],
+                [
+                    {
+                        "entity id": "Q13862",
+                        "label": "Negros Occidental"
+                    },
+                    {
+                        "entity id": "Q13863",
+                        "label": "Negros Oriental"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "N7",
+                [
+                    "/wiki/N7_highway_(Philippines)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Bacolod",
+                [
+                    "/wiki/Bacolod"
+                ],
+                [
+                    {
+                        "entity id": "Q5217",
+                        "label": "Bacolod"
+                    }
+                ]
+            ],
+            [
+                "Bayawan",
+                [
+                    "/wiki/Bayawan"
+                ],
+                [
+                    {
+                        "entity id": "Q812113",
+                        "label": "Bayawan"
+                    }
+                ]
+            ],
+            [
+                "398 km ( 247 mi )",
+                []
+            ],
+            [
+                "Bacolod North Road ( Bacolod to San Carlos ) Dumaguete North Road ( San Carlos to Dumaguete ) Dumaguete South Road ( Dumaguete to Bayawan )",
+                [
+                    "/wiki/Bacolod_North_Road"
+                ],
+                [
+                    {
+                        "entity id": "Q56278046",
+                        "label": "Bacolod South Road"
+                    }
+                ]
+            ],
+            [
+                "Negros Occidental , Negros Oriental",
+                [
+                    "/wiki/Negros_Occidental",
+                    "/wiki/Negros_Oriental"
+                ],
+                [
+                    {
+                        "entity id": "Q13862",
+                        "label": "Negros Occidental"
+                    },
+                    {
+                        "entity id": "Q13863",
+                        "label": "Negros Oriental"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "N8",
+                []
+            ],
+            [
+                "Danao",
+                [
+                    "/wiki/Danao,_Cebu"
+                ],
+                [
+                    {
+                        "entity id": "Q1159273",
+                        "label": "Danao"
+                    }
+                ]
+            ],
+            [
+                "Santander",
+                [
+                    "/wiki/Santander,_Cebu"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "174 km ( 108 mi )",
+                []
+            ],
+            [
+                "Cebu North Road ( Cebu City to Danao ) Natalio Bacalso Avenue Osme\u00f1a Boulevard General Maxilom Avenue M.J. Cuenco Avenue M.C . Briones Street",
+                [
+                    "/wiki/Cebu_North_Road",
+                    "/wiki/Osme\u00f1a_Boulevard"
+                ],
+                [
+                    {
+                        "entity id": "Q65091610",
+                        "label": "Cebu North Road"
+                    },
+                    {
+                        "entity id": "Q17083398",
+                        "label": "Osme\u00f1a Boulevard"
+                    }
+                ]
+            ],
+            [
+                "Cebu City , Metro Cebu , Eastern Side of Southern Cebu",
+                [
+                    "/wiki/Cebu_City",
+                    "/wiki/Metro_Cebu"
+                ],
+                [
+                    {
+                        "entity id": "Q1467",
+                        "label": "Cebu City"
+                    },
+                    {
+                        "entity id": "Q1075343",
+                        "label": "Metro Cebu"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "N9",
+                [
+                    "/wiki/N9_highway_(Philippines)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Butuan",
+                [
+                    "/wiki/Butuan"
+                ],
+                [
+                    {
+                        "entity id": "Q1686",
+                        "label": "Butuan"
+                    }
+                ]
+            ],
+            [
+                "Tukuran",
+                [
+                    "/wiki/Tukuran,_Zamboanga_del_Sur"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "416 km ( 258 mi )",
+                []
+            ],
+            [
+                "Butuan-Cagayan de Oro-Iligan Road",
+                [
+                    "/wiki/Butuan\u2013Cagayan_de_Oro\u2013Iligan_Road"
+                ],
+                [
+                    {
+                        "entity id": "Q56611853",
+                        "label": "Butuan\u2013Cagayan de Oro\u2013Iligan Road"
+                    }
+                ]
+            ],
+            [
+                "Caraga , Zamboanga Peninsula , Northern Mindanao",
+                [
+                    "/wiki/Caraga",
+                    "/wiki/Zamboanga_Peninsula_(geographical_region)",
+                    "/wiki/Northern_Mindanao"
+                ],
+                [
+                    {
+                        "entity id": "Q13704",
+                        "label": "Caraga"
+                    },
+                    {},
+                    {
+                        "entity id": "Q13690",
+                        "label": "Northern Mindanao"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "N10",
+                [
+                    "/wiki/N10_highway_(Philippines)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Davao City",
+                [
+                    "/wiki/Davao_City"
+                ],
+                [
+                    {
+                        "entity id": "Q1473",
+                        "label": "Davao City"
+                    }
+                ]
+            ],
+            [
+                "Cagayan de Oro",
+                [
+                    "/wiki/Cagayan_de_Oro"
+                ],
+                [
+                    {
+                        "entity id": "Q1645",
+                        "label": "Cagayan de Oro"
+                    }
+                ]
+            ],
+            [
+                "278 km ( 173 mi )",
+                []
+            ],
+            [
+                "Davao-Bukidnon Road Sayre Highway ( Maramag to Cagayan de Oro )",
+                [
+                    "/wiki/Davao\u2013Bukidnon_Road",
+                    "/wiki/Sayre_Highway",
+                    "/wiki/Maramag,_Bukidnon"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q7429298",
+                        "label": "Sayre Highway"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Davao Region , Northern Mindanao",
+                [
+                    "/wiki/Davao_Region",
+                    "/wiki/Northern_Mindanao"
+                ],
+                [
+                    {
+                        "entity id": "Q13694",
+                        "label": "Davao Region"
+                    },
+                    {
+                        "entity id": "Q13690",
+                        "label": "Northern Mindanao"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "N11",
+                [
+                    "/wiki/N11_highway_(Philippines)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Taguig",
+                [
+                    "/wiki/Taguig"
+                ],
+                [
+                    {
+                        "entity id": "Q1643",
+                        "label": "Taguig"
+                    }
+                ]
+            ],
+            [
+                "Quezon City",
+                [
+                    "/wiki/Quezon_City"
+                ],
+                [
+                    {
+                        "entity id": "Q1475",
+                        "label": "Quezon City"
+                    }
+                ]
+            ],
+            [
+                "18 km ( 11 mi )",
+                []
+            ],
+            [
+                "Carlos P. Garcia Avenue Eulogio Rodriguez Jr. Avenue",
+                [
+                    "/wiki/Carlos_P._Garcia_Avenue"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Metro Manila",
+                [
+                    "/wiki/Metro_Manila"
+                ],
+                [
+                    {
+                        "entity id": "Q13580",
+                        "label": "Metro Manila"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "N51",
+                [
+                    "/wiki/N51_highway_(Philippines)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Santiago",
+                [
+                    "/wiki/Santiago_(Philippine_city)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Tuguegarao",
+                [
+                    "/wiki/Tuguegarao"
+                ],
+                [
+                    {
+                        "entity id": "Q2200",
+                        "label": "Tuguegarao"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Santiago-Tuguegarao Road",
+                [
+                    "/wiki/Santiago\u2013Tuguegarao_Road"
+                ],
+                [
+                    {
+                        "entity id": "Q47089887",
+                        "label": "Santiago\u2013Tuguegarao Road"
+                    }
+                ]
+            ],
+            [
+                "Isabela , Cagayan",
+                [
+                    "/wiki/Isabela_(province)",
+                    "/wiki/Cagayan"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q13759",
+                        "label": "Cagayan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "N52",
+                [
+                    "/wiki/N52_highway_(Philippines)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Tabuk",
+                [
+                    "/wiki/Tabuk,_Kalinga"
+                ],
+                [
+                    {
+                        "entity id": "Q35925",
+                        "label": "Tabuk"
+                    }
+                ]
+            ],
+            [
+                "Enrile",
+                [
+                    "/wiki/Enrile,_Cagayan"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Kalinga-Cagayan Road",
+                []
+            ],
+            [
+                "Kalinga , Cagayan , Isabela",
+                [
+                    "/wiki/Kalinga_(province)",
+                    "/wiki/Cagayan",
+                    "/wiki/Isabela_(province)"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q13759",
+                        "label": "Cagayan"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "N53",
+                []
+            ],
+            [
+                "Cabatuan",
+                [
+                    "/wiki/Cabatuan,_Isabela"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Cauayan",
+                [
+                    "/wiki/Cauayan,_Isabela"
+                ],
+                [
+                    {
+                        "entity id": "Q50178",
+                        "label": "Cauayan"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Cauayan-Cabatuan Road",
+                []
+            ],
+            [
+                "Isabela , Cagayan",
+                [
+                    "/wiki/Isabela_(province)",
+                    "/wiki/Cagayan"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q13759",
+                        "label": "Cagayan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "N54",
+                [
+                    "/wiki/N54_highway_(Philippines)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Bauang",
+                [
+                    "/wiki/Bauang,_La_Union"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Baguio",
+                [
+                    "/wiki/Baguio"
+                ],
+                [
+                    {
+                        "entity id": "Q1822",
+                        "label": "Baguio"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Kennon Road Governor Pack Road Harrison Road Naguilian Road",
+                [
+                    "/wiki/Kennon_Road",
+                    "/wiki/Governor_Pack_Road",
+                    "/wiki/Naguilian_Road"
+                ],
+                [
+                    {
+                        "entity id": "Q3551529",
+                        "label": "Kennon Road"
+                    },
+                    {
+                        "entity id": "Q25247733",
+                        "label": "Governor Pack Road"
+                    },
+                    {
+                        "entity id": "Q18391530",
+                        "label": "Naguilian Road"
+                    }
+                ]
+            ],
+            [
+                "La Union , Benguet",
+                [
+                    "/wiki/La_Union",
+                    "/wiki/Benguet"
+                ],
+                [
+                    {
+                        "entity id": "Q13829",
+                        "label": "La Union"
+                    },
+                    {
+                        "entity id": "Q13750",
+                        "label": "Benguet"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "N55",
+                [
+                    "/wiki/N55_highway_(Philippines)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Dagupan",
+                [
+                    "/wiki/Dagupan"
+                ],
+                [
+                    {
+                        "entity id": "Q875070",
+                        "label": "Dagupan"
+                    }
+                ]
+            ],
+            [
+                "Tarlac City",
+                [
+                    "/wiki/Tarlac_City"
+                ],
+                [
+                    {
+                        "entity id": "Q5285",
+                        "label": "Tarlac City"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Romulo Highway",
+                [
+                    "/wiki/Romulo_Highway"
+                ],
+                [
+                    {
+                        "entity id": "Q7363366",
+                        "label": "Romulo Highway"
+                    }
+                ]
+            ],
+            [
+                "Pangasinan , Tarlac",
+                [
+                    "/wiki/Pangasinan",
+                    "/wiki/Tarlac"
+                ],
+                [
+                    {
+                        "entity id": "Q13871",
+                        "label": "Pangasinan"
+                    },
+                    {
+                        "entity id": "Q13892",
+                        "label": "Tarlac"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "N56",
+                []
+            ],
+            [
+                "San Jose",
+                [
+                    "/wiki/San_Jose,_Nueva_Ecija"
+                ],
+                [
+                    {
+                        "entity id": "Q55599",
+                        "label": "San Jose"
+                    }
+                ]
+            ],
+            [
+                "Rosales",
+                [
+                    "/wiki/Rosales,_Pangasinan"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "San Jose-Lupao Road Umingan-Rosales Road",
+                []
+            ],
+            [
+                "Nueva Ecija , Pangasinan",
+                [
+                    "/wiki/Nueva_Ecija",
+                    "/wiki/Pangasinan"
+                ],
+                [
+                    {
+                        "entity id": "Q13865",
+                        "label": "Nueva Ecija"
+                    },
+                    {
+                        "entity id": "Q13871",
+                        "label": "Pangasinan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "N57",
+                []
+            ],
+            [
+                "Urdaneta",
+                [
+                    "/wiki/Urdaneta,_Pangasinan"
+                ],
+                [
+                    {
+                        "entity id": "Q43168",
+                        "label": "Urdaneta"
+                    }
+                ]
+            ],
+            [
+                "Dagupan",
+                [
+                    "/wiki/Dagupan"
+                ],
+                [
+                    {
+                        "entity id": "Q875070",
+                        "label": "Dagupan"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Urdaneta-Dagupan Road",
+                []
+            ],
+            [
+                "Pangasinan",
+                [
+                    "/wiki/Pangasinan"
+                ],
+                [
+                    {
+                        "entity id": "Q13871",
+                        "label": "Pangasinan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "N58",
+                []
+            ],
+            [
+                "Santa Rosa",
+                [
+                    "/wiki/Santa_Rosa,_Nueva_Ecija"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Tarlac City",
+                [
+                    "/wiki/Tarlac_City"
+                ],
+                [
+                    {
+                        "entity id": "Q5285",
+                        "label": "Tarlac City"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Santa Rosa-Tarlac Road",
+                []
+            ],
+            [
+                "Nueva Ecija , Tarlac",
+                [
+                    "/wiki/Nueva_Ecija",
+                    "/wiki/Tarlac"
+                ],
+                [
+                    {
+                        "entity id": "Q13865",
+                        "label": "Nueva Ecija"
+                    },
+                    {
+                        "entity id": "Q13892",
+                        "label": "Tarlac"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "N59",
+                [
+                    "/wiki/N59_highway_(Philippines)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Quezon City",
+                [
+                    "/wiki/Quezon_City"
+                ],
+                [
+                    {
+                        "entity id": "Q1475",
+                        "label": "Quezon City"
+                    }
+                ]
+            ],
+            [
+                "Antipolo",
+                [
+                    "/wiki/Antipolo"
+                ],
+                [
+                    {
+                        "entity id": "Q1636",
+                        "label": "Antipolo"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Aurora Boulevard ( EDSA to Katipunan Avenue ) Marikina-Infanta Highway ( up to Masinag junction ) Sumulong Highway ( Masinag to Antipolo city proper )",
+                [
+                    "/wiki/Aurora_Boulevard",
+                    "/wiki/EDSA_(road)",
+                    "/wiki/Katipunan_Avenue",
+                    "/wiki/Marikina\u2013Infanta_Highway",
+                    "/wiki/Sumulong_Highway"
+                ],
+                [
+                    {
+                        "entity id": "Q4822499",
+                        "label": "Aurora Boulevard"
+                    },
+                    {},
+                    {
+                        "entity id": "Q6377631",
+                        "label": "Katipunan Avenue"
+                    },
+                    {},
+                    {
+                        "entity id": "Q7638096",
+                        "label": "Sumulong Highway"
+                    }
+                ]
+            ],
+            [
+                "Metro Manila , Rizal",
+                [
+                    "/wiki/Metro_Manila",
+                    "/wiki/Rizal"
+                ],
+                [
+                    {
+                        "entity id": "Q13580",
+                        "label": "Metro Manila"
+                    },
+                    {
+                        "entity id": "Q13874",
+                        "label": "Rizal"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Numbering system -- Numbered routes",
+    "section_text": "",
+    "uid": "Highways_in_the_Philippines_0",
+    "intro": "The Philippine highway network refers to the highway system of the Philippines. It is a network of national roads owned and maintained by the Department of Public Works and Highways which are organized into three classifications depending on their function or purpose they serve within the road network: national primary, national secondary, and national tertiary roads. The national roads connecting major cities are numbered N1-N82. They are mostly single and dual carriageways linking two or more cities. As of October 15, 2018, the Philippine highway network has a total length of 21,523.26 kilometres (13,373.93 mi) of concrete roads, 10,099.52 kilometres (6,275.55 mi) of asphalt roads, 1,264.49 kilometres (785.72 mi) of gravel roads, and 45.44 kilometres (28.24 mi) of earth roads, with a grand total of 32,932.71 kilometres (20,463.44 mi). According to a 2011 report from the Asian Development Bank, the extent of the road network in the Philippines is comparable with or better than many neighboring developing countries in Southeast Asia. However, in terms of the quality of the road system, i.e., the percentage of paved roads and the percentage of those in good or fair condition, the country lags behind its neighbors."
+}

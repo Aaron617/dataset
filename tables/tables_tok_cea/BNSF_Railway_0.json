@@ -1,0 +1,1111 @@
+{
+    "url": "https://en.wikipedia.org/wiki/BNSF_Railway",
+    "title": "BNSF Railway",
+    "header": [
+        [
+            "Region",
+            []
+        ],
+        [
+            "Division",
+            []
+        ],
+        [
+            "States and provinces",
+            []
+        ],
+        [
+            "Headquarters",
+            []
+        ],
+        [
+            "Subdivisions",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "South",
+                []
+            ],
+            [
+                "California",
+                []
+            ],
+            [
+                "California , Nevada , Utah",
+                [
+                    "/wiki/California",
+                    "/wiki/Nevada",
+                    "/wiki/Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    },
+                    {
+                        "entity id": "Q1227",
+                        "label": "Nevada"
+                    },
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    }
+                ]
+            ],
+            [
+                "San Bernardino , CA",
+                [
+                    "/wiki/San_Bernardino,_California",
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q486168",
+                        "label": "San Bernardino"
+                    },
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "Bakersfield , Cajon , Lucerne Valley , Mojave , Needles , San Bernardino , San Diego , Stockton",
+                [
+                    "/wiki/Cajon_Subdivision",
+                    "/wiki/Needles_Subdivision"
+                ],
+                [
+                    {
+                        "entity id": "Q66759999",
+                        "label": "Cajon Subdivision"
+                    },
+                    {
+                        "entity id": "Q66760345",
+                        "label": "Needles Subdivision"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "South",
+                []
+            ],
+            [
+                "Chicago",
+                []
+            ],
+            [
+                "Illinois , Iowa , Minnesota , Missouri , Wisconsin",
+                [
+                    "/wiki/Illinois",
+                    "/wiki/Iowa",
+                    "/wiki/Minnesota",
+                    "/wiki/Missouri",
+                    "/wiki/Wisconsin"
+                ],
+                [
+                    {
+                        "entity id": "Q1204",
+                        "label": "Illinois"
+                    },
+                    {
+                        "entity id": "Q1546",
+                        "label": "Iowa"
+                    },
+                    {
+                        "entity id": "Q1527",
+                        "label": "Minnesota"
+                    },
+                    {
+                        "entity id": "Q1581",
+                        "label": "Missouri"
+                    },
+                    {
+                        "entity id": "Q1537",
+                        "label": "Wisconsin"
+                    }
+                ]
+            ],
+            [
+                "Chicago , IL",
+                [
+                    "/wiki/Chicago",
+                    "/wiki/Illinois"
+                ],
+                [
+                    {
+                        "entity id": "Q1297",
+                        "label": "Chicago"
+                    },
+                    {
+                        "entity id": "Q1204",
+                        "label": "Illinois"
+                    }
+                ]
+            ],
+            [
+                "Aurora , Barstow , Brookfield , Chicago , Chillicothe , Marceline , Mendota , Ottumwa , Peoria , St. Croix , Thomas Hill",
+                [
+                    "/wiki/Aurora_Subdivision",
+                    "/wiki/Chicago_Subdivision",
+                    "/wiki/Chillicothe_Subdivision",
+                    "/wiki/Marceline_Subdivision",
+                    "/wiki/Mendota_Subdivision",
+                    "/wiki/St._Croix_Subdivision"
+                ],
+                [
+                    {
+                        "entity id": "Q4822609",
+                        "label": "Aurora Subdivision"
+                    },
+                    {
+                        "entity id": "Q5095793",
+                        "label": "Chicago Subdivision"
+                    },
+                    {
+                        "entity id": "Q66761987",
+                        "label": "Chillicothe Subdivision"
+                    },
+                    {
+                        "entity id": "Q39045322",
+                        "label": "Marceline Subdivision"
+                    },
+                    {
+                        "entity id": "Q70581185",
+                        "label": "Mendota Subdivision"
+                    },
+                    {
+                        "entity id": "Q7587683",
+                        "label": "St. Croix Subdivision"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Central",
+                []
+            ],
+            [
+                "Gulf ( Now the Red River Division )",
+                []
+            ],
+            [
+                "Arkansas , Louisiana , Texas",
+                [
+                    "/wiki/Arkansas",
+                    "/wiki/Louisiana",
+                    "/wiki/Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q1612",
+                        "label": "Arkansas"
+                    },
+                    {
+                        "entity id": "Q1588",
+                        "label": "Louisiana"
+                    },
+                    {
+                        "entity id": "Q1439",
+                        "label": "Texas"
+                    }
+                ]
+            ],
+            [
+                "Spring , TX",
+                [
+                    "/wiki/Spring,_Texas",
+                    "/wiki/Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q981346",
+                        "label": "Spring"
+                    },
+                    {
+                        "entity id": "Q1439",
+                        "label": "Texas"
+                    }
+                ]
+            ],
+            [
+                "Bay City , Conroe , Galveston , Houston , Lafayette , Lampasas , Longview , Mykawa , Silsbee",
+                []
+            ]
+        ],
+        [
+            [
+                "South",
+                []
+            ],
+            [
+                "Kansas",
+                []
+            ],
+            [
+                "Colorado , Kansas , Missouri , Nebraska , New Mexico , Oklahoma , Texas",
+                [
+                    "/wiki/Colorado",
+                    "/wiki/Kansas",
+                    "/wiki/Missouri",
+                    "/wiki/Nebraska",
+                    "/wiki/New_Mexico",
+                    "/wiki/Oklahoma",
+                    "/wiki/Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q1261",
+                        "label": "Colorado"
+                    },
+                    {
+                        "entity id": "Q1558",
+                        "label": "Kansas"
+                    },
+                    {
+                        "entity id": "Q1581",
+                        "label": "Missouri"
+                    },
+                    {
+                        "entity id": "Q1553",
+                        "label": "Nebraska"
+                    },
+                    {
+                        "entity id": "Q1522",
+                        "label": "New Mexico"
+                    },
+                    {
+                        "entity id": "Q1649",
+                        "label": "Oklahoma"
+                    },
+                    {
+                        "entity id": "Q1439",
+                        "label": "Texas"
+                    }
+                ]
+            ],
+            [
+                "Kansas City , KS",
+                [
+                    "/wiki/Kansas_City,_Kansas",
+                    "/wiki/Kansas"
+                ],
+                [
+                    {
+                        "entity id": "Q486472",
+                        "label": "Kansas City"
+                    },
+                    {
+                        "entity id": "Q1558",
+                        "label": "Kansas"
+                    }
+                ]
+            ],
+            [
+                "Arkansas City , Douglass , Emporia , Hereford , La Junta , Panhandle , Plainview , Slaton , Strong City , Topeka , Fort Scott",
+                [
+                    "/wiki/Emporia_Subdivision",
+                    "/wiki/Hereford_Subdivision",
+                    "/wiki/La_Junta_Subdivision",
+                    "/wiki/Panhandle_Subdivision"
+                ],
+                [
+                    {
+                        "entity id": "Q66761821",
+                        "label": "Emporia Subdivision"
+                    },
+                    {
+                        "entity id": "Q66761409",
+                        "label": "Hereford Subdivision"
+                    },
+                    {
+                        "entity id": "Q6463291",
+                        "label": "La Junta Subdivision"
+                    },
+                    {
+                        "entity id": "Q66761565",
+                        "label": "Panhandle Subdivision"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "South",
+                []
+            ],
+            [
+                "Los Angeles",
+                []
+            ],
+            [
+                "California",
+                [
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "Los Angeles , CA",
+                [
+                    "/wiki/Los_Angeles",
+                    "/wiki/California"
+                ],
+                [
+                    {
+                        "entity id": "Q65",
+                        "label": "Los Angeles"
+                    },
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    }
+                ]
+            ],
+            [
+                "Alameda Corridor , Harbor , San Bernardino",
+                [
+                    "/wiki/Alameda_Corridor_Subdivision",
+                    "/wiki/Harbor_Subdivision"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q5654674",
+                        "label": "Harbor Subdivision"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "North",
+                []
+            ],
+            [
+                "Montana",
+                []
+            ],
+            [
+                "Montana , North Dakota , Wyoming",
+                [
+                    "/wiki/Montana",
+                    "/wiki/North_Dakota",
+                    "/wiki/Wyoming"
+                ],
+                [
+                    {
+                        "entity id": "Q1212",
+                        "label": "Montana"
+                    },
+                    {
+                        "entity id": "Q1207",
+                        "label": "North Dakota"
+                    },
+                    {
+                        "entity id": "Q1214",
+                        "label": "Wyoming"
+                    }
+                ]
+            ],
+            [
+                "Billings , MT",
+                [
+                    "/wiki/Billings,_Montana",
+                    "/wiki/Montana"
+                ],
+                [
+                    {
+                        "entity id": "Q166304",
+                        "label": "Billings"
+                    },
+                    {
+                        "entity id": "Q1212",
+                        "label": "Montana"
+                    }
+                ]
+            ],
+            [
+                "Big Sandy , Broadview , Casper , Choteau , Circle , Cody , Colstrip , Crosby , Dickinson , Fairfield , Forsyth , Ft. Benton , Glasgow , Great Falls , Grenora , Helena , Hettinger , Hi Line , Kootenai River , Laurel , Lewistown , Milk River , Mobridge , Niobe , Sarpy Line , Sweet Grass , Valier",
+                [
+                    "/wiki/Glasgow_Subdivision",
+                    "/wiki/Hi_Line_Subdivision",
+                    "/wiki/Kootenai_River_Subdivision",
+                    "/wiki/Milk_River_Subdivision"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q20379523",
+                        "label": "Hi Line Subdivision"
+                    },
+                    {
+                        "entity id": "Q109837629",
+                        "label": "Kootenai River Subdivision"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Central",
+                []
+            ],
+            [
+                "Nebraska",
+                []
+            ],
+            [
+                "Illinois , Iowa , Kansas , Missouri , Nebraska",
+                [
+                    "/wiki/Illinois",
+                    "/wiki/Iowa",
+                    "/wiki/Kansas",
+                    "/wiki/Missouri",
+                    "/wiki/Nebraska"
+                ],
+                [
+                    {
+                        "entity id": "Q1204",
+                        "label": "Illinois"
+                    },
+                    {
+                        "entity id": "Q1546",
+                        "label": "Iowa"
+                    },
+                    {
+                        "entity id": "Q1558",
+                        "label": "Kansas"
+                    },
+                    {
+                        "entity id": "Q1581",
+                        "label": "Missouri"
+                    },
+                    {
+                        "entity id": "Q1553",
+                        "label": "Nebraska"
+                    }
+                ]
+            ],
+            [
+                "Lincoln , NE",
+                [
+                    "/wiki/Lincoln,_Nebraska",
+                    "/wiki/Nebraska"
+                ],
+                [
+                    {
+                        "entity id": "Q28260",
+                        "label": "Lincoln"
+                    },
+                    {
+                        "entity id": "Q1553",
+                        "label": "Nebraska"
+                    }
+                ]
+            ],
+            [
+                "Bayard , Beatrice , Bellwood , Council Bluffs , Creston , Des Moines , Giltner , Hastings , Lester , Napier , Neb City , Omaha , Ottumwa , Ravenna , Sioux City , St. Joseph , Wymore",
+                [
+                    "/wiki/Bellwood_Subdivision",
+                    "/wiki/Creston_Subdivision"
+                ],
+                [
+                    {
+                        "entity id": "Q29468902",
+                        "label": "Bellwood Subdivision"
+                    },
+                    {
+                        "entity id": "Q70579957",
+                        "label": "Creston Subdivision"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "North",
+                []
+            ],
+            [
+                "Northwest",
+                []
+            ],
+            [
+                "British Columbia , California , Idaho , Montana , Oregon , Washington",
+                [
+                    "/wiki/British_Columbia",
+                    "/wiki/California",
+                    "/wiki/Idaho",
+                    "/wiki/Montana",
+                    "/wiki/Oregon",
+                    "/wiki/Washington_(state)"
+                ],
+                [
+                    {
+                        "entity id": "Q1973",
+                        "label": "British Columbia"
+                    },
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    },
+                    {
+                        "entity id": "Q1221",
+                        "label": "Idaho"
+                    },
+                    {
+                        "entity id": "Q1212",
+                        "label": "Montana"
+                    },
+                    {
+                        "entity id": "Q824",
+                        "label": "Oregon"
+                    },
+                    {
+                        "entity id": "Q1223",
+                        "label": "Washington"
+                    }
+                ]
+            ],
+            [
+                "Seattle , WA",
+                [
+                    "/wiki/Seattle",
+                    "/wiki/Washington_(state)"
+                ],
+                [
+                    {
+                        "entity id": "Q5083",
+                        "label": "Seattle"
+                    },
+                    {
+                        "entity id": "Q1223",
+                        "label": "Washington"
+                    }
+                ]
+            ],
+            [
+                "Bellingham , Burbank , Cherry Point , Coeur d'Alene , Columbia River , Fallbridge , Gateway , Kettle Falls , Lakeside , Newport , New Westminster , Oregon Trunk , Scenic , Seattle , Spokane , Stampede , Sumas , Yakima Valley",
+                [
+                    "/wiki/Coeur_d'Alene_Subdivision",
+                    "/wiki/Columbia_River_Subdivision",
+                    "/wiki/Gateway_Subdivision",
+                    "/wiki/Lakeside_Subdivision",
+                    "/wiki/Oregon_Trunk_Subdivision",
+                    "/wiki/Scenic_Subdivision",
+                    "/wiki/Spokane_Subdivision"
+                ],
+                [
+                    {
+                        "entity id": "Q16915077",
+                        "label": "Coeur d'Alene Subdivision"
+                    },
+                    {
+                        "entity id": "Q5149823",
+                        "label": "Columbia River Subdivision"
+                    },
+                    {
+                        "entity id": "Q5527293",
+                        "label": "Gateway Subdivision"
+                    },
+                    {
+                        "entity id": "Q16909502",
+                        "label": "Lakeside Subdivision"
+                    },
+                    {},
+                    {
+                        "entity id": "Q7430813",
+                        "label": "Scenic Subdivision"
+                    },
+                    {
+                        "entity id": "Q16984885",
+                        "label": "Spokane Subdivision"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Central",
+                []
+            ],
+            [
+                "Powder River",
+                []
+            ],
+            [
+                "Colorado , Nebraska , New Mexico , Oklahoma , South Dakota , Texas , Utah , Wyoming",
+                [
+                    "/wiki/Colorado",
+                    "/wiki/Nebraska",
+                    "/wiki/New_Mexico",
+                    "/wiki/Oklahoma",
+                    "/wiki/South_Dakota",
+                    "/wiki/Texas",
+                    "/wiki/Utah",
+                    "/wiki/Wyoming"
+                ],
+                [
+                    {
+                        "entity id": "Q1261",
+                        "label": "Colorado"
+                    },
+                    {
+                        "entity id": "Q1553",
+                        "label": "Nebraska"
+                    },
+                    {
+                        "entity id": "Q1522",
+                        "label": "New Mexico"
+                    },
+                    {
+                        "entity id": "Q1649",
+                        "label": "Oklahoma"
+                    },
+                    {
+                        "entity id": "Q1211",
+                        "label": "South Dakota"
+                    },
+                    {
+                        "entity id": "Q1439",
+                        "label": "Texas"
+                    },
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    },
+                    {
+                        "entity id": "Q1214",
+                        "label": "Wyoming"
+                    }
+                ]
+            ],
+            [
+                "Gillette , WY",
+                [
+                    "/wiki/Gillette,_Wyoming",
+                    "/wiki/Wyoming"
+                ],
+                [
+                    {
+                        "entity id": "Q919040",
+                        "label": "Gillette"
+                    },
+                    {
+                        "entity id": "Q1214",
+                        "label": "Wyoming"
+                    }
+                ]
+            ],
+            [
+                "Akron , Angora , Big Horn , Black Hills , Boise City , Brush , Butte , Campbell , Canyon , Dalhart , Dutch , Front Range , Golden , Orin , Pikes Peak , Pueblo , Reno , Sand Hills , Spanish Peaks , Twin Peaks , Valley",
+                [
+                    "/wiki/Orin_Subdivision"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "South",
+                []
+            ],
+            [
+                "Southwest",
+                []
+            ],
+            [
+                "Arizona , California , Colorado , New Mexico , Texas",
+                [
+                    "/wiki/Arizona",
+                    "/wiki/California",
+                    "/wiki/Colorado",
+                    "/wiki/New_Mexico",
+                    "/wiki/Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q816",
+                        "label": "Arizona"
+                    },
+                    {
+                        "entity id": "Q99",
+                        "label": "California"
+                    },
+                    {
+                        "entity id": "Q1261",
+                        "label": "Colorado"
+                    },
+                    {
+                        "entity id": "Q1522",
+                        "label": "New Mexico"
+                    },
+                    {
+                        "entity id": "Q1439",
+                        "label": "Texas"
+                    }
+                ]
+            ],
+            [
+                "Belen , NM",
+                [
+                    "/wiki/Belen,_New_Mexico",
+                    "/wiki/New_Mexico"
+                ],
+                [
+                    {
+                        "entity id": "Q815390",
+                        "label": "Belen"
+                    },
+                    {
+                        "entity id": "Q1522",
+                        "label": "New Mexico"
+                    }
+                ]
+            ],
+            [
+                "Clovis , Coronado , Defiance , El Paso , Ennis , Gallup , Glorieta , Lee Ranch , Phoenix , Raton , Seligman , Springerville",
+                [
+                    "/wiki/Clovis_Subdivision",
+                    "/wiki/El_Paso_Subdivision",
+                    "/wiki/Gallup_Subdivision",
+                    "/wiki/Raton_Subdivision",
+                    "/wiki/Seligman_Subdivision"
+                ],
+                [
+                    {
+                        "entity id": "Q66761316",
+                        "label": "Clovis Subdivision"
+                    },
+                    {
+                        "entity id": "Q5351798",
+                        "label": "El Paso Subdivision"
+                    },
+                    {
+                        "entity id": "Q66761247",
+                        "label": "Gallup Subdivision"
+                    },
+                    {
+                        "entity id": "Q66969489",
+                        "label": "Raton Subdivision"
+                    },
+                    {
+                        "entity id": "Q66760737",
+                        "label": "Seligman Subdivision"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Central",
+                []
+            ],
+            [
+                "Springfield",
+                []
+            ],
+            [
+                "Alabama , Florida , Arkansas , Illinois , Iowa , Kansas , Kentucky , Mississippi , Missouri , Oklahoma , Tennessee",
+                [
+                    "/wiki/Alabama",
+                    "/wiki/Florida",
+                    "/wiki/Arkansas",
+                    "/wiki/Illinois",
+                    "/wiki/Iowa",
+                    "/wiki/Kansas",
+                    "/wiki/Kentucky",
+                    "/wiki/Mississippi",
+                    "/wiki/Missouri",
+                    "/wiki/Oklahoma",
+                    "/wiki/Tennessee"
+                ],
+                [
+                    {
+                        "entity id": "Q173",
+                        "label": "Alabama"
+                    },
+                    {
+                        "entity id": "Q812",
+                        "label": "Florida"
+                    },
+                    {
+                        "entity id": "Q1612",
+                        "label": "Arkansas"
+                    },
+                    {
+                        "entity id": "Q1204",
+                        "label": "Illinois"
+                    },
+                    {
+                        "entity id": "Q1546",
+                        "label": "Iowa"
+                    },
+                    {
+                        "entity id": "Q1558",
+                        "label": "Kansas"
+                    },
+                    {
+                        "entity id": "Q1603",
+                        "label": "Kentucky"
+                    },
+                    {
+                        "entity id": "Q1494",
+                        "label": "Mississippi"
+                    },
+                    {
+                        "entity id": "Q1581",
+                        "label": "Missouri"
+                    },
+                    {
+                        "entity id": "Q1649",
+                        "label": "Oklahoma"
+                    },
+                    {
+                        "entity id": "Q1509",
+                        "label": "Tennessee"
+                    }
+                ]
+            ],
+            [
+                "Springfield , MO",
+                [
+                    "/wiki/Springfield,_Missouri",
+                    "/wiki/Missouri"
+                ],
+                [
+                    {
+                        "entity id": "Q135615",
+                        "label": "Springfield"
+                    },
+                    {
+                        "entity id": "Q1581",
+                        "label": "Missouri"
+                    }
+                ]
+            ],
+            [
+                "Afton , Amory , Avard , Beardstown , Pensacola , Birmingham , Cherokee , Cuba , Fort Scott , Hannibal , Lead Line , River , Thayer North , Thayer South , Yates City",
+                [
+                    "/wiki/Avard_Subdivision"
+                ],
+                [
+                    {
+                        "entity id": "Q20710495",
+                        "label": "Avard Subdivision"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Central",
+                []
+            ],
+            [
+                "Texas ( Now Red River Division )",
+                []
+            ],
+            [
+                "Kansas , Oklahoma , Texas",
+                [
+                    "/wiki/Kansas",
+                    "/wiki/Oklahoma",
+                    "/wiki/Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q1558",
+                        "label": "Kansas"
+                    },
+                    {
+                        "entity id": "Q1649",
+                        "label": "Oklahoma"
+                    },
+                    {
+                        "entity id": "Q1439",
+                        "label": "Texas"
+                    }
+                ]
+            ],
+            [
+                "Fort Worth , TX",
+                [
+                    "/wiki/Fort_Worth,_Texas",
+                    "/wiki/Texas"
+                ],
+                [
+                    {
+                        "entity id": "Q16558",
+                        "label": "Fort Worth"
+                    },
+                    {
+                        "entity id": "Q1439",
+                        "label": "Texas"
+                    }
+                ]
+            ],
+            [
+                "BBRX , Chickasha , Creek , DFW , Ft. Worth , Madill , Red River Valley , Red Rock , Sooner , Venus , Wichita Falls",
+                []
+            ]
+        ],
+        [
+            [
+                "North",
+                []
+            ],
+            [
+                "Twin Cities",
+                []
+            ],
+            [
+                "Iowa , Manitoba , Minnesota , Nebraska , North Dakota , South Dakota , Wisconsin",
+                [
+                    "/wiki/Iowa",
+                    "/wiki/Manitoba",
+                    "/wiki/Minnesota",
+                    "/wiki/Nebraska",
+                    "/wiki/North_Dakota",
+                    "/wiki/South_Dakota",
+                    "/wiki/Wisconsin"
+                ],
+                [
+                    {
+                        "entity id": "Q1546",
+                        "label": "Iowa"
+                    },
+                    {
+                        "entity id": "Q1948",
+                        "label": "Manitoba"
+                    },
+                    {
+                        "entity id": "Q1527",
+                        "label": "Minnesota"
+                    },
+                    {
+                        "entity id": "Q1553",
+                        "label": "Nebraska"
+                    },
+                    {
+                        "entity id": "Q1207",
+                        "label": "North Dakota"
+                    },
+                    {
+                        "entity id": "Q1211",
+                        "label": "South Dakota"
+                    },
+                    {
+                        "entity id": "Q1537",
+                        "label": "Wisconsin"
+                    }
+                ]
+            ],
+            [
+                "Minneapolis , MN",
+                [
+                    "/wiki/Minneapolis",
+                    "/wiki/Minnesota"
+                ],
+                [
+                    {
+                        "entity id": "Q36091",
+                        "label": "Minneapolis"
+                    },
+                    {
+                        "entity id": "Q1527",
+                        "label": "Minnesota"
+                    }
+                ]
+            ],
+            [
+                "Aberdeen , Allouez , Appleton , Brainerd , Browns Valley , Canton , Casco , Clifford Line , Corson , Devils Lake , Drayton , Glasston , Grand Forks , Hanley Falls , Hannah , Hib Tac , Hillsboro , Hinckley , Hunter , Jamestown , KO , Lakes , Madison , Marshall , Mayville , Midway , Mitchell , Monticello , Moorhead , Morris , Noyes , P Line , Prosper , Rolla , Staples , St. Paul , Warwick , Watertown , Wayzata , Westhope , Zap Line",
+                [
+                    "/wiki/Aberdeen_Subdivision",
+                    "/wiki/Brainerd_Subdivision",
+                    "/wiki/Hinckley_Subdivision",
+                    "/wiki/KO_Subdivision",
+                    "/wiki/Lakes_Subdivision",
+                    "/wiki/Midway_Subdivision",
+                    "/wiki/Monticello_Subdivision",
+                    "/wiki/Moorhead_Subdivision",
+                    "/wiki/Morris_Subdivision",
+                    "/wiki/Staples_Subdivision",
+                    "/wiki/St._Paul_Subdivision",
+                    "/wiki/Watertown_Subdivision",
+                    "/wiki/Wayzata_Subdivision"
+                ],
+                [
+                    {
+                        "entity id": "Q39078572",
+                        "label": "Aberdeen Subdivision"
+                    },
+                    {
+                        "entity id": "Q85748714",
+                        "label": "Brainerd Subdivision"
+                    },
+                    {
+                        "entity id": "Q5765783",
+                        "label": "Hinckley Subdivision"
+                    },
+                    {},
+                    {
+                        "entity id": "Q6478978",
+                        "label": "Lakes Subdivision"
+                    },
+                    {
+                        "entity id": "Q6843316",
+                        "label": "Midway Subdivision"
+                    },
+                    {
+                        "entity id": "Q6905981",
+                        "label": "Monticello Subdivision"
+                    },
+                    {
+                        "entity id": "Q6908390",
+                        "label": "Moorhead Subdivision"
+                    },
+                    {
+                        "entity id": "Q6913905",
+                        "label": "Morris Subdivision"
+                    },
+                    {
+                        "entity id": "Q16985025",
+                        "label": "Staples Subdivision"
+                    },
+                    {
+                        "entity id": "Q7591274",
+                        "label": "St. Paul Subdivision"
+                    },
+                    {
+                        "entity id": "Q7974512",
+                        "label": "Watertown Subdivision"
+                    },
+                    {
+                        "entity id": "Q7976912",
+                        "label": "Wayzata Subdivision"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Operations -- Operating divisions",
+    "section_text": "The BNSF system is divided into 13 divisions grouped into three regions . Each division includes numerous subdivisions , normally comprising a single main line and branches . [ 46 ] A fourteenth division , Colorado , has been consolidated with the Powder River Division , except for the Casper and Cody Subdivisions , which were transferred to the Montana Division .",
+    "uid": "BNSF_Railway_0",
+    "intro": "The BNSF Railway Company (reporting mark BNSF) is the largest freight railroad network in North America. One of seven North American Class I railroads, BNSF has 42,000 employees, 32,500 miles (52,300 km) of track in 28 states, and more than 8,000 locomotives. It has three transcontinental routes that provide rail connections between the western and eastern United States. BNSF trains traveled over 169 million miles (272 million km) in 2010, more than any other North American railroad. The BNSF Railway Company is the principal operating subsidiary of parent company Burlington Northern Santa Fe, LLC. Headquartered in Fort Worth, Texas, the railroad's parent company is a wholly owned subsidiary of Berkshire Hathaway, Inc. According to corporate press releases, the BNSF Railway is among the top transporters of intermodal freight in North America. It also hauls bulk cargo, including enough coal to generate around ten per cent of the electricity produced in the United States. The creation of BNSF started with the formation of a holding company on September 22, 1995. This new holding company purchased the Atchison, Topeka and Santa Fe Railway (often called the Santa Fe) and Burlington Northern Railroad, and formally merged the railways into the Burlington Northern and Santa Fe Railway on December 31, 1996. On January 24, 2005, the railroad's name was officially changed to BNSF Railway Company using the initials of its original name. On November 3, 2009, Warren Buffett's Berkshire Hathaway announced it would acquire the remaining 77.4 percent of BNSF it did not already own for $100 per share in cash and stock - a deal valued at $44 billion."
+}

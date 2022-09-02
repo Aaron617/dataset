@@ -1,0 +1,914 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_document-markup_languages",
+    "title": "Comparison of document-markup languages",
+    "header": [
+        [
+            "Language",
+            []
+        ],
+        [
+            "Major purpose",
+            []
+        ],
+        [
+            "Based on",
+            []
+        ],
+        [
+            "Markup type",
+            []
+        ],
+        [
+            "Structural markup",
+            []
+        ],
+        [
+            "Presentational markup",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "AsciiDoc",
+                [
+                    "/wiki/AsciiDoc"
+                ],
+                [
+                    {
+                        "entity id": "Q723030",
+                        "label": "AsciiDoc"
+                    }
+                ]
+            ],
+            [
+                "Multi-purpose",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Tag",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "Computable Document Format",
+                [
+                    "/wiki/Computable_Document_Format"
+                ],
+                [
+                    {
+                        "entity id": "Q1122075",
+                        "label": "Computable Document Format"
+                    }
+                ]
+            ],
+            [
+                "Interactive technical documents , infographics , blogs",
+                []
+            ],
+            [
+                "Wolfram Language",
+                [
+                    "/wiki/Wolfram_Language"
+                ],
+                [
+                    {
+                        "entity id": "Q15241057",
+                        "label": "Wolfram Language"
+                    }
+                ]
+            ],
+            [
+                "Tag",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "Darwin Information Typing Architecture ( DITA )",
+                [
+                    "/wiki/Darwin_Information_Typing_Architecture"
+                ],
+                [
+                    {
+                        "entity id": "Q1166919",
+                        "label": "Darwin Information Typing Architecture"
+                    }
+                ]
+            ],
+            [
+                "Technical documents",
+                []
+            ],
+            [
+                "XML",
+                [
+                    "/wiki/XML"
+                ],
+                [
+                    {
+                        "entity id": "Q2115",
+                        "label": "Extensible Markup Language"
+                    }
+                ]
+            ],
+            [
+                "Tag",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "DocBook",
+                [
+                    "/wiki/DocBook"
+                ],
+                [
+                    {
+                        "entity id": "Q796483",
+                        "label": "DocBook"
+                    }
+                ]
+            ],
+            [
+                "Technical documents",
+                []
+            ],
+            [
+                "SGML / XML",
+                [
+                    "/wiki/Standard_Generalized_Markup_Language",
+                    "/wiki/XML"
+                ],
+                [
+                    {
+                        "entity id": "Q207819",
+                        "label": "Standard Generalized Markup Language"
+                    },
+                    {
+                        "entity id": "Q2115",
+                        "label": "Extensible Markup Language"
+                    }
+                ]
+            ],
+            [
+                "Tag",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "Encoded Archival Description ( EAD )",
+                [
+                    "/wiki/Encoded_Archival_Description"
+                ],
+                [
+                    {
+                        "entity id": "Q1340077",
+                        "label": "Encoded Archival Description"
+                    }
+                ]
+            ],
+            [
+                "Finding aids",
+                [
+                    "/wiki/Finding_aid"
+                ],
+                [
+                    {
+                        "entity id": "Q178376",
+                        "label": "finding aid"
+                    }
+                ]
+            ],
+            [
+                "XML",
+                [
+                    "/wiki/XML"
+                ],
+                [
+                    {
+                        "entity id": "Q2115",
+                        "label": "Extensible Markup Language"
+                    }
+                ]
+            ],
+            [
+                "Tag",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "No",
+                []
+            ]
+        ],
+        [
+            [
+                "Extensible HyperText Markup Language ( XHTML )",
+                [
+                    "/wiki/XHTML"
+                ],
+                [
+                    {
+                        "entity id": "Q166074",
+                        "label": "Extensible HyperText Markup Language"
+                    }
+                ]
+            ],
+            [
+                "Hypertext documents",
+                [
+                    "/wiki/Hypertext"
+                ],
+                [
+                    {
+                        "entity id": "Q93241",
+                        "label": "hypertext"
+                    }
+                ]
+            ],
+            [
+                "XML",
+                [
+                    "/wiki/XML"
+                ],
+                [
+                    {
+                        "entity id": "Q2115",
+                        "label": "Extensible Markup Language"
+                    }
+                ]
+            ],
+            [
+                "Tag",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "FictionBook",
+                [
+                    "/wiki/FB2"
+                ],
+                [
+                    {
+                        "entity id": "Q1411109",
+                        "label": "FictionBook"
+                    }
+                ]
+            ],
+            [
+                "Multi-purpose",
+                []
+            ],
+            [
+                "XML",
+                [
+                    "/wiki/XML"
+                ],
+                [
+                    {
+                        "entity id": "Q2115",
+                        "label": "Extensible Markup Language"
+                    }
+                ]
+            ],
+            [
+                "Tag",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "HyperText Markup Language ( HTML )",
+                [
+                    "/wiki/HTML"
+                ],
+                [
+                    {
+                        "entity id": "Q8811",
+                        "label": "HyperText Markup Language"
+                    }
+                ]
+            ],
+            [
+                "Hypertext documents",
+                [
+                    "/wiki/Hypertext"
+                ],
+                [
+                    {
+                        "entity id": "Q93241",
+                        "label": "hypertext"
+                    }
+                ]
+            ],
+            [
+                "SGML",
+                [
+                    "/wiki/Standard_Generalized_Markup_Language"
+                ],
+                [
+                    {
+                        "entity id": "Q207819",
+                        "label": "Standard Generalized Markup Language"
+                    }
+                ]
+            ],
+            [
+                "Tag",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "Lilypond",
+                [
+                    "/wiki/Lilypond"
+                ],
+                [
+                    {
+                        "entity id": "Q195946",
+                        "label": "LilyPond"
+                    }
+                ]
+            ],
+            [
+                "Music notation",
+                [
+                    "/wiki/Music_notation"
+                ],
+                [
+                    {
+                        "entity id": "Q233861",
+                        "label": "musical notation"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Control code",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "Maker Interchange Format ( MIF )",
+                [
+                    "/wiki/Maker_Interchange_Format"
+                ],
+                [
+                    {
+                        "entity id": "Q1886335",
+                        "label": "Maker Interchange Format"
+                    }
+                ]
+            ],
+            [
+                "Technical documents",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Tag",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "Markdown",
+                [
+                    "/wiki/Markdown"
+                ],
+                [
+                    {
+                        "entity id": "Q1193600",
+                        "label": "Markdown"
+                    }
+                ]
+            ],
+            [
+                "Formatted Technical documents , Hypertext documents , E-mail",
+                [
+                    "/wiki/Hypertext",
+                    "/wiki/E-mail"
+                ],
+                [
+                    {
+                        "entity id": "Q93241",
+                        "label": "hypertext"
+                    },
+                    {
+                        "entity id": "Q9158",
+                        "label": "email"
+                    }
+                ]
+            ],
+            [
+                "Text E-mail conventions",
+                []
+            ],
+            [
+                "Tag",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "Math Markup Language ( MathML )",
+                [
+                    "/wiki/MathML"
+                ],
+                [
+                    {
+                        "entity id": "Q823982",
+                        "label": "MathML"
+                    }
+                ]
+            ],
+            [
+                "Mathematical documents",
+                [
+                    "/wiki/Mathematics"
+                ],
+                [
+                    {
+                        "entity id": "Q395",
+                        "label": "mathematics"
+                    }
+                ]
+            ],
+            [
+                "XML",
+                [
+                    "/wiki/XML"
+                ],
+                [
+                    {
+                        "entity id": "Q2115",
+                        "label": "Extensible Markup Language"
+                    }
+                ]
+            ],
+            [
+                "Tag",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "The Music Encoding Initiative ( MEI )",
+                [
+                    "/wiki/Music_Encoding_Initiative"
+                ],
+                [
+                    {
+                        "entity id": "Q6941507",
+                        "label": "Music Encoding Initiative"
+                    }
+                ]
+            ],
+            [
+                "Music notation",
+                [
+                    "/wiki/Music_notation"
+                ],
+                [
+                    {
+                        "entity id": "Q233861",
+                        "label": "musical notation"
+                    }
+                ]
+            ],
+            [
+                "XML",
+                [
+                    "/wiki/XML"
+                ],
+                [
+                    {
+                        "entity id": "Q2115",
+                        "label": "Extensible Markup Language"
+                    }
+                ]
+            ],
+            [
+                "Tag",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "Music Extensible Markup Language ( MusicXML )",
+                [
+                    "/wiki/MusicXML"
+                ],
+                [
+                    {
+                        "entity id": "Q653301",
+                        "label": "MusicXML"
+                    }
+                ]
+            ],
+            [
+                "Music notation",
+                [
+                    "/wiki/Music_notation"
+                ],
+                [
+                    {
+                        "entity id": "Q233861",
+                        "label": "musical notation"
+                    }
+                ]
+            ],
+            [
+                "XML",
+                [
+                    "/wiki/XML"
+                ],
+                [
+                    {
+                        "entity id": "Q2115",
+                        "label": "Extensible Markup Language"
+                    }
+                ]
+            ],
+            [
+                "Tag",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "Office Open XML ( OOXML )",
+                [
+                    "/wiki/Office_Open_XML"
+                ],
+                [
+                    {
+                        "entity id": "Q279979",
+                        "label": "Office Open XML"
+                    }
+                ]
+            ],
+            [
+                "Multi-purpose",
+                []
+            ],
+            [
+                "XML / ZIP",
+                [
+                    "/wiki/XML",
+                    "/wiki/ZIP_(file_format)"
+                ],
+                [
+                    {
+                        "entity id": "Q2115",
+                        "label": "Extensible Markup Language"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Tag",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "OpenDocument Format ( ODF )",
+                [
+                    "/wiki/OpenDocument"
+                ],
+                [
+                    {
+                        "entity id": "Q184473",
+                        "label": "OpenDocument"
+                    }
+                ]
+            ],
+            [
+                "Multi-purpose",
+                []
+            ],
+            [
+                "XML / ZIP",
+                [
+                    "/wiki/XML",
+                    "/wiki/ZIP_(file_format)"
+                ],
+                [
+                    {
+                        "entity id": "Q2115",
+                        "label": "Extensible Markup Language"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Tag",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "Open Mathematical Document ( OMDoc )",
+                [
+                    "/wiki/OMDoc"
+                ],
+                [
+                    {
+                        "entity id": "Q268086",
+                        "label": "OMDoc"
+                    }
+                ]
+            ],
+            [
+                "Mathematical documents",
+                [
+                    "/wiki/Mathematics"
+                ],
+                [
+                    {
+                        "entity id": "Q395",
+                        "label": "mathematics"
+                    }
+                ]
+            ],
+            [
+                "XML",
+                [
+                    "/wiki/XML"
+                ],
+                [
+                    {
+                        "entity id": "Q2115",
+                        "label": "Extensible Markup Language"
+                    }
+                ]
+            ],
+            [
+                "Tag",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "Org-mode",
+                [
+                    "/wiki/Org-mode"
+                ],
+                [
+                    {
+                        "entity id": "Q307228",
+                        "label": "Org-mode"
+                    }
+                ]
+            ],
+            [
+                "Multi-purpose ( notes , project management , publishing , literate programming )",
+                []
+            ],
+            [
+                "Text outliner",
+                []
+            ],
+            [
+                "Tag",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "reStructuredText",
+                [
+                    "/wiki/ReStructuredText"
+                ],
+                [
+                    {
+                        "entity id": "Q287315",
+                        "label": "reStructuredText"
+                    }
+                ]
+            ],
+            [
+                "Technical and Multi-purpose documents",
+                []
+            ],
+            [
+                "Structured Text and Setext",
+                []
+            ],
+            [
+                "Tag",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ],
+        [
+            [
+                "Rich Text Format ( RTF )",
+                [
+                    "/wiki/Rich_Text_Format"
+                ],
+                [
+                    {
+                        "entity id": "Q467454",
+                        "label": "Rich Text Format"
+                    }
+                ]
+            ],
+            [
+                "Formatted documents",
+                []
+            ],
+            [
+                "TeX",
+                [
+                    "/wiki/TeX"
+                ],
+                [
+                    {
+                        "entity id": "Q14556957",
+                        "label": "Tex"
+                    }
+                ]
+            ],
+            [
+                "Pattern parsing",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Yes",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Characteristics",
+    "section_text": "Some characteristics of the markup languages .",
+    "uid": "Comparison_of_document_markup_languages_1",
+    "intro": "The following tables compare general and technical information for a number of document-markup languages. Please see the individual markup languages' articles for further information."
+}

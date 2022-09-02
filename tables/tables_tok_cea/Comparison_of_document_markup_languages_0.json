@@ -1,0 +1,1303 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_document-markup_languages",
+    "title": "Comparison of document-markup languages",
+    "header": [
+        [
+            "Language",
+            [
+                "/wiki/Markup_language"
+            ],
+            [
+                {
+                    "entity id": "Q37045",
+                    "label": "markup language"
+                }
+            ]
+        ],
+        [
+            "Creator",
+            []
+        ],
+        [
+            "First public release date",
+            []
+        ],
+        [
+            "Editor",
+            []
+        ],
+        [
+            "Viewer",
+            [
+                "/wiki/File_viewer"
+            ],
+            [
+                {
+                    "entity id": "Q1172313",
+                    "label": "file viewer"
+                }
+            ]
+        ]
+    ],
+    "data": [
+        [
+            [
+                "AsciiDoc",
+                [
+                    "/wiki/AsciiDoc"
+                ],
+                [
+                    {
+                        "entity id": "Q723030",
+                        "label": "AsciiDoc"
+                    }
+                ]
+            ],
+            [
+                "Stuart Rackham",
+                []
+            ],
+            [
+                "2002",
+                []
+            ],
+            [
+                "Text editor",
+                [
+                    "/wiki/Text_editor"
+                ],
+                [
+                    {
+                        "entity id": "Q131212",
+                        "label": "text editor"
+                    }
+                ]
+            ],
+            [
+                "Output to XHTML , HTML , DocBook ( which can convert to PDF , EPUB , DVI , LaTeX , roff , and Postscript )",
+                [
+                    "/wiki/XHTML",
+                    "/wiki/HTML",
+                    "/wiki/DocBook",
+                    "/wiki/PDF",
+                    "/wiki/EPUB",
+                    "/wiki/Device_independent_file_format",
+                    "/wiki/LaTeX",
+                    "/wiki/Roff_(computer_program)",
+                    "/wiki/Postscript"
+                ],
+                [
+                    {
+                        "entity id": "Q166074",
+                        "label": "Extensible HyperText Markup Language"
+                    },
+                    {
+                        "entity id": "Q8811",
+                        "label": "HyperText Markup Language"
+                    },
+                    {
+                        "entity id": "Q796483",
+                        "label": "DocBook"
+                    },
+                    {
+                        "entity id": "Q42332",
+                        "label": "Portable Document Format"
+                    },
+                    {
+                        "entity id": "Q475488",
+                        "label": "EPUB"
+                    },
+                    {
+                        "entity id": "Q901031",
+                        "label": "device independent file format"
+                    },
+                    {
+                        "entity id": "Q5310",
+                        "label": "LaTeX"
+                    },
+                    {},
+                    {
+                        "entity id": "Q218170",
+                        "label": "PostScript"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Computable Document Format",
+                [
+                    "/wiki/Computable_Document_Format"
+                ],
+                [
+                    {
+                        "entity id": "Q1122075",
+                        "label": "Computable Document Format"
+                    }
+                ]
+            ],
+            [
+                "Wolfram Research",
+                [
+                    "/wiki/Wolfram_Research"
+                ],
+                [
+                    {
+                        "entity id": "Q1367937",
+                        "label": "Wolfram Research"
+                    }
+                ]
+            ],
+            [
+                "2010",
+                []
+            ],
+            [
+                "Wolfram Language & Mathematica",
+                [
+                    "/wiki/Wolfram_Language",
+                    "/wiki/Mathematica"
+                ],
+                [
+                    {
+                        "entity id": "Q15241057",
+                        "label": "Wolfram Language"
+                    },
+                    {
+                        "entity id": "Q81294",
+                        "label": "Mathematica"
+                    }
+                ]
+            ],
+            [
+                "CDF Player ; CDF format can also be embedded in web pages viewable with conventional browsers",
+                [
+                    "/wiki/CDF_Player"
+                ],
+                [
+                    {
+                        "entity id": "Q1023112",
+                        "label": "CDF Player"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Creole",
+                [
+                    "/wiki/Creole_(markup)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "2007",
+                []
+            ],
+            [
+                "Text editor",
+                [
+                    "/wiki/Text_editor"
+                ],
+                [
+                    {
+                        "entity id": "Q131212",
+                        "label": "text editor"
+                    }
+                ]
+            ],
+            [
+                "Output to HTML , RTF , LaTeX , others ; renderers for MFC , others",
+                [
+                    "/wiki/HTML",
+                    "/wiki/Rich_Text_Format",
+                    "/wiki/LaTeX",
+                    "/wiki/Microsoft_Foundation_Class_Library"
+                ],
+                [
+                    {
+                        "entity id": "Q8811",
+                        "label": "HyperText Markup Language"
+                    },
+                    {
+                        "entity id": "Q467454",
+                        "label": "Rich Text Format"
+                    },
+                    {
+                        "entity id": "Q5310",
+                        "label": "LaTeX"
+                    },
+                    {
+                        "entity id": "Q908419",
+                        "label": "Microsoft Foundation Class Library"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Darwin Information Typing Architecture ( DITA )",
+                [
+                    "/wiki/Darwin_Information_Typing_Architecture"
+                ],
+                [
+                    {
+                        "entity id": "Q1166919",
+                        "label": "Darwin Information Typing Architecture"
+                    }
+                ]
+            ],
+            [
+                "IBM , OASIS",
+                [
+                    "/wiki/OASIS_(organization)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "2005",
+                []
+            ],
+            [
+                "Text / XML editor",
+                [
+                    "/wiki/Text_editor",
+                    "/wiki/XML_editor"
+                ],
+                [
+                    {
+                        "entity id": "Q131212",
+                        "label": "text editor"
+                    },
+                    {
+                        "entity id": "Q1760545",
+                        "label": "XML editor"
+                    }
+                ]
+            ],
+            [
+                "Output to HTML , PDF , CHM , javadoc , others",
+                [
+                    "/wiki/HTML",
+                    "/wiki/Portable_Document_Format",
+                    "/wiki/Microsoft_Compiled_HTML_Help",
+                    "/wiki/Javadoc"
+                ],
+                [
+                    {
+                        "entity id": "Q8811",
+                        "label": "HyperText Markup Language"
+                    },
+                    {
+                        "entity id": "Q42332",
+                        "label": "Portable Document Format"
+                    },
+                    {
+                        "entity id": "Q1023647",
+                        "label": "Microsoft Compiled HTML Help"
+                    },
+                    {
+                        "entity id": "Q1413077",
+                        "label": "Javadoc"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "DocBook",
+                [
+                    "/wiki/DocBook"
+                ],
+                [
+                    {
+                        "entity id": "Q796483",
+                        "label": "DocBook"
+                    }
+                ]
+            ],
+            [
+                "The Davenport Group , OASIS",
+                [
+                    "/wiki/OASIS_(organization)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1992",
+                []
+            ],
+            [
+                "XML editor",
+                [
+                    "/wiki/XML_editor"
+                ],
+                [
+                    {
+                        "entity id": "Q1760545",
+                        "label": "XML editor"
+                    }
+                ]
+            ],
+            [
+                "Output to HTML , PDF , CHM , javadoc , others",
+                [
+                    "/wiki/HTML",
+                    "/wiki/Portable_Document_Format",
+                    "/wiki/Microsoft_Compiled_HTML_Help",
+                    "/wiki/Javadoc"
+                ],
+                [
+                    {
+                        "entity id": "Q8811",
+                        "label": "HyperText Markup Language"
+                    },
+                    {
+                        "entity id": "Q42332",
+                        "label": "Portable Document Format"
+                    },
+                    {
+                        "entity id": "Q1023647",
+                        "label": "Microsoft Compiled HTML Help"
+                    },
+                    {
+                        "entity id": "Q1413077",
+                        "label": "Javadoc"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Encoded Archival Description ( EAD )",
+                [
+                    "/wiki/Encoded_Archival_Description"
+                ],
+                [
+                    {
+                        "entity id": "Q1340077",
+                        "label": "Encoded Archival Description"
+                    }
+                ]
+            ],
+            [
+                "Berkeley Project",
+                []
+            ],
+            [
+                "1998",
+                []
+            ],
+            [
+                "Text editor",
+                [
+                    "/wiki/Text_editor"
+                ],
+                [
+                    {
+                        "entity id": "Q131212",
+                        "label": "text editor"
+                    }
+                ]
+            ],
+            [
+                "Web browser",
+                [
+                    "/wiki/Web_browser"
+                ],
+                [
+                    {
+                        "entity id": "Q6368",
+                        "label": "web browser"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Extensible HyperText Markup Language ( XHTML )",
+                [
+                    "/wiki/XHTML"
+                ],
+                [
+                    {
+                        "entity id": "Q166074",
+                        "label": "Extensible HyperText Markup Language"
+                    }
+                ]
+            ],
+            [
+                "W3C",
+                [
+                    "/wiki/W3C"
+                ],
+                [
+                    {
+                        "entity id": "Q37033",
+                        "label": "World Wide Web Consortium"
+                    }
+                ]
+            ],
+            [
+                "2000 ( January 26 )",
+                []
+            ],
+            [
+                "Text / XML editor , HTML editor",
+                [
+                    "/wiki/Text_editor",
+                    "/wiki/XML_editor",
+                    "/wiki/HTML_editor"
+                ],
+                [
+                    {
+                        "entity id": "Q131212",
+                        "label": "text editor"
+                    },
+                    {
+                        "entity id": "Q1760545",
+                        "label": "XML editor"
+                    },
+                    {
+                        "entity id": "Q726761",
+                        "label": "HTML editor"
+                    }
+                ]
+            ],
+            [
+                "Web browser",
+                [
+                    "/wiki/Web_browser"
+                ],
+                [
+                    {
+                        "entity id": "Q6368",
+                        "label": "web browser"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "HyperText Markup Language ( HTML )",
+                [
+                    "/wiki/HTML"
+                ],
+                [
+                    {
+                        "entity id": "Q8811",
+                        "label": "HyperText Markup Language"
+                    }
+                ]
+            ],
+            [
+                "Tim Berners-Lee",
+                [
+                    "/wiki/Tim_Berners-Lee"
+                ],
+                [
+                    {
+                        "entity id": "Q80",
+                        "label": "Tim Berners-Lee"
+                    }
+                ]
+            ],
+            [
+                "1993",
+                []
+            ],
+            [
+                "Text editor , HTML editor",
+                [
+                    "/wiki/Text_editor",
+                    "/wiki/HTML_editor"
+                ],
+                [
+                    {
+                        "entity id": "Q131212",
+                        "label": "text editor"
+                    },
+                    {
+                        "entity id": "Q726761",
+                        "label": "HTML editor"
+                    }
+                ]
+            ],
+            [
+                "Web browser",
+                [
+                    "/wiki/Web_browser"
+                ],
+                [
+                    {
+                        "entity id": "Q6368",
+                        "label": "web browser"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "LilyPond",
+                [
+                    "/wiki/GNU_LilyPond"
+                ],
+                [
+                    {
+                        "entity id": "Q195946",
+                        "label": "LilyPond"
+                    }
+                ]
+            ],
+            [
+                "Han-Wen Nienhuys , Jan Nieuwenhuizen",
+                [
+                    "/wiki/Han-Wen_Nienhuys",
+                    "/wiki/Jan_Nieuwenhuizen"
+                ],
+                [
+                    {
+                        "entity id": "Q9001954",
+                        "label": "Han-Wen Nienhuys"
+                    },
+                    {
+                        "entity id": "Q18602659",
+                        "label": "Jan Nieuwenhuizen"
+                    }
+                ]
+            ],
+            [
+                "1996",
+                []
+            ],
+            [
+                "Text editor , Scorewriter",
+                [
+                    "/wiki/Text_editor",
+                    "/wiki/Scorewriter"
+                ],
+                [
+                    {
+                        "entity id": "Q131212",
+                        "label": "text editor"
+                    },
+                    {
+                        "entity id": "Q64601",
+                        "label": "scorewriter"
+                    }
+                ]
+            ],
+            [
+                "Output to DVI , PDF , PostScript , PNG , others",
+                [
+                    "/wiki/DVI_file_format",
+                    "/wiki/Portable_Document_Format",
+                    "/wiki/PostScript",
+                    "/wiki/Portable_Network_Graphics"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q42332",
+                        "label": "Portable Document Format"
+                    },
+                    {
+                        "entity id": "Q218170",
+                        "label": "PostScript"
+                    },
+                    {
+                        "entity id": "Q178051",
+                        "label": "Portable Network Graphics"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Maker Interchange Format ( MIF )",
+                [
+                    "/wiki/Maker_Interchange_Format"
+                ],
+                [
+                    {
+                        "entity id": "Q1886335",
+                        "label": "Maker Interchange Format"
+                    }
+                ]
+            ],
+            [
+                "Frame Technology acquired by Adobe Systems in 1995",
+                [
+                    "/wiki/Adobe_FrameMaker",
+                    "/wiki/Adobe_Systems"
+                ],
+                [
+                    {
+                        "entity id": "Q1440655",
+                        "label": "Adobe FrameMaker"
+                    },
+                    {
+                        "entity id": "Q11463",
+                        "label": "Adobe"
+                    }
+                ]
+            ],
+            [
+                "1986",
+                []
+            ],
+            [
+                "Text editor , FrameMaker",
+                [
+                    "/wiki/Text_editor",
+                    "/wiki/FrameMaker"
+                ],
+                [
+                    {
+                        "entity id": "Q131212",
+                        "label": "text editor"
+                    },
+                    {
+                        "entity id": "Q1440655",
+                        "label": "Adobe FrameMaker"
+                    }
+                ]
+            ],
+            [
+                "FrameMaker",
+                [
+                    "/wiki/FrameMaker"
+                ],
+                [
+                    {
+                        "entity id": "Q1440655",
+                        "label": "Adobe FrameMaker"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MakeDoc",
+                [
+                    "/wiki/MakeDoc"
+                ],
+                [
+                    {
+                        "entity id": "Q6738877",
+                        "label": "MakeDoc"
+                    }
+                ]
+            ],
+            [
+                "Carl Sassenrath",
+                [
+                    "/wiki/Carl_Sassenrath"
+                ],
+                [
+                    {
+                        "entity id": "Q1040403",
+                        "label": "Carl Sassenrath"
+                    }
+                ]
+            ],
+            [
+                "2000",
+                []
+            ],
+            [
+                "Text editor",
+                [
+                    "/wiki/Text_editor"
+                ],
+                [
+                    {
+                        "entity id": "Q131212",
+                        "label": "text editor"
+                    }
+                ]
+            ],
+            [
+                "Web browser ( XHTML or HTML output )",
+                [
+                    "/wiki/Web_browser",
+                    "/wiki/XHTML",
+                    "/wiki/HTML"
+                ],
+                [
+                    {
+                        "entity id": "Q6368",
+                        "label": "web browser"
+                    },
+                    {
+                        "entity id": "Q166074",
+                        "label": "Extensible HyperText Markup Language"
+                    },
+                    {
+                        "entity id": "Q8811",
+                        "label": "HyperText Markup Language"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Markdown",
+                [
+                    "/wiki/Markdown"
+                ],
+                [
+                    {
+                        "entity id": "Q1193600",
+                        "label": "Markdown"
+                    }
+                ]
+            ],
+            [
+                "John Gruber and Aaron Swartz",
+                [
+                    "/wiki/John_Gruber",
+                    "/wiki/Aaron_Swartz"
+                ],
+                [
+                    {
+                        "entity id": "Q6236506",
+                        "label": "John Gruber"
+                    },
+                    {
+                        "entity id": "Q302817",
+                        "label": "Aaron Swartz"
+                    }
+                ]
+            ],
+            [
+                "2004",
+                []
+            ],
+            [
+                "Text editor , E-mail client",
+                [
+                    "/wiki/Text_editor",
+                    "/wiki/E-mail_client"
+                ],
+                [
+                    {
+                        "entity id": "Q131212",
+                        "label": "text editor"
+                    },
+                    {
+                        "entity id": "Q570871",
+                        "label": "email client"
+                    }
+                ]
+            ],
+            [
+                "Web browser ( XHTML or HTML output ) , preview in gedit-markdown-plugin",
+                [
+                    "/wiki/Web_browser",
+                    "/wiki/XHTML",
+                    "/wiki/HTML"
+                ],
+                [
+                    {
+                        "entity id": "Q6368",
+                        "label": "web browser"
+                    },
+                    {
+                        "entity id": "Q166074",
+                        "label": "Extensible HyperText Markup Language"
+                    },
+                    {
+                        "entity id": "Q8811",
+                        "label": "HyperText Markup Language"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Textile",
+                [
+                    "/wiki/Textile_(markup_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Dean Allen",
+                []
+            ],
+            [
+                "2002",
+                []
+            ],
+            [
+                "Text editor",
+                [
+                    "/wiki/Text_editor"
+                ],
+                [
+                    {
+                        "entity id": "Q131212",
+                        "label": "text editor"
+                    }
+                ]
+            ],
+            [
+                "Web browser ( XHTML or HTML output ) , reference and tester ( uses latest PHP-Textile version 3.5.5 )",
+                [
+                    "/wiki/Web_browser",
+                    "/wiki/XHTML",
+                    "/wiki/HTML"
+                ],
+                [
+                    {
+                        "entity id": "Q6368",
+                        "label": "web browser"
+                    },
+                    {
+                        "entity id": "Q166074",
+                        "label": "Extensible HyperText Markup Language"
+                    },
+                    {
+                        "entity id": "Q8811",
+                        "label": "HyperText Markup Language"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Math Markup Language ( MathML )",
+                [
+                    "/wiki/MathML"
+                ],
+                [
+                    {
+                        "entity id": "Q823982",
+                        "label": "MathML"
+                    }
+                ]
+            ],
+            [
+                "W3C",
+                [
+                    "/wiki/W3C"
+                ],
+                [
+                    {
+                        "entity id": "Q37033",
+                        "label": "World Wide Web Consortium"
+                    }
+                ]
+            ],
+            [
+                "1999 ( July )",
+                []
+            ],
+            [
+                "Text / XML editor , TeX converter",
+                [
+                    "/wiki/Text_editor",
+                    "/wiki/XML_editor",
+                    "/wiki/TeX"
+                ],
+                [
+                    {
+                        "entity id": "Q131212",
+                        "label": "text editor"
+                    },
+                    {
+                        "entity id": "Q1760545",
+                        "label": "XML editor"
+                    },
+                    {
+                        "entity id": "Q14556957",
+                        "label": "Tex"
+                    }
+                ]
+            ],
+            [
+                "Web browser , Word processor",
+                [
+                    "/wiki/Web_browser",
+                    "/wiki/Word_processor"
+                ],
+                [
+                    {
+                        "entity id": "Q6368",
+                        "label": "web browser"
+                    },
+                    {
+                        "entity id": "Q54277",
+                        "label": "word processor"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "The Music Encoding Initiative ( MEI )",
+                [
+                    "/wiki/Music_Encoding_Initiative"
+                ],
+                [
+                    {
+                        "entity id": "Q6941507",
+                        "label": "Music Encoding Initiative"
+                    }
+                ]
+            ],
+            [
+                "The MEI Community",
+                []
+            ],
+            [
+                "1999",
+                []
+            ],
+            [
+                "XML editor",
+                [
+                    "/wiki/XML_editor"
+                ],
+                [
+                    {
+                        "entity id": "Q1760545",
+                        "label": "XML editor"
+                    }
+                ]
+            ],
+            [
+                "Verovio",
+                []
+            ]
+        ],
+        [
+            [
+                "Music Extensible Markup Language ( MusicXML )",
+                [
+                    "/wiki/MusicXML"
+                ],
+                [
+                    {
+                        "entity id": "Q653301",
+                        "label": "MusicXML"
+                    }
+                ]
+            ],
+            [
+                "Recordare",
+                []
+            ],
+            [
+                "2002",
+                []
+            ],
+            [
+                "Scorewriter",
+                [
+                    "/wiki/Scorewriter"
+                ],
+                [
+                    {
+                        "entity id": "Q64601",
+                        "label": "scorewriter"
+                    }
+                ]
+            ],
+            [
+                "Scorewriter",
+                [
+                    "/wiki/Scorewriter"
+                ],
+                [
+                    {
+                        "entity id": "Q64601",
+                        "label": "scorewriter"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Office Open XML ( OOXML )",
+                [
+                    "/wiki/Office_Open_XML"
+                ],
+                [
+                    {
+                        "entity id": "Q279979",
+                        "label": "Office Open XML"
+                    }
+                ]
+            ],
+            [
+                "Ecma International , ISO / IEC",
+                [
+                    "/wiki/Ecma_International",
+                    "/wiki/International_Organisation_for_Standardisation",
+                    "/wiki/International_Electrotechnical_Commission"
+                ],
+                [
+                    {
+                        "entity id": "Q837335",
+                        "label": "Ecma International"
+                    },
+                    {
+                        "entity id": "Q60095472",
+                        "label": "International Organisation for Standardisation"
+                    },
+                    {
+                        "entity id": "Q193858",
+                        "label": "International Electrotechnical Commission"
+                    }
+                ]
+            ],
+            [
+                "2006",
+                []
+            ],
+            [
+                "Office suite",
+                [
+                    "/wiki/Office_suite"
+                ],
+                [
+                    {
+                        "entity id": "Q207170",
+                        "label": "office suite"
+                    }
+                ]
+            ],
+            [
+                "Office suite",
+                [
+                    "/wiki/Office_suite"
+                ],
+                [
+                    {
+                        "entity id": "Q207170",
+                        "label": "office suite"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "OpenDocument Format ( ODF )",
+                [
+                    "/wiki/OpenDocument"
+                ],
+                [
+                    {
+                        "entity id": "Q184473",
+                        "label": "OpenDocument"
+                    }
+                ]
+            ],
+            [
+                "OASIS , ISO / IEC",
+                [
+                    "/wiki/OASIS_(organization)",
+                    "/wiki/International_Organisation_for_Standardisation",
+                    "/wiki/International_Electrotechnical_Commission"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q60095472",
+                        "label": "International Organisation for Standardisation"
+                    },
+                    {
+                        "entity id": "Q193858",
+                        "label": "International Electrotechnical Commission"
+                    }
+                ]
+            ],
+            [
+                "2005",
+                []
+            ],
+            [
+                "Office suite",
+                [
+                    "/wiki/Office_suite"
+                ],
+                [
+                    {
+                        "entity id": "Q207170",
+                        "label": "office suite"
+                    }
+                ]
+            ],
+            [
+                "Office suite",
+                [
+                    "/wiki/Office_suite"
+                ],
+                [
+                    {
+                        "entity id": "Q207170",
+                        "label": "office suite"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Open Mathematical Documents ( OMDoc )",
+                [
+                    "/wiki/OMDoc"
+                ],
+                [
+                    {
+                        "entity id": "Q268086",
+                        "label": "OMDoc"
+                    }
+                ]
+            ],
+            [
+                "Michael Kohlhase",
+                [
+                    "/wiki/Michael_Kohlhase"
+                ],
+                [
+                    {
+                        "entity id": "Q91233",
+                        "label": "Michael Kohlhase"
+                    }
+                ]
+            ],
+            [
+                "2000",
+                []
+            ],
+            [
+                "Text / XML editor",
+                [
+                    "/wiki/Text_editor",
+                    "/wiki/XML_editor"
+                ],
+                [
+                    {
+                        "entity id": "Q131212",
+                        "label": "text editor"
+                    },
+                    {
+                        "entity id": "Q1760545",
+                        "label": "XML editor"
+                    }
+                ]
+            ],
+            [
+                "Output to XHTML + MathML , TeX , others",
+                [
+                    "/wiki/XHTML",
+                    "/wiki/MathML",
+                    "/wiki/TeX"
+                ],
+                [
+                    {
+                        "entity id": "Q166074",
+                        "label": "Extensible HyperText Markup Language"
+                    },
+                    {
+                        "entity id": "Q823982",
+                        "label": "MathML"
+                    },
+                    {
+                        "entity id": "Q14556957",
+                        "label": "Tex"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Org-mode",
+                [
+                    "/wiki/Org-mode"
+                ],
+                [
+                    {
+                        "entity id": "Q307228",
+                        "label": "Org-mode"
+                    }
+                ]
+            ],
+            [
+                "Org-mode project",
+                []
+            ],
+            [
+                "2003",
+                []
+            ],
+            [
+                "Emacs , text editor",
+                [
+                    "/wiki/Emacs"
+                ],
+                [
+                    {
+                        "entity id": "Q189722",
+                        "label": "Emacs"
+                    }
+                ]
+            ],
+            [
+                "Emacs . Output to HTML , PDF , DocBook , FreeMind , OpenDocument Format ( ODF ) , others",
+                [
+                    "/wiki/Emacs",
+                    "/wiki/HTML",
+                    "/wiki/Portable_Document_Format",
+                    "/wiki/DocBook",
+                    "/wiki/FreeMind",
+                    "/wiki/OpenDocument"
+                ],
+                [
+                    {
+                        "entity id": "Q189722",
+                        "label": "Emacs"
+                    },
+                    {
+                        "entity id": "Q8811",
+                        "label": "HyperText Markup Language"
+                    },
+                    {
+                        "entity id": "Q42332",
+                        "label": "Portable Document Format"
+                    },
+                    {
+                        "entity id": "Q796483",
+                        "label": "DocBook"
+                    },
+                    {
+                        "entity id": "Q1331559",
+                        "label": "FreeMind"
+                    },
+                    {
+                        "entity id": "Q184473",
+                        "label": "OpenDocument"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "General information",
+    "section_text": "Basic general information about the markup languages : creator , version , etc .",
+    "uid": "Comparison_of_document_markup_languages_0",
+    "intro": "The following tables compare general and technical information for a number of document-markup languages. Please see the individual markup languages' articles for further information."
+}

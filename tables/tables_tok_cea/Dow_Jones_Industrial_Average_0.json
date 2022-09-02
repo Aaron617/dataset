@@ -1,0 +1,1084 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average",
+    "title": "Dow Jones Industrial Average",
+    "header": [
+        [
+            "Company",
+            []
+        ],
+        [
+            "Exchange",
+            []
+        ],
+        [
+            "Symbol",
+            []
+        ],
+        [
+            "Industry",
+            []
+        ],
+        [
+            "Date Added",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "3M",
+                [
+                    "/wiki/3M"
+                ],
+                [
+                    {
+                        "entity id": "Q159433",
+                        "label": "3M"
+                    }
+                ]
+            ],
+            [
+                "NYSE",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "NYSE : MMM",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "Conglomerate",
+                [
+                    "/wiki/Conglomerate_(company)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1976-08-09",
+                []
+            ]
+        ],
+        [
+            [
+                "American Express",
+                [
+                    "/wiki/American_Express"
+                ],
+                [
+                    {
+                        "entity id": "Q194360",
+                        "label": "American Express"
+                    }
+                ]
+            ],
+            [
+                "NYSE",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "NYSE : AXP",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "Financial services",
+                [
+                    "/wiki/Financial_services"
+                ],
+                [
+                    {
+                        "entity id": "Q5449654",
+                        "label": "Financial Services"
+                    }
+                ]
+            ],
+            [
+                "1982-08-30",
+                []
+            ]
+        ],
+        [
+            [
+                "Apple Inc",
+                [
+                    "/wiki/Apple_Inc."
+                ],
+                [
+                    {
+                        "entity id": "Q312",
+                        "label": "Apple Inc."
+                    }
+                ]
+            ],
+            [
+                "NASDAQ",
+                [
+                    "/wiki/NASDAQ"
+                ],
+                [
+                    {
+                        "entity id": "Q82059",
+                        "label": "NASDAQ"
+                    }
+                ]
+            ],
+            [
+                "AAPL",
+                []
+            ],
+            [
+                "Information technology",
+                [
+                    "/wiki/Information_technology"
+                ],
+                [
+                    {
+                        "entity id": "Q11661",
+                        "label": "information technology"
+                    }
+                ]
+            ],
+            [
+                "2015-03-19",
+                []
+            ]
+        ],
+        [
+            [
+                "Boeing",
+                [
+                    "/wiki/Boeing"
+                ],
+                [
+                    {
+                        "entity id": "Q66",
+                        "label": "Boeing"
+                    }
+                ]
+            ],
+            [
+                "NYSE",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "NYSE : BA",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "Aerospace manufacturer and Arms industry",
+                [
+                    "/wiki/Aerospace_manufacturer",
+                    "/wiki/Arms_industry"
+                ],
+                [
+                    {
+                        "entity id": "Q936518",
+                        "label": "aerospace manufacturer"
+                    },
+                    {
+                        "entity id": "Q392933",
+                        "label": "arms industry"
+                    }
+                ]
+            ],
+            [
+                "1987-03-12",
+                []
+            ]
+        ],
+        [
+            [
+                "Caterpillar Inc",
+                [
+                    "/wiki/Caterpillar_Inc."
+                ],
+                [
+                    {
+                        "entity id": "Q459965",
+                        "label": "Caterpillar Inc."
+                    }
+                ]
+            ],
+            [
+                "NYSE",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "NYSE : CAT",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "Construction and Mining",
+                [
+                    "/wiki/Heavy_equipment_(construction)",
+                    "/wiki/Mining"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q44497",
+                        "label": "mining"
+                    }
+                ]
+            ],
+            [
+                "1991-05-06",
+                []
+            ]
+        ],
+        [
+            [
+                "Chevron Corporation",
+                [
+                    "/wiki/Chevron_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q319642",
+                        "label": "Chevron Corporation"
+                    }
+                ]
+            ],
+            [
+                "NYSE",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "NYSE : CVX",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "Petroleum industry",
+                [
+                    "/wiki/Petroleum_industry"
+                ],
+                [
+                    {
+                        "entity id": "Q862571",
+                        "label": "petroleum industry"
+                    }
+                ]
+            ],
+            [
+                "2008-02-19",
+                []
+            ]
+        ],
+        [
+            [
+                "Cisco Systems",
+                [
+                    "/wiki/Cisco_Systems"
+                ],
+                [
+                    {
+                        "entity id": "Q173395",
+                        "label": "Cisco Systems"
+                    }
+                ]
+            ],
+            [
+                "NASDAQ",
+                [
+                    "/wiki/NASDAQ"
+                ],
+                [
+                    {
+                        "entity id": "Q82059",
+                        "label": "NASDAQ"
+                    }
+                ]
+            ],
+            [
+                "CSCO",
+                []
+            ],
+            [
+                "Information technology",
+                [
+                    "/wiki/Information_technology"
+                ],
+                [
+                    {
+                        "entity id": "Q11661",
+                        "label": "information technology"
+                    }
+                ]
+            ],
+            [
+                "2009-06-08",
+                []
+            ]
+        ],
+        [
+            [
+                "The Coca-Cola Company",
+                [
+                    "/wiki/The_Coca-Cola_Company"
+                ],
+                [
+                    {
+                        "entity id": "Q3295867",
+                        "label": "The Coca-Cola Company"
+                    }
+                ]
+            ],
+            [
+                "NYSE",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "NYSE : KO",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "Food industry",
+                [
+                    "/wiki/Food_industry"
+                ],
+                [
+                    {
+                        "entity id": "Q540912",
+                        "label": "food industry"
+                    }
+                ]
+            ],
+            [
+                "1987-03-12",
+                []
+            ]
+        ],
+        [
+            [
+                "Dow Inc",
+                [
+                    "/wiki/Dow_Inc."
+                ],
+                [
+                    {
+                        "entity id": "Q62739842",
+                        "label": "Dow Inc."
+                    }
+                ]
+            ],
+            [
+                "NYSE",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "NYSE : DOW",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "Chemical industry",
+                [
+                    "/wiki/Chemical_industry"
+                ],
+                [
+                    {
+                        "entity id": "Q207652",
+                        "label": "chemical industry"
+                    }
+                ]
+            ],
+            [
+                "2019-04-02",
+                []
+            ]
+        ],
+        [
+            [
+                "ExxonMobil",
+                [
+                    "/wiki/ExxonMobil"
+                ],
+                [
+                    {
+                        "entity id": "Q156238",
+                        "label": "ExxonMobil"
+                    }
+                ]
+            ],
+            [
+                "NYSE",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "NYSE : XOM",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "Petroleum industry",
+                [
+                    "/wiki/Petroleum_industry"
+                ],
+                [
+                    {
+                        "entity id": "Q862571",
+                        "label": "petroleum industry"
+                    }
+                ]
+            ],
+            [
+                "1928-10-01",
+                []
+            ]
+        ],
+        [
+            [
+                "Goldman Sachs",
+                [
+                    "/wiki/Goldman_Sachs"
+                ],
+                [
+                    {
+                        "entity id": "Q193326",
+                        "label": "Goldman Sachs"
+                    }
+                ]
+            ],
+            [
+                "NYSE",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "NYSE : GS",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "Financial services",
+                [
+                    "/wiki/Financial_services"
+                ],
+                [
+                    {
+                        "entity id": "Q5449654",
+                        "label": "Financial Services"
+                    }
+                ]
+            ],
+            [
+                "2013-09-20",
+                []
+            ]
+        ],
+        [
+            [
+                "The Home Depot",
+                [
+                    "/wiki/The_Home_Depot"
+                ],
+                [
+                    {
+                        "entity id": "Q864407",
+                        "label": "The Home Depot"
+                    }
+                ]
+            ],
+            [
+                "NYSE",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "NYSE : HD",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "Retailing",
+                [
+                    "/wiki/Retailing"
+                ],
+                [
+                    {
+                        "entity id": "Q126793",
+                        "label": "retail"
+                    }
+                ]
+            ],
+            [
+                "1999-11-01",
+                []
+            ]
+        ],
+        [
+            [
+                "IBM",
+                [
+                    "/wiki/IBM"
+                ],
+                [
+                    {
+                        "entity id": "Q37156",
+                        "label": "IBM"
+                    }
+                ]
+            ],
+            [
+                "NYSE",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "NYSE : IBM",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "Information technology",
+                [
+                    "/wiki/Information_technology"
+                ],
+                [
+                    {
+                        "entity id": "Q11661",
+                        "label": "information technology"
+                    }
+                ]
+            ],
+            [
+                "1979-06-29",
+                []
+            ]
+        ],
+        [
+            [
+                "Intel",
+                [
+                    "/wiki/Intel"
+                ],
+                [
+                    {
+                        "entity id": "Q248",
+                        "label": "Intel"
+                    }
+                ]
+            ],
+            [
+                "NASDAQ",
+                [
+                    "/wiki/NASDAQ"
+                ],
+                [
+                    {
+                        "entity id": "Q82059",
+                        "label": "NASDAQ"
+                    }
+                ]
+            ],
+            [
+                "INTC",
+                []
+            ],
+            [
+                "Information technology",
+                [
+                    "/wiki/Information_technology"
+                ],
+                [
+                    {
+                        "entity id": "Q11661",
+                        "label": "information technology"
+                    }
+                ]
+            ],
+            [
+                "1999-11-01",
+                []
+            ]
+        ],
+        [
+            [
+                "Johnson & Johnson",
+                [
+                    "/wiki/Johnson_&_Johnson"
+                ],
+                [
+                    {
+                        "entity id": "Q333718",
+                        "label": "Johnson & Johnson"
+                    }
+                ]
+            ],
+            [
+                "NYSE",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "NYSE : JNJ",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "Pharmaceutical industry",
+                [
+                    "/wiki/Pharmaceutical_industry"
+                ],
+                [
+                    {
+                        "entity id": "Q507443",
+                        "label": "pharmaceutical industry"
+                    }
+                ]
+            ],
+            [
+                "1997-03-17",
+                []
+            ]
+        ],
+        [
+            [
+                "JPMorgan Chase",
+                [
+                    "/wiki/JPMorgan_Chase"
+                ],
+                [
+                    {
+                        "entity id": "Q192314",
+                        "label": "JPMorgan Chase"
+                    }
+                ]
+            ],
+            [
+                "NYSE",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "NYSE : JPM",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "Financial services",
+                [
+                    "/wiki/Financial_services"
+                ],
+                [
+                    {
+                        "entity id": "Q5449654",
+                        "label": "Financial Services"
+                    }
+                ]
+            ],
+            [
+                "1991-05-06",
+                []
+            ]
+        ],
+        [
+            [
+                "McDonald 's",
+                [
+                    "/wiki/McDonald's"
+                ],
+                [
+                    {
+                        "entity id": "Q38076",
+                        "label": "McDonald\u2019s"
+                    }
+                ]
+            ],
+            [
+                "NYSE",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "NYSE : MCD",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "Food industry",
+                [
+                    "/wiki/Food_industry"
+                ],
+                [
+                    {
+                        "entity id": "Q540912",
+                        "label": "food industry"
+                    }
+                ]
+            ],
+            [
+                "1985-10-30",
+                []
+            ]
+        ],
+        [
+            [
+                "Merck & Co",
+                [
+                    "/wiki/Merck_&_Co."
+                ],
+                [
+                    {
+                        "entity id": "Q247489",
+                        "label": "Merck & Co."
+                    }
+                ]
+            ],
+            [
+                "NYSE",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "NYSE : MRK",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "Pharmaceutical industry",
+                [
+                    "/wiki/Pharmaceutical_industry"
+                ],
+                [
+                    {
+                        "entity id": "Q507443",
+                        "label": "pharmaceutical industry"
+                    }
+                ]
+            ],
+            [
+                "1979-06-29",
+                []
+            ]
+        ],
+        [
+            [
+                "Microsoft",
+                [
+                    "/wiki/Microsoft"
+                ],
+                [
+                    {
+                        "entity id": "Q2283",
+                        "label": "Microsoft"
+                    }
+                ]
+            ],
+            [
+                "NASDAQ",
+                [
+                    "/wiki/NASDAQ"
+                ],
+                [
+                    {
+                        "entity id": "Q82059",
+                        "label": "NASDAQ"
+                    }
+                ]
+            ],
+            [
+                "MSFT",
+                []
+            ],
+            [
+                "Information technology",
+                [
+                    "/wiki/Information_technology"
+                ],
+                [
+                    {
+                        "entity id": "Q11661",
+                        "label": "information technology"
+                    }
+                ]
+            ],
+            [
+                "1999-11-01",
+                []
+            ]
+        ],
+        [
+            [
+                "Nike",
+                [
+                    "/wiki/Nike,_Inc."
+                ],
+                [
+                    {
+                        "entity id": "Q483915",
+                        "label": "Nike"
+                    }
+                ]
+            ],
+            [
+                "NYSE",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "NYSE : NKE",
+                [
+                    "/wiki/New_York_Stock_Exchange"
+                ],
+                [
+                    {
+                        "entity id": "Q13677",
+                        "label": "New York Stock Exchange"
+                    }
+                ]
+            ],
+            [
+                "Apparel",
+                [
+                    "/wiki/Apparel"
+                ],
+                [
+                    {
+                        "entity id": "Q11460",
+                        "label": "clothing"
+                    }
+                ]
+            ],
+            [
+                "2013-09-20",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Components",
+    "section_text": "Since April 2 , 2019 , the Dow Jones Industrial Average has consisted of the following companies :",
+    "uid": "Dow_Jones_Industrial_Average_0",
+    "intro": "The Dow Jones Industrial Average (DJIA), or simply the Dow (/\u02c8da\u028a/), is a stock market index that measures the stock performance of 30 large companies listed on stock exchanges in the United States. Although it is one of the most commonly followed equity indices, many consider the Dow not to be a good representation of the U.S. stock market (compared to total market indexes such as the Wilshire 5000 or Russell 3000) because it only includes 30 large cap companies, is not weighted by market capitalization, and does not use a weighted arithmetic mean. The value of the index is sum of the price of one share of stock for each component company divided by a factor which changes whenever one of the component stocks has a stock split or stock dividend, so as to generate a consistent value for the index. Since the divisor is currently around 0.1474, the value of the index is 6.7843 times larger than the sum of the component prices. It is the second-oldest U.S. market index after the Dow Jones Transportation Average, created by The Wall Street Journal editor and Dow Jones & Company co-founder Charles Dow. It is the best known of the Dow Averages, of which the first (non-industrial) was originally published on February 16, 1885. The averages are named after Dow and one of his business associates, statistician Edward Jones. The industrial average was first calculated on May 26, 1896. The Industrial portion of the name is largely historical, as many of the modern 30 components have little or nothing to do with traditional heavy industry. The index is maintained by S&P Dow Jones Indices, a joint venture majority-owned by S&P Global and its components are selected by a committee. The ten components of the index with the highest dividend yields are referred to as the Dogs of the Dow."
+}

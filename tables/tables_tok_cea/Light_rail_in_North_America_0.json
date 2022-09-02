@@ -1,0 +1,584 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Light_rail_in_North_America",
+    "title": "Light rail in North America",
+    "header": [
+        [
+            "",
+            []
+        ],
+        [
+            "City/metro area served",
+            []
+        ],
+        [
+            "Country",
+            []
+        ],
+        [
+            "Light rail system",
+            []
+        ],
+        [
+            "Annual ridership ( 2018 )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1",
+                []
+            ],
+            [
+                "Guadalajara",
+                [
+                    "/wiki/Guadalajara"
+                ],
+                [
+                    {
+                        "entity id": "Q9022",
+                        "label": "Guadalajara"
+                    }
+                ]
+            ],
+            [
+                "MEX",
+                [
+                    "/wiki/Mexico"
+                ],
+                [
+                    {
+                        "entity id": "Q96",
+                        "label": "Mexico"
+                    }
+                ]
+            ],
+            [
+                "Guadalajara light rail system",
+                [
+                    "/wiki/Guadalajara_light_rail_system"
+                ],
+                [
+                    {
+                        "entity id": "Q2309232",
+                        "label": "Guadalajara light rail system"
+                    }
+                ]
+            ],
+            [
+                "103,649,000",
+                []
+            ]
+        ],
+        [
+            [
+                "2",
+                []
+            ],
+            [
+                "Calgary",
+                [
+                    "/wiki/Calgary"
+                ],
+                [
+                    {
+                        "entity id": "Q36312",
+                        "label": "Calgary"
+                    }
+                ]
+            ],
+            [
+                "CAN",
+                [
+                    "/wiki/Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q16",
+                        "label": "Canada"
+                    }
+                ]
+            ],
+            [
+                "CTrain",
+                [
+                    "/wiki/CTrain"
+                ],
+                [
+                    {
+                        "entity id": "Q1022321",
+                        "label": "CTrain"
+                    }
+                ]
+            ],
+            [
+                "91,029,100",
+                []
+            ]
+        ],
+        [
+            [
+                "3",
+                []
+            ],
+            [
+                "Toronto",
+                [
+                    "/wiki/Toronto"
+                ],
+                [
+                    {
+                        "entity id": "Q172",
+                        "label": "Toronto"
+                    }
+                ]
+            ],
+            [
+                "CAN",
+                [
+                    "/wiki/Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q16",
+                        "label": "Canada"
+                    }
+                ]
+            ],
+            [
+                "Toronto streetcar system",
+                [
+                    "/wiki/Toronto_streetcar_system"
+                ],
+                [
+                    {
+                        "entity id": "Q249404",
+                        "label": "Toronto streetcar system"
+                    }
+                ]
+            ],
+            [
+                "64,917,000",
+                []
+            ]
+        ],
+        [
+            [
+                "4",
+                []
+            ],
+            [
+                "Los Angeles",
+                [
+                    "/wiki/Los_Angeles"
+                ],
+                [
+                    {
+                        "entity id": "Q65",
+                        "label": "Los Angeles"
+                    }
+                ]
+            ],
+            [
+                "USA",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Los Angeles Metro Rail",
+                [
+                    "/wiki/Los_Angeles_Metro_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q1339558",
+                        "label": "Los Angeles Metro Rail"
+                    }
+                ]
+            ],
+            [
+                "64,715,700",
+                []
+            ]
+        ],
+        [
+            [
+                "5",
+                []
+            ],
+            [
+                "Boston",
+                [
+                    "/wiki/Boston"
+                ],
+                [
+                    {
+                        "entity id": "Q100",
+                        "label": "Boston"
+                    }
+                ]
+            ],
+            [
+                "USA",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Massachusetts Bay Transportation Authority",
+                [
+                    "/wiki/Massachusetts_Bay_Transportation_Authority"
+                ],
+                [
+                    {
+                        "entity id": "Q171985",
+                        "label": "Massachusetts Bay Transportation Authority"
+                    }
+                ]
+            ],
+            [
+                "53,573,900",
+                []
+            ]
+        ],
+        [
+            [
+                "6",
+                []
+            ],
+            [
+                "San Francisco",
+                [
+                    "/wiki/San_Francisco"
+                ],
+                [
+                    {
+                        "entity id": "Q62",
+                        "label": "San Francisco"
+                    }
+                ]
+            ],
+            [
+                "USA",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Muni Metro",
+                [
+                    "/wiki/Muni_Metro"
+                ],
+                [
+                    {
+                        "entity id": "Q278074",
+                        "label": "Muni Metro"
+                    }
+                ]
+            ],
+            [
+                "49,971,700",
+                []
+            ]
+        ],
+        [
+            [
+                "7",
+                []
+            ],
+            [
+                "Portland , OR",
+                [
+                    "/wiki/Portland,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q6106",
+                        "label": "Portland"
+                    }
+                ]
+            ],
+            [
+                "USA",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "MAX Light Rail",
+                [
+                    "/wiki/MAX_Light_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q2584009",
+                        "label": "MAX Light Rail"
+                    }
+                ]
+            ],
+            [
+                "38,953,100",
+                []
+            ]
+        ],
+        [
+            [
+                "8",
+                []
+            ],
+            [
+                "San Diego",
+                [
+                    "/wiki/San_Diego"
+                ],
+                [
+                    {
+                        "entity id": "Q16552",
+                        "label": "San Diego"
+                    }
+                ]
+            ],
+            [
+                "USA",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "San Diego Trolley",
+                [
+                    "/wiki/San_Diego_Trolley"
+                ],
+                [
+                    {
+                        "entity id": "Q1577187",
+                        "label": "San Diego Trolley"
+                    }
+                ]
+            ],
+            [
+                "37,139,700",
+                []
+            ]
+        ],
+        [
+            [
+                "9",
+                []
+            ],
+            [
+                "Mexico City",
+                [
+                    "/wiki/Mexico_City"
+                ],
+                [
+                    {
+                        "entity id": "Q1489",
+                        "label": "Mexico City"
+                    }
+                ]
+            ],
+            [
+                "MEX",
+                [
+                    "/wiki/Mexico"
+                ],
+                [
+                    {
+                        "entity id": "Q96",
+                        "label": "Mexico"
+                    }
+                ]
+            ],
+            [
+                "Xochimilco Light Rail",
+                [
+                    "/wiki/Xochimilco_Light_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q2576140",
+                        "label": "Xochimilco Light Rail"
+                    }
+                ]
+            ],
+            [
+                "33,766,000",
+                []
+            ]
+        ],
+        [
+            [
+                "10",
+                []
+            ],
+            [
+                "Edmonton",
+                [
+                    "/wiki/Edmonton"
+                ],
+                [
+                    {
+                        "entity id": "Q2096",
+                        "label": "Edmonton"
+                    }
+                ]
+            ],
+            [
+                "CAN",
+                [
+                    "/wiki/Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q16",
+                        "label": "Canada"
+                    }
+                ]
+            ],
+            [
+                "Edmonton Light Rail Transit",
+                [
+                    "/wiki/Edmonton_Light_Rail_Transit"
+                ],
+                [
+                    {
+                        "entity id": "Q1285861",
+                        "label": "Edmonton Light Rail Transit"
+                    }
+                ]
+            ],
+            [
+                "33,891,900",
+                []
+            ]
+        ],
+        [
+            [
+                "11",
+                []
+            ],
+            [
+                "Dallas",
+                [
+                    "/wiki/Dallas"
+                ],
+                [
+                    {
+                        "entity id": "Q16557",
+                        "label": "Dallas"
+                    }
+                ]
+            ],
+            [
+                "USA",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Dallas Area Rapid Transit ( DART )",
+                [
+                    "/wiki/Dallas_Area_Rapid_Transit"
+                ],
+                [
+                    {
+                        "entity id": "Q380660",
+                        "label": "Dallas Area Rapid Transit"
+                    }
+                ]
+            ],
+            [
+                "28,759,200",
+                []
+            ]
+        ],
+        [
+            [
+                "12",
+                []
+            ],
+            [
+                "Denver",
+                [
+                    "/wiki/Denver"
+                ],
+                [
+                    {
+                        "entity id": "Q16554",
+                        "label": "Denver"
+                    }
+                ]
+            ],
+            [
+                "USA",
+                [
+                    "/wiki/United_States"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ],
+            [
+                "Regional Transportation District",
+                [
+                    "/wiki/Regional_Transportation_District"
+                ],
+                [
+                    {
+                        "entity id": "Q7309183",
+                        "label": "Regional Transportation District"
+                    }
+                ]
+            ],
+            [
+                "25,669,700",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Ridership on light rail in North America",
+    "section_text": "Main article : List of North American light rail systems by ridership The following table lists the twelve light rail systems in North America with the highest riderships in 2016 :",
+    "uid": "Light_rail_in_North_America_0",
+    "intro": "Light rail is a commonly used mode of public transit in North America. The term light rail was coined in 1972 by the Urban Mass Transportation Administration (UMTA; the precursor to the U.S. Federal Transit Administration) to describe new streetcar transformations which were taking place in Europe and the United States. The Germans used the term Stadtbahn, which is the predecessor to North American light rail, to describe the concept, and many in UMTA wanted to adopt the direct translation, which is city rail. However, in its reports, UMTA finally adopted the term light rail instead."
+}

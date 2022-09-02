@@ -1,0 +1,725 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_vaccine_topics",
+    "title": "List of vaccine topics",
+    "header": [
+        [
+            "Bacterium",
+            []
+        ],
+        [
+            "Diseases or conditions",
+            []
+        ],
+        [
+            "Vaccine ( s )",
+            []
+        ],
+        [
+            "Brands",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Bacillus anthracis",
+                [
+                    "/wiki/Bacillus_anthracis"
+                ],
+                [
+                    {
+                        "entity id": "Q614156",
+                        "label": "Bacillus anthracis"
+                    }
+                ]
+            ],
+            [
+                "Anthrax",
+                [
+                    "/wiki/Anthrax"
+                ],
+                [
+                    {
+                        "entity id": "Q129104",
+                        "label": "anthrax"
+                    }
+                ]
+            ],
+            [
+                "Anthrax vaccines",
+                [
+                    "/wiki/Anthrax_vaccines"
+                ],
+                [
+                    {
+                        "entity id": "Q28258214",
+                        "label": "Anthrax vaccines"
+                    }
+                ]
+            ],
+            [
+                "BioThrax",
+                []
+            ]
+        ],
+        [
+            [
+                "Bordetella pertussis",
+                [
+                    "/wiki/Bordetella_pertussis"
+                ],
+                [
+                    {
+                        "entity id": "Q137103",
+                        "label": "Bordetella pertussis"
+                    }
+                ]
+            ],
+            [
+                "Whooping cough",
+                [
+                    "/wiki/Whooping_cough"
+                ],
+                [
+                    {
+                        "entity id": "Q134859",
+                        "label": "pertussis"
+                    }
+                ]
+            ],
+            [
+                "DPT vaccine",
+                [
+                    "/wiki/DPT_vaccine"
+                ],
+                [
+                    {
+                        "entity id": "Q908600",
+                        "label": "DPT vaccine"
+                    }
+                ]
+            ],
+            [
+                "Boostrix , Adacel , Daptacel , Infanrix , Tripedia , Kinrix , Pediarix , Pentacel , Tetramune , Quinvaxem , Pentavac PFS , Easyfive TT , Shan-5 , ComBE Five",
+                [
+                    "/wiki/Boostrix",
+                    "/wiki/Adacel",
+                    "/wiki/Daptacel",
+                    "/wiki/Infanrix",
+                    "/wiki/Tripedia",
+                    "/wiki/Kinrix",
+                    "/wiki/Pediarix",
+                    "/wiki/Pentacel",
+                    "/wiki/Tetramune",
+                    "/wiki/Quinvaxem",
+                    "/wiki/Pentavac_PFS",
+                    "/wiki/Easyfive_TT",
+                    "/wiki/Shan-5",
+                    "/wiki/ComBE_Five"
+                ],
+                [
+                    {
+                        "entity id": "Q80142334",
+                        "label": "Boostrix"
+                    },
+                    {
+                        "entity id": "Q4678335",
+                        "label": "Adacel"
+                    },
+                    {},
+                    {
+                        "entity id": "Q104186841",
+                        "label": "INFANRIX HEXA"
+                    },
+                    {},
+                    {
+                        "entity id": "Q37316006",
+                        "label": "Kinrix: a new combination DTaP-IPV vaccine for children aged 4-6 years"
+                    },
+                    {
+                        "entity id": "Q36124930",
+                        "label": "PEDIARIX: clinical trials"
+                    },
+                    {},
+                    {
+                        "entity id": "Q72584439",
+                        "label": "Tetramune--a combined vaccine for infants"
+                    },
+                    {
+                        "entity id": "Q18389977",
+                        "label": "Quinvaxem"
+                    },
+                    {},
+                    {},
+                    {},
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Clostridium tetani",
+                [
+                    "/wiki/Clostridium_tetani"
+                ],
+                [
+                    {
+                        "entity id": "Q309471",
+                        "label": "Clostridium tetani"
+                    }
+                ]
+            ],
+            [
+                "Tetanus",
+                [
+                    "/wiki/Tetanus"
+                ],
+                [
+                    {
+                        "entity id": "Q47790",
+                        "label": "tetanus"
+                    }
+                ]
+            ],
+            [
+                "DPT vaccine",
+                [
+                    "/wiki/DPT_vaccine"
+                ],
+                [
+                    {
+                        "entity id": "Q908600",
+                        "label": "DPT vaccine"
+                    }
+                ]
+            ],
+            [
+                "Boostrix , Adacel , Decavac , Tenivac , Daptacel , Infanrix , Tripedia , Kinrix , Pediarix , Pentacel , Tetramune , Quinvaxem , Pentavac PFS , Easyfive TT , Shan-5 , ComBE Five",
+                [
+                    "/wiki/Boostrix",
+                    "/wiki/Adacel",
+                    "/wiki/Decavac",
+                    "/wiki/Daptacel",
+                    "/wiki/Infanrix",
+                    "/wiki/Tripedia",
+                    "/wiki/Kinrix",
+                    "/wiki/Pediarix",
+                    "/wiki/Pentacel",
+                    "/wiki/Tetramune",
+                    "/wiki/Quinvaxem",
+                    "/wiki/Pentavac_PFS",
+                    "/wiki/Easyfive_TT",
+                    "/wiki/Shan-5",
+                    "/wiki/ComBE_Five"
+                ],
+                [
+                    {
+                        "entity id": "Q80142334",
+                        "label": "Boostrix"
+                    },
+                    {
+                        "entity id": "Q4678335",
+                        "label": "Adacel"
+                    },
+                    {},
+                    {},
+                    {
+                        "entity id": "Q104186841",
+                        "label": "INFANRIX HEXA"
+                    },
+                    {},
+                    {
+                        "entity id": "Q37316006",
+                        "label": "Kinrix: a new combination DTaP-IPV vaccine for children aged 4-6 years"
+                    },
+                    {
+                        "entity id": "Q36124930",
+                        "label": "PEDIARIX: clinical trials"
+                    },
+                    {},
+                    {
+                        "entity id": "Q72584439",
+                        "label": "Tetramune--a combined vaccine for infants"
+                    },
+                    {
+                        "entity id": "Q18389977",
+                        "label": "Quinvaxem"
+                    },
+                    {},
+                    {},
+                    {},
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Corynebacterium diphtheriae",
+                [
+                    "/wiki/Corynebacterium_diphtheriae"
+                ],
+                [
+                    {
+                        "entity id": "Q131649",
+                        "label": "Corynebacterium diphtheriae"
+                    }
+                ]
+            ],
+            [
+                "Diphtheria",
+                [
+                    "/wiki/Diphtheria"
+                ],
+                [
+                    {
+                        "entity id": "Q134649",
+                        "label": "diphtheria"
+                    }
+                ]
+            ],
+            [
+                "DPT vaccine",
+                [
+                    "/wiki/DPT_vaccine"
+                ],
+                [
+                    {
+                        "entity id": "Q908600",
+                        "label": "DPT vaccine"
+                    }
+                ]
+            ],
+            [
+                "Boostrix , Adacel , Decavac , Tenivac , Daptacel , Infanrix , Tripedia , Kinrix , Pediarix , Pentacel , Tetramune , Quinvaxem , Pentavac PFS , Easyfive TT , Shan-5 , ComBE Five",
+                [
+                    "/wiki/Boostrix",
+                    "/wiki/Adacel",
+                    "/wiki/Decavac",
+                    "/wiki/Daptacel",
+                    "/wiki/Infanrix",
+                    "/wiki/Tripedia",
+                    "/wiki/Kinrix",
+                    "/wiki/Pediarix",
+                    "/wiki/Pentacel",
+                    "/wiki/Tetramune",
+                    "/wiki/Quinvaxem",
+                    "/wiki/Pentavac_PFS",
+                    "/wiki/Easyfive_TT",
+                    "/wiki/Shan-5",
+                    "/wiki/ComBE_Five"
+                ],
+                [
+                    {
+                        "entity id": "Q80142334",
+                        "label": "Boostrix"
+                    },
+                    {
+                        "entity id": "Q4678335",
+                        "label": "Adacel"
+                    },
+                    {},
+                    {},
+                    {
+                        "entity id": "Q104186841",
+                        "label": "INFANRIX HEXA"
+                    },
+                    {},
+                    {
+                        "entity id": "Q37316006",
+                        "label": "Kinrix: a new combination DTaP-IPV vaccine for children aged 4-6 years"
+                    },
+                    {
+                        "entity id": "Q36124930",
+                        "label": "PEDIARIX: clinical trials"
+                    },
+                    {},
+                    {
+                        "entity id": "Q72584439",
+                        "label": "Tetramune--a combined vaccine for infants"
+                    },
+                    {
+                        "entity id": "Q18389977",
+                        "label": "Quinvaxem"
+                    },
+                    {},
+                    {},
+                    {},
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Coxiella burnetii",
+                [
+                    "/wiki/Coxiella_burnetii"
+                ],
+                [
+                    {
+                        "entity id": "Q133971",
+                        "label": "Coxiella burnetii"
+                    }
+                ]
+            ],
+            [
+                "Q fever",
+                [
+                    "/wiki/Q_fever"
+                ],
+                [
+                    {
+                        "entity id": "Q164818",
+                        "label": "Q fever"
+                    }
+                ]
+            ],
+            [
+                "Q fever vaccine",
+                [
+                    "/wiki/Q_fever"
+                ],
+                [
+                    {
+                        "entity id": "Q164818",
+                        "label": "Q fever"
+                    }
+                ]
+            ],
+            [
+                "Q-Vax",
+                []
+            ]
+        ],
+        [
+            [
+                "Haemophilus influenzae type B ( Hib )",
+                [
+                    "/wiki/Haemophilus_influenzae"
+                ],
+                [
+                    {
+                        "entity id": "Q1141979",
+                        "label": "Haemophilus influenzae"
+                    }
+                ]
+            ],
+            [
+                "Epiglottitis , meningitis , pneumonia",
+                [
+                    "/wiki/Epiglottitis",
+                    "/wiki/Meningitis",
+                    "/wiki/Pneumonia"
+                ],
+                [
+                    {
+                        "entity id": "Q1347065",
+                        "label": "epiglottitis"
+                    },
+                    {
+                        "entity id": "Q48143",
+                        "label": "meningitis"
+                    },
+                    {
+                        "entity id": "Q12192",
+                        "label": "pneumonia"
+                    }
+                ]
+            ],
+            [
+                "Hib vaccine",
+                [
+                    "/wiki/Hib_vaccine"
+                ],
+                [
+                    {
+                        "entity id": "Q368134",
+                        "label": "Hib vaccine"
+                    }
+                ]
+            ],
+            [
+                "Hiberix , Pentacel , ActHIB , Pedvax HIB , Tetramune , Quinvaxem , Pentavac PFS , Easyfive TT , Shan-5 , ComBE Five",
+                [
+                    "/wiki/Hiberix",
+                    "/wiki/Pentacel",
+                    "/wiki/ActHIB",
+                    "/wiki/Pedvax_HIB",
+                    "/wiki/Tetramune",
+                    "/wiki/Quinvaxem",
+                    "/wiki/Pentavac_PFS",
+                    "/wiki/Easyfive_TT",
+                    "/wiki/Shan-5",
+                    "/wiki/ComBE_Five"
+                ],
+                [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {
+                        "entity id": "Q72584439",
+                        "label": "Tetramune--a combined vaccine for infants"
+                    },
+                    {
+                        "entity id": "Q18389977",
+                        "label": "Quinvaxem"
+                    },
+                    {},
+                    {},
+                    {},
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Mycobacterium tuberculosis",
+                [
+                    "/wiki/Mycobacterium_tuberculosis"
+                ],
+                [
+                    {
+                        "entity id": "Q130971",
+                        "label": "Mycobacterium tuberculosis"
+                    }
+                ]
+            ],
+            [
+                "Tuberculosis",
+                [
+                    "/wiki/Tuberculosis"
+                ],
+                [
+                    {
+                        "entity id": "Q12204",
+                        "label": "tuberculosis"
+                    }
+                ]
+            ],
+            [
+                "Tuberculosis ( BCG ) vaccine",
+                [
+                    "/wiki/Bacillus_Calmette-Gu\u00e9rin"
+                ],
+                [
+                    {
+                        "entity id": "Q798309",
+                        "label": "BCG vaccine"
+                    }
+                ]
+            ],
+            [
+                "Tice BCG",
+                []
+            ]
+        ],
+        [
+            [
+                "Neisseria meningitidis",
+                [
+                    "/wiki/Neisseria_meningitidis"
+                ],
+                [
+                    {
+                        "entity id": "Q154625",
+                        "label": "Neisseria meningitidis"
+                    }
+                ]
+            ],
+            [
+                "Meningococcal meningitis",
+                [
+                    "/wiki/Meningitis"
+                ],
+                [
+                    {
+                        "entity id": "Q48143",
+                        "label": "meningitis"
+                    }
+                ]
+            ],
+            [
+                "Meningococcal vaccine",
+                [
+                    "/wiki/Meningococcal_vaccine"
+                ],
+                [
+                    {
+                        "entity id": "Q6817090",
+                        "label": "meningococcal vaccine"
+                    }
+                ]
+            ],
+            [
+                "Serotype C : Neisvac C and Meningitec . Serotypes A/C/W-135/Y : Mencevax , Nimenrix , Menveo , Menactra . Serotype B : Bexsero",
+                []
+            ]
+        ],
+        [
+            [
+                "Salmonella typhi",
+                [
+                    "/wiki/Salmonella_typhi"
+                ],
+                [
+                    {
+                        "entity id": "Q22111431",
+                        "label": "Salmonella typhi"
+                    }
+                ]
+            ],
+            [
+                "Typhoid fever",
+                [
+                    "/wiki/Typhoid_fever"
+                ],
+                [
+                    {
+                        "entity id": "Q83319",
+                        "label": "typhoid fever"
+                    }
+                ]
+            ],
+            [
+                "Typhoid vaccine",
+                [
+                    "/wiki/Typhoid_vaccine"
+                ],
+                [
+                    {
+                        "entity id": "Q7861081",
+                        "label": "typhoid vaccine"
+                    }
+                ]
+            ],
+            [
+                "Typhim Vi , Typherix , Ty21a",
+                [
+                    "/wiki/Typhim_Vi",
+                    "/wiki/Typherix",
+                    "/wiki/Ty21a"
+                ],
+                [
+                    {
+                        "entity id": "Q7924335",
+                        "label": "Vi capsular polysaccharide vaccine"
+                    },
+                    {
+                        "entity id": "Q7924335",
+                        "label": "Vi capsular polysaccharide vaccine"
+                    },
+                    {
+                        "entity id": "Q7859567",
+                        "label": "Ty21a"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Streptococcus pneumoniae",
+                [
+                    "/wiki/Streptococcus_pneumoniae"
+                ],
+                [
+                    {
+                        "entity id": "Q221179",
+                        "label": "Streptococcus pneumoniae"
+                    }
+                ]
+            ],
+            [
+                "Pneumococcal pneumonia",
+                [
+                    "/wiki/Pneumonia"
+                ],
+                [
+                    {
+                        "entity id": "Q12192",
+                        "label": "pneumonia"
+                    }
+                ]
+            ],
+            [
+                "Pneumococcal conjugate vaccine , Pneumococcal polysaccharide vaccine",
+                [
+                    "/wiki/Pneumococcal_conjugate_vaccine",
+                    "/wiki/Pneumococcal_polysaccharide_vaccine"
+                ],
+                [
+                    {
+                        "entity id": "Q7205991",
+                        "label": "pneumococcal conjugate vaccine"
+                    },
+                    {
+                        "entity id": "Q2100023",
+                        "label": "pneumococcal polysaccharide vaccine"
+                    }
+                ]
+            ],
+            [
+                "Pneumovax , Prevnar",
+                [
+                    "/wiki/Pneumovax",
+                    "/wiki/Prevnar"
+                ],
+                [
+                    {
+                        "entity id": "Q77394673",
+                        "label": "Pneumovax"
+                    },
+                    {
+                        "entity id": "Q7205991",
+                        "label": "pneumococcal conjugate vaccine"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Vibrio cholerae",
+                [
+                    "/wiki/Vibrio_cholerae"
+                ],
+                [
+                    {
+                        "entity id": "Q160821",
+                        "label": "Vibrio cholerae"
+                    }
+                ]
+            ],
+            [
+                "Cholera",
+                [
+                    "/wiki/Cholera"
+                ],
+                [
+                    {
+                        "entity id": "Q12090",
+                        "label": "cholera"
+                    }
+                ]
+            ],
+            [
+                "Cholera vaccine",
+                [
+                    "/wiki/Cholera_vaccine"
+                ],
+                [
+                    {
+                        "entity id": "Q1812946",
+                        "label": "cholera vaccine"
+                    }
+                ]
+            ],
+            [
+                "Dukoral , Shanchol",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Human vaccines -- Bacterial diseases",
+    "section_text": "",
+    "uid": "List_of_vaccine_topics_1",
+    "intro": "This is a list of vaccine-related topics. A vaccine is a biological preparation that improves immunity to a particular disease. A vaccine typically contains an agent that resembles a disease-causing microorganism, and is often made from weakened or killed forms of the microbe or its toxins. The agent stimulates the body's immune system to recognize the agent as foreign, destroy it, and remember it, so that the immune system can more easily recognize and destroy any of these microorganisms that it later encounters."
+}

@@ -1,0 +1,903 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_named_passenger_trains_of_Japan",
+    "title": "List of named passenger trains of Japan",
+    "header": [
+        [
+            "Train name",
+            []
+        ],
+        [
+            "Name meaning",
+            []
+        ],
+        [
+            "Operator",
+            []
+        ],
+        [
+            "Train endpoints",
+            []
+        ],
+        [
+            "Operated",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "A-Train",
+                [
+                    "/wiki/A-Train_(JR_Kyushu)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "refers to Ariake region",
+                []
+            ],
+            [
+                "JR Kyushu",
+                [
+                    "/wiki/JR_Kyushu"
+                ],
+                [
+                    {
+                        "entity id": "Q498366",
+                        "label": "Kyushu Railway Company"
+                    }
+                ]
+            ],
+            [
+                "Yoshizuka , Hakata - Nagasu",
+                [
+                    "/wiki/Yoshizuka_Station",
+                    "/wiki/Hakata_Station",
+                    "/wiki/Nagasu_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q872292",
+                        "label": "Yoshizuka Station"
+                    },
+                    {
+                        "entity id": "Q800875",
+                        "label": "Hakata Station"
+                    },
+                    {
+                        "entity id": "Q6958659",
+                        "label": "Nagasu Station"
+                    }
+                ]
+            ],
+            [
+                "1967-",
+                []
+            ]
+        ],
+        [
+            [
+                "Aizu Liner",
+                [
+                    "/wiki/Aizu_Liner"
+                ],
+                [
+                    {
+                        "entity id": "Q4699463",
+                        "label": "Aizu Liner"
+                    }
+                ]
+            ],
+            [
+                "refers to Aizu region",
+                []
+            ],
+            [
+                "JR East",
+                [
+                    "/wiki/JR_East"
+                ],
+                [
+                    {
+                        "entity id": "Q499071",
+                        "label": "East Japan Railway Company"
+                    }
+                ]
+            ],
+            [
+                "K\u014driyama - Aizu-Wakamatsu",
+                [
+                    "/wiki/K\u014driyama_Station_(Fukushima)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1968-",
+                []
+            ]
+        ],
+        [
+            [
+                "Akagi / Swallow Akagi",
+                [
+                    "/wiki/Akagi_(train)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "refers to Mt . Akagi",
+                [
+                    "/wiki/Mt._Akagi"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "JR East",
+                []
+            ],
+            [
+                "Ueno , Shinjuku - Takasaki , Maebashi",
+                [
+                    "/wiki/Ueno_Station",
+                    "/wiki/Shinjuku_Station",
+                    "/wiki/Takasaki_Station",
+                    "/wiki/Maebashi_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q801551",
+                        "label": "Ueno Station"
+                    },
+                    {
+                        "entity id": "Q801447",
+                        "label": "Shinjuku Station"
+                    },
+                    {
+                        "entity id": "Q801505",
+                        "label": "Takasaki Station"
+                    },
+                    {
+                        "entity id": "Q1062416",
+                        "label": "Maebashi Station"
+                    }
+                ]
+            ],
+            [
+                "1982-",
+                []
+            ]
+        ],
+        [
+            [
+                "Ariake",
+                [
+                    "/wiki/Ariake_(train)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "refers to Arikake region",
+                []
+            ],
+            [
+                "JR Kyushu",
+                []
+            ],
+            [
+                "Kumamoto - Misumi",
+                [
+                    "/wiki/Kumamoto_Station",
+                    "/wiki/Misumi_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q969324",
+                        "label": "Kumamoto Station"
+                    },
+                    {
+                        "entity id": "Q8189975",
+                        "label": "Misumi Station"
+                    }
+                ]
+            ],
+            [
+                "1967-",
+                []
+            ]
+        ],
+        [
+            [
+                "Asagiri",
+                [
+                    "/wiki/Asagiri_(train)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Morning mist",
+                []
+            ],
+            [
+                "Odakyu / JR Central",
+                [
+                    "/wiki/Odakyu",
+                    "/wiki/JR_Central"
+                ],
+                [
+                    {
+                        "entity id": "Q83584",
+                        "label": "Odakyu Electric Railway"
+                    },
+                    {
+                        "entity id": "Q513679",
+                        "label": "Central Japan Railway Company"
+                    }
+                ]
+            ],
+            [
+                "Shinjuku - Gotemba",
+                [
+                    "/wiki/Shinjuku_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q801447",
+                        "label": "Shinjuku Station"
+                    }
+                ]
+            ],
+            [
+                "1991-",
+                []
+            ]
+        ],
+        [
+            [
+                "Ashizuri",
+                []
+            ],
+            [
+                "refers to Cape Ashizuri",
+                []
+            ],
+            [
+                "JR Shikoku",
+                [
+                    "/wiki/JR_Shikoku"
+                ],
+                [
+                    {
+                        "entity id": "Q496531",
+                        "label": "Shikoku Railway Company"
+                    }
+                ]
+            ],
+            [
+                "K\u014dchi - Nakamura",
+                [
+                    "/wiki/K\u014dchi_Station_(K\u014dchi)",
+                    "/wiki/Nakamura_Station"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q8190561",
+                        "label": "Nakamura Station"
+                    }
+                ]
+            ],
+            [
+                "1990-",
+                []
+            ]
+        ],
+        [
+            [
+                "Ayame",
+                []
+            ],
+            [
+                "Japanese iris",
+                [
+                    "/wiki/Japanese_iris"
+                ],
+                [
+                    {
+                        "entity id": "Q674136",
+                        "label": "Iris ensata"
+                    }
+                ]
+            ],
+            [
+                "JR East",
+                []
+            ],
+            [
+                "Tokyo - Narita , Kashimajing\u016b , Ch\u014dshi",
+                [
+                    "/wiki/Narita_Station",
+                    "/wiki/Kashimajing\u016b_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q845243",
+                        "label": "Narita Station"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "1975-2015",
+                []
+            ]
+        ],
+        [
+            [
+                "Azusa",
+                [
+                    "/wiki/Azusa_(train)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "refers to Azusa River",
+                []
+            ],
+            [
+                "JR East",
+                []
+            ],
+            [
+                "Shinjuku , Tokyo , Chiba - Matsumoto , Minami-Otari",
+                [
+                    "/wiki/Tokyo_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q283196",
+                        "label": "Tokyo Station"
+                    }
+                ]
+            ],
+            [
+                "1966-",
+                []
+            ]
+        ],
+        [
+            [
+                "Enoshima",
+                []
+            ],
+            [
+                "refers to Enoshima",
+                [
+                    "/wiki/Enoshima"
+                ],
+                [
+                    {
+                        "entity id": "Q989803",
+                        "label": "Enoshima"
+                    }
+                ]
+            ],
+            [
+                "Odakyu",
+                []
+            ],
+            [
+                "Shinjuku - Fujisawa - Katase-Enoshima",
+                [
+                    "/wiki/Shinjuku_Station",
+                    "/wiki/Fujisawa_Station",
+                    "/wiki/Katase-Enoshima_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q801447",
+                        "label": "Shinjuku Station"
+                    },
+                    {
+                        "entity id": "Q1133110",
+                        "label": "Fujisawa Station"
+                    },
+                    {
+                        "entity id": "Q1058370",
+                        "label": "Katase-Enoshima Station"
+                    }
+                ]
+            ],
+            [
+                "1964-",
+                []
+            ]
+        ],
+        [
+            [
+                "Fujikawa",
+                [
+                    "/wiki/Fujikawa_(train)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "refers to Fuji River",
+                [
+                    "/wiki/Fuji_River"
+                ],
+                [
+                    {
+                        "entity id": "Q596110",
+                        "label": "Fuji River"
+                    }
+                ]
+            ],
+            [
+                "JR Central",
+                [
+                    "/wiki/JR_Central"
+                ],
+                [
+                    {
+                        "entity id": "Q513679",
+                        "label": "Central Japan Railway Company"
+                    }
+                ]
+            ],
+            [
+                "K\u014dfu - Shizuoka",
+                []
+            ],
+            [
+                "1996-",
+                []
+            ]
+        ],
+        [
+            [
+                "Hakone / Super Hakone / Metro Hakone",
+                []
+            ],
+            [
+                "refers to Hakone",
+                [
+                    "/wiki/Hakone"
+                ],
+                [
+                    {
+                        "entity id": "Q671040",
+                        "label": "Hakone"
+                    }
+                ]
+            ],
+            [
+                "Odakyu",
+                []
+            ],
+            [
+                "Shinjuku , Kita-Senju - Hakone-Yumoto",
+                [
+                    "/wiki/Kita-Senju_Station",
+                    "/wiki/Hakone-Yumoto_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q801026",
+                        "label": "Kita-Senju Station"
+                    },
+                    {
+                        "entity id": "Q2593075",
+                        "label": "Hakone-Yumoto Station"
+                    }
+                ]
+            ],
+            [
+                "1950-",
+                []
+            ]
+        ],
+        [
+            [
+                "Hakuch\u014d / Super Hakuch\u014d",
+                [
+                    "/wiki/Hakuch\u014d_(train)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Swan",
+                []
+            ],
+            [
+                "JR East / JR Hokkaido",
+                [
+                    "/wiki/JR_Hokkaido"
+                ],
+                [
+                    {
+                        "entity id": "Q498930",
+                        "label": "Hokkaido Railway Company"
+                    }
+                ]
+            ],
+            [
+                "Shin-Aomori , Aomori - Hakodate",
+                [
+                    "/wiki/Shin-Aomori_Station",
+                    "/wiki/Aomori_Station",
+                    "/wiki/Hakodate_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q1187835",
+                        "label": "Shin-Aomori Station"
+                    },
+                    {
+                        "entity id": "Q59516",
+                        "label": "Aomori Station"
+                    },
+                    {
+                        "entity id": "Q1151274",
+                        "label": "Hakodate Station"
+                    }
+                ]
+            ],
+            [
+                "2002-2016",
+                []
+            ]
+        ],
+        [
+            [
+                "Haruka",
+                [
+                    "/wiki/Haruka_(train)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Faraway",
+                []
+            ],
+            [
+                "JR-West",
+                [
+                    "/wiki/JR-West"
+                ],
+                [
+                    {
+                        "entity id": "Q502125",
+                        "label": "West Japan Railway Company"
+                    }
+                ]
+            ],
+            [
+                "Kyoto / Shin-\u014csaka - Kansai Airport",
+                [
+                    "/wiki/Kyoto_Station",
+                    "/wiki/Shin-\u014csaka_Station",
+                    "/wiki/Kansai_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q801046",
+                        "label": "Ky\u014dto Station"
+                    },
+                    {
+                        "entity id": "Q801438",
+                        "label": "Shin-\u014csaka Station"
+                    },
+                    {
+                        "entity id": "Q193682",
+                        "label": "Kansai International Airport"
+                    }
+                ]
+            ],
+            [
+                "1993-",
+                []
+            ]
+        ],
+        [
+            [
+                "Hida",
+                [
+                    "/wiki/Hida_(train)"
+                ],
+                [
+                    {
+                        "entity id": "Q5751488",
+                        "label": "Hida"
+                    }
+                ]
+            ],
+            [
+                "refers to Hida",
+                [
+                    "/wiki/Hida_(region)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "JR Central",
+                []
+            ],
+            [
+                "Nagoya - Takayama , Toyama",
+                [
+                    "/wiki/Takayama_Station",
+                    "/wiki/Toyama_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q874020",
+                        "label": "Takayama Station"
+                    },
+                    {
+                        "entity id": "Q1053070",
+                        "label": "Toyama Station"
+                    }
+                ]
+            ],
+            [
+                "1968-",
+                []
+            ]
+        ],
+        [
+            [
+                "Hitachi",
+                [
+                    "/wiki/Hitachi_(Japanese_train)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "old name of Ibaraki Prefecture",
+                [
+                    "/wiki/Ibaraki_Prefecture"
+                ],
+                [
+                    {
+                        "entity id": "Q83273",
+                        "label": "Ibaraki Prefecture"
+                    }
+                ]
+            ],
+            [
+                "JR East",
+                []
+            ],
+            [
+                "Shinagawa - Iwaki",
+                [
+                    "/wiki/Shinagawa_Station",
+                    "/wiki/Iwaki_Station_(Fukushima)"
+                ],
+                [
+                    {
+                        "entity id": "Q801442",
+                        "label": "Shinagawa Station"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "1969-",
+                []
+            ]
+        ],
+        [
+            [
+                "Hokuto / Super Hokuto",
+                [
+                    "/wiki/Super_Hokuto"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Big Dipper",
+                []
+            ],
+            [
+                "JR Hokkaido",
+                []
+            ],
+            [
+                "Hakodate - Sapporo",
+                []
+            ],
+            [
+                "1965-",
+                []
+            ]
+        ],
+        [
+            [
+                "Homeway / Metro Homeway",
+                []
+            ],
+            [
+                "-",
+                []
+            ],
+            [
+                "Odakyu",
+                []
+            ],
+            [
+                "Shinjuku , Kita-Senju , \u014ctemachi - Machida , Sagami-\u014cno , Hon-Atsugi , Odawara , Hakone-Yumoto , Karakida , Fujisawa , Katase-Enoshima",
+                [
+                    "/wiki/\u014ctemachi_Station_(Tokyo)",
+                    "/wiki/Machida_Station_(Tokyo)",
+                    "/wiki/Sagami-\u014cno_Station",
+                    "/wiki/Hon-Atsugi_Station",
+                    "/wiki/Odawara_Station",
+                    "/wiki/Karakida_Station"
+                ],
+                [
+                    {},
+                    {},
+                    {
+                        "entity id": "Q1054659",
+                        "label": "Sagami-\u014cno Station"
+                    },
+                    {
+                        "entity id": "Q4499730",
+                        "label": "Hon-Atsugi Station"
+                    },
+                    {
+                        "entity id": "Q801290",
+                        "label": "Odawara Station"
+                    },
+                    {
+                        "entity id": "Q4213880",
+                        "label": "Karakida Station"
+                    }
+                ]
+            ],
+            [
+                "1999-",
+                []
+            ]
+        ],
+        [
+            [
+                "Huis Ten Bosch",
+                [
+                    "/wiki/Huis_Ten_Bosch_(train)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "-",
+                []
+            ],
+            [
+                "JR Kyushu",
+                []
+            ],
+            [
+                "Hakata - Huis Ten Bosch",
+                [
+                    "/wiki/Huis_Ten_Bosch_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q852106",
+                        "label": "Huis Ten Bosch Station"
+                    }
+                ]
+            ],
+            [
+                "1992-",
+                []
+            ]
+        ],
+        [
+            [
+                "Inaho",
+                [
+                    "/wiki/Inaho"
+                ],
+                [
+                    {
+                        "entity id": "Q11596818",
+                        "label": "Inaho"
+                    }
+                ]
+            ],
+            [
+                "Rice stalk",
+                []
+            ],
+            [
+                "JR East",
+                []
+            ],
+            [
+                "Niigata - Sakata , Akita",
+                [
+                    "/wiki/Niigata_Station",
+                    "/wiki/Akita_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q701753",
+                        "label": "Niigata Station"
+                    },
+                    {
+                        "entity id": "Q1316396",
+                        "label": "Akita Station"
+                    }
+                ]
+            ],
+            [
+                "1969-",
+                []
+            ]
+        ],
+        [
+            [
+                "Inaji",
+                []
+            ],
+            [
+                "Way to Ina , refers to Ina region",
+                []
+            ],
+            [
+                "JR Central",
+                []
+            ],
+            [
+                "Toyohashi - Iida",
+                [
+                    "/wiki/Iida_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q985322",
+                        "label": "Iida Station"
+                    }
+                ]
+            ],
+            [
+                "1996-",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Daytime trains -- Limited express ( partial list )",
+    "section_text": "",
+    "uid": "List_of_named_passenger_trains_of_Japan_1",
+    "intro": "This article contains lists of named passenger trains in Japan."
+}

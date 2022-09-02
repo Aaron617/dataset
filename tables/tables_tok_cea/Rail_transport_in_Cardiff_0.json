@@ -1,0 +1,485 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Rail_transport_in_Cardiff",
+    "title": "Rail transport in Cardiff",
+    "header": [
+        [
+            "Destination",
+            []
+        ],
+        [
+            "Time from Central",
+            []
+        ],
+        [
+            "Operator",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Bath Spa",
+                [
+                    "/wiki/Bath_Spa_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q637185",
+                        "label": "Bath Spa railway station"
+                    }
+                ]
+            ],
+            [
+                "65 mins",
+                []
+            ],
+            [
+                "Great Western Railway",
+                [
+                    "/wiki/Great_Western_Railway_(train_operating_company)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Birmingham New Street",
+                [
+                    "/wiki/Birmingham_New_Street_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q683063",
+                        "label": "Birmingham New Street railway station"
+                    }
+                ]
+            ],
+            [
+                "120 mins",
+                []
+            ],
+            [
+                "CrossCountry",
+                [
+                    "/wiki/CrossCountry"
+                ],
+                [
+                    {
+                        "entity id": "Q1141120",
+                        "label": "CrossCountry"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Bristol Parkway",
+                [
+                    "/wiki/Bristol_Parkway_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q800574",
+                        "label": "Bristol Parkway railway station"
+                    }
+                ]
+            ],
+            [
+                "41 mins",
+                []
+            ],
+            [
+                "Great Western Railway",
+                [
+                    "/wiki/Great_Western_Railway_(train_operating_company)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Bristol Temple Meads",
+                [
+                    "/wiki/Bristol_Temple_Meads_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q800579",
+                        "label": "Bristol Temple Meads railway station"
+                    }
+                ]
+            ],
+            [
+                "48 mins",
+                []
+            ],
+            [
+                "Great Western Railway",
+                [
+                    "/wiki/Great_Western_Railway_(train_operating_company)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Derby",
+                [
+                    "/wiki/Derby_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q3398679",
+                        "label": "Derby railway station"
+                    }
+                ]
+            ],
+            [
+                "174 mins",
+                []
+            ],
+            [
+                "CrossCountry",
+                [
+                    "/wiki/CrossCountry"
+                ],
+                [
+                    {
+                        "entity id": "Q1141120",
+                        "label": "CrossCountry"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Gloucester",
+                [
+                    "/wiki/Gloucester_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q2499557",
+                        "label": "Gloucester railway station"
+                    }
+                ]
+            ],
+            [
+                "59 mins",
+                []
+            ],
+            [
+                "CrossCountry Transport for Wales",
+                [
+                    "/wiki/CrossCountry",
+                    "/wiki/Transport_for_Wales_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q1141120",
+                        "label": "CrossCountry"
+                    },
+                    {
+                        "entity id": "Q55074950",
+                        "label": "Transport for Wales Rail Services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Holyhead",
+                [
+                    "/wiki/Holyhead_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q2398052",
+                        "label": "Holyhead railway station"
+                    }
+                ]
+            ],
+            [
+                "301 mins",
+                []
+            ],
+            [
+                "Transport for Wales",
+                [
+                    "/wiki/Transport_for_Wales_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q55074950",
+                        "label": "Transport for Wales Rail Services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "London Paddington",
+                [
+                    "/wiki/Paddington_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q214788",
+                        "label": "London Paddington station"
+                    }
+                ]
+            ],
+            [
+                "125 mins",
+                []
+            ],
+            [
+                "Great Western Railway",
+                [
+                    "/wiki/Great_Western_Railway_(train_operating_company)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Manchester Piccadilly",
+                [
+                    "/wiki/Manchester_Piccadilly_railway_station"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "205 mins",
+                []
+            ],
+            [
+                "Transport for Wales",
+                [
+                    "/wiki/Transport_for_Wales_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q55074950",
+                        "label": "Transport for Wales Rail Services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Milford Haven",
+                [
+                    "/wiki/Milford_Haven_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q3400252",
+                        "label": "Milford Haven railway station"
+                    }
+                ]
+            ],
+            [
+                "160 mins",
+                []
+            ],
+            [
+                "Transport for Wales",
+                [
+                    "/wiki/Transport_for_Wales_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q55074950",
+                        "label": "Transport for Wales Rail Services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Nottingham",
+                [
+                    "/wiki/Nottingham_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q1988621",
+                        "label": "Nottingham station"
+                    }
+                ]
+            ],
+            [
+                "200 mins",
+                []
+            ],
+            [
+                "CrossCountry",
+                [
+                    "/wiki/CrossCountry"
+                ],
+                [
+                    {
+                        "entity id": "Q1141120",
+                        "label": "CrossCountry"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Portsmouth Harbour",
+                [
+                    "/wiki/Portsmouth_Harbour_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q2228512",
+                        "label": "Portsmouth Harbour railway station"
+                    }
+                ]
+            ],
+            [
+                "211 mins",
+                []
+            ],
+            [
+                "Great Western Railway",
+                [
+                    "/wiki/Great_Western_Railway_(train_operating_company)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Shrewsbury",
+                [
+                    "/wiki/Shrewsbury_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q1911181",
+                        "label": "Shrewsbury railway station"
+                    }
+                ]
+            ],
+            [
+                "121 mins",
+                []
+            ],
+            [
+                "Transport for Wales",
+                [
+                    "/wiki/Transport_for_Wales_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q55074950",
+                        "label": "Transport for Wales Rail Services"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Southampton Central",
+                [
+                    "/wiki/Southampton_Central_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q2396008",
+                        "label": "Southampton Central railway station"
+                    }
+                ]
+            ],
+            [
+                "156 mins",
+                []
+            ],
+            [
+                "Great Western Railway",
+                [
+                    "/wiki/Great_Western_Railway_(train_operating_company)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Taunton",
+                [
+                    "/wiki/Taunton_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q7688820",
+                        "label": "Taunton railway station"
+                    }
+                ]
+            ],
+            [
+                "122 mins",
+                []
+            ],
+            [
+                "Great Western Railway",
+                [
+                    "/wiki/Great_Western_Railway_(train_operating_company)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Wrexham General",
+                [
+                    "/wiki/Wrexham_General_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q2531369",
+                        "label": "Wrexham General railway station"
+                    }
+                ]
+            ],
+            [
+                "161 mins",
+                []
+            ],
+            [
+                "Transport for Wales",
+                [
+                    "/wiki/Transport_for_Wales_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q55074950",
+                        "label": "Transport for Wales Rail Services"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "",
+    "section_text": "National",
+    "uid": "Rail_transport_in_Cardiff_0",
+    "intro": "Rail transport in Cardiff has developed to provide connections to many other major cities in the United Kingdom, and to provide an urban rail network for the city and its commuter towns in southeast Wales. Today, there are three train operating companies in Cardiff: Great Western Railway, CrossCountry and Transport for Wales."
+}

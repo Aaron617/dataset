@@ -1,0 +1,749 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Timeline_of_programming_languages",
+    "title": "Timeline of programming languages",
+    "header": [
+        [
+            "Year",
+            []
+        ],
+        [
+            "Name",
+            []
+        ],
+        [
+            "Chief developer , company",
+            []
+        ],
+        [
+            "Predecessor ( s )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1980",
+                []
+            ],
+            [
+                "Ada 80 ( MIL-STD-1815 )",
+                [
+                    "/wiki/Ada_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Jean Ichbiah at CII Honeywell Bull",
+                [
+                    "/wiki/Jean_Ichbiah",
+                    "/wiki/Groupe_Bull"
+                ],
+                [
+                    {
+                        "entity id": "Q92853",
+                        "label": "Jean Ichbiah"
+                    },
+                    {
+                        "entity id": "Q1004175",
+                        "label": "Groupe Bull"
+                    }
+                ]
+            ],
+            [
+                "Green",
+                []
+            ]
+        ],
+        [
+            [
+                "1980",
+                []
+            ],
+            [
+                "C with classes",
+                [
+                    "/wiki/C++"
+                ],
+                [
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    }
+                ]
+            ],
+            [
+                "Bjarne Stroustrup",
+                [
+                    "/wiki/Bjarne_Stroustrup"
+                ],
+                [
+                    {
+                        "entity id": "Q92620",
+                        "label": "Bjarne Stroustrup"
+                    }
+                ]
+            ],
+            [
+                "C , Simula 67",
+                []
+            ]
+        ],
+        [
+            [
+                "1980",
+                []
+            ],
+            [
+                "Applesoft III",
+                [
+                    "/wiki/Applesoft_BASIC"
+                ],
+                [
+                    {
+                        "entity id": "Q621556",
+                        "label": "Applesoft BASIC"
+                    }
+                ]
+            ],
+            [
+                "Apple Computer",
+                [
+                    "/wiki/Apple_Computer"
+                ],
+                [
+                    {
+                        "entity id": "Q312",
+                        "label": "Apple Inc."
+                    }
+                ]
+            ],
+            [
+                "Applesoft II BASIC",
+                []
+            ]
+        ],
+        [
+            [
+                "1980",
+                []
+            ],
+            [
+                "Apple III Microsoft BASIC",
+                [
+                    "/wiki/Applesoft_BASIC"
+                ],
+                [
+                    {
+                        "entity id": "Q621556",
+                        "label": "Applesoft BASIC"
+                    }
+                ]
+            ],
+            [
+                "Microsoft",
+                []
+            ],
+            [
+                "Microsoft BASIC",
+                []
+            ]
+        ],
+        [
+            [
+                "1980-81",
+                []
+            ],
+            [
+                "CBASIC",
+                [
+                    "/wiki/CBASIC"
+                ],
+                [
+                    {
+                        "entity id": "Q1022951",
+                        "label": "CBASIC"
+                    }
+                ]
+            ],
+            [
+                "Gordon Eubanks",
+                [
+                    "/wiki/Gordon_Eubanks"
+                ],
+                [
+                    {
+                        "entity id": "Q5585116",
+                        "label": "Gordon Eubanks"
+                    }
+                ]
+            ],
+            [
+                "BASIC , Compiler Systems , Digital Research",
+                []
+            ]
+        ],
+        [
+            [
+                "1981",
+                []
+            ],
+            [
+                "BBC BASIC",
+                [
+                    "/wiki/BBC_BASIC"
+                ],
+                [
+                    {
+                        "entity id": "Q429801",
+                        "label": "BBC BASIC"
+                    }
+                ]
+            ],
+            [
+                "Acorn Computers , Sophie Wilson",
+                [
+                    "/wiki/Acorn_Computers",
+                    "/wiki/Sophie_Wilson"
+                ],
+                [
+                    {
+                        "entity id": "Q342149",
+                        "label": "Acorn Computers"
+                    },
+                    {
+                        "entity id": "Q16489",
+                        "label": "Sophie Wilson"
+                    }
+                ]
+            ],
+            [
+                "BASIC",
+                []
+            ]
+        ],
+        [
+            [
+                "1981",
+                []
+            ],
+            [
+                "IBM BASICA",
+                [
+                    "/wiki/IBM_BASICA"
+                ],
+                [
+                    {
+                        "entity id": "Q28942571",
+                        "label": "IBM Advanced BASIC"
+                    }
+                ]
+            ],
+            [
+                "Microsoft",
+                [
+                    "/wiki/Microsoft"
+                ],
+                [
+                    {
+                        "entity id": "Q2283",
+                        "label": "Microsoft"
+                    }
+                ]
+            ],
+            [
+                "BASIC",
+                []
+            ]
+        ],
+        [
+            [
+                "1982 ?",
+                []
+            ],
+            [
+                "Speakeasy-IV",
+                [
+                    "/wiki/Speakeasy_(computational_environment)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Stanley Cohen , et al . at Speakeasy Computing Corporation",
+                []
+            ],
+            [
+                "Speakeasy-3",
+                []
+            ]
+        ],
+        [
+            [
+                "1982 ?",
+                []
+            ],
+            [
+                "Draco",
+                [
+                    "/wiki/Draco_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Chris Gray",
+                []
+            ],
+            [
+                "Pascal , C , ALGOL 68",
+                [
+                    "/wiki/Pascal_(programming_language)",
+                    "/wiki/C_(programming_language)",
+                    "/wiki/ALGOL_68"
+                ],
+                [
+                    {},
+                    {},
+                    {
+                        "entity id": "Q2166735",
+                        "label": "ALGOL 68"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1982",
+                []
+            ],
+            [
+                "PostScript",
+                [
+                    "/wiki/PostScript"
+                ],
+                [
+                    {
+                        "entity id": "Q218170",
+                        "label": "PostScript"
+                    }
+                ]
+            ],
+            [
+                "Warnock",
+                [
+                    "/wiki/John_Warnock"
+                ],
+                [
+                    {
+                        "entity id": "Q1344392",
+                        "label": "John Warnock"
+                    }
+                ]
+            ],
+            [
+                "InterPress",
+                [
+                    "/wiki/InterPress"
+                ],
+                [
+                    {
+                        "entity id": "Q924737",
+                        "label": "Interpress"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1982",
+                []
+            ],
+            [
+                "Turing",
+                [
+                    "/wiki/Turing_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Ric Holt and James Cordy , at University of Toronto",
+                [
+                    "/wiki/Ric_Holt",
+                    "/wiki/James_Cordy",
+                    "/wiki/University_of_Toronto"
+                ],
+                [
+                    {
+                        "entity id": "Q7322470",
+                        "label": "Ric Holt"
+                    },
+                    {
+                        "entity id": "Q6131731",
+                        "label": "James Cordy"
+                    },
+                    {
+                        "entity id": "Q180865",
+                        "label": "University of Toronto"
+                    }
+                ]
+            ],
+            [
+                "Euclid",
+                [
+                    "/wiki/Euclid_(programming_language)"
+                ],
+                [
+                    {
+                        "entity id": "Q5406088",
+                        "label": "Euclid"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1983",
+                []
+            ],
+            [
+                "GW-BASIC",
+                [
+                    "/wiki/GW-BASIC"
+                ],
+                [
+                    {
+                        "entity id": "Q1049202",
+                        "label": "GW-BASIC"
+                    }
+                ]
+            ],
+            [
+                "Microsoft",
+                [
+                    "/wiki/Microsoft"
+                ],
+                [
+                    {
+                        "entity id": "Q2283",
+                        "label": "Microsoft"
+                    }
+                ]
+            ],
+            [
+                "IBM BASICA",
+                [
+                    "/wiki/IBM_BASICA"
+                ],
+                [
+                    {
+                        "entity id": "Q28942571",
+                        "label": "IBM Advanced BASIC"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1983",
+                []
+            ],
+            [
+                "Turbo Pascal",
+                [
+                    "/wiki/Turbo_Pascal"
+                ],
+                [
+                    {
+                        "entity id": "Q473201",
+                        "label": "Turbo Pascal"
+                    }
+                ]
+            ],
+            [
+                "Hejlsberg at Borland",
+                [
+                    "/wiki/Anders_Hejlsberg",
+                    "/wiki/Borland"
+                ],
+                [
+                    {
+                        "entity id": "Q316544",
+                        "label": "Anders Hejlsberg"
+                    },
+                    {
+                        "entity id": "Q210075",
+                        "label": "Borland"
+                    }
+                ]
+            ],
+            [
+                "Pascal",
+                [
+                    "/wiki/Pascal_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "1983",
+                []
+            ],
+            [
+                "Ada 83 ( ANSI/MIL-STD-1815A )",
+                [
+                    "/wiki/Ada_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Jean Ichbiah at Alsys",
+                [
+                    "/wiki/Jean_Ichbiah",
+                    "/wiki/Alsys"
+                ],
+                [
+                    {
+                        "entity id": "Q92853",
+                        "label": "Jean Ichbiah"
+                    },
+                    {
+                        "entity id": "Q2840257",
+                        "label": "Alsys"
+                    }
+                ]
+            ],
+            [
+                "Ada 80 , Green",
+                []
+            ]
+        ],
+        [
+            [
+                "1983",
+                []
+            ],
+            [
+                "Objective-C",
+                [
+                    "/wiki/Objective-C"
+                ],
+                [
+                    {
+                        "entity id": "Q188531",
+                        "label": "Objective-C"
+                    }
+                ]
+            ],
+            [
+                "Brad Cox",
+                [
+                    "/wiki/Brad_Cox"
+                ],
+                [
+                    {
+                        "entity id": "Q2738864",
+                        "label": "Brad Cox"
+                    }
+                ]
+            ],
+            [
+                "Smalltalk , C",
+                []
+            ]
+        ],
+        [
+            [
+                "1983",
+                []
+            ],
+            [
+                "C++",
+                [
+                    "/wiki/C++"
+                ],
+                [
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    }
+                ]
+            ],
+            [
+                "Bjarne Stroustrup",
+                [
+                    "/wiki/Bjarne_Stroustrup"
+                ],
+                [
+                    {
+                        "entity id": "Q92620",
+                        "label": "Bjarne Stroustrup"
+                    }
+                ]
+            ],
+            [
+                "C with Classes",
+                []
+            ]
+        ],
+        [
+            [
+                "1983",
+                []
+            ],
+            [
+                "True BASIC",
+                [
+                    "/wiki/True_BASIC"
+                ],
+                [
+                    {
+                        "entity id": "Q489525",
+                        "label": "True BASIC"
+                    }
+                ]
+            ],
+            [
+                "John George Kemeny , Thomas Eugene Kurtz at Dartmouth College",
+                [
+                    "/wiki/John_George_Kemeny",
+                    "/wiki/Thomas_Eugene_Kurtz",
+                    "/wiki/Dartmouth_College"
+                ],
+                [
+                    {
+                        "entity id": "Q28900",
+                        "label": "John George Kemeny"
+                    },
+                    {
+                        "entity id": "Q1387801",
+                        "label": "Thomas Eugene Kurtz"
+                    },
+                    {
+                        "entity id": "Q49116",
+                        "label": "Dartmouth College"
+                    }
+                ]
+            ],
+            [
+                "BASIC",
+                []
+            ]
+        ],
+        [
+            [
+                "1983",
+                []
+            ],
+            [
+                "occam",
+                [
+                    "/wiki/Occam_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "David May",
+                [
+                    "/wiki/David_May_(computer_scientist)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "EPL",
+                []
+            ]
+        ],
+        [
+            [
+                "1983 ?",
+                []
+            ],
+            [
+                "ABAP",
+                [
+                    "/wiki/ABAP"
+                ],
+                [
+                    {
+                        "entity id": "Q16245180",
+                        "label": "Association of Boxing Alliances in the Philippines"
+                    }
+                ]
+            ],
+            [
+                "SAP AG",
+                [
+                    "/wiki/SAP_AG"
+                ],
+                [
+                    {
+                        "entity id": "Q20658133",
+                        "label": "SAP AG"
+                    }
+                ]
+            ],
+            [
+                "COBOL",
+                [
+                    "/wiki/COBOL"
+                ],
+                [
+                    {
+                        "entity id": "Q131140",
+                        "label": "COBOL"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1983",
+                []
+            ],
+            [
+                "Korn Shell ( ksh )",
+                [
+                    "/wiki/Korn_shell"
+                ],
+                [
+                    {
+                        "entity id": "Q204222",
+                        "label": "Korn shell"
+                    }
+                ]
+            ],
+            [
+                "David Korn",
+                [
+                    "/wiki/David_Korn_(computer_scientist)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "sh",
+                []
+            ]
+        ]
+    ],
+    "section_title": "1980s",
+    "section_text": "",
+    "uid": "Timeline_of_programming_languages_4",
+    "intro": "This is a record of historically important programming languages, by decade."
+}

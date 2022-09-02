@@ -1,0 +1,666 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Eritrean_Airlines",
+    "title": "Eritrean Airlines",
+    "header": [
+        [
+            "Country",
+            []
+        ],
+        [
+            "City",
+            []
+        ],
+        [
+            "Airport Name",
+            []
+        ],
+        [
+            "Notes",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Egypt",
+                [
+                    "/wiki/Egypt"
+                ],
+                [
+                    {
+                        "entity id": "Q79",
+                        "label": "Egypt"
+                    }
+                ]
+            ],
+            [
+                "Cairo",
+                [
+                    "/wiki/Cairo"
+                ],
+                [
+                    {
+                        "entity id": "Q85",
+                        "label": "Cairo"
+                    }
+                ]
+            ],
+            [
+                "Cairo International Airport",
+                [
+                    "/wiki/Cairo_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q461793",
+                        "label": "Cairo International Airport"
+                    }
+                ]
+            ],
+            [
+                "-",
+                []
+            ]
+        ],
+        [
+            [
+                "Ethiopia",
+                [
+                    "/wiki/Ethiopia"
+                ],
+                [
+                    {
+                        "entity id": "Q115",
+                        "label": "Ethiopia"
+                    }
+                ]
+            ],
+            [
+                "Addis Ababa",
+                [
+                    "/wiki/Addis_Ababa"
+                ],
+                [
+                    {
+                        "entity id": "Q3624",
+                        "label": "Addis Ababa"
+                    }
+                ]
+            ],
+            [
+                "Bole International Airport",
+                [
+                    "/wiki/Bole_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q44923",
+                        "label": "Addis Ababa Bole International Airport"
+                    }
+                ]
+            ],
+            [
+                "-",
+                []
+            ]
+        ],
+        [
+            [
+                "Eritrea",
+                [
+                    "/wiki/Eritrea"
+                ],
+                [
+                    {
+                        "entity id": "Q986",
+                        "label": "Eritrea"
+                    }
+                ]
+            ],
+            [
+                "Asmara",
+                [
+                    "/wiki/Asmara"
+                ],
+                [
+                    {
+                        "entity id": "Q3642",
+                        "label": "Asmara"
+                    }
+                ]
+            ],
+            [
+                "Asmara International Airport",
+                [
+                    "/wiki/Asmara_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q522898",
+                        "label": "Asmara International Airport"
+                    }
+                ]
+            ],
+            [
+                "Hub",
+                [
+                    "/wiki/Airline_hub"
+                ],
+                [
+                    {
+                        "entity id": "Q4811588",
+                        "label": "airline hub"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Germany",
+                [
+                    "/wiki/Germany"
+                ],
+                [
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    }
+                ]
+            ],
+            [
+                "Frankfurt",
+                [
+                    "/wiki/Frankfurt"
+                ],
+                [
+                    {
+                        "entity id": "Q4024",
+                        "label": "Frankfurt (Oder)"
+                    }
+                ]
+            ],
+            [
+                "Frankfurt Airport",
+                [
+                    "/wiki/Frankfurt_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q46033",
+                        "label": "Frankfurt Airport"
+                    }
+                ]
+            ],
+            [
+                "Terminated",
+                []
+            ]
+        ],
+        [
+            [
+                "Italy",
+                [
+                    "/wiki/Italy"
+                ],
+                [
+                    {
+                        "entity id": "Q38",
+                        "label": "Italy"
+                    }
+                ]
+            ],
+            [
+                "Milan",
+                [
+                    "/wiki/Milan"
+                ],
+                [
+                    {
+                        "entity id": "Q490",
+                        "label": "Milan"
+                    }
+                ]
+            ],
+            [
+                "Malpensa International Airport",
+                [
+                    "/wiki/Malpensa_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q60910",
+                        "label": "Milan\u2013Malpensa Airport"
+                    }
+                ]
+            ],
+            [
+                "No scheduled service",
+                []
+            ]
+        ],
+        [
+            [
+                "Italy",
+                [
+                    "/wiki/Italy"
+                ],
+                [
+                    {
+                        "entity id": "Q38",
+                        "label": "Italy"
+                    }
+                ]
+            ],
+            [
+                "Rome",
+                [
+                    "/wiki/Rome"
+                ],
+                [
+                    {
+                        "entity id": "Q220",
+                        "label": "Rome"
+                    }
+                ]
+            ],
+            [
+                "Leonardo da Vinci-Fiumicino Airport",
+                [
+                    "/wiki/Leonardo_da_Vinci-Fiumicino_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q19101",
+                        "label": "Leonardo da Vinci\u2013Fiumicino Airport"
+                    }
+                ]
+            ],
+            [
+                "Terminated",
+                []
+            ]
+        ],
+        [
+            [
+                "Nigeria",
+                [
+                    "/wiki/Nigeria"
+                ],
+                [
+                    {
+                        "entity id": "Q1033",
+                        "label": "Nigeria"
+                    }
+                ]
+            ],
+            [
+                "Kano",
+                [
+                    "/wiki/Kano"
+                ],
+                [
+                    {
+                        "entity id": "Q682571",
+                        "label": "Kano State"
+                    }
+                ]
+            ],
+            [
+                "Mallam Aminu Kano International Airport",
+                [
+                    "/wiki/Mallam_Aminu_Kano_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1431654",
+                        "label": "Mallam Aminu Kano International Airport"
+                    }
+                ]
+            ],
+            [
+                "No scheduled service",
+                []
+            ]
+        ],
+        [
+            [
+                "Pakistan",
+                [
+                    "/wiki/Pakistan"
+                ],
+                [
+                    {
+                        "entity id": "Q843",
+                        "label": "Pakistan"
+                    }
+                ]
+            ],
+            [
+                "Karachi",
+                [
+                    "/wiki/Karachi"
+                ],
+                [
+                    {
+                        "entity id": "Q8660",
+                        "label": "Karachi"
+                    }
+                ]
+            ],
+            [
+                "Jinnah International Airport",
+                [
+                    "/wiki/Jinnah_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q61052",
+                        "label": "Jinnah International Airport"
+                    }
+                ]
+            ],
+            [
+                "Terminated",
+                []
+            ]
+        ],
+        [
+            [
+                "Pakistan",
+                [
+                    "/wiki/Pakistan"
+                ],
+                [
+                    {
+                        "entity id": "Q843",
+                        "label": "Pakistan"
+                    }
+                ]
+            ],
+            [
+                "Lahore",
+                [
+                    "/wiki/Lahore"
+                ],
+                [
+                    {
+                        "entity id": "Q11739",
+                        "label": "Lahore"
+                    }
+                ]
+            ],
+            [
+                "Allama Iqbal International Airport",
+                [
+                    "/wiki/Allama_Iqbal_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q60879",
+                        "label": "Allama Iqbal International Airport"
+                    }
+                ]
+            ],
+            [
+                "Terminated",
+                []
+            ]
+        ],
+        [
+            [
+                "Saudi Arabia",
+                [
+                    "/wiki/Saudi_Arabia"
+                ],
+                [
+                    {
+                        "entity id": "Q851",
+                        "label": "Saudi Arabia"
+                    }
+                ]
+            ],
+            [
+                "Jeddah",
+                [
+                    "/wiki/Jeddah"
+                ],
+                [
+                    {
+                        "entity id": "Q374365",
+                        "label": "Jeddah"
+                    }
+                ]
+            ],
+            [
+                "King Abdulaziz International Airport",
+                [
+                    "/wiki/King_Abdulaziz_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q153592",
+                        "label": "King Abdulaziz International Airport"
+                    }
+                ]
+            ],
+            [
+                "-",
+                []
+            ]
+        ],
+        [
+            [
+                "South Africa",
+                [
+                    "/wiki/South_Africa"
+                ],
+                [
+                    {
+                        "entity id": "Q258",
+                        "label": "South Africa"
+                    }
+                ]
+            ],
+            [
+                "Cape Town",
+                [
+                    "/wiki/Cape_Town"
+                ],
+                [
+                    {
+                        "entity id": "Q5465",
+                        "label": "Cape Town"
+                    }
+                ]
+            ],
+            [
+                "Cape Town International Airport",
+                [
+                    "/wiki/Cape_Town_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q854130",
+                        "label": "Cape Town International Airport"
+                    }
+                ]
+            ],
+            [
+                "Terminated",
+                []
+            ]
+        ],
+        [
+            [
+                "South Africa",
+                [
+                    "/wiki/South_Africa"
+                ],
+                [
+                    {
+                        "entity id": "Q258",
+                        "label": "South Africa"
+                    }
+                ]
+            ],
+            [
+                "Johannesburg",
+                [
+                    "/wiki/Johannesburg"
+                ],
+                [
+                    {
+                        "entity id": "Q34647",
+                        "label": "Johannesburg"
+                    }
+                ]
+            ],
+            [
+                "OR Tambo International Airport",
+                [
+                    "/wiki/OR_Tambo_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q821750",
+                        "label": "OR Tambo International Airport"
+                    }
+                ]
+            ],
+            [
+                "Terminated",
+                []
+            ]
+        ],
+        [
+            [
+                "Sudan",
+                [
+                    "/wiki/Sudan"
+                ],
+                [
+                    {
+                        "entity id": "Q1049",
+                        "label": "Sudan"
+                    }
+                ]
+            ],
+            [
+                "Khartoum",
+                [
+                    "/wiki/Khartoum"
+                ],
+                [
+                    {
+                        "entity id": "Q1963",
+                        "label": "Khartoum"
+                    }
+                ]
+            ],
+            [
+                "Khartoum International Airport",
+                [
+                    "/wiki/Khartoum_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1050244",
+                        "label": "Khartoum International Airport"
+                    }
+                ]
+            ],
+            [
+                "-",
+                []
+            ]
+        ],
+        [
+            [
+                "Sudan",
+                [
+                    "/wiki/Sudan"
+                ],
+                [
+                    {
+                        "entity id": "Q1049",
+                        "label": "Sudan"
+                    }
+                ]
+            ],
+            [
+                "Port Sudan",
+                [
+                    "/wiki/Port_Sudan"
+                ],
+                [
+                    {
+                        "entity id": "Q208718",
+                        "label": "Port Sudan"
+                    }
+                ]
+            ],
+            [
+                "Port Sudan New International Airport",
+                [
+                    "/wiki/Port_Sudan_New_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1431022",
+                        "label": "Port Sudan New International Airport"
+                    }
+                ]
+            ],
+            [
+                "Terminated",
+                []
+            ]
+        ],
+        [
+            [
+                "United Arab Emirates",
+                [
+                    "/wiki/United_Arab_Emirates"
+                ],
+                [
+                    {
+                        "entity id": "Q878",
+                        "label": "United Arab Emirates"
+                    }
+                ]
+            ],
+            [
+                "Dubai",
+                [
+                    "/wiki/Dubai"
+                ],
+                [
+                    {
+                        "entity id": "Q612",
+                        "label": "Dubai"
+                    }
+                ]
+            ],
+            [
+                "Dubai International Airport",
+                [
+                    "/wiki/Dubai_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q193439",
+                        "label": "Dubai International Airport"
+                    }
+                ]
+            ],
+            [
+                "No scheduled service",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Destinations",
+    "section_text": "As of January 2020 [ update ] , Eritrean has scheduled service to four destinations : Cairo , Addis Ababa , Khartoum , and Jeddah : [ 14 ]",
+    "uid": "Eritrean_Airlines_0",
+    "intro": "Eritrean Airlines, shortened to Eritrean, is the national airline of Eritrea. Based at Asmara International Airport, it is wholly owned by the government of Eritrea. Scheduled service had been discontinued since 2008, and the airline operated only a few hajj flights every year. The airline was restarted under new management in 2011 and in 2011, Nasair, a privately owned company, merged with government-owned Eritrean Airlines, to form Nasair Eritrea. Eritrean Airlines has been banned from flying into the European Union since December 2012."
+}

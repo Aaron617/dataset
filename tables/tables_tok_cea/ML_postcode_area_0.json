@@ -1,0 +1,725 @@
+{
+    "url": "https://en.wikipedia.org/wiki/ML_postcode_area",
+    "title": "ML postcode area",
+    "header": [
+        [
+            "Postcode district",
+            []
+        ],
+        [
+            "Post town",
+            [
+                "/wiki/Post_town"
+            ],
+            [
+                {
+                    "entity id": "Q1968403",
+                    "label": "post town"
+                }
+            ]
+        ],
+        [
+            "Coverage",
+            []
+        ],
+        [
+            "Local authority area",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "ML1",
+                []
+            ],
+            [
+                "MOTHERWELL",
+                []
+            ],
+            [
+                "Motherwell , Carfin , Cleland , Hareshaw , Holytown , New Stevenston , Newarthill , Newhouse",
+                [
+                    "/wiki/Motherwell",
+                    "/wiki/Carfin",
+                    "/wiki/Cleland,_North_Lanarkshire",
+                    "/wiki/Hareshaw",
+                    "/wiki/Holytown",
+                    "/wiki/New_Stevenston",
+                    "/wiki/Newarthill",
+                    "/wiki/Newhouse,_North_Lanarkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q216523",
+                        "label": "Motherwell F.C."
+                    },
+                    {
+                        "entity id": "Q5039238",
+                        "label": "Carfin"
+                    },
+                    {
+                        "entity id": "Q3439048",
+                        "label": "Cleland"
+                    },
+                    {
+                        "entity id": "Q16872873",
+                        "label": "Hareshaw"
+                    },
+                    {
+                        "entity id": "Q5887146",
+                        "label": "Holytown"
+                    },
+                    {
+                        "entity id": "Q7011958",
+                        "label": "New Stevenston"
+                    },
+                    {
+                        "entity id": "Q15059273",
+                        "label": "Newarthill"
+                    },
+                    {
+                        "entity id": "Q13130404",
+                        "label": "Newhouse"
+                    }
+                ]
+            ],
+            [
+                "North Lanarkshire",
+                [
+                    "/wiki/North_Lanarkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q207111",
+                        "label": "North Lanarkshire"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ML2",
+                []
+            ],
+            [
+                "WISHAW",
+                []
+            ],
+            [
+                "Wishaw , Bonkle , Bogside , Garrion Bridge , Morningside , Overtown , Waterloo , Newmains",
+                [
+                    "/wiki/Wishaw",
+                    "/wiki/Bonkle",
+                    "/wiki/Bogside,_North_Lanarkshire",
+                    "/wiki/Garrion_Bridge",
+                    "/wiki/Morningside,_North_Lanarkshire",
+                    "/wiki/Overtown,_North_Lanarkshire",
+                    "/wiki/Waterloo,_North_Lanarkshire",
+                    "/wiki/Newmains"
+                ],
+                [
+                    {
+                        "entity id": "Q2305226",
+                        "label": "Wishaw"
+                    },
+                    {
+                        "entity id": "Q4942133",
+                        "label": "Bonkle"
+                    },
+                    {
+                        "entity id": "Q4937782",
+                        "label": "Bogside"
+                    },
+                    {
+                        "entity id": "Q15221429",
+                        "label": "Garrion Bridge"
+                    },
+                    {
+                        "entity id": "Q6912965",
+                        "label": "Morningside"
+                    },
+                    {
+                        "entity id": "Q7114042",
+                        "label": "Overtown"
+                    },
+                    {},
+                    {
+                        "entity id": "Q3339125",
+                        "label": "Newmains"
+                    }
+                ]
+            ],
+            [
+                "North Lanarkshire , South Lanarkshire",
+                [
+                    "/wiki/North_Lanarkshire",
+                    "/wiki/South_Lanarkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q207111",
+                        "label": "North Lanarkshire"
+                    },
+                    {
+                        "entity id": "Q209142",
+                        "label": "South Lanarkshire"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ML3",
+                []
+            ],
+            [
+                "HAMILTON",
+                []
+            ],
+            [
+                "Hamilton , Ferniegair , Limekilnburn , Quarter",
+                [
+                    "/wiki/Hamilton,_South_Lanarkshire",
+                    "/wiki/Ferniegair"
+                ],
+                [
+                    {
+                        "entity id": "Q4131",
+                        "label": "Hamilton"
+                    },
+                    {
+                        "entity id": "Q5445108",
+                        "label": "Ferniegair"
+                    }
+                ]
+            ],
+            [
+                "South Lanarkshire , North Lanarkshire",
+                [
+                    "/wiki/South_Lanarkshire",
+                    "/wiki/North_Lanarkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q209142",
+                        "label": "South Lanarkshire"
+                    },
+                    {
+                        "entity id": "Q207111",
+                        "label": "North Lanarkshire"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ML4",
+                []
+            ],
+            [
+                "BELLSHILL",
+                []
+            ],
+            [
+                "Bellshill , Orbiston , Mossend",
+                [
+                    "/wiki/Bellshill",
+                    "/wiki/Mossend"
+                ],
+                [
+                    {
+                        "entity id": "Q680984",
+                        "label": "Bellshill"
+                    },
+                    {
+                        "entity id": "Q15059271",
+                        "label": "Mossend"
+                    }
+                ]
+            ],
+            [
+                "North Lanarkshire",
+                [
+                    "/wiki/North_Lanarkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q207111",
+                        "label": "North Lanarkshire"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ML5",
+                []
+            ],
+            [
+                "COATBRIDGE",
+                []
+            ],
+            [
+                "Coatbridge , Annathill , Glenboig",
+                [
+                    "/wiki/Coatbridge",
+                    "/wiki/Annathill",
+                    "/wiki/Glenboig"
+                ],
+                [
+                    {
+                        "entity id": "Q1018723",
+                        "label": "Coatbridge"
+                    },
+                    {
+                        "entity id": "Q4768027",
+                        "label": "Annathill"
+                    },
+                    {
+                        "entity id": "Q1009206",
+                        "label": "Glenboig"
+                    }
+                ]
+            ],
+            [
+                "North Lanarkshire",
+                [
+                    "/wiki/North_Lanarkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q207111",
+                        "label": "North Lanarkshire"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ML6",
+                []
+            ],
+            [
+                "AIRDRIE",
+                []
+            ],
+            [
+                "Airdrie , Calderbank , Caldercruix , Chapelhall , Forrestfield , Gartness , Glenmavis , Greengairs , Plains , Riggend , Stand , Wattston",
+                [
+                    "/wiki/Airdrie,_North_Lanarkshire",
+                    "/wiki/Calderbank",
+                    "/wiki/Caldercruix",
+                    "/wiki/Chapelhall",
+                    "/wiki/Forrestfield,_North_Lanarkshire",
+                    "/wiki/Glenmavis",
+                    "/wiki/Greengairs",
+                    "/wiki/Plains,_North_Lanarkshire",
+                    "/wiki/Riggend",
+                    "/wiki/Stand,_North_Lanarkshire",
+                    "/wiki/Wattston"
+                ],
+                [
+                    {
+                        "entity id": "Q408536",
+                        "label": "Airdrie"
+                    },
+                    {
+                        "entity id": "Q5019036",
+                        "label": "Calderbank"
+                    },
+                    {
+                        "entity id": "Q1009805",
+                        "label": "Caldercruix"
+                    },
+                    {
+                        "entity id": "Q5073132",
+                        "label": "Chapelhall"
+                    },
+                    {
+                        "entity id": "Q5470562",
+                        "label": "Forrestfield"
+                    },
+                    {
+                        "entity id": "Q1009809",
+                        "label": "Glenmavis"
+                    },
+                    {
+                        "entity id": "Q5604049",
+                        "label": "Greengairs"
+                    },
+                    {
+                        "entity id": "Q7200715",
+                        "label": "Plains"
+                    },
+                    {
+                        "entity id": "Q7333407",
+                        "label": "Riggend"
+                    },
+                    {
+                        "entity id": "Q16872878",
+                        "label": "Stand"
+                    },
+                    {
+                        "entity id": "Q7975050",
+                        "label": "Wattston"
+                    }
+                ]
+            ],
+            [
+                "North Lanarkshire",
+                [
+                    "/wiki/North_Lanarkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q207111",
+                        "label": "North Lanarkshire"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ML7",
+                []
+            ],
+            [
+                "SHOTTS",
+                []
+            ],
+            [
+                "Shotts , Allanton , Eastfield , Harthill , Hartwood , Salsburgh , Greenrigg",
+                [
+                    "/wiki/Shotts",
+                    "/wiki/Allanton,_North_Lanarkshire",
+                    "/wiki/Harthill,_Scotland",
+                    "/wiki/Hartwood",
+                    "/wiki/Salsburgh",
+                    "/wiki/Greenrigg"
+                ],
+                [
+                    {
+                        "entity id": "Q1009915",
+                        "label": "Shotts"
+                    },
+                    {},
+                    {
+                        "entity id": "Q5674615",
+                        "label": "Harthill"
+                    },
+                    {
+                        "entity id": "Q15059270",
+                        "label": "Hartwood"
+                    },
+                    {
+                        "entity id": "Q1009931",
+                        "label": "Salsburgh"
+                    },
+                    {
+                        "entity id": "Q5604413",
+                        "label": "Greenrigg"
+                    }
+                ]
+            ],
+            [
+                "North Lanarkshire , West Lothian",
+                [
+                    "/wiki/North_Lanarkshire",
+                    "/wiki/West_Lothian"
+                ],
+                [
+                    {
+                        "entity id": "Q207111",
+                        "label": "North Lanarkshire"
+                    },
+                    {
+                        "entity id": "Q204940",
+                        "label": "West Lothian"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ML8",
+                []
+            ],
+            [
+                "CARLUKE",
+                []
+            ],
+            [
+                "Carluke , Kilncazdow , Law",
+                [
+                    "/wiki/Carluke",
+                    "/wiki/Law,_South_Lanarkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q1011389",
+                        "label": "Carluke"
+                    },
+                    {
+                        "entity id": "Q6502895",
+                        "label": "Law"
+                    }
+                ]
+            ],
+            [
+                "South Lanarkshire",
+                [
+                    "/wiki/South_Lanarkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q209142",
+                        "label": "South Lanarkshire"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ML9",
+                []
+            ],
+            [
+                "LARKHALL",
+                []
+            ],
+            [
+                "Larkhall , Netherburn , Stonehouse , Ashgill",
+                [
+                    "/wiki/Larkhall",
+                    "/wiki/Netherburn",
+                    "/wiki/Stonehouse,_South_Lanarkshire",
+                    "/wiki/Ashgill"
+                ],
+                [
+                    {
+                        "entity id": "Q1012019",
+                        "label": "Larkhall"
+                    },
+                    {
+                        "entity id": "Q20601760",
+                        "label": "Netherburn"
+                    },
+                    {
+                        "entity id": "Q7619236",
+                        "label": "Stonehouse"
+                    },
+                    {
+                        "entity id": "Q4805029",
+                        "label": "Ashgill"
+                    }
+                ]
+            ],
+            [
+                "South Lanarkshire",
+                [
+                    "/wiki/South_Lanarkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q209142",
+                        "label": "South Lanarkshire"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ML10",
+                []
+            ],
+            [
+                "STRATHAVEN",
+                []
+            ],
+            [
+                "Strathaven , Caldermill , Chapelton , Drumclog , Glassford , Sandford , Gilmourton , West Dykes Farm",
+                [
+                    "/wiki/Strathaven",
+                    "/wiki/Caldermill",
+                    "/wiki/Chapelton,_South_Lanarkshire",
+                    "/wiki/Drumclog,_South_Lanarkshire",
+                    "/wiki/Glassford",
+                    "/wiki/Sandford,_South_Lanarkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q1013550",
+                        "label": "Strathaven"
+                    },
+                    {
+                        "entity id": "Q5019061",
+                        "label": "Caldermill"
+                    },
+                    {
+                        "entity id": "Q3439114",
+                        "label": "Chapelton"
+                    },
+                    {},
+                    {
+                        "entity id": "Q68815598",
+                        "label": "Glassford"
+                    },
+                    {
+                        "entity id": "Q7416202",
+                        "label": "Sandford"
+                    }
+                ]
+            ],
+            [
+                "South Lanarkshire",
+                [
+                    "/wiki/South_Lanarkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q209142",
+                        "label": "South Lanarkshire"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ML11",
+                []
+            ],
+            [
+                "LANARK",
+                []
+            ],
+            [
+                "Lanark , Auchenheath , Blackwood , Coalburn , Crossford , Hazelbank , Kirkfieldbank , Kirkmuirhill , Lesmahagow",
+                [
+                    "/wiki/Lanark",
+                    "/wiki/Auchenheath",
+                    "/wiki/Blackwood,_South_Lanarkshire",
+                    "/wiki/Coalburn,_South_Lanarkshire",
+                    "/wiki/Crossford,_South_Lanarkshire",
+                    "/wiki/Hazelbank",
+                    "/wiki/Kirkfieldbank",
+                    "/wiki/Kirkmuirhill",
+                    "/wiki/Lesmahagow"
+                ],
+                [
+                    {
+                        "entity id": "Q1002124",
+                        "label": "Lanark"
+                    },
+                    {
+                        "entity id": "Q4819407",
+                        "label": "Auchenheath"
+                    },
+                    {
+                        "entity id": "Q4923621",
+                        "label": "Blackwood"
+                    },
+                    {
+                        "entity id": "Q1013260",
+                        "label": "Coalburn"
+                    },
+                    {
+                        "entity id": "Q5188605",
+                        "label": "Crossford"
+                    },
+                    {
+                        "entity id": "Q107068345",
+                        "label": "Hazelbank"
+                    },
+                    {
+                        "entity id": "Q1013533",
+                        "label": "Kirkfieldbank"
+                    },
+                    {
+                        "entity id": "Q6415790",
+                        "label": "Kirkmuirhill"
+                    },
+                    {
+                        "entity id": "Q1010552",
+                        "label": "Lesmahagow"
+                    }
+                ]
+            ],
+            [
+                "South Lanarkshire",
+                [
+                    "/wiki/South_Lanarkshire"
+                ],
+                [
+                    {
+                        "entity id": "Q209142",
+                        "label": "South Lanarkshire"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ML12",
+                []
+            ],
+            [
+                "BIGGAR",
+                []
+            ],
+            [
+                "Biggar , Broughton , Symington , Wanlockhead",
+                [
+                    "/wiki/Biggar,_South_Lanarkshire",
+                    "/wiki/Broughton,_Scottish_Borders",
+                    "/wiki/Symington,_South_Lanarkshire",
+                    "/wiki/Wanlockhead"
+                ],
+                [
+                    {
+                        "entity id": "Q3250089",
+                        "label": "Biggar"
+                    },
+                    {
+                        "entity id": "Q3997390",
+                        "label": "Broughton"
+                    },
+                    {
+                        "entity id": "Q7661276",
+                        "label": "Symington"
+                    },
+                    {
+                        "entity id": "Q1670511",
+                        "label": "Wanlockhead"
+                    }
+                ]
+            ],
+            [
+                "South Lanarkshire , Scottish Borders , Dumfries and Galloway",
+                [
+                    "/wiki/South_Lanarkshire",
+                    "/wiki/Scottish_Borders",
+                    "/wiki/Dumfries_and_Galloway"
+                ],
+                [
+                    {
+                        "entity id": "Q209142",
+                        "label": "South Lanarkshire"
+                    },
+                    {
+                        "entity id": "Q211113",
+                        "label": "Scottish Borders"
+                    },
+                    {
+                        "entity id": "Q126514",
+                        "label": "Dumfries and Galloway"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Coverage",
+    "section_text": "The approximate coverage of the postcode districts :",
+    "uid": "ML_postcode_area_0",
+    "intro": "The ML postcode area, also known as the Motherwell postcode area, is a group of 12 postcode districts for post towns: Airdrie, Bellshill, Biggar, Carluke, Coatbridge, Hamilton, Lanark, Larkhall, Motherwell, Shotts, Strathaven, Newmains and Wishaw in the south-centre of the Central Belt, Scotland."
+}

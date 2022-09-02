@@ -1,0 +1,328 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Western_Europe",
+    "title": "Western Europe",
+    "header": [
+        [
+            "Rank",
+            []
+        ],
+        [
+            "Country or territory",
+            []
+        ],
+        [
+            "Population ( most recent estimates )",
+            []
+        ],
+        [
+            "Languages",
+            []
+        ],
+        [
+            "Capital",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1",
+                []
+            ],
+            [
+                "United Kingdom",
+                []
+            ],
+            [
+                "66,040,229",
+                []
+            ],
+            [
+                "English",
+                [
+                    "/wiki/English_language"
+                ],
+                [
+                    {
+                        "entity id": "Q1860",
+                        "label": "English"
+                    }
+                ]
+            ],
+            [
+                "London",
+                [
+                    "/wiki/London"
+                ],
+                [
+                    {
+                        "entity id": "Q84",
+                        "label": "London"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2",
+                []
+            ],
+            [
+                "France ( metropolitan )",
+                []
+            ],
+            [
+                "65,058,000",
+                []
+            ],
+            [
+                "French",
+                [
+                    "/wiki/French_language"
+                ],
+                [
+                    {
+                        "entity id": "Q150",
+                        "label": "French"
+                    }
+                ]
+            ],
+            [
+                "Paris",
+                [
+                    "/wiki/Paris"
+                ],
+                [
+                    {
+                        "entity id": "Q90",
+                        "label": "Paris"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "3",
+                []
+            ],
+            [
+                "Netherlands",
+                []
+            ],
+            [
+                "17,249,632",
+                []
+            ],
+            [
+                "Dutch , Frisian",
+                [
+                    "/wiki/Dutch_language",
+                    "/wiki/West_Frisian_language"
+                ],
+                [
+                    {
+                        "entity id": "Q7411",
+                        "label": "Dutch"
+                    },
+                    {
+                        "entity id": "Q27175",
+                        "label": "West Frisian"
+                    }
+                ]
+            ],
+            [
+                "Amsterdam",
+                [
+                    "/wiki/Amsterdam"
+                ],
+                [
+                    {
+                        "entity id": "Q727",
+                        "label": "Amsterdam"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "4",
+                []
+            ],
+            [
+                "Belgium",
+                []
+            ],
+            [
+                "11,420,163",
+                []
+            ],
+            [
+                "Dutch , French and German",
+                [
+                    "/wiki/Dutch_language",
+                    "/wiki/French_language",
+                    "/wiki/German_language"
+                ],
+                [
+                    {
+                        "entity id": "Q7411",
+                        "label": "Dutch"
+                    },
+                    {
+                        "entity id": "Q150",
+                        "label": "French"
+                    },
+                    {
+                        "entity id": "Q188",
+                        "label": "German"
+                    }
+                ]
+            ],
+            [
+                "Brussels",
+                [
+                    "/wiki/City_of_Brussels"
+                ],
+                [
+                    {
+                        "entity id": "Q239",
+                        "label": "City of Brussels"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "5",
+                []
+            ],
+            [
+                "Ireland",
+                []
+            ],
+            [
+                "4,857,000",
+                []
+            ],
+            [
+                "Irish , English",
+                [
+                    "/wiki/Irish_language",
+                    "/wiki/English_language"
+                ],
+                [
+                    {
+                        "entity id": "Q9142",
+                        "label": "Irish"
+                    },
+                    {
+                        "entity id": "Q1860",
+                        "label": "English"
+                    }
+                ]
+            ],
+            [
+                "Dublin",
+                [
+                    "/wiki/Dublin"
+                ],
+                [
+                    {
+                        "entity id": "Q1761",
+                        "label": "Dublin"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "6",
+                []
+            ],
+            [
+                "Luxembourg",
+                []
+            ],
+            [
+                "602,005",
+                []
+            ],
+            [
+                "French , Luxembourgish and German",
+                [
+                    "/wiki/French_language",
+                    "/wiki/Luxembourgish",
+                    "/wiki/German_language"
+                ],
+                [
+                    {
+                        "entity id": "Q150",
+                        "label": "French"
+                    },
+                    {
+                        "entity id": "Q9051",
+                        "label": "Luxembourgish"
+                    },
+                    {
+                        "entity id": "Q188",
+                        "label": "German"
+                    }
+                ]
+            ],
+            [
+                "Luxembourg City",
+                [
+                    "/wiki/Luxembourg_City"
+                ],
+                [
+                    {
+                        "entity id": "Q1842",
+                        "label": "Luxembourg"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "7",
+                []
+            ],
+            [
+                "Monaco",
+                []
+            ],
+            [
+                "38,300",
+                []
+            ],
+            [
+                "French",
+                [
+                    "/wiki/French_language"
+                ],
+                [
+                    {
+                        "entity id": "Q150",
+                        "label": "French"
+                    }
+                ]
+            ],
+            [
+                "Monaco ( city-state )",
+                [
+                    "/wiki/Monaco"
+                ],
+                [
+                    {
+                        "entity id": "Q235",
+                        "label": "Monaco"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Population",
+    "section_text": "Using the CIA classification strictly would give the following calculation of Western Europe 's population . All figures based on the projections for 2018 by the Population Division of the United Nations Department of Economic and Social Affairs . [ 14 ]",
+    "uid": "Western_Europe_0",
+    "intro": "Western Europe is the region comprising the western part of Europe. Though the term Western Europe is commonly used, there is no consensus on which countries comprise it. Significant historical events that have shaped the concept of Western Europe include the rise of Rome, the influence of Greek culture on the Roman Republic, the adoption of Christianity by Roman Emperors, the division of the Latin West and Greek East, the Fall of the Western Roman Empire, the reign of Charlemagne, the Viking invasions, the East-West Schism, the Black Death, the Renaissance, the Age of Discovery, the Protestant Reformation as well as the Counter-Reformation of the Catholic Church, the Age of Enlightenment, the French Revolution, the Industrial Revolution, the two world wars, the Cold War, the formation of the North Atlantic Treaty Organization and the expansion of the European Union. [citation needed]"
+}

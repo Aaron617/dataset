@@ -1,0 +1,1044 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions_that_run_from_RAM",
+    "title": "List of Linux distributions that run from RAM",
+    "header": [
+        [
+            "Distribution",
+            []
+        ],
+        [
+            "Based on",
+            []
+        ],
+        [
+            "RAM required",
+            []
+        ],
+        [
+            "installation drive/required size",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Alpine Linux",
+                [
+                    "/wiki/Alpine_Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q4033826",
+                        "label": "Alpine Linux"
+                    }
+                ]
+            ],
+            [
+                "Independent",
+                []
+            ],
+            [
+                "base system uses less than 64 MB",
+                []
+            ],
+            [
+                "CD - USB flash drive - HDD",
+                [
+                    "/wiki/CD",
+                    "/wiki/USB_flash_drive",
+                    "/wiki/Hard_disk_drive"
+                ],
+                [
+                    {
+                        "entity id": "Q974",
+                        "label": "Democratic Republic of the Congo"
+                    },
+                    {
+                        "entity id": "Q1647694",
+                        "label": "USB flash drive"
+                    },
+                    {
+                        "entity id": "Q4439",
+                        "label": "hard disk drive"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "antiX Linux",
+                [
+                    "/wiki/AntiX"
+                ],
+                [
+                    {
+                        "entity id": "Q3618804",
+                        "label": "antiX"
+                    }
+                ]
+            ],
+            [
+                "Debian",
+                [
+                    "/wiki/Debian"
+                ],
+                [
+                    {
+                        "entity id": "Q7715973",
+                        "label": "Debian"
+                    }
+                ]
+            ],
+            [
+                "256 MB",
+                []
+            ],
+            [
+                "CD - USB flash drive - HDD",
+                [
+                    "/wiki/CD",
+                    "/wiki/USB_flash_drive",
+                    "/wiki/Hard_disk_drive"
+                ],
+                [
+                    {
+                        "entity id": "Q974",
+                        "label": "Democratic Republic of the Congo"
+                    },
+                    {
+                        "entity id": "Q1647694",
+                        "label": "USB flash drive"
+                    },
+                    {
+                        "entity id": "Q4439",
+                        "label": "hard disk drive"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "AUSTRUMI",
+                [
+                    "/wiki/Austrumi_Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q781680",
+                        "label": "AUSTRUMI Linux"
+                    }
+                ]
+            ],
+            [
+                "Slackware",
+                [
+                    "/wiki/Slackware"
+                ],
+                [
+                    {
+                        "entity id": "Q58436",
+                        "label": "Slackware"
+                    }
+                ]
+            ],
+            [
+                "less than 100 MB",
+                []
+            ],
+            [
+                "CD - DVD - USB flash drive",
+                [
+                    "/wiki/CD",
+                    "/wiki/DVD",
+                    "/wiki/USB_flash_drive"
+                ],
+                [
+                    {
+                        "entity id": "Q974",
+                        "label": "Democratic Republic of the Congo"
+                    },
+                    {
+                        "entity id": "Q5294",
+                        "label": "DVD"
+                    },
+                    {
+                        "entity id": "Q1647694",
+                        "label": "USB flash drive"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "CoreOS",
+                [
+                    "/wiki/CoreOS"
+                ],
+                [
+                    {
+                        "entity id": "Q15984850",
+                        "label": "Container Linux"
+                    }
+                ]
+            ],
+            [
+                "Independent",
+                []
+            ],
+            [
+                "2048 MB",
+                []
+            ],
+            [
+                "USB flash drive - HDD",
+                [
+                    "/wiki/USB_flash_drive",
+                    "/wiki/Hard_disk_drive"
+                ],
+                [
+                    {
+                        "entity id": "Q1647694",
+                        "label": "USB flash drive"
+                    },
+                    {
+                        "entity id": "Q4439",
+                        "label": "hard disk drive"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Damn Small Linux",
+                [
+                    "/wiki/Damn_Small_Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q192546",
+                        "label": "Damn Small Linux"
+                    }
+                ]
+            ],
+            [
+                "Knoppix",
+                [
+                    "/wiki/Knoppix"
+                ],
+                [
+                    {
+                        "entity id": "Q102410",
+                        "label": "Knoppix"
+                    }
+                ]
+            ],
+            [
+                "128 MB",
+                []
+            ],
+            [
+                "CD - USB flash drive - HDD",
+                [
+                    "/wiki/CD",
+                    "/wiki/USB_flash_drive",
+                    "/wiki/Hard_disk_drive"
+                ],
+                [
+                    {
+                        "entity id": "Q974",
+                        "label": "Democratic Republic of the Congo"
+                    },
+                    {
+                        "entity id": "Q1647694",
+                        "label": "USB flash drive"
+                    },
+                    {
+                        "entity id": "Q4439",
+                        "label": "hard disk drive"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Grml",
+                [
+                    "/wiki/Grml"
+                ],
+                [
+                    {
+                        "entity id": "Q309531",
+                        "label": "Grml"
+                    }
+                ]
+            ],
+            [
+                "Debian",
+                [
+                    "/wiki/Debian"
+                ],
+                [
+                    {
+                        "entity id": "Q7715973",
+                        "label": "Debian"
+                    }
+                ]
+            ],
+            [
+                "256 MB ( required ) , 512 MB ( or more , recommended )",
+                []
+            ],
+            [
+                "CD - USB flash drive - HDD",
+                [
+                    "/wiki/CD",
+                    "/wiki/USB_flash_drive",
+                    "/wiki/Hard_disk_drive"
+                ],
+                [
+                    {
+                        "entity id": "Q974",
+                        "label": "Democratic Republic of the Congo"
+                    },
+                    {
+                        "entity id": "Q1647694",
+                        "label": "USB flash drive"
+                    },
+                    {
+                        "entity id": "Q4439",
+                        "label": "hard disk drive"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kanotix",
+                [
+                    "/wiki/Kanotix"
+                ],
+                [
+                    {
+                        "entity id": "Q974262",
+                        "label": "Kanotix"
+                    }
+                ]
+            ],
+            [
+                "Debian & Knoppix",
+                [
+                    "/wiki/Debian",
+                    "/wiki/Knoppix"
+                ],
+                [
+                    {
+                        "entity id": "Q7715973",
+                        "label": "Debian"
+                    },
+                    {
+                        "entity id": "Q102410",
+                        "label": "Knoppix"
+                    }
+                ]
+            ],
+            [
+                "1024 MB",
+                []
+            ],
+            [
+                "CD - DVD - USB flash drive - HDD",
+                [
+                    "/wiki/CD",
+                    "/wiki/DVD",
+                    "/wiki/USB_flash_drive",
+                    "/wiki/Hard_disk_drive"
+                ],
+                [
+                    {
+                        "entity id": "Q974",
+                        "label": "Democratic Republic of the Congo"
+                    },
+                    {
+                        "entity id": "Q5294",
+                        "label": "DVD"
+                    },
+                    {
+                        "entity id": "Q1647694",
+                        "label": "USB flash drive"
+                    },
+                    {
+                        "entity id": "Q4439",
+                        "label": "hard disk drive"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Knoppix",
+                [
+                    "/wiki/Knoppix"
+                ],
+                [
+                    {
+                        "entity id": "Q102410",
+                        "label": "Knoppix"
+                    }
+                ]
+            ],
+            [
+                "Debian",
+                [
+                    "/wiki/Debian"
+                ],
+                [
+                    {
+                        "entity id": "Q7715973",
+                        "label": "Debian"
+                    }
+                ]
+            ],
+            [
+                "1024 MB",
+                []
+            ],
+            [
+                "CD - DVD - USB flash drive - HDD",
+                [
+                    "/wiki/CD",
+                    "/wiki/DVD",
+                    "/wiki/USB_flash_drive",
+                    "/wiki/Hard_disk_drive"
+                ],
+                [
+                    {
+                        "entity id": "Q974",
+                        "label": "Democratic Republic of the Congo"
+                    },
+                    {
+                        "entity id": "Q5294",
+                        "label": "DVD"
+                    },
+                    {
+                        "entity id": "Q1647694",
+                        "label": "USB flash drive"
+                    },
+                    {
+                        "entity id": "Q4439",
+                        "label": "hard disk drive"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Lightweight Portable Security ( LPS ) currently known as Trusted End Node Security ( TENS )",
+                [
+                    "/wiki/Lightweight_Portable_Security"
+                ],
+                [
+                    {
+                        "entity id": "Q766079",
+                        "label": "Lightweight Portable Security"
+                    }
+                ]
+            ],
+            [
+                "Thinstation",
+                [
+                    "/wiki/Thinstation"
+                ],
+                [
+                    {
+                        "entity id": "Q4051409",
+                        "label": "Thinstation"
+                    }
+                ]
+            ],
+            [
+                "1024 MB ( basic ) , 1.5 GB ( deluxe )",
+                []
+            ],
+            [
+                "CD - USB flash drive",
+                [
+                    "/wiki/CD",
+                    "/wiki/USB_flash_drive"
+                ],
+                [
+                    {
+                        "entity id": "Q974",
+                        "label": "Democratic Republic of the Congo"
+                    },
+                    {
+                        "entity id": "Q1647694",
+                        "label": "USB flash drive"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Macpup",
+                [
+                    "/wiki/Macpup"
+                ],
+                [
+                    {
+                        "entity id": "Q9026550",
+                        "label": "Macpup"
+                    }
+                ]
+            ],
+            [
+                "Puppy",
+                [
+                    "/wiki/Puppy_Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q240116",
+                        "label": "Puppy Linux"
+                    }
+                ]
+            ],
+            [
+                "164 MB",
+                []
+            ],
+            [
+                "CD - USB flash drive",
+                [
+                    "/wiki/CD",
+                    "/wiki/USB_flash_drive"
+                ],
+                [
+                    {
+                        "entity id": "Q974",
+                        "label": "Democratic Republic of the Congo"
+                    },
+                    {
+                        "entity id": "Q1647694",
+                        "label": "USB flash drive"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Nanolinux",
+                [
+                    "/wiki/Nanolinux"
+                ],
+                [
+                    {
+                        "entity id": "Q15887984",
+                        "label": "Nanolinux"
+                    }
+                ]
+            ],
+            [
+                "Tiny Core Linux",
+                [
+                    "/wiki/Tiny_Core_Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q1151758",
+                        "label": "Tiny Core Linux"
+                    }
+                ]
+            ],
+            [
+                "64 MB",
+                []
+            ],
+            [
+                "CD - DVD - USB flash drive - HDD",
+                [
+                    "/wiki/CD",
+                    "/wiki/DVD",
+                    "/wiki/USB_flash_drive",
+                    "/wiki/Hard_disk_drive"
+                ],
+                [
+                    {
+                        "entity id": "Q974",
+                        "label": "Democratic Republic of the Congo"
+                    },
+                    {
+                        "entity id": "Q5294",
+                        "label": "DVD"
+                    },
+                    {
+                        "entity id": "Q1647694",
+                        "label": "USB flash drive"
+                    },
+                    {
+                        "entity id": "Q4439",
+                        "label": "hard disk drive"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Parted Magic",
+                [
+                    "/wiki/Parted_Magic"
+                ],
+                [
+                    {
+                        "entity id": "Q1650739",
+                        "label": "Parted Magic"
+                    }
+                ]
+            ],
+            [
+                "Independent",
+                []
+            ],
+            [
+                "175 MB - 312 MB",
+                []
+            ],
+            [
+                "CD - DVD - USB flash drive - HDD",
+                [
+                    "/wiki/CD",
+                    "/wiki/DVD",
+                    "/wiki/USB_flash_drive",
+                    "/wiki/Hard_disk_drive"
+                ],
+                [
+                    {
+                        "entity id": "Q974",
+                        "label": "Democratic Republic of the Congo"
+                    },
+                    {
+                        "entity id": "Q5294",
+                        "label": "DVD"
+                    },
+                    {
+                        "entity id": "Q1647694",
+                        "label": "USB flash drive"
+                    },
+                    {
+                        "entity id": "Q4439",
+                        "label": "hard disk drive"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "PCLinuxOS",
+                [
+                    "/wiki/PCLinuxOS"
+                ],
+                [
+                    {
+                        "entity id": "Q324583",
+                        "label": "PCLinuxOS"
+                    }
+                ]
+            ],
+            [
+                "Mandriva",
+                [
+                    "/wiki/Mandriva"
+                ],
+                [
+                    {
+                        "entity id": "Q869576",
+                        "label": "Mandriva"
+                    }
+                ]
+            ],
+            [
+                "1024 MB",
+                []
+            ],
+            [
+                "CD - DVD - USB flash drive - HDD",
+                [
+                    "/wiki/CD",
+                    "/wiki/DVD",
+                    "/wiki/USB_flash_drive",
+                    "/wiki/Hard_disk_drive"
+                ],
+                [
+                    {
+                        "entity id": "Q974",
+                        "label": "Democratic Republic of the Congo"
+                    },
+                    {
+                        "entity id": "Q5294",
+                        "label": "DVD"
+                    },
+                    {
+                        "entity id": "Q1647694",
+                        "label": "USB flash drive"
+                    },
+                    {
+                        "entity id": "Q4439",
+                        "label": "hard disk drive"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Porteus",
+                [
+                    "/wiki/Porteus_(operating_system)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Slackware",
+                [
+                    "/wiki/Slackware"
+                ],
+                [
+                    {
+                        "entity id": "Q58436",
+                        "label": "Slackware"
+                    }
+                ]
+            ],
+            [
+                "512 MB",
+                []
+            ],
+            [
+                "CD - DVD - USB flash drive",
+                [
+                    "/wiki/CD",
+                    "/wiki/DVD",
+                    "/wiki/USB_flash_drive"
+                ],
+                [
+                    {
+                        "entity id": "Q974",
+                        "label": "Democratic Republic of the Congo"
+                    },
+                    {
+                        "entity id": "Q5294",
+                        "label": "DVD"
+                    },
+                    {
+                        "entity id": "Q1647694",
+                        "label": "USB flash drive"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Puppy Linux",
+                [
+                    "/wiki/Puppy_Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q240116",
+                        "label": "Puppy Linux"
+                    }
+                ]
+            ],
+            [
+                "Independent",
+                []
+            ],
+            [
+                "64 MB ( required ) , 256 MB ( recommended )",
+                []
+            ],
+            [
+                "CD - DVD - USB flash drive - HDD",
+                [
+                    "/wiki/CD",
+                    "/wiki/DVD",
+                    "/wiki/USB_flash_drive",
+                    "/wiki/Hard_disk_drive"
+                ],
+                [
+                    {
+                        "entity id": "Q974",
+                        "label": "Democratic Republic of the Congo"
+                    },
+                    {
+                        "entity id": "Q5294",
+                        "label": "DVD"
+                    },
+                    {
+                        "entity id": "Q1647694",
+                        "label": "USB flash drive"
+                    },
+                    {
+                        "entity id": "Q4439",
+                        "label": "hard disk drive"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Slax",
+                [
+                    "/wiki/Slax"
+                ],
+                [
+                    {
+                        "entity id": "Q337503",
+                        "label": "Slax"
+                    }
+                ]
+            ],
+            [
+                "Debian",
+                [
+                    "/wiki/Debian"
+                ],
+                [
+                    {
+                        "entity id": "Q7715973",
+                        "label": "Debian"
+                    }
+                ]
+            ],
+            [
+                "512 MB",
+                []
+            ],
+            [
+                "CD - DVD - USB flash drive - HDD",
+                [
+                    "/wiki/CD",
+                    "/wiki/DVD",
+                    "/wiki/USB_flash_drive",
+                    "/wiki/Hard_disk_drive"
+                ],
+                [
+                    {
+                        "entity id": "Q974",
+                        "label": "Democratic Republic of the Congo"
+                    },
+                    {
+                        "entity id": "Q5294",
+                        "label": "DVD"
+                    },
+                    {
+                        "entity id": "Q1647694",
+                        "label": "USB flash drive"
+                    },
+                    {
+                        "entity id": "Q4439",
+                        "label": "hard disk drive"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SliTaz",
+                [
+                    "/wiki/SliTaz_GNU/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q208462",
+                        "label": "SliTaz"
+                    }
+                ]
+            ],
+            [
+                "Independent",
+                []
+            ],
+            [
+                "192 MB ( 48 MB for base )",
+                []
+            ],
+            [
+                "CD - DVD - USB flash drive - HDD - Floppy disk",
+                [
+                    "/wiki/CD",
+                    "/wiki/DVD",
+                    "/wiki/USB_flash_drive",
+                    "/wiki/Hard_disk_drive",
+                    "/wiki/Floppy_disk"
+                ],
+                [
+                    {
+                        "entity id": "Q974",
+                        "label": "Democratic Republic of the Congo"
+                    },
+                    {
+                        "entity id": "Q5294",
+                        "label": "DVD"
+                    },
+                    {
+                        "entity id": "Q1647694",
+                        "label": "USB flash drive"
+                    },
+                    {
+                        "entity id": "Q4439",
+                        "label": "hard disk drive"
+                    },
+                    {
+                        "entity id": "Q5293",
+                        "label": "floppy disk"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "SystemRescueCD",
+                [
+                    "/wiki/SystemRescueCD"
+                ],
+                [
+                    {
+                        "entity id": "Q571041",
+                        "label": "SystemRescue"
+                    }
+                ]
+            ],
+            [
+                "Arch Linux",
+                [
+                    "/wiki/Arch_Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q185576",
+                        "label": "Arch Linux"
+                    }
+                ]
+            ],
+            [
+                "400 MB",
+                []
+            ],
+            [
+                "CD - DVD - USB flash drive - HDD",
+                [
+                    "/wiki/CD",
+                    "/wiki/DVD",
+                    "/wiki/USB_flash_drive",
+                    "/wiki/Hard_disk_drive"
+                ],
+                [
+                    {
+                        "entity id": "Q974",
+                        "label": "Democratic Republic of the Congo"
+                    },
+                    {
+                        "entity id": "Q5294",
+                        "label": "DVD"
+                    },
+                    {
+                        "entity id": "Q1647694",
+                        "label": "USB flash drive"
+                    },
+                    {
+                        "entity id": "Q4439",
+                        "label": "hard disk drive"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Tails",
+                [
+                    "/wiki/Tails_(operating_system)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Debian",
+                [
+                    "/wiki/Debian"
+                ],
+                [
+                    {
+                        "entity id": "Q7715973",
+                        "label": "Debian"
+                    }
+                ]
+            ],
+            [
+                "2048 MB ( recommended )",
+                []
+            ],
+            [
+                "DVD - USB flash drive - Secure Digital",
+                [
+                    "/wiki/DVD",
+                    "/wiki/USB_flash_drive",
+                    "/wiki/Secure_Digital"
+                ],
+                [
+                    {
+                        "entity id": "Q5294",
+                        "label": "DVD"
+                    },
+                    {
+                        "entity id": "Q1647694",
+                        "label": "USB flash drive"
+                    },
+                    {
+                        "entity id": "Q466977",
+                        "label": "Secure Digital card"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Tin Hat Linux",
+                [
+                    "/wiki/Tin_Hat_Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q7807752",
+                        "label": "Tin Hat Linux"
+                    }
+                ]
+            ],
+            [
+                "Hardened Gentoo",
+                [
+                    "/wiki/Hardened_Gentoo"
+                ],
+                [
+                    {
+                        "entity id": "Q4040417",
+                        "label": "Hardened Gentoo"
+                    }
+                ]
+            ],
+            [
+                "4096 MB",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Table",
+    "section_text": "",
+    "uid": "List_of_Linux_distributions_that_run_from_RAM_0",
+    "intro": "This is a list of Linux distributions that can be run entirely from the computer's RAM. That ability allows them to be very fast, since reading and writing data from/to RAM is much faster than on a hard disk drive. Many of these operating systems will load from a removable media such as a Live CD or a Live USB stick. A frugal install can also often be completed, allowing boot up from a hard disk drive instead. This feature is implemented in live-initramfs and allows the user to run a live distro that does not run from ram by default by adding toram to the kernel boot parameters. Additionally some distributions can be configured to run from RAM, such as Ubuntu using the toram option included in the Casper scripts."
+}

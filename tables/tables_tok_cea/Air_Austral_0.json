@@ -1,0 +1,670 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Air_Austral",
+    "title": "Air Austral",
+    "header": [
+        [
+            "Country or territory",
+            []
+        ],
+        [
+            "City",
+            []
+        ],
+        [
+            "IATA",
+            []
+        ],
+        [
+            "ICAO",
+            []
+        ],
+        [
+            "Airport",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Comoros",
+                [
+                    "/wiki/Comoros"
+                ],
+                [
+                    {
+                        "entity id": "Q970",
+                        "label": "Comoros"
+                    }
+                ]
+            ],
+            [
+                "Moroni",
+                [
+                    "/wiki/Moroni,_Comoros"
+                ],
+                [
+                    {
+                        "entity id": "Q3901",
+                        "label": "Moroni"
+                    }
+                ]
+            ],
+            [
+                "HAH",
+                []
+            ],
+            [
+                "FMCH",
+                []
+            ],
+            [
+                "Prince Said Ibrahim International Airport",
+                [
+                    "/wiki/Prince_Said_Ibrahim_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q653299",
+                        "label": "Prince Said Ibrahim International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "Dzaoudzi",
+                [
+                    "/wiki/Dzaoudzi"
+                ],
+                [
+                    {
+                        "entity id": "Q846048",
+                        "label": "Dzaoudzi"
+                    }
+                ]
+            ],
+            [
+                "DZA",
+                []
+            ],
+            [
+                "FMCZ",
+                []
+            ],
+            [
+                "Dzaoudzi Pamandzi International Airport",
+                [
+                    "/wiki/Dzaoudzi_Pamandzi_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q642313",
+                        "label": "Dzaoudzi Pamandzi International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "Marseille",
+                [
+                    "/wiki/Marseille"
+                ],
+                [
+                    {
+                        "entity id": "Q23482",
+                        "label": "Marseille"
+                    }
+                ]
+            ],
+            [
+                "MRS",
+                []
+            ],
+            [
+                "LFML",
+                []
+            ],
+            [
+                "Marseille Provence Airport",
+                [
+                    "/wiki/Marseille_Provence_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q651190",
+                        "label": "Marseille Provence Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "Paris",
+                [
+                    "/wiki/Paris"
+                ],
+                [
+                    {
+                        "entity id": "Q90",
+                        "label": "Paris"
+                    }
+                ]
+            ],
+            [
+                "CDG",
+                []
+            ],
+            [
+                "LFPG",
+                []
+            ],
+            [
+                "Charles de Gaulle Airport",
+                [
+                    "/wiki/Charles_de_Gaulle_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q46280",
+                        "label": "Paris-Charles de Gaulle Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "Saint Denis",
+                [
+                    "/wiki/Saint-Denis,_R\u00e9union"
+                ],
+                [
+                    {
+                        "entity id": "Q47045",
+                        "label": "Saint-Denis"
+                    }
+                ]
+            ],
+            [
+                "RUN",
+                []
+            ],
+            [
+                "FMEE",
+                []
+            ],
+            [
+                "Roland Garros Airport",
+                [
+                    "/wiki/Roland_Garros_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q17430",
+                        "label": "Roland Garros Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "Saint-Pierre",
+                [
+                    "/wiki/Saint-Pierre,_R\u00e9union"
+                ],
+                [
+                    {
+                        "entity id": "Q249884",
+                        "label": "Saint-Pierre"
+                    }
+                ]
+            ],
+            [
+                "ZSE",
+                []
+            ],
+            [
+                "FMEP",
+                []
+            ],
+            [
+                "Pierrefonds Airport",
+                [
+                    "/wiki/Pierrefonds_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q17431",
+                        "label": "Pierrefonds Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "India",
+                [
+                    "/wiki/India"
+                ],
+                [
+                    {
+                        "entity id": "Q668",
+                        "label": "India"
+                    }
+                ]
+            ],
+            [
+                "Chennai",
+                [
+                    "/wiki/Chennai"
+                ],
+                [
+                    {
+                        "entity id": "Q1352",
+                        "label": "Chennai"
+                    }
+                ]
+            ],
+            [
+                "MAA",
+                []
+            ],
+            [
+                "VOMM",
+                []
+            ],
+            [
+                "Chennai International Airport",
+                [
+                    "/wiki/Chennai_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q502670",
+                        "label": "Chennai International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Madagascar",
+                [
+                    "/wiki/Madagascar"
+                ],
+                [
+                    {
+                        "entity id": "Q1019",
+                        "label": "Madagascar"
+                    }
+                ]
+            ],
+            [
+                "Antananarivo",
+                [
+                    "/wiki/Antananarivo"
+                ],
+                [
+                    {
+                        "entity id": "Q3915",
+                        "label": "Antananarivo"
+                    }
+                ]
+            ],
+            [
+                "TNR",
+                []
+            ],
+            [
+                "FMMI",
+                []
+            ],
+            [
+                "Ivato Airport",
+                [
+                    "/wiki/Ivato_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q670038",
+                        "label": "Ivato Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Madagascar",
+                [
+                    "/wiki/Madagascar"
+                ],
+                [
+                    {
+                        "entity id": "Q1019",
+                        "label": "Madagascar"
+                    }
+                ]
+            ],
+            [
+                "Nosy Be",
+                [
+                    "/wiki/Nosy_Be"
+                ],
+                [
+                    {
+                        "entity id": "Q1330558",
+                        "label": "Nosy Be"
+                    }
+                ]
+            ],
+            [
+                "NOS",
+                []
+            ],
+            [
+                "FMNN",
+                []
+            ],
+            [
+                "Fascene Airport",
+                [
+                    "/wiki/Fascene_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q613657",
+                        "label": "Fascene Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Madagascar",
+                [
+                    "/wiki/Madagascar"
+                ],
+                [
+                    {
+                        "entity id": "Q1019",
+                        "label": "Madagascar"
+                    }
+                ]
+            ],
+            [
+                "Toamasina",
+                [
+                    "/wiki/Toamasina"
+                ],
+                [
+                    {
+                        "entity id": "Q178067",
+                        "label": "Toamasina"
+                    }
+                ]
+            ],
+            [
+                "TMM",
+                []
+            ],
+            [
+                "FMMT",
+                []
+            ],
+            [
+                "Toamasina Airport",
+                [
+                    "/wiki/Toamasina_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2006710",
+                        "label": "Toamasina Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mauritius",
+                [
+                    "/wiki/Mauritius"
+                ],
+                [
+                    {
+                        "entity id": "Q1027",
+                        "label": "Mauritius"
+                    }
+                ]
+            ],
+            [
+                "Port Louis",
+                [
+                    "/wiki/Port_Louis"
+                ],
+                [
+                    {
+                        "entity id": "Q3929",
+                        "label": "Port Louis"
+                    }
+                ]
+            ],
+            [
+                "MRU",
+                []
+            ],
+            [
+                "FIMP",
+                []
+            ],
+            [
+                "Sir Seewoosagur Ramgoolam International Airport",
+                [
+                    "/wiki/Sir_Seewoosagur_Ramgoolam_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q36460",
+                        "label": "Sir Seewoosagur Ramgoolam International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Seychelles",
+                [
+                    "/wiki/Seychelles"
+                ],
+                [
+                    {
+                        "entity id": "Q1042",
+                        "label": "Seychelles"
+                    }
+                ]
+            ],
+            [
+                "Mah\u00e9",
+                [
+                    "/wiki/Mah\u00e9,_Seychelles"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "SEZ",
+                []
+            ],
+            [
+                "FSIA",
+                []
+            ],
+            [
+                "Seychelles International Airport",
+                [
+                    "/wiki/Seychelles_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1432843",
+                        "label": "Seychelles International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "South Africa",
+                [
+                    "/wiki/South_Africa"
+                ],
+                [
+                    {
+                        "entity id": "Q258",
+                        "label": "South Africa"
+                    }
+                ]
+            ],
+            [
+                "Johannesburg",
+                [
+                    "/wiki/Johannesburg"
+                ],
+                [
+                    {
+                        "entity id": "Q34647",
+                        "label": "Johannesburg"
+                    }
+                ]
+            ],
+            [
+                "JNB",
+                []
+            ],
+            [
+                "FAOR",
+                []
+            ],
+            [
+                "O. R. Tambo International Airport",
+                [
+                    "/wiki/O._R._Tambo_International_Airport"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Thailand",
+                [
+                    "/wiki/Thailand"
+                ],
+                [
+                    {
+                        "entity id": "Q869",
+                        "label": "Thailand"
+                    }
+                ]
+            ],
+            [
+                "Bangkok",
+                [
+                    "/wiki/Bangkok"
+                ],
+                [
+                    {
+                        "entity id": "Q1861",
+                        "label": "Bangkok"
+                    }
+                ]
+            ],
+            [
+                "BKK",
+                []
+            ],
+            [
+                "VTBS",
+                []
+            ],
+            [
+                "Suvarnabhumi Airport",
+                [
+                    "/wiki/Suvarnabhumi_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q194316",
+                        "label": "Suvarnabhumi Airport"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "",
+    "section_text": "",
+    "uid": "Air_Austral_0",
+    "intro": "Air Austral is an airline based at the Roland Garros Airport in the French overseas department of R\u00e9union in the Indian Ocean. It operates scheduled services from R\u00e9union to metropolitan France, South Africa, Thailand, India and a number of destinations in the Indian Ocean. The company has eight airplanes in the fleet and employs around 900 people."
+}

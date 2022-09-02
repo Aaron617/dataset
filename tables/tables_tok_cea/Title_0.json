@@ -1,0 +1,843 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Title",
+    "title": "Title",
+    "header": [
+        [
+            "Male version",
+            [
+                "/wiki/Male"
+            ],
+            [
+                {
+                    "entity id": "Q6581097",
+                    "label": "male"
+                }
+            ]
+        ],
+        [
+            "Female version",
+            [
+                "/wiki/Female"
+            ],
+            [
+                {
+                    "entity id": "Q43445",
+                    "label": "female organism"
+                }
+            ]
+        ],
+        [
+            "Realm",
+            [
+                "/wiki/Realm"
+            ],
+            [
+                {
+                    "entity id": "Q1250464",
+                    "label": "realm"
+                }
+            ]
+        ],
+        [
+            "Adjective",
+            [
+                "/wiki/Adjective"
+            ],
+            [
+                {
+                    "entity id": "Q34698",
+                    "label": "adjective"
+                }
+            ]
+        ],
+        [
+            "Latin",
+            [
+                "/wiki/Latin"
+            ],
+            [
+                {
+                    "entity id": "Q397",
+                    "label": "Latin"
+                }
+            ]
+        ],
+        [
+            "Examples",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Emperor",
+                [
+                    "/wiki/Emperor"
+                ],
+                [
+                    {
+                        "entity id": "Q39018",
+                        "label": "emperor"
+                    }
+                ]
+            ],
+            [
+                "Empress",
+                []
+            ],
+            [
+                "Empire",
+                [
+                    "/wiki/Empire"
+                ],
+                [
+                    {
+                        "entity id": "Q80702",
+                        "label": "Spanish Empire"
+                    }
+                ]
+            ],
+            [
+                "Imperial Imperial and Royal ( Austria )",
+                [
+                    "/wiki/Imperial_and_Royal"
+                ],
+                [
+                    {
+                        "entity id": "Q265411",
+                        "label": "Imperial and Royal"
+                    }
+                ]
+            ],
+            [
+                "Imperator ( Imperatrix )",
+                []
+            ],
+            [
+                "Roman Empire , Byzantine Empire , Ottoman Empire , Holy Roman Empire , Russia , First and Second French Empire , Austria , Mexican Empire , Empire of Brazil , German Empire ( none left in Europe after 1918 ) , Empress of India ( ceased to be used after 1947 when India was granted independence from the British Empire ) , Japan ( the only remaining enthroned emperor in the world )",
+                [
+                    "/wiki/Roman_Empire",
+                    "/wiki/Byzantine_Empire",
+                    "/wiki/Ottoman_Empire",
+                    "/wiki/Holy_Roman_Empire",
+                    "/wiki/Imperial_Russia",
+                    "/wiki/France",
+                    "/wiki/Austria",
+                    "/wiki/Mexican_Empire_(disambiguation)",
+                    "/wiki/Empire_of_Brazil",
+                    "/wiki/German_Empire",
+                    "/wiki/Empress_of_India",
+                    "/wiki/India",
+                    "/wiki/British_Empire",
+                    "/wiki/Japan"
+                ],
+                [
+                    {
+                        "entity id": "Q2277",
+                        "label": "Roman Empire"
+                    },
+                    {
+                        "entity id": "Q12544",
+                        "label": "Byzantine Empire"
+                    },
+                    {
+                        "entity id": "Q12560",
+                        "label": "Ottoman Empire"
+                    },
+                    {
+                        "entity id": "Q12548",
+                        "label": "Holy Roman Empire"
+                    },
+                    {
+                        "entity id": "Q34266",
+                        "label": "Russian Empire"
+                    },
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    },
+                    {
+                        "entity id": "Q40",
+                        "label": "Austria"
+                    },
+                    {},
+                    {
+                        "entity id": "Q217230",
+                        "label": "Empire of Brazil"
+                    },
+                    {
+                        "entity id": "Q43287",
+                        "label": "German Empire"
+                    },
+                    {
+                        "entity id": "Q5352166",
+                        "label": "Emperor of India"
+                    },
+                    {
+                        "entity id": "Q668",
+                        "label": "India"
+                    },
+                    {
+                        "entity id": "Q8680",
+                        "label": "British Empire"
+                    },
+                    {
+                        "entity id": "Q17",
+                        "label": "Japan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "King",
+                [
+                    "/wiki/King"
+                ],
+                [
+                    {
+                        "entity id": "Q116",
+                        "label": "monarch"
+                    }
+                ]
+            ],
+            [
+                "Queen",
+                [
+                    "/wiki/Queen_regnant"
+                ],
+                [
+                    {
+                        "entity id": "Q19643",
+                        "label": "queen regnant"
+                    }
+                ]
+            ],
+            [
+                "Kingdom",
+                [
+                    "/wiki/Monarchy"
+                ],
+                [
+                    {
+                        "entity id": "Q7269",
+                        "label": "monarchy"
+                    }
+                ]
+            ],
+            [
+                "Royal",
+                []
+            ],
+            [
+                "Rex ( Regina )",
+                []
+            ],
+            [
+                "Common in larger sovereign states",
+                []
+            ]
+        ],
+        [
+            [
+                "Viceroy",
+                [
+                    "/wiki/Viceroy"
+                ],
+                [
+                    {
+                        "entity id": "Q244741",
+                        "label": "viceroy"
+                    }
+                ]
+            ],
+            [
+                "Vicereine",
+                []
+            ],
+            [
+                "Viceroyalty",
+                []
+            ],
+            [
+                "Viceroyal",
+                []
+            ],
+            [
+                "Proconsul",
+                []
+            ],
+            [
+                "Historical : Spanish Empire ( Peru , New Spain , Rio de la Plata , New Granada ) , Portuguese Empire , ( India , Brazil ) , British Empire",
+                [
+                    "/wiki/Spain",
+                    "/wiki/Viceroy_of_Peru",
+                    "/wiki/Viceroy_of_New_Spain",
+                    "/wiki/Viceroyalty_of_Rio_de_la_Plata",
+                    "/wiki/Viceroyalty_of_New_Granada",
+                    "/wiki/Portuguese_Empire",
+                    "/wiki/Viceroy_of_India",
+                    "/wiki/Colonial_Brazil",
+                    "/wiki/United_Kingdom"
+                ],
+                [
+                    {
+                        "entity id": "Q29",
+                        "label": "Spain"
+                    },
+                    {
+                        "entity id": "Q42077331",
+                        "label": "Viceroy of Peru"
+                    },
+                    {
+                        "entity id": "Q42079568",
+                        "label": "Viceroy of New Spain"
+                    },
+                    {},
+                    {
+                        "entity id": "Q8965",
+                        "label": "Viceroyalty of New Granada"
+                    },
+                    {
+                        "entity id": "Q200464",
+                        "label": "Portuguese Empire"
+                    },
+                    {
+                        "entity id": "Q641589",
+                        "label": "Governor-General of India"
+                    },
+                    {
+                        "entity id": "Q2088324",
+                        "label": "Colonial Brazil"
+                    },
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Grand Duke",
+                [
+                    "/wiki/Grand_Duke"
+                ],
+                [
+                    {
+                        "entity id": "Q205706",
+                        "label": "Grand Duke"
+                    }
+                ]
+            ],
+            [
+                "Grand Duchess",
+                [
+                    "/wiki/Grand_Duchess"
+                ],
+                [
+                    {
+                        "entity id": "Q99541145",
+                        "label": "Grand Duchess"
+                    }
+                ]
+            ],
+            [
+                "Grand duchy",
+                [
+                    "/wiki/Grand_duchy"
+                ],
+                [
+                    {
+                        "entity id": "Q165116",
+                        "label": "grand duchy"
+                    }
+                ]
+            ],
+            [
+                "Grand Ducal",
+                []
+            ],
+            [
+                "Magnus Dux",
+                []
+            ],
+            [
+                "Today : Luxembourg ; historical : Lithuania , Baden , Finland , Tuscany et al",
+                [
+                    "/wiki/Luxembourg",
+                    "/wiki/Lithuania",
+                    "/wiki/Baden_Germany",
+                    "/wiki/Grand_Duchy_of_Finland",
+                    "/wiki/Grand_Duchy_of_Tuscany"
+                ],
+                [
+                    {
+                        "entity id": "Q32",
+                        "label": "Luxembourg"
+                    },
+                    {
+                        "entity id": "Q37",
+                        "label": "Lithuania"
+                    },
+                    {},
+                    {
+                        "entity id": "Q62633",
+                        "label": "Grand Duchy of Finland"
+                    },
+                    {
+                        "entity id": "Q154849",
+                        "label": "Grand Duchy of Tuscany"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Archduke",
+                [
+                    "/wiki/Archduke"
+                ],
+                [
+                    {
+                        "entity id": "Q154615",
+                        "label": "Archduke"
+                    }
+                ]
+            ],
+            [
+                "Archduchess",
+                []
+            ],
+            [
+                "Archduchy",
+                []
+            ],
+            [
+                "Archducal",
+                []
+            ],
+            [
+                "Arci Dux",
+                []
+            ],
+            [
+                "Historical : Unique only in Austria , Archduchy of Austria ; title used for member of the Habsburg dynasty",
+                [
+                    "/wiki/Austria",
+                    "/wiki/Archduchy",
+                    "/wiki/Austria",
+                    "/wiki/Habsburg"
+                ],
+                [
+                    {
+                        "entity id": "Q40",
+                        "label": "Austria"
+                    },
+                    {
+                        "entity id": "Q699964",
+                        "label": "Archduchy of Austria"
+                    },
+                    {
+                        "entity id": "Q40",
+                        "label": "Austria"
+                    },
+                    {
+                        "entity id": "Q65968",
+                        "label": "House of Habsburg"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Prince",
+                [
+                    "/wiki/Prince"
+                ],
+                [
+                    {
+                        "entity id": "Q2747456",
+                        "label": "prince"
+                    }
+                ]
+            ],
+            [
+                "Princess",
+                []
+            ],
+            [
+                "Principality , Princely state",
+                [
+                    "/wiki/Principality",
+                    "/wiki/Princely_state"
+                ],
+                [
+                    {
+                        "entity id": "Q208500",
+                        "label": "principality"
+                    },
+                    {
+                        "entity id": "Q1336152",
+                        "label": "princely state"
+                    }
+                ]
+            ],
+            [
+                "Princely",
+                []
+            ],
+            [
+                "Princeps",
+                []
+            ],
+            [
+                "Today : Monaco , Liechtenstein , Asturies , Wales ; Andorra ( Co-Princes ) . Historical : Albania , Serbia",
+                [
+                    "/wiki/Monaco",
+                    "/wiki/Liechtenstein",
+                    "/wiki/Asturies",
+                    "/wiki/Wales",
+                    "/wiki/Andorra",
+                    "/wiki/Albania",
+                    "/wiki/Serbia"
+                ],
+                [
+                    {
+                        "entity id": "Q235",
+                        "label": "Monaco"
+                    },
+                    {
+                        "entity id": "Q347",
+                        "label": "Liechtenstein"
+                    },
+                    {
+                        "entity id": "Q3934",
+                        "label": "Asturias"
+                    },
+                    {
+                        "entity id": "Q25",
+                        "label": "Wales"
+                    },
+                    {
+                        "entity id": "Q228",
+                        "label": "Andorra"
+                    },
+                    {
+                        "entity id": "Q222",
+                        "label": "Albania"
+                    },
+                    {
+                        "entity id": "Q403",
+                        "label": "Serbia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Duke",
+                [
+                    "/wiki/Duke"
+                ],
+                [
+                    {
+                        "entity id": "Q168751",
+                        "label": "Duke University"
+                    }
+                ]
+            ],
+            [
+                "Duchess",
+                []
+            ],
+            [
+                "Duchy",
+                [
+                    "/wiki/Duchy"
+                ],
+                [
+                    {
+                        "entity id": "Q154547",
+                        "label": "duchy"
+                    }
+                ]
+            ],
+            [
+                "Ducal",
+                []
+            ],
+            [
+                "Dux",
+                []
+            ],
+            [
+                "Duke of Buccleuch , Duke of York , Duke of Devonshire et al",
+                [
+                    "/wiki/Duke_of_Buccleuch",
+                    "/wiki/Duke_of_York",
+                    "/wiki/Duke_of_Devonshire"
+                ],
+                [
+                    {
+                        "entity id": "Q1264482",
+                        "label": "Duke of Buccleuch"
+                    },
+                    {
+                        "entity id": "Q337222",
+                        "label": "Duke of York"
+                    },
+                    {
+                        "entity id": "Q334063",
+                        "label": "Spencer Cavendish, 8th Duke of Devonshire"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Count",
+                [
+                    "/wiki/Count"
+                ],
+                [
+                    {
+                        "entity id": "Q28989",
+                        "label": "graf"
+                    }
+                ]
+            ],
+            [
+                "Countess",
+                [
+                    "/wiki/Countess"
+                ],
+                [
+                    {
+                        "entity id": "Q3519259",
+                        "label": "count"
+                    }
+                ]
+            ],
+            [
+                "County",
+                [
+                    "/wiki/County"
+                ],
+                [
+                    {
+                        "entity id": "Q19470",
+                        "label": "Derby County F.C."
+                    }
+                ]
+            ],
+            [
+                "Comital",
+                []
+            ],
+            [
+                "Comes",
+                []
+            ],
+            [
+                "Most common in the Holy Roman Empire , translated in German as Graf ; historical : Portugal , Barcelona , Brandenburg , Baden , numerous others",
+                [
+                    "/wiki/Holy_Roman_Empire",
+                    "/wiki/Graf",
+                    "/wiki/County_of_Portugal",
+                    "/wiki/County_of_Barcelona",
+                    "/wiki/Margrave_of_Brandenburg",
+                    "/wiki/Baden"
+                ],
+                [
+                    {
+                        "entity id": "Q12548",
+                        "label": "Holy Roman Empire"
+                    },
+                    {
+                        "entity id": "Q28989",
+                        "label": "graf"
+                    },
+                    {
+                        "entity id": "Q1139807",
+                        "label": "County of Portugal"
+                    },
+                    {
+                        "entity id": "Q1233672",
+                        "label": "County of Barcelona"
+                    },
+                    {
+                        "entity id": "Q214044",
+                        "label": "Alexander, Margrave of Brandenburg-Ansbach"
+                    },
+                    {
+                        "entity id": "Q486450",
+                        "label": "Baden bei Wien"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Baron",
+                [
+                    "/wiki/Baron"
+                ],
+                [
+                    {
+                        "entity id": "Q165503",
+                        "label": "baron"
+                    }
+                ]
+            ],
+            [
+                "Baroness",
+                []
+            ],
+            [
+                "Barony",
+                [
+                    "/wiki/Feudal_barony"
+                ],
+                [
+                    {
+                        "entity id": "Q5897189",
+                        "label": "Honour of Peverel"
+                    }
+                ]
+            ],
+            [
+                "Baronial",
+                []
+            ],
+            [
+                "Baro",
+                []
+            ],
+            [
+                "There are normal baronies and sovereign baronies , a sovereign barony can be compared with a principality , however , this is an historical exception ; sovereign barons no longer have a sovereign barony , but only the title and style",
+                []
+            ]
+        ],
+        [
+            [
+                "Chief",
+                [
+                    "/wiki/Chieftain"
+                ],
+                [
+                    {
+                        "entity id": "Q1259323",
+                        "label": "tribal chief"
+                    }
+                ]
+            ],
+            [
+                "Chieftess",
+                []
+            ],
+            [
+                "Chieftaincy , Chiefdom",
+                [
+                    "/wiki/Chieftaincy",
+                    "/wiki/Chiefdom"
+                ],
+                [
+                    {
+                        "entity id": "Q65044209",
+                        "label": "Chieftaincy institution"
+                    },
+                    {
+                        "entity id": "Q1642488",
+                        "label": "chiefdom"
+                    }
+                ]
+            ],
+            [
+                "Chiefly",
+                []
+            ],
+            [
+                "Tribunus",
+                []
+            ],
+            [
+                "The clan chiefs of Scotland , the grand chiefs in the Papua New Guinean honours system , the chief of the Cherokee nation , the chiefs of the Nigerian traditional rulers , numerous others",
+                [
+                    "/wiki/Clan_chief",
+                    "/wiki/Scotland",
+                    "/wiki/Papua_New_Guinean_honours_system",
+                    "/wiki/List_of_Principal_Chiefs_of_the_Cherokee",
+                    "/wiki/Nigerian_traditional_rulers"
+                ],
+                [
+                    {
+                        "entity id": "Q2669851",
+                        "label": "Scottish clan chief"
+                    },
+                    {
+                        "entity id": "Q22",
+                        "label": "Scotland"
+                    },
+                    {},
+                    {},
+                    {
+                        "entity id": "Q10290758",
+                        "label": "Nigerian traditional rulers"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Pope",
+                [
+                    "/wiki/Pope"
+                ],
+                [
+                    {
+                        "entity id": "Q19546",
+                        "label": "pope"
+                    }
+                ]
+            ],
+            [
+                "There is no formal feminine of Pope ( Popess )",
+                []
+            ],
+            [
+                "Papacy",
+                []
+            ],
+            [
+                "Papal",
+                []
+            ],
+            [
+                "Papa",
+                []
+            ],
+            [
+                "Monarch of the Papal States and later Sovereign of the State of Vatican City",
+                [
+                    "/wiki/Papal_States",
+                    "/wiki/Vatican_City"
+                ],
+                [
+                    {
+                        "entity id": "Q170174",
+                        "label": "Papal States"
+                    },
+                    {
+                        "entity id": "Q237",
+                        "label": "Vatican City"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Titles in English-speaking areas -- Aristocratic titles",
+    "section_text": "See also : Royal and noble ranks Prince/Princess \u2013 From the Latin princeps , meaning `` first person '' or `` first citizen . '' The title was originally used by Augustus at the establishment of the Roman Empire to avoid the political risk of assuming the title Rex ( `` King '' ) in what was technically still a republic . In modern times , the title is often given to the sons and daughters of ruling monarchs . Also a title of certain ruling monarchs under the Holy Roman Empire and its subsidiary territories until 1918 ( still survives in Liechtenstein , and also in Monaco although that is elsewhere ) , and in Imperial Russia before 1917 . The German title is F\u00fcrst ( `` first '' ) , a translation of the Latin term ; [ A ] the equivalent Russian term is \u043a\u043d\u044f\u0437\u044c ( knyaz ) . Archduke/Archduchess \u2013 A title derived from the Greek Archon ( `` ruler ; higher '' ) and the Latin Dux ( `` leader '' ) . It was used most notably by the Habsburg Dynasty that ruled Austria and Hungary until 1918 . Grand Duke/Grand Duchess - `` Big ; large '' + Latin Dux ( leader ) . A variant of `` Archduke , '' used particularly in English translations Romanov Dynasty Russian titles . Also used in various Germanic territories until World War I . Still survives in Luxembourg . Duke/Duchess - From the Latin Dux , a military title used in the Roman Empire , especially in its early Byzantine period when it designated the military commander for a specific zone . Marquis or Marquess ( the feminine equivalent is Marquise or Marchioness ) from the French marchis , literally `` ruler of a border area , '' ( from Old French marche meaning `` border '' ) ; exact English translation is `` March Lord , '' or `` Lord of the March . '' Count/Countess - From the Latin comes meaning `` companion . '' The word was used by the Roman Empire in its Byzantine period as an honorific with a meaning roughly equivalent to modern English `` peer . '' It became the title of those who commanded field armies in the Empire , as opposed to `` Dux '' which commanded locally based forces . Earl ( used in the United Kingdom instead of Count , but the feminine equivalent is Countess ) From the Germanic jarl , meaning `` chieftain , '' the title was brought to the British Isles by the Anglo-Saxons and survives in use only there , having been superseded in Scandinavia and on the European continent . Viscount/Viscountess - From the Latin vicarius ( Deputy ; substitute . Hence `` vicar '' and prefix `` vice- '' ) appended to Latin comes . Literally : `` Deputy Count '' . Baron/Baroness - From the Late Latin Baro , meaning `` man , servant , soldier '' the title originally designated the chief feudal tenant of a place , who was in vassalage to a greater lord . In the United Kingdom , `` Lord '' and `` Lady '' are used as titles for members of the nobility . Unlike titles such as `` Mr '' and `` Mrs '' , they are not used before first names except in certain circumstances , for example as courtesy titles for younger sons , etc. , of peers . In Scotland `` Lord of Parliament '' and `` Lady of Parliament '' are the equivalents of Baron and Baroness in England . Lord from Old English hl\u0101ford , hl\u0101fweard , meaning , literally , \u201c bread-keeper , '' from hl\u0101f ( \u201c bread \u201d ) + weard ( \u201c guardian , keeper \u201d ) and by extension husband , father , or chief . ( From which comes modified titles such as First Sea Lord and Lord of the Manor . ) The feminine equivalent is Lady from the related Old English hl\u01e3fd\u012b\u0121e meaning , literally , \u201c bread-kneader \u201d , from hl\u0101f ( \u201c bread \u201d ) + d\u012b\u0121e ( \u201c maid \u201d ) , and by extension wife , daughter , or mistress of the house . ( From which comes First Lady , the anachronistic Second Lady , etc . ) Emperor/Empress \u2013 From the Latin Imperator , meaning he/she who holds the authority to command ( imperium ) . King/Queen \u2013 Derived from Old Norse/Germanic words . The original meaning of the root of `` king '' apparently meant `` leader of the family '' or `` descendant of the leader of the family , '' and the original meaning of `` queen , '' `` wife . '' By the time the words came into English they already meant `` ruler . '' Tsar/Tsarina ( Tsaritsa ) \u2013 Slavonic loan-word from Latin . Caesar : the name of Julius Caesar taken by his heir Augustus and thereafter by Augustus ' successors as Roman Emperor through the fall of Constantinople in 1453 . Germanic loan-word for Caesar is Kaiser . Leader \u2013 From Old English l\u00e6dan , meaning `` to guide '' , derived from Old Norse and Germanic . The head of state of North Korea is titled Great Leader . The de facto head of state of Iran is titled Supreme Leader . Chief - A variation of the English `` Prince '' , used as the short form of the word `` Chieftain '' ( except for in Scotland , where `` Chieftain '' is a title held by a titleholder subordinate to a chief ) . Generally used to refer to a recognised leader within a chieftaincy system . From this come the variations paramount chief , clan chief and village chief . The feminine equivalent is Chieftess .",
+    "uid": "Title_0",
+    "intro": "A title is one or more words used before or after a person's name, in certain contexts. It may signify either veneration, an official position, or a professional or academic qualification. In some languages, titles may be inserted between the first and last name (for example, Graf in German, Cardinal in Catholic usage (Richard Cardinal Cushing) or clerical titles such as Archbishop). Some titles are hereditary."
+}

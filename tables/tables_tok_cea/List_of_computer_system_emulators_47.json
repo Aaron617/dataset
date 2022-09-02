@@ -1,0 +1,871 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+    "title": "List of computer system emulators",
+    "header": [
+        [
+            "Emulator",
+            []
+        ],
+        [
+            "Latest version",
+            []
+        ],
+        [
+            "Released",
+            []
+        ],
+        [
+            "Guest emulation capabilities",
+            []
+        ],
+        [
+            "Host Operating System",
+            []
+        ],
+        [
+            "License",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Agat Emulator",
+                []
+            ],
+            [
+                "1.29.1",
+                []
+            ],
+            [
+                "November 6 , 2017",
+                []
+            ],
+            [
+                "Apple II , Agat 7 , Agat 9",
+                [
+                    "/wiki/Apple_II_series",
+                    "/wiki/Agat_(computer)",
+                    "/wiki/Agat_(computer)"
+                ],
+                [
+                    {
+                        "entity id": "Q201652",
+                        "label": "Apple II series"
+                    },
+                    {
+                        "entity id": "Q2717008",
+                        "label": "Agat computer"
+                    },
+                    {
+                        "entity id": "Q2717008",
+                        "label": "Agat computer"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "AppleIIGo",
+                []
+            ],
+            [
+                "1.0.8",
+                []
+            ],
+            [
+                "June 14 , 2011",
+                []
+            ],
+            [
+                "Apple IIe",
+                [
+                    "/wiki/Apple_IIe"
+                ],
+                [
+                    {
+                        "entity id": "Q1761667",
+                        "label": "Apple IIe"
+                    }
+                ]
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "AppleWin",
+                [
+                    "/wiki/AppleWin"
+                ],
+                [
+                    {
+                        "entity id": "Q4781116",
+                        "label": "AppleWin"
+                    }
+                ]
+            ],
+            [
+                "1.27.1.0",
+                []
+            ],
+            [
+                "April 5 , 2018",
+                []
+            ],
+            [
+                "Apple II , Apple II+ , Apple IIe",
+                [
+                    "/wiki/Apple_II_series",
+                    "/wiki/Apple_II+",
+                    "/wiki/Apple_IIe"
+                ],
+                [
+                    {
+                        "entity id": "Q201652",
+                        "label": "Apple II series"
+                    },
+                    {
+                        "entity id": "Q621254",
+                        "label": "Apple II Plus"
+                    },
+                    {
+                        "entity id": "Q1761667",
+                        "label": "Apple IIe"
+                    }
+                ]
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Catakig",
+                []
+            ],
+            [
+                "2.00b4",
+                []
+            ],
+            [
+                "October 28 , 2006",
+                []
+            ],
+            [
+                "Apple II , Apple II+ , Apple IIe , Apple IIc",
+                [
+                    "/wiki/Apple_II_series",
+                    "/wiki/Apple_II+",
+                    "/wiki/Apple_IIe",
+                    "/wiki/Apple_IIc"
+                ],
+                [
+                    {
+                        "entity id": "Q201652",
+                        "label": "Apple II series"
+                    },
+                    {
+                        "entity id": "Q621254",
+                        "label": "Apple II Plus"
+                    },
+                    {
+                        "entity id": "Q1761667",
+                        "label": "Apple IIe"
+                    },
+                    {
+                        "entity id": "Q420782",
+                        "label": "Apple IIc"
+                    }
+                ]
+            ],
+            [
+                "macOS",
+                [
+                    "/wiki/MacOS"
+                ],
+                [
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "Open source",
+                [
+                    "/wiki/Open-source_software"
+                ],
+                [
+                    {
+                        "entity id": "Q1130645",
+                        "label": "open-source software"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Clock Signal ( CLK )",
+                []
+            ],
+            [
+                "2019-08-01",
+                []
+            ],
+            [
+                "August 1 , 2019",
+                []
+            ],
+            [
+                "Apple II , Apple II+ , Apple IIe ; also : Acorn Electron , Amstrad CPC , Atari 2600 , ColecoVision , Commodore VIC-20 , Macintosh , MSX , Oric , Sega Master System , ZX80 , ZX81",
+                [
+                    "/wiki/Apple_II_series",
+                    "/wiki/Apple_II+",
+                    "/wiki/Apple_IIe",
+                    "/wiki/Acorn_Electron",
+                    "/wiki/Amstrad_CPC",
+                    "/wiki/Atari_2600",
+                    "/wiki/ColecoVision",
+                    "/wiki/Commodore_VIC-20",
+                    "/wiki/Macintosh_512Ke",
+                    "/wiki/MSX",
+                    "/wiki/Oric",
+                    "/wiki/Sega_Master_System",
+                    "/wiki/ZX80",
+                    "/wiki/ZX81"
+                ],
+                [
+                    {
+                        "entity id": "Q201652",
+                        "label": "Apple II series"
+                    },
+                    {
+                        "entity id": "Q621254",
+                        "label": "Apple II Plus"
+                    },
+                    {
+                        "entity id": "Q1761667",
+                        "label": "Apple IIe"
+                    },
+                    {
+                        "entity id": "Q342163",
+                        "label": "Acorn Electron"
+                    },
+                    {
+                        "entity id": "Q478829",
+                        "label": "Amstrad CPC"
+                    },
+                    {
+                        "entity id": "Q206261",
+                        "label": "Atari 2600"
+                    },
+                    {
+                        "entity id": "Q1046862",
+                        "label": "ColecoVision"
+                    },
+                    {
+                        "entity id": "Q918232",
+                        "label": "Commodore VIC-20"
+                    },
+                    {
+                        "entity id": "Q1052609",
+                        "label": "Macintosh 512Ke"
+                    },
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q17042679",
+                        "label": "Oric"
+                    },
+                    {
+                        "entity id": "Q209868",
+                        "label": "Sega Master System"
+                    },
+                    {
+                        "entity id": "Q602406",
+                        "label": "ZX80"
+                    },
+                    {
+                        "entity id": "Q78503718",
+                        "label": "ZX81 Collection"
+                    }
+                ]
+            ],
+            [
+                "macOS , Linux , BSD",
+                [
+                    "/wiki/MacOS"
+                ],
+                [
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "MIT License",
+                [
+                    "/wiki/MIT_License"
+                ],
+                [
+                    {
+                        "entity id": "Q334661",
+                        "label": "MIT license"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "JACE : Java Apple Computer Emulator",
+                []
+            ],
+            [
+                "2012-12-09",
+                []
+            ],
+            [
+                "December 9 , 2012",
+                []
+            ],
+            [
+                "Apple II , Apple IIe",
+                [
+                    "/wiki/Apple_II_series",
+                    "/wiki/Apple_IIe"
+                ],
+                [
+                    {
+                        "entity id": "Q201652",
+                        "label": "Apple II series"
+                    },
+                    {
+                        "entity id": "Q1761667",
+                        "label": "Apple IIe"
+                    }
+                ]
+            ],
+            [
+                "Cross-Platform",
+                [
+                    "/wiki/Cross-Platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "LGPL",
+                [
+                    "/wiki/GNU_Lesser_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q192897",
+                        "label": "GNU Lesser General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "LinApple",
+                []
+            ],
+            [
+                "2b",
+                []
+            ],
+            [
+                "June 26 , 2015",
+                []
+            ],
+            [
+                "Apple II",
+                [
+                    "/wiki/Apple_II_series"
+                ],
+                [
+                    {
+                        "entity id": "Q201652",
+                        "label": "Apple II series"
+                    }
+                ]
+            ],
+            [
+                "Linux",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MAME ( formerly MESS )",
+                [
+                    "/wiki/MAME",
+                    "/wiki/Multi_Emulator_Super_System"
+                ],
+                [
+                    {
+                        "entity id": "Q1054055",
+                        "label": "MAME"
+                    },
+                    {
+                        "entity id": "Q778644",
+                        "label": "MESS"
+                    }
+                ]
+            ],
+            [
+                "0.196",
+                []
+            ],
+            [
+                "March 28 , 2018",
+                []
+            ],
+            [
+                "Various computers , consoles , and arcade systems",
+                []
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "New BSD , GPLv2 or later",
+                [
+                    "/wiki/New_BSD",
+                    "/wiki/GPLv2"
+                ],
+                [
+                    {
+                        "entity id": "Q18491847",
+                        "label": "3-clause BSD License"
+                    },
+                    {
+                        "entity id": "Q10513450",
+                        "label": "GNU General Public License, version 2.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "microM8",
+                []
+            ],
+            [
+                "Rolling",
+                []
+            ],
+            [
+                "January 14 , 2017",
+                []
+            ],
+            [
+                "Apple IIe",
+                [
+                    "/wiki/Apple_II_series"
+                ],
+                [
+                    {
+                        "entity id": "Q201652",
+                        "label": "Apple II series"
+                    }
+                ]
+            ],
+            [
+                "Windows Linux macOS",
+                [
+                    "/wiki/Windows",
+                    "/wiki/Linux",
+                    "/wiki/MacOS"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "PalmApple",
+                []
+            ],
+            [
+                "0.8.0",
+                []
+            ],
+            [
+                "September 8 , 2006",
+                []
+            ],
+            [
+                "Apple IIe",
+                [
+                    "/wiki/Apple_IIe"
+                ],
+                [
+                    {
+                        "entity id": "Q1761667",
+                        "label": "Apple IIe"
+                    }
+                ]
+            ],
+            [
+                "Palm OS",
+                [
+                    "/wiki/Palm_OS"
+                ],
+                [
+                    {
+                        "entity id": "Q274582",
+                        "label": "Palm OS"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "pomDS",
+                []
+            ],
+            [
+                "2.0",
+                []
+            ],
+            [
+                "November 30 , 2008",
+                []
+            ],
+            [
+                "Apple II",
+                [
+                    "/wiki/Apple_II_series"
+                ],
+                [
+                    {
+                        "entity id": "Q201652",
+                        "label": "Apple II series"
+                    }
+                ]
+            ],
+            [
+                "Nintendo DS",
+                [
+                    "/wiki/Nintendo_DS"
+                ],
+                [
+                    {
+                        "entity id": "Q170323",
+                        "label": "Nintendo DS"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Virtu",
+                []
+            ],
+            [
+                "0.9.3",
+                []
+            ],
+            [
+                "July 17 , 2012",
+                []
+            ],
+            [
+                "Apple IIe",
+                [
+                    "/wiki/Apple_IIe"
+                ],
+                [
+                    {
+                        "entity id": "Q1761667",
+                        "label": "Apple IIe"
+                    }
+                ]
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Virtual ] [",
+                []
+            ],
+            [
+                "8.1",
+                []
+            ],
+            [
+                "January 14 , 2018",
+                []
+            ],
+            [
+                "Apple II , Apple II+ , Apple IIe",
+                [
+                    "/wiki/Apple_II_series",
+                    "/wiki/Apple_II+",
+                    "/wiki/Apple_IIe"
+                ],
+                [
+                    {
+                        "entity id": "Q201652",
+                        "label": "Apple II series"
+                    },
+                    {
+                        "entity id": "Q621254",
+                        "label": "Apple II Plus"
+                    },
+                    {
+                        "entity id": "Q1761667",
+                        "label": "Apple IIe"
+                    }
+                ]
+            ],
+            [
+                "Mac OS X 10.6 Snow Leopard or better",
+                [
+                    "/wiki/MacOS"
+                ],
+                [
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "Shareware",
+                [
+                    "/wiki/Shareware"
+                ],
+                [
+                    {
+                        "entity id": "Q185534",
+                        "label": "shareware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "WiiApple",
+                []
+            ],
+            [
+                "0.0.7",
+                []
+            ],
+            [
+                "January 8 , 2009",
+                []
+            ],
+            [
+                "Apple II",
+                [
+                    "/wiki/Apple_II_series"
+                ],
+                [
+                    {
+                        "entity id": "Q201652",
+                        "label": "Apple II series"
+                    }
+                ]
+            ],
+            [
+                "Nintendo Wii",
+                [
+                    "/wiki/Nintendo_Wii"
+                ],
+                [
+                    {
+                        "entity id": "Q8079",
+                        "label": "Wii"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "8-bit guest systems -- Apple II",
+    "section_text": "",
+    "uid": "List_of_computer_system_emulators_47",
+    "intro": "This article lists software and hardware that emulates computing platforms. The host in this article is the system running the emulator, and the guest is the system being emulated. The list is organized by guest operating system (the system being emulated), grouped by bitness. Each section contains a list of emulators capable of emulating the specified guest, details of the range of guest systems able to be emulated, and the required host environment and licensing."
+}

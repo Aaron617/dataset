@@ -1,0 +1,501 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_Amtrak_stations",
+    "title": "List of Amtrak stations",
+    "header": [
+        [
+            "Stop",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Connection",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Abbotsford ( ABB )",
+                []
+            ],
+            [
+                "Abbotsford , Wisconsin",
+                [
+                    "/wiki/Abbotsford,_Wisconsin"
+                ],
+                [
+                    {
+                        "entity id": "Q1570511",
+                        "label": "Abbotsford"
+                    }
+                ]
+            ],
+            [
+                "Milwaukee",
+                []
+            ]
+        ],
+        [
+            [
+                "Absecon ( ABN )",
+                [
+                    "/wiki/Absecon_station"
+                ],
+                [
+                    {
+                        "entity id": "Q4669684",
+                        "label": "Absecon"
+                    }
+                ]
+            ],
+            [
+                "Absecon , New Jersey",
+                [
+                    "/wiki/Absecon,_New_Jersey"
+                ],
+                [
+                    {
+                        "entity id": "Q332198",
+                        "label": "Absecon"
+                    }
+                ]
+            ],
+            [
+                "Philadelphia-30th Street",
+                []
+            ]
+        ],
+        [
+            [
+                "Alamosa ( AMC )",
+                []
+            ],
+            [
+                "Alamosa , Colorado",
+                [
+                    "/wiki/Alamosa,_Colorado"
+                ],
+                [
+                    {
+                        "entity id": "Q1010247",
+                        "label": "Alamosa"
+                    }
+                ]
+            ],
+            [
+                "Denver",
+                []
+            ]
+        ],
+        [
+            [
+                "Alanson ( ALA )",
+                []
+            ],
+            [
+                "Alanson , Michigan",
+                [
+                    "/wiki/Alanson,_Michigan"
+                ],
+                [
+                    {
+                        "entity id": "Q2218167",
+                        "label": "Alanson"
+                    }
+                ]
+            ],
+            [
+                "Kalamazoo",
+                []
+            ]
+        ],
+        [
+            [
+                "Allegany College ( CUA )",
+                [
+                    "/wiki/Allegany_College"
+                ],
+                [
+                    {
+                        "entity id": "Q2837834",
+                        "label": "Allegany College of Maryland"
+                    }
+                ]
+            ],
+            [
+                "Cumberland , Maryland",
+                [
+                    "/wiki/Cumberland,_Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q754868",
+                        "label": "Cumberland"
+                    }
+                ]
+            ],
+            [
+                "BWI Thurgood Marshall Airport",
+                []
+            ]
+        ],
+        [
+            [
+                "Allentown ( AWN )",
+                []
+            ],
+            [
+                "Allentown , Pennsylvania",
+                [
+                    "/wiki/Allentown,_Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q142811",
+                        "label": "Allentown"
+                    }
+                ]
+            ],
+            [
+                "Philadelphia-30th Street",
+                []
+            ]
+        ],
+        [
+            [
+                "West Allentown",
+                []
+            ],
+            [
+                "Allentown , Pennsylvania",
+                [
+                    "/wiki/Allentown,_Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q142811",
+                        "label": "Allentown"
+                    }
+                ]
+            ],
+            [
+                "Philadelphia-30th Street",
+                []
+            ]
+        ],
+        [
+            [
+                "Allentown/ Lehigh Valley Airport",
+                [
+                    "/wiki/Lehigh_Valley_Airport"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Allentown , Pennsylvania",
+                [
+                    "/wiki/Allentown,_Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q142811",
+                        "label": "Allentown"
+                    }
+                ]
+            ],
+            [
+                "Philadelphia-30th Street",
+                []
+            ]
+        ],
+        [
+            [
+                "Alma-DART Terminal ( AAM )",
+                []
+            ],
+            [
+                "Alma , Michigan",
+                [
+                    "/wiki/Alma,_Michigan"
+                ],
+                [
+                    {
+                        "entity id": "Q2745140",
+                        "label": "Alma"
+                    }
+                ]
+            ],
+            [
+                "Battle Creek Kalamazoo",
+                []
+            ]
+        ],
+        [
+            [
+                "Alpena ( ALM )",
+                []
+            ],
+            [
+                "Alpena , Michigan",
+                [
+                    "/wiki/Alpena,_Michigan"
+                ],
+                [
+                    {
+                        "entity id": "Q1012455",
+                        "label": "Alpena"
+                    }
+                ]
+            ],
+            [
+                "Kalamazoo",
+                []
+            ]
+        ],
+        [
+            [
+                "Appleton ( APP )",
+                []
+            ],
+            [
+                "Appleton , Wisconsin",
+                [
+                    "/wiki/Appleton,_Wisconsin"
+                ],
+                [
+                    {
+                        "entity id": "Q94928",
+                        "label": "Appleton"
+                    }
+                ]
+            ],
+            [
+                "Milwaukee",
+                []
+            ]
+        ],
+        [
+            [
+                "Arcata ( ARC )",
+                []
+            ],
+            [
+                "Arcata , California",
+                [
+                    "/wiki/Arcata,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q631752",
+                        "label": "Arcata"
+                    }
+                ]
+            ],
+            [
+                "Martinez",
+                []
+            ]
+        ],
+        [
+            [
+                "Ashland ( AHL )",
+                []
+            ],
+            [
+                "Ashland , Oregon",
+                [
+                    "/wiki/Ashland,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q450100",
+                        "label": "Ashland"
+                    }
+                ]
+            ],
+            [
+                "Klamath Falls",
+                []
+            ]
+        ],
+        [
+            [
+                "Astoria ( ART )",
+                []
+            ],
+            [
+                "Astoria , Oregon",
+                [
+                    "/wiki/Astoria,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q490724",
+                        "label": "Astoria"
+                    }
+                ]
+            ],
+            [
+                "Portland",
+                []
+            ]
+        ],
+        [
+            [
+                "Atascadero ( ATA )",
+                []
+            ],
+            [
+                "Atascadero , California",
+                [
+                    "/wiki/Atascadero,_California"
+                ],
+                [
+                    {
+                        "entity id": "Q653827",
+                        "label": "Atascadero"
+                    }
+                ]
+            ],
+            [
+                "San Jose Diridon Santa Barbara",
+                []
+            ]
+        ],
+        [
+            [
+                "Atco ( ATO )",
+                [
+                    "/wiki/Atco_station"
+                ],
+                [
+                    {
+                        "entity id": "Q4812966",
+                        "label": "Atco"
+                    }
+                ]
+            ],
+            [
+                "Atco , New Jersey",
+                [
+                    "/wiki/Atco,_New_Jersey"
+                ],
+                [
+                    {
+                        "entity id": "Q4812968",
+                        "label": "Atco"
+                    }
+                ]
+            ],
+            [
+                "Philadelphia-30th Street",
+                []
+            ]
+        ],
+        [
+            [
+                "Atlantic City ( ACY )",
+                [
+                    "/wiki/Atlantic_City_Rail_Terminal"
+                ],
+                [
+                    {
+                        "entity id": "Q4816352",
+                        "label": "Atlantic City Rail Terminal"
+                    }
+                ]
+            ],
+            [
+                "Atlantic City , New Jersey",
+                [
+                    "/wiki/Atlantic_City,_New_Jersey"
+                ],
+                [
+                    {
+                        "entity id": "Q139564",
+                        "label": "Atlantic City"
+                    }
+                ]
+            ],
+            [
+                "Philadelphia-30th Street",
+                []
+            ]
+        ],
+        [
+            [
+                "Augusta ( AGM )",
+                []
+            ],
+            [
+                "Augusta , Maine",
+                [
+                    "/wiki/Augusta,_Maine"
+                ],
+                [
+                    {
+                        "entity id": "Q28206",
+                        "label": "Augusta"
+                    }
+                ]
+            ],
+            [
+                "Portland ( POR )",
+                []
+            ]
+        ],
+        [
+            [
+                "Baker City ( BAK )",
+                []
+            ],
+            [
+                "Baker City , Oregon",
+                [
+                    "/wiki/Baker_City,_Oregon"
+                ],
+                [
+                    {
+                        "entity id": "Q1152219",
+                        "label": "Baker City"
+                    }
+                ]
+            ],
+            [
+                "Portland ( PDX )",
+                []
+            ]
+        ],
+        [
+            [
+                "Bangor ( BAN )",
+                []
+            ],
+            [
+                "Bangor , Maine",
+                [
+                    "/wiki/Bangor,_Maine"
+                ],
+                [
+                    {
+                        "entity id": "Q327012",
+                        "label": "Bangor"
+                    }
+                ]
+            ],
+            [
+                "Portland ( POR )",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Thruway Motorcoach stations",
+    "section_text": "",
+    "uid": "List_of_Amtrak_stations_0",
+    "intro": "This is a list of train stations and Thruway Motorcoach stops used by Amtrak (the National Railroad Passenger Corporation in the United States). This list is in alphabetical order by station or stop name, which mostly corresponds to the city in which it is located. If an English Wikipedia page exists for the actual station or stop, a link is included. Some Thruway Motorcoach stops include train stations that are not served by Amtrak trains (and occasionally any trains at all). All current (and most former) Amtrak train stops (stations) and Thruway Motorcoach stops have a three-letter station code (sometimes also referred to as a city code). These codes do not necessarily correspond with the list of IATA-indexed train stations or the three-character IATA airport codes, although many are the same. Amtrak began using station codes in 1992, so stations closed or removed from all Amtrak service prior to 1992 will not have had a station code assigned. The station code ENP is used for any stop en route, not otherwise specified. [citation needed] If a station code was used by more than one train station, each station is listed. However, if a station code was used for a Thruway Motorcoach stop that has changed locations, only information for the current location (or most recent location, if the stop is no longer in service) is included in the notes, unless one of the locations was an actual train station. Ridership data and station ownership is from Amtrak's Great American Stations website. [Note 1] The ownership of many stations is shared, with one entity owning one or more of the following: the facility itself, the parking lot, the passenger platform, and the train tracks."
+}

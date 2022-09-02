@@ -1,0 +1,652 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_Cyprus_Airways_destinations",
+    "title": "List of Cyprus Airways destinations",
+    "header": [
+        [
+            "City",
+            []
+        ],
+        [
+            "Country",
+            []
+        ],
+        [
+            "IATA",
+            []
+        ],
+        [
+            "ICAO",
+            []
+        ],
+        [
+            "Airport",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Amsterdam",
+                [
+                    "/wiki/Amsterdam"
+                ],
+                [
+                    {
+                        "entity id": "Q727",
+                        "label": "Amsterdam"
+                    }
+                ]
+            ],
+            [
+                "Netherlands",
+                [
+                    "/wiki/Netherlands"
+                ],
+                [
+                    {
+                        "entity id": "Q55",
+                        "label": "Netherlands"
+                    }
+                ]
+            ],
+            [
+                "AMS",
+                []
+            ],
+            [
+                "EHAM",
+                []
+            ],
+            [
+                "Amsterdam Airport Schiphol",
+                [
+                    "/wiki/Amsterdam_Airport_Schiphol"
+                ],
+                [
+                    {
+                        "entity id": "Q9694",
+                        "label": "Amsterdam Airport Schiphol"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Athens",
+                [
+                    "/wiki/Athens"
+                ],
+                [
+                    {
+                        "entity id": "Q1524",
+                        "label": "Athens"
+                    }
+                ]
+            ],
+            [
+                "Greece",
+                [
+                    "/wiki/Greece"
+                ],
+                [
+                    {
+                        "entity id": "Q41",
+                        "label": "Greece"
+                    }
+                ]
+            ],
+            [
+                "ATH",
+                []
+            ],
+            [
+                "LGAV",
+                []
+            ],
+            [
+                "Athens International Airport",
+                [
+                    "/wiki/Athens_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1430898",
+                        "label": "Ellinikon International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Beirut",
+                [
+                    "/wiki/Beirut"
+                ],
+                [
+                    {
+                        "entity id": "Q3820",
+                        "label": "Beirut"
+                    }
+                ]
+            ],
+            [
+                "Lebanon",
+                [
+                    "/wiki/Lebanon"
+                ],
+                [
+                    {
+                        "entity id": "Q822",
+                        "label": "Lebanon"
+                    }
+                ]
+            ],
+            [
+                "BEY",
+                []
+            ],
+            [
+                "OLBA",
+                []
+            ],
+            [
+                "Beirut-Rafic Hariri International Airport",
+                [
+                    "/wiki/Beirut\u2013Rafic_Hariri_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q668329",
+                        "label": "Beirut\u2013Rafic Hariri International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Frankfurt",
+                [
+                    "/wiki/Frankfurt"
+                ],
+                [
+                    {
+                        "entity id": "Q4024",
+                        "label": "Frankfurt (Oder)"
+                    }
+                ]
+            ],
+            [
+                "Germany",
+                [
+                    "/wiki/Germany"
+                ],
+                [
+                    {
+                        "entity id": "Q183",
+                        "label": "Germany"
+                    }
+                ]
+            ],
+            [
+                "FRA",
+                []
+            ],
+            [
+                "EDDF",
+                []
+            ],
+            [
+                "Frankfurt Airport",
+                [
+                    "/wiki/Frankfurt_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q46033",
+                        "label": "Frankfurt Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Heraklion",
+                [
+                    "/wiki/Heraklion"
+                ],
+                [
+                    {
+                        "entity id": "Q160544",
+                        "label": "Heraklion"
+                    }
+                ]
+            ],
+            [
+                "Greece",
+                []
+            ],
+            [
+                "HER",
+                []
+            ],
+            [
+                "LGIR",
+                []
+            ],
+            [
+                "Heraklion International Airport",
+                [
+                    "/wiki/Heraklion_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1142384",
+                        "label": "Heraklion International Airport \"Nikos Kazantzakis\""
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Larnaca",
+                [
+                    "/wiki/Larnaca"
+                ],
+                [
+                    {
+                        "entity id": "Q171882",
+                        "label": "Larnaca"
+                    }
+                ]
+            ],
+            [
+                "Cyprus",
+                [
+                    "/wiki/Cyprus"
+                ],
+                [
+                    {
+                        "entity id": "Q229",
+                        "label": "Cyprus"
+                    }
+                ]
+            ],
+            [
+                "LCA",
+                []
+            ],
+            [
+                "LCLK",
+                []
+            ],
+            [
+                "Larnaca International Airport",
+                [
+                    "/wiki/Larnaca_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q654636",
+                        "label": "Larnaca International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "London",
+                [
+                    "/wiki/London"
+                ],
+                [
+                    {
+                        "entity id": "Q84",
+                        "label": "London"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom",
+                [
+                    "/wiki/United_Kingdom"
+                ],
+                [
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    }
+                ]
+            ],
+            [
+                "STN",
+                []
+            ],
+            [
+                "EGSS",
+                []
+            ],
+            [
+                "London Stansted Airport",
+                [
+                    "/wiki/London_Stansted_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8709",
+                        "label": "London Stansted Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Moscow",
+                [
+                    "/wiki/Moscow"
+                ],
+                [
+                    {
+                        "entity id": "Q649",
+                        "label": "Moscow"
+                    }
+                ]
+            ],
+            [
+                "Russia",
+                [
+                    "/wiki/Russia"
+                ],
+                [
+                    {
+                        "entity id": "Q159",
+                        "label": "Russia"
+                    }
+                ]
+            ],
+            [
+                "SVO",
+                []
+            ],
+            [
+                "UUEE",
+                []
+            ],
+            [
+                "Sheremetyevo International Airport",
+                [
+                    "/wiki/Sheremetyevo_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q192733",
+                        "label": "Sheremetyevo International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Munich",
+                [
+                    "/wiki/Munich"
+                ],
+                [
+                    {
+                        "entity id": "Q1726",
+                        "label": "Munich"
+                    }
+                ]
+            ],
+            [
+                "Germany",
+                []
+            ],
+            [
+                "MUC",
+                []
+            ],
+            [
+                "EDDM",
+                []
+            ],
+            [
+                "Munich Airport",
+                [
+                    "/wiki/Munich_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q131402",
+                        "label": "Munich Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Paris",
+                [
+                    "/wiki/Paris"
+                ],
+                [
+                    {
+                        "entity id": "Q90",
+                        "label": "Paris"
+                    }
+                ]
+            ],
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "CDG",
+                []
+            ],
+            [
+                "LFPG",
+                []
+            ],
+            [
+                "Charles de Gaulle Airport",
+                [
+                    "/wiki/Charles_de_Gaulle_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q46280",
+                        "label": "Paris-Charles de Gaulle Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Sofia",
+                [
+                    "/wiki/Sofia"
+                ],
+                [
+                    {
+                        "entity id": "Q472",
+                        "label": "Sofia"
+                    }
+                ]
+            ],
+            [
+                "Bulgaria",
+                [
+                    "/wiki/Bulgaria"
+                ],
+                [
+                    {
+                        "entity id": "Q219",
+                        "label": "Bulgaria"
+                    }
+                ]
+            ],
+            [
+                "SOF",
+                []
+            ],
+            [
+                "LBSF",
+                []
+            ],
+            [
+                "Sofia Airport",
+                [
+                    "/wiki/Sofia_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q127951",
+                        "label": "Sofia Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Tel Aviv",
+                [
+                    "/wiki/Tel_Aviv"
+                ],
+                [
+                    {
+                        "entity id": "Q33935",
+                        "label": "Tel Aviv"
+                    }
+                ]
+            ],
+            [
+                "Israel",
+                [
+                    "/wiki/Israel"
+                ],
+                [
+                    {
+                        "entity id": "Q801",
+                        "label": "Israel"
+                    }
+                ]
+            ],
+            [
+                "TLV",
+                []
+            ],
+            [
+                "LLBG",
+                []
+            ],
+            [
+                "Ben Gurion Airport",
+                [
+                    "/wiki/Ben_Gurion_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q181479",
+                        "label": "Ben Gurion Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Thessaloniki",
+                [
+                    "/wiki/Thessaloniki"
+                ],
+                [
+                    {
+                        "entity id": "Q17151",
+                        "label": "Thessaloniki"
+                    }
+                ]
+            ],
+            [
+                "Greece",
+                []
+            ],
+            [
+                "SKG",
+                []
+            ],
+            [
+                "LGTS",
+                []
+            ],
+            [
+                "Thessaloniki International Airport",
+                [
+                    "/wiki/Thessaloniki_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q127958",
+                        "label": "Thessaloniki Airport \"Makedonia\""
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Z\u00fcrich",
+                [
+                    "/wiki/Z\u00fcrich"
+                ],
+                [
+                    {
+                        "entity id": "Q72",
+                        "label": "Z\u00fcrich"
+                    }
+                ]
+            ],
+            [
+                "Switzerland",
+                [
+                    "/wiki/Switzerland"
+                ],
+                [
+                    {
+                        "entity id": "Q39",
+                        "label": "Switzerland"
+                    }
+                ]
+            ],
+            [
+                "ZRH",
+                []
+            ],
+            [
+                "LSZH",
+                []
+            ],
+            [
+                "Zurich Airport",
+                [
+                    "/wiki/Zurich_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q15114",
+                        "label": "Zurich Airport"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Current destinations",
+    "section_text": "[ Hub ] Hub [ Seasonal ] Seasonal",
+    "uid": "Cyprus_Airways_destinations_0",
+    "intro": "As of November 2014[update] Cyprus Airways flies to the following destinations."
+}

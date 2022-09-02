@@ -1,0 +1,432 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Boehringer_Ingelheim",
+    "title": "Boehringer Ingelheim",
+    "header": [
+        [
+            "Drug Name",
+            []
+        ],
+        [
+            "Description",
+            []
+        ],
+        [
+            "Potential Indication",
+            []
+        ],
+        [
+            "Testing Phase",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Olodaterol",
+                [
+                    "/wiki/Olodaterol"
+                ],
+                [
+                    {
+                        "entity id": "Q7088466",
+                        "label": "olodaterol"
+                    }
+                ]
+            ],
+            [
+                "Long-acting beta-agonist",
+                [
+                    "/wiki/Long-acting_beta-agonist"
+                ],
+                [
+                    {
+                        "entity id": "Q64647777",
+                        "label": "Long-acting Beta Agonist Step Down Study"
+                    }
+                ]
+            ],
+            [
+                "Chronic obstructive pulmonary disease ( COPD )",
+                [
+                    "/wiki/Chronic_obstructive_pulmonary_disease"
+                ],
+                [
+                    {
+                        "entity id": "Q199804",
+                        "label": "chronic obstructive pulmonary disease"
+                    }
+                ]
+            ],
+            [
+                "Approved",
+                []
+            ]
+        ],
+        [
+            [
+                "Tiotropium",
+                [
+                    "/wiki/Tiotropium"
+                ],
+                [
+                    {
+                        "entity id": "Q424316",
+                        "label": "tiotropium"
+                    }
+                ]
+            ],
+            [
+                "Long acting muscarinic antagonist",
+                []
+            ],
+            [
+                "Cystic fibrosis ( CF ) / asthma . Already approved for chronic obstructive pulmonary disease ( COPD )",
+                [
+                    "/wiki/Cystic_fibrosis",
+                    "/wiki/Asthma",
+                    "/wiki/Chronic_obstructive_pulmonary_disease"
+                ],
+                [
+                    {
+                        "entity id": "Q178194",
+                        "label": "cystic fibrosis"
+                    },
+                    {
+                        "entity id": "Q35869",
+                        "label": "asthma"
+                    },
+                    {
+                        "entity id": "Q199804",
+                        "label": "chronic obstructive pulmonary disease"
+                    }
+                ]
+            ],
+            [
+                "Approved",
+                []
+            ]
+        ],
+        [
+            [
+                "Nintedanib",
+                [
+                    "/wiki/Nintedanib"
+                ],
+                [
+                    {
+                        "entity id": "Q15149723",
+                        "label": "nintedanib"
+                    }
+                ]
+            ],
+            [
+                "Triple angiokinase inhibitor , simultaneously blocks VEGFR , FGFR , PDGFR",
+                [
+                    "/wiki/VEGFR",
+                    "/wiki/FGFR",
+                    "/wiki/PDGFR"
+                ],
+                [
+                    {
+                        "entity id": "Q18028241",
+                        "label": "KDR"
+                    },
+                    {
+                        "entity id": "Q29814055",
+                        "label": "Breathless Dmel_CG32134"
+                    },
+                    {
+                        "entity id": "Q18030425",
+                        "label": "PDGFRB"
+                    }
+                ]
+            ],
+            [
+                "Idiopathic pulmonary fibrosis ( IPF ) / non-small cell lung cancer ( NSCLC ) / ovarian cancer",
+                [
+                    "/wiki/Idiopathic_pulmonary_fibrosis",
+                    "/wiki/Non-small_cell_lung_cancer",
+                    "/wiki/Ovarian_cancer"
+                ],
+                [
+                    {
+                        "entity id": "Q2290446",
+                        "label": "idiopathic pulmonary fibrosis"
+                    },
+                    {
+                        "entity id": "Q3658562",
+                        "label": "non-small-cell lung carcinoma"
+                    },
+                    {
+                        "entity id": "Q172341",
+                        "label": "ovarian cancer"
+                    }
+                ]
+            ],
+            [
+                "Phase III",
+                []
+            ]
+        ],
+        [
+            [
+                "Afatinib",
+                [
+                    "/wiki/Afatinib"
+                ],
+                [
+                    {
+                        "entity id": "Q4688818",
+                        "label": "afatinib"
+                    }
+                ]
+            ],
+            [
+                "Irreversible ErbB family blocker",
+                [
+                    "/wiki/ErbB"
+                ],
+                [
+                    {
+                        "entity id": "Q14865565",
+                        "label": "EGFR"
+                    }
+                ]
+            ],
+            [
+                "Breast cancer / head and neck cancer . Already approved for non-small cell lung cancer ( NSCLC )",
+                [
+                    "/wiki/Breast_cancer",
+                    "/wiki/Head_and_neck_cancer",
+                    "/wiki/Non-small_cell_lung_cancer"
+                ],
+                [
+                    {
+                        "entity id": "Q128581",
+                        "label": "breast cancer"
+                    },
+                    {
+                        "entity id": "Q1783924",
+                        "label": "head and neck cancer"
+                    },
+                    {
+                        "entity id": "Q3658562",
+                        "label": "non-small-cell lung carcinoma"
+                    }
+                ]
+            ],
+            [
+                "Phase III",
+                []
+            ]
+        ],
+        [
+            [
+                "Volasertib",
+                [
+                    "/wiki/Volasertib"
+                ],
+                [
+                    {
+                        "entity id": "Q7939986",
+                        "label": "volasertib"
+                    }
+                ]
+            ],
+            [
+                "PLK1 antagonist",
+                [
+                    "/wiki/PLK1"
+                ],
+                [
+                    {
+                        "entity id": "Q21131841",
+                        "label": "Polo like kinase 1"
+                    }
+                ]
+            ],
+            [
+                "Various cancer types",
+                []
+            ],
+            [
+                "Phase III",
+                []
+            ]
+        ],
+        [
+            [
+                "Deleobuvir ( formerly BI 207127 )",
+                [
+                    "/wiki/Deleobuvir"
+                ],
+                [
+                    {
+                        "entity id": "Q15708312",
+                        "label": "deleobuvir"
+                    }
+                ]
+            ],
+            [
+                "NS5B RNA-dependent polymerase inhibitor",
+                [
+                    "/wiki/NS5B"
+                ],
+                [
+                    {
+                        "entity id": "Q24766653",
+                        "label": "RNA dependent RNA polymerase, hepatitis C virus"
+                    }
+                ]
+            ],
+            [
+                "Hepatitis C",
+                [
+                    "/wiki/Hepatitis_C"
+                ],
+                [
+                    {
+                        "entity id": "Q154869",
+                        "label": "hepatitis C"
+                    }
+                ]
+            ],
+            [
+                "Phase III",
+                []
+            ]
+        ],
+        [
+            [
+                "Faldaprevir ( formerly BI 201335 )",
+                [
+                    "/wiki/Faldaprevir"
+                ],
+                [
+                    {
+                        "entity id": "Q15408404",
+                        "label": "faldaprevir"
+                    }
+                ]
+            ],
+            [
+                "NS3 / 4A protease inhibitor",
+                [
+                    "/wiki/NS3_(HCV)",
+                    "/wiki/NS4A"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q18046267",
+                        "label": "SAP30L"
+                    }
+                ]
+            ],
+            [
+                "Hepatitis C",
+                [
+                    "/wiki/Hepatitis_C"
+                ],
+                [
+                    {
+                        "entity id": "Q154869",
+                        "label": "hepatitis C"
+                    }
+                ]
+            ],
+            [
+                "Phase III",
+                []
+            ]
+        ],
+        [
+            [
+                "Empagliflozin",
+                [
+                    "/wiki/Empagliflozin"
+                ],
+                [
+                    {
+                        "entity id": "Q5373824",
+                        "label": "empagliflozin"
+                    }
+                ]
+            ],
+            [
+                "SGLT-2 -inhibitor",
+                [
+                    "/wiki/SGLT-2"
+                ],
+                [
+                    {
+                        "entity id": "Q105788857",
+                        "label": "SGLT-2 and DPP-4 Inhibition, Subclinical Inflammation of the Genito-urinary Tract and Risk of Infections."
+                    }
+                ]
+            ],
+            [
+                "Diabetes mellitus type II",
+                [
+                    "/wiki/Diabetes_mellitus_type_II"
+                ],
+                [
+                    {
+                        "entity id": "Q4313947",
+                        "label": "Diabetes mellitus and deafness"
+                    }
+                ]
+            ],
+            [
+                "Approved",
+                []
+            ]
+        ],
+        [
+            [
+                "Idarucizumab",
+                [
+                    "/wiki/Idarucizumab"
+                ],
+                [
+                    {
+                        "entity id": "Q17630273",
+                        "label": "Idarucizumab"
+                    }
+                ]
+            ],
+            [
+                "Humanized antibody fragment ( FAB ) , specific reversal agent to dabigatran",
+                [
+                    "/wiki/Dabigatran"
+                ],
+                [
+                    {
+                        "entity id": "Q419345",
+                        "label": "dabigatran"
+                    }
+                ]
+            ],
+            [
+                "Reversal of dabigatran-induced anticoagulation in case of an emergency",
+                [
+                    "/wiki/Anticoagulation"
+                ],
+                [
+                    {
+                        "entity id": "Q63279445",
+                        "label": "anticoagulation"
+                    }
+                ]
+            ],
+            [
+                "Phase III",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Products -- Product pipeline",
+    "section_text": "Boehringer Ingelheim 's product pipeline targets lung disease , cancer , and hepatitis C. [ 40 ]",
+    "uid": "Boehringer_Ingelheim_0",
+    "intro": "C.H. Boehringer Sohn AG & Ko. KG is the parent company of the Boehringer Ingelheim group, which was founded in 1885 by Albert Boehringer in Ingelheim am Rhein, Germany. As of 2018, Boehringer Ingelheim is one of the world's largest pharmaceutical companies, and the largest private one. Headquartered in Ingelheim, it operates globally with 146 affiliates and more than 47,700 employees. Unlike most large pharmaceutical companies which are listed, the company is private and fully owned by the Boehringer, Liebrecht and von Baumbach families. The company's key areas of interest are: respiratory diseases, metabolism, immunology, oncology and diseases of the central nervous system. Boehringer Ingelheim is a full member of the European Federation of Pharmaceutical Industries and Associations (EFPIA). The corporate logo of Boehringer Ingelheim depicts a stylized rendition of the central section of the imperial palace of Charlemagne."
+}

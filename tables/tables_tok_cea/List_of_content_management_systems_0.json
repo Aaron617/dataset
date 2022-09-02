@@ -1,0 +1,1358 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_content_management_systems",
+    "title": "List of content management systems",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Platform",
+            []
+        ],
+        [
+            "Supported databases",
+            [
+                "/wiki/Relational_database_management_system"
+            ],
+            [
+                {
+                    "entity id": "Q3932296",
+                    "label": "relational database management system"
+                }
+            ]
+        ],
+        [
+            "Latest stable release",
+            []
+        ],
+        [
+            "Licenses",
+            []
+        ],
+        [
+            "Latest release date",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Alfresco Community Edition",
+                [
+                    "/wiki/Alfresco_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_platform"
+                ],
+                [
+                    {
+                        "entity id": "Q1713118",
+                        "label": "Java platform"
+                    }
+                ]
+            ],
+            [
+                "MySQL , Oracle , SQL Server , PostgreSQL , DB2 ,",
+                [
+                    "/wiki/MySQL",
+                    "/wiki/Oracle_database",
+                    "/wiki/Microsoft_SQL_Server",
+                    "/wiki/PostgreSQL",
+                    "/wiki/IBM_DB2"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q185524",
+                        "label": "Oracle Database"
+                    },
+                    {
+                        "entity id": "Q215819",
+                        "label": "Microsoft SQL Server"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    },
+                    {
+                        "entity id": "Q431195",
+                        "label": "IBM Db2"
+                    }
+                ]
+            ],
+            [
+                "201901",
+                []
+            ],
+            [
+                "LGPL",
+                [
+                    "/wiki/LGPL"
+                ],
+                [
+                    {
+                        "entity id": "Q192897",
+                        "label": "GNU Lesser General Public License"
+                    }
+                ]
+            ],
+            [
+                "2019-02-04 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "Ametys CMS",
+                [
+                    "/wiki/Ametys_CMS"
+                ],
+                [
+                    {
+                        "entity id": "Q2843150",
+                        "label": "Ametys CMS"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "MySQL , Oracle , SQL Server , JCR , Apache Derby",
+                [
+                    "/wiki/MySQL",
+                    "/wiki/Oracle_database",
+                    "/wiki/Microsoft_SQL_Server",
+                    "/wiki/Content_repository_API_for_Java",
+                    "/wiki/Apache_Derby"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q185524",
+                        "label": "Oracle Database"
+                    },
+                    {
+                        "entity id": "Q215819",
+                        "label": "Microsoft SQL Server"
+                    },
+                    {
+                        "entity id": "Q1128624",
+                        "label": "content repository API for Java"
+                    },
+                    {
+                        "entity id": "Q616706",
+                        "label": "Apache Derby"
+                    }
+                ]
+            ],
+            [
+                "4.1.11",
+                []
+            ],
+            [
+                "Apache 2.0 License",
+                [
+                    "/wiki/Apache_License"
+                ],
+                [
+                    {
+                        "entity id": "Q616526",
+                        "label": "Apache License"
+                    }
+                ]
+            ],
+            [
+                "2019- ? ? - ? ? [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "Apache Roller",
+                [
+                    "/wiki/Apache_Roller"
+                ],
+                [
+                    {
+                        "entity id": "Q283966",
+                        "label": "Apache Roller"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "HSQL , MySQL , Oracle , SQL Server , DB2 , PostgreSQL , Apache Derby",
+                [
+                    "/wiki/HSQL",
+                    "/wiki/MySQL",
+                    "/wiki/Oracle_database",
+                    "/wiki/Microsoft_SQL_Server",
+                    "/wiki/IBM_DB2",
+                    "/wiki/PostgreSQL",
+                    "/wiki/Apache_Derby"
+                ],
+                [
+                    {
+                        "entity id": "Q669257",
+                        "label": "HSQLDB"
+                    },
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q185524",
+                        "label": "Oracle Database"
+                    },
+                    {
+                        "entity id": "Q215819",
+                        "label": "Microsoft SQL Server"
+                    },
+                    {
+                        "entity id": "Q431195",
+                        "label": "IBM Db2"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    },
+                    {
+                        "entity id": "Q616706",
+                        "label": "Apache Derby"
+                    }
+                ]
+            ],
+            [
+                "5.2.2",
+                []
+            ],
+            [
+                "Apache 2.0 License",
+                [
+                    "/wiki/Apache_License"
+                ],
+                [
+                    {
+                        "entity id": "Q616526",
+                        "label": "Apache License"
+                    }
+                ]
+            ],
+            [
+                "2019-01-11 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "Apache Sling CMS",
+                [
+                    "/wiki/Apache_Sling"
+                ],
+                [
+                    {
+                        "entity id": "Q4778948",
+                        "label": "Apache Sling"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "JCR",
+                [
+                    "/wiki/Content_repository_API_for_Java"
+                ],
+                [
+                    {
+                        "entity id": "Q1128624",
+                        "label": "content repository API for Java"
+                    }
+                ]
+            ],
+            [
+                "0.14.0",
+                []
+            ],
+            [
+                "Apache 2.0 License",
+                [
+                    "/wiki/Apache_License"
+                ],
+                [
+                    {
+                        "entity id": "Q616526",
+                        "label": "Apache License"
+                    }
+                ]
+            ],
+            [
+                "2019-11-22",
+                []
+            ]
+        ],
+        [
+            [
+                "Bloomreach Experience Manager",
+                [
+                    "/wiki/Hippo_CMS"
+                ],
+                [
+                    {
+                        "entity id": "Q5768365",
+                        "label": "Hippo CMS"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "MySQL , Oracle , SQL Server , Ingres , PostgreSQL , JCR",
+                [
+                    "/wiki/MySQL",
+                    "/wiki/Oracle_database",
+                    "/wiki/Microsoft_SQL_Server",
+                    "/wiki/Ingres_(database)",
+                    "/wiki/PostgreSQL",
+                    "/wiki/Content_repository_API_for_Java"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q185524",
+                        "label": "Oracle Database"
+                    },
+                    {
+                        "entity id": "Q215819",
+                        "label": "Microsoft SQL Server"
+                    },
+                    {},
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    },
+                    {
+                        "entity id": "Q1128624",
+                        "label": "content repository API for Java"
+                    }
+                ]
+            ],
+            [
+                "13.1",
+                []
+            ],
+            [
+                "Apache 2.0 License",
+                [
+                    "/wiki/Apache_License"
+                ],
+                [
+                    {
+                        "entity id": "Q616526",
+                        "label": "Apache License"
+                    }
+                ]
+            ],
+            [
+                "2019-03-20",
+                []
+            ]
+        ],
+        [
+            [
+                "Crafter CMS",
+                [
+                    "/wiki/Crafter_CMS"
+                ],
+                [
+                    {
+                        "entity id": "Q39057240",
+                        "label": "CrafterCMS"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Git , Solr , CMIS",
+                [
+                    "/wiki/Git",
+                    "/wiki/Solr",
+                    "/wiki/CMIS"
+                ],
+                [
+                    {
+                        "entity id": "Q186055",
+                        "label": "Git"
+                    },
+                    {
+                        "entity id": "Q2858103",
+                        "label": "Apache Solr"
+                    },
+                    {
+                        "entity id": "Q2931729",
+                        "label": "Content Management Interoperability Services"
+                    }
+                ]
+            ],
+            [
+                "3.1.3",
+                []
+            ],
+            [
+                "GNU GPL v3",
+                [
+                    "/wiki/GNU",
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7598",
+                        "label": "GNU Project"
+                    },
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2019-09-10 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "dotCMS",
+                [
+                    "/wiki/DotCMS"
+                ],
+                [
+                    {
+                        "entity id": "Q5299361",
+                        "label": "DotCMS"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "MySQL , Oracle , MSSQL , PostgreSQL",
+                [
+                    "/wiki/MySQL",
+                    "/wiki/Oracle_Database",
+                    "/wiki/MSSQL",
+                    "/wiki/PostgreSQL"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q185524",
+                        "label": "Oracle Database"
+                    },
+                    {
+                        "entity id": "Q215819",
+                        "label": "Microsoft SQL Server"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    }
+                ]
+            ],
+            [
+                "5.2.4",
+                []
+            ],
+            [
+                "GNU GPL v3",
+                [
+                    "/wiki/GNU",
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7598",
+                        "label": "GNU Project"
+                    },
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2020-01-24 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "DSpace",
+                [
+                    "/wiki/DSpace"
+                ],
+                [
+                    {
+                        "entity id": "Q595786",
+                        "label": "DSpace"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Oracle , PostgreSQL",
+                [
+                    "/wiki/Oracle_database",
+                    "/wiki/PostgreSQL"
+                ],
+                [
+                    {
+                        "entity id": "Q185524",
+                        "label": "Oracle Database"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    }
+                ]
+            ],
+            [
+                "6.3",
+                []
+            ],
+            [
+                "BSD License",
+                [
+                    "/wiki/BSD_License"
+                ],
+                [
+                    {
+                        "entity id": "Q191307",
+                        "label": "BSD licenses"
+                    }
+                ]
+            ],
+            [
+                "2018-06-27",
+                []
+            ]
+        ],
+        [
+            [
+                "Enonic XP",
+                [
+                    "/wiki/Enonic_XP"
+                ],
+                [
+                    {
+                        "entity id": "Q55639654",
+                        "label": "Enonic XP"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Embedded NoSQL",
+                [
+                    "/wiki/NoSQL"
+                ],
+                [
+                    {
+                        "entity id": "Q82231",
+                        "label": "NoSQL database management system"
+                    }
+                ]
+            ],
+            [
+                "7.2.0",
+                []
+            ],
+            [
+                "GPL v3",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2019-12-19",
+                []
+            ]
+        ],
+        [
+            [
+                "Fedora Commons",
+                [
+                    "/wiki/Fedora_Commons"
+                ],
+                [
+                    {
+                        "entity id": "Q1400825",
+                        "label": "Fedora Commons"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "MySQL , Oracle , PostgreSQL , Mulgara ( MPTSTore RDF Semantic Triplestore )",
+                [
+                    "/wiki/MySQL",
+                    "/wiki/Oracle_database",
+                    "/wiki/PostgreSQL",
+                    "/wiki/Mulgara_(software)"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q185524",
+                        "label": "Oracle Database"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "5.0.2",
+                []
+            ],
+            [
+                "Apache License",
+                [
+                    "/wiki/Apache_License"
+                ],
+                [
+                    {
+                        "entity id": "Q616526",
+                        "label": "Apache License"
+                    }
+                ]
+            ],
+            [
+                "2019-02-14 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "Jahia Community Distribution",
+                [
+                    "/wiki/Jahia"
+                ],
+                [
+                    {
+                        "entity id": "Q3160545",
+                        "label": "Jahia"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Apache Derby , JCR , MySQL , PostgreSQL",
+                [
+                    "/wiki/Apache_Derby",
+                    "/wiki/Content_repository_API_for_Java",
+                    "/wiki/MySQL",
+                    "/wiki/PostgreSQL"
+                ],
+                [
+                    {
+                        "entity id": "Q616706",
+                        "label": "Apache Derby"
+                    },
+                    {
+                        "entity id": "Q1128624",
+                        "label": "content repository API for Java"
+                    },
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    }
+                ]
+            ],
+            [
+                "7.2.2",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2018-03-01",
+                []
+            ]
+        ],
+        [
+            [
+                "LogicalDOC Community Edition",
+                [
+                    "/wiki/LogicalDOC"
+                ],
+                [
+                    {
+                        "entity id": "Q589223",
+                        "label": "LogicalDOC"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_platform"
+                ],
+                [
+                    {
+                        "entity id": "Q1713118",
+                        "label": "Java platform"
+                    }
+                ]
+            ],
+            [
+                "MySQL , Oracle , SQL Server , PostgreSQL",
+                [
+                    "/wiki/MySQL",
+                    "/wiki/Oracle_database",
+                    "/wiki/Microsoft_SQL_Server",
+                    "/wiki/PostgreSQL"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q185524",
+                        "label": "Oracle Database"
+                    },
+                    {
+                        "entity id": "Q215819",
+                        "label": "Microsoft SQL Server"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    }
+                ]
+            ],
+            [
+                "7.4.2",
+                []
+            ],
+            [
+                "LGPL",
+                [
+                    "/wiki/LGPL"
+                ],
+                [
+                    {
+                        "entity id": "Q192897",
+                        "label": "GNU Lesser General Public License"
+                    }
+                ]
+            ],
+            [
+                "2016-03-24",
+                []
+            ]
+        ],
+        [
+            [
+                "Nuxeo EP",
+                [
+                    "/wiki/Nuxeo"
+                ],
+                [
+                    {
+                        "entity id": "Q2004521",
+                        "label": "Nuxeo"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "MySQL , Oracle , SQL Server , Ingres , PostgreSQL , MongoDB",
+                [
+                    "/wiki/MySQL",
+                    "/wiki/Oracle_database",
+                    "/wiki/Microsoft_SQL_Server",
+                    "/wiki/Ingres_(database)",
+                    "/wiki/PostgreSQL",
+                    "/wiki/MongoDB"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q185524",
+                        "label": "Oracle Database"
+                    },
+                    {
+                        "entity id": "Q215819",
+                        "label": "Microsoft SQL Server"
+                    },
+                    {},
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    },
+                    {
+                        "entity id": "Q1165204",
+                        "label": "MongoDB"
+                    }
+                ]
+            ],
+            [
+                "10.2",
+                []
+            ],
+            [
+                "Apache 2.0 License",
+                [
+                    "/wiki/Apache_License"
+                ],
+                [
+                    {
+                        "entity id": "Q616526",
+                        "label": "Apache License"
+                    }
+                ]
+            ],
+            [
+                "2018-07-26",
+                []
+            ]
+        ],
+        [
+            [
+                "Magnolia",
+                [
+                    "/wiki/Magnolia_(CMS)"
+                ],
+                [
+                    {
+                        "entity id": "Q753173",
+                        "label": "Magnolia"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "H2 , Derby , MySQL , PostgreSQL , Oracle , MSSQL",
+                [
+                    "/wiki/H2_(DBMS)",
+                    "/wiki/Apache_Derby",
+                    "/wiki/MySQL",
+                    "/wiki/PostgreSQL",
+                    "/wiki/Oracle_database",
+                    "/wiki/Microsoft_SQL_Server"
+                ],
+                [
+                    {
+                        "entity id": "Q1562670",
+                        "label": "H2"
+                    },
+                    {
+                        "entity id": "Q616706",
+                        "label": "Apache Derby"
+                    },
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    },
+                    {
+                        "entity id": "Q185524",
+                        "label": "Oracle Database"
+                    },
+                    {
+                        "entity id": "Q215819",
+                        "label": "Microsoft SQL Server"
+                    }
+                ]
+            ],
+            [
+                "6.1.4",
+                []
+            ],
+            [
+                "GPL & proprietary",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2019-12-20",
+                []
+            ]
+        ],
+        [
+            [
+                "OpenCms",
+                [
+                    "/wiki/OpenCms"
+                ],
+                [
+                    {
+                        "entity id": "Q1333408",
+                        "label": "OpenCms"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "HSQL , MySQL , Oracle , SQL Server , DB2 , PostgreSQL",
+                [
+                    "/wiki/HSQL",
+                    "/wiki/MySQL",
+                    "/wiki/Oracle_database",
+                    "/wiki/Microsoft_SQL_Server",
+                    "/wiki/IBM_DB2",
+                    "/wiki/PostgreSQL"
+                ],
+                [
+                    {
+                        "entity id": "Q669257",
+                        "label": "HSQLDB"
+                    },
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q185524",
+                        "label": "Oracle Database"
+                    },
+                    {
+                        "entity id": "Q215819",
+                        "label": "Microsoft SQL Server"
+                    },
+                    {
+                        "entity id": "Q431195",
+                        "label": "IBM Db2"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    }
+                ]
+            ],
+            [
+                "11.0.0",
+                []
+            ],
+            [
+                "LGPL",
+                [
+                    "/wiki/LGPL"
+                ],
+                [
+                    {
+                        "entity id": "Q192897",
+                        "label": "GNU Lesser General Public License"
+                    }
+                ]
+            ],
+            [
+                "2019-04-30 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "OpenKM Community Edition",
+                [
+                    "/wiki/OpenKM"
+                ],
+                [
+                    {
+                        "entity id": "Q7095809",
+                        "label": "OpenKM"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "MySQL , PostgreSQL , Oracle , SQL Server , HSQLDB",
+                [
+                    "/wiki/MySQL",
+                    "/wiki/PostgreSQL",
+                    "/wiki/Oracle_database",
+                    "/wiki/Microsoft_SQL_Server",
+                    "/wiki/HSQLDB"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    },
+                    {
+                        "entity id": "Q185524",
+                        "label": "Oracle Database"
+                    },
+                    {
+                        "entity id": "Q215819",
+                        "label": "Microsoft SQL Server"
+                    },
+                    {
+                        "entity id": "Q669257",
+                        "label": "HSQLDB"
+                    }
+                ]
+            ],
+            [
+                "6.3.6",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2018-03-06",
+                []
+            ]
+        ],
+        [
+            [
+                "OpenWGA",
+                [
+                    "/wiki/OpenWGA"
+                ],
+                [
+                    {
+                        "entity id": "Q7095903",
+                        "label": "OpenWGA"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "MySQL , PostgreSQL , IBM DB2 , HSQLDB , Oracle , SQL Server , IBM Lotus Domino , CMIS",
+                [
+                    "/wiki/MySQL",
+                    "/wiki/PostgreSQL",
+                    "/wiki/IBM_DB2",
+                    "/wiki/HSQLDB",
+                    "/wiki/Oracle_database",
+                    "/wiki/Microsoft_SQL_Server",
+                    "/wiki/IBM_Lotus_Domino",
+                    "/wiki/Content_Management_Interoperability_Services"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    },
+                    {
+                        "entity id": "Q431195",
+                        "label": "IBM Db2"
+                    },
+                    {
+                        "entity id": "Q669257",
+                        "label": "HSQLDB"
+                    },
+                    {
+                        "entity id": "Q185524",
+                        "label": "Oracle Database"
+                    },
+                    {
+                        "entity id": "Q215819",
+                        "label": "Microsoft SQL Server"
+                    },
+                    {
+                        "entity id": "Q60198",
+                        "label": "HCL Domino"
+                    },
+                    {
+                        "entity id": "Q2931729",
+                        "label": "Content Management Interoperability Services"
+                    }
+                ]
+            ],
+            [
+                "7.7.1",
+                []
+            ],
+            [
+                "GPL & proprietary",
+                [
+                    "/wiki/GPL"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "2019-07-28 [ \u00b1 ]",
+                []
+            ]
+        ],
+        [
+            [
+                "XWiki",
+                [
+                    "/wiki/XWiki"
+                ],
+                [
+                    {
+                        "entity id": "Q526699",
+                        "label": "XWiki"
+                    }
+                ]
+            ],
+            [
+                "Java",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "MySQL , PostgreSQL , Oracle , SQL Server , HSQLDB",
+                [
+                    "/wiki/MySQL",
+                    "/wiki/PostgreSQL",
+                    "/wiki/Oracle_database",
+                    "/wiki/Microsoft_SQL_Server",
+                    "/wiki/HSQLDB"
+                ],
+                [
+                    {
+                        "entity id": "Q850",
+                        "label": "MySQL"
+                    },
+                    {
+                        "entity id": "Q192490",
+                        "label": "PostgreSQL"
+                    },
+                    {
+                        "entity id": "Q185524",
+                        "label": "Oracle Database"
+                    },
+                    {
+                        "entity id": "Q215819",
+                        "label": "Microsoft SQL Server"
+                    },
+                    {
+                        "entity id": "Q669257",
+                        "label": "HSQLDB"
+                    }
+                ]
+            ],
+            [
+                "12.0",
+                []
+            ],
+            [
+                "LGPL",
+                [
+                    "/wiki/LGPL"
+                ],
+                [
+                    {
+                        "entity id": "Q192897",
+                        "label": "GNU Lesser General Public License"
+                    }
+                ]
+            ],
+            [
+                "2020-01-29 [ \u00b1 ]",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Open source software -- Java",
+    "section_text": "",
+    "uid": "List_of_content_management_systems_0",
+    "intro": "This is a list of notable content management systems that are used to organize and facilitate collaborative content creation. Many of them are built on top of separate content management frameworks."
+}

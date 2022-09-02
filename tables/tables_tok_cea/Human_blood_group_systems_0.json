@@ -1,0 +1,938 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Human_blood_group_systems",
+    "title": "Human blood group systems",
+    "header": [
+        [
+            "ISBT No",
+            [
+                "/wiki/International_Society_of_Blood_Transfusion"
+            ],
+            [
+                {
+                    "entity id": "Q3488429",
+                    "label": "International Society of Blood Transfusion"
+                }
+            ]
+        ],
+        [
+            "System name",
+            []
+        ],
+        [
+            "System symbol",
+            []
+        ],
+        [
+            "Epitope or carrier , notes",
+            [
+                "/wiki/Epitope"
+            ],
+            [
+                {
+                    "entity id": "Q128711",
+                    "label": "epitope"
+                }
+            ]
+        ],
+        [
+            "Chromosome",
+            [
+                "/wiki/Chromosome"
+            ],
+            [
+                {
+                    "entity id": "Q37748",
+                    "label": "chromosome"
+                }
+            ]
+        ]
+    ],
+    "data": [
+        [
+            [
+                "001",
+                []
+            ],
+            [
+                "ABO",
+                [
+                    "/wiki/ABO_blood_group_system"
+                ],
+                [
+                    {
+                        "entity id": "Q188010",
+                        "label": "ABO blood group system"
+                    }
+                ]
+            ],
+            [
+                "ABO",
+                []
+            ],
+            [
+                "Carbohydrate ( N-Acetylgalactosamine , galactose ) . A , B and H antigens mainly elicit IgM antibody reactions , although anti-H is very rare , see the Hh antigen system ( Bombay phenotype , ISBT # 18 )",
+                [
+                    "/wiki/N-Acetylgalactosamine",
+                    "/wiki/Galactose",
+                    "/wiki/IgM",
+                    "/wiki/Hh_antigen_system"
+                ],
+                [
+                    {
+                        "entity id": "Q66589585",
+                        "label": "n-acetylgalactosamine"
+                    },
+                    {
+                        "entity id": "Q66589593",
+                        "label": "galactose"
+                    },
+                    {
+                        "entity id": "Q105269",
+                        "label": "Grandmaster"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "9q34.2",
+                [
+                    "/wiki/Chromosome_9"
+                ],
+                [
+                    {
+                        "entity id": "Q28215906",
+                        "label": "Disease genes and chromosomes: disease maps of the human genome. Chromosome 9"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "002",
+                []
+            ],
+            [
+                "MNS",
+                [
+                    "/wiki/MNS_antigen_system"
+                ],
+                [
+                    {
+                        "entity id": "Q1567840",
+                        "label": "MNS antigen system"
+                    }
+                ]
+            ],
+            [
+                "MNS",
+                []
+            ],
+            [
+                "GPA / GPB ( glycophorins A and B ) . Main antigens M , N , S , s",
+                [
+                    "/wiki/Glycophorin"
+                ],
+                [
+                    {
+                        "entity id": "Q24724397",
+                        "label": "glycophorin"
+                    }
+                ]
+            ],
+            [
+                "4q31.21",
+                [
+                    "/wiki/Chromosome_4"
+                ],
+                [
+                    {
+                        "entity id": "Q610075",
+                        "label": "Wolf-Hirschhorn syndrome"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "003",
+                []
+            ],
+            [
+                "P",
+                [
+                    "/wiki/P_antigen_system"
+                ],
+                [
+                    {
+                        "entity id": "Q7121281",
+                        "label": "P antigen system"
+                    }
+                ]
+            ],
+            [
+                "P",
+                []
+            ],
+            [
+                "Glycolipid . Three antigens : P 1 , P , and P",
+                [
+                    "/wiki/Glycolipid"
+                ],
+                [
+                    {
+                        "entity id": "Q422882",
+                        "label": "glycolipid"
+                    }
+                ]
+            ],
+            [
+                "22q13.2",
+                [
+                    "/wiki/Chromosome_22"
+                ],
+                [
+                    {
+                        "entity id": "Q73280788",
+                        "label": "Chromosome 22"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "004",
+                []
+            ],
+            [
+                "Rh",
+                [
+                    "/wiki/Rh_blood_group_system"
+                ],
+                [
+                    {
+                        "entity id": "Q425832",
+                        "label": "Rh blood group system"
+                    }
+                ]
+            ],
+            [
+                "RH",
+                []
+            ],
+            [
+                "Protein . C , c , D , E , e antigens ( there is no d antigen ; lowercase d indicates the absence of D )",
+                []
+            ],
+            [
+                "1p36.11",
+                [
+                    "/wiki/Chromosome_1"
+                ],
+                [
+                    {
+                        "entity id": "Q457737",
+                        "label": "Edwards syndrome\u200e"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "005",
+                []
+            ],
+            [
+                "Lutheran",
+                [
+                    "/wiki/Lutheran_antigen_system"
+                ],
+                [
+                    {
+                        "entity id": "Q6705757",
+                        "label": "Lutheran antigen system"
+                    }
+                ]
+            ],
+            [
+                "LU",
+                []
+            ],
+            [
+                "Protein ( member of the immunoglobulin superfamily ) . Set of 21 antigens",
+                [
+                    "/wiki/Immunoglobulin_superfamily"
+                ],
+                [
+                    {
+                        "entity id": "Q41797304",
+                        "label": "Immunoglobulin-like domain superfamily"
+                    }
+                ]
+            ],
+            [
+                "19q13.32",
+                [
+                    "/wiki/Chromosome_19"
+                ],
+                [
+                    {
+                        "entity id": "Q28143166",
+                        "label": "Disease genes and chromosomes: disease maps of the human genome. Chromosome 19"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "006",
+                []
+            ],
+            [
+                "Kell",
+                [
+                    "/wiki/Kell_antigen_system"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "KEL",
+                []
+            ],
+            [
+                "Glycoprotein . K 1 can cause hemolytic disease of the newborn ( anti-Kell ) , which can be severe",
+                [
+                    "/wiki/Hemolytic_disease_of_the_newborn_(anti-Kell)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "7q34",
+                [
+                    "/wiki/Chromosome_7"
+                ],
+                [
+                    {
+                        "entity id": "Q558077",
+                        "label": "Williams-Beuren syndrome"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "007",
+                []
+            ],
+            [
+                "Lewis",
+                [
+                    "/wiki/Lewis_antigen_system"
+                ],
+                [
+                    {
+                        "entity id": "Q3509142",
+                        "label": "Lewis antigen system"
+                    }
+                ]
+            ],
+            [
+                "LE",
+                []
+            ],
+            [
+                "Carbohydrate ( fucose residue ) . Main antigens Le and Le - associated with tissue ABH antigen secretion",
+                [
+                    "/wiki/Fucose"
+                ],
+                [
+                    {
+                        "entity id": "Q66589589",
+                        "label": "fucose"
+                    }
+                ]
+            ],
+            [
+                "19p13.3",
+                [
+                    "/wiki/Chromosome_19"
+                ],
+                [
+                    {
+                        "entity id": "Q28143166",
+                        "label": "Disease genes and chromosomes: disease maps of the human genome. Chromosome 19"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "008",
+                []
+            ],
+            [
+                "Duffy",
+                [
+                    "/wiki/Duffy_antigen_system"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "FY",
+                []
+            ],
+            [
+                "Protein ( chemokine receptor ) . Main antigens Fy and Fy . Individuals lacking Duffy antigens altogether are immune to malaria caused by Plasmodium vivax and Plasmodium knowlesi",
+                [
+                    "/wiki/Chemokine_receptor",
+                    "/wiki/Malaria",
+                    "/wiki/Plasmodium_vivax",
+                    "/wiki/Plasmodium_knowlesi"
+                ],
+                [
+                    {
+                        "entity id": "Q24720618",
+                        "label": "chemokine receptor family"
+                    },
+                    {
+                        "entity id": "Q12156",
+                        "label": "malaria"
+                    },
+                    {
+                        "entity id": "Q311376",
+                        "label": "Plasmodium vivax"
+                    },
+                    {
+                        "entity id": "Q241594",
+                        "label": "Plasmodium knowlesi"
+                    }
+                ]
+            ],
+            [
+                "1q23.2",
+                [
+                    "/wiki/Chromosome_1"
+                ],
+                [
+                    {
+                        "entity id": "Q457737",
+                        "label": "Edwards syndrome\u200e"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "009",
+                []
+            ],
+            [
+                "Kidd",
+                [
+                    "/wiki/Kidd_antigen_system"
+                ],
+                [
+                    {
+                        "entity id": "Q6404649",
+                        "label": "Kidd antigen system"
+                    }
+                ]
+            ],
+            [
+                "JK",
+                []
+            ],
+            [
+                "Protein ( urea transporter ) . Main antigens Jk and Jk",
+                []
+            ],
+            [
+                "18q12.3",
+                [
+                    "/wiki/Chromosome_18"
+                ],
+                [
+                    {
+                        "entity id": "Q457737",
+                        "label": "Edwards syndrome\u200e"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "010",
+                []
+            ],
+            [
+                "Diego",
+                [
+                    "/wiki/Diego_antigen_system"
+                ],
+                [
+                    {
+                        "entity id": "Q3509134",
+                        "label": "Diego antigen system"
+                    }
+                ]
+            ],
+            [
+                "DI",
+                []
+            ],
+            [
+                "Glycoprotein ( band 3 , AE 1 , or anion exchange ) . Positive blood is found only among East Asians and Native Americans",
+                [
+                    "/wiki/Band_3",
+                    "/wiki/East_Asia",
+                    "/wiki/Indigenous_peoples_of_the_Americas"
+                ],
+                [
+                    {
+                        "entity id": "Q24719843",
+                        "label": "Band 3 cytoplasmic domain"
+                    },
+                    {
+                        "entity id": "Q27231",
+                        "label": "East Asia"
+                    },
+                    {
+                        "entity id": "Q36747",
+                        "label": "indigenous peoples of the Americas"
+                    }
+                ]
+            ],
+            [
+                "17q21.31",
+                [
+                    "/wiki/Chromosome_17"
+                ],
+                [
+                    {
+                        "entity id": "Q2295338",
+                        "label": "Smith-Magenis syndrome"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "011",
+                []
+            ],
+            [
+                "Yt",
+                [
+                    "/wiki/Yt_antigen_system"
+                ],
+                [
+                    {
+                        "entity id": "Q8059817",
+                        "label": "Yt antigen system"
+                    }
+                ]
+            ],
+            [
+                "YT",
+                []
+            ],
+            [
+                "Protein ( AChE , acetylcholinesterase )",
+                [
+                    "/wiki/Acetylcholinesterase"
+                ],
+                [
+                    {
+                        "entity id": "Q22676679",
+                        "label": "Acetylcholinesterase (Cartwright blood group)"
+                    }
+                ]
+            ],
+            [
+                "7q22.1",
+                [
+                    "/wiki/Chromosome_7"
+                ],
+                [
+                    {
+                        "entity id": "Q558077",
+                        "label": "Williams-Beuren syndrome"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "012",
+                []
+            ],
+            [
+                "XG",
+                [
+                    "/wiki/XG_antigen_system"
+                ],
+                [
+                    {
+                        "entity id": "Q8043979",
+                        "label": "Xg antigen system"
+                    }
+                ]
+            ],
+            [
+                "XG",
+                []
+            ],
+            [
+                "Glycoprotein",
+                []
+            ],
+            [
+                "Xp22.33",
+                [
+                    "/wiki/X_chromosome"
+                ],
+                [
+                    {
+                        "entity id": "Q61333",
+                        "label": "X chromosome"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "013",
+                []
+            ],
+            [
+                "Scianna",
+                [
+                    "/wiki/Scianna_antigen_system"
+                ],
+                [
+                    {
+                        "entity id": "Q65089023",
+                        "label": "Scianna antigen system"
+                    }
+                ]
+            ],
+            [
+                "SC",
+                []
+            ],
+            [
+                "Glycoprotein",
+                []
+            ],
+            [
+                "1p34.2",
+                [
+                    "/wiki/Chromosome_1"
+                ],
+                [
+                    {
+                        "entity id": "Q457737",
+                        "label": "Edwards syndrome\u200e"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "014",
+                []
+            ],
+            [
+                "Dombrock",
+                [
+                    "/wiki/Dombrock_antigen_system"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "DO",
+                []
+            ],
+            [
+                "Glycoprotein ( fixed to cell membrane by GPI , or glycosyl-phosphatidyl-inositol )",
+                [
+                    "/wiki/Glycosyl-phosphatidyl-inositol"
+                ],
+                [
+                    {
+                        "entity id": "Q62358583",
+                        "label": "TsM_000747200.1"
+                    }
+                ]
+            ],
+            [
+                "12p12.3",
+                [
+                    "/wiki/Chromosome_12"
+                ],
+                [
+                    {
+                        "entity id": "Q18046354",
+                        "label": "C12orf49"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "015",
+                []
+            ],
+            [
+                "Colton",
+                [
+                    "/wiki/Colton_antigen_system"
+                ],
+                [
+                    {
+                        "entity id": "Q5149483",
+                        "label": "Colton antigen system"
+                    }
+                ]
+            ],
+            [
+                "CO",
+                []
+            ],
+            [
+                "Aquaporin 1 . Main antigens Co ( a ) and Co ( b )",
+                [
+                    "/wiki/Aquaporin_1"
+                ],
+                [
+                    {
+                        "entity id": "Q2083074",
+                        "label": "Aquaporin 1"
+                    }
+                ]
+            ],
+            [
+                "7p14.3",
+                [
+                    "/wiki/Chromosome_7"
+                ],
+                [
+                    {
+                        "entity id": "Q558077",
+                        "label": "Williams-Beuren syndrome"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "016",
+                []
+            ],
+            [
+                "Landsteiner-Wiener",
+                [
+                    "/wiki/Landsteiner-Wiener_antigen_system"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "LW",
+                []
+            ],
+            [
+                "Protein ( member of the immunoglobulin superfamily )",
+                [
+                    "/wiki/Immunoglobulin_superfamily"
+                ],
+                [
+                    {
+                        "entity id": "Q41797304",
+                        "label": "Immunoglobulin-like domain superfamily"
+                    }
+                ]
+            ],
+            [
+                "19p13.2",
+                [
+                    "/wiki/Chromosome_19"
+                ],
+                [
+                    {
+                        "entity id": "Q28143166",
+                        "label": "Disease genes and chromosomes: disease maps of the human genome. Chromosome 19"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "017",
+                []
+            ],
+            [
+                "Chido",
+                [
+                    "/wiki/Chido_antigen_system"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "CH",
+                []
+            ],
+            [
+                "C4A C4B ( complement fractions )",
+                []
+            ],
+            [
+                "6p21.3",
+                [
+                    "/wiki/Chromosome_6"
+                ],
+                [
+                    {
+                        "entity id": "Q1898429",
+                        "label": "Chromosome 6"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "018",
+                []
+            ],
+            [
+                "Hh",
+                [
+                    "/wiki/Hh_antigen_system"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "H",
+                []
+            ],
+            [
+                "Carbohydrate ( fucose residue )",
+                [
+                    "/wiki/Fucose"
+                ],
+                [
+                    {
+                        "entity id": "Q66589589",
+                        "label": "fucose"
+                    }
+                ]
+            ],
+            [
+                "19q13.33",
+                [
+                    "/wiki/Chromosome_19"
+                ],
+                [
+                    {
+                        "entity id": "Q28143166",
+                        "label": "Disease genes and chromosomes: disease maps of the human genome. Chromosome 19"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "019",
+                []
+            ],
+            [
+                "XK",
+                [
+                    "/wiki/XK_(protein)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "XK",
+                []
+            ],
+            [
+                "Glycoprotein",
+                []
+            ],
+            [
+                "Xp21.1",
+                [
+                    "/wiki/X_chromosome"
+                ],
+                [
+                    {
+                        "entity id": "Q61333",
+                        "label": "X chromosome"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "020",
+                []
+            ],
+            [
+                "Gerbich",
+                [
+                    "/wiki/Gerbich_antigen_system"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "GE",
+                []
+            ],
+            [
+                "GPC / GPD ( Glycophorins C and D )",
+                [
+                    "/wiki/Glycophorin"
+                ],
+                [
+                    {
+                        "entity id": "Q24724397",
+                        "label": "glycophorin"
+                    }
+                ]
+            ],
+            [
+                "2q14.3",
+                [
+                    "/wiki/Chromosome_2"
+                ],
+                [
+                    {
+                        "entity id": "Q1360044",
+                        "label": "syndactyly"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Blood group systems",
+    "section_text": "",
+    "uid": "Human_blood_group_systems_0",
+    "intro": "The term human blood group systems is defined by International Society of Blood Transfusion as systems in the human species where cell-surface antigens - in particular, those on blood cells - are controlled at a single gene locus or by two or more very closely linked homologous genes with little or no observable recombination between them, and include the common ABO and Rh (Rhesus) antigen systems, as well as many others; thirty-five major human systems are identified as of November 2014. In addition to the ABO and Rh systems, the antigens expressed on blood cell membrane surfaces include 346 red blood cell antigens and 33 platelet antigens, as defined serologically. [better source needed] The genetic basis for most of these antigens lie in 46 red blood cell and 6 platelet genes. [citation needed] An individual, for example, can be AB RhD positive, and at the same time M and N positive in the MNS system, K positive in the Kell system, and Lea or Leb positive in the Lewis system,[citation needed] where these and many of the systems are named for patients in whom the corresponding antibodies were first detected. [citation needed]"
+}

@@ -1,0 +1,693 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Hiragana_and_katakana_place_names",
+    "title": "Hiragana and katakana place names",
+    "header": [
+        [
+            "Romaji",
+            []
+        ],
+        [
+            "Hiragana",
+            []
+        ],
+        [
+            "Kanji",
+            []
+        ],
+        [
+            "Prefecture",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Ama",
+                [
+                    "/wiki/Ama,_Aichi"
+                ],
+                [
+                    {
+                        "entity id": "Q451661",
+                        "label": "Ama"
+                    }
+                ]
+            ],
+            [
+                "\u3042\u307e\u5e02",
+                []
+            ],
+            [
+                "\u6d77\u90e8",
+                []
+            ],
+            [
+                "Aichi",
+                [
+                    "/wiki/Aichi_Prefecture"
+                ],
+                [
+                    {
+                        "entity id": "Q80434",
+                        "label": "Aichi Prefecture"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Awara",
+                [
+                    "/wiki/Awara,_Fukui"
+                ],
+                [
+                    {
+                        "entity id": "Q538623",
+                        "label": "Awara"
+                    }
+                ]
+            ],
+            [
+                "\u3042\u308f\u3089\u5e02",
+                []
+            ],
+            [
+                "\u82a6\u539f",
+                []
+            ],
+            [
+                "Fukui",
+                [
+                    "/wiki/Fukui_Prefecture"
+                ],
+                [
+                    {
+                        "entity id": "Q133879",
+                        "label": "Fukui Prefecture"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Ebino",
+                [
+                    "/wiki/Ebino"
+                ],
+                [
+                    {
+                        "entity id": "Q374701",
+                        "label": "Ebino"
+                    }
+                ]
+            ],
+            [
+                "\u3048\u3073\u306e\u5e02",
+                []
+            ],
+            [
+                "\u8766\u91ce",
+                []
+            ],
+            [
+                "Miyazaki",
+                [
+                    "/wiki/Miyazaki_Prefecture"
+                ],
+                [
+                    {
+                        "entity id": "Q130300",
+                        "label": "Miyazaki Prefecture"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Erimo",
+                [
+                    "/wiki/Erimo,_Hokkaido"
+                ],
+                [
+                    {
+                        "entity id": "Q187124",
+                        "label": "Erimo"
+                    }
+                ]
+            ],
+            [
+                "\u3048\u308a\u3082\u753a",
+                []
+            ],
+            [
+                "\u895f\u88f3",
+                []
+            ],
+            [
+                "Hokkaid\u014d",
+                [
+                    "/wiki/Hokkaid\u014d"
+                ],
+                [
+                    {
+                        "entity id": "Q35581",
+                        "label": "Hokkaido"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Hitachinaka",
+                [
+                    "/wiki/Hitachinaka"
+                ],
+                [
+                    {
+                        "entity id": "Q696772",
+                        "label": "Hitachinaka"
+                    }
+                ]
+            ],
+            [
+                "\u3072\u305f\u3061\u306a\u304b\u5e02",
+                []
+            ],
+            [
+                "\u5e38\u9678\u90a3\u73c2",
+                []
+            ],
+            [
+                "Ibaraki",
+                [
+                    "/wiki/Ibaraki_Prefecture"
+                ],
+                [
+                    {
+                        "entity id": "Q83273",
+                        "label": "Ibaraki Prefecture"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Inabe",
+                [
+                    "/wiki/Inabe,_Mie"
+                ],
+                [
+                    {
+                        "entity id": "Q281817",
+                        "label": "Inabe"
+                    }
+                ]
+            ],
+            [
+                "\u3044\u306a\u3079\u5e02",
+                []
+            ],
+            [
+                "\u54e1\u5f01",
+                []
+            ],
+            [
+                "Mie",
+                [
+                    "/wiki/Mie_Prefecture"
+                ],
+                [
+                    {
+                        "entity id": "Q128196",
+                        "label": "Mie Prefecture"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Ino",
+                [
+                    "/wiki/Ino,_K\u014dchi"
+                ],
+                [
+                    {
+                        "entity id": "Q1206590",
+                        "label": "Ino"
+                    }
+                ]
+            ],
+            [
+                "\u3044\u306e\u753a",
+                []
+            ],
+            [
+                "\u4f0a\u91ce",
+                []
+            ],
+            [
+                "K\u014dchi",
+                [
+                    "/wiki/K\u014dchi_Prefecture"
+                ],
+                [
+                    {
+                        "entity id": "Q134093",
+                        "label": "K\u014dchi Prefecture"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Isumi",
+                [
+                    "/wiki/Isumi,_Chiba"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "\u3044\u3059\u307f\u5e02",
+                []
+            ],
+            [
+                "\u5937\u9685",
+                []
+            ],
+            [
+                "Chiba",
+                [
+                    "/wiki/Chiba_Prefecture"
+                ],
+                [
+                    {
+                        "entity id": "Q80011",
+                        "label": "Chiba Prefecture"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Iwaki",
+                [
+                    "/wiki/Iwaki,_Fukushima"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "\u3044\u308f\u304d\u5e02",
+                []
+            ],
+            [
+                "\u78d0\u57ce",
+                []
+            ],
+            [
+                "Fukushima",
+                [
+                    "/wiki/Fukushima_Prefecture"
+                ],
+                [
+                    {
+                        "entity id": "Q71707",
+                        "label": "Fukushima Prefecture"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kahoku",
+                [
+                    "/wiki/Kahoku"
+                ],
+                [
+                    {
+                        "entity id": "Q846335",
+                        "label": "Kahoku"
+                    }
+                ]
+            ],
+            [
+                "\u304b\u307b\u304f\u5e02",
+                []
+            ],
+            [
+                "\u6cb3\u5317",
+                []
+            ],
+            [
+                "Ishikawa",
+                [
+                    "/wiki/Ishikawa_Prefecture"
+                ],
+                [
+                    {
+                        "entity id": "Q131281",
+                        "label": "Ishikawa Prefecture"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kasumigaura",
+                [
+                    "/wiki/Kasumigaura"
+                ],
+                [
+                    {
+                        "entity id": "Q772817",
+                        "label": "Kasumigaura"
+                    }
+                ]
+            ],
+            [
+                "\u304b\u3059\u307f\u304c\u3046\u3089\u5e02",
+                []
+            ],
+            [
+                "\u971e\u30f6\u6d66",
+                []
+            ],
+            [
+                "Ibaraki",
+                [
+                    "/wiki/Ibaraki_Prefecture"
+                ],
+                [
+                    {
+                        "entity id": "Q83273",
+                        "label": "Ibaraki Prefecture"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Katsuragi",
+                [
+                    "/wiki/Katsuragi,_Wakayama"
+                ],
+                [
+                    {
+                        "entity id": "Q1345594",
+                        "label": "Katsuragi"
+                    }
+                ]
+            ],
+            [
+                "\u304b\u3064\u3089\u304e\u753a",
+                []
+            ],
+            [
+                "\u845b\u57ce",
+                []
+            ],
+            [
+                "Wakayama",
+                [
+                    "/wiki/Wakayama_Prefecture"
+                ],
+                [
+                    {
+                        "entity id": "Q131314",
+                        "label": "Wakayama Prefecture"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Midori",
+                [
+                    "/wiki/Midori,_Gunma"
+                ],
+                [
+                    {
+                        "entity id": "Q576556",
+                        "label": "Midori"
+                    }
+                ]
+            ],
+            [
+                "\u307f\u3069\u308a\u5e02",
+                []
+            ],
+            [
+                "\u7dd1",
+                []
+            ],
+            [
+                "Gunma",
+                [
+                    "/wiki/Gunma_Prefecture"
+                ],
+                [
+                    {
+                        "entity id": "Q129499",
+                        "label": "Gunma Prefecture"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Minabe",
+                [
+                    "/wiki/Minabe,_Wakayama"
+                ],
+                [
+                    {
+                        "entity id": "Q1345966",
+                        "label": "Minabe"
+                    }
+                ]
+            ],
+            [
+                "\u307f\u306a\u3079\u753a",
+                []
+            ],
+            [
+                "\u5357\u90e8",
+                []
+            ],
+            [
+                "Wakayama",
+                [
+                    "/wiki/Wakayama_Prefecture"
+                ],
+                [
+                    {
+                        "entity id": "Q131314",
+                        "label": "Wakayama Prefecture"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Minakami",
+                [
+                    "/wiki/Minakami,_Gunma"
+                ],
+                [
+                    {
+                        "entity id": "Q1345518",
+                        "label": "Minakami"
+                    }
+                ]
+            ],
+            [
+                "\u307f\u306a\u304b\u307f\u753a",
+                []
+            ],
+            [
+                "\u6c34\u4e0a",
+                []
+            ],
+            [
+                "Gunma",
+                [
+                    "/wiki/Gunma_Prefecture"
+                ],
+                [
+                    {
+                        "entity id": "Q129499",
+                        "label": "Gunma Prefecture"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Miyoshi",
+                [
+                    "/wiki/Miyoshi,_Aichi"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "\u307f\u3088\u3057\u5e02",
+                []
+            ],
+            [
+                "\u4e09\u597d",
+                []
+            ],
+            [
+                "Aichi",
+                [
+                    "/wiki/Aichi_Prefecture"
+                ],
+                [
+                    {
+                        "entity id": "Q80434",
+                        "label": "Aichi Prefecture"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mukawa",
+                [
+                    "/wiki/Mukawa,_Hokkaido"
+                ],
+                [
+                    {
+                        "entity id": "Q1187152",
+                        "label": "Mukawa"
+                    }
+                ]
+            ],
+            [
+                "\u3080\u304b\u308f\u753a",
+                []
+            ],
+            [
+                "\u9d61\u5ddd",
+                []
+            ],
+            [
+                "Hokkaid\u014d",
+                [
+                    "/wiki/Hokkaid\u014d"
+                ],
+                [
+                    {
+                        "entity id": "Q35581",
+                        "label": "Hokkaido"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mutsu",
+                [
+                    "/wiki/Mutsu,_Aomori"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "\u3080\u3064\u5e02",
+                []
+            ],
+            [
+                "\u9678\u5965",
+                []
+            ],
+            [
+                "Aomori",
+                [
+                    "/wiki/Aomori_Prefecture"
+                ],
+                [
+                    {
+                        "entity id": "Q71699",
+                        "label": "Aomori Prefecture"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Nikaho",
+                [
+                    "/wiki/Nikaho,_Akita"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "\u306b\u304b\u307b\u5e02",
+                []
+            ],
+            [
+                "\u4ec1\u8cc0\u4fdd",
+                []
+            ],
+            [
+                "Akita",
+                [
+                    "/wiki/Akita_Prefecture"
+                ],
+                [
+                    {
+                        "entity id": "Q81863",
+                        "label": "Akita Prefecture"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Oirase",
+                [
+                    "/wiki/Oirase,_Aomori"
+                ],
+                [
+                    {
+                        "entity id": "Q1349124",
+                        "label": "Oirase"
+                    }
+                ]
+            ],
+            [
+                "\u304a\u3044\u3089\u305b\u753a",
+                []
+            ],
+            [
+                "\u5965\u5165\u702c",
+                []
+            ],
+            [
+                "Aomori",
+                [
+                    "/wiki/Aomori_Prefecture"
+                ],
+                [
+                    {
+                        "entity id": "Q71699",
+                        "label": "Aomori Prefecture"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "List of fully Hiragana cities and towns",
+    "section_text": "",
+    "uid": "Hiragana_and_katakana_place_names_0",
+    "intro": "The hiragana cities of Japan are municipalities whose names are written in hiragana rather than kanji as is traditional for Japanese place names. Many hiragana city names have kanji equivalents that are either phonetic many\u014dgana, or whose kanji are now obsolete. [citation needed] Others, such as Tsukuba in Ibaraki Prefecture, are taken from localities or landmarks whose names continue to be written in kanji."
+}

@@ -1,0 +1,566 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Air_Southwest",
+    "title": "Air Southwest",
+    "header": [
+        [
+            "City",
+            []
+        ],
+        [
+            "Country",
+            []
+        ],
+        [
+            "IATA",
+            []
+        ],
+        [
+            "ICAO",
+            []
+        ],
+        [
+            "Airport",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Aberdeen",
+                [
+                    "/wiki/Aberdeen"
+                ],
+                [
+                    {
+                        "entity id": "Q36405",
+                        "label": "Aberdeen"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom Scotland",
+                []
+            ],
+            [
+                "ABZ",
+                []
+            ],
+            [
+                "EGPD",
+                []
+            ],
+            [
+                "Aberdeen Airport",
+                [
+                    "/wiki/Aberdeen_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8981",
+                        "label": "Aberdeen Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Bristol",
+                [
+                    "/wiki/Bristol"
+                ],
+                [
+                    {
+                        "entity id": "Q23154",
+                        "label": "Bristol"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom England",
+                []
+            ],
+            [
+                "BRS",
+                []
+            ],
+            [
+                "EGGD",
+                []
+            ],
+            [
+                "Bristol Airport",
+                [
+                    "/wiki/Bristol_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8725",
+                        "label": "Bristol Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Cardiff",
+                [
+                    "/wiki/Cardiff"
+                ],
+                [
+                    {
+                        "entity id": "Q10690",
+                        "label": "Cardiff"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom Wales",
+                []
+            ],
+            [
+                "CWL",
+                []
+            ],
+            [
+                "EGFF",
+                []
+            ],
+            [
+                "Cardiff Airport",
+                [
+                    "/wiki/Cardiff_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8994",
+                        "label": "Cardiff Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Cork",
+                [
+                    "/wiki/Cork_(city)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Ireland",
+                []
+            ],
+            [
+                "ORK",
+                []
+            ],
+            [
+                "EICK",
+                []
+            ],
+            [
+                "Cork Airport",
+                [
+                    "/wiki/Cork_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1345361",
+                        "label": "Cork Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dublin",
+                [
+                    "/wiki/Dublin"
+                ],
+                [
+                    {
+                        "entity id": "Q1761",
+                        "label": "Dublin"
+                    }
+                ]
+            ],
+            [
+                "Ireland",
+                []
+            ],
+            [
+                "DUB",
+                []
+            ],
+            [
+                "EIDW",
+                []
+            ],
+            [
+                "Dublin Airport",
+                [
+                    "/wiki/Dublin_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q178021",
+                        "label": "Dublin Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Dundee",
+                [
+                    "/wiki/Dundee"
+                ],
+                [
+                    {
+                        "entity id": "Q123709",
+                        "label": "Dundee"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom Scotland",
+                []
+            ],
+            [
+                "DND",
+                []
+            ],
+            [
+                "EGPN",
+                []
+            ],
+            [
+                "Dundee Airport",
+                [
+                    "/wiki/Dundee_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2655504",
+                        "label": "Dundee Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Glasgow",
+                [
+                    "/wiki/Glasgow"
+                ],
+                [
+                    {
+                        "entity id": "Q4093",
+                        "label": "Glasgow"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom Scotland",
+                []
+            ],
+            [
+                "GLA",
+                []
+            ],
+            [
+                "EGPF",
+                []
+            ],
+            [
+                "Glasgow International Airport",
+                [
+                    "/wiki/Glasgow_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8721",
+                        "label": "Glasgow Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Guernsey",
+                [
+                    "/wiki/Guernsey"
+                ],
+                [
+                    {
+                        "entity id": "Q25230",
+                        "label": "Guernsey"
+                    }
+                ]
+            ],
+            [
+                "Guernsey",
+                []
+            ],
+            [
+                "GCI",
+                []
+            ],
+            [
+                "EGJB",
+                []
+            ],
+            [
+                "Guernsey Airport",
+                [
+                    "/wiki/Guernsey_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8995",
+                        "label": "Guernsey Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Jersey",
+                [
+                    "/wiki/Jersey"
+                ],
+                [
+                    {
+                        "entity id": "Q1408",
+                        "label": "New Jersey"
+                    }
+                ]
+            ],
+            [
+                "Jersey",
+                []
+            ],
+            [
+                "JER",
+                []
+            ],
+            [
+                "EGJJ",
+                []
+            ],
+            [
+                "Jersey Airport",
+                [
+                    "/wiki/Jersey_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8991",
+                        "label": "Jersey Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Leeds / Bradford",
+                [
+                    "/wiki/Leeds",
+                    "/wiki/Bradford"
+                ],
+                [
+                    {
+                        "entity id": "Q39121",
+                        "label": "Leeds"
+                    },
+                    {
+                        "entity id": "Q22905",
+                        "label": "Bradford"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom England",
+                []
+            ],
+            [
+                "LBA",
+                []
+            ],
+            [
+                "EGNM",
+                []
+            ],
+            [
+                "Leeds Bradford International Airport",
+                [
+                    "/wiki/Leeds_Bradford_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8699",
+                        "label": "Leeds Bradford Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Manchester",
+                [
+                    "/wiki/Manchester"
+                ],
+                [
+                    {
+                        "entity id": "Q18125",
+                        "label": "Manchester"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom England",
+                []
+            ],
+            [
+                "MAN",
+                []
+            ],
+            [
+                "EGCC",
+                []
+            ],
+            [
+                "Manchester Airport",
+                [
+                    "/wiki/Manchester_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8694",
+                        "label": "Manchester Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Newquay",
+                [
+                    "/wiki/Newquay"
+                ],
+                [
+                    {
+                        "entity id": "Q943517",
+                        "label": "Newquay"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom England",
+                []
+            ],
+            [
+                "NQY",
+                []
+            ],
+            [
+                "EGHQ",
+                []
+            ],
+            [
+                "Newquay Cornwall Airport",
+                [
+                    "/wiki/Newquay_Cornwall_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q477555",
+                        "label": "Cornwall Airport Newquay"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Norwich",
+                [
+                    "/wiki/Norwich"
+                ],
+                [
+                    {
+                        "entity id": "Q130191",
+                        "label": "Norwich"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom England",
+                []
+            ],
+            [
+                "NWI",
+                []
+            ],
+            [
+                "EGSH",
+                []
+            ],
+            [
+                "Norwich International Airport",
+                [
+                    "/wiki/Norwich_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q349673",
+                        "label": "Norwich International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Plymouth",
+                [
+                    "/wiki/Plymouth"
+                ],
+                [
+                    {
+                        "entity id": "Q43382",
+                        "label": "Plymouth"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom England",
+                []
+            ],
+            [
+                "PLH",
+                []
+            ],
+            [
+                "EGHD",
+                []
+            ],
+            [
+                "Plymouth City Airport",
+                [
+                    "/wiki/Plymouth_City_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1432379",
+                        "label": "Plymouth City Airport"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Destinations",
+    "section_text": "Air Southwest served the following destinations throughout operations : [ Base ] Base [ Seasonal ] Seasonal service",
+    "uid": "Air_Southwest_0",
+    "intro": "Air Southwest was a British airline founded by Sutton Harbour Holdings in 2003. Ownership was transferred to Eastern Airways in September 2010 but operations ceased 12 months later. It operated regional scheduled passenger services in the South West of England. Its main base was Plymouth City Airport, with hubs at Newquay Cornwall Airport and Bristol Airport. The airline employed 145 people and was headed by managing director Peter Davies and Deputy chief executive Mike Coombes. The company held a United Kingdom Civil Aviation Authority Type A Operating Licence, permitting it to carry passengers, cargo and mail on aircraft with 20 or more seats."
+}

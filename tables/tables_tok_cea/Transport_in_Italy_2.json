@@ -1,0 +1,563 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Transport_in_Italy",
+    "title": "Transport in Italy",
+    "header": [
+        [
+            "Port",
+            []
+        ],
+        [
+            "Region",
+            []
+        ],
+        [
+            "Thousand tons",
+            []
+        ],
+        [
+            "%",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Taranto",
+                [
+                    "/wiki/Taranto"
+                ],
+                [
+                    {
+                        "entity id": "Q13498",
+                        "label": "Taranto"
+                    }
+                ]
+            ],
+            [
+                "Apulia",
+                [
+                    "/wiki/Apulia"
+                ],
+                [
+                    {
+                        "entity id": "Q1447",
+                        "label": "Apulia"
+                    }
+                ]
+            ],
+            [
+                "49,522",
+                []
+            ],
+            [
+                "9.4",
+                []
+            ]
+        ],
+        [
+            [
+                "Genoa",
+                [
+                    "/wiki/Genoa"
+                ],
+                [
+                    {
+                        "entity id": "Q1449",
+                        "label": "Genoa"
+                    }
+                ]
+            ],
+            [
+                "Liguria",
+                [
+                    "/wiki/Liguria"
+                ],
+                [
+                    {
+                        "entity id": "Q1256",
+                        "label": "Liguria"
+                    }
+                ]
+            ],
+            [
+                "46,469",
+                []
+            ],
+            [
+                "8.8",
+                []
+            ]
+        ],
+        [
+            [
+                "Trieste",
+                [
+                    "/wiki/Trieste"
+                ],
+                [
+                    {
+                        "entity id": "Q546",
+                        "label": "Trieste"
+                    }
+                ]
+            ],
+            [
+                "Friuli-Venezia Giulia",
+                [
+                    "/wiki/Friuli-Venezia_Giulia"
+                ],
+                [
+                    {
+                        "entity id": "Q1250",
+                        "label": "Friuli Venezia Giulia"
+                    }
+                ]
+            ],
+            [
+                "37,195",
+                []
+            ],
+            [
+                "7.1",
+                []
+            ]
+        ],
+        [
+            [
+                "Gioia Tauro",
+                [
+                    "/wiki/Gioia_Tauro"
+                ],
+                [
+                    {
+                        "entity id": "Q54614",
+                        "label": "Gioia Tauro"
+                    }
+                ]
+            ],
+            [
+                "Calabria",
+                [
+                    "/wiki/Calabria"
+                ],
+                [
+                    {
+                        "entity id": "Q1458",
+                        "label": "Calabria"
+                    }
+                ]
+            ],
+            [
+                "31,527",
+                []
+            ],
+            [
+                "6.0",
+                []
+            ]
+        ],
+        [
+            [
+                "Ravenna",
+                [
+                    "/wiki/Ravenna"
+                ],
+                [
+                    {
+                        "entity id": "Q13364",
+                        "label": "Ravenna"
+                    }
+                ]
+            ],
+            [
+                "Emilia-Romagna",
+                [
+                    "/wiki/Emilia-Romagna"
+                ],
+                [
+                    {
+                        "entity id": "Q1263",
+                        "label": "Emilia-Romagna"
+                    }
+                ]
+            ],
+            [
+                "30,075",
+                []
+            ],
+            [
+                "5.7",
+                []
+            ]
+        ],
+        [
+            [
+                "Venice",
+                [
+                    "/wiki/Venice"
+                ],
+                [
+                    {
+                        "entity id": "Q641",
+                        "label": "Venice"
+                    }
+                ]
+            ],
+            [
+                "Veneto",
+                [
+                    "/wiki/Veneto"
+                ],
+                [
+                    {
+                        "entity id": "Q1243",
+                        "label": "Veneto"
+                    }
+                ]
+            ],
+            [
+                "29,920",
+                []
+            ],
+            [
+                "5.7",
+                []
+            ]
+        ],
+        [
+            [
+                "Livorno",
+                [
+                    "/wiki/Livorno"
+                ],
+                [
+                    {
+                        "entity id": "Q6761",
+                        "label": "Livorno"
+                    }
+                ]
+            ],
+            [
+                "Tuscany",
+                [
+                    "/wiki/Tuscany"
+                ],
+                [
+                    {
+                        "entity id": "Q1273",
+                        "label": "Tuscany"
+                    }
+                ]
+            ],
+            [
+                "28,667",
+                []
+            ],
+            [
+                "5.4",
+                []
+            ]
+        ],
+        [
+            [
+                "Augusta",
+                [
+                    "/wiki/Augusta,_Sicily"
+                ],
+                [
+                    {
+                        "entity id": "Q194005",
+                        "label": "Augusta"
+                    }
+                ]
+            ],
+            [
+                "Sicily",
+                [
+                    "/wiki/Sicily"
+                ],
+                [
+                    {
+                        "entity id": "Q1460",
+                        "label": "Sicily"
+                    }
+                ]
+            ],
+            [
+                "26,849",
+                []
+            ],
+            [
+                "5.1",
+                []
+            ]
+        ],
+        [
+            [
+                "Porto Foxi",
+                []
+            ],
+            [
+                "Sardinia",
+                [
+                    "/wiki/Sardinia"
+                ],
+                [
+                    {
+                        "entity id": "Q1462",
+                        "label": "Sardinia"
+                    }
+                ]
+            ],
+            [
+                "26,407",
+                []
+            ],
+            [
+                "5.0",
+                []
+            ]
+        ],
+        [
+            [
+                "Santa Panagia",
+                []
+            ],
+            [
+                "Sicily",
+                [
+                    "/wiki/Sicily"
+                ],
+                [
+                    {
+                        "entity id": "Q1460",
+                        "label": "Sicily"
+                    }
+                ]
+            ],
+            [
+                "17,305",
+                []
+            ],
+            [
+                "3.3",
+                []
+            ]
+        ],
+        [
+            [
+                "La Spezia",
+                [
+                    "/wiki/La_Spezia"
+                ],
+                [
+                    {
+                        "entity id": "Q8611",
+                        "label": "La Spezia"
+                    }
+                ]
+            ],
+            [
+                "Liguria",
+                [
+                    "/wiki/Liguria"
+                ],
+                [
+                    {
+                        "entity id": "Q1256",
+                        "label": "Liguria"
+                    }
+                ]
+            ],
+            [
+                "17,014",
+                []
+            ],
+            [
+                "3.2",
+                []
+            ]
+        ],
+        [
+            [
+                "Savona - Vado",
+                [
+                    "/wiki/Savona",
+                    "/wiki/Vado_Ligure"
+                ],
+                [
+                    {
+                        "entity id": "Q13320",
+                        "label": "Savona"
+                    },
+                    {
+                        "entity id": "Q271350",
+                        "label": "Vado Ligure"
+                    }
+                ]
+            ],
+            [
+                "Liguria",
+                [
+                    "/wiki/Liguria"
+                ],
+                [
+                    {
+                        "entity id": "Q1256",
+                        "label": "Liguria"
+                    }
+                ]
+            ],
+            [
+                "16,370",
+                []
+            ],
+            [
+                "3.1",
+                []
+            ]
+        ],
+        [
+            [
+                "Milazzo",
+                [
+                    "/wiki/Milazzo"
+                ],
+                [
+                    {
+                        "entity id": "Q487929",
+                        "label": "Milazzo"
+                    }
+                ]
+            ],
+            [
+                "Sicily",
+                [
+                    "/wiki/Sicily"
+                ],
+                [
+                    {
+                        "entity id": "Q1460",
+                        "label": "Sicily"
+                    }
+                ]
+            ],
+            [
+                "15,405",
+                []
+            ],
+            [
+                "2.9",
+                []
+            ]
+        ],
+        [
+            [
+                "Olbia",
+                [
+                    "/wiki/Olbia"
+                ],
+                [
+                    {
+                        "entity id": "Q13630",
+                        "label": "Olbia"
+                    }
+                ]
+            ],
+            [
+                "Sardinia",
+                [
+                    "/wiki/Sardinia"
+                ],
+                [
+                    {
+                        "entity id": "Q1462",
+                        "label": "Sardinia"
+                    }
+                ]
+            ],
+            [
+                "12,875",
+                []
+            ],
+            [
+                "2.4",
+                []
+            ]
+        ],
+        [
+            [
+                "Brindisi",
+                [
+                    "/wiki/Brindisi"
+                ],
+                [
+                    {
+                        "entity id": "Q13496",
+                        "label": "Brindisi"
+                    }
+                ]
+            ],
+            [
+                "Apulia",
+                [
+                    "/wiki/Apulia"
+                ],
+                [
+                    {
+                        "entity id": "Q1447",
+                        "label": "Apulia"
+                    }
+                ]
+            ],
+            [
+                "10,767",
+                []
+            ],
+            [
+                "2.0",
+                []
+            ]
+        ],
+        [
+            [
+                "Other",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "129,851",
+                []
+            ],
+            [
+                "24.7",
+                []
+            ]
+        ],
+        [
+            [
+                "Italy",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "526,218",
+                []
+            ],
+            [
+                "100.0",
+                []
+            ]
+        ]
+    ],
+    "section_title": "",
+    "section_text": "",
+    "uid": "Transport_in_Italy_2",
+    "intro": "Italy has a well developed transport infrastructure. The Italian rail network is extensive, especially in the north, and it includes a high-speed rail network that joins the major cities of Italy from Naples through northern cities such as Milan and Turin. Italy has 2,507 people and 12.46 km2 per kilometer of rail track, giving Italy the world's 13th largest rail network. Italy's road network is also widespread, with a total length of about 487,700 km. It comprises both an extensive motorway network (6,400 km), mostly toll roads, and national and local roads. Because of its long seacoast, Italy also has many harbors for the transportation of both goods and passengers. Transport networks in Italy are integrated into the Trans-European Transport Networks."
+}

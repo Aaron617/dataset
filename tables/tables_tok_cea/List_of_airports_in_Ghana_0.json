@@ -1,0 +1,344 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_airports_in_Ghana",
+    "title": "List of airports in Ghana",
+    "header": [
+        [
+            "LOCATION",
+            []
+        ],
+        [
+            "ICAO",
+            [
+                "/wiki/ICAO_airport_code"
+            ],
+            [
+                {
+                    "entity id": "Q207529",
+                    "label": "ICAO airport code"
+                }
+            ]
+        ],
+        [
+            "IATA",
+            [
+                "/wiki/IATA_airport_code"
+            ],
+            [
+                {
+                    "entity id": "Q192824",
+                    "label": "IATA airport code"
+                }
+            ]
+        ],
+        [
+            "AIRPORT NAME",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Accra",
+                [
+                    "/wiki/Accra"
+                ],
+                [
+                    {
+                        "entity id": "Q3761",
+                        "label": "Accra"
+                    }
+                ]
+            ],
+            [
+                "DGAA",
+                []
+            ],
+            [
+                "ACC",
+                []
+            ],
+            [
+                "Kotoka International Airport",
+                [
+                    "/wiki/Kotoka_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q177689",
+                        "label": "Kotoka International Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Ho",
+                [
+                    "/wiki/Ho,_Ghana"
+                ],
+                [
+                    {
+                        "entity id": "Q615006",
+                        "label": "Ho"
+                    }
+                ]
+            ],
+            [
+                "DGAH",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Ho Airport",
+                [
+                    "/wiki/Ho_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q29017846",
+                        "label": "Ho Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kumasi",
+                [
+                    "/wiki/Kumasi"
+                ],
+                [
+                    {
+                        "entity id": "Q182059",
+                        "label": "Kumasi"
+                    }
+                ]
+            ],
+            [
+                "DGSI",
+                []
+            ],
+            [
+                "KMS",
+                []
+            ],
+            [
+                "Kumasi International Airport",
+                [
+                    "/wiki/Kumasi_International_Airport"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Paga",
+                [
+                    "/wiki/Paga"
+                ],
+                [
+                    {
+                        "entity id": "Q13095607",
+                        "label": "Paga"
+                    }
+                ]
+            ],
+            [
+                "DGLN",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Navrongo Airport",
+                [
+                    "/wiki/Navrongo_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3015261",
+                        "label": "Navrongo Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Sekondi-Takoradi",
+                [
+                    "/wiki/Sekondi-Takoradi"
+                ],
+                [
+                    {
+                        "entity id": "Q243293",
+                        "label": "Sekondi-Takoradi"
+                    }
+                ]
+            ],
+            [
+                "DGTK",
+                []
+            ],
+            [
+                "TKD",
+                []
+            ],
+            [
+                "Takoradi Airport",
+                [
+                    "/wiki/Takoradi_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2576085",
+                        "label": "Takoradi Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Sunyani",
+                [
+                    "/wiki/Sunyani"
+                ],
+                [
+                    {
+                        "entity id": "Q406037",
+                        "label": "Sunyani"
+                    }
+                ]
+            ],
+            [
+                "DGSN",
+                []
+            ],
+            [
+                "NYI",
+                []
+            ],
+            [
+                "Sunyani Airport",
+                [
+                    "/wiki/Sunyani_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q6768637",
+                        "label": "Sunyani Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Tamale",
+                [
+                    "/wiki/Tamale,_Ghana"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "DGLE",
+                []
+            ],
+            [
+                "TML",
+                []
+            ],
+            [
+                "Tamale Airport",
+                [
+                    "/wiki/Tamale_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2195432",
+                        "label": "Tamale Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Wa",
+                [
+                    "/wiki/Wa,_Ghana"
+                ],
+                [
+                    {
+                        "entity id": "Q250733",
+                        "label": "Wa"
+                    }
+                ]
+            ],
+            [
+                "DGLW",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Wa Airport",
+                [
+                    "/wiki/Wa_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1153024",
+                        "label": "Wa Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Yendi",
+                [
+                    "/wiki/Yendi"
+                ],
+                [
+                    {
+                        "entity id": "Q639066",
+                        "label": "Yendi"
+                    }
+                ]
+            ],
+            [
+                "DGLY",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Yendi Airport",
+                [
+                    "/wiki/Yendi_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q6768409",
+                        "label": "Yendi Airport"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "List",
+    "section_text": "",
+    "uid": "List_of_airports_in_Ghana_0",
+    "intro": "List of airports in Ghana, sorted by location."
+}

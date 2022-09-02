@@ -1,0 +1,677 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Timeline_of_programming_languages",
+    "title": "Timeline of programming languages",
+    "header": [
+        [
+            "Year",
+            []
+        ],
+        [
+            "Name",
+            []
+        ],
+        [
+            "Chief developer , company",
+            []
+        ],
+        [
+            "Predecessor ( s )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "2000",
+                []
+            ],
+            [
+                "Join Java",
+                [
+                    "/wiki/Join_Java"
+                ],
+                [
+                    {
+                        "entity id": "Q6268991",
+                        "label": "Join Java"
+                    }
+                ]
+            ],
+            [
+                "G Stewart von Itzstein",
+                []
+            ],
+            [
+                "Java",
+                []
+            ]
+        ],
+        [
+            [
+                "2000",
+                []
+            ],
+            [
+                "DarkBasic",
+                [
+                    "/wiki/DarkBASIC"
+                ],
+                [
+                    {
+                        "entity id": "Q278791",
+                        "label": "DarkBASIC"
+                    }
+                ]
+            ],
+            [
+                "The Game Creators",
+                [
+                    "/wiki/The_Game_Creators"
+                ],
+                [
+                    {
+                        "entity id": "Q4051095",
+                        "label": "The Game Creators"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "2000",
+                []
+            ],
+            [
+                "C #",
+                [
+                    "/wiki/C_Sharp_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Anders Hejlsberg , Microsoft ( ECMA )",
+                [
+                    "/wiki/Anders_Hejlsberg",
+                    "/wiki/Microsoft",
+                    "/wiki/Ecma_International"
+                ],
+                [
+                    {
+                        "entity id": "Q316544",
+                        "label": "Anders Hejlsberg"
+                    },
+                    {
+                        "entity id": "Q2283",
+                        "label": "Microsoft"
+                    },
+                    {
+                        "entity id": "Q837335",
+                        "label": "Ecma International"
+                    }
+                ]
+            ],
+            [
+                "C , C++ , Java , Delphi , Modula-2",
+                []
+            ]
+        ],
+        [
+            [
+                "2001",
+                []
+            ],
+            [
+                "Joy",
+                [
+                    "/wiki/Joy_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Manfred von Thun",
+                []
+            ],
+            [
+                "FP , Forth",
+                []
+            ]
+        ],
+        [
+            [
+                "2001",
+                []
+            ],
+            [
+                "AspectJ",
+                [
+                    "/wiki/AspectJ"
+                ],
+                [
+                    {
+                        "entity id": "Q735604",
+                        "label": "AspectJ"
+                    }
+                ]
+            ],
+            [
+                "Gregor Kiczales , Xerox PARC",
+                [
+                    "/wiki/Gregor_Kiczales",
+                    "/wiki/PARC_(company)"
+                ],
+                [
+                    {
+                        "entity id": "Q5606656",
+                        "label": "Gregor Kiczales"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "Java , Common Lisp",
+                []
+            ]
+        ],
+        [
+            [
+                "2001",
+                []
+            ],
+            [
+                "D",
+                [
+                    "/wiki/D_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Walter Bright , Digital Mars",
+                [
+                    "/wiki/Walter_Bright"
+                ],
+                [
+                    {
+                        "entity id": "Q2993645",
+                        "label": "Walter Bright"
+                    }
+                ]
+            ],
+            [
+                "C , C++ , C # , Java",
+                []
+            ]
+        ],
+        [
+            [
+                "2001",
+                []
+            ],
+            [
+                "Processing",
+                [
+                    "/wiki/Processing_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Casey Reas and Benjamin Fry",
+                [
+                    "/wiki/Casey_Reas",
+                    "/wiki/Benjamin_Fry"
+                ],
+                [
+                    {
+                        "entity id": "Q5006090",
+                        "label": "Casey Reas"
+                    },
+                    {
+                        "entity id": "Q4888685",
+                        "label": "Ben Fry"
+                    }
+                ]
+            ],
+            [
+                "Java , C , C++",
+                [
+                    "/wiki/Java_(programming_language)",
+                    "/wiki/C_(programming_language)",
+                    "/wiki/C++"
+                ],
+                [
+                    {},
+                    {},
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2001",
+                []
+            ],
+            [
+                "Visual Basic .NET",
+                [
+                    "/wiki/Visual_Basic_.NET"
+                ],
+                [
+                    {
+                        "entity id": "Q50077",
+                        "label": "Visual Basic .NET"
+                    }
+                ]
+            ],
+            [
+                "Microsoft",
+                [
+                    "/wiki/Microsoft"
+                ],
+                [
+                    {
+                        "entity id": "Q2283",
+                        "label": "Microsoft"
+                    }
+                ]
+            ],
+            [
+                "Visual Basic",
+                []
+            ]
+        ],
+        [
+            [
+                "2001",
+                []
+            ],
+            [
+                "GDScript ( GDS )",
+                [
+                    "/wiki/GDScript"
+                ],
+                [
+                    {
+                        "entity id": "Q28942599",
+                        "label": "GDScript"
+                    }
+                ]
+            ],
+            [
+                "OKAM Studio",
+                []
+            ],
+            [
+                "Godot",
+                [
+                    "/wiki/Godot_(game_engine)"
+                ],
+                [
+                    {
+                        "entity id": "Q16972633",
+                        "label": "Godot"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2001",
+                []
+            ],
+            [
+                "Shakespeare Programming Language",
+                [
+                    "/wiki/Shakespeare_Programming_Language"
+                ],
+                [
+                    {
+                        "entity id": "Q1140574",
+                        "label": "Shakespeare"
+                    }
+                ]
+            ],
+            [
+                "Jon \u00c5slund and Karl Hasselstr\u00f6m",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "2002",
+                []
+            ],
+            [
+                "Io",
+                [
+                    "/wiki/Io_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Steve Dekorte",
+                []
+            ],
+            [
+                "Self , NewtonScript , Lua",
+                []
+            ]
+        ],
+        [
+            [
+                "2002",
+                []
+            ],
+            [
+                "Gosu",
+                [
+                    "/wiki/Gosu_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Guidewire Software",
+                []
+            ],
+            [
+                "GScript",
+                []
+            ]
+        ],
+        [
+            [
+                "2002",
+                []
+            ],
+            [
+                "Scratch",
+                [
+                    "/wiki/Scratch_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Mitchel Resnick , John Maloney , Natalie Rusk , Evelyn Eastmond , Tammy Stern , Amon Millner , Jay Silver , and Brian Silverman",
+                [
+                    "/wiki/Mitchel_Resnick"
+                ],
+                [
+                    {
+                        "entity id": "Q650983",
+                        "label": "Mitchel Resnick"
+                    }
+                ]
+            ],
+            [
+                "Logo , Smalltalk , Squeak , E-Toys , HyperCard , AgentSheets , StarLogo , Tweak , BYOB",
+                [
+                    "/wiki/Logo_(programming_language)",
+                    "/wiki/Smalltalk",
+                    "/wiki/Squeak",
+                    "/wiki/Squeak",
+                    "/wiki/HyperCard",
+                    "/wiki/BYOB_(programming_language)"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q235086",
+                        "label": "Smalltalk"
+                    },
+                    {
+                        "entity id": "Q762464",
+                        "label": "Squeak"
+                    },
+                    {
+                        "entity id": "Q762464",
+                        "label": "Squeak"
+                    },
+                    {
+                        "entity id": "Q1053749",
+                        "label": "HyperCard"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "2003",
+                []
+            ],
+            [
+                "Nemerle",
+                [
+                    "/wiki/Nemerle"
+                ],
+                [
+                    {
+                        "entity id": "Q2626413",
+                        "label": "Nemerle"
+                    }
+                ]
+            ],
+            [
+                "University of Wroc\u0142aw",
+                [
+                    "/wiki/Wroc\u0142aw"
+                ],
+                [
+                    {
+                        "entity id": "Q1799",
+                        "label": "Wroc\u0142aw"
+                    }
+                ]
+            ],
+            [
+                "C # , ML , MetaHaskell",
+                [
+                    "/wiki/Standard_ML"
+                ],
+                [
+                    {
+                        "entity id": "Q597330",
+                        "label": "Standard ML"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2003",
+                []
+            ],
+            [
+                "Factor",
+                [
+                    "/wiki/Factor_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Slava Pestov",
+                [
+                    "/wiki/Slava_Pestov"
+                ],
+                [
+                    {
+                        "entity id": "Q4359939",
+                        "label": "Slava Pestov"
+                    }
+                ]
+            ],
+            [
+                "Joy , Forth , Lisp",
+                []
+            ]
+        ],
+        [
+            [
+                "2003",
+                []
+            ],
+            [
+                "Scala",
+                [
+                    "/wiki/Scala_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Martin Odersky",
+                [
+                    "/wiki/Martin_Odersky"
+                ],
+                [
+                    {
+                        "entity id": "Q847990",
+                        "label": "Martin Odersky"
+                    }
+                ]
+            ],
+            [
+                "Smalltalk , Java , Haskell , Standard ML , OCaml",
+                []
+            ]
+        ],
+        [
+            [
+                "2003",
+                []
+            ],
+            [
+                "C++03",
+                [
+                    "/wiki/C++03"
+                ],
+                [
+                    {
+                        "entity id": "Q5005847",
+                        "label": "C++03"
+                    }
+                ]
+            ],
+            [
+                "C++ ISO/IEC 14882:2003",
+                []
+            ],
+            [
+                "C++ , Standard C , C",
+                [
+                    "/wiki/C++",
+                    "/wiki/C_(programming_language)"
+                ],
+                [
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "2003",
+                []
+            ],
+            [
+                "Squirrel",
+                [
+                    "/wiki/Squirrel_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Alberto Demichelis",
+                []
+            ],
+            [
+                "Lua",
+                []
+            ]
+        ],
+        [
+            [
+                "2003",
+                []
+            ],
+            [
+                "Boo",
+                [
+                    "/wiki/Boo_(programming_language)"
+                ],
+                [
+                    {
+                        "entity id": "Q892948",
+                        "label": "Boo"
+                    }
+                ]
+            ],
+            [
+                "Rodrigo B. de Oliveira",
+                []
+            ],
+            [
+                "Python , C #",
+                []
+            ]
+        ],
+        [
+            [
+                "2004",
+                []
+            ],
+            [
+                "Subtext",
+                [
+                    "/wiki/Subtext_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Jonathan Edwards",
+                []
+            ],
+            [
+                "none ( unique language )",
+                []
+            ]
+        ]
+    ],
+    "section_title": "2000s",
+    "section_text": "",
+    "uid": "Timeline_of_programming_languages_6",
+    "intro": "This is a record of historically important programming languages, by decade."
+}

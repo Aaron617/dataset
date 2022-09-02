@@ -1,0 +1,384 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Provinces_of_Indonesia",
+    "title": "Provinces of Indonesia",
+    "header": [
+        [
+            "Province",
+            []
+        ],
+        [
+            "Capital",
+            []
+        ],
+        [
+            "Period",
+            []
+        ],
+        [
+            "Successor ( s )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Sumatra",
+                [
+                    "/wiki/Sumatra"
+                ],
+                [
+                    {
+                        "entity id": "Q3492",
+                        "label": "Sumatra"
+                    }
+                ]
+            ],
+            [
+                "Bukittinggi / Medan",
+                [
+                    "/wiki/Bukittinggi",
+                    "/wiki/Medan"
+                ],
+                [
+                    {
+                        "entity id": "Q7248",
+                        "label": "Bukittinggi"
+                    },
+                    {
+                        "entity id": "Q5972",
+                        "label": "Medan"
+                    }
+                ]
+            ],
+            [
+                "1945-1948",
+                []
+            ],
+            [
+                "Central Sumatra North Sumatra South Sumatra",
+                [
+                    "/wiki/North_Sumatra",
+                    "/wiki/South_Sumatra"
+                ],
+                [
+                    {
+                        "entity id": "Q2140",
+                        "label": "North Sumatra"
+                    },
+                    {
+                        "entity id": "Q2271",
+                        "label": "South Sumatra"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kalimantan",
+                [
+                    "/wiki/Kalimantan"
+                ],
+                [
+                    {
+                        "entity id": "Q3795",
+                        "label": "Kalimantan"
+                    }
+                ]
+            ],
+            [
+                "Banjarmasin",
+                [
+                    "/wiki/Banjarmasin"
+                ],
+                [
+                    {
+                        "entity id": "Q14182",
+                        "label": "Banjarmasin"
+                    }
+                ]
+            ],
+            [
+                "1945-1956",
+                []
+            ],
+            [
+                "East Kalimantan South Kalimantan West Kalimantan",
+                [
+                    "/wiki/East_Kalimantan",
+                    "/wiki/South_Kalimantan",
+                    "/wiki/West_Kalimantan"
+                ],
+                [
+                    {
+                        "entity id": "Q3899",
+                        "label": "East Kalimantan"
+                    },
+                    {
+                        "entity id": "Q3906",
+                        "label": "South Kalimantan"
+                    },
+                    {
+                        "entity id": "Q3916",
+                        "label": "West Kalimantan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Nusa Tenggara ( formerly Lesser Sunda ( Sunda Kecil ) )",
+                [
+                    "/wiki/Lesser_Sunda_Islands"
+                ],
+                [
+                    {
+                        "entity id": "Q3803",
+                        "label": "Lesser Sunda Islands"
+                    }
+                ]
+            ],
+            [
+                "Singaraja",
+                [
+                    "/wiki/Singaraja"
+                ],
+                [
+                    {
+                        "entity id": "Q1013537",
+                        "label": "Singaraja"
+                    }
+                ]
+            ],
+            [
+                "1945-1958",
+                []
+            ],
+            [
+                "Bali East Nusa Tenggara West Nusa Tenggara",
+                [
+                    "/wiki/Bali",
+                    "/wiki/East_Nusa_Tenggara",
+                    "/wiki/West_Nusa_Tenggara"
+                ],
+                [
+                    {
+                        "entity id": "Q3125978",
+                        "label": "Bali"
+                    },
+                    {
+                        "entity id": "Q5061",
+                        "label": "East Nusa Tenggara"
+                    },
+                    {
+                        "entity id": "Q5062",
+                        "label": "West Nusa Tenggara"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Sulawesi",
+                [
+                    "/wiki/Sulawesi"
+                ],
+                [
+                    {
+                        "entity id": "Q3812",
+                        "label": "Sulawesi"
+                    }
+                ]
+            ],
+            [
+                "Makassar / Manado",
+                [
+                    "/wiki/Makassar",
+                    "/wiki/Manado"
+                ],
+                [
+                    {
+                        "entity id": "Q14634",
+                        "label": "Makassar"
+                    },
+                    {
+                        "entity id": "Q15847",
+                        "label": "Manado"
+                    }
+                ]
+            ],
+            [
+                "1945-1960",
+                []
+            ],
+            [
+                "North-Central Sulawesi South-Southeast Sulawesi",
+                []
+            ]
+        ],
+        [
+            [
+                "Central Sumatra ( Sumatera Tengah )",
+                []
+            ],
+            [
+                "Bukittinggi",
+                [
+                    "/wiki/Bukittinggi"
+                ],
+                [
+                    {
+                        "entity id": "Q7248",
+                        "label": "Bukittinggi"
+                    }
+                ]
+            ],
+            [
+                "1948-1957",
+                []
+            ],
+            [
+                "Jambi Riau West Sumatra",
+                [
+                    "/wiki/Jambi",
+                    "/wiki/Riau",
+                    "/wiki/West_Sumatra"
+                ],
+                [
+                    {
+                        "entity id": "Q2051",
+                        "label": "Jambi"
+                    },
+                    {
+                        "entity id": "Q2175",
+                        "label": "Riau"
+                    },
+                    {
+                        "entity id": "Q2772",
+                        "label": "West Sumatra"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "North-Central Sulawesi ( Sulawesi Utara-Tengah )",
+                []
+            ],
+            [
+                "Manado",
+                [
+                    "/wiki/Manado"
+                ],
+                [
+                    {
+                        "entity id": "Q15847",
+                        "label": "Manado"
+                    }
+                ]
+            ],
+            [
+                "1960-1964",
+                []
+            ],
+            [
+                "North Sulawesi Central Sulawesi",
+                [
+                    "/wiki/North_Sulawesi",
+                    "/wiki/Central_Sulawesi"
+                ],
+                [
+                    {
+                        "entity id": "Q5068",
+                        "label": "North Sulawesi"
+                    },
+                    {
+                        "entity id": "Q5065",
+                        "label": "Central Sulawesi"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "South-Southeast Sulawesi ( Sulawesi Selatan-Tenggara )",
+                []
+            ],
+            [
+                "Makassar",
+                [
+                    "/wiki/Makassar"
+                ],
+                [
+                    {
+                        "entity id": "Q14634",
+                        "label": "Makassar"
+                    }
+                ]
+            ],
+            [
+                "1960-1964",
+                []
+            ],
+            [
+                "South Sulawesi Southeast Sulawesi",
+                [
+                    "/wiki/South_Sulawesi",
+                    "/wiki/Southeast_Sulawesi"
+                ],
+                [
+                    {
+                        "entity id": "Q5078",
+                        "label": "South Sulawesi"
+                    },
+                    {
+                        "entity id": "Q5075",
+                        "label": "Southeast Sulawesi"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "East Timor ( Timor Timur )",
+                [
+                    "/wiki/East_Timor_(province)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Dili",
+                [
+                    "/wiki/Dili"
+                ],
+                [
+                    {
+                        "entity id": "Q9310",
+                        "label": "Dili"
+                    }
+                ]
+            ],
+            [
+                "1976-1999",
+                []
+            ],
+            [
+                "Democratic Republic of Timor-Leste",
+                [
+                    "/wiki/East_Timor"
+                ],
+                [
+                    {
+                        "entity id": "Q574",
+                        "label": "East Timor"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Former provinces",
+    "section_text": "President Sukarno 's announcement showing the first eight provinces of Indonesia . Upon the independence of Indonesia , eight provinces were established : West Java , Central Java , East Java , and Maluku still exist as of today despite later divisions , while Sumatra , Kalimantan , Sulawesi , and Lesser Sunda were fully liquidated . The province of Central Sumatra existed from 1948 to 1957 , while East Timor was annexed as a province from 1976 until its power transfer to UNTAET in 1999 prior to its independence as a country in 2002 .",
+    "uid": "Provinces_of_Indonesia_1",
+    "intro": "The Provinces of Indonesia are the 34 largest subdivisions of the country and the highest tier of the local government (formerly called Daerah Tingkat I - level 1 region). Provinces are further divided into regencies and cities (formerly called Daerah Tingkat II - level 2 regions), which are in turn subdivided into districts (kecamatan)."
+}

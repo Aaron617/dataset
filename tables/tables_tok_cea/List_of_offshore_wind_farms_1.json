@@ -1,0 +1,360 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_offshore_wind_farms",
+    "title": "List of offshore wind farms",
+    "header": [
+        [
+            "Wind farm",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Capacity ( MW )",
+            [
+                "/wiki/Nameplate_capacity",
+                "/wiki/Megawatt"
+            ],
+            [
+                {
+                    "entity id": "Q200974",
+                    "label": "nameplate capacity"
+                },
+                {
+                    "entity id": "Q6982035",
+                    "label": "megawatt"
+                }
+            ]
+        ],
+        [
+            "Turbines & model",
+            []
+        ],
+        [
+            "Completion",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Greater Changhua",
+                []
+            ],
+            [
+                "Taiwan",
+                [
+                    "/wiki/Taiwan"
+                ],
+                [
+                    {
+                        "entity id": "Q865",
+                        "label": "Taiwan"
+                    }
+                ]
+            ],
+            [
+                "900",
+                []
+            ],
+            [
+                "111 x Siemens 8MW-167 DD",
+                []
+            ],
+            [
+                "2022",
+                []
+            ]
+        ],
+        [
+            [
+                "Triton Knoll",
+                [
+                    "/wiki/Triton_Knoll"
+                ],
+                [
+                    {
+                        "entity id": "Q7844328",
+                        "label": "Triton Knoll Wind Farm"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom",
+                [
+                    "/wiki/United_Kingdom"
+                ],
+                [
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    }
+                ]
+            ],
+            [
+                "855",
+                []
+            ],
+            [
+                "90 x MHI Vesta 9.5 MW",
+                []
+            ],
+            [
+                "2021 . First foundation installed on 22nd January 2020",
+                []
+            ]
+        ],
+        [
+            [
+                "Borssele 1 & 2",
+                []
+            ],
+            [
+                "Netherlands",
+                [
+                    "/wiki/Netherlands"
+                ],
+                [
+                    {
+                        "entity id": "Q55",
+                        "label": "Netherlands"
+                    }
+                ]
+            ],
+            [
+                "752",
+                []
+            ],
+            [
+                "94 x Siemens Gamesa 8MW",
+                []
+            ],
+            [
+                "2020",
+                []
+            ]
+        ],
+        [
+            [
+                "East Anglia ONE",
+                [
+                    "/wiki/East_Anglia_ONE"
+                ],
+                [
+                    {
+                        "entity id": "Q97967888",
+                        "label": "East Anglia One"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom",
+                [
+                    "/wiki/United_Kingdom"
+                ],
+                [
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    }
+                ]
+            ],
+            [
+                "714",
+                []
+            ],
+            [
+                "102 x Siemens SWT-7.0-154",
+                []
+            ],
+            [
+                "2020",
+                []
+            ]
+        ],
+        [
+            [
+                "Kriegers Flak",
+                [
+                    "/wiki/Kriegers_Flak_(wind_farm)"
+                ],
+                [
+                    {
+                        "entity id": "Q27825141",
+                        "label": "Kriegers Flak Offshore Wind Farm"
+                    }
+                ]
+            ],
+            [
+                "Denmark",
+                [
+                    "/wiki/Denmark"
+                ],
+                [
+                    {
+                        "entity id": "Q35",
+                        "label": "Denmark"
+                    }
+                ]
+            ],
+            [
+                "605",
+                []
+            ],
+            [
+                "72 x Siemens SG 8.4MW",
+                []
+            ],
+            [
+                "2021",
+                []
+            ]
+        ],
+        [
+            [
+                "CGN Yangjiang Nanpeng Island",
+                []
+            ],
+            [
+                "China",
+                [
+                    "/wiki/China"
+                ],
+                [
+                    {
+                        "entity id": "Q148",
+                        "label": "People's Republic of China"
+                    }
+                ]
+            ],
+            [
+                "400",
+                []
+            ],
+            [
+                "75 x Mingyang MY-5.5 MW",
+                [
+                    "/wiki/Mingyang_Wind_Power"
+                ],
+                [
+                    {
+                        "entity id": "Q6864857",
+                        "label": "Mingyang Wind Power"
+                    }
+                ]
+            ],
+            [
+                "2020",
+                []
+            ]
+        ],
+        [
+            [
+                "Formosa II",
+                []
+            ],
+            [
+                "Taiwan",
+                [
+                    "/wiki/Taiwan"
+                ],
+                [
+                    {
+                        "entity id": "Q865",
+                        "label": "Taiwan"
+                    }
+                ]
+            ],
+            [
+                "376",
+                []
+            ],
+            [
+                "47 \u00d7 Siemens 8MW-167 DD",
+                []
+            ],
+            [
+                "2020",
+                []
+            ]
+        ],
+        [
+            [
+                "Datang Jiangsu Binhai",
+                []
+            ],
+            [
+                "China",
+                [
+                    "/wiki/China"
+                ],
+                [
+                    {
+                        "entity id": "Q148",
+                        "label": "People's Republic of China"
+                    }
+                ]
+            ],
+            [
+                "316.5",
+                []
+            ],
+            [
+                "1 x Mingyang SCD 3 MW 50 x Goldwind GW-140/3300 45 x Sinovel SL3300/128",
+                [
+                    "/wiki/Goldwind",
+                    "/wiki/Sinovel"
+                ],
+                [
+                    {
+                        "entity id": "Q1090900",
+                        "label": "Goldwind"
+                    },
+                    {
+                        "entity id": "Q2504145",
+                        "label": "Sinovel"
+                    }
+                ]
+            ],
+            [
+                "2020",
+                []
+            ]
+        ],
+        [
+            [
+                "Laoting Bodhi Island",
+                []
+            ],
+            [
+                "China",
+                [
+                    "/wiki/China"
+                ],
+                [
+                    {
+                        "entity id": "Q148",
+                        "label": "People's Republic of China"
+                    }
+                ]
+            ],
+            [
+                "300",
+                []
+            ],
+            [
+                "75 x Siemens SWT-4.0-130",
+                []
+            ],
+            [
+                "2020",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Largest under construction",
+    "section_text": "This is a list of wind farms with a nameplate capacity of more than 300MW currently under construction .",
+    "uid": "List_of_offshore_wind_farms_1",
+    "intro": "This page lists the largest offshore wind farms that are currently operational rated by nameplate capacity. It also lists the largest offshore wind farms currently under construction, the largest proposed offshore wind farms, and offshore wind farms with notability other than size. As of January 2020 the Hornsea 1 in the United Kingdom is the largest offshore wind farm in the world at 1,218 MW."
+}

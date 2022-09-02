@@ -1,0 +1,385 @@
+{
+    "url": "https://en.wikipedia.org/wiki/MBO_Cinemas",
+    "title": "MBO Cinemas",
+    "header": [
+        [
+            "Cinema",
+            []
+        ],
+        [
+            "Total Halls",
+            []
+        ],
+        [
+            "Seats",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "State",
+            []
+        ],
+        [
+            "Remarks",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Era Square Mall",
+                [
+                    "/wiki/Era_Square"
+                ],
+                [
+                    {
+                        "entity id": "Q5384788",
+                        "label": "Era Square"
+                    }
+                ]
+            ],
+            [
+                "10",
+                []
+            ],
+            [
+                "1,456",
+                []
+            ],
+            [
+                "Seremban",
+                [
+                    "/wiki/Seremban"
+                ],
+                [
+                    {
+                        "entity id": "Q847610",
+                        "label": "Seremban"
+                    }
+                ]
+            ],
+            [
+                "Negeri Sembilan",
+                [
+                    "/wiki/Negeri_Sembilan"
+                ],
+                [
+                    {
+                        "entity id": "Q213893",
+                        "label": "Negeri Sembilan"
+                    }
+                ]
+            ],
+            [
+                "Located on Level 3",
+                []
+            ]
+        ],
+        [
+            [
+                "Melaka Mall",
+                []
+            ],
+            [
+                "7",
+                []
+            ],
+            [
+                "1,212",
+                []
+            ],
+            [
+                "Ayer Keroh",
+                [
+                    "/wiki/Ayer_Keroh"
+                ],
+                [
+                    {
+                        "entity id": "Q2802663",
+                        "label": "Ayer Keroh"
+                    }
+                ]
+            ],
+            [
+                "Melaka",
+                [
+                    "/wiki/Melaka"
+                ],
+                [
+                    {
+                        "entity id": "Q185221",
+                        "label": "Melaka"
+                    }
+                ]
+            ],
+            [
+                "Located on Level 2",
+                []
+            ]
+        ],
+        [
+            [
+                "Square One Shopping Centre",
+                []
+            ],
+            [
+                "8",
+                []
+            ],
+            [
+                "1,217",
+                []
+            ],
+            [
+                "Batu Pahat",
+                [
+                    "/wiki/Batu_Pahat"
+                ],
+                [
+                    {
+                        "entity id": "Q2891912",
+                        "label": "Batu Pahat"
+                    }
+                ]
+            ],
+            [
+                "Johor",
+                [
+                    "/wiki/Johor"
+                ],
+                [
+                    {
+                        "entity id": "Q183032",
+                        "label": "Johor"
+                    }
+                ]
+            ],
+            [
+                "Located on Level 3 . Recently renovated with new look",
+                []
+            ]
+        ],
+        [
+            [
+                "U Mall",
+                []
+            ],
+            [
+                "5",
+                []
+            ],
+            [
+                "606",
+                []
+            ],
+            [
+                "Skudai , Johor Bahru",
+                [
+                    "/wiki/Skudai",
+                    "/wiki/Johor_Bahru"
+                ],
+                [
+                    {
+                        "entity id": "Q5254191",
+                        "label": "Skudai"
+                    },
+                    {
+                        "entity id": "Q231318",
+                        "label": "Johor Bahru"
+                    }
+                ]
+            ],
+            [
+                "Johor",
+                [
+                    "/wiki/Johor"
+                ],
+                [
+                    {
+                        "entity id": "Q183032",
+                        "label": "Johor"
+                    }
+                ]
+            ],
+            [
+                "Located on Level 1",
+                []
+            ]
+        ],
+        [
+            [
+                "Heritage Mall",
+                []
+            ],
+            [
+                "7",
+                []
+            ],
+            [
+                "1,036",
+                []
+            ],
+            [
+                "Kota Tinggi",
+                [
+                    "/wiki/Kota_Tinggi"
+                ],
+                [
+                    {
+                        "entity id": "Q935184",
+                        "label": "Kota Tinggi"
+                    }
+                ]
+            ],
+            [
+                "Johor",
+                [
+                    "/wiki/Johor"
+                ],
+                [
+                    {
+                        "entity id": "Q183032",
+                        "label": "Johor"
+                    }
+                ]
+            ],
+            [
+                "Located on Level 2",
+                []
+            ]
+        ],
+        [
+            [
+                "Kluang Mall",
+                []
+            ],
+            [
+                "6",
+                []
+            ],
+            [
+                "1,067",
+                []
+            ],
+            [
+                "Kluang",
+                [
+                    "/wiki/Kluang"
+                ],
+                [
+                    {
+                        "entity id": "Q1200738",
+                        "label": "Kluang"
+                    }
+                ]
+            ],
+            [
+                "Johor",
+                [
+                    "/wiki/Johor"
+                ],
+                [
+                    {
+                        "entity id": "Q183032",
+                        "label": "Johor"
+                    }
+                ]
+            ],
+            [
+                "Located on Level 2",
+                []
+            ]
+        ],
+        [
+            [
+                "Elements Mall",
+                []
+            ],
+            [
+                "10",
+                []
+            ],
+            [
+                "1,584",
+                []
+            ],
+            [
+                "Bandar Hilir",
+                [
+                    "/wiki/Bandar_Hilir"
+                ],
+                [
+                    {
+                        "entity id": "Q65083563",
+                        "label": "Bandar Hilir"
+                    }
+                ]
+            ],
+            [
+                "Melaka",
+                [
+                    "/wiki/Melaka"
+                ],
+                [
+                    {
+                        "entity id": "Q185221",
+                        "label": "Melaka"
+                    }
+                ]
+            ],
+            [
+                "Located on Level 11 features BIG SCREEN",
+                []
+            ]
+        ],
+        [
+            [
+                "AEON Mall Bandar Dato ' Onn",
+                []
+            ],
+            [
+                "5",
+                []
+            ],
+            [
+                "663",
+                []
+            ],
+            [
+                "Bandar Dato ' Onn",
+                [
+                    "/wiki/Bandar_Dato'_Onn"
+                ],
+                [
+                    {
+                        "entity id": "Q4854398",
+                        "label": "Bandar Dato' Onn"
+                    }
+                ]
+            ],
+            [
+                "Johor",
+                [
+                    "/wiki/Johor"
+                ],
+                [
+                    {
+                        "entity id": "Q183032",
+                        "label": "Johor"
+                    }
+                ]
+            ],
+            [
+                "Located on Level 2 features BIG SCREEN , MX4D and KECIL",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Cinemas -- Southern Region",
+    "section_text": "",
+    "uid": "MBO_Cinemas_2",
+    "intro": "MCAT Box Office Sdn Bhd (trading as MBO Cinemas) is a chain of cinemas in Malaysia. It is the third largest cinema chain in the country after Golden Screen Cinemas and TGV Cinemas."
+}

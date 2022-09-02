@@ -1,0 +1,666 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Timeline_of_programming_languages",
+    "title": "Timeline of programming languages",
+    "header": [
+        [
+            "Year",
+            []
+        ],
+        [
+            "Name",
+            []
+        ],
+        [
+            "Chief developer , company",
+            []
+        ],
+        [
+            "Predecessor ( s )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1990",
+                []
+            ],
+            [
+                "Sather",
+                [
+                    "/wiki/Sather"
+                ],
+                [
+                    {
+                        "entity id": "Q151242",
+                        "label": "3292 Sather"
+                    }
+                ]
+            ],
+            [
+                "Steve Omohundro",
+                [
+                    "/wiki/Steve_Omohundro"
+                ],
+                [
+                    {
+                        "entity id": "Q7613510",
+                        "label": "Steve Omohundro"
+                    }
+                ]
+            ],
+            [
+                "Eiffel",
+                [
+                    "/wiki/Eiffel_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "1990",
+                []
+            ],
+            [
+                "AMOS BASIC",
+                [
+                    "/wiki/AMOS_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Fran\u00e7ois Lionet and Constantin Sotiropoulos",
+                [
+                    "/wiki/Fran\u00e7ois_Lionet",
+                    "/wiki/Constantin_Sotiropoulos"
+                ],
+                [
+                    {
+                        "entity id": "Q5493329",
+                        "label": "Fran\u00e7ois Lionet"
+                    },
+                    {
+                        "entity id": "Q5163763",
+                        "label": "Constantin Sotiropoulos"
+                    }
+                ]
+            ],
+            [
+                "STOS BASIC",
+                [
+                    "/wiki/STOS_BASIC"
+                ],
+                [
+                    {
+                        "entity id": "Q1169476",
+                        "label": "STOS BASIC"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1990",
+                []
+            ],
+            [
+                "AMPL",
+                [
+                    "/wiki/AMPL"
+                ],
+                [
+                    {
+                        "entity id": "Q295250",
+                        "label": "AMPL"
+                    }
+                ]
+            ],
+            [
+                "Robert Fourer , David Gay and Brian Kernighan at Bell Laboratories",
+                [
+                    "/wiki/Robert_Fourer",
+                    "/wiki/Brian_Kernighan",
+                    "/wiki/Bell_Laboratories"
+                ],
+                [
+                    {
+                        "entity id": "Q7344463",
+                        "label": "Robert Fourer"
+                    },
+                    {
+                        "entity id": "Q92608",
+                        "label": "Brian Kernighan"
+                    },
+                    {
+                        "entity id": "Q217365",
+                        "label": "Bell Labs"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "1990",
+                []
+            ],
+            [
+                "Object Oberon",
+                [
+                    "/wiki/Object_Oberon"
+                ],
+                [
+                    {
+                        "entity id": "Q7075040",
+                        "label": "Object Oberon"
+                    }
+                ]
+            ],
+            [
+                "H M\u00f6ssenb\u00f6ck , J Templ , R Griesemer",
+                []
+            ],
+            [
+                "Oberon",
+                []
+            ]
+        ],
+        [
+            [
+                "1990",
+                []
+            ],
+            [
+                "J",
+                [
+                    "/wiki/J_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Kenneth E. Iverson , Roger Hui at Iverson Software",
+                [
+                    "/wiki/Kenneth_E._Iverson",
+                    "/wiki/Roger_Hui"
+                ],
+                [
+                    {
+                        "entity id": "Q92629",
+                        "label": "Kenneth E. Iverson"
+                    },
+                    {
+                        "entity id": "Q7358366",
+                        "label": "Roger Hui"
+                    }
+                ]
+            ],
+            [
+                "APL , FP",
+                []
+            ]
+        ],
+        [
+            [
+                "1990",
+                []
+            ],
+            [
+                "Haskell",
+                [
+                    "/wiki/Haskell_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Miranda",
+                []
+            ]
+        ],
+        [
+            [
+                "1990",
+                []
+            ],
+            [
+                "EuLisp",
+                [
+                    "/wiki/EuLisp"
+                ],
+                [
+                    {
+                        "entity id": "Q5405195",
+                        "label": "EuLisp"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Common Lisp , Scheme",
+                [
+                    "/wiki/Common_Lisp"
+                ],
+                [
+                    {
+                        "entity id": "Q849146",
+                        "label": "Common Lisp"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1990",
+                []
+            ],
+            [
+                "Z Shell ( zsh )",
+                [
+                    "/wiki/Z_shell"
+                ],
+                [
+                    {
+                        "entity id": "Q227308",
+                        "label": "Z shell"
+                    }
+                ]
+            ],
+            [
+                "Paul Falstad at Princeton University",
+                [
+                    "/wiki/Princeton_University"
+                ],
+                [
+                    {
+                        "entity id": "Q21578",
+                        "label": "Princeton University"
+                    }
+                ]
+            ],
+            [
+                "ksh",
+                []
+            ]
+        ],
+        [
+            [
+                "1991",
+                []
+            ],
+            [
+                "GNU E",
+                [
+                    "/wiki/GNU_E"
+                ],
+                [
+                    {
+                        "entity id": "Q5514022",
+                        "label": "GNU E"
+                    }
+                ]
+            ],
+            [
+                "David J. DeWitt , Michael J. Carey",
+                []
+            ],
+            [
+                "C++",
+                [
+                    "/wiki/C++"
+                ],
+                [
+                    {
+                        "entity id": "Q2407",
+                        "label": "C++"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1991",
+                []
+            ],
+            [
+                "Oberon-2",
+                [
+                    "/wiki/Oberon-2_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Hanspeter M\u00f6ssenb\u00f6ck , Wirth",
+                [
+                    "/wiki/Niklaus_Wirth"
+                ],
+                [
+                    {
+                        "entity id": "Q92604",
+                        "label": "Niklaus Wirth"
+                    }
+                ]
+            ],
+            [
+                "Object Oberon",
+                []
+            ]
+        ],
+        [
+            [
+                "1991",
+                []
+            ],
+            [
+                "Oz",
+                [
+                    "/wiki/Oz_(programming_language)"
+                ],
+                [
+                    {
+                        "entity id": "Q1208217",
+                        "label": "Oz"
+                    }
+                ]
+            ],
+            [
+                "Gert Smolka and his students",
+                []
+            ],
+            [
+                "Prolog",
+                []
+            ]
+        ],
+        [
+            [
+                "1991",
+                []
+            ],
+            [
+                "Q",
+                [
+                    "/wiki/Pure_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Albert Gr\u00e4f",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "1991",
+                []
+            ],
+            [
+                "Visual Basic",
+                [
+                    "/wiki/Visual_Basic"
+                ],
+                [
+                    {
+                        "entity id": "Q2378",
+                        "label": "Visual Basic"
+                    }
+                ]
+            ],
+            [
+                "Alan Cooper , sold to Microsoft",
+                [
+                    "/wiki/Alan_Cooper",
+                    "/wiki/Microsoft"
+                ],
+                [
+                    {
+                        "entity id": "Q18763976",
+                        "label": "Alan J. Cooper"
+                    },
+                    {
+                        "entity id": "Q2283",
+                        "label": "Microsoft"
+                    }
+                ]
+            ],
+            [
+                "QuickBASIC",
+                []
+            ]
+        ],
+        [
+            [
+                "1992",
+                []
+            ],
+            [
+                "Borland Pascal",
+                [
+                    "/wiki/Turbo_Pascal"
+                ],
+                [
+                    {
+                        "entity id": "Q473201",
+                        "label": "Turbo Pascal"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Turbo Pascal OOP",
+                []
+            ]
+        ],
+        [
+            [
+                "1992",
+                []
+            ],
+            [
+                "Dylan",
+                [
+                    "/wiki/Dylan_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "many people at Apple Computer Inc",
+                [
+                    "/wiki/Apple_Inc."
+                ],
+                [
+                    {
+                        "entity id": "Q312",
+                        "label": "Apple Inc."
+                    }
+                ]
+            ],
+            [
+                "Common Lisp , Scheme",
+                [
+                    "/wiki/Common_Lisp"
+                ],
+                [
+                    {
+                        "entity id": "Q849146",
+                        "label": "Common Lisp"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1992",
+                []
+            ],
+            [
+                "S-Lang",
+                [
+                    "/wiki/S-Lang"
+                ],
+                [
+                    {
+                        "entity id": "Q2204463",
+                        "label": "S-Lang"
+                    }
+                ]
+            ],
+            [
+                "John E. Davis",
+                []
+            ],
+            [
+                "PostScript",
+                [
+                    "/wiki/PostScript"
+                ],
+                [
+                    {
+                        "entity id": "Q218170",
+                        "label": "PostScript"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "1993 ?",
+                []
+            ],
+            [
+                "Self ( implementation )",
+                [
+                    "/wiki/Self_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Sun Microsystems Inc",
+                [
+                    "/wiki/Sun_Microsystems"
+                ],
+                [
+                    {
+                        "entity id": "Q14647",
+                        "label": "Sun Microsystems"
+                    }
+                ]
+            ],
+            [
+                "Smalltalk",
+                []
+            ]
+        ],
+        [
+            [
+                "1993",
+                []
+            ],
+            [
+                "Amiga E",
+                [
+                    "/wiki/Amiga_E"
+                ],
+                [
+                    {
+                        "entity id": "Q471181",
+                        "label": "Amiga E"
+                    }
+                ]
+            ],
+            [
+                "Wouter van Oortmerssen",
+                []
+            ],
+            [
+                "DEX , C , Modula-2",
+                []
+            ]
+        ],
+        [
+            [
+                "1993",
+                []
+            ],
+            [
+                "Brainfuck",
+                [
+                    "/wiki/Brainfuck"
+                ],
+                [
+                    {
+                        "entity id": "Q244627",
+                        "label": "Brainfuck"
+                    }
+                ]
+            ],
+            [
+                "Urban M\u00fcller",
+                []
+            ],
+            [
+                "P\u2032\u2032",
+                []
+            ]
+        ],
+        [
+            [
+                "1993",
+                []
+            ],
+            [
+                "LiveCode Transcript",
+                [
+                    "/wiki/Transcript_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "HyperTalk",
+                []
+            ]
+        ]
+    ],
+    "section_title": "1990s",
+    "section_text": "",
+    "uid": "Timeline_of_programming_languages_5",
+    "intro": "This is a record of historically important programming languages, by decade."
+}

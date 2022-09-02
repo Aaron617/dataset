@@ -1,0 +1,1049 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Monarch",
+    "title": "Monarch",
+    "header": [
+        [
+            "Male version",
+            [
+                "/wiki/Male"
+            ],
+            [
+                {
+                    "entity id": "Q6581097",
+                    "label": "male"
+                }
+            ]
+        ],
+        [
+            "Female version",
+            [
+                "/wiki/Female"
+            ],
+            [
+                {
+                    "entity id": "Q43445",
+                    "label": "female organism"
+                }
+            ]
+        ],
+        [
+            "Realm",
+            [
+                "/wiki/Realm"
+            ],
+            [
+                {
+                    "entity id": "Q1250464",
+                    "label": "realm"
+                }
+            ]
+        ],
+        [
+            "Notes and examples",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Caliph",
+                [
+                    "/wiki/Caliph"
+                ],
+                [
+                    {
+                        "entity id": "Q65997",
+                        "label": "caliph"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Caliphate",
+                [
+                    "/wiki/Caliphate"
+                ],
+                [
+                    {
+                        "entity id": "Q131401",
+                        "label": "caliphate"
+                    }
+                ]
+            ],
+            [
+                "Used throughout the Muslim world . Equivalent to Emperor . There are no current recognised caliphates . Historical examples : Rashidun Caliphate , Umayyad Caliphate , Caliphate of C\u00f3rdoba , Abbasid Caliphate , Ottoman Caliphate",
+                [
+                    "/wiki/Muslim_world",
+                    "/wiki/Rashidun_Caliphate",
+                    "/wiki/Umayyad_Caliphate",
+                    "/wiki/Caliphate_of_C\u00f3rdoba",
+                    "/wiki/Abbasid_Caliphate",
+                    "/wiki/Ottoman_Caliphate"
+                ],
+                [
+                    {
+                        "entity id": "Q779924",
+                        "label": "Muslim world"
+                    },
+                    {
+                        "entity id": "Q12490507",
+                        "label": "Rashidun Caliphate"
+                    },
+                    {
+                        "entity id": "Q8575586",
+                        "label": "Umayyad Caliphate"
+                    },
+                    {
+                        "entity id": "Q171740",
+                        "label": "Caliphate of C\u00f3rdoba"
+                    },
+                    {
+                        "entity id": "Q12536",
+                        "label": "Abbasid Caliphate"
+                    },
+                    {
+                        "entity id": "Q2034358",
+                        "label": "Ottoman Caliphate"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Sultan",
+                [
+                    "/wiki/Sultan"
+                ],
+                [
+                    {
+                        "entity id": "Q43292",
+                        "label": "Sultan"
+                    }
+                ]
+            ],
+            [
+                "Sultana",
+                [
+                    "/wiki/Sultana_(title)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Sultanate",
+                [
+                    "/wiki/Sultanate"
+                ],
+                [
+                    {
+                        "entity id": "Q12759805",
+                        "label": "sultanate"
+                    }
+                ]
+            ],
+            [
+                "Used throughout the Muslim world . Equivalent to King . The use of sultan is restricted to Muslim countries , where the title carries religious significance , contrasting the more secular malik , which is used in both Muslim and non-Muslim countries . Current examples : Brunei , Oman , states of Malaysia . Historical examples : Seljuk Sultanate , Delhi Sultanate , Sultanate of Malacca , Warsangali Sultanate",
+                [
+                    "/wiki/Muslim_world",
+                    "/wiki/Brunei",
+                    "/wiki/Oman",
+                    "/wiki/Monarchies_of_Malaysia",
+                    "/wiki/Seljuk_Empire",
+                    "/wiki/Delhi_Sultanate",
+                    "/wiki/Sultanate_of_Malacca"
+                ],
+                [
+                    {
+                        "entity id": "Q779924",
+                        "label": "Muslim world"
+                    },
+                    {
+                        "entity id": "Q921",
+                        "label": "Brunei"
+                    },
+                    {
+                        "entity id": "Q842",
+                        "label": "Oman"
+                    },
+                    {
+                        "entity id": "Q2658454",
+                        "label": "Monarchies of Malaysia"
+                    },
+                    {
+                        "entity id": "Q3708094",
+                        "label": "Seljuk Empire"
+                    },
+                    {
+                        "entity id": "Q229411",
+                        "label": "Delhi Sultanate"
+                    },
+                    {
+                        "entity id": "Q46652",
+                        "label": "Malacca sultanate"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Malik",
+                [
+                    "/wiki/Malik"
+                ],
+                [
+                    {
+                        "entity id": "Q734855",
+                        "label": "Malik"
+                    }
+                ]
+            ],
+            [
+                "Malikah/Malekeh",
+                []
+            ],
+            [
+                "Mamlaka",
+                []
+            ],
+            [
+                "Used throughout the Muslim world . Equivalent to King . In recent years , sultan has been gradually replaced by king by contemporary hereditary rulers who wish to emphasize their secular authority under the rule of law . A notable example is Morocco , whose monarch changed his title from sultan to king in 1957 . Current examples : Bahrain , Jordan , Morocco . Also used by tribal leaders among the Pashtun people . Historical examples : Malik al-'Iraq ( King of Iraq ) , Malik al-Mamlaka al-Mutawakkiliyya al-Yamaniyya ( King of the Mutawakkilite Yemeni Kingdom )",
+                [
+                    "/wiki/Muslim_world",
+                    "/wiki/Bahrain",
+                    "/wiki/Jordan",
+                    "/wiki/Morocco",
+                    "/wiki/Pashtun_people",
+                    "/wiki/List_of_Kings_of_Iraq",
+                    "/wiki/List_of_Kings_of_Yemen"
+                ],
+                [
+                    {
+                        "entity id": "Q779924",
+                        "label": "Muslim world"
+                    },
+                    {
+                        "entity id": "Q398",
+                        "label": "Bahrain"
+                    },
+                    {
+                        "entity id": "Q810",
+                        "label": "Jordan"
+                    },
+                    {
+                        "entity id": "Q1028",
+                        "label": "Morocco"
+                    },
+                    {},
+                    {
+                        "entity id": "Q2284551",
+                        "label": "list of kings of Iraq"
+                    },
+                    {
+                        "entity id": "Q96048225",
+                        "label": "List of Kings of Yemen"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Khedive",
+                [
+                    "/wiki/Khedive"
+                ],
+                [
+                    {
+                        "entity id": "Q127878",
+                        "label": "Khedive"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Khedivate",
+                []
+            ],
+            [
+                "Largely equivalent to Viceroy in the Ottoman Empire . Examples : Khedivate of Egypt",
+                [
+                    "/wiki/Viceroy",
+                    "/wiki/Ottoman_Empire",
+                    "/wiki/Khedivate_of_Egypt"
+                ],
+                [
+                    {
+                        "entity id": "Q244741",
+                        "label": "viceroy"
+                    },
+                    {
+                        "entity id": "Q12560",
+                        "label": "Ottoman Empire"
+                    },
+                    {
+                        "entity id": "Q127861",
+                        "label": "Khedivate of Egypt"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Emir",
+                [
+                    "/wiki/Emir"
+                ],
+                [
+                    {
+                        "entity id": "Q166382",
+                        "label": "emir"
+                    }
+                ]
+            ],
+            [
+                "Emira",
+                [
+                    "/wiki/Emir"
+                ],
+                [
+                    {
+                        "entity id": "Q166382",
+                        "label": "emir"
+                    }
+                ]
+            ],
+            [
+                "Emirate",
+                [
+                    "/wiki/Emirate"
+                ],
+                [
+                    {
+                        "entity id": "Q189898",
+                        "label": "emirate"
+                    }
+                ]
+            ],
+            [
+                "Used throughout the Muslim world . Roughly equivalent to Prince . Current examples : constituent emirates of the United Arab Emirates , Kuwait , Qatar . Historical examples : Emirate of Crete , Emirate of C\u00f3rdoba , Emirate of Afghanistan",
+                [
+                    "/wiki/Muslim_world",
+                    "/wiki/United_Arab_Emirates",
+                    "/wiki/Kuwait",
+                    "/wiki/Qatar",
+                    "/wiki/Emirate_of_Crete",
+                    "/wiki/Emirate_of_C\u00f3rdoba",
+                    "/wiki/Emirate_of_Afghanistan"
+                ],
+                [
+                    {
+                        "entity id": "Q779924",
+                        "label": "Muslim world"
+                    },
+                    {
+                        "entity id": "Q878",
+                        "label": "United Arab Emirates"
+                    },
+                    {
+                        "entity id": "Q817",
+                        "label": "Kuwait"
+                    },
+                    {
+                        "entity id": "Q846",
+                        "label": "Qatar"
+                    },
+                    {
+                        "entity id": "Q603771",
+                        "label": "Emirate of Crete"
+                    },
+                    {
+                        "entity id": "Q1337854",
+                        "label": "emirate of C\u00f3rdoba"
+                    },
+                    {
+                        "entity id": "Q1335260",
+                        "label": "Emirate of Afghanistan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Samraat",
+                [
+                    "/wiki/Samraat"
+                ],
+                [
+                    {
+                        "entity id": "Q7410272",
+                        "label": "Samraat"
+                    }
+                ]
+            ],
+            [
+                "Samr\u00e3j\u00f1\u012b",
+                [
+                    "/wiki/Samraat"
+                ],
+                [
+                    {
+                        "entity id": "Q7410272",
+                        "label": "Samraat"
+                    }
+                ]
+            ],
+            [
+                "Samrajya",
+                []
+            ],
+            [
+                "Ancient Indian title sometimes translated into modern English as Emperor",
+                [
+                    "/wiki/Ancient_India"
+                ],
+                [
+                    {
+                        "entity id": "Q3149991",
+                        "label": "Ancient India"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Chhatrapati",
+                [
+                    "/wiki/Chhatrapati"
+                ],
+                [
+                    {
+                        "entity id": "Q2963206",
+                        "label": "Chhatrapati"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Indian royal title most equivalent to Emperor",
+                [
+                    "/wiki/India"
+                ],
+                [
+                    {
+                        "entity id": "Q668",
+                        "label": "India"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Maharaja",
+                [
+                    "/wiki/Maharaja"
+                ],
+                [
+                    {
+                        "entity id": "Q1163330",
+                        "label": "Maharaja"
+                    }
+                ]
+            ],
+            [
+                "Maharani",
+                [
+                    "/wiki/Maharani"
+                ],
+                [
+                    {
+                        "entity id": "Q15264045",
+                        "label": "Empress Regnant"
+                    }
+                ]
+            ],
+            [
+                "Princely state",
+                []
+            ],
+            [
+                "Used historically princely states in South Asia . A high king above a Raja",
+                [
+                    "/wiki/Princely_state",
+                    "/wiki/South_Asia",
+                    "/wiki/High_king",
+                    "/wiki/Raja"
+                ],
+                [
+                    {
+                        "entity id": "Q1336152",
+                        "label": "princely state"
+                    },
+                    {
+                        "entity id": "Q771405",
+                        "label": "South Asia"
+                    },
+                    {
+                        "entity id": "Q618235",
+                        "label": "High-King"
+                    },
+                    {
+                        "entity id": "Q2720141",
+                        "label": "Ilaiyaraaja"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Raja",
+                [
+                    "/wiki/Raja"
+                ],
+                [
+                    {
+                        "entity id": "Q2720141",
+                        "label": "Ilaiyaraaja"
+                    }
+                ]
+            ],
+            [
+                "Rani",
+                [
+                    "/wiki/Raja"
+                ],
+                [
+                    {
+                        "entity id": "Q2720141",
+                        "label": "Ilaiyaraaja"
+                    }
+                ]
+            ],
+            [
+                "Raj",
+                []
+            ],
+            [
+                "Used historically in princely states in South Asia and pre-colonial chiefdoms in the Philippines . Equivalent to King",
+                [
+                    "/wiki/Princely_state",
+                    "/wiki/South_Asia",
+                    "/wiki/Chiefdom",
+                    "/wiki/Philippines"
+                ],
+                [
+                    {
+                        "entity id": "Q1336152",
+                        "label": "princely state"
+                    },
+                    {
+                        "entity id": "Q771405",
+                        "label": "South Asia"
+                    },
+                    {
+                        "entity id": "Q1642488",
+                        "label": "chiefdom"
+                    },
+                    {
+                        "entity id": "Q928",
+                        "label": "Philippines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Nawab",
+                [
+                    "/wiki/Nawab"
+                ],
+                [
+                    {
+                        "entity id": "Q2703245",
+                        "label": "Polyura"
+                    }
+                ]
+            ],
+            [
+                "Begum",
+                [
+                    "/wiki/Begum"
+                ],
+                [
+                    {
+                        "entity id": "Q814407",
+                        "label": "begum"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Used historically for semi-autonomous Muslim rulers of princely states in South Asia",
+                [
+                    "/wiki/Muslim",
+                    "/wiki/Princely_state",
+                    "/wiki/South_Asia"
+                ],
+                [
+                    {
+                        "entity id": "Q47740",
+                        "label": "Muslim"
+                    },
+                    {
+                        "entity id": "Q1336152",
+                        "label": "princely state"
+                    },
+                    {
+                        "entity id": "Q771405",
+                        "label": "South Asia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Arasan",
+                []
+            ],
+            [
+                "Arasi",
+                []
+            ],
+            [
+                "Arasangam",
+                []
+            ],
+            [
+                "Regal Tamil titles used in ancient Tamilakam . The emperor title was called Perarasan and his realm was a Perarasu . The word Arasangam is used today for the government",
+                [
+                    "/wiki/Tamil_people",
+                    "/wiki/Tamilakam"
+                ],
+                [
+                    {
+                        "entity id": "Q173491",
+                        "label": "Tamil"
+                    },
+                    {
+                        "entity id": "Q7681435",
+                        "label": "Tamilakam"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Har\u00ec/ Lakan / Datu",
+                [
+                    "/wiki/Lakan",
+                    "/wiki/Datu"
+                ],
+                [
+                    {
+                        "entity id": "Q6474545",
+                        "label": "Lakan"
+                    },
+                    {
+                        "entity id": "Q768995",
+                        "label": "Datu"
+                    }
+                ]
+            ],
+            [
+                "Reyna/Dayang",
+                []
+            ],
+            [
+                "Kingdom",
+                []
+            ],
+            [
+                "One of many ancient titles adopted by the Maharlika caste in pre-colonial Philippines . Har\u00ec survives today as a generic Filipino word for king , while reyna is a Spanish loanword . Dayang ( loosely , princess ) was another title for royal ladies , e.g . the queen regnant Dayang Kalangitan of Tondo",
+                [
+                    "/wiki/Maharlika",
+                    "/wiki/Philippines",
+                    "/wiki/Filipino_language",
+                    "/wiki/Spanish_language_in_the_Philippines",
+                    "/wiki/Queen_regnant",
+                    "/wiki/Dayang_Kalangitan",
+                    "/wiki/Kingdom_of_Tondo"
+                ],
+                [
+                    {
+                        "entity id": "Q1884781",
+                        "label": "Maharlika"
+                    },
+                    {
+                        "entity id": "Q928",
+                        "label": "Philippines"
+                    },
+                    {
+                        "entity id": "Q33298",
+                        "label": "Filipino"
+                    },
+                    {
+                        "entity id": "Q1572128",
+                        "label": "Spanish language in the Philippines"
+                    },
+                    {
+                        "entity id": "Q19643",
+                        "label": "queen regnant"
+                    },
+                    {
+                        "entity id": "Q5243057",
+                        "label": "Dayang Kalangitan"
+                    },
+                    {
+                        "entity id": "Q1642472",
+                        "label": "Tondo (historical polity)"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Padishah",
+                [
+                    "/wiki/Padishah"
+                ],
+                [
+                    {
+                        "entity id": "Q1907676",
+                        "label": "Padishah"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "A superlative title equivalent to Emperor , Great King or King of Kings . Used historically by several West Asian empires such as the Sh\u0101hansh\u0101h of Iran ( King of Kings of Persia ) , Mughal Emperors of the Indian Subcontinent ( who used the Arabic version of the title , Badshah ) and Sultan of the Ottoman Empire",
+                [
+                    "/wiki/Emperor",
+                    "/wiki/Great_King",
+                    "/wiki/King_of_Kings",
+                    "/wiki/West_Asian",
+                    "/wiki/Iran",
+                    "/wiki/Mughal_Emperors",
+                    "/wiki/Indian_Subcontinent",
+                    "/wiki/Sultan",
+                    "/wiki/Ottoman_Empire"
+                ],
+                [
+                    {
+                        "entity id": "Q39018",
+                        "label": "emperor"
+                    },
+                    {
+                        "entity id": "Q3114558",
+                        "label": "Great King"
+                    },
+                    {
+                        "entity id": "Q938153",
+                        "label": "King of Kings"
+                    },
+                    {
+                        "entity id": "Q1154453",
+                        "label": "West Asian Football Federation"
+                    },
+                    {
+                        "entity id": "Q794",
+                        "label": "Iran"
+                    },
+                    {
+                        "entity id": "Q1194651",
+                        "label": "Mughal emperors"
+                    },
+                    {
+                        "entity id": "Q60140",
+                        "label": "Indian subcontinent"
+                    },
+                    {
+                        "entity id": "Q43292",
+                        "label": "Sultan"
+                    },
+                    {
+                        "entity id": "Q12560",
+                        "label": "Ottoman Empire"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Shah",
+                [
+                    "/wiki/Shah"
+                ],
+                [
+                    {
+                        "entity id": "Q184299",
+                        "label": "Shah"
+                    }
+                ]
+            ],
+            [
+                "Shahbanu",
+                [
+                    "/wiki/Shahbanu"
+                ],
+                [
+                    {
+                        "entity id": "Q5076793",
+                        "label": "Shahbanu"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Used historically in Persia , Greater Iran and the Mughal Empire . Variously translated into English as King and erroneously as Emperor",
+                [
+                    "/wiki/Persia",
+                    "/wiki/Greater_Iran",
+                    "/wiki/Mughal_Empire"
+                ],
+                [
+                    {
+                        "entity id": "Q794",
+                        "label": "Iran"
+                    },
+                    {
+                        "entity id": "Q25763",
+                        "label": "Greater Iran"
+                    },
+                    {
+                        "entity id": "Q33296",
+                        "label": "Mughal Empire"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Satrap",
+                [
+                    "/wiki/Satrap"
+                ],
+                [
+                    {
+                        "entity id": "Q170305",
+                        "label": "satrap"
+                    }
+                ]
+            ],
+            [
+                "Satrap",
+                [
+                    "/wiki/Satrap"
+                ],
+                [
+                    {
+                        "entity id": "Q170305",
+                        "label": "satrap"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Used historically in Ancient Persia to refer to local rulers of provinces under the Persian Shah . Also used for provincial rulers of Alexander the Great 's Empire",
+                []
+            ]
+        ],
+        [
+            [
+                "Khagan",
+                [
+                    "/wiki/Khagan"
+                ],
+                [
+                    {
+                        "entity id": "Q187878",
+                        "label": "Khagan"
+                    }
+                ]
+            ],
+            [
+                "Khanum",
+                [
+                    "/wiki/Khanum"
+                ],
+                [
+                    {
+                        "entity id": "Q108165988",
+                        "label": "Khanum"
+                    }
+                ]
+            ],
+            [
+                "Khaganate",
+                []
+            ],
+            [
+                "Imperial rank in the Mongolian and Turkic languages equal to the status of Emperor . Historical example : Rus ' Khaganate",
+                [
+                    "/wiki/Empire",
+                    "/wiki/Mongolian_language",
+                    "/wiki/Turkic_languages",
+                    "/wiki/Rus'_Khaganate"
+                ],
+                [
+                    {
+                        "entity id": "Q80702",
+                        "label": "Spanish Empire"
+                    },
+                    {
+                        "entity id": "Q9246",
+                        "label": "Mongolian"
+                    },
+                    {
+                        "entity id": "Q34090",
+                        "label": "Turkic"
+                    },
+                    {
+                        "entity id": "Q1618896",
+                        "label": "Rus' Khaganate"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Khan",
+                [
+                    "/wiki/Khan_(title)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Khatun",
+                [
+                    "/wiki/Khatun"
+                ],
+                [
+                    {
+                        "entity id": "Q2272188",
+                        "label": "Khatun"
+                    }
+                ]
+            ],
+            [
+                "Khanate",
+                [
+                    "/wiki/Khanate"
+                ],
+                [
+                    {
+                        "entity id": "Q331644",
+                        "label": "Khanate"
+                    }
+                ]
+            ],
+            [
+                "Imperial rank in the Mongolian and Turkic languages equal to the status of King . Historical examples : Khanate of Kazan , Crimean Khanate",
+                [
+                    "/wiki/Empire",
+                    "/wiki/Mongolian_language",
+                    "/wiki/Turkic_languages",
+                    "/wiki/Khanate_of_Kazan",
+                    "/wiki/Crimean_Khanate"
+                ],
+                [
+                    {
+                        "entity id": "Q80702",
+                        "label": "Spanish Empire"
+                    },
+                    {
+                        "entity id": "Q9246",
+                        "label": "Mongolian"
+                    },
+                    {
+                        "entity id": "Q34090",
+                        "label": "Turkic"
+                    },
+                    {
+                        "entity id": "Q186537",
+                        "label": "Khanate of Kazan"
+                    },
+                    {
+                        "entity id": "Q160440",
+                        "label": "Crimean Khanate"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Pharaoh",
+                [
+                    "/wiki/Pharaoh"
+                ],
+                [
+                    {
+                        "entity id": "Q37110",
+                        "label": "pharaoh"
+                    }
+                ]
+            ],
+            [
+                "Pharaoh",
+                [
+                    "/wiki/Pharaoh"
+                ],
+                [
+                    {
+                        "entity id": "Q37110",
+                        "label": "pharaoh"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Used historically in Ancient Egypt . Equivalent to King",
+                [
+                    "/wiki/Ancient_Egypt"
+                ],
+                [
+                    {
+                        "entity id": "Q11768",
+                        "label": "Ancient Egypt"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Titles outside modern Europe",
+    "section_text": "",
+    "uid": "Monarch_2",
+    "intro": "A monarch is a sovereign head of state in a monarchy. A monarch may exercise the highest authority and power in the state, or others may wield that power on behalf of the monarch. Usually a monarch either personally inherits the lawful right to exercise the state's sovereign rights (often referred to as the throne or the crown) or is selected by an established process from a family or cohort eligible to provide the nation's monarch. Alternatively, an individual may become monarch by conquest, acclamation or a combination of means. A monarch usually reigns for life or until abdication. If a young child is crowned the monarch, a regent is often appointed to govern until the monarch reaches the requisite adult age to rule. Monarchs' actual powers vary from one monarchy to another and in different eras; on one extreme, they may be autocrats (absolute monarchy) wielding genuine sovereignty; on the other they may be ceremonial heads of state who exercise little or no direct power or only reserve powers, with actual authority vested in a parliament or other body (constitutional monarchy). A monarch can reign in multiple monarchies simultaneously. For example, the monarchy of Canada and the monarchy of the United Kingdom are separate states, but they share the same monarch through personal union."
+}

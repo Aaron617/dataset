@@ -1,0 +1,663 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Star_Alliance",
+    "title": "Star Alliance",
+    "header": [
+        [
+            "Member airline",
+            []
+        ],
+        [
+            "Mileage program",
+            []
+        ],
+        [
+            "Star Silver ( qualifying tiers )",
+            []
+        ],
+        [
+            "Star Gold ( qualifying tiers )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Austrian Airlines Brussels Airlines Croatia Airlines LOT Polish Airlines Lufthansa Swiss International Air Lines",
+                [
+                    "/wiki/Austrian_Airlines",
+                    "/wiki/Brussels_Airlines",
+                    "/wiki/Croatia_Airlines",
+                    "/wiki/LOT_Polish_Airlines",
+                    "/wiki/Lufthansa",
+                    "/wiki/Swiss_International_Air_Lines"
+                ],
+                [
+                    {
+                        "entity id": "Q781770",
+                        "label": "Austrian Airlines"
+                    },
+                    {
+                        "entity id": "Q153571",
+                        "label": "Brussels Airlines"
+                    },
+                    {
+                        "entity id": "Q308974",
+                        "label": "Croatia Airlines"
+                    },
+                    {
+                        "entity id": "Q204268",
+                        "label": "LOT Polish Airlines"
+                    },
+                    {
+                        "entity id": "Q9325",
+                        "label": "Lufthansa"
+                    },
+                    {
+                        "entity id": "Q156776",
+                        "label": "Swiss International Air Lines"
+                    }
+                ]
+            ],
+            [
+                "Miles & More",
+                [
+                    "/wiki/Miles_&_More"
+                ],
+                [
+                    {
+                        "entity id": "Q642970",
+                        "label": "Miles & More"
+                    }
+                ]
+            ],
+            [
+                "Frequent Traveller",
+                []
+            ],
+            [
+                "Senator HON Circle",
+                []
+            ]
+        ],
+        [
+            [
+                "Aegean Airlines",
+                [
+                    "/wiki/Aegean_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q380580",
+                        "label": "Aegean Airlines"
+                    }
+                ]
+            ],
+            [
+                "Miles+Bonus",
+                []
+            ],
+            [
+                "Silver",
+                []
+            ],
+            [
+                "Gold",
+                []
+            ]
+        ],
+        [
+            [
+                "Air Canada",
+                [
+                    "/wiki/Air_Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q185339",
+                        "label": "Air Canada"
+                    }
+                ]
+            ],
+            [
+                "Aeroplan / Air Canada Altitude",
+                [
+                    "/wiki/Air_Canada",
+                    "/wiki/Air_Canada"
+                ],
+                [
+                    {
+                        "entity id": "Q185339",
+                        "label": "Air Canada"
+                    },
+                    {
+                        "entity id": "Q185339",
+                        "label": "Air Canada"
+                    }
+                ]
+            ],
+            [
+                "Prestige 25K Elite 35K",
+                []
+            ],
+            [
+                "Elite 50K Elite 75K Super Elite 100K",
+                []
+            ]
+        ],
+        [
+            [
+                "Air China Shenzhen Airlines",
+                [
+                    "/wiki/Air_China",
+                    "/wiki/Shenzhen_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q51747",
+                        "label": "Air China"
+                    },
+                    {
+                        "entity id": "Q974899",
+                        "label": "Shenzhen Airlines"
+                    }
+                ]
+            ],
+            [
+                "PhoenixMiles",
+                [
+                    "/wiki/Air_China"
+                ],
+                [
+                    {
+                        "entity id": "Q51747",
+                        "label": "Air China"
+                    }
+                ]
+            ],
+            [
+                "Silver",
+                []
+            ],
+            [
+                "Gold Platinum",
+                []
+            ]
+        ],
+        [
+            [
+                "Air India",
+                [
+                    "/wiki/Air_India"
+                ],
+                [
+                    {
+                        "entity id": "Q69906",
+                        "label": "Air India"
+                    }
+                ]
+            ],
+            [
+                "Flying Returns",
+                []
+            ],
+            [
+                "Silver Edge Club",
+                []
+            ],
+            [
+                "Golden Edge Club The Maharajah Club",
+                []
+            ]
+        ],
+        [
+            [
+                "Air New Zealand",
+                [
+                    "/wiki/Air_New_Zealand"
+                ],
+                [
+                    {
+                        "entity id": "Q204296",
+                        "label": "Air New Zealand"
+                    }
+                ]
+            ],
+            [
+                "Airpoints",
+                [
+                    "/wiki/Airpoints"
+                ],
+                [
+                    {
+                        "entity id": "Q111360666",
+                        "label": "Airpoints"
+                    }
+                ]
+            ],
+            [
+                "Silver",
+                []
+            ],
+            [
+                "Gold Elite",
+                []
+            ]
+        ],
+        [
+            [
+                "All Nippon Airways",
+                [
+                    "/wiki/All_Nippon_Airways"
+                ],
+                [
+                    {
+                        "entity id": "Q204284",
+                        "label": "All Nippon Airways"
+                    }
+                ]
+            ],
+            [
+                "ANA Mileage Club",
+                []
+            ],
+            [
+                "Bronze",
+                []
+            ],
+            [
+                "Super Flyers Diamond Platinum",
+                []
+            ]
+        ],
+        [
+            [
+                "Asiana Airlines",
+                [
+                    "/wiki/Asiana_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q211165",
+                        "label": "Asiana Airlines"
+                    }
+                ]
+            ],
+            [
+                "Asiana Club",
+                [
+                    "/wiki/Asiana_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q211165",
+                        "label": "Asiana Airlines"
+                    }
+                ]
+            ],
+            [
+                "Gold",
+                []
+            ],
+            [
+                "Diamond Diamond Plus Platinum",
+                []
+            ]
+        ],
+        [
+            [
+                "Avianca",
+                [
+                    "/wiki/Avianca"
+                ],
+                [
+                    {
+                        "entity id": "Q308911",
+                        "label": "Avianca"
+                    }
+                ]
+            ],
+            [
+                "LifeMiles",
+                []
+            ],
+            [
+                "Silver",
+                []
+            ],
+            [
+                "Gold Diamond Cenit",
+                []
+            ]
+        ],
+        [
+            [
+                "Copa Airlines",
+                [
+                    "/wiki/Copa_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q849404",
+                        "label": "Copa Airlines"
+                    }
+                ]
+            ],
+            [
+                "ConnectMiles",
+                []
+            ],
+            [
+                "Silver",
+                []
+            ],
+            [
+                "Gold Platinum Presidential Platium",
+                []
+            ]
+        ],
+        [
+            [
+                "EgyptAir",
+                [
+                    "/wiki/EgyptAir"
+                ],
+                [
+                    {
+                        "entity id": "Q374740",
+                        "label": "EgyptAir"
+                    }
+                ]
+            ],
+            [
+                "EgyptAir Plus",
+                []
+            ],
+            [
+                "Silver",
+                []
+            ],
+            [
+                "Gold Elite Platinum",
+                []
+            ]
+        ],
+        [
+            [
+                "Ethiopian Airlines",
+                [
+                    "/wiki/Ethiopian_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q245233",
+                        "label": "Ethiopian Airlines"
+                    }
+                ]
+            ],
+            [
+                "ShebaMiles",
+                []
+            ],
+            [
+                "Silver",
+                []
+            ],
+            [
+                "Gold Platinum",
+                []
+            ]
+        ],
+        [
+            [
+                "EVA Air",
+                [
+                    "/wiki/EVA_Air"
+                ],
+                [
+                    {
+                        "entity id": "Q715113",
+                        "label": "EVA Air"
+                    }
+                ]
+            ],
+            [
+                "Infinity MileageLands",
+                [
+                    "/wiki/EVA_Air"
+                ],
+                [
+                    {
+                        "entity id": "Q715113",
+                        "label": "EVA Air"
+                    }
+                ]
+            ],
+            [
+                "Infinity MileageLands Silver",
+                []
+            ],
+            [
+                "Infinity MileageLands Gold Infinity MileageLands Diamond",
+                []
+            ]
+        ],
+        [
+            [
+                "Scandinavian Airlines",
+                [
+                    "/wiki/Scandinavian_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q187854",
+                        "label": "Scandinavian Airlines"
+                    }
+                ]
+            ],
+            [
+                "EuroBonus",
+                [
+                    "/wiki/EuroBonus"
+                ],
+                [
+                    {
+                        "entity id": "Q1776400",
+                        "label": "EuroBonus"
+                    }
+                ]
+            ],
+            [
+                "Silver",
+                []
+            ],
+            [
+                "Gold Diamond Pandion",
+                []
+            ]
+        ],
+        [
+            [
+                "Singapore Airlines",
+                [
+                    "/wiki/Singapore_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q32245",
+                        "label": "Singapore Airlines"
+                    }
+                ]
+            ],
+            [
+                "KrisFlyer",
+                [
+                    "/wiki/KrisFlyer"
+                ],
+                [
+                    {
+                        "entity id": "Q19646179",
+                        "label": "KrisFlyer"
+                    }
+                ]
+            ],
+            [
+                "Elite Silver",
+                []
+            ],
+            [
+                "Elite Gold PPS Club Solitaire PPS Club",
+                []
+            ]
+        ],
+        [
+            [
+                "South African Airways",
+                [
+                    "/wiki/South_African_Airways"
+                ],
+                [
+                    {
+                        "entity id": "Q223763",
+                        "label": "South African Airways"
+                    }
+                ]
+            ],
+            [
+                "Voyager",
+                []
+            ],
+            [
+                "Silver",
+                []
+            ],
+            [
+                "Gold Platinum",
+                []
+            ]
+        ],
+        [
+            [
+                "TAP Air Portugal",
+                [
+                    "/wiki/TAP_Air_Portugal"
+                ],
+                [
+                    {
+                        "entity id": "Q208232",
+                        "label": "TAP Air Portugal"
+                    }
+                ]
+            ],
+            [
+                "Miles & Go",
+                []
+            ],
+            [
+                "Silver",
+                []
+            ],
+            [
+                "Gold",
+                []
+            ]
+        ],
+        [
+            [
+                "Thai Airways International",
+                [
+                    "/wiki/Thai_Airways_International"
+                ],
+                [
+                    {
+                        "entity id": "Q188710",
+                        "label": "Thai Airways"
+                    }
+                ]
+            ],
+            [
+                "Royal Orchid Plus",
+                [
+                    "/wiki/Thai_Airways_International"
+                ],
+                [
+                    {
+                        "entity id": "Q188710",
+                        "label": "Thai Airways"
+                    }
+                ]
+            ],
+            [
+                "Silver",
+                []
+            ],
+            [
+                "Gold Platinum",
+                []
+            ]
+        ],
+        [
+            [
+                "Turkish Airlines",
+                [
+                    "/wiki/Turkish_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q4548",
+                        "label": "Turkish Airlines"
+                    }
+                ]
+            ],
+            [
+                "Miles & Smiles",
+                []
+            ],
+            [
+                "Classic Plus",
+                []
+            ],
+            [
+                "Elite Elite Plus",
+                []
+            ]
+        ],
+        [
+            [
+                "United Airlines",
+                [
+                    "/wiki/United_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q174769",
+                        "label": "United Airlines"
+                    }
+                ]
+            ],
+            [
+                "MileagePlus",
+                [
+                    "/wiki/MileagePlus"
+                ],
+                [
+                    {
+                        "entity id": "Q6851134",
+                        "label": "MileagePlus"
+                    }
+                ]
+            ],
+            [
+                "Premier Silver",
+                []
+            ],
+            [
+                "Premier Gold Premier Platinum Premier 1K Global Services",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Customer service -- Premiums",
+    "section_text": "",
+    "uid": "Star_Alliance_1",
+    "intro": "Star Alliance is the world's largest global airline alliance. Founded on 14 May 1997, its current CEO is Jeffrey Goh and its headquarters is located in Frankfurt am Main, Germany. As of April 2018[update], Star Alliance is the largest of the three global alliances by passenger count with 762.27 million, ahead of both SkyTeam (630 million) and Oneworld (528 million). Its slogan is The Way The Earth Connects. Star Alliance's 26 member airlines operate a fleet of approximately 5,033 aircraft, serving more than 1,290 airports in 195 countries on more than 19,000 daily departures. The alliance has a two-tier rewards program, Silver and Gold, with incentives including priority boarding and upgrades. Like other airline alliances, Star Alliance airlines share airport terminals (known as co-location) and many member planes are painted in the alliance's livery."
+}

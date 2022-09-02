@@ -1,0 +1,370 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_Malaysian_dishes",
+    "title": "List of Malaysian dishes",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Region",
+            []
+        ],
+        [
+            "Type",
+            []
+        ],
+        [
+            "Description",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Keropok ( Crackers )",
+                [
+                    "/wiki/Keropok"
+                ],
+                [
+                    {
+                        "entity id": "Q715542",
+                        "label": "krupuk"
+                    }
+                ]
+            ],
+            [
+                "Nationwide , particularly coastal towns such as Malacca , Pulau Pangkor and Lumut",
+                [
+                    "/wiki/Malacca"
+                ],
+                [
+                    {
+                        "entity id": "Q185221",
+                        "label": "Melaka"
+                    }
+                ]
+            ],
+            [
+                "Snack",
+                [
+                    "/wiki/Snack"
+                ],
+                [
+                    {
+                        "entity id": "Q749316",
+                        "label": "snack"
+                    }
+                ]
+            ],
+            [
+                "A popular snack in Malaysia , particularly served at homes of many during festive celebration . It can be found in many groceries stores and supermarkets , examples of popular household brands in Malaysia are Rota Prawn Crackers and myReal Pulau Pangkor Prawn Crackers . One of the most popular type of prawn cracker in Malaysia are the Keropok Udang Geragau Melaka",
+                []
+            ]
+        ],
+        [
+            [
+                "Jemput-jemput ( Cokodok )",
+                [
+                    "/wiki/Jemput-jemput"
+                ],
+                [
+                    {
+                        "entity id": "Q7367936",
+                        "label": "Cokodok"
+                    }
+                ]
+            ],
+            [
+                "Malaysia",
+                []
+            ],
+            [
+                "Fritter type snack",
+                [
+                    "/wiki/Fritter",
+                    "/wiki/Snack"
+                ],
+                [
+                    {
+                        "entity id": "Q690292",
+                        "label": "fritter"
+                    },
+                    {
+                        "entity id": "Q749316",
+                        "label": "snack"
+                    }
+                ]
+            ],
+            [
+                "A traditional Malaysian fritter snack that is made from flour and can be choose either from banana , anchovies , prawns , onion or maize for flavours ) or also can be made with only using flour",
+                [
+                    "/wiki/Fritter",
+                    "/wiki/Anchovies",
+                    "/wiki/Prawns"
+                ],
+                [
+                    {
+                        "entity id": "Q690292",
+                        "label": "fritter"
+                    },
+                    {
+                        "entity id": "Q65076575",
+                        "label": "Anchovies"
+                    },
+                    {
+                        "entity id": "Q98862366",
+                        "label": "poleepkwa"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Curry puff",
+                [
+                    "/wiki/Curry_puff"
+                ],
+                [
+                    {
+                        "entity id": "Q259874",
+                        "label": "curry puff"
+                    }
+                ]
+            ],
+            [
+                "Nationwide",
+                []
+            ],
+            [
+                "Snack",
+                [
+                    "/wiki/Snack"
+                ],
+                [
+                    {
+                        "entity id": "Q749316",
+                        "label": "snack"
+                    }
+                ]
+            ],
+            [
+                "A type of snack or kuih . Usually filled with chicken and potato with a dried curry inside",
+                []
+            ]
+        ],
+        [
+            [
+                "Kaya toast",
+                [
+                    "/wiki/Kaya_toast"
+                ],
+                [
+                    {
+                        "entity id": "Q6380358",
+                        "label": "Kaya toast"
+                    }
+                ]
+            ],
+            [
+                "Nationwide ( Popular in Singapore )",
+                []
+            ],
+            [
+                "Snack",
+                [
+                    "/wiki/Snack"
+                ],
+                [
+                    {
+                        "entity id": "Q749316",
+                        "label": "snack"
+                    }
+                ]
+            ],
+            [
+                "Consists of kaya , a spread of eggs , sugar and coconut milk and flavoured with pandan on toasted or fresh bread or cream crackers",
+                [
+                    "/wiki/Coconut_jam",
+                    "/wiki/Pandanus_amaryllifolius"
+                ],
+                [
+                    {
+                        "entity id": "Q94835",
+                        "label": "coconut jam"
+                    },
+                    {
+                        "entity id": "Q311090",
+                        "label": "Pandanus amaryllifolius"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Keropok lekor",
+                [
+                    "/wiki/Lekor"
+                ],
+                [
+                    {
+                        "entity id": "Q7362583",
+                        "label": "Lekor"
+                    }
+                ]
+            ],
+            [
+                "Terengganu",
+                [
+                    "/wiki/Terengganu"
+                ],
+                [
+                    {
+                        "entity id": "Q189701",
+                        "label": "Terengganu"
+                    }
+                ]
+            ],
+            [
+                "Snack",
+                [
+                    "/wiki/Snack"
+                ],
+                [
+                    {
+                        "entity id": "Q749316",
+                        "label": "snack"
+                    }
+                ]
+            ],
+            [
+                "A keropok that is made from fish",
+                []
+            ]
+        ],
+        [
+            [
+                "Kuih",
+                [
+                    "/wiki/Kuih"
+                ],
+                [
+                    {
+                        "entity id": "Q14468365",
+                        "label": "Kuih"
+                    }
+                ]
+            ],
+            [
+                "Nationwide",
+                []
+            ],
+            [
+                "Snack",
+                [
+                    "/wiki/Snack"
+                ],
+                [
+                    {
+                        "entity id": "Q749316",
+                        "label": "snack"
+                    }
+                ]
+            ],
+            [
+                "Variety of kuih",
+                []
+            ]
+        ],
+        [
+            [
+                "Pisang goreng",
+                [
+                    "/wiki/Pisang_goreng"
+                ],
+                [
+                    {
+                        "entity id": "Q3211448",
+                        "label": "pisang goreng"
+                    }
+                ]
+            ],
+            [
+                "Nationwide",
+                []
+            ],
+            [
+                "Snack",
+                [
+                    "/wiki/Snack"
+                ],
+                [
+                    {
+                        "entity id": "Q749316",
+                        "label": "snack"
+                    }
+                ]
+            ],
+            [
+                "Deep-fried banana dipped in flour",
+                []
+            ]
+        ],
+        [
+            [
+                "Akok ( food )",
+                [
+                    "/wiki/Akok_(food)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Popular in Kelantan state",
+                [
+                    "/wiki/Kelantan"
+                ],
+                [
+                    {
+                        "entity id": "Q185944",
+                        "label": "Kelantan"
+                    }
+                ]
+            ],
+            [
+                "Snack",
+                [
+                    "/wiki/Snack"
+                ],
+                [
+                    {
+                        "entity id": "Q749316",
+                        "label": "snack"
+                    }
+                ]
+            ],
+            [
+                "Tradisional Kelantanese dessert snack made from egg , flour , brown sugar",
+                [
+                    "/wiki/Egg",
+                    "/wiki/Brown_sugar"
+                ],
+                [
+                    {
+                        "entity id": "Q93189",
+                        "label": "egg"
+                    },
+                    {
+                        "entity id": "Q11190742",
+                        "label": "brown sugar"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Snacks",
+    "section_text": "",
+    "uid": "List_of_Malaysian_dishes_3",
+    "intro": "This is a list of dishes found in Malaysian cuisine."
+}

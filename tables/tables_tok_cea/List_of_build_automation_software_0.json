@@ -1,0 +1,651 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_build_automation_software",
+    "title": "List of build automation software",
+    "header": [
+        [
+            "Tool name",
+            []
+        ],
+        [
+            "Description language",
+            []
+        ],
+        [
+            "License",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "A-A-P",
+                [
+                    "/wiki/A-A-P"
+                ],
+                [
+                    {
+                        "entity id": "Q277773",
+                        "label": "A-A-P"
+                    }
+                ]
+            ],
+            [
+                "recipe",
+                []
+            ],
+            [
+                "GNU GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Ant",
+                [
+                    "/wiki/Apache_Ant"
+                ],
+                [
+                    {
+                        "entity id": "Q385970",
+                        "label": "Apache Ant"
+                    }
+                ]
+            ],
+            [
+                "XML",
+                [
+                    "/wiki/XML"
+                ],
+                [
+                    {
+                        "entity id": "Q2115",
+                        "label": "Extensible Markup Language"
+                    }
+                ]
+            ],
+            [
+                "Apache License 2.0",
+                [
+                    "/wiki/Apache_License_2.0"
+                ],
+                [
+                    {
+                        "entity id": "Q13785927",
+                        "label": "Apache License, Version 2.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "AnthillPro",
+                [
+                    "/wiki/AnthillPro"
+                ],
+                [
+                    {
+                        "entity id": "Q4771790",
+                        "label": "AnthillPro"
+                    }
+                ]
+            ],
+            [
+                "Wraps Make , Ant , Maven , MsBuild , Nant , etc . for controlled build , deploy , test processes",
+                []
+            ],
+            [
+                "Discontinued",
+                []
+            ]
+        ],
+        [
+            [
+                "Bamboo",
+                [
+                    "/wiki/Atlassian_bamboo"
+                ],
+                [
+                    {
+                        "entity id": "Q757307",
+                        "label": "Atlassian"
+                    }
+                ]
+            ],
+            [
+                "continuous integration",
+                []
+            ],
+            [
+                "Trialware",
+                [
+                    "/wiki/Trialware"
+                ],
+                [
+                    {
+                        "entity id": "Q185534",
+                        "label": "shareware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Bazel",
+                [
+                    "/wiki/Bazel_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "BUILD/Starlark , a Python-like DSL",
+                []
+            ],
+            [
+                "Apache License 2.0",
+                [
+                    "/wiki/Apache_License_2.0"
+                ],
+                [
+                    {
+                        "entity id": "Q13785927",
+                        "label": "Apache License, Version 2.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BuildAMation",
+                [
+                    "/wiki/BuildAMation"
+                ],
+                [
+                    {
+                        "entity id": "Q25110011",
+                        "label": "BuildAMation"
+                    }
+                ]
+            ],
+            [
+                "C # for build scripts , XML for high level dependencies",
+                [
+                    "/wiki/C_Sharp_(programming_language)",
+                    "/wiki/XML"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q2115",
+                        "label": "Extensible Markup Language"
+                    }
+                ]
+            ],
+            [
+                "New BSD License",
+                [
+                    "/wiki/New_BSD_License"
+                ],
+                [
+                    {
+                        "entity id": "Q18491847",
+                        "label": "3-clause BSD License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Buildr",
+                [
+                    "/wiki/Apache_Buildr"
+                ],
+                [
+                    {
+                        "entity id": "Q4778896",
+                        "label": "Apache Buildr"
+                    }
+                ]
+            ],
+            [
+                "Ruby",
+                [
+                    "/wiki/Ruby_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Apache License 2.0",
+                [
+                    "/wiki/Apache_License_2.0"
+                ],
+                [
+                    {
+                        "entity id": "Q13785927",
+                        "label": "Apache License, Version 2.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Boot",
+                [
+                    "/wiki/Boot_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Clojure",
+                []
+            ],
+            [
+                "Eclipse Public License",
+                [
+                    "/wiki/Eclipse_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q1281977",
+                        "label": "Eclipse Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Capistrano",
+                [
+                    "/wiki/Capistrano_(software)"
+                ],
+                [
+                    {
+                        "entity id": "Q1034630",
+                        "label": "Capistrano"
+                    }
+                ]
+            ],
+            [
+                "XML",
+                [
+                    "/wiki/XML"
+                ],
+                [
+                    {
+                        "entity id": "Q2115",
+                        "label": "Extensible Markup Language"
+                    }
+                ]
+            ],
+            [
+                "MIT License",
+                [
+                    "/wiki/MIT_License"
+                ],
+                [
+                    {
+                        "entity id": "Q334661",
+                        "label": "MIT license"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "CMake",
+                [
+                    "/wiki/CMake"
+                ],
+                [
+                    {
+                        "entity id": "Q1023904",
+                        "label": "CMake"
+                    }
+                ]
+            ],
+            [
+                "uses CMakeLists.txt file",
+                []
+            ],
+            [
+                "New BSD License",
+                [
+                    "/wiki/New_BSD_License"
+                ],
+                [
+                    {
+                        "entity id": "Q18491847",
+                        "label": "3-clause BSD License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Cake",
+                []
+            ],
+            [
+                "C # , .NET , .NET core . Uses C # written cake file",
+                []
+            ],
+            [
+                "MIT License",
+                [
+                    "/wiki/MIT_License"
+                ],
+                [
+                    {
+                        "entity id": "Q334661",
+                        "label": "MIT license"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Collective Knowledge Framework",
+                [
+                    "/wiki/Collective_Knowledge_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Python scripts with JSON API and JSON meta-description",
+                [
+                    "/wiki/Python_(language)",
+                    "/wiki/JSON",
+                    "/wiki/JSON"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q2063",
+                        "label": "JSON"
+                    },
+                    {
+                        "entity id": "Q2063",
+                        "label": "JSON"
+                    }
+                ]
+            ],
+            [
+                "New BSD License",
+                [
+                    "/wiki/New_BSD_License"
+                ],
+                [
+                    {
+                        "entity id": "Q18491847",
+                        "label": "3-clause BSD License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Continuum",
+                [
+                    "/wiki/Apache_Continuum"
+                ],
+                [
+                    {
+                        "entity id": "Q773148",
+                        "label": "Apache Continuum"
+                    }
+                ]
+            ],
+            [
+                "?",
+                []
+            ],
+            [
+                "Apache License 2.0",
+                [
+                    "/wiki/Apache_License_2.0"
+                ],
+                [
+                    {
+                        "entity id": "Q13785927",
+                        "label": "Apache License, Version 2.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "CruiseControl",
+                [
+                    "/wiki/CruiseControl"
+                ],
+                [
+                    {
+                        "entity id": "Q444044",
+                        "label": "CruiseControl"
+                    }
+                ]
+            ],
+            [
+                "XML",
+                [
+                    "/wiki/XML"
+                ],
+                [
+                    {
+                        "entity id": "Q2115",
+                        "label": "Extensible Markup Language"
+                    }
+                ]
+            ],
+            [
+                "BSD -style license",
+                [
+                    "/wiki/BSD_licenses"
+                ],
+                [
+                    {
+                        "entity id": "Q191307",
+                        "label": "BSD licenses"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "FinalBuilder",
+                [
+                    "/wiki/FinalBuilder"
+                ],
+                [
+                    {
+                        "entity id": "Q5449342",
+                        "label": "FinalBuilder"
+                    }
+                ]
+            ],
+            [
+                "graphical IDE with support for Ant/NAnt , MSBuild , JScript , VBScript , IronPython , PowerShell",
+                [
+                    "/wiki/IronPython",
+                    "/wiki/Windows_PowerShell"
+                ],
+                [
+                    {
+                        "entity id": "Q657498",
+                        "label": "IronPython"
+                    },
+                    {
+                        "entity id": "Q840410",
+                        "label": "PowerShell"
+                    }
+                ]
+            ],
+            [
+                "Trialware",
+                [
+                    "/wiki/Trialware"
+                ],
+                [
+                    {
+                        "entity id": "Q185534",
+                        "label": "shareware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Gradle",
+                [
+                    "/wiki/Gradle"
+                ],
+                [
+                    {
+                        "entity id": "Q965596",
+                        "label": "Gradle"
+                    }
+                ]
+            ],
+            [
+                "Groovy-based DSL",
+                []
+            ],
+            [
+                "Apache License 2.0",
+                [
+                    "/wiki/Apache_License_2.0"
+                ],
+                [
+                    {
+                        "entity id": "Q13785927",
+                        "label": "Apache License, Version 2.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Jenkins",
+                [
+                    "/wiki/Jenkins_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "continuous integration",
+                []
+            ],
+            [
+                "MIT License",
+                [
+                    "/wiki/MIT_License"
+                ],
+                [
+                    {
+                        "entity id": "Q334661",
+                        "label": "MIT license"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Homebrew",
+                [
+                    "/wiki/Homebrew_(package_management_software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Ruby",
+                [
+                    "/wiki/Ruby_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Simplified BSD License",
+                [
+                    "/wiki/Simplified_BSD_License"
+                ],
+                [
+                    {
+                        "entity id": "Q18517294",
+                        "label": "2-clause BSD License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Leiningen",
+                [
+                    "/wiki/Leiningen_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Clojure",
+                []
+            ],
+            [
+                "Eclipse Public License",
+                [
+                    "/wiki/Eclipse_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q1281977",
+                        "label": "Eclipse Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "make",
+                [
+                    "/wiki/Make_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "uses Makefile",
+                []
+            ],
+            [
+                "Same as the bundling OS",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Licensing overview",
+    "section_text": "",
+    "uid": "List_of_build_automation_software_0",
+    "intro": "Build automation involves scripting or automating the process of compiling computer source code into binary code. Below is a list of notable tools associated with automating build processes."
+}

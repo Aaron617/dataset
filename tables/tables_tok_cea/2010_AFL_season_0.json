@@ -1,0 +1,625 @@
+{
+    "url": "https://en.wikipedia.org/wiki/2010_AFL_season",
+    "title": "2010 AFL season",
+    "header": [
+        [
+            "Club",
+            []
+        ],
+        [
+            "Award name",
+            []
+        ],
+        [
+            "Player",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Adelaide",
+                [
+                    "/wiki/Adelaide_Football_Club"
+                ],
+                [
+                    {
+                        "entity id": "Q948900",
+                        "label": "Adelaide Football Club"
+                    }
+                ]
+            ],
+            [
+                "Malcolm Blight Medal",
+                [
+                    "/wiki/Malcolm_Blight_Medal"
+                ],
+                [
+                    {
+                        "entity id": "Q6742192",
+                        "label": "Malcolm Blight Medal"
+                    }
+                ]
+            ],
+            [
+                "Richard Douglas",
+                [
+                    "/wiki/Richard_Douglas_(footballer)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Brisbane Lions",
+                [
+                    "/wiki/Brisbane_Lions"
+                ],
+                [
+                    {
+                        "entity id": "Q637601",
+                        "label": "Brisbane Lions"
+                    }
+                ]
+            ],
+            [
+                "Merrett-Murray Medal",
+                [
+                    "/wiki/Merrett-Murray_Medal"
+                ],
+                [
+                    {
+                        "entity id": "Q6820032",
+                        "label": "Merrett\u2013Murray Medal"
+                    }
+                ]
+            ],
+            [
+                "Michael Rischitelli",
+                [
+                    "/wiki/Michael_Rischitelli"
+                ],
+                [
+                    {
+                        "entity id": "Q6833871",
+                        "label": "Michael Rischitelli"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Carlton",
+                [
+                    "/wiki/Carlton_Football_Club"
+                ],
+                [
+                    {
+                        "entity id": "Q858633",
+                        "label": "Carlton Football Club"
+                    }
+                ]
+            ],
+            [
+                "John Nicholls Medal",
+                [
+                    "/wiki/John_Nicholls_Medal"
+                ],
+                [
+                    {
+                        "entity id": "Q6250436",
+                        "label": "John Nicholls Medal"
+                    }
+                ]
+            ],
+            [
+                "Chris Judd",
+                [
+                    "/wiki/Chris_Judd"
+                ],
+                [
+                    {
+                        "entity id": "Q952866",
+                        "label": "Chris Judd"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Collingwood",
+                [
+                    "/wiki/Collingwood_Football_Club"
+                ],
+                [
+                    {
+                        "entity id": "Q249679",
+                        "label": "Collingwood Football Club"
+                    }
+                ]
+            ],
+            [
+                "Copeland Trophy",
+                [
+                    "/wiki/Copeland_Trophy"
+                ],
+                [
+                    {
+                        "entity id": "Q5168380",
+                        "label": "Copeland Trophy"
+                    }
+                ]
+            ],
+            [
+                "Dane Swan",
+                [
+                    "/wiki/Dane_Swan"
+                ],
+                [
+                    {
+                        "entity id": "Q5215851",
+                        "label": "Dane Swan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Essendon",
+                [
+                    "/wiki/Essendon_Football_Club"
+                ],
+                [
+                    {
+                        "entity id": "Q251090",
+                        "label": "Essendon Football Club"
+                    }
+                ]
+            ],
+            [
+                "Crichton Medal",
+                [
+                    "/wiki/Crichton_Medal"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Jobe Watson",
+                [
+                    "/wiki/Jobe_Watson"
+                ],
+                [
+                    {
+                        "entity id": "Q6206804",
+                        "label": "Jobe Watson"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Fremantle",
+                [
+                    "/wiki/Fremantle_Football_Club"
+                ],
+                [
+                    {
+                        "entity id": "Q278043",
+                        "label": "Fremantle Football Club"
+                    }
+                ]
+            ],
+            [
+                "Doig Medal",
+                [
+                    "/wiki/Doig_Medal"
+                ],
+                [
+                    {
+                        "entity id": "Q5288617",
+                        "label": "Doig Medal"
+                    }
+                ]
+            ],
+            [
+                "David Mundy",
+                [
+                    "/wiki/David_Mundy"
+                ],
+                [
+                    {
+                        "entity id": "Q5237805",
+                        "label": "David Mundy"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Geelong",
+                [
+                    "/wiki/Geelong_Football_Club"
+                ],
+                [
+                    {
+                        "entity id": "Q958369",
+                        "label": "Geelong Football Club"
+                    }
+                ]
+            ],
+            [
+                "Carji Greeves Medal",
+                [
+                    "/wiki/Carji_Greeves_Medal"
+                ],
+                [
+                    {
+                        "entity id": "Q5039736",
+                        "label": "Carji Greeves Medal"
+                    }
+                ]
+            ],
+            [
+                "Joel Selwood",
+                [
+                    "/wiki/Joel_Selwood"
+                ],
+                [
+                    {
+                        "entity id": "Q6213944",
+                        "label": "Joel Selwood"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Hawthorn",
+                [
+                    "/wiki/Hawthorn_Football_Club"
+                ],
+                [
+                    {
+                        "entity id": "Q1034556",
+                        "label": "Hawthorn Football Club"
+                    }
+                ]
+            ],
+            [
+                "Peter Crimmins Medal",
+                [
+                    "/wiki/Peter_Crimmins_Medal"
+                ],
+                [
+                    {
+                        "entity id": "Q7173453",
+                        "label": "Peter Crimmins Medal"
+                    }
+                ]
+            ],
+            [
+                "Luke Hodge",
+                [
+                    "/wiki/Luke_Hodge"
+                ],
+                [
+                    {
+                        "entity id": "Q6702040",
+                        "label": "Luke Hodge"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Melbourne",
+                [
+                    "/wiki/Melbourne_Football_Club"
+                ],
+                [
+                    {
+                        "entity id": "Q911681",
+                        "label": "Melbourne Football Club"
+                    }
+                ]
+            ],
+            [
+                "Keith 'Bluey ' Truscott Medal",
+                [
+                    "/wiki/Keith_'Bluey'_Truscott_Medal"
+                ],
+                [
+                    {
+                        "entity id": "Q6383942",
+                        "label": "Keith 'Bluey' Truscott Medal"
+                    }
+                ]
+            ],
+            [
+                "Brad Green",
+                [
+                    "/wiki/Brad_Green_(footballer)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "North Melbourne",
+                [
+                    "/wiki/North_Melbourne_Football_Club"
+                ],
+                [
+                    {
+                        "entity id": "Q2736412",
+                        "label": "North Melbourne Football Club"
+                    }
+                ]
+            ],
+            [
+                "Syd Barker Medal",
+                [
+                    "/wiki/Syd_Barker_Medal"
+                ],
+                [
+                    {
+                        "entity id": "Q7659653",
+                        "label": "Syd Barker Medal"
+                    }
+                ]
+            ],
+            [
+                "Brent Harvey and Brady Rawlings",
+                [
+                    "/wiki/Brent_Harvey",
+                    "/wiki/Brady_Rawlings"
+                ],
+                [
+                    {
+                        "entity id": "Q16217327",
+                        "label": "Brent Harvey"
+                    },
+                    {
+                        "entity id": "Q4955208",
+                        "label": "Brady Rawlings"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Port Adelaide",
+                [
+                    "/wiki/Port_Adelaide_Football_Club"
+                ],
+                [
+                    {
+                        "entity id": "Q2738554",
+                        "label": "Port Adelaide Football Club"
+                    }
+                ]
+            ],
+            [
+                "John Cahill Medal",
+                [
+                    "/wiki/John_Cahill_Medal"
+                ],
+                [
+                    {
+                        "entity id": "Q6224748",
+                        "label": "John Cahill Medal"
+                    }
+                ]
+            ],
+            [
+                "Kane Cornes",
+                [
+                    "/wiki/Kane_Cornes"
+                ],
+                [
+                    {
+                        "entity id": "Q6361779",
+                        "label": "Kane Cornes"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Richmond",
+                [
+                    "/wiki/Richmond_Football_Club"
+                ],
+                [
+                    {
+                        "entity id": "Q2521385",
+                        "label": "Richmond Football Club"
+                    }
+                ]
+            ],
+            [
+                "Jack Dyer Medal",
+                [
+                    "/wiki/Jack_Dyer_Medal"
+                ],
+                [
+                    {
+                        "entity id": "Q16970512",
+                        "label": "Jack Dyer Medal"
+                    }
+                ]
+            ],
+            [
+                "Jack Riewoldt",
+                [
+                    "/wiki/Jack_Riewoldt"
+                ],
+                [
+                    {
+                        "entity id": "Q6114844",
+                        "label": "Jack Riewoldt"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "St Kilda",
+                [
+                    "/wiki/St_Kilda_Football_Club"
+                ],
+                [
+                    {
+                        "entity id": "Q1084121",
+                        "label": "St Kilda Football Club"
+                    }
+                ]
+            ],
+            [
+                "Trevor Barker Award",
+                [
+                    "/wiki/Trevor_Barker_Award"
+                ],
+                [
+                    {
+                        "entity id": "Q7839044",
+                        "label": "Trevor Barker Award"
+                    }
+                ]
+            ],
+            [
+                "Lenny Hayes",
+                [
+                    "/wiki/Lenny_Hayes"
+                ],
+                [
+                    {
+                        "entity id": "Q6522951",
+                        "label": "Lenny Hayes"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Sydney",
+                [
+                    "/wiki/Sydney_Swans"
+                ],
+                [
+                    {
+                        "entity id": "Q2272176",
+                        "label": "Sydney Swans"
+                    }
+                ]
+            ],
+            [
+                "Bob Skilton Medal",
+                [
+                    "/wiki/Bob_Skilton_Medal"
+                ],
+                [
+                    {
+                        "entity id": "Q4934004",
+                        "label": "Bob Skilton Medal"
+                    }
+                ]
+            ],
+            [
+                "Kieren Jack",
+                [
+                    "/wiki/Kieren_Jack"
+                ],
+                [
+                    {
+                        "entity id": "Q6405479",
+                        "label": "Kieren Jack"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "West Coast",
+                [
+                    "/wiki/West_Coast_Eagles"
+                ],
+                [
+                    {
+                        "entity id": "Q2742645",
+                        "label": "West Coast Eagles"
+                    }
+                ]
+            ],
+            [
+                "Club Champion Award",
+                [
+                    "/wiki/John_Worsfold_Medal"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Mark LeCras",
+                [
+                    "/wiki/Mark_LeCras"
+                ],
+                [
+                    {
+                        "entity id": "Q6768523",
+                        "label": "Mark LeCras"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Western Bulldogs",
+                [
+                    "/wiki/Western_Bulldogs"
+                ],
+                [
+                    {
+                        "entity id": "Q2305526",
+                        "label": "Western Bulldogs"
+                    }
+                ]
+            ],
+            [
+                "Charles Sutton Medal",
+                [
+                    "/wiki/Charles_Sutton_Medal"
+                ],
+                [
+                    {
+                        "entity id": "Q5082777",
+                        "label": "Charles Sutton Medal"
+                    }
+                ]
+            ],
+            [
+                "Ryan Griffen",
+                [
+                    "/wiki/Ryan_Griffen"
+                ],
+                [
+                    {
+                        "entity id": "Q7384103",
+                        "label": "Ryan Griffen"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Awards -- Best and fairest",
+    "section_text": "",
+    "uid": "2010_AFL_season_0",
+    "intro": "The 2010 Australian Football League season commenced on 25 March 2010 and concluded on 2 October 2010. It was the 114th season of the elite Australian rules football competition and the 21st under the name 'Australian Football League', having switched from 'Victorian Football League' after 1989. The premiership was won by Collingwood, who defeated St Kilda by 56 points in the Grand Final Replay, which was played after the first Grand Final was drawn. Collingwood's win marked the 15th VFL/AFL premiership in the club's history. The 2010 AFL season had a total attendance of 7,146,738 people and an average attendance of 38,423 per game, both of which were the highest in league history (breaking the previous records set in 2008). The record for total attendance was broken in 2017, but the record for average attendance still stands. It was the 16th and final season to be played with sixteen teams. An expansion of the league occurred over the following two seasons, with Gold Coast and Greater Western Sydney joining in 2011 and 2012 respectively."
+}

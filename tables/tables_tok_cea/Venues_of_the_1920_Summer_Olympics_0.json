@@ -1,0 +1,584 @@
+{
+    "url": "https://en.wikipedia.org/wiki/1920_Summer_Olympics",
+    "title": "1920 Summer Olympics",
+    "header": [
+        [
+            "Venue",
+            []
+        ],
+        [
+            "Sports",
+            []
+        ],
+        [
+            "Capacity",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Antwerp",
+                [
+                    "/wiki/Antwerp"
+                ],
+                [
+                    {
+                        "entity id": "Q12892",
+                        "label": "Antwerp"
+                    }
+                ]
+            ],
+            [
+                "Cycling ( road )",
+                [
+                    "/wiki/Cycling_at_the_1920_Summer_Olympics"
+                ],
+                [
+                    {
+                        "entity id": "Q914257",
+                        "label": "cycling at the 1920 Summer Olympics"
+                    }
+                ]
+            ],
+            [
+                "Not listed",
+                []
+            ]
+        ],
+        [
+            [
+                "Antwerp Zoo",
+                [
+                    "/wiki/Antwerp_Zoo"
+                ],
+                [
+                    {
+                        "entity id": "Q220003",
+                        "label": "Antwerp Zoo"
+                    }
+                ]
+            ],
+            [
+                "Boxing , Wrestling",
+                [
+                    "/wiki/Boxing_at_the_1920_Summer_Olympics",
+                    "/wiki/Wrestling_at_the_1920_Summer_Olympics"
+                ],
+                [
+                    {
+                        "entity id": "Q731377",
+                        "label": "boxing at the 1920 Summer Olympics"
+                    },
+                    {
+                        "entity id": "Q161922",
+                        "label": "wrestling at the 1920 Summer Olympics"
+                    }
+                ]
+            ],
+            [
+                "Not listed",
+                []
+            ]
+        ],
+        [
+            [
+                "Beerschot Tennis Club",
+                [
+                    "/wiki/Beerschot_Tennis_Club"
+                ],
+                [
+                    {
+                        "entity id": "Q4880084",
+                        "label": "Beerschot Tennis Club"
+                    }
+                ]
+            ],
+            [
+                "Tennis",
+                [
+                    "/wiki/Tennis_at_the_1920_Summer_Olympics"
+                ],
+                [
+                    {
+                        "entity id": "Q843688",
+                        "label": "tennis at the 1920 Summer Olympics"
+                    }
+                ]
+            ],
+            [
+                "Not listed",
+                []
+            ]
+        ],
+        [
+            [
+                "Beverloo Camp",
+                [
+                    "/wiki/Beverloo_Camp"
+                ],
+                [
+                    {
+                        "entity id": "Q2054357",
+                        "label": "Beverloo Camp"
+                    }
+                ]
+            ],
+            [
+                "Shooting ( pistol/rifle )",
+                [
+                    "/wiki/Shooting_at_the_1920_Summer_Olympics"
+                ],
+                [
+                    {
+                        "entity id": "Q933446",
+                        "label": "shooting at the 1920 Summer Olympics"
+                    }
+                ]
+            ],
+            [
+                "Not listed",
+                []
+            ]
+        ],
+        [
+            [
+                "Brussels-Scheldt Maritime Canal",
+                [
+                    "/wiki/Brussels\u2013Scheldt_Maritime_Canal"
+                ],
+                [
+                    {
+                        "entity id": "Q2117579",
+                        "label": "Brussels\u2013Scheldt Maritime Canal"
+                    }
+                ]
+            ],
+            [
+                "Rowing",
+                [
+                    "/wiki/Rowing_at_the_1920_Summer_Olympics"
+                ],
+                [
+                    {
+                        "entity id": "Q909971",
+                        "label": "rowing at the 1920 Summer Olympics"
+                    }
+                ]
+            ],
+            [
+                "Not listed",
+                []
+            ]
+        ],
+        [
+            [
+                "Buiten Y ( Amsterdam )",
+                [
+                    "/wiki/IJ_(bay)",
+                    "/wiki/Amsterdam"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q727",
+                        "label": "Amsterdam"
+                    }
+                ]
+            ],
+            [
+                "Sailing ( 12 foot dinghy )",
+                [
+                    "/wiki/Sailing_at_the_1920_Summer_Olympics"
+                ],
+                [
+                    {
+                        "entity id": "Q958752",
+                        "label": "sailing at the 1920 Summer Olympics"
+                    }
+                ]
+            ],
+            [
+                "Not listed",
+                []
+            ]
+        ],
+        [
+            [
+                "Gardens of the Egmont Palace ( Brussels )",
+                [
+                    "/wiki/Egmont_Palace",
+                    "/wiki/Brussels"
+                ],
+                [
+                    {
+                        "entity id": "Q2429651",
+                        "label": "Egmont Palace"
+                    },
+                    {
+                        "entity id": "Q239",
+                        "label": "City of Brussels"
+                    }
+                ]
+            ],
+            [
+                "Fencing",
+                [
+                    "/wiki/Fencing_at_the_1920_Summer_Olympics"
+                ],
+                [
+                    {
+                        "entity id": "Q532305",
+                        "label": "fencing at the 1920 Summer Olympics"
+                    }
+                ]
+            ],
+            [
+                "Not listed",
+                []
+            ]
+        ],
+        [
+            [
+                "Hoogboom Military Camp",
+                [
+                    "/wiki/Hoogboom_Military_Camp"
+                ],
+                [
+                    {
+                        "entity id": "Q5897702",
+                        "label": "Hoogboom Military Camp"
+                    }
+                ]
+            ],
+            [
+                "Shooting ( trap shooting , running target )",
+                []
+            ],
+            [
+                "Not listed",
+                []
+            ]
+        ],
+        [
+            [
+                "Jules Ottenstadion ( Ghent )",
+                [
+                    "/wiki/Jules_Ottenstadion",
+                    "/wiki/Ghent"
+                ],
+                [
+                    {
+                        "entity id": "Q1711746",
+                        "label": "Jules Ottenstadion"
+                    },
+                    {
+                        "entity id": "Q1296",
+                        "label": "Ghent"
+                    }
+                ]
+            ],
+            [
+                "Football ( Italy - Egypt match )",
+                [
+                    "/wiki/Football_at_the_1920_Summer_Olympics",
+                    "/wiki/Italy_at_the_1920_Summer_Olympics",
+                    "/wiki/Egypt_at_the_1920_Summer_Olympics"
+                ],
+                [
+                    {
+                        "entity id": "Q838615",
+                        "label": "football at the 1920 Summer Olympics"
+                    },
+                    {
+                        "entity id": "Q2176160",
+                        "label": "Italy at the 1920 Summer Olympics"
+                    },
+                    {
+                        "entity id": "Q145397",
+                        "label": "Egypt at the 1920 Summer Olympics"
+                    }
+                ]
+            ],
+            [
+                "Not listed",
+                []
+            ]
+        ],
+        [
+            [
+                "Nachtegalen Park",
+                [
+                    "/wiki/Nachtegalen_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q1892753",
+                        "label": "Nachtegalen Park"
+                    }
+                ]
+            ],
+            [
+                "Archery",
+                [
+                    "/wiki/Archery_at_the_1920_Summer_Olympics"
+                ],
+                [
+                    {
+                        "entity id": "Q477981",
+                        "label": "archery at the 1920 Summer Olympics"
+                    }
+                ]
+            ],
+            [
+                "Not listed",
+                []
+            ]
+        ],
+        [
+            [
+                "Olympisch Stadion",
+                [
+                    "/wiki/Olympisch_Stadion_(Antwerp)"
+                ],
+                [
+                    {
+                        "entity id": "Q1057087",
+                        "label": "Olympisch Stadion"
+                    }
+                ]
+            ],
+            [
+                "Athletics , Equestrian , Field hockey , Football ( final ) , Gymnastics , Modern pentathlon , Rugby union , Tug of war , Weightlifting",
+                [
+                    "/wiki/Athletics_at_the_1920_Summer_Olympics",
+                    "/wiki/Equestrian_at_the_1920_Summer_Olympics",
+                    "/wiki/Field_hockey_at_the_1920_Summer_Olympics",
+                    "/wiki/Gymnastics_at_the_1920_Summer_Olympics",
+                    "/wiki/Modern_pentathlon_at_the_1920_Summer_Olympics",
+                    "/wiki/Rugby_union_at_the_1920_Summer_Olympics",
+                    "/wiki/Tug_of_war_at_the_1920_Summer_Olympics",
+                    "/wiki/Weightlifting_at_the_1920_Summer_Olympics"
+                ],
+                [
+                    {
+                        "entity id": "Q748653",
+                        "label": "athletics at the 1920 Summer Olympics"
+                    },
+                    {
+                        "entity id": "Q593457",
+                        "label": "equestrian at the 1920 Summer Olympics"
+                    },
+                    {
+                        "entity id": "Q855304",
+                        "label": "field hockey at the 1920 Summer Olympics"
+                    },
+                    {
+                        "entity id": "Q629789",
+                        "label": "gymnastics at the 1920 Summer Olympics"
+                    },
+                    {
+                        "entity id": "Q611181",
+                        "label": "modern pentathlon at the 1920 Summer Olympics"
+                    },
+                    {
+                        "entity id": "Q1070541",
+                        "label": "rugby union at the 1920 Summer Olympics"
+                    },
+                    {
+                        "entity id": "Q933489",
+                        "label": "tug of war at the 1920 Summer Olympics"
+                    },
+                    {
+                        "entity id": "Q934193",
+                        "label": "weightlifting at the 1920 Summer Olympics"
+                    }
+                ]
+            ],
+            [
+                "30,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Ostend",
+                [
+                    "/wiki/Ostend"
+                ],
+                [
+                    {
+                        "entity id": "Q12996",
+                        "label": "Ostend"
+                    }
+                ]
+            ],
+            [
+                "Polo , Sailing",
+                [
+                    "/wiki/Polo_at_the_1920_Summer_Olympics"
+                ],
+                [
+                    {
+                        "entity id": "Q121861",
+                        "label": "polo at the 1920 Summer Olympics"
+                    }
+                ]
+            ],
+            [
+                "Not listed",
+                []
+            ]
+        ],
+        [
+            [
+                "Palais de Glace d'Anvers",
+                [
+                    "/wiki/Palais_de_Glace_d'Anvers"
+                ],
+                [
+                    {
+                        "entity id": "Q7126606",
+                        "label": "Palais de Glace d'Anvers"
+                    }
+                ]
+            ],
+            [
+                "Figure skating , Ice hockey",
+                [
+                    "/wiki/Figure_skating_at_the_1920_Summer_Olympics",
+                    "/wiki/Ice_hockey_at_the_1920_Summer_Olympics"
+                ],
+                [
+                    {
+                        "entity id": "Q518082",
+                        "label": "figure skating at the 1920 Summer Olympics"
+                    },
+                    {
+                        "entity id": "Q513389",
+                        "label": "ice hockey at the 1920 Summer Olympics"
+                    }
+                ]
+            ],
+            [
+                "Not listed",
+                []
+            ]
+        ],
+        [
+            [
+                "Stade Joseph Marien ( Brussels )",
+                [
+                    "/wiki/Stade_Joseph_Marien",
+                    "/wiki/Brussels"
+                ],
+                [
+                    {
+                        "entity id": "Q3495665",
+                        "label": "Stade Joseph Marien - Joseph Marienstadion"
+                    },
+                    {
+                        "entity id": "Q239",
+                        "label": "City of Brussels"
+                    }
+                ]
+            ],
+            [
+                "Football",
+                []
+            ],
+            [
+                "Not listed",
+                []
+            ]
+        ],
+        [
+            [
+                "Stade Nautique d'Antwerp",
+                [
+                    "/wiki/Stade_Nautique_d'Antwerp"
+                ],
+                [
+                    {
+                        "entity id": "Q7596186",
+                        "label": "Stade Nautique d'Antwerp"
+                    }
+                ]
+            ],
+            [
+                "Diving , Swimming , Water polo",
+                [
+                    "/wiki/Diving_at_the_1920_Summer_Olympics",
+                    "/wiki/Swimming_at_the_1920_Summer_Olympics",
+                    "/wiki/Water_polo_at_the_1920_Summer_Olympics"
+                ],
+                [
+                    {
+                        "entity id": "Q770656",
+                        "label": "diving at the 1920 Summer Olympics"
+                    },
+                    {
+                        "entity id": "Q855325",
+                        "label": "swimming at the 1920 Summer Olympics"
+                    },
+                    {
+                        "entity id": "Q838627",
+                        "label": "water polo at the 1920 Summer Olympics"
+                    }
+                ]
+            ],
+            [
+                "Not listed",
+                []
+            ]
+        ],
+        [
+            [
+                "Stadion Broodstraat",
+                [
+                    "/wiki/Stadion_Broodstraat"
+                ],
+                [
+                    {
+                        "entity id": "Q7596290",
+                        "label": "Stadion Broodstraat"
+                    }
+                ]
+            ],
+            [
+                "Football",
+                []
+            ],
+            [
+                "Not listed",
+                []
+            ]
+        ],
+        [
+            [
+                "V\u00e9lodrome d'Anvers Zuremborg",
+                [
+                    "/wiki/V\u00e9lodrome_d'Anvers_Zuremborg"
+                ],
+                [
+                    {
+                        "entity id": "Q7944519",
+                        "label": "V\u00e9lodrome d'Anvers Zuremborg"
+                    }
+                ]
+            ],
+            [
+                "Cycling ( track )",
+                []
+            ],
+            [
+                "Not listed",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Venues",
+    "section_text": "Seventeen sports venues were used in the 1920 Summer Olympics . This marked the first time that the football tournament was spread throughout the country , which has mostly been the case since . [ 11 ] Photograph of the games at Antwerp , Belgium , 1920 .",
+    "uid": "Venues_of_the_1920_Summer_Olympics_0",
+    "intro": "The 1920 Summer Olympics (French: Les Jeux olympiques d'\u00e9t\u00e9 de 1920; Dutch: Olympische Zomerspelen van de VIIe Olympiade; German: Olympische Sommerspiele 1920), officially known as the Games of the VII Olympiad, were an international multi-sport event in 1920 in Antwerp, Belgium. In March 1912, during the 13th session of the IOC, Belgium's bid to host the 1920 Summer Olympics was made by Baron \u00c9douard de Laveleye, president of the Belgian Olympic Committee and of the Royal Belgian Football Association. No fixed host city was proposed at the time. The 1916 Summer Olympics, to be held in Berlin, capital of the German Empire, were cancelled due to World War I. The aftermath of the war and the Paris Peace Conference, 1919 affected the Olympic Games not only due to new states being created, but also by sanctions against the nations that lost the war and were blamed for starting it. Hungary, Germany, Austria, Bulgaria, and the Ottoman Empire were banned from competing in the Games. Germany did not return to Olympic competition until 1928 and instead hosted a series of games called Deutsche Kampfspiele, starting with the Winter edition of 1922 (which predated the first Winter Olympics). The United States won the most gold and overall medals. The sailing events were held in Ostend, Belgium, and two in Amsterdam, Netherlands."
+}

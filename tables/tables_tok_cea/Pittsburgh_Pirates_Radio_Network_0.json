@@ -1,0 +1,887 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Pittsburgh_Pirates_Radio_Network",
+    "title": "Pittsburgh Pirates Radio Network",
+    "header": [
+        [
+            "Callsign",
+            []
+        ],
+        [
+            "Frequency",
+            []
+        ],
+        [
+            "Band",
+            []
+        ],
+        [
+            "City",
+            []
+        ],
+        [
+            "State",
+            []
+        ],
+        [
+            "Network status",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "KDKA-FM",
+                [
+                    "/wiki/KDKA-FM"
+                ],
+                [
+                    {
+                        "entity id": "Q15230024",
+                        "label": "KDKA-FM"
+                    }
+                ]
+            ],
+            [
+                "93.7",
+                []
+            ],
+            [
+                "FM",
+                []
+            ],
+            [
+                "Pittsburgh",
+                [
+                    "/wiki/Pittsburgh,_Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q1342",
+                        "label": "Pittsburgh"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                []
+            ],
+            [
+                "Flagship",
+                []
+            ]
+        ],
+        [
+            [
+                "KDKA",
+                [
+                    "/wiki/KDKA_(AM)"
+                ],
+                [
+                    {
+                        "entity id": "Q1718482",
+                        "label": "KDKA"
+                    }
+                ]
+            ],
+            [
+                "1020",
+                []
+            ],
+            [
+                "AM",
+                []
+            ],
+            [
+                "Pittsburgh",
+                [
+                    "/wiki/Pittsburgh,_Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q1342",
+                        "label": "Pittsburgh"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                []
+            ],
+            [
+                "Flagship",
+                []
+            ]
+        ],
+        [
+            [
+                "WTNA",
+                [
+                    "/wiki/WTNA"
+                ],
+                [
+                    {
+                        "entity id": "Q7956735",
+                        "label": "WTNA"
+                    }
+                ]
+            ],
+            [
+                "1430",
+                []
+            ],
+            [
+                "AM",
+                []
+            ],
+            [
+                "Altoona",
+                [
+                    "/wiki/Altoona,_Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q444210",
+                        "label": "Altoona"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                []
+            ],
+            [
+                "Affiliate",
+                []
+            ]
+        ],
+        [
+            [
+                "W259DG",
+                []
+            ],
+            [
+                "99.7",
+                []
+            ],
+            [
+                "FM",
+                []
+            ],
+            [
+                "Altoona",
+                [
+                    "/wiki/Altoona,_Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q444210",
+                        "label": "Altoona"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                []
+            ],
+            [
+                "n/a ( WTNA simulcast )",
+                [
+                    "/wiki/WTNA"
+                ],
+                [
+                    {
+                        "entity id": "Q7956735",
+                        "label": "WTNA"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "WMBA",
+                [
+                    "/wiki/WMBA"
+                ],
+                [
+                    {
+                        "entity id": "Q430485",
+                        "label": "Sitiawan Airport"
+                    }
+                ]
+            ],
+            [
+                "1460",
+                []
+            ],
+            [
+                "AM",
+                []
+            ],
+            [
+                "Ambridge",
+                [
+                    "/wiki/Ambridge,_Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q1130536",
+                        "label": "Ambridge"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                []
+            ],
+            [
+                "Affiliate",
+                []
+            ]
+        ],
+        [
+            [
+                "W239CR",
+                []
+            ],
+            [
+                "95.7",
+                []
+            ],
+            [
+                "FM",
+                []
+            ],
+            [
+                "Ambridge",
+                [
+                    "/wiki/Ambridge,_Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q1130536",
+                        "label": "Ambridge"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                []
+            ],
+            [
+                "n/a ( WMBA simulcast )",
+                [
+                    "/wiki/WMBA"
+                ],
+                [
+                    {
+                        "entity id": "Q430485",
+                        "label": "Sitiawan Airport"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "WBVP",
+                [
+                    "/wiki/WBVP"
+                ],
+                [
+                    {
+                        "entity id": "Q7947503",
+                        "label": "WBVP"
+                    }
+                ]
+            ],
+            [
+                "1230",
+                []
+            ],
+            [
+                "AM",
+                []
+            ],
+            [
+                "Beaver Falls",
+                [
+                    "/wiki/Beaver_Falls,_Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q1130843",
+                        "label": "Beaver Falls"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                []
+            ],
+            [
+                "Affiliate",
+                []
+            ]
+        ],
+        [
+            [
+                "W257EA",
+                [
+                    "/wiki/W257EA"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "99.3",
+                []
+            ],
+            [
+                "FM",
+                []
+            ],
+            [
+                "Beaver Falls",
+                [
+                    "/wiki/Beaver_Falls,_Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q1130843",
+                        "label": "Beaver Falls"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                []
+            ],
+            [
+                "n/a ( WBVP simulcast )",
+                [
+                    "/wiki/WBVP"
+                ],
+                [
+                    {
+                        "entity id": "Q7947503",
+                        "label": "WBVP"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "WESB",
+                [
+                    "/wiki/WESB"
+                ],
+                [
+                    {
+                        "entity id": "Q7949041",
+                        "label": "WESB"
+                    }
+                ]
+            ],
+            [
+                "1490",
+                []
+            ],
+            [
+                "AM",
+                []
+            ],
+            [
+                "Bradford",
+                [
+                    "/wiki/Bradford,_Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q662409",
+                        "label": "Bradford"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                []
+            ],
+            [
+                "Affiliate",
+                []
+            ]
+        ],
+        [
+            [
+                "W298CM",
+                [
+                    "/wiki/W298CM"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "107.5",
+                []
+            ],
+            [
+                "FM",
+                []
+            ],
+            [
+                "Bradford",
+                [
+                    "/wiki/Bradford,_Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q662409",
+                        "label": "Bradford"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                []
+            ],
+            [
+                "n/a ( WESB simulcast )",
+                [
+                    "/wiki/WESB"
+                ],
+                [
+                    {
+                        "entity id": "Q7949041",
+                        "label": "WESB"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "WISR",
+                [
+                    "/wiki/WISR"
+                ],
+                [
+                    {
+                        "entity id": "Q16903575",
+                        "label": "WISR"
+                    }
+                ]
+            ],
+            [
+                "680",
+                []
+            ],
+            [
+                "AM",
+                []
+            ],
+            [
+                "Butler",
+                [
+                    "/wiki/Butler,_Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q1017948",
+                        "label": "Butler"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                []
+            ],
+            [
+                "Affiliate",
+                []
+            ]
+        ],
+        [
+            [
+                "W298CW",
+                []
+            ],
+            [
+                "107.5",
+                []
+            ],
+            [
+                "FM",
+                []
+            ],
+            [
+                "Butler",
+                [
+                    "/wiki/Butler,_Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q1017948",
+                        "label": "Butler"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                []
+            ],
+            [
+                "n/a ( WISR simulcast )",
+                [
+                    "/wiki/WISR"
+                ],
+                [
+                    {
+                        "entity id": "Q16903575",
+                        "label": "WISR"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "WKAZ",
+                [
+                    "/wiki/WKAZ_(AM)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "680",
+                []
+            ],
+            [
+                "AM",
+                []
+            ],
+            [
+                "Charleston",
+                [
+                    "/wiki/Charleston,_West_Virginia"
+                ],
+                [
+                    {
+                        "entity id": "Q44564",
+                        "label": "Charleston"
+                    }
+                ]
+            ],
+            [
+                "West Virginia",
+                []
+            ],
+            [
+                "Affiliate",
+                []
+            ]
+        ],
+        [
+            [
+                "W235BX",
+                [
+                    "/wiki/W235BX"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "94.9",
+                []
+            ],
+            [
+                "FM",
+                []
+            ],
+            [
+                "Colliers",
+                [
+                    "/wiki/Colliers,_West_Virginia"
+                ],
+                [
+                    {
+                        "entity id": "Q5147189",
+                        "label": "Colliers"
+                    }
+                ]
+            ],
+            [
+                "West Virginia",
+                []
+            ],
+            [
+                "n/a ( WEIR simulcast )",
+                [
+                    "/wiki/WEIR"
+                ],
+                [
+                    {
+                        "entity id": "Q1066997",
+                        "label": "weir"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "WFRM",
+                [
+                    "/wiki/WFRM"
+                ],
+                [
+                    {
+                        "entity id": "Q16903162",
+                        "label": "WFRM"
+                    }
+                ]
+            ],
+            [
+                "600",
+                []
+            ],
+            [
+                "AM",
+                []
+            ],
+            [
+                "Coudersport",
+                [
+                    "/wiki/Coudersport,_Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q507887",
+                        "label": "Coudersport"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                []
+            ],
+            [
+                "Affiliate",
+                []
+            ]
+        ],
+        [
+            [
+                "W243EB",
+                []
+            ],
+            [
+                "96.5",
+                []
+            ],
+            [
+                "FM",
+                []
+            ],
+            [
+                "Coudersport",
+                [
+                    "/wiki/Coudersport,_Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q507887",
+                        "label": "Coudersport"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                []
+            ],
+            [
+                "n/a ( WFRM simulcast )",
+                [
+                    "/wiki/WFRM"
+                ],
+                [
+                    {
+                        "entity id": "Q16903162",
+                        "label": "WFRM"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "WCBC",
+                [
+                    "/wiki/WCBC_(AM)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1270",
+                []
+            ],
+            [
+                "AM",
+                []
+            ],
+            [
+                "Cumberland",
+                [
+                    "/wiki/Cumberland,_Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q754868",
+                        "label": "Cumberland"
+                    }
+                ]
+            ],
+            [
+                "Maryland",
+                []
+            ],
+            [
+                "Affiliate",
+                []
+            ]
+        ],
+        [
+            [
+                "W276DQ",
+                [
+                    "/wiki/W276DQ"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "103.1",
+                []
+            ],
+            [
+                "FM",
+                []
+            ],
+            [
+                "Cumberland",
+                [
+                    "/wiki/Cumberland,_Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q754868",
+                        "label": "Cumberland"
+                    }
+                ]
+            ],
+            [
+                "Maryland",
+                []
+            ],
+            [
+                "n/a ( WCBC simulcast )",
+                [
+                    "/wiki/WCBC_(AM)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "WCED",
+                [
+                    "/wiki/WCED"
+                ],
+                [
+                    {
+                        "entity id": "Q7451551",
+                        "label": "Brundtland Commission"
+                    }
+                ]
+            ],
+            [
+                "1420",
+                []
+            ],
+            [
+                "AM",
+                []
+            ],
+            [
+                "DuBois",
+                [
+                    "/wiki/DuBois,_Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q1134034",
+                        "label": "DuBois"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                []
+            ],
+            [
+                "Affiliate",
+                []
+            ]
+        ],
+        [
+            [
+                "W259DC",
+                []
+            ],
+            [
+                "99.7",
+                []
+            ],
+            [
+                "FM",
+                []
+            ],
+            [
+                "DuBois",
+                [
+                    "/wiki/DuBois,_Pennsylvania"
+                ],
+                [
+                    {
+                        "entity id": "Q1134034",
+                        "label": "DuBois"
+                    }
+                ]
+            ],
+            [
+                "Pennsylvania",
+                []
+            ],
+            [
+                "n/a ( WCED simulcast )",
+                [
+                    "/wiki/WCED"
+                ],
+                [
+                    {
+                        "entity id": "Q7451551",
+                        "label": "Brundtland Commission"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Station list",
+    "section_text": "",
+    "uid": "Pittsburgh_Pirates_Radio_Network_0",
+    "intro": "The Pittsburgh Pirates, the Major League Baseball franchise in Pittsburgh are carried on radio stations throughout four states including Pennsylvania, Ohio, West Virginia and Maryland. In 2012, KDKA-FM in Pittsburgh became the flagship station, replacing WPGB-FM., KDKA-AM also airs Pirates Games when 93.7 does Pittsburgh Panthers Coverage. Greg Brown and Joe Block does play by play. They are joined by either Steve Blass (for home games only) or John Wehner (for all road games and some home games)."
+}

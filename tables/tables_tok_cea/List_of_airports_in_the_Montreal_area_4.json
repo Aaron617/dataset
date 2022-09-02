@@ -1,0 +1,289 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Montreal_area",
+    "title": "List of airports in the Montreal area",
+    "header": [
+        [
+            "Airport name",
+            []
+        ],
+        [
+            "ICAO / TC LID / IATA",
+            [
+                "/wiki/International_Civil_Aviation_Organization_airport_code",
+                "/wiki/Transport_Canada",
+                "/wiki/Location_identifier",
+                "/wiki/International_Air_Transport_Association_airport_code"
+            ],
+            [
+                {
+                    "entity id": "Q207529",
+                    "label": "ICAO airport code"
+                },
+                {
+                    "entity id": "Q2035496",
+                    "label": "Transport Canada"
+                },
+                {
+                    "entity id": "Q28758335",
+                    "label": "location identifier"
+                },
+                {
+                    "entity id": "Q192824",
+                    "label": "IATA airport code"
+                }
+            ]
+        ],
+        [
+            "Location",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Cartierville Airport",
+                [
+                    "/wiki/Cartierville_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1961318",
+                        "label": "Cartierville Airport"
+                    }
+                ]
+            ],
+            [
+                "CYCV ( YCV )",
+                []
+            ],
+            [
+                "Saint-Laurent",
+                [
+                    "/wiki/Saint-Laurent,_Quebec"
+                ],
+                [
+                    {
+                        "entity id": "Q2117999",
+                        "label": "Saint-Laurent"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Chambly Airport",
+                [
+                    "/wiki/Chambly_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1836569",
+                        "label": "Chambly Airport"
+                    }
+                ]
+            ],
+            [
+                "CTT2",
+                []
+            ],
+            [
+                "Chambly",
+                [
+                    "/wiki/Chambly,_Quebec"
+                ],
+                [
+                    {
+                        "entity id": "Q142069",
+                        "label": "Chambly"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Hawkesbury ( Windover Field ) Airport",
+                [
+                    "/wiki/Hawkesbury_(Windover_Field)_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3885286",
+                        "label": "Hawkesbury (Windover Field) Airport"
+                    }
+                ]
+            ],
+            [
+                "CPD8",
+                []
+            ],
+            [
+                "Hawkesbury , Ontario",
+                [
+                    "/wiki/Hawkesbury,_Ontario"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Montr\u00e9al/Boucherville Water Aerodrome",
+                [
+                    "/wiki/Montr\u00e9al/Boucherville_Water_Aerodrome"
+                ],
+                [
+                    {
+                        "entity id": "Q3612890",
+                        "label": "Montr\u00e9al/Boucherville Water Aerodrome"
+                    }
+                ]
+            ],
+            [
+                "CTA7",
+                []
+            ],
+            [
+                "Boucherville",
+                [
+                    "/wiki/Boucherville"
+                ],
+                [
+                    {
+                        "entity id": "Q141924",
+                        "label": "Boucherville"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Montr\u00e9al/\u00cele Sainte-H\u00e9l\u00e8ne Water Airport",
+                [
+                    "/wiki/Montr\u00e9al/\u00cele_Sainte-H\u00e9l\u00e8ne_Water_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q15975299",
+                        "label": "Montr\u00e9al/\u00cele Sainte-H\u00e9l\u00e8ne Water Airport"
+                    }
+                ]
+            ],
+            [
+                "CVP2",
+                []
+            ],
+            [
+                "Saint Helen 's Island , Montreal",
+                [
+                    "/wiki/Saint_Helen's_Island",
+                    "/wiki/Montreal"
+                ],
+                [
+                    {
+                        "entity id": "Q292158",
+                        "label": "Saint Helen's Island"
+                    },
+                    {
+                        "entity id": "Q340",
+                        "label": "Montreal"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Montr\u00e9al/Mascouche Airport",
+                [
+                    "/wiki/Montr\u00e9al/Mascouche_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3612825",
+                        "label": "Montr\u00e9al/Mascouche Airport"
+                    }
+                ]
+            ],
+            [
+                "CSK3",
+                []
+            ],
+            [
+                "Mascouche",
+                [
+                    "/wiki/Mascouche"
+                ],
+                [
+                    {
+                        "entity id": "Q141748",
+                        "label": "Mascouche"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "CFB St. Hubert",
+                [
+                    "/wiki/CFB_St._Hubert"
+                ],
+                [
+                    {
+                        "entity id": "Q5010470",
+                        "label": "CFB St. Hubert"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Montreal",
+                [
+                    "/wiki/Montreal"
+                ],
+                [
+                    {
+                        "entity id": "Q340",
+                        "label": "Montreal"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Victoria STOLport",
+                [
+                    "/wiki/Victoria_STOLport"
+                ],
+                [
+                    {
+                        "entity id": "Q7927020",
+                        "label": "Victoria STOLport"
+                    }
+                ]
+            ],
+            [
+                "CYMY ( YMY )",
+                []
+            ],
+            [
+                "Montreal",
+                [
+                    "/wiki/Montreal"
+                ],
+                [
+                    {
+                        "entity id": "Q340",
+                        "label": "Montreal"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Historical airports",
+    "section_text": "",
+    "uid": "List_of_airports_in_the_Montreal_area_4",
+    "intro": "The following active airports serve the area around Montreal, Quebec, Canada, lying underneath or immediately adjacent to Montreal's terminal control area:"
+}

@@ -1,0 +1,872 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Intermountain_Healthcare",
+    "title": "Intermountain Healthcare",
+    "header": [
+        [
+            "Facility Name",
+            []
+        ],
+        [
+            "City",
+            []
+        ],
+        [
+            "State",
+            []
+        ],
+        [
+            "Licensed Beds",
+            []
+        ],
+        [
+            "Staffed Beds",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Alta View Hospital",
+                [
+                    "/wiki/Alta_View_Hospital"
+                ],
+                [
+                    {
+                        "entity id": "Q4736003",
+                        "label": "Alta View Hospital"
+                    }
+                ]
+            ],
+            [
+                "Sandy",
+                [
+                    "/wiki/Sandy,_Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q52470",
+                        "label": "Sandy"
+                    }
+                ]
+            ],
+            [
+                "Utah",
+                [
+                    "/wiki/Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    }
+                ]
+            ],
+            [
+                "71",
+                []
+            ],
+            [
+                "66",
+                []
+            ]
+        ],
+        [
+            [
+                "American Fork Hospital",
+                [
+                    "/wiki/American_Fork_Hospital"
+                ],
+                [
+                    {
+                        "entity id": "Q4743841",
+                        "label": "American Fork Hospital"
+                    }
+                ]
+            ],
+            [
+                "American Fork",
+                [
+                    "/wiki/American_Fork,_Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q464598",
+                        "label": "American Fork"
+                    }
+                ]
+            ],
+            [
+                "Utah",
+                [
+                    "/wiki/Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    }
+                ]
+            ],
+            [
+                "109",
+                []
+            ],
+            [
+                "109",
+                []
+            ]
+        ],
+        [
+            [
+                "Bear River Valley Hospital",
+                []
+            ],
+            [
+                "Tremonton",
+                [
+                    "/wiki/Tremonton,_Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q482628",
+                        "label": "Tremonton"
+                    }
+                ]
+            ],
+            [
+                "Utah",
+                [
+                    "/wiki/Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    }
+                ]
+            ],
+            [
+                "16",
+                []
+            ],
+            [
+                "16",
+                []
+            ]
+        ],
+        [
+            [
+                "Cassia Regional Hospital",
+                []
+            ],
+            [
+                "Burley",
+                [
+                    "/wiki/Burley,_Idaho"
+                ],
+                [
+                    {
+                        "entity id": "Q844028",
+                        "label": "Burley"
+                    }
+                ]
+            ],
+            [
+                "Idaho",
+                [
+                    "/wiki/Idaho"
+                ],
+                [
+                    {
+                        "entity id": "Q1221",
+                        "label": "Idaho"
+                    }
+                ]
+            ],
+            [
+                "25",
+                []
+            ],
+            [
+                "25",
+                []
+            ]
+        ],
+        [
+            [
+                "Cedar City Hospital",
+                []
+            ],
+            [
+                "Cedar City",
+                [
+                    "/wiki/Cedar_City,_Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q487212",
+                        "label": "Cedar City"
+                    }
+                ]
+            ],
+            [
+                "Utah",
+                [
+                    "/wiki/Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    }
+                ]
+            ],
+            [
+                "48",
+                []
+            ],
+            [
+                "48",
+                []
+            ]
+        ],
+        [
+            [
+                "Delta Community Hospital",
+                []
+            ],
+            [
+                "Delta",
+                [
+                    "/wiki/Delta,_Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q482416",
+                        "label": "Delta"
+                    }
+                ]
+            ],
+            [
+                "Utah",
+                [
+                    "/wiki/Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    }
+                ]
+            ],
+            [
+                "18",
+                []
+            ],
+            [
+                "18",
+                []
+            ]
+        ],
+        [
+            [
+                "Dixie Regional Medical Center",
+                [
+                    "/wiki/Dixie_Regional_Medical_Center"
+                ],
+                [
+                    {
+                        "entity id": "Q5284886",
+                        "label": "Dixie Regional Medical Center"
+                    }
+                ]
+            ],
+            [
+                "St. George",
+                [
+                    "/wiki/St._George,_Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q52472",
+                        "label": "St. George"
+                    }
+                ]
+            ],
+            [
+                "Utah",
+                [
+                    "/wiki/Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    }
+                ]
+            ],
+            [
+                "245",
+                []
+            ],
+            [
+                "245",
+                []
+            ]
+        ],
+        [
+            [
+                "Fillmore Community Hospital",
+                []
+            ],
+            [
+                "Fillmore",
+                [
+                    "/wiki/Fillmore,_Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q129980",
+                        "label": "Fillmore"
+                    }
+                ]
+            ],
+            [
+                "Utah",
+                [
+                    "/wiki/Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    }
+                ]
+            ],
+            [
+                "19",
+                []
+            ],
+            [
+                "19",
+                []
+            ]
+        ],
+        [
+            [
+                "Garfield Memorial Hospital & Clinics",
+                [
+                    "/wiki/Garfield_Memorial_Hospital"
+                ],
+                [
+                    {
+                        "entity id": "Q98940091",
+                        "label": "Garfield Hospital"
+                    }
+                ]
+            ],
+            [
+                "Panguitch",
+                [
+                    "/wiki/Panguitch,_Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q129976",
+                        "label": "Panguitch"
+                    }
+                ]
+            ],
+            [
+                "Utah",
+                [
+                    "/wiki/Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    }
+                ]
+            ],
+            [
+                "14",
+                []
+            ],
+            [
+                "14",
+                []
+            ]
+        ],
+        [
+            [
+                "Heber Valley Hospital",
+                []
+            ],
+            [
+                "Heber",
+                [
+                    "/wiki/Heber,_Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q482805",
+                        "label": "Heber City"
+                    }
+                ]
+            ],
+            [
+                "Utah",
+                [
+                    "/wiki/Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    }
+                ]
+            ],
+            [
+                "19",
+                []
+            ],
+            [
+                "16",
+                []
+            ]
+        ],
+        [
+            [
+                "Intermountain Medical Center",
+                [
+                    "/wiki/Intermountain_Medical_Center"
+                ],
+                [
+                    {
+                        "entity id": "Q6047575",
+                        "label": "Intermountain Medical Center"
+                    }
+                ]
+            ],
+            [
+                "Murray",
+                []
+            ],
+            [
+                "Utah",
+                [
+                    "/wiki/Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    }
+                ]
+            ],
+            [
+                "472",
+                []
+            ],
+            [
+                "472",
+                []
+            ]
+        ],
+        [
+            [
+                "Intermountain Layton Hospital",
+                []
+            ],
+            [
+                "Layton",
+                [
+                    "/wiki/Layton,_Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q52474",
+                        "label": "Layton"
+                    }
+                ]
+            ],
+            [
+                "Utah",
+                [
+                    "/wiki/Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    }
+                ]
+            ],
+            [
+                "43",
+                []
+            ],
+            [
+                "43",
+                []
+            ]
+        ],
+        [
+            [
+                "LDS Hospital",
+                [
+                    "/wiki/LDS_Hospital"
+                ],
+                [
+                    {
+                        "entity id": "Q6457522",
+                        "label": "LDS Hospital"
+                    }
+                ]
+            ],
+            [
+                "Salt Lake City",
+                [
+                    "/wiki/Salt_Lake_City"
+                ],
+                [
+                    {
+                        "entity id": "Q23337",
+                        "label": "Salt Lake City"
+                    }
+                ]
+            ],
+            [
+                "Utah",
+                [
+                    "/wiki/Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    }
+                ]
+            ],
+            [
+                "250",
+                []
+            ],
+            [
+                "250",
+                []
+            ]
+        ],
+        [
+            [
+                "Logan Regional Hospital",
+                [
+                    "/wiki/Logan_Regional_Hospital"
+                ],
+                [
+                    {
+                        "entity id": "Q6667136",
+                        "label": "Logan Regional Hospital"
+                    }
+                ]
+            ],
+            [
+                "Logan",
+                [
+                    "/wiki/Logan,_Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q482657",
+                        "label": "Logan"
+                    }
+                ]
+            ],
+            [
+                "Utah",
+                [
+                    "/wiki/Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    }
+                ]
+            ],
+            [
+                "146",
+                []
+            ],
+            [
+                "128",
+                []
+            ]
+        ],
+        [
+            [
+                "McKay-Dee Hospital Center",
+                [
+                    "/wiki/McKay-Dee_Hospital_Center"
+                ],
+                [
+                    {
+                        "entity id": "Q49747985",
+                        "label": "McKay-Dee Hospital Center Airport"
+                    }
+                ]
+            ],
+            [
+                "Ogden",
+                [
+                    "/wiki/Ogden,_Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q52471",
+                        "label": "Ogden"
+                    }
+                ]
+            ],
+            [
+                "Utah",
+                [
+                    "/wiki/Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    }
+                ]
+            ],
+            [
+                "321",
+                []
+            ],
+            [
+                "312",
+                []
+            ]
+        ],
+        [
+            [
+                "Orem Community Hospital",
+                [
+                    "/wiki/Orem_Community_Hospital"
+                ],
+                [
+                    {
+                        "entity id": "Q7101531",
+                        "label": "Orem Community Hospital"
+                    }
+                ]
+            ],
+            [
+                "Orem",
+                [
+                    "/wiki/Orem,_Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q52468",
+                        "label": "Orem"
+                    }
+                ]
+            ],
+            [
+                "Utah",
+                [
+                    "/wiki/Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    }
+                ]
+            ],
+            [
+                "24",
+                []
+            ],
+            [
+                "18",
+                []
+            ]
+        ],
+        [
+            [
+                "Park City Hospital",
+                []
+            ],
+            [
+                "Park City",
+                [
+                    "/wiki/Park_City,_Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q482993",
+                        "label": "Park City"
+                    }
+                ]
+            ],
+            [
+                "Utah",
+                [
+                    "/wiki/Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    }
+                ]
+            ],
+            [
+                "37",
+                []
+            ],
+            [
+                "37",
+                []
+            ]
+        ],
+        [
+            [
+                "Primary Children 's Hospital",
+                [
+                    "/wiki/Primary_Children's_Hospital"
+                ],
+                [
+                    {
+                        "entity id": "Q7243062",
+                        "label": "Primary Children's Medical Center"
+                    }
+                ]
+            ],
+            [
+                "Salt Lake City",
+                [
+                    "/wiki/Salt_Lake_City"
+                ],
+                [
+                    {
+                        "entity id": "Q23337",
+                        "label": "Salt Lake City"
+                    }
+                ]
+            ],
+            [
+                "Utah",
+                [
+                    "/wiki/Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    }
+                ]
+            ],
+            [
+                "289",
+                []
+            ],
+            [
+                "289",
+                []
+            ]
+        ],
+        [
+            [
+                "Riverton Hospital",
+                []
+            ],
+            [
+                "Riverton",
+                [
+                    "/wiki/Riverton,_Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q129965",
+                        "label": "Riverton"
+                    }
+                ]
+            ],
+            [
+                "Utah",
+                [
+                    "/wiki/Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    }
+                ]
+            ],
+            [
+                "97",
+                []
+            ],
+            [
+                "88",
+                []
+            ]
+        ],
+        [
+            [
+                "Sanpete Valley Hospital",
+                [
+                    "/wiki/Sanpete_Valley_Hospital"
+                ],
+                [
+                    {
+                        "entity id": "Q14711872",
+                        "label": "Sanpete Valley Hospital"
+                    }
+                ]
+            ],
+            [
+                "Mt . Pleasant",
+                [
+                    "/wiki/Mount_Pleasant,_Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q482399",
+                        "label": "Mount Pleasant"
+                    }
+                ]
+            ],
+            [
+                "Utah",
+                [
+                    "/wiki/Utah"
+                ],
+                [
+                    {
+                        "entity id": "Q829",
+                        "label": "Utah"
+                    }
+                ]
+            ],
+            [
+                "18",
+                []
+            ],
+            [
+                "18",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Hospitals",
+    "section_text": "Intermountain Healthcare operates 23 hospitals in Utah and Idaho , [ 14 ] with 2,745 licensed beds , as listed in the table below :",
+    "uid": "Intermountain_Healthcare_0",
+    "intro": "Intermountain Healthcare is a not-for-profit healthcare system and is the largest healthcare provider in the Intermountain West of the United States. Intermountain Healthcare provides hospital and other medical services in Utah and Idaho and also offers integrated managed care under the insurance brand SelectHealth. Intermountain Healthcare is headquartered in Salt Lake City, Utah, and has some 37,000 employees."
+}

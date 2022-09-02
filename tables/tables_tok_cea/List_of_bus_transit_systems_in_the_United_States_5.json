@@ -1,0 +1,415 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_bus_transit_systems_in_the_United_States",
+    "title": "List of bus transit systems in the United States",
+    "header": [
+        [
+            "System",
+            []
+        ],
+        [
+            "Locale",
+            []
+        ],
+        [
+            "Major city ( s )",
+            []
+        ],
+        [
+            "Daily ridership",
+            []
+        ],
+        [
+            "Number of vehicles",
+            []
+        ],
+        [
+            "Daily vehicle revenue miles",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "City of Loveland Transit",
+                []
+            ],
+            [
+                "Loveland",
+                [
+                    "/wiki/Loveland,_Colorado"
+                ],
+                [
+                    {
+                        "entity id": "Q876195",
+                        "label": "Loveland"
+                    }
+                ]
+            ],
+            [
+                "Loveland",
+                []
+            ],
+            [
+                "399",
+                []
+            ],
+            [
+                "3",
+                []
+            ],
+            [
+                "428",
+                []
+            ]
+        ],
+        [
+            [
+                "Grand Valley Transit",
+                [
+                    "/wiki/Grand_Valley_Transit"
+                ],
+                [
+                    {
+                        "entity id": "Q5595228",
+                        "label": "Grand Valley Transit"
+                    }
+                ]
+            ],
+            [
+                "Grand Junction , Palisade , Clifton , Orchard Mesa , and Fruita",
+                [
+                    "/wiki/Grand_Junction,_Colorado",
+                    "/wiki/Palisade,_Colorado",
+                    "/wiki/Clifton,_Colorado",
+                    "/wiki/Orchard_Mesa,_Colorado",
+                    "/wiki/Fruita,_Colorado"
+                ],
+                [
+                    {
+                        "entity id": "Q989903",
+                        "label": "Grand Junction"
+                    },
+                    {
+                        "entity id": "Q2009803",
+                        "label": "Palisade"
+                    },
+                    {
+                        "entity id": "Q1101367",
+                        "label": "Clifton"
+                    },
+                    {
+                        "entity id": "Q2416594",
+                        "label": "Orchard Mesa"
+                    },
+                    {
+                        "entity id": "Q1191112",
+                        "label": "Fruita"
+                    }
+                ]
+            ],
+            [
+                "Grand Junction",
+                []
+            ],
+            [
+                "2,354",
+                []
+            ],
+            [
+                "11",
+                []
+            ],
+            [
+                "2,027",
+                []
+            ]
+        ],
+        [
+            [
+                "Greeley-Evans Transit",
+                [
+                    "/wiki/Greeley-Evans_Transit"
+                ],
+                [
+                    {
+                        "entity id": "Q5602131",
+                        "label": "Greeley-Evans Transit"
+                    }
+                ]
+            ],
+            [
+                "Greeley and Evans",
+                [
+                    "/wiki/Greeley,_Colorado",
+                    "/wiki/Evans,_Colorado"
+                ],
+                [
+                    {
+                        "entity id": "Q94274",
+                        "label": "Greeley"
+                    },
+                    {
+                        "entity id": "Q1948681",
+                        "label": "Evans"
+                    }
+                ]
+            ],
+            [
+                "Greeley",
+                []
+            ],
+            [
+                "1,451",
+                []
+            ],
+            [
+                "10",
+                []
+            ],
+            [
+                "1,065",
+                []
+            ]
+        ],
+        [
+            [
+                "Mountain Metropolitan Transit",
+                [
+                    "/wiki/Mountain_Metropolitan_Transit"
+                ],
+                [
+                    {
+                        "entity id": "Q6925119",
+                        "label": "Mountain Metropolitan Transit"
+                    }
+                ]
+            ],
+            [
+                "Colorado Springs",
+                [
+                    "/wiki/Colorado_Springs,_Colorado"
+                ],
+                [
+                    {
+                        "entity id": "Q49258",
+                        "label": "Colorado Springs"
+                    }
+                ]
+            ],
+            [
+                "Colorado Springs",
+                []
+            ],
+            [
+                "8,638",
+                []
+            ],
+            [
+                "63",
+                []
+            ],
+            [
+                "8,681",
+                []
+            ]
+        ],
+        [
+            [
+                "Pueblo Transit",
+                [
+                    "/wiki/Pueblo_Transit"
+                ],
+                [
+                    {
+                        "entity id": "Q7258466",
+                        "label": "Pueblo Transit"
+                    }
+                ]
+            ],
+            [
+                "Pueblo",
+                [
+                    "/wiki/Pueblo,_Colorado"
+                ],
+                [
+                    {
+                        "entity id": "Q675576",
+                        "label": "Pueblo"
+                    }
+                ]
+            ],
+            [
+                "Pueblo",
+                []
+            ],
+            [
+                "2,479",
+                []
+            ],
+            [
+                "12",
+                []
+            ],
+            [
+                "1,532",
+                []
+            ]
+        ],
+        [
+            [
+                "Regional Transportation District",
+                [
+                    "/wiki/Regional_Transportation_District"
+                ],
+                [
+                    {
+                        "entity id": "Q7309183",
+                        "label": "Regional Transportation District"
+                    }
+                ]
+            ],
+            [
+                "Denver metropolitan area",
+                [
+                    "/wiki/Denver_metropolitan_area"
+                ],
+                [
+                    {
+                        "entity id": "Q2750084",
+                        "label": "Denver metropolitan area"
+                    }
+                ]
+            ],
+            [
+                "Denver",
+                [
+                    "/wiki/Denver"
+                ],
+                [
+                    {
+                        "entity id": "Q16554",
+                        "label": "Denver"
+                    }
+                ]
+            ],
+            [
+                "211,567",
+                []
+            ],
+            [
+                "955",
+                []
+            ],
+            [
+                "104,782",
+                []
+            ]
+        ],
+        [
+            [
+                "Roaring Fork Transportation Authority",
+                [
+                    "/wiki/Roaring_Fork_Transportation_Authority"
+                ],
+                [
+                    {
+                        "entity id": "Q7339865",
+                        "label": "Roaring Fork Transportation Authority"
+                    }
+                ]
+            ],
+            [
+                "Roaring Fork Valley",
+                [
+                    "/wiki/Roaring_Fork_Valley"
+                ],
+                [
+                    {
+                        "entity id": "Q7339864",
+                        "label": "Roaring Fork Valley"
+                    }
+                ]
+            ],
+            [
+                "Aspen , Carbondale , and Glenwood Springs",
+                [
+                    "/wiki/Aspen,_Colorado",
+                    "/wiki/Carbondale,_Colorado",
+                    "/wiki/Glenwood_Springs,_Colorado"
+                ],
+                [
+                    {
+                        "entity id": "Q205842",
+                        "label": "Aspen"
+                    },
+                    {
+                        "entity id": "Q389086",
+                        "label": "Carbondale"
+                    },
+                    {
+                        "entity id": "Q927455",
+                        "label": "Glenwood Springs"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Transfort",
+                [
+                    "/wiki/Transfort"
+                ],
+                [
+                    {
+                        "entity id": "Q7834201",
+                        "label": "Transfort"
+                    }
+                ]
+            ],
+            [
+                "Fort Collins area",
+                [
+                    "/wiki/Fort_Collins,_Colorado"
+                ],
+                [
+                    {
+                        "entity id": "Q490732",
+                        "label": "Fort Collins"
+                    }
+                ]
+            ],
+            [
+                "Fort Collins",
+                []
+            ],
+            [
+                "5,217",
+                []
+            ],
+            [
+                "23",
+                []
+            ],
+            [
+                "2,169",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Colorado",
+    "section_text": "",
+    "uid": "List_of_bus_transit_systems_in_the_United_States_5",
+    "intro": "The following is a list of presently-operating bus transit systems in the United States with regular service. The list excludes charter buses, private bus operators, paratransit systems, and trolleybus systems. Figures for daily ridership, number of vehicles, and daily vehicle revenue miles are accurate as of 2009 and come from the FTA National Transit Database."
+}

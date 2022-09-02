@@ -1,0 +1,613 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Swedish_Hockey_League",
+    "title": "Swedish Hockey League",
+    "header": [
+        [
+            "Team",
+            []
+        ],
+        [
+            "City",
+            []
+        ],
+        [
+            "Arena",
+            []
+        ],
+        [
+            "Capacity",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Bryn\u00e4s IF",
+                [
+                    "/wiki/Bryn\u00e4s_IF"
+                ],
+                [
+                    {
+                        "entity id": "Q995337",
+                        "label": "Bryn\u00e4s IF"
+                    }
+                ]
+            ],
+            [
+                "G\u00e4vle",
+                [
+                    "/wiki/G\u00e4vle"
+                ],
+                [
+                    {
+                        "entity id": "Q25748",
+                        "label": "G\u00e4vle"
+                    }
+                ]
+            ],
+            [
+                "Monitor ERP Arena",
+                [
+                    "/wiki/Monitor_ERP_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q1809785",
+                        "label": "Gavlerinken Arena"
+                    }
+                ]
+            ],
+            [
+                "7,909",
+                []
+            ]
+        ],
+        [
+            [
+                "Djurg\u00e5rdens IF",
+                [
+                    "/wiki/Djurg\u00e5rdens_IF_Hockey"
+                ],
+                [
+                    {
+                        "entity id": "Q1232297",
+                        "label": "Djurg\u00e5rdens IF Hockey"
+                    }
+                ]
+            ],
+            [
+                "Stockholm",
+                [
+                    "/wiki/Stockholm"
+                ],
+                [
+                    {
+                        "entity id": "Q1754",
+                        "label": "Stockholm"
+                    }
+                ]
+            ],
+            [
+                "Hovet",
+                [
+                    "/wiki/Hovet"
+                ],
+                [
+                    {
+                        "entity id": "Q304362",
+                        "label": "Hovet"
+                    }
+                ]
+            ],
+            [
+                "8,094",
+                []
+            ]
+        ],
+        [
+            [
+                "Fr\u00f6lunda HC",
+                [
+                    "/wiki/Fr\u00f6lunda_HC"
+                ],
+                [
+                    {
+                        "entity id": "Q1142013",
+                        "label": "Fr\u00f6lunda HC"
+                    }
+                ]
+            ],
+            [
+                "Gothenburg",
+                [
+                    "/wiki/Gothenburg"
+                ],
+                [
+                    {
+                        "entity id": "Q25287",
+                        "label": "Gothenburg"
+                    }
+                ]
+            ],
+            [
+                "Scandinavium",
+                [
+                    "/wiki/Scandinavium"
+                ],
+                [
+                    {
+                        "entity id": "Q1138447",
+                        "label": "Scandinavium"
+                    }
+                ]
+            ],
+            [
+                "12,044",
+                []
+            ]
+        ],
+        [
+            [
+                "F\u00e4rjestad BK",
+                [
+                    "/wiki/F\u00e4rjestad_BK"
+                ],
+                [
+                    {
+                        "entity id": "Q1122553",
+                        "label": "F\u00e4rjestad BK"
+                    }
+                ]
+            ],
+            [
+                "Karlstad",
+                [
+                    "/wiki/Karlstad"
+                ],
+                [
+                    {
+                        "entity id": "Q25457",
+                        "label": "Karlstad"
+                    }
+                ]
+            ],
+            [
+                "L\u00f6fbergs Arena",
+                [
+                    "/wiki/L\u00f6fbergs_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q1879667",
+                        "label": "L\u00f6fbergs Arena"
+                    }
+                ]
+            ],
+            [
+                "8,647",
+                []
+            ]
+        ],
+        [
+            [
+                "HV71",
+                [
+                    "/wiki/HV71"
+                ],
+                [
+                    {
+                        "entity id": "Q1142002",
+                        "label": "HV71"
+                    }
+                ]
+            ],
+            [
+                "J\u00f6nk\u00f6ping",
+                [
+                    "/wiki/J\u00f6nk\u00f6ping"
+                ],
+                [
+                    {
+                        "entity id": "Q25415",
+                        "label": "J\u00f6nk\u00f6ping"
+                    }
+                ]
+            ],
+            [
+                "Kinnarps Arena",
+                [
+                    "/wiki/Kinnarps_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q1352287",
+                        "label": "Husqvarna Garden"
+                    }
+                ]
+            ],
+            [
+                "7,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Leksands IF",
+                [
+                    "/wiki/Leksands_IF"
+                ],
+                [
+                    {
+                        "entity id": "Q1473131",
+                        "label": "Leksands IF"
+                    }
+                ]
+            ],
+            [
+                "Leksand",
+                [
+                    "/wiki/Leksand"
+                ],
+                [
+                    {
+                        "entity id": "Q1003260",
+                        "label": "Leksand"
+                    }
+                ]
+            ],
+            [
+                "Tegera Arena",
+                [
+                    "/wiki/Tegera_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q3517135",
+                        "label": "Tegera Arena"
+                    }
+                ]
+            ],
+            [
+                "7,650",
+                []
+            ]
+        ],
+        [
+            [
+                "Link\u00f6ping HC",
+                [
+                    "/wiki/Link\u00f6ping_HC"
+                ],
+                [
+                    {
+                        "entity id": "Q1422769",
+                        "label": "Link\u00f6ping HC"
+                    }
+                ]
+            ],
+            [
+                "Link\u00f6ping",
+                [
+                    "/wiki/Link\u00f6ping"
+                ],
+                [
+                    {
+                        "entity id": "Q25413",
+                        "label": "Link\u00f6ping"
+                    }
+                ]
+            ],
+            [
+                "Saab Arena",
+                [
+                    "/wiki/Saab_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q1102186",
+                        "label": "Saab Arena"
+                    }
+                ]
+            ],
+            [
+                "8,500",
+                []
+            ]
+        ],
+        [
+            [
+                "Lule\u00e5 HF",
+                [
+                    "/wiki/Lule\u00e5_HF"
+                ],
+                [
+                    {
+                        "entity id": "Q1422772",
+                        "label": "Lule\u00e5 HF"
+                    }
+                ]
+            ],
+            [
+                "Lule\u00e5",
+                [
+                    "/wiki/Lule\u00e5"
+                ],
+                [
+                    {
+                        "entity id": "Q26268",
+                        "label": "Lule\u00e5"
+                    }
+                ]
+            ],
+            [
+                "Coop Norrbotten Arena",
+                [
+                    "/wiki/Coop_Norrbotten_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q1129786",
+                        "label": "Coop Norrbotten Arena"
+                    }
+                ]
+            ],
+            [
+                "6,300",
+                []
+            ]
+        ],
+        [
+            [
+                "Malm\u00f6 Redhawks",
+                [
+                    "/wiki/Malm\u00f6_Redhawks"
+                ],
+                [
+                    {
+                        "entity id": "Q377374",
+                        "label": "Malm\u00f6 Redhawks"
+                    }
+                ]
+            ],
+            [
+                "Malm\u00f6",
+                [
+                    "/wiki/Malm\u00f6"
+                ],
+                [
+                    {
+                        "entity id": "Q2211",
+                        "label": "Malm\u00f6"
+                    }
+                ]
+            ],
+            [
+                "Malm\u00f6 Arena",
+                [
+                    "/wiki/Malm\u00f6_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q853730",
+                        "label": "Malm\u00f6 Arena"
+                    }
+                ]
+            ],
+            [
+                "12,600",
+                []
+            ]
+        ],
+        [
+            [
+                "IK Oskarshamn",
+                [
+                    "/wiki/IK_Oskarshamn"
+                ],
+                [
+                    {
+                        "entity id": "Q1654034",
+                        "label": "IK Oskarshamn"
+                    }
+                ]
+            ],
+            [
+                "Oskarshamn",
+                [
+                    "/wiki/Oskarshamn"
+                ],
+                [
+                    {
+                        "entity id": "Q654268",
+                        "label": "Oskarshamn"
+                    }
+                ]
+            ],
+            [
+                "Be-Ge Hockey Center",
+                [
+                    "/wiki/Be-Ge_Hockey_Center"
+                ],
+                [
+                    {
+                        "entity id": "Q2860820",
+                        "label": "Be-Ge Hockey Center"
+                    }
+                ]
+            ],
+            [
+                "3,275",
+                []
+            ]
+        ],
+        [
+            [
+                "R\u00f6gle BK",
+                [
+                    "/wiki/R\u00f6gle_BK"
+                ],
+                [
+                    {
+                        "entity id": "Q1466477",
+                        "label": "R\u00f6gle BK"
+                    }
+                ]
+            ],
+            [
+                "\u00c4ngelholm",
+                [
+                    "/wiki/\u00c4ngelholm"
+                ],
+                [
+                    {
+                        "entity id": "Q54755",
+                        "label": "\u00c4ngelholm"
+                    }
+                ]
+            ],
+            [
+                "Catena Arena",
+                [
+                    "/wiki/Catena_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q1257051",
+                        "label": "Catena Arena"
+                    }
+                ]
+            ],
+            [
+                "5,045",
+                []
+            ]
+        ],
+        [
+            [
+                "Skellefte\u00e5 AIK",
+                [
+                    "/wiki/Skellefte\u00e5_AIK"
+                ],
+                [
+                    {
+                        "entity id": "Q1422750",
+                        "label": "Skellefte\u00e5 AIK"
+                    }
+                ]
+            ],
+            [
+                "Skellefte\u00e5",
+                [
+                    "/wiki/Skellefte\u00e5"
+                ],
+                [
+                    {
+                        "entity id": "Q54344",
+                        "label": "Skellefte\u00e5"
+                    }
+                ]
+            ],
+            [
+                "Skellefte\u00e5 Kraft Arena",
+                [
+                    "/wiki/Skellefte\u00e5_Kraft_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q604030",
+                        "label": "Skellefte\u00e5 Kraft Arena"
+                    }
+                ]
+            ],
+            [
+                "5,801",
+                []
+            ]
+        ],
+        [
+            [
+                "V\u00e4xj\u00f6 Lakers",
+                [
+                    "/wiki/V\u00e4xj\u00f6_Lakers"
+                ],
+                [
+                    {
+                        "entity id": "Q1629780",
+                        "label": "V\u00e4xj\u00f6 Lakers"
+                    }
+                ]
+            ],
+            [
+                "V\u00e4xj\u00f6",
+                [
+                    "/wiki/V\u00e4xj\u00f6"
+                ],
+                [
+                    {
+                        "entity id": "Q26152",
+                        "label": "V\u00e4xj\u00f6"
+                    }
+                ]
+            ],
+            [
+                "Vida Arena",
+                [
+                    "/wiki/Vida_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q1629803",
+                        "label": "Vida Arena"
+                    }
+                ]
+            ],
+            [
+                "5,750",
+                []
+            ]
+        ],
+        [
+            [
+                "\u00d6rebro HK",
+                [
+                    "/wiki/\u00d6rebro_HK"
+                ],
+                [
+                    {
+                        "entity id": "Q297691",
+                        "label": "\u00d6rebro HK"
+                    }
+                ]
+            ],
+            [
+                "\u00d6rebro",
+                [
+                    "/wiki/\u00d6rebro"
+                ],
+                [
+                    {
+                        "entity id": "Q25732",
+                        "label": "\u00d6rebro"
+                    }
+                ]
+            ],
+            [
+                "Behrn Arena",
+                [
+                    "/wiki/Behrn_Arena_(ice_hockey)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "5,100",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Teams -- 2019\u201320 season",
+    "section_text": "Lule\u00e5Skellefte\u00e5Bryn\u00e4sLeksandDjurg\u00e5rden\u00d6rebroF\u00e4rjestadLink\u00f6pingHV71Fr\u00f6lundaOskarshamnV\u00e4xj\u00f6R\u00f6gleMalm\u00f6 SHL team map",
+    "uid": "Swedish_Hockey_League_0",
+    "intro": "The Swedish Hockey League (officially SHL; Swedish: Svenska hockeyligan) is a professional ice hockey league, and the highest division in the Swedish ice hockey system. The league currently consists of 14 teams. The league was founded in 1975, and while Swedish ice hockey champions have been crowned through various formats since 1922, the title, as well as the Le Mat Trophy, have been awarded to the winner of the SHL playoffs since the league's inaugural 1975-76 season. As of 2010-11, the SHL was the world's most evenly matched professional ice hockey league. During the 2011-12 season, the SHL was the most well attended ice hockey league in Europe, averaging 6,385 spectators per game, however in 2013-14, the SHL was third best in Europe, with an attendance average of 5,978. SHL was the second most popular sports team league within Sweden, after the football league Allsvenskan, which in the 2013 season had an average attendance of 7,627. The league was founded in 1975 as Elitserien (in English often called the Swedish Elite League or SEL), and initially featured 10 teams, though this was expanded to 12 for the 1987-88 season. The league was renamed the SHL in 2013, and in 2014, a number of format changes were announced, including an expansion to 14 teams to be finalized prior to the 2015-16 season, and a new format for promotion from and relegation to HockeyAllsvenskan, the second tier league."
+}

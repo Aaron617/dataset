@@ -1,0 +1,719 @@
+{
+    "url": "https://en.wikipedia.org/wiki/E_number",
+    "title": "E number",
+    "header": [
+        [
+            "Code",
+            []
+        ],
+        [
+            "Name ( s )",
+            []
+        ],
+        [
+            "Purpose",
+            []
+        ],
+        [
+            "Status",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "E300",
+                [
+                    "/wiki/Ascorbic_acid"
+                ],
+                [
+                    {
+                        "entity id": "Q193598",
+                        "label": "DL-ascorbic acid"
+                    }
+                ]
+            ],
+            [
+                "Ascorbic acid ( Vitamin C )",
+                [
+                    "/wiki/Ascorbic_acid",
+                    "/wiki/Vitamin_C"
+                ],
+                [
+                    {
+                        "entity id": "Q193598",
+                        "label": "DL-ascorbic acid"
+                    },
+                    {
+                        "entity id": "Q199678",
+                        "label": "vitamin C"
+                    }
+                ]
+            ],
+            [
+                "antioxidant",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E301",
+                [
+                    "/wiki/E301"
+                ],
+                [
+                    {
+                        "entity id": "Q54831675",
+                        "label": "E301"
+                    }
+                ]
+            ],
+            [
+                "Sodium ascorbate",
+                [
+                    "/wiki/Sodium_ascorbate"
+                ],
+                [
+                    {
+                        "entity id": "Q424551",
+                        "label": "sodium ascorbate"
+                    }
+                ]
+            ],
+            [
+                "antioxidant",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E302",
+                [
+                    "/wiki/E302"
+                ],
+                [
+                    {
+                        "entity id": "Q54831676",
+                        "label": "E302"
+                    }
+                ]
+            ],
+            [
+                "Calcium ascorbate",
+                [
+                    "/wiki/Calcium_ascorbate"
+                ],
+                [
+                    {
+                        "entity id": "Q283033",
+                        "label": "calcium ascorbate"
+                    }
+                ]
+            ],
+            [
+                "antioxidant",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E303",
+                [
+                    "/wiki/E303"
+                ],
+                [
+                    {
+                        "entity id": "Q54831677",
+                        "label": "E303"
+                    }
+                ]
+            ],
+            [
+                "Potassium ascorbate",
+                [
+                    "/wiki/Potassium_ascorbate"
+                ],
+                [
+                    {
+                        "entity id": "Q56410901",
+                        "label": "potassium L-ascorbate"
+                    }
+                ]
+            ],
+            [
+                "antioxidant",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "E304",
+                [
+                    "/wiki/E304"
+                ],
+                [
+                    {
+                        "entity id": "Q54831948",
+                        "label": "ECV-304"
+                    }
+                ]
+            ],
+            [
+                "Fatty acid esters of ascorbic acid ( Ascorbyl palmitate )",
+                [
+                    "/wiki/Fatty_acid",
+                    "/wiki/Ester",
+                    "/wiki/Ascorbic_acid",
+                    "/wiki/Ascorbyl_palmitate"
+                ],
+                [
+                    {
+                        "entity id": "Q61476",
+                        "label": "fatty acid"
+                    },
+                    {
+                        "entity id": "Q101487",
+                        "label": "ester"
+                    },
+                    {
+                        "entity id": "Q193598",
+                        "label": "DL-ascorbic acid"
+                    },
+                    {
+                        "entity id": "Q424521",
+                        "label": "ascorbyl palmitate"
+                    }
+                ]
+            ],
+            [
+                "antioxidant",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E305",
+                [
+                    "/wiki/E305"
+                ],
+                [
+                    {
+                        "entity id": "Q54831678",
+                        "label": "E305"
+                    }
+                ]
+            ],
+            [
+                "Ascorbyl stearate",
+                [
+                    "/wiki/Ascorbyl_stearate"
+                ],
+                [
+                    {
+                        "entity id": "Q286793",
+                        "label": "ascorbyl stearate"
+                    }
+                ]
+            ],
+            [
+                "antioxidant",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "E306",
+                [
+                    "/wiki/E306"
+                ],
+                [
+                    {
+                        "entity id": "Q54831679",
+                        "label": "E306"
+                    }
+                ]
+            ],
+            [
+                "Tocopherols ( Vitamin E , natural )",
+                [
+                    "/wiki/Tocopherol"
+                ],
+                [
+                    {
+                        "entity id": "Q910277",
+                        "label": "tocopherol"
+                    }
+                ]
+            ],
+            [
+                "antioxidant",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E307",
+                [
+                    "/wiki/E307"
+                ],
+                [
+                    {
+                        "entity id": "Q54831680",
+                        "label": "E307"
+                    }
+                ]
+            ],
+            [
+                "Alpha-Tocopherol ( synthetic )",
+                [
+                    "/wiki/Alpha-Tocopherol"
+                ],
+                [
+                    {
+                        "entity id": "Q158348",
+                        "label": "alpha-tocopherol"
+                    }
+                ]
+            ],
+            [
+                "antioxidant",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E308",
+                [
+                    "/wiki/E308"
+                ],
+                [
+                    {
+                        "entity id": "Q54831681",
+                        "label": "E308"
+                    }
+                ]
+            ],
+            [
+                "Gamma-Tocopherol ( synthetic )",
+                [
+                    "/wiki/Gamma-Tocopherol"
+                ],
+                [
+                    {
+                        "entity id": "Q155753",
+                        "label": "\u03b3-tocopherol"
+                    }
+                ]
+            ],
+            [
+                "antioxidant",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E309",
+                [
+                    "/wiki/E309"
+                ],
+                [
+                    {
+                        "entity id": "Q910277",
+                        "label": "tocopherol"
+                    }
+                ]
+            ],
+            [
+                "Delta-Tocopherol ( synthetic )",
+                [
+                    "/wiki/Delta-Tocopherol"
+                ],
+                [
+                    {
+                        "entity id": "Q155751",
+                        "label": "\u03b4-tocopherol"
+                    }
+                ]
+            ],
+            [
+                "antioxidant",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E310",
+                [
+                    "/wiki/Propyl_gallate"
+                ],
+                [
+                    {
+                        "entity id": "Q608726",
+                        "label": "propyl gallate"
+                    }
+                ]
+            ],
+            [
+                "Propyl gallate",
+                [
+                    "/wiki/Propyl_gallate"
+                ],
+                [
+                    {
+                        "entity id": "Q608726",
+                        "label": "propyl gallate"
+                    }
+                ]
+            ],
+            [
+                "antioxidant",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E311",
+                [
+                    "/wiki/Octyl_gallate"
+                ],
+                [
+                    {
+                        "entity id": "Q2317929",
+                        "label": "octyl gallate"
+                    }
+                ]
+            ],
+            [
+                "Octyl gallate",
+                [
+                    "/wiki/Octyl_gallate"
+                ],
+                [
+                    {
+                        "entity id": "Q2317929",
+                        "label": "octyl gallate"
+                    }
+                ]
+            ],
+            [
+                "antioxidant",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E312",
+                [
+                    "/wiki/Dodecyl_gallate"
+                ],
+                [
+                    {
+                        "entity id": "Q418209",
+                        "label": "dodecyl gallate"
+                    }
+                ]
+            ],
+            [
+                "Dodecyl gallate",
+                [
+                    "/wiki/Dodecyl_gallate"
+                ],
+                [
+                    {
+                        "entity id": "Q418209",
+                        "label": "dodecyl gallate"
+                    }
+                ]
+            ],
+            [
+                "antioxidant",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E313",
+                [
+                    "/wiki/Ethyl_gallate"
+                ],
+                [
+                    {
+                        "entity id": "Q4532976",
+                        "label": "ethyl gallate"
+                    }
+                ]
+            ],
+            [
+                "Ethyl gallate",
+                [
+                    "/wiki/Ethyl_gallate"
+                ],
+                [
+                    {
+                        "entity id": "Q4532976",
+                        "label": "ethyl gallate"
+                    }
+                ]
+            ],
+            [
+                "antioxidant",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "E314",
+                [
+                    "/wiki/Guaiacum"
+                ],
+                [
+                    {
+                        "entity id": "Q1429385",
+                        "label": "Guaiacum"
+                    }
+                ]
+            ],
+            [
+                "Guaiac resin",
+                [
+                    "/wiki/Guaiac_resin"
+                ],
+                [
+                    {
+                        "entity id": "Q5618003",
+                        "label": "gum guaicum"
+                    }
+                ]
+            ],
+            [
+                "antioxidant",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "E315",
+                [
+                    "/wiki/E315"
+                ],
+                [
+                    {
+                        "entity id": "Q424531",
+                        "label": "erythorbic acid"
+                    }
+                ]
+            ],
+            [
+                "Erythorbic acid",
+                [
+                    "/wiki/Erythorbic_acid"
+                ],
+                [
+                    {
+                        "entity id": "Q424531",
+                        "label": "erythorbic acid"
+                    }
+                ]
+            ],
+            [
+                "antioxidant",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E316",
+                [
+                    "/wiki/E316"
+                ],
+                [
+                    {
+                        "entity id": "Q417003",
+                        "label": "sodium erythorbate"
+                    }
+                ]
+            ],
+            [
+                "Sodium erythorbate",
+                [
+                    "/wiki/Sodium_erythorbate"
+                ],
+                [
+                    {
+                        "entity id": "Q417003",
+                        "label": "sodium erythorbate"
+                    }
+                ]
+            ],
+            [
+                "antioxidant",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ],
+        [
+            [
+                "E317",
+                [
+                    "/wiki/E317"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Erythorbin acid",
+                [
+                    "/wiki/Erythorbin_acid"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "antioxidant",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "E318",
+                [
+                    "/wiki/E318"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Sodium erythorbin",
+                [
+                    "/wiki/Calcium_erythorbate"
+                ],
+                [
+                    {
+                        "entity id": "Q5018831",
+                        "label": "Calcium erythorbate"
+                    }
+                ]
+            ],
+            [
+                "antioxidant",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "E319",
+                [
+                    "/wiki/E319"
+                ],
+                [
+                    {
+                        "entity id": "Q54831686",
+                        "label": "E319"
+                    }
+                ]
+            ],
+            [
+                "tert-Butylhydroquinone ( TBHQ )",
+                [
+                    "/wiki/Tert-Butylhydroquinone"
+                ],
+                [
+                    {
+                        "entity id": "Q662443",
+                        "label": "tert-butylhydroquinone"
+                    }
+                ]
+            ],
+            [
+                "antioxidant",
+                []
+            ],
+            [
+                "Approved in the EU",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Full list -- E300\u2013E399 ( antioxidants , acidity regulators )",
+    "section_text": "",
+    "uid": "E_number_2",
+    "intro": "E numbers (E stands for Europe) are codes for substances used as food additives for use within the European Union (EU) and European Free Trade Association (EFTA). Commonly found on food labels, their safety assessment and approval are the responsibility of the European Food Safety Authority (EFSA). Having a single unified list for food additives was first agreed upon in 1962 with food colouring. In 1964, the directives for preservatives were added, 1970 for antioxidants and 1974 for the emulsifiers, stabilisers, thickeners and gelling agents."
+}

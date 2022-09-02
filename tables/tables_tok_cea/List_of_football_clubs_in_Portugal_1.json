@@ -1,0 +1,688 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_football_clubs_in_Portugal",
+    "title": "List of football clubs in Portugal",
+    "header": [
+        [
+            "Club",
+            []
+        ],
+        [
+            "District FA",
+            []
+        ],
+        [
+            "Location",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Acad\u00e9mica",
+                [
+                    "/wiki/Associa\u00e7\u00e3o_Acad\u00e9mica_de_Coimbra_\u2013_O.A.F."
+                ],
+                [
+                    {
+                        "entity id": "Q243235",
+                        "label": "Associa\u00e7\u00e3o Acad\u00e9mica de Coimbra \u2013 O.A.F."
+                    }
+                ]
+            ],
+            [
+                "Coimbra FA",
+                [
+                    "/wiki/Coimbra_FA"
+                ],
+                [
+                    {
+                        "entity id": "Q5141514",
+                        "label": "coimbra fado"
+                    }
+                ]
+            ],
+            [
+                "Coimbra",
+                [
+                    "/wiki/Coimbra"
+                ],
+                [
+                    {
+                        "entity id": "Q45412",
+                        "label": "Coimbra"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Acad\u00e9mico de Viseu",
+                [
+                    "/wiki/Acad\u00e9mico_de_Viseu_F.C."
+                ],
+                [
+                    {
+                        "entity id": "Q2410944",
+                        "label": "Acad\u00e9mico de Viseu FC"
+                    }
+                ]
+            ],
+            [
+                "Viseu FA",
+                [
+                    "/wiki/Viseu_FA"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Viseu",
+                [
+                    "/wiki/Viseu"
+                ],
+                [
+                    {
+                        "entity id": "Q117676",
+                        "label": "Viseu"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Arouca",
+                [
+                    "/wiki/F.C._Arouca"
+                ],
+                [
+                    {
+                        "entity id": "Q1386869",
+                        "label": "F.C. Arouca"
+                    }
+                ]
+            ],
+            [
+                "Aveiro FA",
+                [
+                    "/wiki/Aveiro_FA"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Arouca",
+                [
+                    "/wiki/Arouca,_Portugal"
+                ],
+                [
+                    {
+                        "entity id": "Q565302",
+                        "label": "Arouca"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Benfica B",
+                [
+                    "/wiki/S.L._Benfica_B"
+                ],
+                [
+                    {
+                        "entity id": "Q7387221",
+                        "label": "S.L. Benfica B"
+                    }
+                ]
+            ],
+            [
+                "Lisbon FA",
+                [
+                    "/wiki/Lisbon_FA"
+                ],
+                [
+                    {
+                        "entity id": "Q2071153",
+                        "label": "Lisbon Falls"
+                    }
+                ]
+            ],
+            [
+                "Lisbon",
+                [
+                    "/wiki/Lisbon"
+                ],
+                [
+                    {
+                        "entity id": "Q597",
+                        "label": "Lisbon"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Braga B",
+                [
+                    "/wiki/S.C._Braga_B"
+                ],
+                [
+                    {
+                        "entity id": "Q7387158",
+                        "label": "S.C. Braga B"
+                    }
+                ]
+            ],
+            [
+                "Braga FA",
+                [
+                    "/wiki/Braga_FA"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Braga",
+                [
+                    "/wiki/Braga"
+                ],
+                [
+                    {
+                        "entity id": "Q83247",
+                        "label": "Braga"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Cova da Piedade",
+                [
+                    "/wiki/C.D._Cova_da_Piedade"
+                ],
+                [
+                    {
+                        "entity id": "Q17524289",
+                        "label": "C.D. Cova da Piedade"
+                    }
+                ]
+            ],
+            [
+                "Set\u00fabal FA",
+                [
+                    "/wiki/Set\u00fabal_FA"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Cova da Piedade , Almada",
+                [
+                    "/wiki/Cova_da_Piedade",
+                    "/wiki/Almada"
+                ],
+                [
+                    {
+                        "entity id": "Q1137973",
+                        "label": "Cova da Piedade"
+                    },
+                    {
+                        "entity id": "Q328015",
+                        "label": "Almada"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Estoril",
+                [
+                    "/wiki/G.D._Estoril_Praia"
+                ],
+                [
+                    {
+                        "entity id": "Q634829",
+                        "label": "G.D. Estoril Praia"
+                    }
+                ]
+            ],
+            [
+                "Lisbon FA",
+                [
+                    "/wiki/Lisbon_FA"
+                ],
+                [
+                    {
+                        "entity id": "Q2071153",
+                        "label": "Lisbon Falls"
+                    }
+                ]
+            ],
+            [
+                "Estoril , Cascais",
+                [
+                    "/wiki/Estoril",
+                    "/wiki/Cascais"
+                ],
+                [
+                    {
+                        "entity id": "Q634829",
+                        "label": "G.D. Estoril Praia"
+                    },
+                    {
+                        "entity id": "Q273059",
+                        "label": "Cascais"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Famalic\u00e3o",
+                [
+                    "/wiki/F.C._Famalic\u00e3o"
+                ],
+                [
+                    {
+                        "entity id": "Q1387105",
+                        "label": "F.C. Famalic\u00e3o"
+                    }
+                ]
+            ],
+            [
+                "Braga FA",
+                [
+                    "/wiki/Braga_FA"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Vila Nova de Famalic\u00e3o",
+                [
+                    "/wiki/Vila_Nova_de_Famalic\u00e3o"
+                ],
+                [
+                    {
+                        "entity id": "Q551658",
+                        "label": "Vila Nova de Famalic\u00e3o"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Farense",
+                [
+                    "/wiki/S.C._Farense"
+                ],
+                [
+                    {
+                        "entity id": "Q744353",
+                        "label": "S.C. Farense"
+                    }
+                ]
+            ],
+            [
+                "Algarve FA",
+                [
+                    "/wiki/Algarve_FA"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Faro",
+                [
+                    "/wiki/Faro,_Portugal"
+                ],
+                [
+                    {
+                        "entity id": "Q159457",
+                        "label": "Faro"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Leix\u00f5es",
+                [
+                    "/wiki/Leix\u00f5es_S.C."
+                ],
+                [
+                    {
+                        "entity id": "Q623730",
+                        "label": "Leix\u00f5es S.C."
+                    }
+                ]
+            ],
+            [
+                "Porto FA",
+                [
+                    "/wiki/Porto_FA"
+                ],
+                [
+                    {
+                        "entity id": "Q34904314",
+                        "label": "Porto Farms Lake Dam"
+                    }
+                ]
+            ],
+            [
+                "Matosinhos",
+                [
+                    "/wiki/Matosinhos"
+                ],
+                [
+                    {
+                        "entity id": "Q841299",
+                        "label": "Matosinhos"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mafra",
+                [
+                    "/wiki/C.D._Mafra"
+                ],
+                [
+                    {
+                        "entity id": "Q618990",
+                        "label": "C.D. Mafra"
+                    }
+                ]
+            ],
+            [
+                "Lisbon FA",
+                [
+                    "/wiki/Lisbon_FA"
+                ],
+                [
+                    {
+                        "entity id": "Q2071153",
+                        "label": "Lisbon Falls"
+                    }
+                ]
+            ],
+            [
+                "Mafra",
+                [
+                    "/wiki/Mafra,_Portugal"
+                ],
+                [
+                    {
+                        "entity id": "Q986419",
+                        "label": "Mafra"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Oliveirense",
+                [
+                    "/wiki/U.D._Oliveirense"
+                ],
+                [
+                    {
+                        "entity id": "Q2061414",
+                        "label": "U.D. Oliveirense"
+                    }
+                ]
+            ],
+            [
+                "Aveiro FA",
+                [
+                    "/wiki/Aveiro_FA"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Oliveira de Azem\u00e9is",
+                [
+                    "/wiki/Oliveira_de_Azem\u00e9is"
+                ],
+                [
+                    {
+                        "entity id": "Q405252",
+                        "label": "Oliveira de Azem\u00e9is"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Pa\u00e7os de Ferreira",
+                [
+                    "/wiki/F.C._Pa\u00e7os_de_Ferreira"
+                ],
+                [
+                    {
+                        "entity id": "Q371136",
+                        "label": "F.C. Pa\u00e7os de Ferreira"
+                    }
+                ]
+            ],
+            [
+                "Porto FA",
+                [
+                    "/wiki/Porto_FA"
+                ],
+                [
+                    {
+                        "entity id": "Q34904314",
+                        "label": "Porto Farms Lake Dam"
+                    }
+                ]
+            ],
+            [
+                "Pa\u00e7os de Ferreira",
+                [
+                    "/wiki/Pa\u00e7os_de_Ferreira"
+                ],
+                [
+                    {
+                        "entity id": "Q371136",
+                        "label": "F.C. Pa\u00e7os de Ferreira"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Penafiel",
+                [
+                    "/wiki/F.C._Penafiel"
+                ],
+                [
+                    {
+                        "entity id": "Q1387471",
+                        "label": "F.C. Penafiel"
+                    }
+                ]
+            ],
+            [
+                "Porto FA",
+                [
+                    "/wiki/Porto_FA"
+                ],
+                [
+                    {
+                        "entity id": "Q34904314",
+                        "label": "Porto Farms Lake Dam"
+                    }
+                ]
+            ],
+            [
+                "Penafiel",
+                [
+                    "/wiki/Penafiel"
+                ],
+                [
+                    {
+                        "entity id": "Q984656",
+                        "label": "Penafiel"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Porto B",
+                [
+                    "/wiki/FC_Porto_B"
+                ],
+                [
+                    {
+                        "entity id": "Q1387505",
+                        "label": "F.C. Porto"
+                    }
+                ]
+            ],
+            [
+                "Porto FA",
+                [
+                    "/wiki/Porto_FA"
+                ],
+                [
+                    {
+                        "entity id": "Q34904314",
+                        "label": "Porto Farms Lake Dam"
+                    }
+                ]
+            ],
+            [
+                "Porto",
+                [
+                    "/wiki/Porto"
+                ],
+                [
+                    {
+                        "entity id": "Q36433",
+                        "label": "Porto"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Sporting da Covilh\u00e3",
+                [
+                    "/wiki/S.C._Covilh\u00e3"
+                ],
+                [
+                    {
+                        "entity id": "Q1891367",
+                        "label": "S.C. Covilh\u00e3"
+                    }
+                ]
+            ],
+            [
+                "Castelo Branco FA",
+                [
+                    "/wiki/Castelo_Branco_FA"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Covilh\u00e3",
+                [
+                    "/wiki/Covilh\u00e3"
+                ],
+                [
+                    {
+                        "entity id": "Q849026",
+                        "label": "Covilh\u00e3"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Varzim",
+                [
+                    "/wiki/Varzim_S.C."
+                ],
+                [
+                    {
+                        "entity id": "Q1429473",
+                        "label": "Varzim S.C."
+                    }
+                ]
+            ],
+            [
+                "Porto FA",
+                [
+                    "/wiki/Porto_FA"
+                ],
+                [
+                    {
+                        "entity id": "Q34904314",
+                        "label": "Porto Farms Lake Dam"
+                    }
+                ]
+            ],
+            [
+                "P\u00f3voa de Varzim",
+                [
+                    "/wiki/P\u00f3voa_de_Varzim"
+                ],
+                [
+                    {
+                        "entity id": "Q200459",
+                        "label": "P\u00f3voa de Varzim"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Vit\u00f3ria de Guimar\u00e3es B",
+                [
+                    "/wiki/Vit\u00f3ria_S.C._B"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Braga FA",
+                [
+                    "/wiki/Braga_FA"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Guimar\u00e3es",
+                [
+                    "/wiki/Guimar\u00e3es"
+                ],
+                [
+                    {
+                        "entity id": "Q170903",
+                        "label": "Guimar\u00e3es"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Segunda Liga teams ( 2018\u201319 season )",
+    "section_text": "",
+    "uid": "List_of_football_clubs_in_Portugal_1",
+    "intro": "The Portuguese football leagues are divided into divisions (divis\u00f5es, singular - divis\u00e3o). The top teams play in the Primeira Liga, named Liga NOS for sponsorship reasons. In each division, with rare exceptions, a team plays all other teams twice, once at home and once away. One can divide the competitions in professional and non-professional. The Portuguese league and federation teams compete in Europe under UEFA, most notably in the UEFA Champions League, but also in the UEFA Cup, in the extinct Cup Winners' Cup and sometimes in the UEFA Intertoto Cup, European Super Cup and the extinct UEFA/Conmebol Intercontinental Cup (Toyota Cup). They can also compete in the FIFA Club World Cup, although until today no Portuguese team reached this recent competition. The teams also compete in a domestic cup competition each year, called Cup of Portugal (Ta\u00e7a de Portugal) and the winners play against the champions in the SuperCup C\u00e2ndido de Oliveira."
+}

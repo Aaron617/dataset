@@ -1,0 +1,789 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_Canada",
+    "title": "List of the busiest airports in Canada",
+    "header": [
+        [
+            "Rank",
+            []
+        ],
+        [
+            "Airport",
+            []
+        ],
+        [
+            "Serves",
+            []
+        ],
+        [
+            "Aircraft movements",
+            []
+        ],
+        [
+            "Annual change",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1",
+                []
+            ],
+            [
+                "Toronto Pearson International Airport",
+                [
+                    "/wiki/Toronto_Pearson_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q242066",
+                        "label": "Toronto Pearson International Airport"
+                    }
+                ]
+            ],
+            [
+                "Greater Toronto Area",
+                [
+                    "/wiki/Greater_Toronto_Area"
+                ],
+                [
+                    {
+                        "entity id": "Q1024624",
+                        "label": "Greater Toronto Area"
+                    }
+                ]
+            ],
+            [
+                "435,592",
+                []
+            ],
+            [
+                "1.2%",
+                []
+            ]
+        ],
+        [
+            [
+                "2",
+                []
+            ],
+            [
+                "Vancouver International Airport",
+                [
+                    "/wiki/Vancouver_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q321224",
+                        "label": "Vancouver International Airport"
+                    }
+                ]
+            ],
+            [
+                "Metro Vancouver",
+                [
+                    "/wiki/Metro_Vancouver"
+                ],
+                [
+                    {
+                        "entity id": "Q1061069",
+                        "label": "Metro Vancouver Regional District"
+                    }
+                ]
+            ],
+            [
+                "300,063",
+                []
+            ],
+            [
+                "0.5%",
+                []
+            ]
+        ],
+        [
+            [
+                "3",
+                []
+            ],
+            [
+                "Calgary International Airport",
+                [
+                    "/wiki/Calgary_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1160343",
+                        "label": "Calgary International Airport"
+                    }
+                ]
+            ],
+            [
+                "Calgary",
+                [
+                    "/wiki/Calgary"
+                ],
+                [
+                    {
+                        "entity id": "Q36312",
+                        "label": "Calgary"
+                    }
+                ]
+            ],
+            [
+                "240,709",
+                []
+            ],
+            [
+                "1.5%",
+                []
+            ]
+        ],
+        [
+            [
+                "4",
+                []
+            ],
+            [
+                "Montr\u00e9al-Pierre Elliott Trudeau International Airport",
+                [
+                    "/wiki/Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q736627",
+                        "label": "Montr\u00e9al\u2013Pierre Elliott Trudeau International Airport"
+                    }
+                ]
+            ],
+            [
+                "Greater Montreal",
+                [
+                    "/wiki/Greater_Montreal"
+                ],
+                [
+                    {
+                        "entity id": "Q3533960",
+                        "label": "Tourisme Montr\u00e9al"
+                    }
+                ]
+            ],
+            [
+                "231,775",
+                []
+            ],
+            [
+                "-0.1%",
+                []
+            ]
+        ],
+        [
+            [
+                "5",
+                []
+            ],
+            [
+                "Ottawa Macdonald-Cartier International Airport",
+                [
+                    "/wiki/Ottawa_Macdonald\u2013Cartier_International_Airport"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Ottawa",
+                [
+                    "/wiki/Ottawa"
+                ],
+                [
+                    {
+                        "entity id": "Q1930",
+                        "label": "Ottawa"
+                    }
+                ]
+            ],
+            [
+                "160,405",
+                []
+            ],
+            [
+                "-6.6%",
+                []
+            ]
+        ],
+        [
+            [
+                "6",
+                []
+            ],
+            [
+                "Montr\u00e9al/Saint-Hubert Airport",
+                [
+                    "/wiki/Montr\u00e9al/Saint-Hubert_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1432648",
+                        "label": "Montr\u00e9al/Saint-Hubert Airport"
+                    }
+                ]
+            ],
+            [
+                "Greater Montreal",
+                [
+                    "/wiki/Greater_Montreal"
+                ],
+                [
+                    {
+                        "entity id": "Q3533960",
+                        "label": "Tourisme Montr\u00e9al"
+                    }
+                ]
+            ],
+            [
+                "151,816",
+                []
+            ],
+            [
+                "-8.9%",
+                []
+            ]
+        ],
+        [
+            [
+                "7",
+                []
+            ],
+            [
+                "Boundary Bay Airport",
+                [
+                    "/wiki/Boundary_Bay_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q829643",
+                        "label": "Boundary Bay Airport"
+                    }
+                ]
+            ],
+            [
+                "Greater Vancouver",
+                [
+                    "/wiki/Greater_Vancouver"
+                ],
+                [
+                    {
+                        "entity id": "Q5600798",
+                        "label": "Greater Vancouver"
+                    }
+                ]
+            ],
+            [
+                "148,674",
+                []
+            ],
+            [
+                "1.2%",
+                []
+            ]
+        ],
+        [
+            [
+                "8",
+                []
+            ],
+            [
+                "Edmonton International Airport",
+                [
+                    "/wiki/Edmonton_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q269588",
+                        "label": "Edmonton International Airport"
+                    }
+                ]
+            ],
+            [
+                "Edmonton Capital Region",
+                [
+                    "/wiki/Edmonton_Capital_Region"
+                ],
+                [
+                    {
+                        "entity id": "Q1133254",
+                        "label": "Edmonton Metropolitan Region"
+                    }
+                ]
+            ],
+            [
+                "142,269",
+                []
+            ],
+            [
+                "3.8%",
+                []
+            ]
+        ],
+        [
+            [
+                "9",
+                []
+            ],
+            [
+                "Buttonville Municipal Airport",
+                [
+                    "/wiki/Buttonville_Municipal_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2928993",
+                        "label": "Buttonville Municipal Airport"
+                    }
+                ]
+            ],
+            [
+                "Markham",
+                [
+                    "/wiki/Markham,_Ontario"
+                ],
+                [
+                    {
+                        "entity id": "Q44016",
+                        "label": "Markham"
+                    }
+                ]
+            ],
+            [
+                "138,676",
+                []
+            ],
+            [
+                "1.5%",
+                []
+            ]
+        ],
+        [
+            [
+                "10",
+                []
+            ],
+            [
+                "Victoria International Airport",
+                [
+                    "/wiki/Victoria_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q130193",
+                        "label": "Victoria International Airport"
+                    }
+                ]
+            ],
+            [
+                "Victoria",
+                [
+                    "/wiki/Victoria,_British_Columbia"
+                ],
+                [
+                    {
+                        "entity id": "Q2132",
+                        "label": "Victoria"
+                    }
+                ]
+            ],
+            [
+                "137,054",
+                []
+            ],
+            [
+                "-3.2%",
+                []
+            ]
+        ],
+        [
+            [
+                "11",
+                []
+            ],
+            [
+                "Qu\u00e9bec City Jean Lesage International Airport",
+                [
+                    "/wiki/Qu\u00e9bec_City_Jean_Lesage_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q794549",
+                        "label": "Qu\u00e9bec City Jean Lesage International Airport"
+                    }
+                ]
+            ],
+            [
+                "Quebec City",
+                [
+                    "/wiki/Quebec_City"
+                ],
+                [
+                    {
+                        "entity id": "Q2145",
+                        "label": "Quebec City"
+                    }
+                ]
+            ],
+            [
+                "133,673",
+                []
+            ],
+            [
+                "3.7%",
+                []
+            ]
+        ],
+        [
+            [
+                "12",
+                []
+            ],
+            [
+                "Calgary/Springbank Airport",
+                [
+                    "/wiki/Calgary/Springbank_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3813640",
+                        "label": "Calgary/Springbank Airport"
+                    }
+                ]
+            ],
+            [
+                "Calgary",
+                [
+                    "/wiki/Calgary"
+                ],
+                [
+                    {
+                        "entity id": "Q36312",
+                        "label": "Calgary"
+                    }
+                ]
+            ],
+            [
+                "132,677",
+                []
+            ],
+            [
+                "-0.4%",
+                []
+            ]
+        ],
+        [
+            [
+                "13",
+                []
+            ],
+            [
+                "Winnipeg James Armstrong Richardson International Airport",
+                [
+                    "/wiki/Winnipeg_James_Armstrong_Richardson_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1323755",
+                        "label": "Winnipeg James Armstrong Richardson International Airport"
+                    }
+                ]
+            ],
+            [
+                "Winnipeg",
+                [
+                    "/wiki/Winnipeg"
+                ],
+                [
+                    {
+                        "entity id": "Q2135",
+                        "label": "Winnipeg"
+                    }
+                ]
+            ],
+            [
+                "131,237",
+                []
+            ],
+            [
+                "-5.1%",
+                []
+            ]
+        ],
+        [
+            [
+                "14",
+                []
+            ],
+            [
+                "Billy Bishop Toronto City Airport",
+                [
+                    "/wiki/Billy_Bishop_Toronto_City_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q117708",
+                        "label": "Billy Bishop Toronto City Airport"
+                    }
+                ]
+            ],
+            [
+                "Toronto",
+                [
+                    "/wiki/Toronto"
+                ],
+                [
+                    {
+                        "entity id": "Q172",
+                        "label": "Toronto"
+                    }
+                ]
+            ],
+            [
+                "114,486",
+                []
+            ],
+            [
+                "2.8%",
+                []
+            ]
+        ],
+        [
+            [
+                "15",
+                []
+            ],
+            [
+                "Abbotsford International Airport",
+                [
+                    "/wiki/Abbotsford_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q969671",
+                        "label": "Abbotsford International Airport"
+                    }
+                ]
+            ],
+            [
+                "Abbotsford",
+                [
+                    "/wiki/Abbotsford,_British_Columbia"
+                ],
+                [
+                    {
+                        "entity id": "Q271730",
+                        "label": "Abbotsford"
+                    }
+                ]
+            ],
+            [
+                "108,429",
+                []
+            ],
+            [
+                "9.9%",
+                []
+            ]
+        ],
+        [
+            [
+                "16",
+                []
+            ],
+            [
+                "Thunder Bay International Airport",
+                [
+                    "/wiki/Thunder_Bay_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q2748239",
+                        "label": "Thunder Bay International Airport"
+                    }
+                ]
+            ],
+            [
+                "Thunder Bay",
+                [
+                    "/wiki/Thunder_Bay"
+                ],
+                [
+                    {
+                        "entity id": "Q34116",
+                        "label": "Thunder Bay"
+                    }
+                ]
+            ],
+            [
+                "108,130",
+                []
+            ],
+            [
+                "10.6%",
+                []
+            ]
+        ],
+        [
+            [
+                "17",
+                []
+            ],
+            [
+                "Region of Waterloo International Airport",
+                [
+                    "/wiki/Region_of_Waterloo_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3912835",
+                        "label": "Region of Waterloo International Airport"
+                    }
+                ]
+            ],
+            [
+                "Regional Municipality of Waterloo",
+                [
+                    "/wiki/Regional_Municipality_of_Waterloo"
+                ],
+                [
+                    {
+                        "entity id": "Q175735",
+                        "label": "Regional Municipality of Waterloo"
+                    }
+                ]
+            ],
+            [
+                "103,433",
+                []
+            ],
+            [
+                "6.3%",
+                []
+            ]
+        ],
+        [
+            [
+                "18",
+                []
+            ],
+            [
+                "St. Andrews Airport",
+                [
+                    "/wiki/St._Andrews_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3914310",
+                        "label": "St. Andrews Airport"
+                    }
+                ]
+            ],
+            [
+                "Winnipeg",
+                [
+                    "/wiki/Winnipeg"
+                ],
+                [
+                    {
+                        "entity id": "Q2135",
+                        "label": "Winnipeg"
+                    }
+                ]
+            ],
+            [
+                "91,130",
+                []
+            ],
+            [
+                "-14.2%",
+                []
+            ]
+        ],
+        [
+            [
+                "19",
+                []
+            ],
+            [
+                "Saskatoon John G. Diefenbaker International Airport",
+                [
+                    "/wiki/Saskatoon_John_G._Diefenbaker_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q1430711",
+                        "label": "Saskatoon John G. Diefenbaker International Airport"
+                    }
+                ]
+            ],
+            [
+                "Saskatoon",
+                [
+                    "/wiki/Saskatoon"
+                ],
+                [
+                    {
+                        "entity id": "Q10566",
+                        "label": "Saskatoon"
+                    }
+                ]
+            ],
+            [
+                "91,086",
+                []
+            ],
+            [
+                "-3.3%",
+                []
+            ]
+        ],
+        [
+            [
+                "20",
+                []
+            ],
+            [
+                "Pitt Meadows Airport",
+                [
+                    "/wiki/Pitt_Meadows_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q3914856",
+                        "label": "Pitt Meadows Airport"
+                    }
+                ]
+            ],
+            [
+                "Pitt Meadows",
+                [
+                    "/wiki/Pitt_Meadows"
+                ],
+                [
+                    {
+                        "entity id": "Q1369892",
+                        "label": "Pitt Meadows"
+                    }
+                ]
+            ],
+            [
+                "87,123",
+                []
+            ],
+            [
+                "-26.7%",
+                []
+            ]
+        ]
+    ],
+    "section_title": "2012 -- Canada 's 20 busiest airports by aircraft movements",
+    "section_text": "",
+    "uid": "List_of_the_busiest_airports_in_Canada_15",
+    "intro": "The following is a list of the busiest airports in Canada. The airports are ranked by passenger traffic and aircraft movements. For each airport, the lists cite the city served by the airport as designated by Transport Canada, not necessarily the municipality where the airport is physically located. Since 2010, Toronto-Pearson and Vancouver International have been the two busiest airports by both passengers served and aircraft movements. Toronto-Pearson's location within the most populous metropolitan region of Canada solidifies its top spot amongst all of Canada's airports, serving more passengers and having more aircraft movements than the top two other airports combined. Given its advantageous position on the west coast of Canada, Vancouver International has long served as Canada's hub for flights bound for Asia and Oceania."
+}

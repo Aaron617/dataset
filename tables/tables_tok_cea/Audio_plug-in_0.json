@@ -1,0 +1,645 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Audio_plug-in",
+    "title": "Audio plug-in",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Developer",
+            []
+        ],
+        [
+            "License",
+            []
+        ],
+        [
+            "GUI support",
+            []
+        ],
+        [
+            "Supported types",
+            []
+        ],
+        [
+            "Supported platforms",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Virtual Studio Technology",
+                [
+                    "/wiki/Virtual_Studio_Technology"
+                ],
+                [
+                    {
+                        "entity id": "Q180703",
+                        "label": "Virtual Studio Technology"
+                    }
+                ]
+            ],
+            [
+                "Steinberg",
+                [
+                    "/wiki/Steinberg"
+                ],
+                [
+                    {
+                        "entity id": "Q1570233",
+                        "label": "Steinberg"
+                    }
+                ]
+            ],
+            [
+                "Proprietary or GPLv3",
+                [
+                    "/wiki/Proprietary_software",
+                    "/wiki/GPLv3"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    },
+                    {
+                        "entity id": "Q10513445",
+                        "label": "GNU General Public License, version 3.0"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Transformation and synthesis",
+                []
+            ],
+            [
+                "Mac OS X , Windows and Linux",
+                [
+                    "/wiki/Mac_OS_X",
+                    "/wiki/Windows",
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Audio Units",
+                [
+                    "/wiki/Audio_Units"
+                ],
+                [
+                    {
+                        "entity id": "Q595239",
+                        "label": "Audio Units"
+                    }
+                ]
+            ],
+            [
+                "Apple",
+                [
+                    "/wiki/Apple_Inc."
+                ],
+                [
+                    {
+                        "entity id": "Q312",
+                        "label": "Apple Inc."
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Transformation and synthesis",
+                []
+            ],
+            [
+                "Mac OS X , iOS and tvOS",
+                [
+                    "/wiki/Mac_OS_X",
+                    "/wiki/IOS",
+                    "/wiki/TvOS"
+                ],
+                [
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q48493",
+                        "label": "iOS"
+                    },
+                    {
+                        "entity id": "Q20965967",
+                        "label": "tvOS"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Real Time AudioSuite",
+                [
+                    "/wiki/Real_Time_AudioSuite"
+                ],
+                [
+                    {
+                        "entity id": "Q2071453",
+                        "label": "Real Time AudioSuite"
+                    }
+                ]
+            ],
+            [
+                "Avid",
+                [
+                    "/wiki/Avid_Technology"
+                ],
+                [
+                    {
+                        "entity id": "Q385452",
+                        "label": "Avid Technology"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Transformation and synthesis",
+                []
+            ],
+            [
+                "Mac OS X and Windows",
+                [
+                    "/wiki/Mac_OS_X",
+                    "/wiki/Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Avid Audio eXtension",
+                []
+            ],
+            [
+                "Avid",
+                [
+                    "/wiki/Avid_Technology"
+                ],
+                [
+                    {
+                        "entity id": "Q385452",
+                        "label": "Avid Technology"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Transformation and synthesis",
+                []
+            ],
+            [
+                "Mac OS X and Windows",
+                [
+                    "/wiki/Mac_OS_X",
+                    "/wiki/Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "TDM",
+                []
+            ],
+            [
+                "Avid",
+                [
+                    "/wiki/Avid_Technology"
+                ],
+                [
+                    {
+                        "entity id": "Q385452",
+                        "label": "Avid Technology"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Transformation and synthesis",
+                []
+            ],
+            [
+                "Mac OS X and Windows",
+                [
+                    "/wiki/Mac_OS_X",
+                    "/wiki/Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "LADSPA",
+                [
+                    "/wiki/LADSPA"
+                ],
+                [
+                    {
+                        "entity id": "Q331379",
+                        "label": "LADSPA"
+                    }
+                ]
+            ],
+            [
+                "ladspa.org",
+                []
+            ],
+            [
+                "LGPL",
+                [
+                    "/wiki/LGPL"
+                ],
+                [
+                    {
+                        "entity id": "Q192897",
+                        "label": "GNU Lesser General Public License"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Transformation",
+                []
+            ],
+            [
+                "Mac OS X , Windows and Linux",
+                [
+                    "/wiki/Mac_OS_X",
+                    "/wiki/Windows",
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "DSSI",
+                [
+                    "/wiki/Disposable_Soft_Synth_Interface"
+                ],
+                [
+                    {
+                        "entity id": "Q1155742",
+                        "label": "DSSI"
+                    }
+                ]
+            ],
+            [
+                "dssi.sourceforge.net",
+                []
+            ],
+            [
+                "LGPL , BSD",
+                [
+                    "/wiki/LGPL",
+                    "/wiki/BSD_License"
+                ],
+                [
+                    {
+                        "entity id": "Q192897",
+                        "label": "GNU Lesser General Public License"
+                    },
+                    {
+                        "entity id": "Q191307",
+                        "label": "BSD licenses"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Transformation and synthesis",
+                []
+            ],
+            [
+                "Mac OS X , Windows and Linux",
+                [
+                    "/wiki/Mac_OS_X",
+                    "/wiki/Windows",
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "LV2",
+                [
+                    "/wiki/LV2"
+                ],
+                [
+                    {
+                        "entity id": "Q221935",
+                        "label": "LV2"
+                    }
+                ]
+            ],
+            [
+                "lv2plug.in",
+                []
+            ],
+            [
+                "ISC License",
+                [
+                    "/wiki/ISC_License"
+                ],
+                [
+                    {
+                        "entity id": "Q386474",
+                        "label": "ISC license"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Transformation and synthesis",
+                []
+            ],
+            [
+                "Linux , OS X , Windows",
+                [
+                    "/wiki/Linux",
+                    "/wiki/OS_X",
+                    "/wiki/Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    },
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "DirectX plugin",
+                [
+                    "/wiki/DirectX_plugin"
+                ],
+                [
+                    {
+                        "entity id": "Q1934532",
+                        "label": "DirectX plugin"
+                    }
+                ]
+            ],
+            [
+                "Microsoft",
+                [
+                    "/wiki/Microsoft"
+                ],
+                [
+                    {
+                        "entity id": "Q2283",
+                        "label": "Microsoft"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "Transformation and synthesis",
+                []
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "VAMP",
+                []
+            ],
+            [
+                "vamp-plugins.org",
+                []
+            ],
+            [
+                "BSD-style",
+                [
+                    "/wiki/BSD_License"
+                ],
+                [
+                    {
+                        "entity id": "Q191307",
+                        "label": "BSD licenses"
+                    }
+                ]
+            ],
+            [
+                "No",
+                []
+            ],
+            [
+                "Analysis",
+                []
+            ],
+            [
+                "Mac OS X , Windows and Linux",
+                [
+                    "/wiki/Mac_OS_X",
+                    "/wiki/Windows",
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    },
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "List of plug-in architectures",
+    "section_text": "",
+    "uid": "Audio_plug-in_0",
+    "intro": "An audio plug-in, in computer software, is a plug-in that can add or enhance audio-related functionality in a computer program. Such functionality may include digital signal processing or sound synthesis. [page needed] Audio plug-ins usually provide their own user interface, which often contains GUI widgets that can be used to control and visualise the plug-in's audio parameters. [page needed]"
+}

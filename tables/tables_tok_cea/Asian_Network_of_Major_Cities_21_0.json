@@ -1,0 +1,470 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Asian_Network_of_Major_Cities_21",
+    "title": "Asian Network of Major Cities 21",
+    "header": [
+        [
+            "City Name",
+            []
+        ],
+        [
+            "Native Name",
+            []
+        ],
+        [
+            "Metro Population",
+            []
+        ],
+        [
+            "Country",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Bangkok",
+                [
+                    "/wiki/Bangkok"
+                ],
+                [
+                    {
+                        "entity id": "Q1861",
+                        "label": "Bangkok"
+                    }
+                ]
+            ],
+            [
+                "\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23\u0e2f",
+                []
+            ],
+            [
+                "14,500,000",
+                []
+            ],
+            [
+                "Thailand",
+                [
+                    "/wiki/Thailand"
+                ],
+                [
+                    {
+                        "entity id": "Q869",
+                        "label": "Thailand"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Delhi",
+                [
+                    "/wiki/Delhi"
+                ],
+                [
+                    {
+                        "entity id": "Q1353",
+                        "label": "Delhi"
+                    }
+                ]
+            ],
+            [
+                "\u0926\u093f\u0932\u094d\u0932\u0940",
+                []
+            ],
+            [
+                "21,000,000",
+                []
+            ],
+            [
+                "India",
+                [
+                    "/wiki/India"
+                ],
+                [
+                    {
+                        "entity id": "Q668",
+                        "label": "India"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Hanoi",
+                [
+                    "/wiki/Hanoi"
+                ],
+                [
+                    {
+                        "entity id": "Q1858",
+                        "label": "Hanoi"
+                    }
+                ]
+            ],
+            [
+                "H\u00e0 N\u1ed9i",
+                []
+            ],
+            [
+                "16,100,000",
+                []
+            ],
+            [
+                "Vietnam",
+                [
+                    "/wiki/Vietnam"
+                ],
+                [
+                    {
+                        "entity id": "Q881",
+                        "label": "Vietnam"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Jakarta",
+                [
+                    "/wiki/Jakarta"
+                ],
+                [
+                    {
+                        "entity id": "Q3630",
+                        "label": "Jakarta"
+                    }
+                ]
+            ],
+            [
+                "Jakarta",
+                []
+            ],
+            [
+                "30,000,000",
+                []
+            ],
+            [
+                "Indonesia",
+                [
+                    "/wiki/Indonesia"
+                ],
+                [
+                    {
+                        "entity id": "Q252",
+                        "label": "Indonesia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kuala Lumpur",
+                [
+                    "/wiki/Kuala_Lumpur"
+                ],
+                [
+                    {
+                        "entity id": "Q1865",
+                        "label": "Kuala Lumpur"
+                    }
+                ]
+            ],
+            [
+                "Kuala Lumpur",
+                []
+            ],
+            [
+                "7,200,000",
+                []
+            ],
+            [
+                "Malaysia",
+                [
+                    "/wiki/Malaysia"
+                ],
+                [
+                    {
+                        "entity id": "Q833",
+                        "label": "Malaysia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Metropolitan Manila",
+                [
+                    "/wiki/Metro_Manila"
+                ],
+                [
+                    {
+                        "entity id": "Q13580",
+                        "label": "Metro Manila"
+                    }
+                ]
+            ],
+            [
+                "Kalakhang Maynila",
+                []
+            ],
+            [
+                "19,700,000",
+                []
+            ],
+            [
+                "Philippines",
+                [
+                    "/wiki/Philippines"
+                ],
+                [
+                    {
+                        "entity id": "Q928",
+                        "label": "Philippines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Seoul",
+                [
+                    "/wiki/Seoul"
+                ],
+                [
+                    {
+                        "entity id": "Q8684",
+                        "label": "Seoul"
+                    }
+                ]
+            ],
+            [
+                "\uc11c\uc6b8",
+                []
+            ],
+            [
+                "25,620,000",
+                []
+            ],
+            [
+                "South Korea",
+                [
+                    "/wiki/South_Korea"
+                ],
+                [
+                    {
+                        "entity id": "Q884",
+                        "label": "South Korea"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Singapore",
+                [
+                    "/wiki/Singapore"
+                ],
+                [
+                    {
+                        "entity id": "Q334",
+                        "label": "Singapore"
+                    }
+                ]
+            ],
+            [
+                "Singapore",
+                []
+            ],
+            [
+                "5,535,000",
+                []
+            ],
+            [
+                "Singapore",
+                [
+                    "/wiki/Singapore"
+                ],
+                [
+                    {
+                        "entity id": "Q334",
+                        "label": "Singapore"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Taipei",
+                [
+                    "/wiki/Taipei"
+                ],
+                [
+                    {
+                        "entity id": "Q865",
+                        "label": "Taiwan"
+                    }
+                ]
+            ],
+            [
+                "\u53f0\u5317 \u81fa\u5317",
+                []
+            ],
+            [
+                "7,042,210",
+                []
+            ],
+            [
+                "Taiwan",
+                [
+                    "/wiki/Taiwan"
+                ],
+                [
+                    {
+                        "entity id": "Q865",
+                        "label": "Taiwan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Tokyo",
+                [
+                    "/wiki/Tokyo"
+                ],
+                [
+                    {
+                        "entity id": "Q1490",
+                        "label": "Tokyo"
+                    }
+                ]
+            ],
+            [
+                "\u6771\u4eac \u3068\u3046\u304d\u3087\u3046 \u30c8\u30a6\u30ad\u30e7\u30a6",
+                []
+            ],
+            [
+                "37,800,000",
+                []
+            ],
+            [
+                "Japan",
+                [
+                    "/wiki/Japan"
+                ],
+                [
+                    {
+                        "entity id": "Q17",
+                        "label": "Japan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Tomsk",
+                [
+                    "/wiki/Tomsk"
+                ],
+                [
+                    {
+                        "entity id": "Q976",
+                        "label": "Tomsk"
+                    }
+                ]
+            ],
+            [
+                "\u0422\u043e\u043c\u0441\u043a",
+                []
+            ],
+            [
+                "1,045,541",
+                []
+            ],
+            [
+                "Russia",
+                [
+                    "/wiki/Russia"
+                ],
+                [
+                    {
+                        "entity id": "Q159",
+                        "label": "Russia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Ulaanbaatar",
+                [
+                    "/wiki/Ulaanbaatar"
+                ],
+                [
+                    {
+                        "entity id": "Q23430",
+                        "label": "Ulaanbaatar"
+                    }
+                ]
+            ],
+            [
+                "\u0423\u043b\u0430\u0430\u043d\u0431\u0430\u0430\u0442\u0430\u0440",
+                []
+            ],
+            [
+                "1,372,000",
+                []
+            ],
+            [
+                "Mongolia",
+                [
+                    "/wiki/Mongolia"
+                ],
+                [
+                    {
+                        "entity id": "Q711",
+                        "label": "Mongolia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Yangon",
+                [
+                    "/wiki/Yangon"
+                ],
+                [
+                    {
+                        "entity id": "Q37995",
+                        "label": "Yangon"
+                    }
+                ]
+            ],
+            [
+                "\u101b\u1014\u103a\u1000\u102f\u1014\u103a",
+                []
+            ],
+            [
+                "7,610,703",
+                []
+            ],
+            [
+                "Myanmar",
+                [
+                    "/wiki/Myanmar"
+                ],
+                [
+                    {
+                        "entity id": "Q836",
+                        "label": "Myanmar"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Member cities",
+    "section_text": "",
+    "uid": "Asian_Network_of_Major_Cities_21_0",
+    "intro": "Asian Network of Major Cities 21 was a body representing the interests of several of Asia's largest capital cities around common themes of importance, including urban planning, sustainability and crisis management. The organization was advocated by then Tokyo Governor Shintaro Ishihara (1999-2012) and formed by common declaration of those attending a meeting held in Kuala Lumpur in August 2000. Following a review by member cities in 2014, the network was suspended and projects continued under new regional initiatives by Tokyo."
+}

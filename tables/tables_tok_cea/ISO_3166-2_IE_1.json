@@ -1,0 +1,724 @@
+{
+    "url": "https://en.wikipedia.org/wiki/ISO_3166-2:IE",
+    "title": "ISO 3166-2:IE",
+    "header": [
+        [
+            "Code",
+            []
+        ],
+        [
+            "Subdivision name ( en )",
+            [
+                "/wiki/English_language"
+            ],
+            [
+                {
+                    "entity id": "Q1860",
+                    "label": "English"
+                }
+            ]
+        ],
+        [
+            "Subdivision name ( ga )",
+            [
+                "/wiki/Irish_language"
+            ],
+            [
+                {
+                    "entity id": "Q9142",
+                    "label": "Irish"
+                }
+            ]
+        ],
+        [
+            "In province",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "IE-CW",
+                []
+            ],
+            [
+                "Carlow",
+                [
+                    "/wiki/County_Carlow"
+                ],
+                [
+                    {
+                        "entity id": "Q181882",
+                        "label": "County Carlow"
+                    }
+                ]
+            ],
+            [
+                "Ceatharlach",
+                []
+            ],
+            [
+                "L",
+                [
+                    "/wiki/Leinster"
+                ],
+                [
+                    {
+                        "entity id": "Q159736",
+                        "label": "Leinster"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IE-CN",
+                []
+            ],
+            [
+                "Cavan",
+                [
+                    "/wiki/County_Cavan"
+                ],
+                [
+                    {
+                        "entity id": "Q187402",
+                        "label": "County Cavan"
+                    }
+                ]
+            ],
+            [
+                "An Cabh\u00e1n",
+                []
+            ],
+            [
+                "U",
+                [
+                    "/wiki/Ulster"
+                ],
+                [
+                    {
+                        "entity id": "Q93195",
+                        "label": "Ulster"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IE-CE",
+                []
+            ],
+            [
+                "Clare",
+                [
+                    "/wiki/County_Clare"
+                ],
+                [
+                    {
+                        "entity id": "Q181862",
+                        "label": "County Clare"
+                    }
+                ]
+            ],
+            [
+                "An Cl\u00e1r",
+                []
+            ],
+            [
+                "M",
+                [
+                    "/wiki/Munster"
+                ],
+                [
+                    {
+                        "entity id": "Q2742",
+                        "label": "M\u00fcnster"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IE-CO",
+                []
+            ],
+            [
+                "Cork",
+                [
+                    "/wiki/County_Cork"
+                ],
+                [
+                    {
+                        "entity id": "Q162475",
+                        "label": "County Cork"
+                    }
+                ]
+            ],
+            [
+                "Corcaigh",
+                []
+            ],
+            [
+                "M",
+                [
+                    "/wiki/Munster"
+                ],
+                [
+                    {
+                        "entity id": "Q2742",
+                        "label": "M\u00fcnster"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IE-DL",
+                []
+            ],
+            [
+                "Donegal",
+                [
+                    "/wiki/County_Donegal"
+                ],
+                [
+                    {
+                        "entity id": "Q179424",
+                        "label": "County Donegal"
+                    }
+                ]
+            ],
+            [
+                "D\u00fan na nGall",
+                []
+            ],
+            [
+                "U",
+                [
+                    "/wiki/Ulster"
+                ],
+                [
+                    {
+                        "entity id": "Q93195",
+                        "label": "Ulster"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IE-D",
+                []
+            ],
+            [
+                "Dublin",
+                [
+                    "/wiki/County_Dublin"
+                ],
+                [
+                    {
+                        "entity id": "Q173500",
+                        "label": "County Dublin"
+                    }
+                ]
+            ],
+            [
+                "Baile \u00c1tha Cliath",
+                []
+            ],
+            [
+                "L",
+                [
+                    "/wiki/Leinster"
+                ],
+                [
+                    {
+                        "entity id": "Q159736",
+                        "label": "Leinster"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IE-G",
+                []
+            ],
+            [
+                "Galway",
+                [
+                    "/wiki/County_Galway"
+                ],
+                [
+                    {
+                        "entity id": "Q169923",
+                        "label": "County Galway"
+                    }
+                ]
+            ],
+            [
+                "Gaillimh",
+                []
+            ],
+            [
+                "C",
+                [
+                    "/wiki/Connacht"
+                ],
+                [
+                    {
+                        "entity id": "Q164421",
+                        "label": "Connacht"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IE-KY",
+                []
+            ],
+            [
+                "Kerry",
+                [
+                    "/wiki/County_Kerry"
+                ],
+                [
+                    {
+                        "entity id": "Q184469",
+                        "label": "County Kerry"
+                    }
+                ]
+            ],
+            [
+                "Ciarra\u00ed",
+                []
+            ],
+            [
+                "M",
+                [
+                    "/wiki/Munster"
+                ],
+                [
+                    {
+                        "entity id": "Q2742",
+                        "label": "M\u00fcnster"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IE-KE",
+                []
+            ],
+            [
+                "Kildare",
+                [
+                    "/wiki/County_Kildare"
+                ],
+                [
+                    {
+                        "entity id": "Q173332",
+                        "label": "County Kildare"
+                    }
+                ]
+            ],
+            [
+                "Cill Dara",
+                []
+            ],
+            [
+                "L",
+                [
+                    "/wiki/Leinster"
+                ],
+                [
+                    {
+                        "entity id": "Q159736",
+                        "label": "Leinster"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IE-KK",
+                []
+            ],
+            [
+                "Kilkenny",
+                [
+                    "/wiki/County_Kilkenny"
+                ],
+                [
+                    {
+                        "entity id": "Q180231",
+                        "label": "County Kilkenny"
+                    }
+                ]
+            ],
+            [
+                "Cill Chainnigh",
+                []
+            ],
+            [
+                "L",
+                [
+                    "/wiki/Leinster"
+                ],
+                [
+                    {
+                        "entity id": "Q159736",
+                        "label": "Leinster"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IE-LS",
+                []
+            ],
+            [
+                "Laois",
+                [
+                    "/wiki/County_Laois"
+                ],
+                [
+                    {
+                        "entity id": "Q55299",
+                        "label": "County Laois"
+                    }
+                ]
+            ],
+            [
+                "Laois",
+                []
+            ],
+            [
+                "L",
+                [
+                    "/wiki/Leinster"
+                ],
+                [
+                    {
+                        "entity id": "Q159736",
+                        "label": "Leinster"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IE-LM",
+                []
+            ],
+            [
+                "Leitrim",
+                [
+                    "/wiki/County_Leitrim"
+                ],
+                [
+                    {
+                        "entity id": "Q107397",
+                        "label": "County Leitrim"
+                    }
+                ]
+            ],
+            [
+                "Liatroim",
+                []
+            ],
+            [
+                "C",
+                [
+                    "/wiki/Connacht"
+                ],
+                [
+                    {
+                        "entity id": "Q164421",
+                        "label": "Connacht"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IE-LK",
+                []
+            ],
+            [
+                "Limerick",
+                [
+                    "/wiki/County_Limerick"
+                ],
+                [
+                    {
+                        "entity id": "Q178283",
+                        "label": "County Limerick"
+                    }
+                ]
+            ],
+            [
+                "Luimneach",
+                []
+            ],
+            [
+                "M",
+                [
+                    "/wiki/Munster"
+                ],
+                [
+                    {
+                        "entity id": "Q2742",
+                        "label": "M\u00fcnster"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IE-LD",
+                []
+            ],
+            [
+                "Longford",
+                [
+                    "/wiki/County_Longford"
+                ],
+                [
+                    {
+                        "entity id": "Q186220",
+                        "label": "County Longford"
+                    }
+                ]
+            ],
+            [
+                "An Longfort",
+                []
+            ],
+            [
+                "L",
+                [
+                    "/wiki/Leinster"
+                ],
+                [
+                    {
+                        "entity id": "Q159736",
+                        "label": "Leinster"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IE-LH",
+                []
+            ],
+            [
+                "Louth",
+                [
+                    "/wiki/County_Louth"
+                ],
+                [
+                    {
+                        "entity id": "Q183539",
+                        "label": "County Louth"
+                    }
+                ]
+            ],
+            [
+                "L\u00fa",
+                []
+            ],
+            [
+                "L",
+                [
+                    "/wiki/Leinster"
+                ],
+                [
+                    {
+                        "entity id": "Q159736",
+                        "label": "Leinster"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IE-MO",
+                []
+            ],
+            [
+                "Mayo",
+                [
+                    "/wiki/County_Mayo"
+                ],
+                [
+                    {
+                        "entity id": "Q178626",
+                        "label": "County Mayo"
+                    }
+                ]
+            ],
+            [
+                "Maigh Eo",
+                []
+            ],
+            [
+                "C",
+                [
+                    "/wiki/Connacht"
+                ],
+                [
+                    {
+                        "entity id": "Q164421",
+                        "label": "Connacht"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IE-MH",
+                []
+            ],
+            [
+                "Meath",
+                [
+                    "/wiki/County_Meath"
+                ],
+                [
+                    {
+                        "entity id": "Q183544",
+                        "label": "County Meath"
+                    }
+                ]
+            ],
+            [
+                "An Mh\u00ed",
+                []
+            ],
+            [
+                "L",
+                [
+                    "/wiki/Leinster"
+                ],
+                [
+                    {
+                        "entity id": "Q159736",
+                        "label": "Leinster"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IE-MN",
+                []
+            ],
+            [
+                "Monaghan",
+                [
+                    "/wiki/County_Monaghan"
+                ],
+                [
+                    {
+                        "entity id": "Q184760",
+                        "label": "County Monaghan"
+                    }
+                ]
+            ],
+            [
+                "Muineach\u00e1n",
+                []
+            ],
+            [
+                "U",
+                [
+                    "/wiki/Ulster"
+                ],
+                [
+                    {
+                        "entity id": "Q93195",
+                        "label": "Ulster"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IE-OY",
+                []
+            ],
+            [
+                "Offaly",
+                [
+                    "/wiki/County_Offaly"
+                ],
+                [
+                    {
+                        "entity id": "Q184445",
+                        "label": "County Offaly"
+                    }
+                ]
+            ],
+            [
+                "U\u00edbh Fhail\u00ed",
+                []
+            ],
+            [
+                "L",
+                [
+                    "/wiki/Leinster"
+                ],
+                [
+                    {
+                        "entity id": "Q159736",
+                        "label": "Leinster"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IE-RN",
+                []
+            ],
+            [
+                "Roscommon",
+                [
+                    "/wiki/County_Roscommon"
+                ],
+                [
+                    {
+                        "entity id": "Q179437",
+                        "label": "County Roscommon"
+                    }
+                ]
+            ],
+            [
+                "Ros Com\u00e1in",
+                []
+            ],
+            [
+                "C",
+                [
+                    "/wiki/Connacht"
+                ],
+                [
+                    {
+                        "entity id": "Q164421",
+                        "label": "Connacht"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Current codes -- Counties",
+    "section_text": "",
+    "uid": "ISO_3166-2:IE_1",
+    "intro": "ISO 3166-2:IE is the entry for Ireland in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1. Currently for Ireland, ISO 3166-2 codes are defined for two levels of subdivisions:"
+}

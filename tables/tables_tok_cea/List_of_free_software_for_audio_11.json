@@ -1,0 +1,316 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio",
+    "title": "Comparison of free software for audio",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Linux ?",
+            [
+                "/wiki/Linux"
+            ],
+            [
+                {
+                    "entity id": "Q388",
+                    "label": "Linux"
+                }
+            ]
+        ],
+        [
+            "Note",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Advanced Linux Sound Architecture ( ALSA )",
+                [
+                    "/wiki/Advanced_Linux_Sound_Architecture"
+                ],
+                [
+                    {
+                        "entity id": "Q379635",
+                        "label": "Advanced Linux Sound Architecture"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "the sound card driver and management system in the Linux kernel",
+                [
+                    "/wiki/Sound_card",
+                    "/wiki/Linux_kernel"
+                ],
+                [
+                    {
+                        "entity id": "Q4343",
+                        "label": "sound card"
+                    },
+                    {
+                        "entity id": "Q14579",
+                        "label": "Linux kernel"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "aRts",
+                [
+                    "/wiki/ARts"
+                ],
+                [
+                    {
+                        "entity id": "Q735",
+                        "label": "art"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "an audio programming API and sound server for general desktop , no longer in development",
+                [
+                    "/wiki/Sound_server"
+                ],
+                [
+                    {
+                        "entity id": "Q1551207",
+                        "label": "sound server"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "DSSI",
+                [
+                    "/wiki/Disposable_Soft_Synth_Interface"
+                ],
+                [
+                    {
+                        "entity id": "Q1155742",
+                        "label": "DSSI"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "a plugin architecture for software synthesizers",
+                [
+                    "/wiki/Software_synthesizer"
+                ],
+                [
+                    {
+                        "entity id": "Q1897589",
+                        "label": "software synthesizer"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "GStreamer",
+                [
+                    "/wiki/GStreamer"
+                ],
+                [
+                    {
+                        "entity id": "Q860213",
+                        "label": "GStreamer"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "a graph-based multimedia framework",
+                []
+            ]
+        ],
+        [
+            [
+                "JACK Audio Connection Kit ( JACK )",
+                [
+                    "/wiki/JACK_Audio_Connection_Kit"
+                ],
+                [
+                    {
+                        "entity id": "Q1412909",
+                        "label": "JACK Audio Connection Kit"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "a sound server for integration of general and low-latency pro audio applications , including timebase transport",
+                [
+                    "/wiki/Sound_server",
+                    "/wiki/Timebase"
+                ],
+                [
+                    {
+                        "entity id": "Q1551207",
+                        "label": "sound server"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Linux Audio Developers Simple Plugin API ( LADSPA )",
+                [
+                    "/wiki/LADSPA"
+                ],
+                [
+                    {
+                        "entity id": "Q331379",
+                        "label": "LADSPA"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "a plugin architecture for digital signal processing",
+                [
+                    "/wiki/Digital_signal_processor"
+                ],
+                [
+                    {
+                        "entity id": "Q106370",
+                        "label": "digital signal processor"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Open Sound System",
+                [
+                    "/wiki/Open_Sound_System"
+                ],
+                [
+                    {
+                        "entity id": "Q902871",
+                        "label": "Open Sound System"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "a sound card management and driver system for Unix operating systems",
+                [
+                    "/wiki/Sound_card",
+                    "/wiki/Unix",
+                    "/wiki/Operating_systems"
+                ],
+                [
+                    {
+                        "entity id": "Q4343",
+                        "label": "sound card"
+                    },
+                    {
+                        "entity id": "Q14656",
+                        "label": "Unix-like operating system"
+                    },
+                    {
+                        "entity id": "Q110593282",
+                        "label": "Books > Computers & Internet > Operating Systems"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "PulseAudio",
+                [
+                    "/wiki/PulseAudio"
+                ],
+                [
+                    {
+                        "entity id": "Q1466320",
+                        "label": "PulseAudio"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "a sound server for general desktop and multihost LAN applications",
+                [
+                    "/wiki/Sound_server"
+                ],
+                [
+                    {
+                        "entity id": "Q1551207",
+                        "label": "sound server"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "sndio",
+                [
+                    "/wiki/Sndio"
+                ],
+                [
+                    {
+                        "entity id": "Q7547434",
+                        "label": "sndio"
+                    }
+                ]
+            ],
+            [
+                "Yes",
+                []
+            ],
+            [
+                "sound and MIDI server",
+                [
+                    "/wiki/Sound_server",
+                    "/wiki/MIDI"
+                ],
+                [
+                    {
+                        "entity id": "Q1551207",
+                        "label": "sound server"
+                    },
+                    {
+                        "entity id": "Q669935",
+                        "label": "Berliner"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Technologies",
+    "section_text": "",
+    "uid": "List_of_free_software_for_audio_11",
+    "intro": "This list of free software for audio lists notable free and open source software for use by sound engineers, audio producers, and those involved in sound recording and reproduction."
+}

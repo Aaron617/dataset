@@ -1,0 +1,508 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Provinces_of_South_Africa",
+    "title": "Provinces of South Africa",
+    "header": [
+        [
+            "Province",
+            []
+        ],
+        [
+            "Capital",
+            []
+        ],
+        [
+            "Peak population",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Cape of Good Hope ( 1910-1994 )",
+                [
+                    "/wiki/Cape_Province"
+                ],
+                [
+                    {
+                        "entity id": "Q849164",
+                        "label": "Cape Province"
+                    }
+                ]
+            ],
+            [
+                "Cape Town",
+                [
+                    "/wiki/Cape_Town"
+                ],
+                [
+                    {
+                        "entity id": "Q5465",
+                        "label": "Cape Town"
+                    }
+                ]
+            ],
+            [
+                "6,125,335",
+                []
+            ]
+        ],
+        [
+            [
+                "Natal ( 1910-1994 )",
+                [
+                    "/wiki/Natal_(province)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Pietermaritzburg",
+                [
+                    "/wiki/Pietermaritzburg"
+                ],
+                [
+                    {
+                        "entity id": "Q185591",
+                        "label": "Pietermaritzburg"
+                    }
+                ]
+            ],
+            [
+                "2,430,753",
+                []
+            ]
+        ],
+        [
+            [
+                "Orange Free State ( 1910-1994 )",
+                [
+                    "/wiki/Orange_Free_State_(province)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Bloemfontein",
+                [
+                    "/wiki/Bloemfontein"
+                ],
+                [
+                    {
+                        "entity id": "Q37701",
+                        "label": "Bloemfontein"
+                    }
+                ]
+            ],
+            [
+                "2,193,062",
+                []
+            ]
+        ],
+        [
+            [
+                "Transvaal ( 1910-1994 )",
+                [
+                    "/wiki/Transvaal_(province)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Pretoria",
+                [
+                    "/wiki/Pretoria"
+                ],
+                [
+                    {
+                        "entity id": "Q3926",
+                        "label": "Pretoria"
+                    }
+                ]
+            ],
+            [
+                "9,491,265",
+                []
+            ]
+        ],
+        [
+            [
+                "Homelands",
+                []
+            ],
+            [
+                "Capital",
+                []
+            ],
+            [
+                "Peak population",
+                []
+            ]
+        ],
+        [
+            [
+                "Bophuthatswana ( 1977-1994 ) \u2020",
+                [
+                    "/wiki/Bophuthatswana"
+                ],
+                [
+                    {
+                        "entity id": "Q158236",
+                        "label": "Bophuthatswana"
+                    }
+                ]
+            ],
+            [
+                "Mmabatho",
+                [
+                    "/wiki/Mmabatho"
+                ],
+                [
+                    {
+                        "entity id": "Q358762",
+                        "label": "Mmabatho"
+                    }
+                ]
+            ],
+            [
+                "1,478,950",
+                []
+            ]
+        ],
+        [
+            [
+                "Ciskei ( 1972-1994 ) \u2020",
+                [
+                    "/wiki/Ciskei"
+                ],
+                [
+                    {
+                        "entity id": "Q379042",
+                        "label": "Ciskei"
+                    }
+                ]
+            ],
+            [
+                "Bisho",
+                [
+                    "/wiki/Bhisho"
+                ],
+                [
+                    {
+                        "entity id": "Q209533",
+                        "label": "Bhisho"
+                    }
+                ]
+            ],
+            [
+                "677,920",
+                []
+            ]
+        ],
+        [
+            [
+                "Gazankulu ( 1971-1994 )",
+                [
+                    "/wiki/Gazankulu"
+                ],
+                [
+                    {
+                        "entity id": "Q1348750",
+                        "label": "Gazankulu"
+                    }
+                ]
+            ],
+            [
+                "Giyani",
+                [
+                    "/wiki/Giyani"
+                ],
+                [
+                    {
+                        "entity id": "Q1528852",
+                        "label": "Giyani"
+                    }
+                ]
+            ],
+            [
+                "954,771",
+                []
+            ]
+        ],
+        [
+            [
+                "KaNgwane ( 1981-1994 )",
+                [
+                    "/wiki/KaNgwane"
+                ],
+                [
+                    {
+                        "entity id": "Q1433125",
+                        "label": "KaNgwane"
+                    }
+                ]
+            ],
+            [
+                "Louieville Schoemansdal ( de facto )",
+                [
+                    "/wiki/Louieville",
+                    "/wiki/Kamatsamo",
+                    "/wiki/De_facto"
+                ],
+                [
+                    {
+                        "entity id": "Q15242983",
+                        "label": "Louieville"
+                    },
+                    {
+                        "entity id": "Q5179207",
+                        "label": "Kamatsamo"
+                    },
+                    {
+                        "entity id": "Q712144",
+                        "label": "de facto"
+                    }
+                ]
+            ],
+            [
+                "779,240",
+                []
+            ]
+        ],
+        [
+            [
+                "KwaNdebele ( 1981-1994 )",
+                [
+                    "/wiki/KwaNdebele"
+                ],
+                [
+                    {
+                        "entity id": "Q1433142",
+                        "label": "KwaNdebele"
+                    }
+                ]
+            ],
+            [
+                "KwaMhlanga",
+                [
+                    "/wiki/KwaMhlanga"
+                ],
+                [
+                    {
+                        "entity id": "Q2189479",
+                        "label": "KwaMhlanga"
+                    }
+                ]
+            ],
+            [
+                "404,246",
+                []
+            ]
+        ],
+        [
+            [
+                "KwaZulu ( 1981-1994 )",
+                [
+                    "/wiki/KwaZulu"
+                ],
+                [
+                    {
+                        "entity id": "Q594798",
+                        "label": "kwaZulu"
+                    }
+                ]
+            ],
+            [
+                "Nongoma ( until 1980 ) Ulundi ( 1980-1994 )",
+                [
+                    "/wiki/Nongoma",
+                    "/wiki/Ulundi"
+                ],
+                [
+                    {
+                        "entity id": "Q138444",
+                        "label": "1367 Nongoma"
+                    },
+                    {
+                        "entity id": "Q1013421",
+                        "label": "Ulundi"
+                    }
+                ]
+            ],
+            [
+                "5,524,774",
+                []
+            ]
+        ],
+        [
+            [
+                "Lebowa ( 1972-1994 )",
+                [
+                    "/wiki/Lebowa"
+                ],
+                [
+                    {
+                        "entity id": "Q1433131",
+                        "label": "Lebowa"
+                    }
+                ]
+            ],
+            [
+                "Lebowakgomo",
+                [
+                    "/wiki/Lebowakgomo"
+                ],
+                [
+                    {
+                        "entity id": "Q544201",
+                        "label": "Lebowakgomo"
+                    }
+                ]
+            ],
+            [
+                "2,740,587",
+                []
+            ]
+        ],
+        [
+            [
+                "QwaQwa ( 1974-1994 )",
+                [
+                    "/wiki/QwaQwa"
+                ],
+                [
+                    {
+                        "entity id": "Q179548",
+                        "label": "QwaQwa"
+                    }
+                ]
+            ],
+            [
+                "Phuthaditjhaba",
+                [
+                    "/wiki/Phuthaditjhaba"
+                ],
+                [
+                    {
+                        "entity id": "Q1437581",
+                        "label": "Phuthaditjhaba"
+                    }
+                ]
+            ],
+            [
+                "342,886",
+                []
+            ]
+        ],
+        [
+            [
+                "Transkei ( 1976-1994 ) \u2020",
+                [
+                    "/wiki/Transkei"
+                ],
+                [
+                    {
+                        "entity id": "Q466551",
+                        "label": "Transkei"
+                    }
+                ]
+            ],
+            [
+                "Umtata",
+                [
+                    "/wiki/Mthatha"
+                ],
+                [
+                    {
+                        "entity id": "Q1020914",
+                        "label": "Mthatha"
+                    }
+                ]
+            ],
+            [
+                "2,323,650",
+                []
+            ]
+        ],
+        [
+            [
+                "Venda ( 1979-1994 ) \u2020",
+                [
+                    "/wiki/Venda"
+                ],
+                [
+                    {
+                        "entity id": "Q32704",
+                        "label": "Venda"
+                    }
+                ]
+            ],
+            [
+                "Thohoyandou",
+                [
+                    "/wiki/Thohoyandou"
+                ],
+                [
+                    {
+                        "entity id": "Q1025654",
+                        "label": "Thohoyandou"
+                    }
+                ]
+            ],
+            [
+                "558,797",
+                []
+            ]
+        ],
+        [
+            [
+                "Mandates",
+                []
+            ],
+            [
+                "Capital",
+                []
+            ],
+            [
+                "Peak population",
+                []
+            ]
+        ],
+        [
+            [
+                "South-West Africa",
+                [
+                    "/wiki/South-West_Africa"
+                ],
+                [
+                    {
+                        "entity id": "Q953068",
+                        "label": "South-West Africa"
+                    }
+                ]
+            ],
+            [
+                "Windhoek",
+                [
+                    "/wiki/Windhoek"
+                ],
+                [
+                    {
+                        "entity id": "Q3935",
+                        "label": "Windhoek"
+                    }
+                ]
+            ],
+            [
+                "1,415,000",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Former administrative divisions",
+    "section_text": "",
+    "uid": "Provinces_of_South_Africa_2",
+    "intro": "South Africa is divided into nine provinces. On the eve of the 1994 general election, South Africa's former homelands, also known as Bantustans, were reintegrated and the four existing provinces were divided into nine. The twelfth, thirteenth and sixteenth amendments to the constitution changed the borders of seven of the provinces."
+}

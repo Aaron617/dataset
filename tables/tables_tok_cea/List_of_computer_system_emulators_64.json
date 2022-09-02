@@ -1,0 +1,578 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_computer_system_emulators",
+    "title": "List of computer system emulators",
+    "header": [
+        [
+            "Emulator",
+            []
+        ],
+        [
+            "Latest version",
+            []
+        ],
+        [
+            "Released",
+            []
+        ],
+        [
+            "Guest emulation capabilities",
+            []
+        ],
+        [
+            "Host Operating System",
+            []
+        ],
+        [
+            "License",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Clock Signal ( CLK )",
+                []
+            ],
+            [
+                "2019-08-01",
+                []
+            ],
+            [
+                "August 1 , 2019",
+                []
+            ],
+            [
+                "Acorn Electron , Amstrad CPC , Apple II , Atari 2600 , ColecoVision , Commodore VIC-20 , Macintosh , MSX , Oric , Sega Master System , ZX80 , ZX81",
+                [
+                    "/wiki/Acorn_Electron",
+                    "/wiki/Amstrad_CPC",
+                    "/wiki/Apple_II",
+                    "/wiki/Atari_2600",
+                    "/wiki/ColecoVision",
+                    "/wiki/Commodore_VIC-20",
+                    "/wiki/Macintosh_512Ke",
+                    "/wiki/MSX",
+                    "/wiki/Oric",
+                    "/wiki/Sega_Master_System",
+                    "/wiki/ZX80",
+                    "/wiki/ZX81"
+                ],
+                [
+                    {
+                        "entity id": "Q342163",
+                        "label": "Acorn Electron"
+                    },
+                    {
+                        "entity id": "Q478829",
+                        "label": "Amstrad CPC"
+                    },
+                    {
+                        "entity id": "Q3017175",
+                        "label": "Apple II"
+                    },
+                    {
+                        "entity id": "Q206261",
+                        "label": "Atari 2600"
+                    },
+                    {
+                        "entity id": "Q1046862",
+                        "label": "ColecoVision"
+                    },
+                    {
+                        "entity id": "Q918232",
+                        "label": "Commodore VIC-20"
+                    },
+                    {
+                        "entity id": "Q1052609",
+                        "label": "Macintosh 512Ke"
+                    },
+                    {
+                        "entity id": "Q853547",
+                        "label": "MSX"
+                    },
+                    {
+                        "entity id": "Q17042679",
+                        "label": "Oric"
+                    },
+                    {
+                        "entity id": "Q209868",
+                        "label": "Sega Master System"
+                    },
+                    {
+                        "entity id": "Q602406",
+                        "label": "ZX80"
+                    },
+                    {
+                        "entity id": "Q78503718",
+                        "label": "ZX81 Collection"
+                    }
+                ]
+            ],
+            [
+                "macOS , Linux , BSD",
+                [
+                    "/wiki/MacOS"
+                ],
+                [
+                    {
+                        "entity id": "Q14116",
+                        "label": "macOS"
+                    }
+                ]
+            ],
+            [
+                "MIT License",
+                [
+                    "/wiki/MIT_License"
+                ],
+                [
+                    {
+                        "entity id": "Q334661",
+                        "label": "MIT license"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "EightyOne",
+                []
+            ],
+            [
+                "1.0a",
+                []
+            ],
+            [
+                "May 28 , 2008",
+                []
+            ],
+            [
+                "Various Sinclair computers",
+                []
+            ],
+            [
+                "Windows",
+                [
+                    "/wiki/Microsoft_Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "MAME ( formerly MESS )",
+                [
+                    "/wiki/MAME",
+                    "/wiki/Multi_Emulator_Super_System"
+                ],
+                [
+                    {
+                        "entity id": "Q1054055",
+                        "label": "MAME"
+                    },
+                    {
+                        "entity id": "Q778644",
+                        "label": "MESS"
+                    }
+                ]
+            ],
+            [
+                "0.196",
+                []
+            ],
+            [
+                "March 28 , 2018",
+                []
+            ],
+            [
+                "Various computers , consoles , and arcade systems",
+                []
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "New BSD , GPLv2 or later",
+                [
+                    "/wiki/New_BSD",
+                    "/wiki/GPLv2"
+                ],
+                [
+                    {
+                        "entity id": "Q18491847",
+                        "label": "3-clause BSD License"
+                    },
+                    {
+                        "entity id": "Q10513450",
+                        "label": "GNU General Public License, version 2.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "XTender",
+                []
+            ],
+            [
+                "1.28",
+                []
+            ],
+            [
+                "May 2008",
+                []
+            ],
+            [
+                "Sinclair ZX80 , Sinclair ZX81",
+                [
+                    "/wiki/ZX80",
+                    "/wiki/ZX81"
+                ],
+                [
+                    {
+                        "entity id": "Q602406",
+                        "label": "ZX80"
+                    },
+                    {
+                        "entity id": "Q78503718",
+                        "label": "ZX81 Collection"
+                    }
+                ]
+            ],
+            [
+                "DOS",
+                [
+                    "/wiki/DOS"
+                ],
+                [
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    }
+                ]
+            ],
+            [
+                "Shareware",
+                [
+                    "/wiki/Shareware"
+                ],
+                [
+                    {
+                        "entity id": "Q185534",
+                        "label": "shareware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "sz81",
+                []
+            ],
+            [
+                "2.1.7",
+                []
+            ],
+            [
+                "February 13 , 2011",
+                []
+            ],
+            [
+                "Sinclair ZX80 , Sinclair ZX81",
+                [
+                    "/wiki/ZX80",
+                    "/wiki/ZX81"
+                ],
+                [
+                    {
+                        "entity id": "Q602406",
+                        "label": "ZX80"
+                    },
+                    {
+                        "entity id": "Q78503718",
+                        "label": "ZX81 Collection"
+                    }
+                ]
+            ],
+            [
+                "Cross-platform",
+                [
+                    "/wiki/Cross-platform"
+                ],
+                [
+                    {
+                        "entity id": "Q174666",
+                        "label": "cross-platform"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "z81",
+                []
+            ],
+            [
+                "2.1",
+                []
+            ],
+            [
+                "October 1 , 2004",
+                []
+            ],
+            [
+                "Sinclair ZX80 , Sinclair ZX81",
+                [
+                    "/wiki/ZX80",
+                    "/wiki/ZX81"
+                ],
+                [
+                    {
+                        "entity id": "Q602406",
+                        "label": "ZX80"
+                    },
+                    {
+                        "entity id": "Q78503718",
+                        "label": "ZX81 Collection"
+                    }
+                ]
+            ],
+            [
+                "Linux",
+                [
+                    "/wiki/Linux"
+                ],
+                [
+                    {
+                        "entity id": "Q388",
+                        "label": "Linux"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "NO $ ZX81",
+                []
+            ],
+            [
+                "1.1",
+                []
+            ],
+            [
+                "April 2001",
+                []
+            ],
+            [
+                "Sinclair ZX80 , Sinclair ZX81",
+                [
+                    "/wiki/ZX80",
+                    "/wiki/ZX81"
+                ],
+                [
+                    {
+                        "entity id": "Q602406",
+                        "label": "ZX80"
+                    },
+                    {
+                        "entity id": "Q78503718",
+                        "label": "ZX81 Collection"
+                    }
+                ]
+            ],
+            [
+                "DOS , Windows",
+                [
+                    "/wiki/DOS",
+                    "/wiki/Windows"
+                ],
+                [
+                    {
+                        "entity id": "Q170434",
+                        "label": "DOS"
+                    },
+                    {
+                        "entity id": "Q1406",
+                        "label": "Microsoft Windows"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ZX80 Emulator",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "March 10 , 2010",
+                []
+            ],
+            [
+                "Sinclair ZX80",
+                [
+                    "/wiki/ZX80"
+                ],
+                [
+                    {
+                        "entity id": "Q602406",
+                        "label": "ZX80"
+                    }
+                ]
+            ],
+            [
+                "Web browser ( JavaScript )",
+                [
+                    "/wiki/Web_browser",
+                    "/wiki/JavaScript"
+                ],
+                [
+                    {
+                        "entity id": "Q6368",
+                        "label": "web browser"
+                    },
+                    {
+                        "entity id": "Q2005",
+                        "label": "JavaScript"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ZX81 - iOS",
+                []
+            ],
+            [
+                "1.7.2",
+                []
+            ],
+            [
+                "November 20 , 2019",
+                []
+            ],
+            [
+                "Sinclair ZX80 , Sinclair ZX81",
+                [
+                    "/wiki/ZX80",
+                    "/wiki/ZX81"
+                ],
+                [
+                    {
+                        "entity id": "Q602406",
+                        "label": "ZX80"
+                    },
+                    {
+                        "entity id": "Q78503718",
+                        "label": "ZX81 Collection"
+                    }
+                ]
+            ],
+            [
+                "iOS",
+                [
+                    "/wiki/IOS"
+                ],
+                [
+                    {
+                        "entity id": "Q48493",
+                        "label": "iOS"
+                    }
+                ]
+            ],
+            [
+                "Freeware",
+                [
+                    "/wiki/Freeware"
+                ],
+                [
+                    {
+                        "entity id": "Q178285",
+                        "label": "freeware"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "8-bit guest systems -- Sinclair ZX80",
+    "section_text": "",
+    "uid": "List_of_computer_system_emulators_64",
+    "intro": "This article lists software and hardware that emulates computing platforms. The host in this article is the system running the emulator, and the guest is the system being emulated. The list is organized by guest operating system (the system being emulated), grouped by bitness. Each section contains a list of emulators capable of emulating the specified guest, details of the range of guest systems able to be emulated, and the required host environment and licensing."
+}

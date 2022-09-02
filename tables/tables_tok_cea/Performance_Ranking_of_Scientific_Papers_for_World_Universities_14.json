@@ -1,0 +1,624 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Performance_Ranking_of_Scientific_Papers_for_World_Universities",
+    "title": "Performance Ranking of Scientific Papers for World Universities",
+    "header": [
+        [
+            "2010",
+            []
+        ],
+        [
+            "University",
+            []
+        ],
+        [
+            "Country",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "01",
+                []
+            ],
+            [
+                "Massachusetts Institute of Technology",
+                [
+                    "/wiki/Massachusetts_Institute_of_Technology"
+                ],
+                [
+                    {
+                        "entity id": "Q49108",
+                        "label": "Massachusetts Institute of Technology"
+                    }
+                ]
+            ],
+            [
+                "US",
+                [
+                    "/wiki/US"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "02",
+                []
+            ],
+            [
+                "Stanford University",
+                [
+                    "/wiki/Stanford_University"
+                ],
+                [
+                    {
+                        "entity id": "Q41506",
+                        "label": "Stanford University"
+                    }
+                ]
+            ],
+            [
+                "US",
+                [
+                    "/wiki/US"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "03",
+                []
+            ],
+            [
+                "University of Illinois- Urbana-Champaign",
+                [
+                    "/wiki/University_of_Illinois_at_Urbana\u2013Champaign"
+                ],
+                [
+                    {
+                        "entity id": "Q457281",
+                        "label": "University of Illinois at Urbana\u2013Champaign"
+                    }
+                ]
+            ],
+            [
+                "US",
+                [
+                    "/wiki/US"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "04",
+                []
+            ],
+            [
+                "University of Michigan- Ann Arbor",
+                [
+                    "/wiki/University_of_Michigan"
+                ],
+                [
+                    {
+                        "entity id": "Q230492",
+                        "label": "University of Michigan"
+                    }
+                ]
+            ],
+            [
+                "US",
+                [
+                    "/wiki/US"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "05",
+                []
+            ],
+            [
+                "Georgia Institute of Technology",
+                [
+                    "/wiki/Georgia_Institute_of_Technology"
+                ],
+                [
+                    {
+                        "entity id": "Q864855",
+                        "label": "Georgia Institute of Technology"
+                    }
+                ]
+            ],
+            [
+                "US",
+                [
+                    "/wiki/US"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "06",
+                []
+            ],
+            [
+                "University of Cambridge",
+                [
+                    "/wiki/University_of_Cambridge"
+                ],
+                [
+                    {
+                        "entity id": "Q35794",
+                        "label": "University of Cambridge"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom",
+                [
+                    "/wiki/United_Kingdom"
+                ],
+                [
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "07",
+                []
+            ],
+            [
+                "University of California- Berkeley",
+                [
+                    "/wiki/University_of_California,_Berkeley"
+                ],
+                [
+                    {
+                        "entity id": "Q168756",
+                        "label": "University of California, Berkeley"
+                    }
+                ]
+            ],
+            [
+                "US",
+                [
+                    "/wiki/US"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "08",
+                []
+            ],
+            [
+                "Shanghai Jiao Tong University",
+                [
+                    "/wiki/Shanghai_Jiao_Tong_University"
+                ],
+                [
+                    {
+                        "entity id": "Q525169",
+                        "label": "Shanghai Jiao Tong University"
+                    }
+                ]
+            ],
+            [
+                "China",
+                [
+                    "/wiki/China"
+                ],
+                [
+                    {
+                        "entity id": "Q148",
+                        "label": "People's Republic of China"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "09",
+                []
+            ],
+            [
+                "Cornell University",
+                [
+                    "/wiki/Cornell_University"
+                ],
+                [
+                    {
+                        "entity id": "Q49115",
+                        "label": "Cornell University"
+                    }
+                ]
+            ],
+            [
+                "US",
+                [
+                    "/wiki/US"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "10",
+                []
+            ],
+            [
+                "Imperial College London",
+                [
+                    "/wiki/Imperial_College_London"
+                ],
+                [
+                    {
+                        "entity id": "Q189022",
+                        "label": "Imperial College London"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom",
+                [
+                    "/wiki/United_Kingdom"
+                ],
+                [
+                    {
+                        "entity id": "Q145",
+                        "label": "United Kingdom"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "11",
+                []
+            ],
+            [
+                "Tsinghua University",
+                [
+                    "/wiki/Tsinghua_University"
+                ],
+                [
+                    {
+                        "entity id": "Q16955",
+                        "label": "Tsinghua University"
+                    }
+                ]
+            ],
+            [
+                "China",
+                [
+                    "/wiki/China"
+                ],
+                [
+                    {
+                        "entity id": "Q148",
+                        "label": "People's Republic of China"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "12",
+                []
+            ],
+            [
+                "Princeton University",
+                [
+                    "/wiki/Princeton_University"
+                ],
+                [
+                    {
+                        "entity id": "Q21578",
+                        "label": "Princeton University"
+                    }
+                ]
+            ],
+            [
+                "US",
+                [
+                    "/wiki/US"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "13",
+                []
+            ],
+            [
+                "National University of Singapore",
+                [
+                    "/wiki/National_University_of_Singapore"
+                ],
+                [
+                    {
+                        "entity id": "Q738236",
+                        "label": "National University of Singapore"
+                    }
+                ]
+            ],
+            [
+                "Singapore",
+                [
+                    "/wiki/Singapore"
+                ],
+                [
+                    {
+                        "entity id": "Q334",
+                        "label": "Singapore"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "14",
+                []
+            ],
+            [
+                "Purdue University- West Lafayette",
+                [
+                    "/wiki/Purdue_University"
+                ],
+                [
+                    {
+                        "entity id": "Q217741",
+                        "label": "Purdue University"
+                    }
+                ]
+            ],
+            [
+                "US",
+                [
+                    "/wiki/US"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "15",
+                []
+            ],
+            [
+                "Delft University of Technology",
+                [
+                    "/wiki/Delft_University_of_Technology"
+                ],
+                [
+                    {
+                        "entity id": "Q752663",
+                        "label": "Delft University of Technology"
+                    }
+                ]
+            ],
+            [
+                "Netherlands",
+                [
+                    "/wiki/Netherlands"
+                ],
+                [
+                    {
+                        "entity id": "Q55",
+                        "label": "Netherlands"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "16",
+                []
+            ],
+            [
+                "California Institute of Technology",
+                [
+                    "/wiki/California_Institute_of_Technology"
+                ],
+                [
+                    {
+                        "entity id": "Q161562",
+                        "label": "California Institute of Technology"
+                    }
+                ]
+            ],
+            [
+                "US",
+                [
+                    "/wiki/US"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "17",
+                []
+            ],
+            [
+                "Seoul National University",
+                [
+                    "/wiki/Seoul_National_University"
+                ],
+                [
+                    {
+                        "entity id": "Q39913",
+                        "label": "Seoul National University"
+                    }
+                ]
+            ],
+            [
+                "South Korea",
+                [
+                    "/wiki/South_Korea"
+                ],
+                [
+                    {
+                        "entity id": "Q884",
+                        "label": "South Korea"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "18",
+                []
+            ],
+            [
+                "Northwestern University",
+                [
+                    "/wiki/Northwestern_University"
+                ],
+                [
+                    {
+                        "entity id": "Q309350",
+                        "label": "Northwestern University"
+                    }
+                ]
+            ],
+            [
+                "US",
+                [
+                    "/wiki/US"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "19",
+                []
+            ],
+            [
+                "Harvard University",
+                [
+                    "/wiki/Harvard_University"
+                ],
+                [
+                    {
+                        "entity id": "Q13371",
+                        "label": "Harvard University"
+                    }
+                ]
+            ],
+            [
+                "US",
+                [
+                    "/wiki/US"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "20",
+                []
+            ],
+            [
+                "Pennsylvania State University- University Park",
+                [
+                    "/wiki/The_Pennsylvania_State_University"
+                ],
+                [
+                    {
+                        "entity id": "Q7163300",
+                        "label": "Penn State University Press"
+                    }
+                ]
+            ],
+            [
+                "US",
+                [
+                    "/wiki/US"
+                ],
+                [
+                    {
+                        "entity id": "Q30",
+                        "label": "United States of America"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "HEEACT World University Rankings ( Top 20 by subject ) -- Mechanical Engineering",
+    "section_text": "",
+    "uid": "Performance_Ranking_of_Scientific_Papers_for_World_Universities_14",
+    "intro": "The Performance Ranking of Scientific Papers for World Universities or NTU Ranking is a ranking system of world universities by scientific paper volume, impact, and performance output. The ranking was originally published from 2007-2011 by the Higher Education Evaluation and Accreditation Council of Taiwan (HEEACT) and has been published since 2012 by the National Taiwan University. It uses bibliometric methods to analyze and rank the scientific paper performance. In addition to the overall ranking, it includes a list of the top universities in six fields and fourteen subjects. The rankings were introduced in 2007. The original ranking methodology favored toward universities with medical schools. In 2008, HEEACT began publishing a Field Based Ranking including six fields: agriculture and environmental sciences (AGE), clinical medicine (MED), engineering, computing, and technology (ENG), life sciences (LIFE), natural sciences (SCI), and social sciences (SOC). In 2010, HEEACT began publishing subject rankings in fields of various field of science and technology. Science fields are divided into physics, chemistry, mathematics, and geosciences. Technology fields are split up into electrical engineering, computer science, mechanical engineering, chemical engineering (including energy and fuels), materials science, and civil engineering (including environmental engineering). HEEACT ended the Performance Ranking of Scientific Papers for World Universities Project in 2012. Due to disagreement about ranking results, the Taiwanese education authorities announced that the government would no longer support the Higher Education Evaluation and Accreditation Council of Taiwan to do this ranking."
+}

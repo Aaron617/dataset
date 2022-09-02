@@ -1,0 +1,766 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Ford_of_Europe",
+    "title": "Ford of Europe",
+    "header": [
+        [
+            "Plant",
+            []
+        ],
+        [
+            "City",
+            []
+        ],
+        [
+            "Country",
+            []
+        ],
+        [
+            "Employees",
+            []
+        ],
+        [
+            "Current/Last Products",
+            []
+        ],
+        [
+            "Opened",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Aachen Research Center",
+                []
+            ],
+            [
+                "Aachen",
+                [
+                    "/wiki/Aachen"
+                ],
+                [
+                    {
+                        "entity id": "Q1017",
+                        "label": "Aachen"
+                    }
+                ]
+            ],
+            [
+                "Germany",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Bordeaux Transmission Plant",
+                [
+                    "/wiki/Bordeaux"
+                ],
+                [
+                    {
+                        "entity id": "Q1479",
+                        "label": "Bordeaux"
+                    }
+                ]
+            ],
+            [
+                "Blanquefort",
+                [
+                    "/wiki/Blanquefort,_Gironde"
+                ],
+                [
+                    {
+                        "entity id": "Q220592",
+                        "label": "Blanquefort"
+                    }
+                ]
+            ],
+            [
+                "France",
+                [
+                    "/wiki/France"
+                ],
+                [
+                    {
+                        "entity id": "Q142",
+                        "label": "France"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "IB5 Transmissions : Fiesta , Fusion , B-MAX , Focus , C-MAX , Mondeo",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Bridgend Engine",
+                [
+                    "/wiki/Ford_Bridgend_Engine_Plant"
+                ],
+                [
+                    {
+                        "entity id": "Q5467662",
+                        "label": "Ford Bridgend Engine Plant"
+                    }
+                ]
+            ],
+            [
+                "Bridgend",
+                [
+                    "/wiki/Bridgend"
+                ],
+                [
+                    {
+                        "entity id": "Q6497774",
+                        "label": "Bridgend"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom",
+                []
+            ],
+            [
+                "2,137",
+                []
+            ],
+            [
+                "The 1,6 I4 EcoBoost and the SI6 ( for Volvo , Land Rover ) petrol engine",
+                [
+                    "/wiki/Ford_EcoBoost_engine",
+                    "/wiki/Volvo",
+                    "/wiki/Land_Rover"
+                ],
+                [
+                    {
+                        "entity id": "Q1057815",
+                        "label": "Ford EcoBoost engine"
+                    },
+                    {
+                        "entity id": "Q163810",
+                        "label": "Volvo"
+                    },
+                    {
+                        "entity id": "Q35907",
+                        "label": "Land Rover"
+                    }
+                ]
+            ],
+            [
+                "1980",
+                []
+            ]
+        ],
+        [
+            [
+                "Cologne Body & Assembly",
+                [
+                    "/wiki/Cologne_Body_&_Assembly"
+                ],
+                [
+                    {
+                        "entity id": "Q5147848",
+                        "label": "Cologne Body & Assembly"
+                    }
+                ]
+            ],
+            [
+                "Cologne",
+                [
+                    "/wiki/Cologne"
+                ],
+                [
+                    {
+                        "entity id": "Q365",
+                        "label": "Cologne"
+                    }
+                ]
+            ],
+            [
+                "Germany",
+                []
+            ],
+            [
+                "4,375",
+                []
+            ],
+            [
+                "Fiesta , the 1.0 L I3 EcoBoost",
+                [
+                    "/wiki/Ford_Fiesta",
+                    "/wiki/Ford_EcoBoost_engine"
+                ],
+                [
+                    {
+                        "entity id": "Q3077171",
+                        "label": "Ford Fiesta"
+                    },
+                    {
+                        "entity id": "Q1057815",
+                        "label": "Ford EcoBoost engine"
+                    }
+                ]
+            ],
+            [
+                "1931",
+                []
+            ]
+        ],
+        [
+            [
+                "Merkenich Technical/Design Centre",
+                []
+            ],
+            [
+                "Merkenich , Cologne",
+                [
+                    "/wiki/Cologne"
+                ],
+                [
+                    {
+                        "entity id": "Q365",
+                        "label": "Cologne"
+                    }
+                ]
+            ],
+            [
+                "Germany",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "1968",
+                []
+            ]
+        ],
+        [
+            [
+                "Craiova Assembly",
+                [
+                    "/wiki/Ford_Romania"
+                ],
+                [
+                    {
+                        "entity id": "Q13479631",
+                        "label": "Ford Romania"
+                    }
+                ]
+            ],
+            [
+                "Craiova",
+                [
+                    "/wiki/Craiova"
+                ],
+                [
+                    {
+                        "entity id": "Q168057",
+                        "label": "Craiova"
+                    }
+                ]
+            ],
+            [
+                "Romania",
+                [
+                    "/wiki/Romania"
+                ],
+                [
+                    {
+                        "entity id": "Q218",
+                        "label": "Romania"
+                    }
+                ]
+            ],
+            [
+                "3,600",
+                []
+            ],
+            [
+                "B-Max , the 1.0 L I3 EcoBoost",
+                [
+                    "/wiki/Ford_B-Max",
+                    "/wiki/Ford_EcoBoost_engine"
+                ],
+                [
+                    {
+                        "entity id": "Q1436751",
+                        "label": "Ford B-Max"
+                    },
+                    {
+                        "entity id": "Q1057815",
+                        "label": "Ford EcoBoost engine"
+                    }
+                ]
+            ],
+            [
+                "2008",
+                []
+            ]
+        ],
+        [
+            [
+                "Dagenham Engine",
+                [
+                    "/wiki/Ford_Dagenham"
+                ],
+                [
+                    {
+                        "entity id": "Q861504",
+                        "label": "Ford Dagenham"
+                    }
+                ]
+            ],
+            [
+                "Dagenham",
+                [
+                    "/wiki/Dagenham"
+                ],
+                [
+                    {
+                        "entity id": "Q48938",
+                        "label": "Dagenham & Redbridge F.C."
+                    }
+                ]
+            ],
+            [
+                "United Kingdom",
+                []
+            ],
+            [
+                "1,835",
+                []
+            ],
+            [
+                "All Ford Europe diesel engines",
+                []
+            ],
+            [
+                "1931",
+                []
+            ]
+        ],
+        [
+            [
+                "Dunton Technical Centre",
+                [
+                    "/wiki/Dunton_Technical_Centre"
+                ],
+                [
+                    {
+                        "entity id": "Q5315765",
+                        "label": "Dunton Technical Centre"
+                    }
+                ]
+            ],
+            [
+                "Dunton Wayletts",
+                [
+                    "/wiki/Dunton_Wayletts"
+                ],
+                [
+                    {
+                        "entity id": "Q5315766",
+                        "label": "Dunton Wayletts"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom",
+                []
+            ],
+            [
+                "3,000",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "1967",
+                []
+            ]
+        ],
+        [
+            [
+                "Halewood Transmission",
+                [
+                    "/wiki/Halewood_Body_&_Assembly"
+                ],
+                [
+                    {
+                        "entity id": "Q5641530",
+                        "label": "Halewood Body & Assembly"
+                    }
+                ]
+            ],
+            [
+                "Halewood , Merseyside",
+                [
+                    "/wiki/Halewood"
+                ],
+                [
+                    {
+                        "entity id": "Q2198178",
+                        "label": "Halewood"
+                    }
+                ]
+            ],
+            [
+                "United Kingdom",
+                []
+            ],
+            [
+                "715",
+                []
+            ],
+            [
+                "Transmissions",
+                []
+            ],
+            [
+                "1963",
+                []
+            ]
+        ],
+        [
+            [
+                "Otosan Assembly",
+                [
+                    "/wiki/Otosan"
+                ],
+                [
+                    {
+                        "entity id": "Q1790346",
+                        "label": "Otosan"
+                    }
+                ]
+            ],
+            [
+                "Kocaeli",
+                [
+                    "/wiki/Kocaeli_Province"
+                ],
+                [
+                    {
+                        "entity id": "Q83965",
+                        "label": "Kocaeli Province"
+                    }
+                ]
+            ],
+            [
+                "Turkey",
+                [
+                    "/wiki/Turkey"
+                ],
+                [
+                    {
+                        "entity id": "Q43",
+                        "label": "Turkey"
+                    }
+                ]
+            ],
+            [
+                "7,534",
+                []
+            ],
+            [
+                "Transit , Transit Custom , Transit Connect",
+                [
+                    "/wiki/Ford_Transit",
+                    "/wiki/Ford_Transit_Custom",
+                    "/wiki/Ford_Transit_Connect"
+                ],
+                [
+                    {
+                        "entity id": "Q859639",
+                        "label": "Ford Transit"
+                    },
+                    {
+                        "entity id": "Q1230848",
+                        "label": "Ford Transit Custom"
+                    },
+                    {
+                        "entity id": "Q567341",
+                        "label": "Ford Transit Connect"
+                    }
+                ]
+            ],
+            [
+                "2001",
+                []
+            ]
+        ],
+        [
+            [
+                "Lommel Proving Grounds",
+                [
+                    "/wiki/Lommel_Proving_Grounds"
+                ],
+                [
+                    {
+                        "entity id": "Q2537885",
+                        "label": "Lommel Proving Grounds"
+                    }
+                ]
+            ],
+            [
+                "Lommel",
+                [
+                    "/wiki/Lommel"
+                ],
+                [
+                    {
+                        "entity id": "Q194366",
+                        "label": "Lommel"
+                    }
+                ]
+            ],
+            [
+                "Belgium",
+                [
+                    "/wiki/Belgium"
+                ],
+                [
+                    {
+                        "entity id": "Q31",
+                        "label": "Belgium"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Proving grounds",
+                [
+                    "/wiki/Proving_grounds"
+                ],
+                [
+                    {
+                        "entity id": "Q108536335",
+                        "label": "Proving Grounds of Urbicide: Civil and Urban Perspectives on the Bombing of Capital Cities"
+                    }
+                ]
+            ],
+            [
+                "1964",
+                []
+            ]
+        ],
+        [
+            [
+                "Saarlouis Body & Assembly",
+                [
+                    "/wiki/Saarlouis_Body_&_Assembly"
+                ],
+                [
+                    {
+                        "entity id": "Q3552590",
+                        "label": "Saarlouis Body & Assembly"
+                    }
+                ]
+            ],
+            [
+                "Saarlouis",
+                [
+                    "/wiki/Saarlouis"
+                ],
+                [
+                    {
+                        "entity id": "Q14912",
+                        "label": "Saarlouis"
+                    }
+                ]
+            ],
+            [
+                "Germany",
+                []
+            ],
+            [
+                "6,199",
+                []
+            ],
+            [
+                "Focus , C-Max",
+                [
+                    "/wiki/Ford_Focus_(international)",
+                    "/wiki/Ford_C-Max"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q914079",
+                        "label": "Ford C-Max"
+                    }
+                ]
+            ],
+            [
+                "1970",
+                []
+            ]
+        ],
+        [
+            [
+                "Valencia Body & Assembly",
+                [
+                    "/wiki/Ford_Valencia_Plant"
+                ],
+                [
+                    {
+                        "entity id": "Q5467990",
+                        "label": "Ford Valencia Body & Assembly"
+                    }
+                ]
+            ],
+            [
+                "Almussafes",
+                [
+                    "/wiki/Almusafes"
+                ],
+                [
+                    {
+                        "entity id": "Q1770040",
+                        "label": "Almussafes"
+                    }
+                ]
+            ],
+            [
+                "Spain",
+                [
+                    "/wiki/Spain"
+                ],
+                [
+                    {
+                        "entity id": "Q29",
+                        "label": "Spain"
+                    }
+                ]
+            ],
+            [
+                "3,485",
+                []
+            ],
+            [
+                "Kuga , Galaxy , Mondeo , S-Max , Transit",
+                [
+                    "/wiki/Ford_Kuga",
+                    "/wiki/Ford_Galaxy",
+                    "/wiki/Ford_Mondeo",
+                    "/wiki/Ford_S-Max",
+                    "/wiki/Ford_Transit"
+                ],
+                [
+                    {
+                        "entity id": "Q668293",
+                        "label": "Ford Kuga"
+                    },
+                    {
+                        "entity id": "Q846346",
+                        "label": "Ford Galaxy"
+                    },
+                    {
+                        "entity id": "Q275747",
+                        "label": "Ford Mondeo"
+                    },
+                    {
+                        "entity id": "Q737526",
+                        "label": "Ford S-Max"
+                    },
+                    {
+                        "entity id": "Q859639",
+                        "label": "Ford Transit"
+                    }
+                ]
+            ],
+            [
+                "1976",
+                []
+            ]
+        ],
+        [
+            [
+                "Vsevolozhsk Assembly",
+                []
+            ],
+            [
+                "Vsevolozhsk",
+                [
+                    "/wiki/Vsevolozhsk"
+                ],
+                [
+                    {
+                        "entity id": "Q15248",
+                        "label": "Vsevolozhsk"
+                    }
+                ]
+            ],
+            [
+                "Russia",
+                [
+                    "/wiki/Russia"
+                ],
+                [
+                    {
+                        "entity id": "Q159",
+                        "label": "Russia"
+                    }
+                ]
+            ],
+            [
+                "2,961",
+                []
+            ],
+            [
+                "Focus , Mondeo",
+                [
+                    "/wiki/Ford_Focus_(international)",
+                    "/wiki/Ford_Mondeo"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q275747",
+                        "label": "Ford Mondeo"
+                    }
+                ]
+            ],
+            [
+                "2002",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Facilities -- Current",
+    "section_text": "",
+    "uid": "Ford_of_Europe_0",
+    "intro": "Ford of Europe AG is a subsidiary company of Ford Motor Company founded in 1967 in Cork, Ireland, with headquarters in Cologne, Germany."
+}

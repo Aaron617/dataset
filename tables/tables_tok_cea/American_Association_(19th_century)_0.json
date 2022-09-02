@@ -1,0 +1,703 @@
+{
+    "url": "https://en.wikipedia.org/wiki/American_Association_(19th_century)",
+    "title": "American Association (19th century)",
+    "header": [
+        [
+            "Franchise",
+            []
+        ],
+        [
+            "Years",
+            []
+        ],
+        [
+            "Home-field",
+            []
+        ],
+        [
+            "Titles",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Baltimore Orioles",
+                [
+                    "/wiki/Baltimore_Orioles_(19th_century)"
+                ],
+                [
+                    {
+                        "entity id": "Q4852902",
+                        "label": "Baltimore Orioles (19th century) all-time roster"
+                    }
+                ]
+            ],
+            [
+                "1882-1891",
+                []
+            ],
+            [
+                "Newington Park / Oriole Park I , II , III",
+                [
+                    "/wiki/Newington_Park",
+                    "/wiki/Oriole_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q16957123",
+                        "label": "Newington Park"
+                    },
+                    {
+                        "entity id": "Q7102741",
+                        "label": "Oriole Park"
+                    }
+                ]
+            ],
+            [
+                "0",
+                []
+            ]
+        ],
+        [
+            [
+                "Cincinnati Red Stockings",
+                [
+                    "/wiki/Cincinnati_Red_Stockings_(AA)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1882-1889",
+                []
+            ],
+            [
+                "Bank Street Grounds / League Park I",
+                [
+                    "/wiki/Bank_Street_Grounds",
+                    "/wiki/League_Park_(Cincinnati)"
+                ],
+                [
+                    {
+                        "entity id": "Q4855985",
+                        "label": "Bank Street Grounds"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "1",
+                []
+            ]
+        ],
+        [
+            [
+                "Louisville Colonels",
+                [
+                    "/wiki/Louisville_Colonels"
+                ],
+                [
+                    {
+                        "entity id": "Q863881",
+                        "label": "Louisville Colonels"
+                    }
+                ]
+            ],
+            [
+                "1882-1891",
+                []
+            ],
+            [
+                "Eclipse Park I",
+                [
+                    "/wiki/Eclipse_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q5333022",
+                        "label": "Eclipse Park"
+                    }
+                ]
+            ],
+            [
+                "1",
+                []
+            ]
+        ],
+        [
+            [
+                "Philadelphia Athletics",
+                [
+                    "/wiki/Philadelphia_Athletics_(American_Association)"
+                ],
+                [
+                    {
+                        "entity id": "Q7182623",
+                        "label": "Philadelphia Athletics (American Association) all-time roster"
+                    }
+                ]
+            ],
+            [
+                "1882-1890",
+                []
+            ],
+            [
+                "Oakdale Park / Jefferson Street Grounds",
+                [
+                    "/wiki/Oakdale_Park",
+                    "/wiki/Jefferson_Street_Grounds"
+                ],
+                [
+                    {
+                        "entity id": "Q7073809",
+                        "label": "Oakdale Park"
+                    },
+                    {
+                        "entity id": "Q6175596",
+                        "label": "Jefferson Street Grounds"
+                    }
+                ]
+            ],
+            [
+                "1",
+                []
+            ]
+        ],
+        [
+            [
+                "Pittsburgh Alleghenys/Pirates",
+                [
+                    "/wiki/Pittsburgh_Pirates"
+                ],
+                [
+                    {
+                        "entity id": "Q191477",
+                        "label": "Pittsburgh Steelers"
+                    }
+                ]
+            ],
+            [
+                "1882-1886",
+                []
+            ],
+            [
+                "Exposition Park I , II / Recreation Park",
+                [
+                    "/wiki/Exposition_Park_(Pittsburgh)",
+                    "/wiki/Recreation_Park_(Pittsburgh)"
+                ],
+                [
+                    {},
+                    {}
+                ]
+            ],
+            [
+                "0",
+                []
+            ]
+        ],
+        [
+            [
+                "St. Louis Brown Stockings/Browns",
+                [
+                    "/wiki/St._Louis_Cardinals"
+                ],
+                [
+                    {
+                        "entity id": "Q224164",
+                        "label": "Arizona Cardinals"
+                    }
+                ]
+            ],
+            [
+                "1882-1891",
+                []
+            ],
+            [
+                "Sportsman 's Park I",
+                [
+                    "/wiki/Sportsman's_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q7579980",
+                        "label": "Sportsman's Park"
+                    }
+                ]
+            ],
+            [
+                "4",
+                []
+            ]
+        ],
+        [
+            [
+                "Columbus Buckeyes",
+                [
+                    "/wiki/Columbus_Buckeyes_(AA)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1883-1884",
+                []
+            ],
+            [
+                "Recreation Park I",
+                [
+                    "/wiki/Recreation_Park_(Columbus)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "0",
+                []
+            ]
+        ],
+        [
+            [
+                "New York Metropolitans",
+                [
+                    "/wiki/New_York_Metropolitans"
+                ],
+                [
+                    {
+                        "entity id": "Q1252365",
+                        "label": "New York Metropolitans"
+                    }
+                ]
+            ],
+            [
+                "1883-1887",
+                []
+            ],
+            [
+                "Polo Grounds I / Metropolitan Park / St. George Cricket Grounds",
+                [
+                    "/wiki/Polo_Grounds",
+                    "/wiki/Metropolitan_Park_(New_York_City)",
+                    "/wiki/St._George_Cricket_Grounds"
+                ],
+                [
+                    {
+                        "entity id": "Q1276360",
+                        "label": "Polo Grounds"
+                    },
+                    {},
+                    {
+                        "entity id": "Q7588206",
+                        "label": "St. George Cricket Grounds"
+                    }
+                ]
+            ],
+            [
+                "1",
+                []
+            ]
+        ],
+        [
+            [
+                "Brooklyn Atlantics/Grays/Bridegrooms",
+                [
+                    "/wiki/Brooklyn_Bridegrooms"
+                ],
+                [
+                    {
+                        "entity id": "Q334634",
+                        "label": "Los Angeles Dodgers"
+                    }
+                ]
+            ],
+            [
+                "1884-1889",
+                []
+            ],
+            [
+                "Washington Park / Ridgewood Park II",
+                [
+                    "/wiki/Washington_Park_(baseball)",
+                    "/wiki/Ridgewood_Park_(baseball_ground)"
+                ],
+                [
+                    {},
+                    {}
+                ]
+            ],
+            [
+                "1",
+                []
+            ]
+        ],
+        [
+            [
+                "Indianapolis Hoosiers",
+                [
+                    "/wiki/Indianapolis_Hoosiers_(1884)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1884",
+                []
+            ],
+            [
+                "Seventh Street Park I / Bruce Grounds",
+                [
+                    "/wiki/Seventh_Street_Park",
+                    "/wiki/Bruce_Grounds"
+                ],
+                [
+                    {
+                        "entity id": "Q49559935",
+                        "label": "Seventh Street Park"
+                    },
+                    {
+                        "entity id": "Q4977585",
+                        "label": "Bruce Grounds"
+                    }
+                ]
+            ],
+            [
+                "0",
+                []
+            ]
+        ],
+        [
+            [
+                "Richmond Virginia ( n ) s",
+                [
+                    "/wiki/Richmond_Virginians_(1884)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1884",
+                []
+            ],
+            [
+                "Allen Pasture",
+                [
+                    "/wiki/Allen_Pasture"
+                ],
+                [
+                    {
+                        "entity id": "Q4731813",
+                        "label": "Allen Pasture"
+                    }
+                ]
+            ],
+            [
+                "0",
+                []
+            ]
+        ],
+        [
+            [
+                "Toledo Blue Stockings",
+                [
+                    "/wiki/Toledo_Blue_Stockings"
+                ],
+                [
+                    {
+                        "entity id": "Q1564564",
+                        "label": "Toledo Blue Stockings"
+                    }
+                ]
+            ],
+            [
+                "1884",
+                []
+            ],
+            [
+                "League Park",
+                [
+                    "/wiki/League_Park_(Toledo)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "0",
+                []
+            ]
+        ],
+        [
+            [
+                "Washington Nationals",
+                [
+                    "/wiki/Washington_Nationals_(AA)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1884",
+                []
+            ],
+            [
+                "Athletic Park",
+                [
+                    "/wiki/Athletic_Park_(Washington)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "0",
+                []
+            ]
+        ],
+        [
+            [
+                "Cleveland Spiders",
+                [
+                    "/wiki/Cleveland_Spiders"
+                ],
+                [
+                    {
+                        "entity id": "Q1265274",
+                        "label": "Cleveland Spiders"
+                    }
+                ]
+            ],
+            [
+                "1887-1889",
+                []
+            ],
+            [
+                "Kennard Street Park",
+                [
+                    "/wiki/Kennard_Street_Park"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "0",
+                []
+            ]
+        ],
+        [
+            [
+                "Kansas City Cowboys",
+                [
+                    "/wiki/Kansas_City_Cowboys_(American_Association)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1888-1889",
+                []
+            ],
+            [
+                "Association Park / Exposition Park",
+                [
+                    "/wiki/Association_Park",
+                    "/wiki/Exposition_Park_(Kansas_City)"
+                ],
+                [
+                    {
+                        "entity id": "Q4809301",
+                        "label": "Association Park"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "0",
+                []
+            ]
+        ],
+        [
+            [
+                "Columbus Solons",
+                [
+                    "/wiki/Columbus_Solons"
+                ],
+                [
+                    {
+                        "entity id": "Q5150116",
+                        "label": "Columbus Solons"
+                    }
+                ]
+            ],
+            [
+                "1889-1891",
+                []
+            ],
+            [
+                "Recreation Park II",
+                [
+                    "/wiki/Recreation_Park_(Columbus)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "0",
+                []
+            ]
+        ],
+        [
+            [
+                "Brooklyn Gladiators",
+                [
+                    "/wiki/Brooklyn_Gladiators"
+                ],
+                [
+                    {
+                        "entity id": "Q4974837",
+                        "label": "Brooklyn Gladiators"
+                    }
+                ]
+            ],
+            [
+                "1890",
+                []
+            ],
+            [
+                "Ridgewood Park II / Polo Grounds III",
+                [
+                    "/wiki/Ridgewood_Park_(baseball_ground)",
+                    "/wiki/Polo_Grounds"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q1276360",
+                        "label": "Polo Grounds"
+                    }
+                ]
+            ],
+            [
+                "0",
+                []
+            ]
+        ],
+        [
+            [
+                "Rochester Broncos/Hop Bitters",
+                [
+                    "/wiki/Rochester_Broncos"
+                ],
+                [
+                    {
+                        "entity id": "Q3481135",
+                        "label": "Rochester Broncos"
+                    }
+                ]
+            ],
+            [
+                "1890",
+                []
+            ],
+            [
+                "Culver Field I / Polo Grounds III",
+                [
+                    "/wiki/Culver_Field",
+                    "/wiki/Polo_Grounds"
+                ],
+                [
+                    {
+                        "entity id": "Q5193731",
+                        "label": "Culver Field"
+                    },
+                    {
+                        "entity id": "Q1276360",
+                        "label": "Polo Grounds"
+                    }
+                ]
+            ],
+            [
+                "0",
+                []
+            ]
+        ],
+        [
+            [
+                "Syracuse Stars",
+                [
+                    "/wiki/Syracuse_Stars_(AA)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1890",
+                []
+            ],
+            [
+                "Star Park II",
+                [
+                    "/wiki/Star_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q25089150",
+                        "label": "Star Park"
+                    }
+                ]
+            ],
+            [
+                "0",
+                []
+            ]
+        ],
+        [
+            [
+                "Toledo Maumees",
+                [
+                    "/wiki/Toledo_Maumees"
+                ],
+                [
+                    {
+                        "entity id": "Q7814168",
+                        "label": "Toledo Maumees"
+                    }
+                ]
+            ],
+            [
+                "1890",
+                []
+            ],
+            [
+                "Speranza Park",
+                [
+                    "/wiki/Speranza_Park"
+                ],
+                [
+                    {
+                        "entity id": "Q7576348",
+                        "label": "Speranza Park"
+                    }
+                ]
+            ],
+            [
+                "0",
+                []
+            ]
+        ]
+    ],
+    "section_title": "American Association franchises",
+    "section_text": "Franchise Franchise name with all recorded nicknames Years Years that the franchise were active in the AA Home-field The home-field ballpark ( s ) in which the franchise played Titles How many league titles the franchise won in the AA \u2020 Franchise later joined the National League \u00a7 Franchise transferred in from the Players ' League",
+    "uid": "American_Association_(19th_century)_0",
+    "intro": "The American Association (AA) was a professional baseball league that existed for 10 seasons from 1882 to 1891. Together with the National League (NL), founded in 1876, the AA participated in an early version of the World Series[a] seven times versus the champion of the NL in an interleague championship playoff tournament. At the end of its run, several AA franchises joined the NL. After 1891, the NL existed alone, with each season's champions being awarded the prized Temple Cup (1894-1897). During its existence, the AA was often simply referred to as the Association in the media, in contrast to the NL, which was sometimes called the League."
+}

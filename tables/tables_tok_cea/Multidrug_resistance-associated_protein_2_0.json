@@ -1,0 +1,498 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Multidrug_resistance-associated_protein_2",
+    "title": "Multidrug resistance-associated protein 2",
+    "header": [
+        [
+            "Drug",
+            []
+        ],
+        [
+            "Class",
+            []
+        ],
+        [
+            "Indications",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "probenecid",
+                [
+                    "/wiki/Probenecid"
+                ],
+                [
+                    {
+                        "entity id": "Q900898",
+                        "label": "probenecid"
+                    }
+                ]
+            ],
+            [
+                "uricosuric",
+                [
+                    "/wiki/Uricosuric"
+                ],
+                [
+                    {
+                        "entity id": "Q669295",
+                        "label": "uricosuric"
+                    }
+                ]
+            ],
+            [
+                "gout hyperuricemia",
+                [
+                    "/wiki/Gout",
+                    "/wiki/Hyperuricemia"
+                ],
+                [
+                    {
+                        "entity id": "Q133087",
+                        "label": "gout"
+                    },
+                    {
+                        "entity id": "Q49970",
+                        "label": "hyperuricemia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "furosemide",
+                [
+                    "/wiki/Furosemide"
+                ],
+                [
+                    {
+                        "entity id": "Q388801",
+                        "label": "furosemide"
+                    }
+                ]
+            ],
+            [
+                "loop diuretic",
+                [
+                    "/wiki/Loop_diuretic"
+                ],
+                [
+                    {
+                        "entity id": "Q424280",
+                        "label": "Loop diuretic"
+                    }
+                ]
+            ],
+            [
+                "heart failure edema",
+                [
+                    "/wiki/Heart_failure",
+                    "/wiki/Edema"
+                ],
+                [
+                    {
+                        "entity id": "Q181754",
+                        "label": "heart failure"
+                    },
+                    {
+                        "entity id": "Q152234",
+                        "label": "edema"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ritonavir",
+                [
+                    "/wiki/Ritonavir"
+                ],
+                [
+                    {
+                        "entity id": "Q422618",
+                        "label": "ritonavir"
+                    }
+                ]
+            ],
+            [
+                "protease inhibitor",
+                [
+                    "/wiki/Protease_inhibitor_(pharmacology)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "antiretroviral",
+                [
+                    "/wiki/Antiretroviral"
+                ],
+                [
+                    {
+                        "entity id": "Q50430310",
+                        "label": "anti-retroviral agent"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "saquinavir",
+                [
+                    "/wiki/Saquinavir"
+                ],
+                [
+                    {
+                        "entity id": "Q422654",
+                        "label": "saquinavir"
+                    }
+                ]
+            ],
+            [
+                "protease inhibitor",
+                [
+                    "/wiki/Protease_inhibitor_(pharmacology)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "antiretroviral",
+                [
+                    "/wiki/Antiretroviral"
+                ],
+                [
+                    {
+                        "entity id": "Q50430310",
+                        "label": "anti-retroviral agent"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "lamivudine",
+                [
+                    "/wiki/Lamivudine"
+                ],
+                [
+                    {
+                        "entity id": "Q422631",
+                        "label": "lamivudine"
+                    }
+                ]
+            ],
+            [
+                "Nucleoside analog",
+                [
+                    "/wiki/Reverse_transcriptase_inhibitor"
+                ],
+                [
+                    {
+                        "entity id": "Q421559",
+                        "label": "reverse-transcriptase inhibitor"
+                    }
+                ]
+            ],
+            [
+                "antiviral",
+                [
+                    "/wiki/Antiviral_drug"
+                ],
+                [
+                    {
+                        "entity id": "Q846227",
+                        "label": "antiviral drug"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "abacavir",
+                [
+                    "/wiki/Abacavir"
+                ],
+                [
+                    {
+                        "entity id": "Q304330",
+                        "label": "abacavir"
+                    }
+                ]
+            ],
+            [
+                "Nucleoside analog",
+                [
+                    "/wiki/Reverse_transcriptase_inhibitor"
+                ],
+                [
+                    {
+                        "entity id": "Q421559",
+                        "label": "reverse-transcriptase inhibitor"
+                    }
+                ]
+            ],
+            [
+                "antiretroviral",
+                [
+                    "/wiki/Antiretroviral"
+                ],
+                [
+                    {
+                        "entity id": "Q50430310",
+                        "label": "anti-retroviral agent"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "emtricitabine",
+                [
+                    "/wiki/Emtricitabine"
+                ],
+                [
+                    {
+                        "entity id": "Q422604",
+                        "label": "emtricitabine"
+                    }
+                ]
+            ],
+            [
+                "Nucleoside analog",
+                [
+                    "/wiki/Reverse_transcriptase_inhibitor"
+                ],
+                [
+                    {
+                        "entity id": "Q421559",
+                        "label": "reverse-transcriptase inhibitor"
+                    }
+                ]
+            ],
+            [
+                "antiviral",
+                [
+                    "/wiki/Antiviral_drug"
+                ],
+                [
+                    {
+                        "entity id": "Q846227",
+                        "label": "antiviral drug"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "efavirenz",
+                [
+                    "/wiki/Efavirenz"
+                ],
+                [
+                    {
+                        "entity id": "Q422645",
+                        "label": "efavirenz"
+                    }
+                ]
+            ],
+            [
+                "NNRTI",
+                [
+                    "/wiki/Reverse_transcriptase_inhibitor"
+                ],
+                [
+                    {
+                        "entity id": "Q421559",
+                        "label": "reverse-transcriptase inhibitor"
+                    }
+                ]
+            ],
+            [
+                "antiretroviral",
+                [
+                    "/wiki/Antiretroviral"
+                ],
+                [
+                    {
+                        "entity id": "Q50430310",
+                        "label": "anti-retroviral agent"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "delavirdine",
+                [
+                    "/wiki/Delavirdine"
+                ],
+                [
+                    {
+                        "entity id": "Q370244",
+                        "label": "delavirdine"
+                    }
+                ]
+            ],
+            [
+                "NNRTI",
+                [
+                    "/wiki/Reverse_transcriptase_inhibitor"
+                ],
+                [
+                    {
+                        "entity id": "Q421559",
+                        "label": "reverse-transcriptase inhibitor"
+                    }
+                ]
+            ],
+            [
+                "antiretroviral",
+                [
+                    "/wiki/Antiretroviral"
+                ],
+                [
+                    {
+                        "entity id": "Q50430310",
+                        "label": "anti-retroviral agent"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "nevirapine",
+                [
+                    "/wiki/Nevirapine"
+                ],
+                [
+                    {
+                        "entity id": "Q263713",
+                        "label": "nevirapine"
+                    }
+                ]
+            ],
+            [
+                "NNRTI",
+                [
+                    "/wiki/Reverse_transcriptase_inhibitor"
+                ],
+                [
+                    {
+                        "entity id": "Q421559",
+                        "label": "reverse-transcriptase inhibitor"
+                    }
+                ]
+            ],
+            [
+                "antiretroviral",
+                [
+                    "/wiki/Antiretroviral"
+                ],
+                [
+                    {
+                        "entity id": "Q50430310",
+                        "label": "anti-retroviral agent"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "cidofovir",
+                [
+                    "/wiki/Cidofovir"
+                ],
+                [
+                    {
+                        "entity id": "Q423445",
+                        "label": "cidofovir"
+                    }
+                ]
+            ],
+            [
+                "nucleoside phosphonate",
+                []
+            ],
+            [
+                "antiviral",
+                [
+                    "/wiki/Antiviral_drug"
+                ],
+                [
+                    {
+                        "entity id": "Q846227",
+                        "label": "antiviral drug"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "adefovir",
+                [
+                    "/wiki/Adefovir"
+                ],
+                [
+                    {
+                        "entity id": "Q353551",
+                        "label": "adefovir"
+                    }
+                ]
+            ],
+            [
+                "nucleoside phosphonate",
+                []
+            ],
+            [
+                "antiviral",
+                [
+                    "/wiki/Antiviral_drug"
+                ],
+                [
+                    {
+                        "entity id": "Q846227",
+                        "label": "antiviral drug"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "tenofovir",
+                [
+                    "/wiki/Tenofovir"
+                ],
+                [
+                    {
+                        "entity id": "Q155954",
+                        "label": "tenofovir"
+                    }
+                ]
+            ],
+            [
+                "nucleoside phosphonate",
+                []
+            ],
+            [
+                "antiviral",
+                [
+                    "/wiki/Antiviral_drug"
+                ],
+                [
+                    {
+                        "entity id": "Q846227",
+                        "label": "antiviral drug"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "MRP2 inhibitors",
+    "section_text": "",
+    "uid": "Multidrug_resistance-associated_protein_2_0",
+    "intro": "Multidrug resistance-associated protein 2 (MRP2) also called canalicular multispecific organic anion transporter 1 (cMOAT) or ATP-binding cassette sub-family C member 2 (ABCC2) is a protein that in humans is encoded by the ABCC2 gene."
+}

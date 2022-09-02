@@ -1,0 +1,741 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_web_server_software",
+    "title": "Comparison of web server software",
+    "header": [
+        [
+            "Server",
+            []
+        ],
+        [
+            "Developed by",
+            []
+        ],
+        [
+            "Software license",
+            [
+                "/wiki/Software_license"
+            ],
+            [
+                {
+                    "entity id": "Q207621",
+                    "label": "software license"
+                }
+            ]
+        ],
+        [
+            "Last stable version",
+            []
+        ],
+        [
+            "Latest release date",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "AOLserver",
+                [
+                    "/wiki/AOLserver"
+                ],
+                [
+                    {
+                        "entity id": "Q295998",
+                        "label": "AOLserver"
+                    }
+                ]
+            ],
+            [
+                "NaviSoft",
+                [
+                    "/wiki/NaviSoft"
+                ],
+                [
+                    {
+                        "entity id": "Q6982292",
+                        "label": "NaviSoft"
+                    }
+                ]
+            ],
+            [
+                "Mozilla",
+                [
+                    "/wiki/Mozilla_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q308915",
+                        "label": "Mozilla Public License"
+                    }
+                ]
+            ],
+            [
+                "4.5.2",
+                []
+            ],
+            [
+                "2012-09-19",
+                []
+            ]
+        ],
+        [
+            [
+                "Apache HTTP Server",
+                [
+                    "/wiki/Apache_HTTP_Server"
+                ],
+                [
+                    {
+                        "entity id": "Q11354",
+                        "label": "Apache HTTP Server"
+                    }
+                ]
+            ],
+            [
+                "Apache Software Foundation",
+                [
+                    "/wiki/Apache_Software_Foundation"
+                ],
+                [
+                    {
+                        "entity id": "Q489709",
+                        "label": "Apache Software Foundation"
+                    }
+                ]
+            ],
+            [
+                "Apache",
+                [
+                    "/wiki/Apache_License"
+                ],
+                [
+                    {
+                        "entity id": "Q616526",
+                        "label": "Apache License"
+                    }
+                ]
+            ],
+            [
+                "2.4.41",
+                []
+            ],
+            [
+                "2019-08-14",
+                []
+            ]
+        ],
+        [
+            [
+                "Apache Tomcat",
+                [
+                    "/wiki/Apache_Tomcat"
+                ],
+                [
+                    {
+                        "entity id": "Q507430",
+                        "label": "Apache Tomcat"
+                    }
+                ]
+            ],
+            [
+                "Apache Software Foundation",
+                []
+            ],
+            [
+                "Apache",
+                []
+            ],
+            [
+                "9.0.21",
+                []
+            ],
+            [
+                "2019-06-07",
+                []
+            ]
+        ],
+        [
+            [
+                "Boa",
+                [
+                    "/wiki/Boa_(web_server)"
+                ],
+                [
+                    {
+                        "entity id": "Q887466",
+                        "label": "Boa"
+                    }
+                ]
+            ],
+            [
+                "Jon Nelson and Larry Doolittle",
+                []
+            ],
+            [
+                "GNU GPL",
+                []
+            ],
+            [
+                "0.94.13",
+                []
+            ],
+            [
+                "2002-07-30 ( discontinued )",
+                []
+            ]
+        ],
+        [
+            [
+                "Caddy",
+                [
+                    "/wiki/Caddy_(web_server)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Matt Holt",
+                []
+            ],
+            [
+                "Apache",
+                []
+            ],
+            [
+                "1.0.0",
+                []
+            ],
+            [
+                "2019-04-24",
+                []
+            ]
+        ],
+        [
+            [
+                "Caudium",
+                [
+                    "/wiki/Caudium_(web_server)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "The Caudium Group",
+                []
+            ],
+            [
+                "GNU GPL",
+                []
+            ],
+            [
+                "1.4.18",
+                []
+            ],
+            [
+                "2012-02-24",
+                []
+            ]
+        ],
+        [
+            [
+                "Cherokee HTTP Server",
+                [
+                    "/wiki/Cherokee_(Webserver)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "\u00c1lvaro L\u00f3pez Ortega",
+                []
+            ],
+            [
+                "GNU GPL",
+                []
+            ],
+            [
+                "1.2.103",
+                []
+            ],
+            [
+                "2013-04-21",
+                []
+            ]
+        ],
+        [
+            [
+                "GlassFish",
+                [
+                    "/wiki/GlassFish"
+                ],
+                [
+                    {
+                        "entity id": "Q68847",
+                        "label": "GlassFish"
+                    }
+                ]
+            ],
+            [
+                "Oracle Corporation ( initial code from Sun Microsystems )",
+                [
+                    "/wiki/Oracle_Corporation",
+                    "/wiki/Sun_Microsystems"
+                ],
+                [
+                    {
+                        "entity id": "Q19900",
+                        "label": "Oracle"
+                    },
+                    {
+                        "entity id": "Q14647",
+                        "label": "Sun Microsystems"
+                    }
+                ]
+            ],
+            [
+                "Common Development and Distribution License & GNU General Public License",
+                [
+                    "/wiki/Common_Development_and_Distribution_License",
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q304628",
+                        "label": "Common Development and Distribution License"
+                    },
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "5.1",
+                []
+            ],
+            [
+                "2019-01-28",
+                []
+            ]
+        ],
+        [
+            [
+                "Hiawatha",
+                [
+                    "/wiki/Hiawatha_(web_server)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Hugo Leisink",
+                []
+            ],
+            [
+                "GNU GPLv2",
+                []
+            ],
+            [
+                "10.9",
+                []
+            ],
+            [
+                "2019-02-18",
+                []
+            ]
+        ],
+        [
+            [
+                "HFS",
+                [
+                    "/wiki/HTTP_File_Server"
+                ],
+                [
+                    {
+                        "entity id": "Q1566096",
+                        "label": "HTTP File Server"
+                    }
+                ]
+            ],
+            [
+                "Rejetto",
+                []
+            ],
+            [
+                "GNU GPL",
+                []
+            ],
+            [
+                "2.3i",
+                []
+            ],
+            [
+                "2016-06-14",
+                []
+            ]
+        ],
+        [
+            [
+                "IBM HTTP Server",
+                [
+                    "/wiki/IBM_HTTP_Server"
+                ],
+                [
+                    {
+                        "entity id": "Q821668",
+                        "label": "IBM HTTP Server"
+                    }
+                ]
+            ],
+            [
+                "IBM",
+                [
+                    "/wiki/IBM"
+                ],
+                [
+                    {
+                        "entity id": "Q37156",
+                        "label": "IBM"
+                    }
+                ]
+            ],
+            [
+                "Non-free proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ],
+            [
+                "9.0.0",
+                []
+            ],
+            [
+                "2016-03-11",
+                []
+            ]
+        ],
+        [
+            [
+                "Internet Information Services",
+                [
+                    "/wiki/Internet_Information_Services"
+                ],
+                [
+                    {
+                        "entity id": "Q11341",
+                        "label": "Internet Information Services"
+                    }
+                ]
+            ],
+            [
+                "Microsoft",
+                [
+                    "/wiki/Microsoft"
+                ],
+                [
+                    {
+                        "entity id": "Q2283",
+                        "label": "Microsoft"
+                    }
+                ]
+            ],
+            [
+                "Non-free proprietary",
+                []
+            ],
+            [
+                "10.0.17763.1",
+                []
+            ],
+            [
+                "2018-10-02",
+                []
+            ]
+        ],
+        [
+            [
+                "Jetty",
+                [
+                    "/wiki/Jetty_(web_server)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Eclipse Foundation",
+                [
+                    "/wiki/Eclipse_Foundation"
+                ],
+                [
+                    {
+                        "entity id": "Q937756",
+                        "label": "Eclipse Foundation"
+                    }
+                ]
+            ],
+            [
+                "Apache",
+                []
+            ],
+            [
+                "9.4.18",
+                []
+            ],
+            [
+                "2019-04-29",
+                []
+            ]
+        ],
+        [
+            [
+                "Jexus",
+                [
+                    "/wiki/Jexus"
+                ],
+                [
+                    {
+                        "entity id": "Q16801145",
+                        "label": "Jexus"
+                    }
+                ]
+            ],
+            [
+                "Bing Liu",
+                []
+            ],
+            [
+                "Non-free proprietary",
+                []
+            ],
+            [
+                "5.5.2",
+                []
+            ],
+            [
+                "2014-04-27",
+                []
+            ]
+        ],
+        [
+            [
+                "lighttpd",
+                [
+                    "/wiki/Lighttpd"
+                ],
+                [
+                    {
+                        "entity id": "Q217765",
+                        "label": "lighttpd"
+                    }
+                ]
+            ],
+            [
+                "Jan Kneschke ( Incremental )",
+                []
+            ],
+            [
+                "BSD variant",
+                [
+                    "/wiki/BSD_licenses"
+                ],
+                [
+                    {
+                        "entity id": "Q191307",
+                        "label": "BSD licenses"
+                    }
+                ]
+            ],
+            [
+                "1.4.55",
+                []
+            ],
+            [
+                "2020-01-31",
+                []
+            ]
+        ],
+        [
+            [
+                "LiteSpeed Web Server",
+                [
+                    "/wiki/LiteSpeed_Web_Server"
+                ],
+                [
+                    {
+                        "entity id": "Q39052155",
+                        "label": "LiteSpeed Web Server"
+                    }
+                ]
+            ],
+            [
+                "LiteSpeed Technologies",
+                []
+            ],
+            [
+                "Non-free proprietary",
+                []
+            ],
+            [
+                "5.3.7",
+                []
+            ],
+            [
+                "2019-03-15",
+                []
+            ]
+        ],
+        [
+            [
+                "Mongoose",
+                [
+                    "/wiki/Mongoose_(web_server)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Cesanta Software",
+                []
+            ],
+            [
+                "GNU GPLv2 / proprietary license",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ],
+            [
+                "6.14",
+                []
+            ],
+            [
+                "2019-03-04",
+                []
+            ]
+        ],
+        [
+            [
+                "Monkey HTTP Server",
+                [
+                    "/wiki/Monkey_HTTP_Server"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Monkey Software",
+                []
+            ],
+            [
+                "Apache",
+                [
+                    "/wiki/Apache_License"
+                ],
+                [
+                    {
+                        "entity id": "Q616526",
+                        "label": "Apache License"
+                    }
+                ]
+            ],
+            [
+                "1.6.9",
+                []
+            ],
+            [
+                "2016-05-04",
+                []
+            ]
+        ],
+        [
+            [
+                "NaviServer",
+                [
+                    "/wiki/NaviServer"
+                ],
+                [
+                    {
+                        "entity id": "Q1330876",
+                        "label": "NaviServer"
+                    }
+                ]
+            ],
+            [
+                "Various",
+                []
+            ],
+            [
+                "Mozilla 1.1",
+                []
+            ],
+            [
+                "4.99.18",
+                []
+            ],
+            [
+                "2019-02-24",
+                []
+            ]
+        ],
+        [
+            [
+                "NCSA HTTPd",
+                [
+                    "/wiki/NCSA_HTTPd"
+                ],
+                [
+                    {
+                        "entity id": "Q970894",
+                        "label": "NCSA HTTPd"
+                    }
+                ]
+            ],
+            [
+                "Robert McCool",
+                [
+                    "/wiki/Robert_McCool"
+                ],
+                [
+                    {
+                        "entity id": "Q3435889",
+                        "label": "Robert McCool"
+                    }
+                ]
+            ],
+            [
+                "Non-free proprietary",
+                []
+            ],
+            [
+                "1.5.2a",
+                []
+            ],
+            [
+                "1996-10-08",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Overview",
+    "section_text": "",
+    "uid": "Comparison_of_web_server_software_0",
+    "intro": "Web server software allows computers to act as web servers. The first web servers supported only static files, such as HTML (and images), but now they commonly allow embedding of server side applications. Some web application frameworks include simple HTTP servers. For example the Django framework provides runserver, and PHP has a built-in server. These are generally intended only for use during initial development. A production server will require a more robust HTTP front-end such as one of the servers listed here."
+}

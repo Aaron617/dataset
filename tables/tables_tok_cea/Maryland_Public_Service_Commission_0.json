@@ -1,0 +1,879 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Maryland_Public_Service_Commission",
+    "title": "Maryland Public Service Commission",
+    "header": [
+        [
+            "Station",
+            []
+        ],
+        [
+            "Type",
+            []
+        ],
+        [
+            "Operator",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Capacity ( MW )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Brandon Shores",
+                [
+                    "/wiki/Brandon_Shores_Generating_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q4957061",
+                        "label": "Brandon Shores Generating Station"
+                    }
+                ]
+            ],
+            [
+                "Bituminous coal",
+                [
+                    "/wiki/Bituminous_coal"
+                ],
+                [
+                    {
+                        "entity id": "Q732607",
+                        "label": "bituminous coal"
+                    }
+                ]
+            ],
+            [
+                "Raven Power",
+                [
+                    "/wiki/Riverstone_Holdings"
+                ],
+                [
+                    {
+                        "entity id": "Q7338653",
+                        "label": "Riverstone Holdings"
+                    }
+                ]
+            ],
+            [
+                "Orchard Beach",
+                [
+                    "/wiki/Orchard_Beach,_Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q7100175",
+                        "label": "Orchard Beach"
+                    }
+                ]
+            ],
+            [
+                "1370",
+                []
+            ]
+        ],
+        [
+            [
+                "Charles P. Crane",
+                [
+                    "/wiki/Charles_P._Crane_Generating_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q5081424",
+                        "label": "Charles P. Crane Generating Station"
+                    }
+                ]
+            ],
+            [
+                "Bituminous coal",
+                [
+                    "/wiki/Bituminous_coal"
+                ],
+                [
+                    {
+                        "entity id": "Q732607",
+                        "label": "bituminous coal"
+                    }
+                ]
+            ],
+            [
+                "Raven Power",
+                [
+                    "/wiki/Riverstone_Holdings"
+                ],
+                [
+                    {
+                        "entity id": "Q7338653",
+                        "label": "Riverstone Holdings"
+                    }
+                ]
+            ],
+            [
+                "Bowleys Quarters",
+                [
+                    "/wiki/Bowleys_Quarters,_Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q754481",
+                        "label": "Bowleys Quarters"
+                    }
+                ]
+            ],
+            [
+                "416",
+                []
+            ]
+        ],
+        [
+            [
+                "Calvert Cliffs",
+                [
+                    "/wiki/Calvert_Cliffs_Nuclear_Power_Plant"
+                ],
+                [
+                    {
+                        "entity id": "Q1739367",
+                        "label": "Calvert Cliffs Nuclear Power Plant"
+                    }
+                ]
+            ],
+            [
+                "Nuclear",
+                [
+                    "/wiki/Nuclear_power_plant"
+                ],
+                [
+                    {
+                        "entity id": "Q134447",
+                        "label": "nuclear power plant"
+                    }
+                ]
+            ],
+            [
+                "Exelon , \u00c9lectricit\u00e9 de France",
+                [
+                    "/wiki/Exelon",
+                    "/wiki/\u00c9lectricit\u00e9_de_France"
+                ],
+                [
+                    {
+                        "entity id": "Q1383669",
+                        "label": "Exelon"
+                    },
+                    {
+                        "entity id": "Q274591",
+                        "label": "\u00c9lectricit\u00e9 de France"
+                    }
+                ]
+            ],
+            [
+                "Lusby",
+                [
+                    "/wiki/Lusby,_Maryland"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "1829",
+                []
+            ]
+        ],
+        [
+            [
+                "Chalk Point",
+                [
+                    "/wiki/Chalk_Point_Generating_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q5068815",
+                        "label": "Chalk Point Generating Station"
+                    }
+                ]
+            ],
+            [
+                "Coal , oil , gas",
+                []
+            ],
+            [
+                "NRG Energy",
+                [
+                    "/wiki/NRG_Energy"
+                ],
+                [
+                    {
+                        "entity id": "Q6955139",
+                        "label": "NRG Energy"
+                    }
+                ]
+            ],
+            [
+                "Eagle Harbor",
+                [
+                    "/wiki/Eagle_Harbor,_Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q756443",
+                        "label": "Eagle Harbor"
+                    }
+                ]
+            ],
+            [
+                "2647",
+                []
+            ]
+        ],
+        [
+            [
+                "Conowingo",
+                [
+                    "/wiki/Conowingo_Dam"
+                ],
+                [
+                    {
+                        "entity id": "Q5162372",
+                        "label": "Conowingo Dam"
+                    }
+                ]
+            ],
+            [
+                "Hydroelectric",
+                [
+                    "/wiki/Hydroelectric"
+                ],
+                [
+                    {
+                        "entity id": "Q15911738",
+                        "label": "hydroelectric power station"
+                    }
+                ]
+            ],
+            [
+                "Exelon Corporation",
+                [
+                    "/wiki/Exelon"
+                ],
+                [
+                    {
+                        "entity id": "Q1383669",
+                        "label": "Exelon"
+                    }
+                ]
+            ],
+            [
+                "Conowingo",
+                [
+                    "/wiki/Conowingo,_Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q5162363",
+                        "label": "Conowingo"
+                    }
+                ]
+            ],
+            [
+                "507",
+                []
+            ]
+        ],
+        [
+            [
+                "Criterion Wind Project",
+                [
+                    "/wiki/Criterion_Wind_Project"
+                ],
+                [
+                    {
+                        "entity id": "Q5186572",
+                        "label": "Criterion Wind Project"
+                    }
+                ]
+            ],
+            [
+                "Wind",
+                [
+                    "/wiki/Wind_power"
+                ],
+                [
+                    {
+                        "entity id": "Q43302",
+                        "label": "wind power"
+                    }
+                ]
+            ],
+            [
+                "Constellation",
+                [
+                    "/wiki/Constellation_(An_Exelon_Company)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Oakland",
+                [
+                    "/wiki/Oakland,_Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q755860",
+                        "label": "Oakland"
+                    }
+                ]
+            ],
+            [
+                "70",
+                []
+            ]
+        ],
+        [
+            [
+                "Dickerson",
+                [
+                    "/wiki/Dickerson_Generating_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q5273642",
+                        "label": "Dickerson Generating Station"
+                    }
+                ]
+            ],
+            [
+                "Coal , oil , gas",
+                []
+            ],
+            [
+                "NRG Energy",
+                [
+                    "/wiki/NRG_Energy"
+                ],
+                [
+                    {
+                        "entity id": "Q6955139",
+                        "label": "NRG Energy"
+                    }
+                ]
+            ],
+            [
+                "Dickerson",
+                [
+                    "/wiki/Dickerson,_Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q5273638",
+                        "label": "Dickerson"
+                    }
+                ]
+            ],
+            [
+                "930",
+                []
+            ]
+        ],
+        [
+            [
+                "Easton",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Easton Utilities",
+                [
+                    "/wiki/Easton_Utilities"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Easton",
+                [
+                    "/wiki/Easton,_Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q754306",
+                        "label": "Easton"
+                    }
+                ]
+            ],
+            [
+                "72",
+                []
+            ]
+        ],
+        [
+            [
+                "Gould Street",
+                [
+                    "/wiki/Gould_Street_Generating_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q5588293",
+                        "label": "Gould Street Generating Station"
+                    }
+                ]
+            ],
+            [
+                "Natural gas",
+                [
+                    "/wiki/Natural_gas"
+                ],
+                [
+                    {
+                        "entity id": "Q40858",
+                        "label": "natural gas"
+                    }
+                ]
+            ],
+            [
+                "Constellation",
+                [
+                    "/wiki/Constellation_(An_Exelon_Company)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Baltimore",
+                [
+                    "/wiki/Baltimore"
+                ],
+                [
+                    {
+                        "entity id": "Q5092",
+                        "label": "Baltimore"
+                    }
+                ]
+            ],
+            [
+                "103",
+                []
+            ]
+        ],
+        [
+            [
+                "Herbert A. Wagner",
+                [
+                    "/wiki/Herbert_A._Wagner_Generating_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q5733435",
+                        "label": "Herbert A. Wagner Generating Station"
+                    }
+                ]
+            ],
+            [
+                "Coal , oil , gas",
+                []
+            ],
+            [
+                "Raven Power",
+                []
+            ],
+            [
+                "Orchard Beach",
+                []
+            ],
+            [
+                "1058",
+                []
+            ]
+        ],
+        [
+            [
+                "Luke Mill",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "NewPage Corporation",
+                [
+                    "/wiki/NewPage_Corporation"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Luke",
+                [
+                    "/wiki/Luke,_Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q755097",
+                        "label": "Luke"
+                    }
+                ]
+            ],
+            [
+                "65",
+                []
+            ]
+        ],
+        [
+            [
+                "Montgomery County Resource Recovery Facility",
+                [
+                    "/wiki/Dickerson_Generating_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q5273642",
+                        "label": "Dickerson Generating Station"
+                    }
+                ]
+            ],
+            [
+                "Waste",
+                [
+                    "/wiki/Solid_waste"
+                ],
+                [
+                    {
+                        "entity id": "Q96333750",
+                        "label": "Solid waste & power"
+                    }
+                ]
+            ],
+            [
+                "Northeast Maryland Waste Disposal Auth",
+                []
+            ],
+            [
+                "Dickerson",
+                [
+                    "/wiki/Dickerson,_Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q5273638",
+                        "label": "Dickerson"
+                    }
+                ]
+            ],
+            [
+                "68",
+                []
+            ]
+        ],
+        [
+            [
+                "Morgantown",
+                [
+                    "/wiki/Morgantown_Generating_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q2944692",
+                        "label": "Morgantown Generating Station"
+                    }
+                ]
+            ],
+            [
+                "Coal",
+                []
+            ],
+            [
+                "NRG Energy",
+                [
+                    "/wiki/NRG_Energy"
+                ],
+                [
+                    {
+                        "entity id": "Q6955139",
+                        "label": "NRG Energy"
+                    }
+                ]
+            ],
+            [
+                "Morgantown",
+                [
+                    "/wiki/Morgantown,_Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q6911981",
+                        "label": "Morgantown"
+                    }
+                ]
+            ],
+            [
+                "1548",
+                []
+            ]
+        ],
+        [
+            [
+                "Notch Cliff",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Constellation",
+                [
+                    "/wiki/Constellation_(An_Exelon_Company)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Glen Arm",
+                [
+                    "/wiki/Glen_Arm,_Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q5567575",
+                        "label": "Glen Arm"
+                    }
+                ]
+            ],
+            [
+                "144",
+                []
+            ]
+        ],
+        [
+            [
+                "Panda Brandywine",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Panda Energy",
+                [
+                    "/wiki/Panda_Energy_International"
+                ],
+                [
+                    {
+                        "entity id": "Q7130435",
+                        "label": "Panda Energy International"
+                    }
+                ]
+            ],
+            [
+                "Brandywine",
+                [
+                    "/wiki/Brandywine,_Maryland"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "289",
+                []
+            ]
+        ],
+        [
+            [
+                "Perryman",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Constellation",
+                [
+                    "/wiki/Constellation_(An_Exelon_Company)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Perryman",
+                [
+                    "/wiki/Perryman,_Maryland"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "404",
+                []
+            ]
+        ],
+        [
+            [
+                "Philadelphia Road",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Constellation",
+                [
+                    "/wiki/Constellation_(An_Exelon_Company)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Baltimore County",
+                []
+            ],
+            [
+                "83",
+                []
+            ]
+        ],
+        [
+            [
+                "Riverside",
+                [
+                    "/wiki/Riverside_Generating_Station"
+                ],
+                [
+                    {
+                        "entity id": "Q7338507",
+                        "label": "Riverside Generating Station"
+                    }
+                ]
+            ],
+            [
+                "Natural gas",
+                [
+                    "/wiki/Natural_gas"
+                ],
+                [
+                    {
+                        "entity id": "Q40858",
+                        "label": "natural gas"
+                    }
+                ]
+            ],
+            [
+                "Constellation",
+                []
+            ],
+            [
+                "Dundalk",
+                [
+                    "/wiki/Dundalk,_Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q754390",
+                        "label": "Dundalk"
+                    }
+                ]
+            ],
+            [
+                "257",
+                []
+            ]
+        ],
+        [
+            [
+                "Rock Springs",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Old Dominion Electric Cooperative",
+                [
+                    "/wiki/Old_Dominion_Electric_Cooperative"
+                ],
+                [
+                    {
+                        "entity id": "Q7083861",
+                        "label": "Old Dominion Electric Cooperative"
+                    }
+                ]
+            ],
+            [
+                "Rock Springs",
+                []
+            ],
+            [
+                "773",
+                []
+            ]
+        ],
+        [
+            [
+                "Sparrows Point",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Severstal",
+                [
+                    "/wiki/Severstal"
+                ],
+                [
+                    {
+                        "entity id": "Q638448",
+                        "label": "Severstal"
+                    }
+                ]
+            ],
+            [
+                "Sparrows Point",
+                [
+                    "/wiki/Sparrows_Point,_Maryland"
+                ],
+                [
+                    {
+                        "entity id": "Q3492714",
+                        "label": "Sparrows Point"
+                    }
+                ]
+            ],
+            [
+                "120",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Electric generating plants",
+    "section_text": "Although there are approximately 40 generating plants that provide power for customers in the state , Maryland imported about 35% of its electricity from neighboring states in 2008 . [ 8 ]",
+    "uid": "Maryland_Public_Service_Commission_0",
+    "intro": "The Maryland Public Service Commission (PSC) is an independent administrative agency within the state government which regulates public utilities and certain taxi cab and other passenger services in Maryland. Similar to other state Public Utilities Commissions, the Maryland PSC regulates and sets tariff rates for natural gas, electricity distribution, local telephone, water, and sewage disposal companies. The PSC also sets the tariff rates for pilot services for vessels and privately owned toll bridges, approves the construction of electric generating plants and overhead transmission lines with a voltage above 69 kV, and licenses retail natural gas and electricity suppliers. The PSC offices are located in Baltimore in the William Donald Schaefer Building."
+}

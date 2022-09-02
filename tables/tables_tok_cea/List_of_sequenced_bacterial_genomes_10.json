@@ -1,0 +1,781 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_sequenced_bacterial_genomes",
+    "title": "List of sequenced bacterial genomes",
+    "header": [
+        [
+            "Species",
+            []
+        ],
+        [
+            "Strain",
+            []
+        ],
+        [
+            "Type",
+            []
+        ],
+        [
+            "Base Pairs",
+            []
+        ],
+        [
+            "Genes",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Bacillus anthracis",
+                [
+                    "/wiki/Bacillus_anthracis"
+                ],
+                [
+                    {
+                        "entity id": "Q614156",
+                        "label": "Bacillus anthracis"
+                    }
+                ]
+            ],
+            [
+                "Ames",
+                []
+            ],
+            [
+                "Bacilli",
+                [
+                    "/wiki/Bacilli"
+                ],
+                [
+                    {
+                        "entity id": "Q149128",
+                        "label": "Bacilli"
+                    }
+                ]
+            ],
+            [
+                "5,227,293",
+                []
+            ],
+            [
+                "5,311",
+                []
+            ]
+        ],
+        [
+            [
+                "Bacillus anthracis",
+                [
+                    "/wiki/Bacillus_anthracis"
+                ],
+                [
+                    {
+                        "entity id": "Q614156",
+                        "label": "Bacillus anthracis"
+                    }
+                ]
+            ],
+            [
+                "Sterne",
+                []
+            ],
+            [
+                "Bacilli",
+                [
+                    "/wiki/Bacilli"
+                ],
+                [
+                    {
+                        "entity id": "Q149128",
+                        "label": "Bacilli"
+                    }
+                ]
+            ],
+            [
+                "5,228,663",
+                []
+            ],
+            [
+                "5,287",
+                []
+            ]
+        ],
+        [
+            [
+                "Bacillus cereus",
+                [
+                    "/wiki/Bacillus_cereus"
+                ],
+                [
+                    {
+                        "entity id": "Q131307",
+                        "label": "Bacillus cereus"
+                    }
+                ]
+            ],
+            [
+                "ATCC10987",
+                []
+            ],
+            [
+                "Bacilli",
+                [
+                    "/wiki/Bacilli"
+                ],
+                [
+                    {
+                        "entity id": "Q149128",
+                        "label": "Bacilli"
+                    }
+                ]
+            ],
+            [
+                "5,224,283",
+                []
+            ],
+            [
+                "5,603",
+                []
+            ]
+        ],
+        [
+            [
+                "Bacillus cereus",
+                [
+                    "/wiki/Bacillus_cereus"
+                ],
+                [
+                    {
+                        "entity id": "Q131307",
+                        "label": "Bacillus cereus"
+                    }
+                ]
+            ],
+            [
+                "ATCC14579",
+                []
+            ],
+            [
+                "Bacilli",
+                [
+                    "/wiki/Bacilli"
+                ],
+                [
+                    {
+                        "entity id": "Q149128",
+                        "label": "Bacilli"
+                    }
+                ]
+            ],
+            [
+                "5,411,809",
+                []
+            ],
+            [
+                "5,234",
+                []
+            ]
+        ],
+        [
+            [
+                "Bacillus cereus",
+                [
+                    "/wiki/Bacillus_cereus"
+                ],
+                [
+                    {
+                        "entity id": "Q131307",
+                        "label": "Bacillus cereus"
+                    }
+                ]
+            ],
+            [
+                "ZK",
+                []
+            ],
+            [
+                "Bacilli",
+                [
+                    "/wiki/Bacilli"
+                ],
+                [
+                    {
+                        "entity id": "Q149128",
+                        "label": "Bacilli"
+                    }
+                ]
+            ],
+            [
+                "5,300,915",
+                []
+            ],
+            [
+                "5,134",
+                []
+            ]
+        ],
+        [
+            [
+                "Bacillus clausii",
+                [
+                    "/wiki/Bacillus_clausii"
+                ],
+                [
+                    {
+                        "entity id": "Q21397711",
+                        "label": "Bacillus clausii KSM-K16"
+                    }
+                ]
+            ],
+            [
+                "KSMK16",
+                []
+            ],
+            [
+                "Bacilli",
+                [
+                    "/wiki/Bacilli"
+                ],
+                [
+                    {
+                        "entity id": "Q149128",
+                        "label": "Bacilli"
+                    }
+                ]
+            ],
+            [
+                "4,303,871",
+                []
+            ],
+            [
+                "4,108",
+                []
+            ]
+        ],
+        [
+            [
+                "Bacillus halodurans",
+                [
+                    "/wiki/Bacillus_halodurans"
+                ],
+                [
+                    {
+                        "entity id": "Q4838967",
+                        "label": "Bacillus halodurans"
+                    }
+                ]
+            ],
+            [
+                "C125",
+                []
+            ],
+            [
+                "Bacilli",
+                [
+                    "/wiki/Bacilli"
+                ],
+                [
+                    {
+                        "entity id": "Q149128",
+                        "label": "Bacilli"
+                    }
+                ]
+            ],
+            [
+                "4,202,352",
+                []
+            ],
+            [
+                "4,066",
+                []
+            ]
+        ],
+        [
+            [
+                "Bacillus licheniformis",
+                [
+                    "/wiki/Bacillus_licheniformis"
+                ],
+                [
+                    {
+                        "entity id": "Q2878356",
+                        "label": "Bacillus licheniformis"
+                    }
+                ]
+            ],
+            [
+                "ATCC14580",
+                []
+            ],
+            [
+                "Bacilli",
+                [
+                    "/wiki/Bacilli"
+                ],
+                [
+                    {
+                        "entity id": "Q149128",
+                        "label": "Bacilli"
+                    }
+                ]
+            ],
+            [
+                "4,222,334",
+                []
+            ],
+            [
+                "4,152",
+                []
+            ]
+        ],
+        [
+            [
+                "Bacillus licheniformis",
+                [
+                    "/wiki/Bacillus_licheniformis"
+                ],
+                [
+                    {
+                        "entity id": "Q2878356",
+                        "label": "Bacillus licheniformis"
+                    }
+                ]
+            ],
+            [
+                "Unspecified",
+                []
+            ],
+            [
+                "Bacilli",
+                [
+                    "/wiki/Bacilli"
+                ],
+                [
+                    {
+                        "entity id": "Q149128",
+                        "label": "Bacilli"
+                    }
+                ]
+            ],
+            [
+                "4,222,645",
+                []
+            ],
+            [
+                "4,196",
+                []
+            ]
+        ],
+        [
+            [
+                "Bacillus licheniformis",
+                [
+                    "/wiki/Bacillus_licheniformis"
+                ],
+                [
+                    {
+                        "entity id": "Q2878356",
+                        "label": "Bacillus licheniformis"
+                    }
+                ]
+            ],
+            [
+                "DSM13",
+                []
+            ],
+            [
+                "Bacilli",
+                [
+                    "/wiki/Bacilli"
+                ],
+                [
+                    {
+                        "entity id": "Q149128",
+                        "label": "Bacilli"
+                    }
+                ]
+            ],
+            [
+                "4,222,645",
+                []
+            ],
+            [
+                "4,196",
+                []
+            ]
+        ],
+        [
+            [
+                "Bacillus subtilis",
+                [
+                    "/wiki/Bacillus_subtilis"
+                ],
+                [
+                    {
+                        "entity id": "Q131238",
+                        "label": "Bacillus subtilis"
+                    }
+                ]
+            ],
+            [
+                "168",
+                []
+            ],
+            [
+                "Bacilli",
+                [
+                    "/wiki/Bacilli"
+                ],
+                [
+                    {
+                        "entity id": "Q149128",
+                        "label": "Bacilli"
+                    }
+                ]
+            ],
+            [
+                "4,214,630",
+                []
+            ],
+            [
+                "4,106",
+                []
+            ]
+        ],
+        [
+            [
+                "Bacillus thuringiensis",
+                [
+                    "/wiki/Bacillus_thuringiensis"
+                ],
+                [
+                    {
+                        "entity id": "Q310467",
+                        "label": "Bacillus thuringiensis"
+                    }
+                ]
+            ],
+            [
+                "9727",
+                []
+            ],
+            [
+                "Bacilli",
+                [
+                    "/wiki/Bacilli"
+                ],
+                [
+                    {
+                        "entity id": "Q149128",
+                        "label": "Bacilli"
+                    }
+                ]
+            ],
+            [
+                "5,237,682",
+                []
+            ],
+            [
+                "5,117",
+                []
+            ]
+        ],
+        [
+            [
+                "Carboxydothermus hydrogenoformans",
+                [
+                    "/wiki/Carboxydothermus_hydrogenoformans"
+                ],
+                [
+                    {
+                        "entity id": "Q3658323",
+                        "label": "Carboxydothermus hydrogenoformans"
+                    }
+                ]
+            ],
+            [
+                "Z2901",
+                []
+            ],
+            [
+                "Clostridia",
+                [
+                    "/wiki/Clostridia"
+                ],
+                [
+                    {
+                        "entity id": "Q132809",
+                        "label": "Clostridia"
+                    }
+                ]
+            ],
+            [
+                "2,401,520",
+                []
+            ],
+            [
+                "2,620",
+                []
+            ]
+        ],
+        [
+            [
+                "Clostridium acetobutylicum",
+                [
+                    "/wiki/Clostridium_acetobutylicum"
+                ],
+                [
+                    {
+                        "entity id": "Q148692",
+                        "label": "Clostridium acetobutylicum"
+                    }
+                ]
+            ],
+            [
+                "ATCC824",
+                []
+            ],
+            [
+                "Clostridia",
+                [
+                    "/wiki/Clostridia"
+                ],
+                [
+                    {
+                        "entity id": "Q132809",
+                        "label": "Clostridia"
+                    }
+                ]
+            ],
+            [
+                "3,940,880",
+                []
+            ],
+            [
+                "3,672",
+                []
+            ]
+        ],
+        [
+            [
+                "Clostridium difficile",
+                [
+                    "/wiki/Clostridium_difficile_(bacteria)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "QCD-32g58",
+                []
+            ],
+            [
+                "Clostridia",
+                [
+                    "/wiki/Clostridia"
+                ],
+                [
+                    {
+                        "entity id": "Q132809",
+                        "label": "Clostridia"
+                    }
+                ]
+            ],
+            [
+                "3,840,681",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Clostridium perfringens",
+                [
+                    "/wiki/Clostridium_perfringens"
+                ],
+                [
+                    {
+                        "entity id": "Q309465",
+                        "label": "Clostridium perfringens"
+                    }
+                ]
+            ],
+            [
+                "13",
+                []
+            ],
+            [
+                "Clostridia",
+                [
+                    "/wiki/Clostridia"
+                ],
+                [
+                    {
+                        "entity id": "Q132809",
+                        "label": "Clostridia"
+                    }
+                ]
+            ],
+            [
+                "3,031,430",
+                []
+            ],
+            [
+                "2,660",
+                []
+            ]
+        ],
+        [
+            [
+                "Clostridium tetani",
+                [
+                    "/wiki/Clostridium_tetani"
+                ],
+                [
+                    {
+                        "entity id": "Q309471",
+                        "label": "Clostridium tetani"
+                    }
+                ]
+            ],
+            [
+                "E88",
+                []
+            ],
+            [
+                "Clostridia",
+                [
+                    "/wiki/Clostridia"
+                ],
+                [
+                    {
+                        "entity id": "Q132809",
+                        "label": "Clostridia"
+                    }
+                ]
+            ],
+            [
+                "2,799,251",
+                []
+            ],
+            [
+                "2,373",
+                []
+            ]
+        ],
+        [
+            [
+                "Desulfitobacterium hafniense",
+                [
+                    "/wiki/Desulfitobacterium_hafniense"
+                ],
+                [
+                    {
+                        "entity id": "Q3706079",
+                        "label": "Desulfitobacterium hafniense"
+                    }
+                ]
+            ],
+            [
+                "Y51",
+                []
+            ],
+            [
+                "Clostridia",
+                [
+                    "/wiki/Clostridia"
+                ],
+                [
+                    {
+                        "entity id": "Q132809",
+                        "label": "Clostridia"
+                    }
+                ]
+            ],
+            [
+                "5,727,534",
+                []
+            ],
+            [
+                "5,060",
+                []
+            ]
+        ],
+        [
+            [
+                "Enterococcus faecalis",
+                [
+                    "/wiki/Enterococcus_faecalis"
+                ],
+                [
+                    {
+                        "entity id": "Q140014",
+                        "label": "Enterococcus faecalis"
+                    }
+                ]
+            ],
+            [
+                "V583",
+                []
+            ],
+            [
+                "Bacilli",
+                [
+                    "/wiki/Bacilli"
+                ],
+                [
+                    {
+                        "entity id": "Q149128",
+                        "label": "Bacilli"
+                    }
+                ]
+            ],
+            [
+                "3,218,031",
+                []
+            ],
+            [
+                "3,113",
+                []
+            ]
+        ],
+        [
+            [
+                "Geobacillus kaustophilus",
+                []
+            ],
+            [
+                "HTA426",
+                []
+            ],
+            [
+                "Bacilli",
+                [
+                    "/wiki/Bacilli"
+                ],
+                [
+                    {
+                        "entity id": "Q149128",
+                        "label": "Bacilli"
+                    }
+                ]
+            ],
+            [
+                "3,544,776",
+                []
+            ],
+            [
+                "3,498",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Firmicutes",
+    "section_text": "",
+    "uid": "List_of_sequenced_bacterial_genomes_10",
+    "intro": "This list of sequenced eubacterial genomes contains most of the eubacteria known to have publicly available complete genome sequences. Most of these sequences have been placed in the International Nucleotide Sequence Database Collaboration, a public database which can be searched on the web. A few of the listed genomes may not be in the INSDC database, but in other public databases[verification needed]. Genomes listed as Unpublished are in a database, but not in the peer-reviewed scientific literature. For the genomes of archaea see list of sequenced archaeal genomes."
+}

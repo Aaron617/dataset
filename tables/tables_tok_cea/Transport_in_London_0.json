@@ -1,0 +1,461 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Transport_in_London",
+    "title": "Transport in London",
+    "header": [
+        [
+            "Airport",
+            []
+        ],
+        [
+            "Train operator",
+            []
+        ],
+        [
+            "Central London station",
+            []
+        ],
+        [
+            "Notes",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Heathrow",
+                [
+                    "/wiki/Heathrow_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8691",
+                        "label": "Heathrow Airport"
+                    }
+                ]
+            ],
+            [
+                "TfL Rail",
+                [
+                    "/wiki/TfL_Rail"
+                ],
+                [
+                    {
+                        "entity id": "Q18160926",
+                        "label": "TfL Rail"
+                    }
+                ]
+            ],
+            [
+                "Paddington",
+                [
+                    "/wiki/Paddington_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q214788",
+                        "label": "London Paddington station"
+                    }
+                ]
+            ],
+            [
+                "An all station suburban service that serves Terminals 2 & 3 , then terminates at Terminal 4",
+                [
+                    "/wiki/Heathrow_Central_railway_station",
+                    "/wiki/Heathrow_Terminal_4_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q5694342",
+                        "label": "Heathrow Central railway station"
+                    },
+                    {
+                        "entity id": "Q5694347",
+                        "label": "Heathrow Terminal 4 railway station"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Heathrow",
+                []
+            ],
+            [
+                "Heathrow Express",
+                [
+                    "/wiki/Heathrow_Express"
+                ],
+                [
+                    {
+                        "entity id": "Q1540080",
+                        "label": "Heathrow Express"
+                    }
+                ]
+            ],
+            [
+                "Paddington",
+                []
+            ],
+            [
+                "Non-stop service between Central London and the Airport , serves Terminals 2 & 3 , then terminates at Terminal 5",
+                [
+                    "/wiki/Heathrow_Terminal_5_station"
+                ],
+                [
+                    {
+                        "entity id": "Q800907",
+                        "label": "Heathrow Terminal 5 station"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Heathrow",
+                []
+            ],
+            [
+                "London Underground",
+                [
+                    "/wiki/London_Underground"
+                ],
+                [
+                    {
+                        "entity id": "Q20075",
+                        "label": "London Underground"
+                    }
+                ]
+            ],
+            [
+                "Several including King 's Cross St Pancras",
+                [
+                    "/wiki/King's_Cross_St_Pancras_tube_station"
+                ],
+                [
+                    {
+                        "entity id": "Q826120",
+                        "label": "King's Cross St Pancras tube station"
+                    }
+                ]
+            ],
+            [
+                "Piccadilly line service",
+                [
+                    "/wiki/Piccadilly_line"
+                ],
+                [
+                    {
+                        "entity id": "Q207689",
+                        "label": "Piccadilly line"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Gatwick",
+                [
+                    "/wiki/Gatwick_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8703",
+                        "label": "Gatwick Airport"
+                    }
+                ]
+            ],
+            [
+                "Gatwick Express",
+                [
+                    "/wiki/Gatwick_Express"
+                ],
+                [
+                    {
+                        "entity id": "Q971990",
+                        "label": "Gatwick Express"
+                    }
+                ]
+            ],
+            [
+                "Victoria",
+                [
+                    "/wiki/London_Victoria_railway_station"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Non-stop service , sub brand of Govia Thameslink Railway",
+                [
+                    "/wiki/Govia_Thameslink_Railway"
+                ],
+                [
+                    {
+                        "entity id": "Q18737011",
+                        "label": "Govia Thameslink Railway"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Gatwick",
+                []
+            ],
+            [
+                "Thameslink",
+                [
+                    "/wiki/Govia_Thameslink_Railway"
+                ],
+                [
+                    {
+                        "entity id": "Q18737011",
+                        "label": "Govia Thameslink Railway"
+                    }
+                ]
+            ],
+            [
+                "St Pancras / Farringdon / City Thameslink / Blackfriars / London Bridge",
+                [
+                    "/wiki/St_Pancras_railway_station",
+                    "/wiki/Farringdon_railway_station",
+                    "/wiki/City_Thameslink_railway_station",
+                    "/wiki/Blackfriars_railway_station",
+                    "/wiki/London_Bridge_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q720102",
+                        "label": "St Pancras railway station"
+                    },
+                    {
+                        "entity id": "Q800754",
+                        "label": "Farringdon station"
+                    },
+                    {
+                        "entity id": "Q800630",
+                        "label": "City Thameslink railway station"
+                    },
+                    {
+                        "entity id": "Q284195",
+                        "label": "Blackfriars station"
+                    },
+                    {
+                        "entity id": "Q801125",
+                        "label": "London Bridge station"
+                    }
+                ]
+            ],
+            [
+                "Thameslink route service",
+                [
+                    "/wiki/Thameslink_(route)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "Gatwick",
+                []
+            ],
+            [
+                "Southern",
+                [
+                    "/wiki/Southern_(train_operating_company)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Victoria",
+                []
+            ],
+            [
+                "Semi-fast and fast service via Clapham Junction",
+                [
+                    "/wiki/Clapham_Junction_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q719530",
+                        "label": "Clapham Junction railway station"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "City",
+                [
+                    "/wiki/London_City_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8982",
+                        "label": "London City Airport"
+                    }
+                ]
+            ],
+            [
+                "DLR",
+                [
+                    "/wiki/Docklands_Light_Railway"
+                ],
+                [
+                    {
+                        "entity id": "Q216360",
+                        "label": "Docklands Light Railway"
+                    }
+                ]
+            ],
+            [
+                "Bank / Tower Gateway",
+                [
+                    "/wiki/Bank_DLR_station",
+                    "/wiki/Tower_Gateway_DLR_station"
+                ],
+                [
+                    {
+                        "entity id": "Q806704",
+                        "label": "Bank and Monument stations"
+                    },
+                    {
+                        "entity id": "Q1702680",
+                        "label": "Tower Gateway"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Stansted",
+                [
+                    "/wiki/London_Stansted_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8709",
+                        "label": "London Stansted Airport"
+                    }
+                ]
+            ],
+            [
+                "Stansted Express",
+                [
+                    "/wiki/Stansted_Express"
+                ],
+                [
+                    {
+                        "entity id": "Q2118151",
+                        "label": "Stansted Express"
+                    }
+                ]
+            ],
+            [
+                "Liverpool Street",
+                [
+                    "/wiki/Liverpool_Street_railway_station"
+                ],
+                [
+                    {
+                        "entity id": "Q801124",
+                        "label": "Liverpool Street station"
+                    }
+                ]
+            ],
+            [
+                "Limited stop service , sub brand of Abellio Greater Anglia",
+                [
+                    "/wiki/Abellio_Greater_Anglia"
+                ],
+                [
+                    {
+                        "entity id": "Q318679",
+                        "label": "Greater Anglia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Southend",
+                [
+                    "/wiki/Southend_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q7569535",
+                        "label": "Southend Airport railway station"
+                    }
+                ]
+            ],
+            [
+                "Abellio Greater Anglia",
+                [
+                    "/wiki/Abellio_Greater_Anglia"
+                ],
+                [
+                    {
+                        "entity id": "Q318679",
+                        "label": "Greater Anglia"
+                    }
+                ]
+            ],
+            [
+                "Liverpool Street",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Luton",
+                [
+                    "/wiki/Luton_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8712",
+                        "label": "London Luton Airport"
+                    }
+                ]
+            ],
+            [
+                "Thameslink",
+                [
+                    "/wiki/Govia_Thameslink_Railway"
+                ],
+                [
+                    {
+                        "entity id": "Q18737011",
+                        "label": "Govia Thameslink Railway"
+                    }
+                ]
+            ],
+            [
+                "St Pancras/Farringdon/City Thameslink/Blackfriars/London Bridge",
+                []
+            ],
+            [
+                "Thameslink route service",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Heavy rail -- Local and regional",
+    "section_text": "Map of rail links to London Airports Heathrow , Gatwick and Stansted airports are served by dedicated train services , and are also served by standard commuter services . The Heathrow Express service from Paddington is provided by the airport operator , Heathrow Airport Holdings , whilst the Gatwick Express from Victoria and Stansted Express from Liverpool Street are provided by franchised train operating companies .",
+    "uid": "Transport_in_London_0",
+    "intro": "London has an extensive and developed transport network which includes both private and public services. Journeys made by public transport systems account for 37% of London's journeys while private services accounted for 36% of journeys, walking 24% and cycling 2%. London's public transport network serves as the central hub for the United Kingdom in rail, air and road transport. Public transport services are dominated by the executive agency for transport in London: Transport for London (TfL). TfL controls the majority of public transport, including the Underground, Buses, Tramlink, the Docklands Light Railway, London River Services and the London Overground. Other rail services are either franchised to train operating companies by the Department for Transport (DfT) or, like Eurostar and Heathrow Express, operated on an open-access basis. TfL also controls most major roads in London, but not minor roads. In addition, there are several independent airports serving London, including Heathrow, the busiest airport in Europe."
+}

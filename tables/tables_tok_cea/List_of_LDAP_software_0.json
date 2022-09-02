@@ -1,0 +1,638 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_LDAP_software",
+    "title": "List of LDAP software",
+    "header": [
+        [
+            "",
+            []
+        ],
+        [
+            "Developer",
+            []
+        ],
+        [
+            "Software license",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "389 Directory Server ( formerly Fedora Directory Server )",
+                [
+                    "/wiki/389_Directory_Server"
+                ],
+                [
+                    {
+                        "entity id": "Q228600",
+                        "label": "389 Directory Server"
+                    }
+                ]
+            ],
+            [
+                "Red Hat",
+                [
+                    "/wiki/Red_Hat"
+                ],
+                [
+                    {
+                        "entity id": "Q485593",
+                        "label": "Red Hat"
+                    }
+                ]
+            ],
+            [
+                "GPL linking exception with exception to allow linking to non-GPL",
+                [
+                    "/wiki/GPL_linking_exception"
+                ],
+                [
+                    {
+                        "entity id": "Q1486447",
+                        "label": "GPL linking exception"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Active Directory",
+                [
+                    "/wiki/Active_Directory"
+                ],
+                [
+                    {
+                        "entity id": "Q55692",
+                        "label": "Active Directory"
+                    }
+                ]
+            ],
+            [
+                "Microsoft",
+                [
+                    "/wiki/Microsoft"
+                ],
+                [
+                    {
+                        "entity id": "Q2283",
+                        "label": "Microsoft"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Authorized Entities Directory ( \u00c6-DIR )",
+                []
+            ],
+            [
+                "Michael Str\u00f6der",
+                []
+            ],
+            [
+                "Apache License 2.0",
+                [
+                    "/wiki/Apache_License_2.0"
+                ],
+                [
+                    {
+                        "entity id": "Q13785927",
+                        "label": "Apache License, Version 2.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Apache Directory Server",
+                [
+                    "/wiki/Apache_Directory_Server"
+                ],
+                [
+                    {
+                        "entity id": "Q28916292",
+                        "label": "Apache Directory Server"
+                    }
+                ]
+            ],
+            [
+                "Apache Software Foundation",
+                [
+                    "/wiki/Apache_Software_Foundation"
+                ],
+                [
+                    {
+                        "entity id": "Q489709",
+                        "label": "Apache Software Foundation"
+                    }
+                ]
+            ],
+            [
+                "Apache License 2.0",
+                [
+                    "/wiki/Apache_License_2.0"
+                ],
+                [
+                    {
+                        "entity id": "Q13785927",
+                        "label": "Apache License, Version 2.0"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Apple Open Directory - A fork of the OpenLDAP project",
+                [
+                    "/wiki/Apple_Open_Directory"
+                ],
+                [
+                    {
+                        "entity id": "Q615095",
+                        "label": "Apple Open Directory"
+                    }
+                ]
+            ],
+            [
+                "Apple Inc",
+                [
+                    "/wiki/Apple_Inc."
+                ],
+                [
+                    {
+                        "entity id": "Q312",
+                        "label": "Apple Inc."
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "BEJY LDAP Server , a Java LDAP Server",
+                [
+                    "/wiki/Java_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Stefan Bebbo Franke",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "CA Directory",
+                []
+            ],
+            [
+                "CA Technologies",
+                [
+                    "/wiki/CA_Technologies"
+                ],
+                [
+                    {
+                        "entity id": "Q600624",
+                        "label": "CA Technologies"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Critical Path Directory Server",
+                []
+            ],
+            [
+                "Critical Path",
+                []
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Directory services - A fork of the OpenDJ project",
+                [
+                    "/wiki/OpenDJ"
+                ],
+                [
+                    {
+                        "entity id": "Q7095765",
+                        "label": "OpenDJ"
+                    }
+                ]
+            ],
+            [
+                "ForgeRock",
+                [
+                    "/wiki/ForgeRock"
+                ],
+                [
+                    {
+                        "entity id": "Q18150963",
+                        "label": "ForgeRock"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "DirX Directory",
+                []
+            ],
+            [
+                "Atos ( ex-Siemens )",
+                [
+                    "/wiki/Atos"
+                ],
+                [
+                    {
+                        "entity id": "Q757689",
+                        "label": "Atos SE"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "FreeIPA",
+                [
+                    "/wiki/FreeIPA"
+                ],
+                [
+                    {
+                        "entity id": "Q910971",
+                        "label": "FreeIPA"
+                    }
+                ]
+            ],
+            [
+                "Red Hat ( using 389 Directory Server )",
+                [
+                    "/wiki/Red_Hat",
+                    "/wiki/389_Directory_Server"
+                ],
+                [
+                    {
+                        "entity id": "Q485593",
+                        "label": "Red Hat"
+                    },
+                    {
+                        "entity id": "Q228600",
+                        "label": "389 Directory Server"
+                    }
+                ]
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "IBM Tivoli Directory Server",
+                [
+                    "/wiki/IBM_Tivoli_Directory_Server"
+                ],
+                [
+                    {
+                        "entity id": "Q634163",
+                        "label": "IBM Tivoli Directory Server"
+                    }
+                ]
+            ],
+            [
+                "IBM",
+                [
+                    "/wiki/IBM"
+                ],
+                [
+                    {
+                        "entity id": "Q37156",
+                        "label": "IBM"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ldapjs , implementation of LDAP in JavaScript on Node.js",
+                [
+                    "/wiki/JavaScript",
+                    "/wiki/Node.js"
+                ],
+                [
+                    {
+                        "entity id": "Q2005",
+                        "label": "JavaScript"
+                    },
+                    {
+                        "entity id": "Q756100",
+                        "label": "Node.js"
+                    }
+                ]
+            ],
+            [
+                "Mark Cavage",
+                []
+            ],
+            [
+                "MIT License",
+                [
+                    "/wiki/MIT_License"
+                ],
+                [
+                    {
+                        "entity id": "Q334661",
+                        "label": "MIT license"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Mandriva Directory Server , now part of Mandriva Management Console",
+                [
+                    "/wiki/Mandriva_Directory_Server"
+                ],
+                [
+                    {
+                        "entity id": "Q3285593",
+                        "label": "Mandriva Directory Server"
+                    }
+                ]
+            ],
+            [
+                "Mandriva development team",
+                []
+            ],
+            [
+                "GPL",
+                [
+                    "/wiki/GNU_General_Public_License"
+                ],
+                [
+                    {
+                        "entity id": "Q7603",
+                        "label": "GNU General Public License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "NetIQ eDirectory",
+                [
+                    "/wiki/NetIQ_eDirectory"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "NetIQ",
+                [
+                    "/wiki/NetIQ"
+                ],
+                [
+                    {
+                        "entity id": "Q17082960",
+                        "label": "NetIQ"
+                    }
+                ]
+            ],
+            [
+                "Proprietary",
+                [
+                    "/wiki/Proprietary_software"
+                ],
+                [
+                    {
+                        "entity id": "Q218616",
+                        "label": "proprietary software"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "OpenBSD ldapd",
+                []
+            ],
+            [
+                "Martin Hedenfalk , OpenBSD",
+                [
+                    "/wiki/OpenBSD"
+                ],
+                [
+                    {
+                        "entity id": "Q34215",
+                        "label": "OpenBSD"
+                    }
+                ]
+            ],
+            [
+                "ISC",
+                [
+                    "/wiki/ISC_License"
+                ],
+                [
+                    {
+                        "entity id": "Q386474",
+                        "label": "ISC license"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "OpenDJ",
+                [
+                    "/wiki/OpenDJ"
+                ],
+                [
+                    {
+                        "entity id": "Q7095765",
+                        "label": "OpenDJ"
+                    }
+                ]
+            ],
+            [
+                "Open Identity Platform Community",
+                []
+            ],
+            [
+                "CDDL",
+                [
+                    "/wiki/Common_Development_and_Distribution_License"
+                ],
+                [
+                    {
+                        "entity id": "Q304628",
+                        "label": "Common Development and Distribution License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "OpenDS",
+                [
+                    "/wiki/OpenDS"
+                ],
+                [
+                    {
+                        "entity id": "Q19297645",
+                        "label": "OpenDS"
+                    }
+                ]
+            ],
+            [
+                "Sun Microsystems",
+                [
+                    "/wiki/Sun_Microsystems"
+                ],
+                [
+                    {
+                        "entity id": "Q14647",
+                        "label": "Sun Microsystems"
+                    }
+                ]
+            ],
+            [
+                "CDDL",
+                [
+                    "/wiki/Common_Development_and_Distribution_License"
+                ],
+                [
+                    {
+                        "entity id": "Q304628",
+                        "label": "Common Development and Distribution License"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "OpenLDAP",
+                [
+                    "/wiki/OpenLDAP"
+                ],
+                [
+                    {
+                        "entity id": "Q682918",
+                        "label": "OpenLDAP"
+                    }
+                ]
+            ],
+            [
+                "Kurt Zeilenga and others ( based on Slapd )",
+                []
+            ],
+            [
+                "OpenLDAP Public License",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Server software",
+    "section_text": "",
+    "uid": "List_of_LDAP_software_0",
+    "intro": "The following is a list of software programs that can communicate with and/or host directory services via the Lightweight Directory Access Protocol (LDAP)."
+}

@@ -1,0 +1,679 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Linate_Airport",
+    "title": "Linate Airport",
+    "header": [
+        [
+            "Rank",
+            []
+        ],
+        [
+            "City",
+            []
+        ],
+        [
+            "Passengers",
+            []
+        ],
+        [
+            "Airline",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1",
+                []
+            ],
+            [
+                "Paris-Charles de Gaulle , France",
+                [
+                    "/wiki/Charles_de_Gaulle_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q46280",
+                        "label": "Paris-Charles de Gaulle Airport"
+                    }
+                ]
+            ],
+            [
+                "785.308",
+                []
+            ],
+            [
+                "Air France , Alitalia",
+                [
+                    "/wiki/Air_France",
+                    "/wiki/Alitalia"
+                ],
+                [
+                    {
+                        "entity id": "Q131005",
+                        "label": "Air France"
+                    },
+                    {
+                        "entity id": "Q153975",
+                        "label": "Alitalia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "2",
+                []
+            ],
+            [
+                "Amsterdam , Netherlands",
+                [
+                    "/wiki/Amsterdam_Airport_Schiphol"
+                ],
+                [
+                    {
+                        "entity id": "Q9694",
+                        "label": "Amsterdam Airport Schiphol"
+                    }
+                ]
+            ],
+            [
+                "651.774",
+                []
+            ],
+            [
+                "Alitalia , KLM",
+                [
+                    "/wiki/Alitalia",
+                    "/wiki/KLM"
+                ],
+                [
+                    {
+                        "entity id": "Q153975",
+                        "label": "Alitalia"
+                    },
+                    {
+                        "entity id": "Q181912",
+                        "label": "KLM"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "3",
+                []
+            ],
+            [
+                "London-Heathrow , United Kingdom",
+                [
+                    "/wiki/London_Heathrow_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8691",
+                        "label": "Heathrow Airport"
+                    }
+                ]
+            ],
+            [
+                "616.402",
+                []
+            ],
+            [
+                "Alitalia , British Airways",
+                [
+                    "/wiki/Alitalia",
+                    "/wiki/British_Airways"
+                ],
+                [
+                    {
+                        "entity id": "Q153975",
+                        "label": "Alitalia"
+                    },
+                    {
+                        "entity id": "Q8766",
+                        "label": "British Airways"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "4",
+                []
+            ],
+            [
+                "Frankfurt am Main , Germany",
+                [
+                    "/wiki/Frankfurt_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q46033",
+                        "label": "Frankfurt Airport"
+                    }
+                ]
+            ],
+            [
+                "450.873",
+                []
+            ],
+            [
+                "Alitalia , Lufthansa",
+                [
+                    "/wiki/Alitalia",
+                    "/wiki/Lufthansa"
+                ],
+                [
+                    {
+                        "entity id": "Q153975",
+                        "label": "Alitalia"
+                    },
+                    {
+                        "entity id": "Q9325",
+                        "label": "Lufthansa"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "5",
+                []
+            ],
+            [
+                "London-Gatwick , United Kingdom",
+                [
+                    "/wiki/London_Gatwick_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8703",
+                        "label": "Gatwick Airport"
+                    }
+                ]
+            ],
+            [
+                "293.540",
+                []
+            ],
+            [
+                "easyJet",
+                [
+                    "/wiki/EasyJet"
+                ],
+                [
+                    {
+                        "entity id": "Q191551",
+                        "label": "easyJet"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "6",
+                []
+            ],
+            [
+                "Paris-Orly , France",
+                [
+                    "/wiki/Orly_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q223416",
+                        "label": "Orly Airport"
+                    }
+                ]
+            ],
+            [
+                "237.696",
+                []
+            ],
+            [
+                "Alitalia , easyJet",
+                [
+                    "/wiki/Alitalia",
+                    "/wiki/EasyJet"
+                ],
+                [
+                    {
+                        "entity id": "Q153975",
+                        "label": "Alitalia"
+                    },
+                    {
+                        "entity id": "Q191551",
+                        "label": "easyJet"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "7",
+                []
+            ],
+            [
+                "Brussels , Belgium",
+                [
+                    "/wiki/Brussels_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q28934",
+                        "label": "Brussels Airport"
+                    }
+                ]
+            ],
+            [
+                "223.904",
+                []
+            ],
+            [
+                "Alitalia , Brussels Airlines",
+                [
+                    "/wiki/Alitalia",
+                    "/wiki/Brussels_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q153975",
+                        "label": "Alitalia"
+                    },
+                    {
+                        "entity id": "Q153571",
+                        "label": "Brussels Airlines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "8",
+                []
+            ],
+            [
+                "Madrid , Spain",
+                [
+                    "/wiki/Madrid\u2013Barajas_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q166276",
+                        "label": "Adolfo Suarez Madrid-Barajas Airport"
+                    }
+                ]
+            ],
+            [
+                "220.495",
+                []
+            ],
+            [
+                "Iberia",
+                [
+                    "/wiki/Iberia_(airline)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "9",
+                []
+            ],
+            [
+                "Berlin-Tegel , Germany",
+                [
+                    "/wiki/Berlin_Tegel_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q9688",
+                        "label": "Berlin-Tegel Airport"
+                    }
+                ]
+            ],
+            [
+                "204.124",
+                []
+            ],
+            [
+                "Alitalia , Air Berlin",
+                [
+                    "/wiki/Alitalia",
+                    "/wiki/Air_Berlin"
+                ],
+                [
+                    {
+                        "entity id": "Q153975",
+                        "label": "Alitalia"
+                    },
+                    {
+                        "entity id": "Q156829",
+                        "label": "Air Berlin"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "10",
+                []
+            ],
+            [
+                "D\u00fcsseldorf , Germany",
+                [
+                    "/wiki/D\u00fcsseldorf_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q58226",
+                        "label": "D\u00fcsseldorf Airport"
+                    }
+                ]
+            ],
+            [
+                "182.231",
+                []
+            ],
+            [
+                "Alitalia , Air Berlin",
+                [
+                    "/wiki/Alitalia",
+                    "/wiki/Air_Berlin"
+                ],
+                [
+                    {
+                        "entity id": "Q153975",
+                        "label": "Alitalia"
+                    },
+                    {
+                        "entity id": "Q156829",
+                        "label": "Air Berlin"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "11",
+                []
+            ],
+            [
+                "London-City , United Kingdom",
+                [
+                    "/wiki/London_City_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q8982",
+                        "label": "London City Airport"
+                    }
+                ]
+            ],
+            [
+                "180.872",
+                []
+            ],
+            [
+                "Alitalia",
+                [
+                    "/wiki/Alitalia"
+                ],
+                [
+                    {
+                        "entity id": "Q153975",
+                        "label": "Alitalia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "12",
+                []
+            ],
+            [
+                "Vienna , Austria",
+                [
+                    "/wiki/Vienna_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q32999",
+                        "label": "Wien-Schwechat Airport"
+                    }
+                ]
+            ],
+            [
+                "119.960",
+                []
+            ],
+            [
+                "Niki",
+                [
+                    "/wiki/Niki_(airline)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "13",
+                []
+            ],
+            [
+                "Bucharest , Romania",
+                [
+                    "/wiki/Henri_Coand\u0103_International_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q257631",
+                        "label": "Henri Coand\u0103 International Airport"
+                    }
+                ]
+            ],
+            [
+                "103.718",
+                []
+            ],
+            [
+                "Alitalia , Blue Air",
+                [
+                    "/wiki/Alitalia",
+                    "/wiki/Blue_Air"
+                ],
+                [
+                    {
+                        "entity id": "Q153975",
+                        "label": "Alitalia"
+                    },
+                    {
+                        "entity id": "Q804561",
+                        "label": "Blue Air"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "14",
+                []
+            ],
+            [
+                "Dublin , Ireland",
+                [
+                    "/wiki/Dublin_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q178021",
+                        "label": "Dublin Airport"
+                    }
+                ]
+            ],
+            [
+                "99.335",
+                []
+            ],
+            [
+                "Aer Lingus",
+                [
+                    "/wiki/Aer_Lingus"
+                ],
+                [
+                    {
+                        "entity id": "Q83716",
+                        "label": "Aer Lingus"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "15",
+                []
+            ],
+            [
+                "Stockholm-Arlanda , Sweden",
+                [
+                    "/wiki/Stockholm_Arlanda_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q223499",
+                        "label": "Stockholm Arlanda Airport"
+                    }
+                ]
+            ],
+            [
+                "87.981",
+                []
+            ],
+            [
+                "Scandinavian Airlines",
+                [
+                    "/wiki/Scandinavian_Airlines"
+                ],
+                [
+                    {
+                        "entity id": "Q187854",
+                        "label": "Scandinavian Airlines"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "16",
+                []
+            ],
+            [
+                "Malta , Malta",
+                [
+                    "/wiki/Malta_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q14704721",
+                        "label": "Malta Airport (Montana)"
+                    }
+                ]
+            ],
+            [
+                "78.030",
+                []
+            ],
+            [
+                "Air Malta",
+                [
+                    "/wiki/Air_Malta"
+                ],
+                [
+                    {
+                        "entity id": "Q221604",
+                        "label": "Air Malta"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "17",
+                []
+            ],
+            [
+                "Barcelona , Spain",
+                [
+                    "/wiki/Barcelona_El_Prat_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q56973",
+                        "label": "Josep Tarradellas Airport Barcelona-El Prat"
+                    }
+                ]
+            ],
+            [
+                "66.538",
+                []
+            ],
+            [
+                "Alitalia",
+                [
+                    "/wiki/Alitalia"
+                ],
+                [
+                    {
+                        "entity id": "Q153975",
+                        "label": "Alitalia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "18",
+                []
+            ],
+            [
+                "Munich , Germany",
+                [
+                    "/wiki/Munich_Airport"
+                ],
+                [
+                    {
+                        "entity id": "Q131402",
+                        "label": "Munich Airport"
+                    }
+                ]
+            ],
+            [
+                "62.969",
+                []
+            ],
+            [
+                "Meridiana",
+                [
+                    "/wiki/Meridiana"
+                ],
+                [
+                    {
+                        "entity id": "Q972979",
+                        "label": "Alpha Coronae Australis"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "",
+    "section_text": "",
+    "uid": "Linate_Airport_2",
+    "intro": "Milan Linate Airport (IATA: LIN, ICAO: LIML) is the third international airport of Milan, the second-largest city and largest urban area of Italy, behind Malpensa Airport and Orio al Serio Airport. It served 9,233,475 passengers in 2018, being the fifth busiest airport in Italy, and is used as a base by Alitalia and Alitalia CityLiner."
+}

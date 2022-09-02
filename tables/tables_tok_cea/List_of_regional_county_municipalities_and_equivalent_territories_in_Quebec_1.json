@@ -1,0 +1,827 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_regional_county_municipalities_and_equivalent_territories_in_Quebec",
+    "title": "List of regional county municipalities and equivalent territories in Quebec",
+    "header": [
+        [
+            "Region",
+            []
+        ],
+        [
+            "Type",
+            []
+        ],
+        [
+            "Code",
+            []
+        ],
+        [
+            "Name",
+            []
+        ],
+        [
+            "Major communities",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "02 Saguenay- Lac-Saint-Jean",
+                [
+                    "/wiki/Saguenay\u2013Lac-Saint-Jean"
+                ],
+                [
+                    {
+                        "entity id": "Q615914",
+                        "label": "Saguenay\u2013Lac-Saint-Jean"
+                    }
+                ]
+            ],
+            [
+                "TE",
+                []
+            ],
+            [
+                "941",
+                []
+            ],
+            [
+                "Saguenay",
+                [
+                    "/wiki/Saguenay,_Quebec"
+                ],
+                [
+                    {
+                        "entity id": "Q139229",
+                        "label": "Saguenay"
+                    }
+                ]
+            ],
+            [
+                "Saguenay ( V )",
+                [
+                    "/wiki/Saguenay,_Quebec"
+                ],
+                [
+                    {
+                        "entity id": "Q139229",
+                        "label": "Saguenay"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "03 Capitale-Nationale",
+                [
+                    "/wiki/Capitale-Nationale"
+                ],
+                [
+                    {
+                        "entity id": "Q680780",
+                        "label": "Capitale-Nationale"
+                    }
+                ]
+            ],
+            [
+                "TE",
+                []
+            ],
+            [
+                "23",
+                []
+            ],
+            [
+                "Qu\u00e9bec",
+                [
+                    "/wiki/Qu\u00e9bec_(census_division)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Quebec ( V ) , Saint-Augustin-de-Desmaures ( V ) , L'Ancienne-Lorette ( V )",
+                [
+                    "/wiki/Quebec_City",
+                    "/wiki/Saint-Augustin-de-Desmaures",
+                    "/wiki/L'Ancienne-Lorette,_Quebec"
+                ],
+                [
+                    {
+                        "entity id": "Q2145",
+                        "label": "Quebec City"
+                    },
+                    {
+                        "entity id": "Q142102",
+                        "label": "Saint-Augustin-de-Desmaures"
+                    },
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "04 Mauricie",
+                [
+                    "/wiki/Mauricie"
+                ],
+                [
+                    {
+                        "entity id": "Q510572",
+                        "label": "Mauricie"
+                    }
+                ]
+            ],
+            [
+                "TE",
+                []
+            ],
+            [
+                "36",
+                []
+            ],
+            [
+                "Shawinigan",
+                [
+                    "/wiki/Shawinigan"
+                ],
+                [
+                    {
+                        "entity id": "Q141980",
+                        "label": "Shawinigan"
+                    }
+                ]
+            ],
+            [
+                "Shawinigan",
+                [
+                    "/wiki/Shawinigan"
+                ],
+                [
+                    {
+                        "entity id": "Q141980",
+                        "label": "Shawinigan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "04 Mauricie",
+                [
+                    "/wiki/Mauricie"
+                ],
+                [
+                    {
+                        "entity id": "Q510572",
+                        "label": "Mauricie"
+                    }
+                ]
+            ],
+            [
+                "TE",
+                []
+            ],
+            [
+                "371",
+                []
+            ],
+            [
+                "Trois-Rivi\u00e8res",
+                [
+                    "/wiki/Trois-Rivi\u00e8res"
+                ],
+                [
+                    {
+                        "entity id": "Q44012",
+                        "label": "Trois-Rivi\u00e8res"
+                    }
+                ]
+            ],
+            [
+                "Trois-Rivi\u00e8res",
+                [
+                    "/wiki/Trois-Rivi\u00e8res"
+                ],
+                [
+                    {
+                        "entity id": "Q44012",
+                        "label": "Trois-Rivi\u00e8res"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "04 Mauricie",
+                [
+                    "/wiki/Mauricie"
+                ],
+                [
+                    {
+                        "entity id": "Q510572",
+                        "label": "Mauricie"
+                    }
+                ]
+            ],
+            [
+                "TE",
+                []
+            ],
+            [
+                "90",
+                []
+            ],
+            [
+                "La Tuque",
+                [
+                    "/wiki/La_Tuque_(census_division)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "La Tuque ( V )",
+                [
+                    "/wiki/La_Tuque,_Quebec"
+                ],
+                [
+                    {
+                        "entity id": "Q141769",
+                        "label": "La Tuque"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "05 Estrie",
+                [
+                    "/wiki/Estrie"
+                ],
+                [
+                    {
+                        "entity id": "Q1122368",
+                        "label": "Estrie"
+                    }
+                ]
+            ],
+            [
+                "TE",
+                []
+            ],
+            [
+                "43",
+                []
+            ],
+            [
+                "Sherbrooke",
+                [
+                    "/wiki/Sherbrooke"
+                ],
+                [
+                    {
+                        "entity id": "Q139473",
+                        "label": "Sherbrooke"
+                    }
+                ]
+            ],
+            [
+                "Sherbrooke ( V )",
+                [
+                    "/wiki/Sherbrooke"
+                ],
+                [
+                    {
+                        "entity id": "Q139473",
+                        "label": "Sherbrooke"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "06 Montr\u00e9al",
+                [
+                    "/wiki/Urban_agglomeration_of_Montreal"
+                ],
+                [
+                    {
+                        "entity id": "Q2826806",
+                        "label": "Urban agglomeration of Montreal"
+                    }
+                ]
+            ],
+            [
+                "TE",
+                []
+            ],
+            [
+                "66",
+                []
+            ],
+            [
+                "Montr\u00e9al",
+                [
+                    "/wiki/Urban_agglomeration_of_Montreal"
+                ],
+                [
+                    {
+                        "entity id": "Q2826806",
+                        "label": "Urban agglomeration of Montreal"
+                    }
+                ]
+            ],
+            [
+                "Montreal ( V ) , Westmount ( V ) , Montreal West ( V ) , C\u00f4te Saint-Luc ( V ) , Hampstead ( V ) , Mount Royal ( V ) , Dorval ( V ) , Pointe-Claire ( V ) , Kirkland ( V ) , Beaconsfield ( V ) , Sainte-Anne-de-Bellevue ( V ) , Dollard-des-Ormeaux ( V )",
+                [
+                    "/wiki/Montreal",
+                    "/wiki/Westmount,_Quebec",
+                    "/wiki/Montreal_West,_Quebec",
+                    "/wiki/C\u00f4te_Saint-Luc",
+                    "/wiki/Hampstead,_Quebec",
+                    "/wiki/Mount_Royal,_Quebec",
+                    "/wiki/Dorval",
+                    "/wiki/Pointe-Claire",
+                    "/wiki/Kirkland,_Quebec",
+                    "/wiki/Beaconsfield,_Quebec",
+                    "/wiki/Sainte-Anne-de-Bellevue,_Quebec",
+                    "/wiki/Dollard-des-Ormeaux"
+                ],
+                [
+                    {
+                        "entity id": "Q340",
+                        "label": "Montreal"
+                    },
+                    {
+                        "entity id": "Q139497",
+                        "label": "Westmount"
+                    },
+                    {},
+                    {
+                        "entity id": "Q139588",
+                        "label": "C\u00f4te-Saint-Luc"
+                    },
+                    {
+                        "entity id": "Q139101",
+                        "label": "Hampstead"
+                    },
+                    {
+                        "entity id": "Q139088",
+                        "label": "Mount Royal"
+                    },
+                    {
+                        "entity id": "Q141963",
+                        "label": "Dorval"
+                    },
+                    {
+                        "entity id": "Q142271",
+                        "label": "Pointe-Claire"
+                    },
+                    {
+                        "entity id": "Q142117",
+                        "label": "Kirkland"
+                    },
+                    {
+                        "entity id": "Q142035",
+                        "label": "Beaconsfield"
+                    },
+                    {
+                        "entity id": "Q141500",
+                        "label": "Sainte-Anne-de-Bellevue"
+                    },
+                    {
+                        "entity id": "Q141998",
+                        "label": "Dollard-des-Ormeaux"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "07 Outaouais",
+                [
+                    "/wiki/Outaouais"
+                ],
+                [
+                    {
+                        "entity id": "Q222948",
+                        "label": "Outaouais"
+                    }
+                ]
+            ],
+            [
+                "TE",
+                []
+            ],
+            [
+                "81",
+                []
+            ],
+            [
+                "Gatineau",
+                [
+                    "/wiki/Gatineau"
+                ],
+                [
+                    {
+                        "entity id": "Q141844",
+                        "label": "Gatineau"
+                    }
+                ]
+            ],
+            [
+                "Gatineau ( V )",
+                [
+                    "/wiki/Gatineau"
+                ],
+                [
+                    {
+                        "entity id": "Q141844",
+                        "label": "Gatineau"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "08 Abitibi-T\u00e9miscamingue",
+                [
+                    "/wiki/Abitibi-T\u00e9miscamingue"
+                ],
+                [
+                    {
+                        "entity id": "Q321529",
+                        "label": "Abitibi-T\u00e9miscamingue"
+                    }
+                ]
+            ],
+            [
+                "TE",
+                []
+            ],
+            [
+                "86",
+                []
+            ],
+            [
+                "Rouyn-Noranda",
+                [
+                    "/wiki/Rouyn-Noranda"
+                ],
+                [
+                    {
+                        "entity id": "Q141804",
+                        "label": "Rouyn-Noranda"
+                    }
+                ]
+            ],
+            [
+                "Rouyn-Noranda ( V )",
+                [
+                    "/wiki/Rouyn-Noranda"
+                ],
+                [
+                    {
+                        "entity id": "Q141804",
+                        "label": "Rouyn-Noranda"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "10 Nord-du-Qu\u00e9bec",
+                [
+                    "/wiki/Nord-du-Qu\u00e9bec"
+                ],
+                [
+                    {
+                        "entity id": "Q927561",
+                        "label": "Nord-du-Qu\u00e9bec"
+                    }
+                ]
+            ],
+            [
+                "TE",
+                []
+            ],
+            [
+                "992",
+                []
+            ],
+            [
+                "Kativik",
+                [
+                    "/wiki/Kativik_(territory_equivalent_to_a_regional_county_municipality)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "10 Nord-du-Qu\u00e9bec",
+                [
+                    "/wiki/Nord-du-Qu\u00e9bec"
+                ],
+                [
+                    {
+                        "entity id": "Q927561",
+                        "label": "Nord-du-Qu\u00e9bec"
+                    }
+                ]
+            ],
+            [
+                "TE",
+                []
+            ],
+            [
+                "993",
+                []
+            ],
+            [
+                "Eeyou Istchee Baie-James",
+                [
+                    "/wiki/Eeyou_Istchee_James_Bay_Territory"
+                ],
+                [
+                    {
+                        "entity id": "Q5347180",
+                        "label": "Eeyou Istchee James Bay Territory"
+                    }
+                ]
+            ],
+            [
+                "Chibougamau ( V )",
+                [
+                    "/wiki/Chibougamau"
+                ],
+                [
+                    {
+                        "entity id": "Q141918",
+                        "label": "Chibougamau"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "11 Gasp\u00e9sie- \u00celes-de-la-Madeleine",
+                [
+                    "/wiki/Gasp\u00e9sie\u2013\u00celes-de-la-Madeleine"
+                ],
+                [
+                    {
+                        "entity id": "Q728139",
+                        "label": "Gasp\u00e9sie\u2013\u00celes-de-la-Madeleine"
+                    }
+                ]
+            ],
+            [
+                "TE",
+                []
+            ],
+            [
+                "01",
+                []
+            ],
+            [
+                "Les \u00celes-de-la-Madeleine",
+                [
+                    "/wiki/Magdalen_Islands"
+                ],
+                [
+                    {
+                        "entity id": "Q1348763",
+                        "label": "Magdalen Islands"
+                    }
+                ]
+            ],
+            [
+                "Les \u00celes-de-la-Madeleine ( M )",
+                [
+                    "/wiki/Les_\u00celes-de-la-Madeleine,_Quebec"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "12 Chaudi\u00e8re-Appalaches",
+                [
+                    "/wiki/Chaudi\u00e8re-Appalaches"
+                ],
+                [
+                    {
+                        "entity id": "Q1068386",
+                        "label": "Chaudi\u00e8re-Appalaches"
+                    }
+                ]
+            ],
+            [
+                "TE",
+                []
+            ],
+            [
+                "251",
+                []
+            ],
+            [
+                "L\u00e9vis",
+                [
+                    "/wiki/L\u00e9vis,_Quebec"
+                ],
+                [
+                    {
+                        "entity id": "Q139208",
+                        "label": "L\u00e9vis"
+                    }
+                ]
+            ],
+            [
+                "L\u00e9vis ( V )",
+                [
+                    "/wiki/L\u00e9vis,_Quebec"
+                ],
+                [
+                    {
+                        "entity id": "Q139208",
+                        "label": "L\u00e9vis"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "13 Laval",
+                [
+                    "/wiki/Laval,_Quebec"
+                ],
+                [
+                    {
+                        "entity id": "Q141810",
+                        "label": "Laval"
+                    }
+                ]
+            ],
+            [
+                "TE",
+                []
+            ],
+            [
+                "65",
+                []
+            ],
+            [
+                "Laval",
+                [
+                    "/wiki/Laval,_Quebec"
+                ],
+                [
+                    {
+                        "entity id": "Q141810",
+                        "label": "Laval"
+                    }
+                ]
+            ],
+            [
+                "Laval ( V )",
+                [
+                    "/wiki/Laval,_Quebec"
+                ],
+                [
+                    {
+                        "entity id": "Q141810",
+                        "label": "Laval"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "15 Laurentides",
+                [
+                    "/wiki/Laurentides"
+                ],
+                [
+                    {
+                        "entity id": "Q2304022",
+                        "label": "Laurentides"
+                    }
+                ]
+            ],
+            [
+                "TE",
+                []
+            ],
+            [
+                "74",
+                []
+            ],
+            [
+                "Mirabel",
+                [
+                    "/wiki/Mirabel,_Quebec"
+                ],
+                [
+                    {
+                        "entity id": "Q141921",
+                        "label": "Mirabel"
+                    }
+                ]
+            ],
+            [
+                "Mirabel",
+                [
+                    "/wiki/Mirabel,_Quebec"
+                ],
+                [
+                    {
+                        "entity id": "Q141921",
+                        "label": "Mirabel"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "16 Mont\u00e9r\u00e9gie",
+                [
+                    "/wiki/Mont\u00e9r\u00e9gie"
+                ],
+                [
+                    {
+                        "entity id": "Q931679",
+                        "label": "Mont\u00e9r\u00e9gie"
+                    }
+                ]
+            ],
+            [
+                "TE",
+                []
+            ],
+            [
+                "58",
+                []
+            ],
+            [
+                "Longueuil",
+                [
+                    "/wiki/Urban_agglomeration_of_Longueuil"
+                ],
+                [
+                    {
+                        "entity id": "Q2826810",
+                        "label": "Urban agglomeration of Longueuil"
+                    }
+                ]
+            ],
+            [
+                "Brossard ( V ) , Saint-Lambert ( V ) , Boucherville ( V ) , Saint-Bruno-de-Montarville ( V ) , Longueuil ( V )",
+                [
+                    "/wiki/Brossard",
+                    "/wiki/Saint-Lambert,_Quebec",
+                    "/wiki/Boucherville",
+                    "/wiki/Saint-Bruno-de-Montarville",
+                    "/wiki/Longueuil"
+                ],
+                [
+                    {
+                        "entity id": "Q139104",
+                        "label": "Brossard"
+                    },
+                    {
+                        "entity id": "Q139437",
+                        "label": "Saint-Lambert"
+                    },
+                    {
+                        "entity id": "Q141924",
+                        "label": "Boucherville"
+                    },
+                    {
+                        "entity id": "Q142333",
+                        "label": "Saint-Bruno-de-Montarville"
+                    },
+                    {
+                        "entity id": "Q139398",
+                        "label": "Longueuil"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "List -- TEs",
+    "section_text": "",
+    "uid": "List_of_regional_county_municipalities_and_equivalent_territories_in_Quebec_1",
+    "intro": "This is a list of the regional county municipalities (RCM or MRC) and equivalent territories (TE) in the province of Quebec, Canada. They are given along with their geographical codes as specified by the Ministry of Municipal Affairs, Regions and Land Occupancy, and the administrative regions to which they belong. RCMs are units of government at the supralocal level. However, not all municipalities belong to an RCM. In order to use RCMs for statistical purposes, some municipalities (mostly Indian reserves) are viewed as belonging to RCMs they do not belong to legally. The possibly enlarged RCMs are called municipalit\u00e9s r\u00e9gionales de comt\u00e9 g\u00e9ographiques (MRCG) as opposed to the legal ones known as municipalit\u00e9s r\u00e9gionales de comt\u00e9 juridiques (MRCJ). The remaining municipalities are grouped into territories equivalent to an RCM (French: territoires \u00e9quivalents \u00e0 une MRC) or TEs, which are also considered MRCGs. This way, MRCGs cover the entire territory of Quebec and do not overlap. There are 86 RCMs and 18 TEs in Quebec, for a total of 104 MRCGs. Twelve of the TEs correspond exactly to cities or urban agglomerations, and another two, Qu\u00e9bec and La Tuque almost do. The only four exceptional cases are the TEs of Jam\u00e9sie, Kativik and Eeyou Istchee. These cover large areas with many, mostly small, municipalities."
+}

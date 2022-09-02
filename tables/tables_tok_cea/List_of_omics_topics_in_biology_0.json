@@ -1,0 +1,873 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_omics_topics_in_biology",
+    "title": "List of omics topics in biology",
+    "header": [
+        [
+            "-ome",
+            []
+        ],
+        [
+            "Field of study ( -omics )",
+            []
+        ],
+        [
+            "Collection of",
+            []
+        ],
+        [
+            "Parent subject",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Allergenome",
+                []
+            ],
+            [
+                "Allergenomics",
+                []
+            ],
+            [
+                "Proteomics of allergens",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Bibliome",
+                [
+                    "/wiki/Bibliome"
+                ],
+                [
+                    {
+                        "entity id": "Q2301073",
+                        "label": "bibliome"
+                    }
+                ]
+            ],
+            [
+                "Bibliomics",
+                []
+            ],
+            [
+                "Scientific bibliographic data",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Trialome",
+                []
+            ],
+            [
+                "Medicine",
+                [
+                    "/wiki/Medicine"
+                ],
+                [
+                    {
+                        "entity id": "Q11190",
+                        "label": "medicine"
+                    }
+                ]
+            ],
+            [
+                "Human interventional trials data from clinical trial registries extended with trial results and links to resulting publications",
+                [
+                    "/wiki/Clinical_trial",
+                    "/wiki/Clinical_trial_registry"
+                ],
+                [
+                    {
+                        "entity id": "Q30612",
+                        "label": "clinical trial"
+                    },
+                    {
+                        "entity id": "Q2138567",
+                        "label": "clinical trials registry"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Connectome",
+                [
+                    "/wiki/Connectome"
+                ],
+                [
+                    {
+                        "entity id": "Q1292103",
+                        "label": "connectome"
+                    }
+                ]
+            ],
+            [
+                "Connectomics",
+                [
+                    "/wiki/Connectomics"
+                ],
+                [
+                    {
+                        "entity id": "Q2993446",
+                        "label": "connectomics"
+                    }
+                ]
+            ],
+            [
+                "Structural and functional brain connectivity at different spatiotemporal scales",
+                [
+                    "/wiki/Brain"
+                ],
+                [
+                    {
+                        "entity id": "Q1073",
+                        "label": "brain"
+                    }
+                ]
+            ],
+            [
+                "Neuroscience",
+                [
+                    "/wiki/Neuroscience"
+                ],
+                [
+                    {
+                        "entity id": "Q207011",
+                        "label": "neuroscience"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Cytome",
+                [
+                    "/wiki/Cytome"
+                ],
+                [
+                    {
+                        "entity id": "Q6946",
+                        "label": "Cytomegalovirus"
+                    }
+                ]
+            ],
+            [
+                "Cytomics",
+                [
+                    "/wiki/Cytomics"
+                ],
+                [
+                    {
+                        "entity id": "Q5201369",
+                        "label": "Cytomics"
+                    }
+                ]
+            ],
+            [
+                "Cellular systems of an organism",
+                [
+                    "/wiki/Cell_(biology)",
+                    "/wiki/Organism"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q7239",
+                        "label": "organism"
+                    }
+                ]
+            ],
+            [
+                "Cytology",
+                [
+                    "/wiki/Cell_biology"
+                ],
+                [
+                    {
+                        "entity id": "Q7141",
+                        "label": "cell biology"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Editome",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "RNA editing sites",
+                [
+                    "/wiki/RNA_editing"
+                ],
+                [
+                    {
+                        "entity id": "Q14886350",
+                        "label": "RNA modification"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Embryome",
+                [
+                    "/wiki/Embryome"
+                ],
+                [
+                    {
+                        "entity id": "Q18606842",
+                        "label": "Embryometra"
+                    }
+                ]
+            ],
+            [
+                "Embryomics",
+                [
+                    "/wiki/Embryomics"
+                ],
+                [
+                    {
+                        "entity id": "Q5370231",
+                        "label": "Embryomics"
+                    }
+                ]
+            ],
+            [
+                "Cell lineages of embryonic cells , genes expressed and antigens present during development",
+                []
+            ],
+            [
+                "Embryology",
+                [
+                    "/wiki/Embryology"
+                ],
+                [
+                    {
+                        "entity id": "Q131683",
+                        "label": "embryology"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Envirome",
+                [
+                    "/wiki/Envirome"
+                ],
+                [
+                    {
+                        "entity id": "Q17012259",
+                        "label": "Envirome"
+                    }
+                ]
+            ],
+            [
+                "Enviromics",
+                [
+                    "/wiki/Enviromics"
+                ],
+                [
+                    {
+                        "entity id": "Q99610183",
+                        "label": "Enviromics in breeding: applications and perspectives on envirotypic-assisted selection"
+                    }
+                ]
+            ],
+            [
+                "Gene related environment factors ( envirome )",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Epigenome",
+                [
+                    "/wiki/Epigenome"
+                ],
+                [
+                    {
+                        "entity id": "Q3589155",
+                        "label": "epigenome"
+                    }
+                ]
+            ],
+            [
+                "Epigenomics",
+                [
+                    "/wiki/Epigenomics"
+                ],
+                [
+                    {
+                        "entity id": "Q20737165",
+                        "label": "Epigenomics"
+                    }
+                ]
+            ],
+            [
+                "Epigenetic modifications",
+                [
+                    "/wiki/Epigenetics"
+                ],
+                [
+                    {
+                        "entity id": "Q26939",
+                        "label": "epigenetics"
+                    }
+                ]
+            ],
+            [
+                "Molecular genetics",
+                [
+                    "/wiki/Molecular_genetics"
+                ],
+                [
+                    {
+                        "entity id": "Q210506",
+                        "label": "molecular genetics"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Exposome ( 2005 )",
+                [
+                    "/wiki/Exposome"
+                ],
+                [
+                    {
+                        "entity id": "Q1384754",
+                        "label": "exposome"
+                    }
+                ]
+            ],
+            [
+                "Exposomics",
+                []
+            ],
+            [
+                "An individual 's environmental exposures , including in the prenatal environment",
+                [
+                    "/wiki/Gene-environment_correlation",
+                    "/wiki/Prenatal"
+                ],
+                [
+                    {
+                        "entity id": "Q5531044",
+                        "label": "Gene-environment correlation"
+                    },
+                    {
+                        "entity id": "Q15760059",
+                        "label": "Prenatal Diagnosis"
+                    }
+                ]
+            ],
+            [
+                "Molecular genetics",
+                [
+                    "/wiki/Molecular_genetics"
+                ],
+                [
+                    {
+                        "entity id": "Q210506",
+                        "label": "molecular genetics"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Exposome ( 2009 )",
+                [
+                    "/wiki/Exposome"
+                ],
+                [
+                    {
+                        "entity id": "Q1384754",
+                        "label": "exposome"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Composite occupational exposures and occupational health problems",
+                [
+                    "/wiki/Occupational_exposure"
+                ],
+                [
+                    {
+                        "entity id": "Q26989042",
+                        "label": "occupational exposure"
+                    }
+                ]
+            ],
+            [
+                "Occupational safety and health",
+                [
+                    "/wiki/Occupational_safety_and_health"
+                ],
+                [
+                    {
+                        "entity id": "Q629029",
+                        "label": "occupational health and safety"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Exome",
+                [
+                    "/wiki/Exome"
+                ],
+                [
+                    {
+                        "entity id": "Q417664",
+                        "label": "exome"
+                    }
+                ]
+            ],
+            [
+                "Exomics",
+                []
+            ],
+            [
+                "Exons in a genome",
+                [
+                    "/wiki/Exon"
+                ],
+                [
+                    {
+                        "entity id": "Q373027",
+                        "label": "exon"
+                    }
+                ]
+            ],
+            [
+                "Molecular Genetics",
+                [
+                    "/wiki/Molecular_Genetics"
+                ],
+                [
+                    {
+                        "entity id": "Q210506",
+                        "label": "molecular genetics"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Foodome",
+                [
+                    "/wiki/Foodome"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Foodomics",
+                [
+                    "/wiki/Foodomics"
+                ],
+                [
+                    {
+                        "entity id": "Q15813877",
+                        "label": "Foodomics"
+                    }
+                ]
+            ],
+            [
+                "Food and Nutrition issues related to bioactivity , quality , safety and traceability of foods through the application and integration of advanced omics technologies to improve consumers well-being , health , and confidence",
+                [
+                    "/wiki/Food",
+                    "/wiki/Nutrition"
+                ],
+                [
+                    {
+                        "entity id": "Q2095",
+                        "label": "food"
+                    },
+                    {
+                        "entity id": "Q2138622",
+                        "label": "nutrition"
+                    }
+                ]
+            ],
+            [
+                "Nutrition",
+                [
+                    "/wiki/Nutrition"
+                ],
+                [
+                    {
+                        "entity id": "Q2138622",
+                        "label": "nutrition"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Genome",
+                [
+                    "/wiki/Genome"
+                ],
+                [
+                    {
+                        "entity id": "Q7020",
+                        "label": "genome"
+                    }
+                ]
+            ],
+            [
+                "Genomics ( Classical genetics )",
+                [
+                    "/wiki/Genomics",
+                    "/wiki/Classical_genetics"
+                ],
+                [
+                    {
+                        "entity id": "Q222046",
+                        "label": "genomics"
+                    },
+                    {
+                        "entity id": "Q54881",
+                        "label": "classical genetics"
+                    }
+                ]
+            ],
+            [
+                "Genes ( DNA sequences / Chromosomes )",
+                [
+                    "/wiki/Gene",
+                    "/wiki/DNA_sequence",
+                    "/wiki/Chromosome"
+                ],
+                [
+                    {
+                        "entity id": "Q7187",
+                        "label": "gene"
+                    },
+                    {
+                        "entity id": "Q23933850",
+                        "label": "DNA Sequence"
+                    },
+                    {
+                        "entity id": "Q37748",
+                        "label": "chromosome"
+                    }
+                ]
+            ],
+            [
+                "Genetics",
+                [
+                    "/wiki/Genetics"
+                ],
+                [
+                    {
+                        "entity id": "Q7162",
+                        "label": "genetics"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Glycome",
+                [
+                    "/wiki/Glycome"
+                ],
+                [
+                    {
+                        "entity id": "Q3063952",
+                        "label": "glycome"
+                    }
+                ]
+            ],
+            [
+                "Glycomics",
+                [
+                    "/wiki/Glycomics"
+                ],
+                [
+                    {
+                        "entity id": "Q741206",
+                        "label": "glycomics"
+                    }
+                ]
+            ],
+            [
+                "Glycans",
+                [
+                    "/wiki/Glycan"
+                ],
+                [
+                    {
+                        "entity id": "Q2553138",
+                        "label": "glycan"
+                    }
+                ]
+            ],
+            [
+                "Glycobiology",
+                [
+                    "/wiki/Glycobiology"
+                ],
+                [
+                    {
+                        "entity id": "Q899224",
+                        "label": "glycobiology"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Hologenome",
+                [
+                    "/wiki/Hologenome_theory_of_evolution"
+                ],
+                [
+                    {
+                        "entity id": "Q13217976",
+                        "label": "Hologenome theory of evolution"
+                    }
+                ]
+            ],
+            [
+                "Hologenomics",
+                [
+                    "/wiki/Hologenomics"
+                ],
+                [
+                    {
+                        "entity id": "Q28456098",
+                        "label": "Hologenomics"
+                    }
+                ]
+            ],
+            [
+                "Genomes of community members ( i.e. , holobionts )",
+                [
+                    "/wiki/Holobiont"
+                ],
+                [
+                    {
+                        "entity id": "Q25345055",
+                        "label": "holobiont"
+                    }
+                ]
+            ],
+            [
+                "Metagenomics",
+                [
+                    "/wiki/Metagenomics"
+                ],
+                [
+                    {
+                        "entity id": "Q903778",
+                        "label": "metagenomics"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Interferome",
+                [
+                    "/wiki/Interferome"
+                ],
+                [
+                    {
+                        "entity id": "Q6046408",
+                        "label": "Interferome"
+                    }
+                ]
+            ],
+            [
+                "Interferomics",
+                [
+                    "/wiki/Interferomics"
+                ],
+                [
+                    {
+                        "entity id": "Q6046417",
+                        "label": "Interferomics"
+                    }
+                ]
+            ],
+            [
+                "Interferons",
+                [
+                    "/wiki/Interferon"
+                ],
+                [
+                    {
+                        "entity id": "Q188269",
+                        "label": "interferon"
+                    }
+                ]
+            ],
+            [
+                "Immunology",
+                [
+                    "/wiki/Immunology"
+                ],
+                [
+                    {
+                        "entity id": "Q101929",
+                        "label": "immunology"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Interactome",
+                [
+                    "/wiki/Interactome"
+                ],
+                [
+                    {
+                        "entity id": "Q841382",
+                        "label": "interactome"
+                    }
+                ]
+            ],
+            [
+                "Interactomics",
+                [
+                    "/wiki/Interactomics"
+                ],
+                [
+                    {
+                        "entity id": "Q1063716",
+                        "label": "interactomics"
+                    }
+                ]
+            ],
+            [
+                "All interactions",
+                []
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Ionome",
+                []
+            ],
+            [
+                "Ionomics",
+                [
+                    "/wiki/Ionomics"
+                ],
+                [
+                    {
+                        "entity id": "Q3801432",
+                        "label": "Ionomics"
+                    }
+                ]
+            ],
+            [
+                "Inorganic biomolecules",
+                []
+            ],
+            [
+                "Molecular Biology",
+                [
+                    "/wiki/Molecular_Biology"
+                ],
+                [
+                    {
+                        "entity id": "Q7202",
+                        "label": "molecular biology"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Kinome",
+                [
+                    "/wiki/Kinome"
+                ],
+                [
+                    {
+                        "entity id": "Q3197188",
+                        "label": "kinome"
+                    }
+                ]
+            ],
+            [
+                "Kinomics",
+                []
+            ],
+            [
+                "Kinases",
+                [
+                    "/wiki/Kinase"
+                ],
+                [
+                    {
+                        "entity id": "Q421851",
+                        "label": "kinase"
+                    }
+                ]
+            ],
+            [
+                "Molecular Biology",
+                [
+                    "/wiki/Molecular_Biology"
+                ],
+                [
+                    {
+                        "entity id": "Q7202",
+                        "label": "molecular biology"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "List of topics",
+    "section_text": "",
+    "uid": "List_of_omics_topics_in_biology_0",
+    "intro": "Inspired by the terms genome and genomics, other words to describe complete biological datasets, mostly sets of biomolecules originating from one organism, have been coined with the suffix -ome and -omics. Some of these terms are related to each other in a hierarchical fashion. For example, the genome contains the ORFeome, which gives rise to the transcriptome, which is translated to the proteome. Other terms are overlapping and refer to the structure and/or function of a subset of proteins (e.g. glycome, kinome). An omicist is a scientist who studies omeomics, cataloging all the omics subfields. Omics.org is a Wiki that collects and alphabetically lists all the known omes and omics."
+}

@@ -1,0 +1,542 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Allsvenskan",
+    "title": "Allsvenskan",
+    "header": [
+        [
+            "Club",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Stadium",
+            []
+        ],
+        [
+            "Capacity",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "AFC Eskilstuna",
+                []
+            ],
+            [
+                "Eskilstuna",
+                [
+                    "/wiki/Eskilstuna_Municipality"
+                ],
+                [
+                    {
+                        "entity id": "Q503144",
+                        "label": "Eskilstuna Municipality"
+                    }
+                ]
+            ],
+            [
+                "Tunavallen",
+                [
+                    "/wiki/Tunavallen"
+                ],
+                [
+                    {
+                        "entity id": "Q1593861",
+                        "label": "Tunavallen"
+                    }
+                ]
+            ],
+            [
+                "7,800",
+                []
+            ]
+        ],
+        [
+            [
+                "AIK",
+                []
+            ],
+            [
+                "Solna",
+                [
+                    "/wiki/Solna"
+                ],
+                [
+                    {
+                        "entity id": "Q25797",
+                        "label": "\u017dilina"
+                    }
+                ]
+            ],
+            [
+                "Friends Arena",
+                [
+                    "/wiki/Friends_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q1138684",
+                        "label": "Friends Arena"
+                    }
+                ]
+            ],
+            [
+                "54,000",
+                []
+            ]
+        ],
+        [
+            [
+                "BK H\u00e4cken",
+                []
+            ],
+            [
+                "Gothenburg",
+                [
+                    "/wiki/Gothenburg"
+                ],
+                [
+                    {
+                        "entity id": "Q25287",
+                        "label": "Gothenburg"
+                    }
+                ]
+            ],
+            [
+                "Bravida Arena",
+                [
+                    "/wiki/Bravida_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q18822195",
+                        "label": "Bravida Arena"
+                    }
+                ]
+            ],
+            [
+                "6,500",
+                []
+            ]
+        ],
+        [
+            [
+                "Djurg\u00e5rdens IF",
+                []
+            ],
+            [
+                "Stockholm",
+                [
+                    "/wiki/Stockholm"
+                ],
+                [
+                    {
+                        "entity id": "Q1754",
+                        "label": "Stockholm"
+                    }
+                ]
+            ],
+            [
+                "Tele2 Arena",
+                [
+                    "/wiki/Tele2_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q2701834",
+                        "label": "Tele2 Arena"
+                    }
+                ]
+            ],
+            [
+                "33,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Falkenbergs FF",
+                []
+            ],
+            [
+                "Falkenberg",
+                [
+                    "/wiki/Falkenberg"
+                ],
+                [
+                    {
+                        "entity id": "Q54766",
+                        "label": "Falkenberg"
+                    }
+                ]
+            ],
+            [
+                "Falcon Alkoholfri Arena",
+                [
+                    "/wiki/Falcon_Alkoholfri_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q23807273",
+                        "label": "Falcon Alkoholfri Arena"
+                    }
+                ]
+            ],
+            [
+                "5,500",
+                []
+            ]
+        ],
+        [
+            [
+                "GIF Sundsvall",
+                []
+            ],
+            [
+                "Sundsvall",
+                [
+                    "/wiki/Sundsvall"
+                ],
+                [
+                    {
+                        "entity id": "Q26476",
+                        "label": "Sundsvall"
+                    }
+                ]
+            ],
+            [
+                "Norrporten Arena",
+                [
+                    "/wiki/Norrporten_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q1780359",
+                        "label": "NP3 Arena"
+                    }
+                ]
+            ],
+            [
+                "7,700",
+                []
+            ]
+        ],
+        [
+            [
+                "Hammarby IF",
+                []
+            ],
+            [
+                "Stockholm",
+                []
+            ],
+            [
+                "Tele2 Arena",
+                []
+            ],
+            [
+                "33,000",
+                []
+            ]
+        ],
+        [
+            [
+                "Helsingborgs IF",
+                []
+            ],
+            [
+                "Helsingborg",
+                [
+                    "/wiki/Helsingborg"
+                ],
+                [
+                    {
+                        "entity id": "Q25411",
+                        "label": "Helsingborg"
+                    }
+                ]
+            ],
+            [
+                "Olympia",
+                [
+                    "/wiki/Olympia_(Helsingborg)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "16,500",
+                []
+            ]
+        ],
+        [
+            [
+                "IF Elfsborg",
+                []
+            ],
+            [
+                "Bor\u00e5s",
+                [
+                    "/wiki/Bor\u00e5s"
+                ],
+                [
+                    {
+                        "entity id": "Q26040",
+                        "label": "Bor\u00e5s"
+                    }
+                ]
+            ],
+            [
+                "Bor\u00e5s Arena",
+                [
+                    "/wiki/Bor\u00e5s_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q627087",
+                        "label": "Bor\u00e5s Arena"
+                    }
+                ]
+            ],
+            [
+                "16,899",
+                []
+            ]
+        ],
+        [
+            [
+                "IFK G\u00f6teborg",
+                []
+            ],
+            [
+                "Gothenburg",
+                []
+            ],
+            [
+                "Gamla Ullevi",
+                [
+                    "/wiki/Gamla_Ullevi"
+                ],
+                [
+                    {
+                        "entity id": "Q165944",
+                        "label": "Gamla Ullevi"
+                    }
+                ]
+            ],
+            [
+                "18,900",
+                []
+            ]
+        ],
+        [
+            [
+                "IFK Norrk\u00f6ping",
+                []
+            ],
+            [
+                "Norrk\u00f6ping",
+                [
+                    "/wiki/Norrk\u00f6ping"
+                ],
+                [
+                    {
+                        "entity id": "Q25724",
+                        "label": "Norrk\u00f6ping"
+                    }
+                ]
+            ],
+            [
+                "\u00d6stg\u00f6taporten",
+                [
+                    "/wiki/\u00d6stg\u00f6taporten"
+                ],
+                [
+                    {
+                        "entity id": "Q571624",
+                        "label": "Idrottsparken"
+                    }
+                ]
+            ],
+            [
+                "15,734",
+                []
+            ]
+        ],
+        [
+            [
+                "IK Sirius",
+                []
+            ],
+            [
+                "Uppsala",
+                [
+                    "/wiki/Uppsala"
+                ],
+                [
+                    {
+                        "entity id": "Q25286",
+                        "label": "Uppsala"
+                    }
+                ]
+            ],
+            [
+                "Studenternas IP",
+                [
+                    "/wiki/Studenternas_IP"
+                ],
+                [
+                    {
+                        "entity id": "Q4444527",
+                        "label": "Studenternas IP"
+                    }
+                ]
+            ],
+            [
+                "6,300",
+                []
+            ]
+        ],
+        [
+            [
+                "Kalmar FF",
+                []
+            ],
+            [
+                "Kalmar",
+                [
+                    "/wiki/Kalmar"
+                ],
+                [
+                    {
+                        "entity id": "Q26345",
+                        "label": "Kalmar"
+                    }
+                ]
+            ],
+            [
+                "Guldf\u00e5geln Arena",
+                [
+                    "/wiki/Guldf\u00e5geln_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q1421187",
+                        "label": "Guldf\u00e5geln Arena"
+                    }
+                ]
+            ],
+            [
+                "12,182",
+                []
+            ]
+        ],
+        [
+            [
+                "Malm\u00f6 FF",
+                []
+            ],
+            [
+                "Malm\u00f6",
+                [
+                    "/wiki/Malm\u00f6"
+                ],
+                [
+                    {
+                        "entity id": "Q2211",
+                        "label": "Malm\u00f6"
+                    }
+                ]
+            ],
+            [
+                "Eleda Stadion",
+                [
+                    "/wiki/Eleda_Stadion"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "22,500",
+                []
+            ]
+        ],
+        [
+            [
+                "\u00d6rebro SK",
+                []
+            ],
+            [
+                "\u00d6rebro",
+                [
+                    "/wiki/\u00d6rebro"
+                ],
+                [
+                    {
+                        "entity id": "Q25732",
+                        "label": "\u00d6rebro"
+                    }
+                ]
+            ],
+            [
+                "Behrn Arena",
+                [
+                    "/wiki/Behrn_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q814577",
+                        "label": "Behrn Arena"
+                    }
+                ]
+            ],
+            [
+                "12,645",
+                []
+            ]
+        ],
+        [
+            [
+                "\u00d6stersunds FK",
+                []
+            ],
+            [
+                "\u00d6stersund",
+                [
+                    "/wiki/\u00d6stersund"
+                ],
+                [
+                    {
+                        "entity id": "Q26515",
+                        "label": "\u00d6stersund"
+                    }
+                ]
+            ],
+            [
+                "J\u00e4mtkraft Arena",
+                [
+                    "/wiki/J\u00e4mtkraft_Arena"
+                ],
+                [
+                    {
+                        "entity id": "Q3435821",
+                        "label": "J\u00e4mtkraft Arena"
+                    }
+                ]
+            ],
+            [
+                "9,500",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Stadiums and locations",
+    "section_text": "Main article : List of Allsvenskan stadiums Friends Arena in Solna . Tele2 Arena in Stockholm . Eleda Stadion in Malm\u00f6 . Current team and stadiums :",
+    "uid": "Allsvenskan_2",
+    "intro": "Allsvenskan (Swedish pronunciation: [\u02c8\u00e2l\u02d0\u02ccsv\u025bn\u02d0skan]; English: the All-Swedish, also known as Fotbollsallsvenskan, English: the Football All-Swedish) is a Swedish professional league for men's association football clubs. It was founded in 1924, and is the top flight of the Swedish football league system, operating on a system of promotion and relegation with Superettan. Seasons run from late March or early April to the beginning of November, with the 16 clubs all meeting each other twice, resulting in a 30-match season, for a total of 240 matches league-wide. Allsvenskan is ranked 20th in the UEFA coefficients of leagues based on performances in European competitions over the last five years. Allsvenskan is ranked highest of the leagues in Scandinavia after Denmark in 16th place. The current champions are Djurg\u00e5rdens IF, who won the title in the 2019 season. Including the 2019 season, Allsvenskan has been running for an unbroken streak of 94 seasons[update]. Unlike many other European football leagues, the Allsvenskan did not experience an interruption in play during World War II due to Swedish neutrality in that conflict."
+}

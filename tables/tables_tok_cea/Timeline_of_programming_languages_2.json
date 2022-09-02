@@ -1,0 +1,687 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Timeline_of_programming_languages",
+    "title": "Timeline of programming languages",
+    "header": [
+        [
+            "Year",
+            []
+        ],
+        [
+            "Name",
+            []
+        ],
+        [
+            "Chief developer , company",
+            []
+        ],
+        [
+            "Predecessor ( s )",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "1960",
+                []
+            ],
+            [
+                "ALGOL 60",
+                [
+                    "/wiki/ALGOL_60"
+                ],
+                [
+                    {
+                        "entity id": "Q1209759",
+                        "label": "ALGOL 60"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "ALGOL 58",
+                []
+            ]
+        ],
+        [
+            [
+                "1960",
+                []
+            ],
+            [
+                "COBOL 61 ( implementation )",
+                [
+                    "/wiki/COBOL"
+                ],
+                [
+                    {
+                        "entity id": "Q131140",
+                        "label": "COBOL"
+                    }
+                ]
+            ],
+            [
+                "The CODASYL Committee",
+                [
+                    "/wiki/CODASYL"
+                ],
+                [
+                    {
+                        "entity id": "Q1023961",
+                        "label": "CODASYL"
+                    }
+                ]
+            ],
+            [
+                "FLOW-MATIC , COMTRAN",
+                []
+            ]
+        ],
+        [
+            [
+                "1961",
+                []
+            ],
+            [
+                "COMIT ( implementation )",
+                [
+                    "/wiki/COMIT"
+                ],
+                [
+                    {
+                        "entity id": "Q1024000",
+                        "label": "COMIT"
+                    }
+                ]
+            ],
+            [
+                "Victor Yngve",
+                [
+                    "/wiki/Victor_Yngve"
+                ],
+                [
+                    {
+                        "entity id": "Q3350971",
+                        "label": "Victor Yngve"
+                    }
+                ]
+            ],
+            [
+                "none ( unique language )",
+                []
+            ]
+        ],
+        [
+            [
+                "1962",
+                []
+            ],
+            [
+                "FORTRAN IV",
+                [
+                    "/wiki/Fortran"
+                ],
+                [
+                    {
+                        "entity id": "Q83303",
+                        "label": "Fortran"
+                    }
+                ]
+            ],
+            [
+                "IBM",
+                [
+                    "/wiki/IBM"
+                ],
+                [
+                    {
+                        "entity id": "Q37156",
+                        "label": "IBM"
+                    }
+                ]
+            ],
+            [
+                "FORTRAN II",
+                []
+            ]
+        ],
+        [
+            [
+                "1962",
+                []
+            ],
+            [
+                "APL ( concept )",
+                [
+                    "/wiki/APL_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Kenneth E. Iverson",
+                [
+                    "/wiki/Kenneth_E._Iverson"
+                ],
+                [
+                    {
+                        "entity id": "Q92629",
+                        "label": "Kenneth E. Iverson"
+                    }
+                ]
+            ],
+            [
+                "none ( unique language )",
+                []
+            ]
+        ],
+        [
+            [
+                "1962",
+                []
+            ],
+            [
+                "Simula ( concept )",
+                [
+                    "/wiki/Simula"
+                ],
+                [
+                    {
+                        "entity id": "Q212569",
+                        "label": "Simula"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "ALGOL 60",
+                []
+            ]
+        ],
+        [
+            [
+                "1962",
+                []
+            ],
+            [
+                "SNOBOL",
+                [
+                    "/wiki/SNOBOL"
+                ],
+                [
+                    {
+                        "entity id": "Q522041",
+                        "label": "SNOBOL"
+                    }
+                ]
+            ],
+            [
+                "Ralph Griswold , et al",
+                [
+                    "/wiki/Ralph_Griswold"
+                ],
+                [
+                    {
+                        "entity id": "Q92725",
+                        "label": "Ralph Griswold"
+                    }
+                ]
+            ],
+            [
+                "FORTRAN II , COMIT",
+                []
+            ]
+        ],
+        [
+            [
+                "1963",
+                []
+            ],
+            [
+                "CPL",
+                [
+                    "/wiki/Combined_Programming_Language"
+                ],
+                [
+                    {
+                        "entity id": "Q2347334",
+                        "label": "CPL"
+                    }
+                ]
+            ],
+            [
+                "Barron , Christopher Strachey , et al",
+                [
+                    "/wiki/Christopher_Strachey"
+                ],
+                [
+                    {
+                        "entity id": "Q93122",
+                        "label": "Christopher Strachey"
+                    }
+                ]
+            ],
+            [
+                "ALGOL 60",
+                []
+            ]
+        ],
+        [
+            [
+                "1963",
+                []
+            ],
+            [
+                "SNOBOL 3",
+                [
+                    "/wiki/SNOBOL"
+                ],
+                [
+                    {
+                        "entity id": "Q522041",
+                        "label": "SNOBOL"
+                    }
+                ]
+            ],
+            [
+                "Griswold , et al",
+                [
+                    "/wiki/Ralph_Griswold"
+                ],
+                [
+                    {
+                        "entity id": "Q92725",
+                        "label": "Ralph Griswold"
+                    }
+                ]
+            ],
+            [
+                "SNOBOL",
+                []
+            ]
+        ],
+        [
+            [
+                "1963",
+                []
+            ],
+            [
+                "ALGOL 68 ( concept )",
+                [
+                    "/wiki/ALGOL_68"
+                ],
+                [
+                    {
+                        "entity id": "Q2166735",
+                        "label": "ALGOL 68"
+                    }
+                ]
+            ],
+            [
+                "Adriaan van Wijngaarden , et al",
+                [
+                    "/wiki/Adriaan_van_Wijngaarden"
+                ],
+                [
+                    {
+                        "entity id": "Q93015",
+                        "label": "Adriaan van Wijngaarden"
+                    }
+                ]
+            ],
+            [
+                "ALGOL 60",
+                []
+            ]
+        ],
+        [
+            [
+                "1963",
+                []
+            ],
+            [
+                "JOSS I",
+                [
+                    "/wiki/JOSS"
+                ],
+                [
+                    {
+                        "entity id": "Q50817797",
+                        "label": "Journal of Open Source Software"
+                    }
+                ]
+            ],
+            [
+                "Cliff Shaw , RAND",
+                [
+                    "/wiki/RAND_Corporation"
+                ],
+                [
+                    {
+                        "entity id": "Q861141",
+                        "label": "RAND Corporation"
+                    }
+                ]
+            ],
+            [
+                "ALGOL 58",
+                []
+            ]
+        ],
+        [
+            [
+                "1964",
+                []
+            ],
+            [
+                "MIMIC",
+                [
+                    "/wiki/MIMIC"
+                ],
+                [
+                    {
+                        "entity id": "Q1148872",
+                        "label": "impressionist"
+                    }
+                ]
+            ],
+            [
+                "H. E. Petersen , et al",
+                []
+            ],
+            [
+                "MIDAS",
+                []
+            ]
+        ],
+        [
+            [
+                "1964",
+                []
+            ],
+            [
+                "COWSEL",
+                [
+                    "/wiki/COWSEL"
+                ],
+                [
+                    {
+                        "entity id": "Q5013542",
+                        "label": "COWSEL"
+                    }
+                ]
+            ],
+            [
+                "Rod Burstall , Robin Popplestone",
+                [
+                    "/wiki/Rod_Burstall",
+                    "/wiki/Robin_Popplestone"
+                ],
+                [
+                    {
+                        "entity id": "Q7356136",
+                        "label": "Rod Burstall"
+                    },
+                    {
+                        "entity id": "Q7352723",
+                        "label": "Robin Popplestone"
+                    }
+                ]
+            ],
+            [
+                "CPL , LISP",
+                []
+            ]
+        ],
+        [
+            [
+                "1964",
+                []
+            ],
+            [
+                "PL/I ( concept )",
+                [
+                    "/wiki/PL/I"
+                ],
+                [
+                    {
+                        "entity id": "Q223433",
+                        "label": "PL/I"
+                    }
+                ]
+            ],
+            [
+                "IBM",
+                [
+                    "/wiki/IBM"
+                ],
+                [
+                    {
+                        "entity id": "Q37156",
+                        "label": "IBM"
+                    }
+                ]
+            ],
+            [
+                "ALGOL 60 , COBOL , FORTRAN",
+                []
+            ]
+        ],
+        [
+            [
+                "1964",
+                []
+            ],
+            [
+                "BASIC",
+                [
+                    "/wiki/BASIC"
+                ],
+                [
+                    {
+                        "entity id": "Q42979",
+                        "label": "BASIC"
+                    }
+                ]
+            ],
+            [
+                "John George Kemeny and Thomas Eugene Kurtz at Dartmouth College",
+                [
+                    "/wiki/John_George_Kemeny",
+                    "/wiki/Thomas_Eugene_Kurtz",
+                    "/wiki/Dartmouth_College"
+                ],
+                [
+                    {
+                        "entity id": "Q28900",
+                        "label": "John George Kemeny"
+                    },
+                    {
+                        "entity id": "Q1387801",
+                        "label": "Thomas Eugene Kurtz"
+                    },
+                    {
+                        "entity id": "Q49116",
+                        "label": "Dartmouth College"
+                    }
+                ]
+            ],
+            [
+                "FORTRAN II , JOSS",
+                []
+            ]
+        ],
+        [
+            [
+                "1964",
+                []
+            ],
+            [
+                "IBM RPG",
+                [
+                    "/wiki/IBM_RPG"
+                ],
+                [
+                    {
+                        "entity id": "Q840543",
+                        "label": "Report Program Generator"
+                    }
+                ]
+            ],
+            [
+                "IBM",
+                [
+                    "/wiki/IBM"
+                ],
+                [
+                    {
+                        "entity id": "Q37156",
+                        "label": "IBM"
+                    }
+                ]
+            ],
+            [
+                "FARGO",
+                []
+            ]
+        ],
+        [
+            [
+                "1964",
+                []
+            ],
+            [
+                "Mark-IV",
+                [
+                    "/wiki/MARK_IV_(software)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Informatics",
+                [
+                    "/wiki/Sterling_Software"
+                ],
+                [
+                    {
+                        "entity id": "Q7611472",
+                        "label": "Sterling Software"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "1964",
+                []
+            ],
+            [
+                "Speakeasy-2",
+                [
+                    "/wiki/Speakeasy_(computational_environment)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Stanley Cohen at Argonne National Laboratory",
+                [
+                    "/wiki/Argonne_National_Laboratory"
+                ],
+                [
+                    {
+                        "entity id": "Q649120",
+                        "label": "Argonne National Laboratory"
+                    }
+                ]
+            ],
+            [
+                "Speakeasy",
+                []
+            ]
+        ],
+        [
+            [
+                "1964",
+                []
+            ],
+            [
+                "TRAC ( implementation )",
+                [
+                    "/wiki/TRAC_(programming_language)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Calvin Mooers",
+                [
+                    "/wiki/Calvin_Mooers"
+                ],
+                [
+                    {
+                        "entity id": "Q330079",
+                        "label": "Calvin Mooers"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "1964",
+                []
+            ],
+            [
+                "P\u2032\u2032",
+                [
+                    "/wiki/P\u2032\u2032"
+                ],
+                [
+                    {
+                        "entity id": "Q2072087",
+                        "label": "P\u2032\u2032"
+                    }
+                ]
+            ],
+            [
+                "Corrado B\u00f6hm",
+                [
+                    "/wiki/Corrado_B\u00f6hm"
+                ],
+                [
+                    {
+                        "entity id": "Q943361",
+                        "label": "Corrado B\u00f6hm"
+                    }
+                ]
+            ],
+            [
+                "none ( unique language )",
+                []
+            ]
+        ]
+    ],
+    "section_title": "1960s",
+    "section_text": "",
+    "uid": "Timeline_of_programming_languages_2",
+    "intro": "This is a record of historically important programming languages, by decade."
+}

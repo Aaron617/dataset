@@ -1,0 +1,877 @@
+{
+    "url": "https://en.wikipedia.org/wiki/ISO_3166-2:ID",
+    "title": "ISO 3166-2:ID",
+    "header": [
+        [
+            "Code",
+            []
+        ],
+        [
+            "Subdivision name ( id )",
+            [
+                "/wiki/Indonesian_language"
+            ],
+            [
+                {
+                    "entity id": "Q9240",
+                    "label": "Indonesian"
+                }
+            ]
+        ],
+        [
+            "Local variant",
+            []
+        ],
+        [
+            "Subdivision name ( en )",
+            [
+                "/wiki/English_language"
+            ],
+            [
+                {
+                    "entity id": "Q1860",
+                    "label": "English"
+                }
+            ]
+        ],
+        [
+            "Subdivision type",
+            []
+        ],
+        [
+            "In geographical unit",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "ID-AC",
+                []
+            ],
+            [
+                "Aceh",
+                [
+                    "/wiki/Aceh"
+                ],
+                [
+                    {
+                        "entity id": "Q1823",
+                        "label": "Aceh"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Aceh",
+                []
+            ],
+            [
+                "province",
+                []
+            ],
+            [
+                "SM",
+                [
+                    "/wiki/Sumatera"
+                ],
+                [
+                    {
+                        "entity id": "Q3492",
+                        "label": "Sumatra"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ID-BA",
+                []
+            ],
+            [
+                "Bali",
+                [
+                    "/wiki/Bali"
+                ],
+                [
+                    {
+                        "entity id": "Q3125978",
+                        "label": "Bali"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Bali",
+                []
+            ],
+            [
+                "province",
+                []
+            ],
+            [
+                "NU",
+                [
+                    "/wiki/Nusa_Tenggara"
+                ],
+                [
+                    {
+                        "entity id": "Q5061",
+                        "label": "East Nusa Tenggara"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ID-BB",
+                []
+            ],
+            [
+                "Kepulauan Bangka Belitung",
+                [
+                    "/wiki/Kepulauan_Bangka_Belitung"
+                ],
+                [
+                    {
+                        "entity id": "Q1866",
+                        "label": "Bangka Belitung Islands"
+                    }
+                ]
+            ],
+            [
+                "Babel",
+                []
+            ],
+            [
+                "Bangka Belitung Islands",
+                []
+            ],
+            [
+                "province",
+                []
+            ],
+            [
+                "SM",
+                [
+                    "/wiki/Sumatera"
+                ],
+                [
+                    {
+                        "entity id": "Q3492",
+                        "label": "Sumatra"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ID-BT",
+                []
+            ],
+            [
+                "Banten",
+                [
+                    "/wiki/Banten"
+                ],
+                [
+                    {
+                        "entity id": "Q3540",
+                        "label": "Banten"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Banten",
+                []
+            ],
+            [
+                "province",
+                []
+            ],
+            [
+                "JW",
+                [
+                    "/wiki/Jawa_(Indonesia)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "ID-BE",
+                []
+            ],
+            [
+                "Bengkulu",
+                [
+                    "/wiki/Bengkulu"
+                ],
+                [
+                    {
+                        "entity id": "Q1890",
+                        "label": "Bengkulu"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Bengkulu",
+                []
+            ],
+            [
+                "province",
+                []
+            ],
+            [
+                "SM",
+                [
+                    "/wiki/Sumatera"
+                ],
+                [
+                    {
+                        "entity id": "Q3492",
+                        "label": "Sumatra"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ID-GO",
+                []
+            ],
+            [
+                "Gorontalo",
+                [
+                    "/wiki/Gorontalo"
+                ],
+                [
+                    {
+                        "entity id": "Q5067",
+                        "label": "Gorontalo"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Gorontalo",
+                []
+            ],
+            [
+                "province",
+                []
+            ],
+            [
+                "SL",
+                [
+                    "/wiki/Sulawesi"
+                ],
+                [
+                    {
+                        "entity id": "Q3812",
+                        "label": "Sulawesi"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ID-JA",
+                []
+            ],
+            [
+                "Jambi",
+                [
+                    "/wiki/Jambi"
+                ],
+                [
+                    {
+                        "entity id": "Q2051",
+                        "label": "Jambi"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Jambi",
+                []
+            ],
+            [
+                "province",
+                []
+            ],
+            [
+                "SM",
+                [
+                    "/wiki/Sumatera"
+                ],
+                [
+                    {
+                        "entity id": "Q3492",
+                        "label": "Sumatra"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ID-JB",
+                []
+            ],
+            [
+                "Jawa Barat",
+                [
+                    "/wiki/Jawa_Barat"
+                ],
+                [
+                    {
+                        "entity id": "Q3724",
+                        "label": "West Java"
+                    }
+                ]
+            ],
+            [
+                "Jabar",
+                []
+            ],
+            [
+                "West Java",
+                []
+            ],
+            [
+                "province",
+                []
+            ],
+            [
+                "JW",
+                [
+                    "/wiki/Jawa_(Indonesia)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "ID-JT",
+                []
+            ],
+            [
+                "Jawa Tengah",
+                [
+                    "/wiki/Jawa_Tengah"
+                ],
+                [
+                    {
+                        "entity id": "Q3557",
+                        "label": "Central Java"
+                    }
+                ]
+            ],
+            [
+                "Jateng",
+                []
+            ],
+            [
+                "Central Java",
+                []
+            ],
+            [
+                "province",
+                []
+            ],
+            [
+                "JW",
+                [
+                    "/wiki/Jawa_(Indonesia)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "ID-JI",
+                []
+            ],
+            [
+                "Jawa Timur",
+                [
+                    "/wiki/Jawa_Timur"
+                ],
+                [
+                    {
+                        "entity id": "Q3586",
+                        "label": "East Java"
+                    }
+                ]
+            ],
+            [
+                "Jatim",
+                []
+            ],
+            [
+                "East Java",
+                []
+            ],
+            [
+                "province",
+                []
+            ],
+            [
+                "JW",
+                [
+                    "/wiki/Jawa_(Indonesia)"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "ID-KB",
+                []
+            ],
+            [
+                "Kalimantan Barat",
+                [
+                    "/wiki/Kalimantan_Barat"
+                ],
+                [
+                    {
+                        "entity id": "Q3916",
+                        "label": "West Kalimantan"
+                    }
+                ]
+            ],
+            [
+                "Kalbar",
+                []
+            ],
+            [
+                "West Kalimantan",
+                []
+            ],
+            [
+                "province",
+                []
+            ],
+            [
+                "KA",
+                [
+                    "/wiki/Kalimantan"
+                ],
+                [
+                    {
+                        "entity id": "Q3795",
+                        "label": "Kalimantan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ID-KS",
+                []
+            ],
+            [
+                "Kalimantan Selatan",
+                [
+                    "/wiki/Kalimantan_Selatan"
+                ],
+                [
+                    {
+                        "entity id": "Q3906",
+                        "label": "South Kalimantan"
+                    }
+                ]
+            ],
+            [
+                "Kalsel",
+                []
+            ],
+            [
+                "South Kalimantan",
+                []
+            ],
+            [
+                "province",
+                []
+            ],
+            [
+                "KA",
+                [
+                    "/wiki/Kalimantan"
+                ],
+                [
+                    {
+                        "entity id": "Q3795",
+                        "label": "Kalimantan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ID-KT",
+                []
+            ],
+            [
+                "Kalimantan Tengah",
+                [
+                    "/wiki/Kalimantan_Tengah"
+                ],
+                [
+                    {
+                        "entity id": "Q3891",
+                        "label": "Central Kalimantan"
+                    }
+                ]
+            ],
+            [
+                "Kalteng",
+                []
+            ],
+            [
+                "Central Kalimantan",
+                []
+            ],
+            [
+                "province",
+                []
+            ],
+            [
+                "KA",
+                [
+                    "/wiki/Kalimantan"
+                ],
+                [
+                    {
+                        "entity id": "Q3795",
+                        "label": "Kalimantan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ID-KI",
+                []
+            ],
+            [
+                "Kalimantan Timur",
+                [
+                    "/wiki/Kalimantan_Timur"
+                ],
+                [
+                    {
+                        "entity id": "Q3899",
+                        "label": "East Kalimantan"
+                    }
+                ]
+            ],
+            [
+                "Kaltim",
+                []
+            ],
+            [
+                "East Kalimantan",
+                []
+            ],
+            [
+                "province",
+                []
+            ],
+            [
+                "KA",
+                [
+                    "/wiki/Kalimantan"
+                ],
+                [
+                    {
+                        "entity id": "Q3795",
+                        "label": "Kalimantan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ID-KU",
+                []
+            ],
+            [
+                "Kalimantan Utara",
+                [
+                    "/wiki/Kalimantan_Utara"
+                ],
+                [
+                    {
+                        "entity id": "Q12488708",
+                        "label": "Kalimantan Utara"
+                    }
+                ]
+            ],
+            [
+                "Kaltara ; Kalut",
+                []
+            ],
+            [
+                "North Kalimantan",
+                []
+            ],
+            [
+                "province",
+                []
+            ],
+            [
+                "KA",
+                [
+                    "/wiki/Kalimantan"
+                ],
+                [
+                    {
+                        "entity id": "Q3795",
+                        "label": "Kalimantan"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ID-KR",
+                []
+            ],
+            [
+                "Kepulauan Riau",
+                [
+                    "/wiki/Kepulauan_Riau"
+                ],
+                [
+                    {
+                        "entity id": "Q1190997",
+                        "label": "Riau"
+                    }
+                ]
+            ],
+            [
+                "Kepri",
+                []
+            ],
+            [
+                "Riau Islands",
+                []
+            ],
+            [
+                "province",
+                []
+            ],
+            [
+                "SM",
+                [
+                    "/wiki/Sumatera"
+                ],
+                [
+                    {
+                        "entity id": "Q3492",
+                        "label": "Sumatra"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ID-LA",
+                []
+            ],
+            [
+                "Lampung",
+                [
+                    "/wiki/Lampung"
+                ],
+                [
+                    {
+                        "entity id": "Q2110",
+                        "label": "Lampung"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Lampung",
+                []
+            ],
+            [
+                "province",
+                []
+            ],
+            [
+                "SM",
+                [
+                    "/wiki/Sumatera"
+                ],
+                [
+                    {
+                        "entity id": "Q3492",
+                        "label": "Sumatra"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ID-MA",
+                []
+            ],
+            [
+                "Maluku",
+                [
+                    "/wiki/Maluku_(province)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Maluku",
+                []
+            ],
+            [
+                "province",
+                []
+            ],
+            [
+                "ML",
+                [
+                    "/wiki/Maluku_Islands"
+                ],
+                [
+                    {
+                        "entity id": "Q3827",
+                        "label": "Maluku Islands"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ID-MU",
+                []
+            ],
+            [
+                "Maluku Utara",
+                [
+                    "/wiki/Maluku_Utara"
+                ],
+                [
+                    {
+                        "entity id": "Q5094",
+                        "label": "North Maluku"
+                    }
+                ]
+            ],
+            [
+                "Malut",
+                []
+            ],
+            [
+                "North Maluku",
+                []
+            ],
+            [
+                "province",
+                []
+            ],
+            [
+                "ML",
+                [
+                    "/wiki/Maluku_Islands"
+                ],
+                [
+                    {
+                        "entity id": "Q3827",
+                        "label": "Maluku Islands"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "ID-NB",
+                []
+            ],
+            [
+                "Nusa Tenggara Barat",
+                [
+                    "/wiki/Nusa_Tenggara_Barat"
+                ],
+                [
+                    {
+                        "entity id": "Q5062",
+                        "label": "West Nusa Tenggara"
+                    }
+                ]
+            ],
+            [
+                "NTB",
+                []
+            ],
+            [
+                "West Nusa Tenggara",
+                []
+            ],
+            [
+                "province",
+                []
+            ],
+            [
+                "NU",
+                [
+                    "/wiki/Nusa_Tenggara"
+                ],
+                [
+                    {
+                        "entity id": "Q5061",
+                        "label": "East Nusa Tenggara"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Current codes -- Provinces , capital district and special region",
+    "section_text": "",
+    "uid": "ISO_3166-2:ID_1",
+    "intro": "ISO 3166-2:ID is the entry for Indonesia in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1. Currently for Indonesia, ISO 3166-2 codes are defined for two levels of subdivisions:"
+}

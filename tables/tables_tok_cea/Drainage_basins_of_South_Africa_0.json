@@ -1,0 +1,932 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_drainage_basins_of_South_Africa",
+    "title": "List of drainage basins of South Africa",
+    "header": [
+        [
+            "Code",
+            []
+        ],
+        [
+            "Gross capacity x10 m",
+            []
+        ],
+        [
+            "Nr . regions",
+            []
+        ],
+        [
+            "Major rivers",
+            []
+        ],
+        [
+            "Drains to",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "A",
+                [
+                    "/wiki/Drainage_basin_A"
+                ],
+                [
+                    {
+                        "entity id": "Q5305550",
+                        "label": "Drainage basin A"
+                    }
+                ]
+            ],
+            [
+                "1,284",
+                []
+            ],
+            [
+                "9",
+                []
+            ],
+            [
+                "Limpopo River",
+                [
+                    "/wiki/Limpopo_River"
+                ],
+                [
+                    {
+                        "entity id": "Q173017",
+                        "label": "Limpopo River"
+                    }
+                ]
+            ],
+            [
+                "Indian Ocean",
+                [
+                    "/wiki/Indian_Ocean"
+                ],
+                [
+                    {
+                        "entity id": "Q1239",
+                        "label": "Indian Ocean"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "B",
+                []
+            ],
+            [
+                "1,502",
+                []
+            ],
+            [
+                "9",
+                []
+            ],
+            [
+                "Olifants River",
+                [
+                    "/wiki/Olifants_River_(Limpopo)"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Limpopo River",
+                [
+                    "/wiki/Limpopo_River"
+                ],
+                [
+                    {
+                        "entity id": "Q173017",
+                        "label": "Limpopo River"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "C",
+                []
+            ],
+            [
+                "7,941",
+                []
+            ],
+            [
+                "9",
+                []
+            ],
+            [
+                "Vaal River",
+                [
+                    "/wiki/Vaal_River"
+                ],
+                [
+                    {
+                        "entity id": "Q209530",
+                        "label": "Vaal River"
+                    }
+                ]
+            ],
+            [
+                "Orange River",
+                [
+                    "/wiki/Orange_River"
+                ],
+                [
+                    {
+                        "entity id": "Q181475",
+                        "label": "Orange River"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "D",
+                []
+            ],
+            [
+                "11,105",
+                []
+            ],
+            [
+                "8",
+                []
+            ],
+            [
+                "Orange River ( below Gariep Dam ) , Kraai River",
+                [
+                    "/wiki/Orange_River",
+                    "/wiki/Gariep_Dam",
+                    "/wiki/Kraai_River"
+                ],
+                [
+                    {
+                        "entity id": "Q181475",
+                        "label": "Orange River"
+                    },
+                    {
+                        "entity id": "Q1494266",
+                        "label": "Gariep Dam"
+                    },
+                    {
+                        "entity id": "Q1505586",
+                        "label": "Kraai River"
+                    }
+                ]
+            ],
+            [
+                "South Atlantic",
+                [
+                    "/wiki/South_Atlantic"
+                ],
+                [
+                    {
+                        "entity id": "Q1482804",
+                        "label": "South Atlantic Ocean"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "E",
+                []
+            ],
+            [
+                "128",
+                []
+            ],
+            [
+                "4",
+                []
+            ],
+            [
+                "Olifants River ( above confluence with the Doring River ) , Groot River",
+                [
+                    "/wiki/Olifants_River_(Western_Cape)",
+                    "/wiki/Doring_River",
+                    "/wiki/Groot_River_(Western_Cape)"
+                ],
+                [
+                    {
+                        "entity id": "Q10990705",
+                        "label": "Olifants River"
+                    },
+                    {
+                        "entity id": "Q4787937",
+                        "label": "Doring River"
+                    },
+                    {}
+                ]
+            ],
+            [
+                "South Atlantic",
+                [
+                    "/wiki/South_Atlantic"
+                ],
+                [
+                    {
+                        "entity id": "Q1482804",
+                        "label": "South Atlantic Ocean"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "F",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "6",
+                []
+            ],
+            [
+                "Buffels River",
+                []
+            ],
+            [
+                "South Atlantic",
+                [
+                    "/wiki/South_Atlantic"
+                ],
+                [
+                    {
+                        "entity id": "Q1482804",
+                        "label": "South Atlantic Ocean"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "G",
+                []
+            ],
+            [
+                "445",
+                []
+            ],
+            [
+                "5",
+                []
+            ],
+            [
+                "Berg River , Diep River , Eerste River , Verlorevlei River , Bot River , Klein River , Uilkraal River",
+                [
+                    "/wiki/Berg_River",
+                    "/wiki/Diep_River",
+                    "/wiki/Eerste_River",
+                    "/wiki/Verlorevlei_River",
+                    "/wiki/Bot_River",
+                    "/wiki/Klein_River",
+                    "/wiki/Uilkraal_River"
+                ],
+                [
+                    {
+                        "entity id": "Q2254821",
+                        "label": "Berg River"
+                    },
+                    {
+                        "entity id": "Q4787924",
+                        "label": "Diep River"
+                    },
+                    {
+                        "entity id": "Q4854168",
+                        "label": "Eerste Rivier"
+                    },
+                    {
+                        "entity id": "Q4788257",
+                        "label": "Verlorevlei River"
+                    },
+                    {
+                        "entity id": "Q3644396",
+                        "label": "Bot River"
+                    },
+                    {
+                        "entity id": "Q4788030",
+                        "label": "Klein River"
+                    },
+                    {
+                        "entity id": "Q4788217",
+                        "label": "Uilkraal River"
+                    }
+                ]
+            ],
+            [
+                "South Atlantic",
+                [
+                    "/wiki/South_Atlantic"
+                ],
+                [
+                    {
+                        "entity id": "Q1482804",
+                        "label": "South Atlantic Ocean"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "H",
+                []
+            ],
+            [
+                "1,024",
+                []
+            ],
+            [
+                "9",
+                []
+            ],
+            [
+                "Hex River , Kingna River , Breede River ( below Brandvlei Dam ) , Tributaries of the Sonderend River above theewaterskloof Dam",
+                [
+                    "/wiki/Breede_River",
+                    "/wiki/Brandvlei_Dam",
+                    "/wiki/Riviersonderend_River",
+                    "/wiki/Teewaterskloof_Dam"
+                ],
+                [
+                    {
+                        "entity id": "Q904992",
+                        "label": "Breede River"
+                    },
+                    {
+                        "entity id": "Q4957207",
+                        "label": "Brandvlei Dam"
+                    },
+                    {},
+                    {}
+                ]
+            ],
+            [
+                "Indian Ocean",
+                [
+                    "/wiki/Indian_Ocean"
+                ],
+                [
+                    {
+                        "entity id": "Q1239",
+                        "label": "Indian Ocean"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "J",
+                []
+            ],
+            [
+                "200",
+                []
+            ],
+            [
+                "4",
+                []
+            ],
+            [
+                "Touws River , Gamka River , Olifants River , Langtou River , Weyers River",
+                [
+                    "/wiki/Touws_River_(river)",
+                    "/wiki/Gamka_River",
+                    "/wiki/Olifants_River_(Southern_Cape)"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q3643149",
+                        "label": "Gamka River"
+                    },
+                    {
+                        "entity id": "Q10992985",
+                        "label": "Olifants River (Southern Cape)"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "K",
+                []
+            ],
+            [
+                "183",
+                []
+            ],
+            [
+                "9",
+                []
+            ],
+            [
+                "Little Brak River , Great Brak River , Karatara River , Knysna River , Keurbooms River , Bloukrans River , Lottering River , Storms River , Sandrif River , Groot River , Tsitsikamma River , Klippedrift River , Kromme River , Seekoei River , Kabelkous River",
+                [
+                    "/wiki/Little_Brak_River_(river)",
+                    "/wiki/Great_Brak_River_(river)",
+                    "/wiki/Keurbooms_River",
+                    "/wiki/Bloukrans_River_(Garden_Route)",
+                    "/wiki/Storms_River",
+                    "/wiki/Groot_River_(Southern_Cape)",
+                    "/wiki/Tsitsikamma_River",
+                    "/wiki/Kromme_River"
+                ],
+                [
+                    {},
+                    {},
+                    {
+                        "entity id": "Q6395627",
+                        "label": "Keurbooms River"
+                    },
+                    {},
+                    {
+                        "entity id": "Q3643171",
+                        "label": "Storms River"
+                    },
+                    {},
+                    {
+                        "entity id": "Q4788206",
+                        "label": "Tsitsikamma River"
+                    },
+                    {
+                        "entity id": "Q4788065",
+                        "label": "Krom River"
+                    }
+                ]
+            ],
+            [
+                "Indian Ocean",
+                [
+                    "/wiki/Indian_Ocean"
+                ],
+                [
+                    {
+                        "entity id": "Q1239",
+                        "label": "Indian Ocean"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "L",
+                []
+            ],
+            [
+                "219",
+                []
+            ],
+            [
+                "9",
+                []
+            ],
+            [
+                "Baviaanskloof River , Kouga River , Lower Gamtoos River",
+                [
+                    "/wiki/Baviaanskloof_River",
+                    "/wiki/Kouga_River"
+                ],
+                [
+                    {
+                        "entity id": "Q4787830",
+                        "label": "Baviaanskloof River"
+                    },
+                    {
+                        "entity id": "Q4788044",
+                        "label": "Kouga River"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "M",
+                []
+            ],
+            [
+                "12",
+                []
+            ],
+            [
+                "3",
+                []
+            ],
+            [
+                "Swartkops River , Maitland River , Van Stadens River",
+                [
+                    "/wiki/Van_Stadens_River"
+                ],
+                [
+                    {
+                        "entity id": "Q4788251",
+                        "label": "Van Stadens River"
+                    }
+                ]
+            ],
+            [
+                "Indian Ocean",
+                [
+                    "/wiki/Indian_Ocean"
+                ],
+                [
+                    {
+                        "entity id": "Q1239",
+                        "label": "Indian Ocean"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "N",
+                []
+            ],
+            [
+                "227",
+                []
+            ],
+            [
+                "4",
+                []
+            ],
+            [
+                "Sundays River ( below Darlington Dam , and above Vanrynevelds Pass Dam ) , Skoenmakers River ( below Skoenmakers Canal Outlet ) , Gats River",
+                [
+                    "/wiki/Sundays_River",
+                    "/wiki/Darlington_Dam"
+                ],
+                [
+                    {
+                        "entity id": "Q3357257",
+                        "label": "Sundays River"
+                    },
+                    {
+                        "entity id": "Q1166375",
+                        "label": "Darlington Dam"
+                    }
+                ]
+            ],
+            [
+                "Indian Ocean",
+                [
+                    "/wiki/Indian_Ocean"
+                ],
+                [
+                    {
+                        "entity id": "Q1239",
+                        "label": "Indian Ocean"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "P",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "4",
+                []
+            ],
+            [
+                "Bushmans River , Kowie River , Kariega River",
+                [
+                    "/wiki/Bushmans_River",
+                    "/wiki/Kowie_River",
+                    "/wiki/Kariega_River"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q4788052",
+                        "label": "Kowie River"
+                    },
+                    {
+                        "entity id": "Q4788006",
+                        "label": "Kariega River"
+                    }
+                ]
+            ],
+            [
+                "Indian Ocean",
+                [
+                    "/wiki/Indian_Ocean"
+                ],
+                [
+                    {
+                        "entity id": "Q1239",
+                        "label": "Indian Ocean"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Q",
+                []
+            ],
+            [
+                "131",
+                []
+            ],
+            [
+                "9",
+                []
+            ],
+            [
+                "Great Fish River , Little Fish River , Tarka River , Vlekpoort River , Lake Arthur",
+                [
+                    "/wiki/Great_Fish_River",
+                    "/wiki/Tarka_River"
+                ],
+                [
+                    {
+                        "entity id": "Q1130009",
+                        "label": "Great Fish River"
+                    },
+                    {
+                        "entity id": "Q4788189",
+                        "label": "Tarka River"
+                    }
+                ]
+            ],
+            [
+                "Indian Ocean",
+                [
+                    "/wiki/Indian_Ocean"
+                ],
+                [
+                    {
+                        "entity id": "Q1239",
+                        "label": "Indian Ocean"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "R",
+                []
+            ],
+            [
+                "211",
+                []
+            ],
+            [
+                "5",
+                []
+            ],
+            [
+                "Buffels River , Kwenxura River , Kwelera River , Gonubie River , Nahoon River",
+                [
+                    "/wiki/Buffels_River_(Eastern_Cape)",
+                    "/wiki/Nahoon_River"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q4788122",
+                        "label": "Nahoon River"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "S",
+                []
+            ],
+            [
+                "610",
+                []
+            ],
+            [
+                "7",
+                []
+            ],
+            [
+                "White Kei River ( above Xonxa Dam ) , Indwe River ( above Lubisi Dam ) , Swart Kei River ( above Klipplaat River confluence ) , Klipplaat River ( above Waterdown Dam ) , Oxkraal River ( above Oxkraal Dam ) , Thorn River , Thomas River , Tsomo River , Kwa-Qokwama River , Mbokotwa River , Kubisi River ( above Wriggleswade Dam ) , Toise River , Xilinxa River ( above Xilinxa Dam )",
+                [
+                    "/wiki/White_Kei_River",
+                    "/wiki/Xonxa_Dam",
+                    "/wiki/Lubisi_Dam",
+                    "/wiki/Klipplaat_River",
+                    "/wiki/Klipplaat_River",
+                    "/wiki/Waterdown_Dam",
+                    "/wiki/Oxkraal_Dam",
+                    "/wiki/Thomas_River",
+                    "/wiki/Tsomo_River",
+                    "/wiki/Wriggleswade_Dam",
+                    "/wiki/Xilinxa_Dam"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q8044922",
+                        "label": "Xonxa Dam"
+                    },
+                    {
+                        "entity id": "Q6695344",
+                        "label": "Lubisi Dam"
+                    },
+                    {
+                        "entity id": "Q2782088",
+                        "label": "Klipplaat River"
+                    },
+                    {
+                        "entity id": "Q2782088",
+                        "label": "Klipplaat River"
+                    },
+                    {
+                        "entity id": "Q2565491",
+                        "label": "Waterdown Dam"
+                    },
+                    {
+                        "entity id": "Q2782084",
+                        "label": "Oxkraal Dam"
+                    },
+                    {
+                        "entity id": "Q2426842",
+                        "label": "Thomas River"
+                    },
+                    {
+                        "entity id": "Q2817216",
+                        "label": "Tsomo River"
+                    },
+                    {
+                        "entity id": "Q2992350",
+                        "label": "Wriggleswade Dam"
+                    },
+                    {
+                        "entity id": "Q5217650",
+                        "label": "Xilinxa Dam"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "T",
+                []
+            ],
+            [
+                "248",
+                []
+            ],
+            [
+                "9",
+                []
+            ],
+            [
+                "Slang River , Xuka River , Mtata River ( above Mtata Dam ) , Tsitsa River , Pot River , Mooi River , Inxu River , Wildebees River , Gatberg River",
+                [
+                    "/wiki/Slang_River",
+                    "/wiki/Mtata_River",
+                    "/wiki/Mtata_Dam",
+                    "/wiki/Tsitsa_River"
+                ],
+                [
+                    {
+                        "entity id": "Q4788170",
+                        "label": "Slang River"
+                    },
+                    {},
+                    {
+                        "entity id": "Q31959763",
+                        "label": "Mtata Dam"
+                    },
+                    {
+                        "entity id": "Q7849789",
+                        "label": "Tsitsa River"
+                    }
+                ]
+            ],
+            [
+                "Indian Ocean",
+                [
+                    "/wiki/Indian_Ocean"
+                ],
+                [
+                    {
+                        "entity id": "Q1239",
+                        "label": "Indian Ocean"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "U",
+                []
+            ],
+            [
+                "806",
+                []
+            ],
+            [
+                "8",
+                []
+            ],
+            [
+                "Mgeni River , Mvoti River",
+                [
+                    "/wiki/Mgeni_River",
+                    "/wiki/Mvoti_River"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q105687733",
+                        "label": "Mvoti river"
+                    }
+                ]
+            ],
+            [
+                "Indian Ocean",
+                [
+                    "/wiki/Indian_Ocean"
+                ],
+                [
+                    {
+                        "entity id": "Q1239",
+                        "label": "Indian Ocean"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "V",
+                []
+            ],
+            [
+                "1,110",
+                []
+            ],
+            [
+                "7",
+                []
+            ],
+            [
+                "Tugela River , Mooi River , Sundays River , Bushmans River",
+                [
+                    "/wiki/Tugela_River",
+                    "/wiki/Mooi_River_(river,_KwaZulu-Natal)",
+                    "/wiki/Bushmans_River"
+                ],
+                [
+                    {
+                        "entity id": "Q476317",
+                        "label": "Tugela River"
+                    },
+                    {},
+                    {}
+                ]
+            ],
+            [
+                "Indian Ocean",
+                [
+                    "/wiki/Indian_Ocean"
+                ],
+                [
+                    {
+                        "entity id": "Q1239",
+                        "label": "Indian Ocean"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "List of drainage basins",
+    "section_text": "",
+    "uid": "Drainage_basins_of_South_Africa_0",
+    "intro": "A drainage basin is an extent of land where water from rain and melting snow or ice drains downhill into a body of water, such as a river, lake, reservoir, estuary, wetland, sea or ocean. The drainage basin includes both the streams and rivers that convey the water as well as the land surfaces from which water drains into those channels, and is separated from adjacent basins by a drainage divide. The drainage basin acts like a funnel, collecting all the water within the area covered by the basin and channelling it into a waterway. Each drainage basin is separated topographically from adjacent basins by a geographical barrier such as a ridge, hill or mountain, which is known as a water divide. Other terms that are used to describe a drainage basin are catchment, catchment area, catchment basin, drainage area, river basin, water basin and watershed. The drainage basins in South Africa do not correspond with the Water Management Areas, and have the letters A, B, C, D, E, F, G, H, J, K, L, M, N, P, Q, R, S, T, U, V, W, and X. The Area A comes close to the same area that the Limpopo WMA seems to cover. Apart from these letters they seem to have no name referring to them. What seems to be the case though is that each area refers to some major river systems and their tributaries (a region for each major river system)."
+}

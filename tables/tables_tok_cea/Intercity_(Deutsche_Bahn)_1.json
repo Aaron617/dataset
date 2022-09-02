@@ -1,0 +1,1475 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Intercity_(Deutsche_Bahn)",
+    "title": "Intercity (Deutsche Bahn)",
+    "header": [
+        [
+            "Line",
+            []
+        ],
+        [
+            "Train No",
+            []
+        ],
+        [
+            "Route",
+            []
+        ],
+        [
+            "Name",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "35",
+                []
+            ],
+            [
+                "133-134",
+                []
+            ],
+            [
+                "Norddeich Mole - Emden - M\u00fcnster - Gelsenkirchen - D\u00fcsseldorf - Cologne - Koblenz - Trier - Luxembourg",
+                [
+                    "/wiki/Norddeich_Mole",
+                    "/wiki/Emden",
+                    "/wiki/M\u00fcnster",
+                    "/wiki/Gelsenkirchen",
+                    "/wiki/D\u00fcsseldorf",
+                    "/wiki/Cologne",
+                    "/wiki/Koblenz",
+                    "/wiki/Trier",
+                    "/wiki/Luxembourg"
+                ],
+                [
+                    {
+                        "entity id": "Q7050584",
+                        "label": "Norddeich Mole railway station"
+                    },
+                    {
+                        "entity id": "Q4174",
+                        "label": "Emden"
+                    },
+                    {
+                        "entity id": "Q2742",
+                        "label": "M\u00fcnster"
+                    },
+                    {
+                        "entity id": "Q2765",
+                        "label": "Gelsenkirchen"
+                    },
+                    {
+                        "entity id": "Q1718",
+                        "label": "D\u00fcsseldorf"
+                    },
+                    {
+                        "entity id": "Q365",
+                        "label": "Cologne"
+                    },
+                    {
+                        "entity id": "Q3104",
+                        "label": "Koblenz"
+                    },
+                    {
+                        "entity id": "Q3138",
+                        "label": "Trier"
+                    },
+                    {
+                        "entity id": "Q32",
+                        "label": "Luxembourg"
+                    }
+                ]
+            ],
+            [
+                "Ostfriesland",
+                [
+                    "/wiki/Ostfriesland"
+                ],
+                [
+                    {
+                        "entity id": "Q165269",
+                        "label": "East Frisia"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "35",
+                []
+            ],
+            [
+                "2004-2005",
+                []
+            ],
+            [
+                "Emden - M\u00fcnster - Gelsenkirchen - D\u00fcsseldorf - Cologne - Koblenz - Mainz - Mannheim - Karlsruhe - Offenburg - Konstanz",
+                [
+                    "/wiki/Emden",
+                    "/wiki/M\u00fcnster",
+                    "/wiki/Gelsenkirchen",
+                    "/wiki/D\u00fcsseldorf",
+                    "/wiki/Cologne",
+                    "/wiki/Koblenz",
+                    "/wiki/Mainz",
+                    "/wiki/Mannheim",
+                    "/wiki/Karlsruhe",
+                    "/wiki/Offenburg",
+                    "/wiki/Konstanz"
+                ],
+                [
+                    {
+                        "entity id": "Q4174",
+                        "label": "Emden"
+                    },
+                    {
+                        "entity id": "Q2742",
+                        "label": "M\u00fcnster"
+                    },
+                    {
+                        "entity id": "Q2765",
+                        "label": "Gelsenkirchen"
+                    },
+                    {
+                        "entity id": "Q1718",
+                        "label": "D\u00fcsseldorf"
+                    },
+                    {
+                        "entity id": "Q365",
+                        "label": "Cologne"
+                    },
+                    {
+                        "entity id": "Q3104",
+                        "label": "Koblenz"
+                    },
+                    {
+                        "entity id": "Q1720",
+                        "label": "Mainz"
+                    },
+                    {
+                        "entity id": "Q2119",
+                        "label": "Mannheim"
+                    },
+                    {
+                        "entity id": "Q1040",
+                        "label": "Karlsruhe"
+                    },
+                    {
+                        "entity id": "Q4044",
+                        "label": "Offenburg"
+                    },
+                    {
+                        "entity id": "Q3834",
+                        "label": "Konstanz"
+                    }
+                ]
+            ],
+            [
+                "Bodensee",
+                [
+                    "/wiki/Bodensee"
+                ],
+                [
+                    {
+                        "entity id": "Q4127",
+                        "label": "Lake Constance"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "35",
+                []
+            ],
+            [
+                "2006-2007",
+                []
+            ],
+            [
+                "Dortmund - Cologne - Koblenz - Mainz - Mannheim - Karlsruhe - Offenburg - Konstanz",
+                [
+                    "/wiki/Dortmund",
+                    "/wiki/Cologne",
+                    "/wiki/Koblenz",
+                    "/wiki/Mainz",
+                    "/wiki/Mannheim",
+                    "/wiki/Karlsruhe",
+                    "/wiki/Offenburg",
+                    "/wiki/Konstanz"
+                ],
+                [
+                    {
+                        "entity id": "Q1295",
+                        "label": "Dortmund"
+                    },
+                    {
+                        "entity id": "Q365",
+                        "label": "Cologne"
+                    },
+                    {
+                        "entity id": "Q3104",
+                        "label": "Koblenz"
+                    },
+                    {
+                        "entity id": "Q1720",
+                        "label": "Mainz"
+                    },
+                    {
+                        "entity id": "Q2119",
+                        "label": "Mannheim"
+                    },
+                    {
+                        "entity id": "Q1040",
+                        "label": "Karlsruhe"
+                    },
+                    {
+                        "entity id": "Q4044",
+                        "label": "Offenburg"
+                    },
+                    {
+                        "entity id": "Q3834",
+                        "label": "Konstanz"
+                    }
+                ]
+            ],
+            [
+                "Bodensee",
+                [
+                    "/wiki/Bodensee"
+                ],
+                [
+                    {
+                        "entity id": "Q4127",
+                        "label": "Lake Constance"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "32",
+                []
+            ],
+            [
+                "2010-2011",
+                []
+            ],
+            [
+                "Berlin - Hannover - Dortmund - D\u00fcsseldorf - Cologne - Koblenz - Mainz - Mannheim - Stuttgart - T\u00fcbingen",
+                [
+                    "/wiki/Berlin",
+                    "/wiki/Hannover",
+                    "/wiki/Dortmund",
+                    "/wiki/D\u00fcsseldorf",
+                    "/wiki/Cologne",
+                    "/wiki/Koblenz",
+                    "/wiki/Mainz",
+                    "/wiki/Mannheim",
+                    "/wiki/Stuttgart",
+                    "/wiki/T\u00fcbingen"
+                ],
+                [
+                    {
+                        "entity id": "Q64",
+                        "label": "Berlin"
+                    },
+                    {
+                        "entity id": "Q1715",
+                        "label": "Hanover"
+                    },
+                    {
+                        "entity id": "Q1295",
+                        "label": "Dortmund"
+                    },
+                    {
+                        "entity id": "Q1718",
+                        "label": "D\u00fcsseldorf"
+                    },
+                    {
+                        "entity id": "Q365",
+                        "label": "Cologne"
+                    },
+                    {
+                        "entity id": "Q3104",
+                        "label": "Koblenz"
+                    },
+                    {
+                        "entity id": "Q1720",
+                        "label": "Mainz"
+                    },
+                    {
+                        "entity id": "Q2119",
+                        "label": "Mannheim"
+                    },
+                    {
+                        "entity id": "Q1022",
+                        "label": "Stuttgart"
+                    },
+                    {
+                        "entity id": "Q3806",
+                        "label": "T\u00fcbingen"
+                    }
+                ]
+            ],
+            [
+                "Loreley",
+                [
+                    "/wiki/Loreley"
+                ],
+                [
+                    {
+                        "entity id": "Q4168",
+                        "label": "Loreley"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "55",
+                []
+            ],
+            [
+                "2012-2013",
+                []
+            ],
+            [
+                "Leipzig - Halle - Magdeburg - Braunschweig - Hannover - Dortmund - D\u00fcsseldorf - Cologne - Koblenz - Mainz - Mannheim - Stuttgart - Ulm - Oberstdorf",
+                [
+                    "/wiki/Leipzig",
+                    "/wiki/Halle,_Saxony-Anhalt",
+                    "/wiki/Magdeburg",
+                    "/wiki/Braunschweig",
+                    "/wiki/Hannover",
+                    "/wiki/Dortmund",
+                    "/wiki/D\u00fcsseldorf",
+                    "/wiki/Cologne",
+                    "/wiki/Koblenz",
+                    "/wiki/Mainz",
+                    "/wiki/Mannheim",
+                    "/wiki/Stuttgart",
+                    "/wiki/Ulm",
+                    "/wiki/Oberstdorf"
+                ],
+                [
+                    {
+                        "entity id": "Q2079",
+                        "label": "Leipzig"
+                    },
+                    {
+                        "entity id": "Q2814",
+                        "label": "Halle (Saale)"
+                    },
+                    {
+                        "entity id": "Q1733",
+                        "label": "Magdeburg"
+                    },
+                    {
+                        "entity id": "Q2773",
+                        "label": "Brunswick"
+                    },
+                    {
+                        "entity id": "Q1715",
+                        "label": "Hanover"
+                    },
+                    {
+                        "entity id": "Q1295",
+                        "label": "Dortmund"
+                    },
+                    {
+                        "entity id": "Q1718",
+                        "label": "D\u00fcsseldorf"
+                    },
+                    {
+                        "entity id": "Q365",
+                        "label": "Cologne"
+                    },
+                    {
+                        "entity id": "Q3104",
+                        "label": "Koblenz"
+                    },
+                    {
+                        "entity id": "Q1720",
+                        "label": "Mainz"
+                    },
+                    {
+                        "entity id": "Q2119",
+                        "label": "Mannheim"
+                    },
+                    {
+                        "entity id": "Q1022",
+                        "label": "Stuttgart"
+                    },
+                    {
+                        "entity id": "Q3012",
+                        "label": "Ulm"
+                    },
+                    {
+                        "entity id": "Q266230",
+                        "label": "Oberstdorf"
+                    }
+                ]
+            ],
+            [
+                "Allg\u00e4u",
+                [
+                    "/wiki/Allg\u00e4u"
+                ],
+                [
+                    {
+                        "entity id": "Q169276",
+                        "label": "Allg\u00e4u"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "35",
+                []
+            ],
+            [
+                "2018-2019",
+                []
+            ],
+            [
+                "Norddeich Mole - Emden - M\u00fcnster - Gelsenkirchen - D\u00fcsseldorf - Cologne - Koblenz - Mainz - Mannheim - Stuttgart",
+                [
+                    "/wiki/Norddeich_Mole",
+                    "/wiki/Emden",
+                    "/wiki/M\u00fcnster",
+                    "/wiki/Gelsenkirchen",
+                    "/wiki/D\u00fcsseldorf",
+                    "/wiki/Cologne",
+                    "/wiki/Koblenz",
+                    "/wiki/Mainz",
+                    "/wiki/Mannheim",
+                    "/wiki/Stuttgart"
+                ],
+                [
+                    {
+                        "entity id": "Q7050584",
+                        "label": "Norddeich Mole railway station"
+                    },
+                    {
+                        "entity id": "Q4174",
+                        "label": "Emden"
+                    },
+                    {
+                        "entity id": "Q2742",
+                        "label": "M\u00fcnster"
+                    },
+                    {
+                        "entity id": "Q2765",
+                        "label": "Gelsenkirchen"
+                    },
+                    {
+                        "entity id": "Q1718",
+                        "label": "D\u00fcsseldorf"
+                    },
+                    {
+                        "entity id": "Q365",
+                        "label": "Cologne"
+                    },
+                    {
+                        "entity id": "Q3104",
+                        "label": "Koblenz"
+                    },
+                    {
+                        "entity id": "Q1720",
+                        "label": "Mainz"
+                    },
+                    {
+                        "entity id": "Q2119",
+                        "label": "Mannheim"
+                    },
+                    {
+                        "entity id": "Q1022",
+                        "label": "Stuttgart"
+                    }
+                ]
+            ],
+            [
+                "Nordeney",
+                [
+                    "/wiki/Nordeney"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "27",
+                []
+            ],
+            [
+                "2072-2073",
+                []
+            ],
+            [
+                "Westerland - Hamburg - Wittenberge - Berlin",
+                [
+                    "/wiki/Westerland,_Germany",
+                    "/wiki/Hamburg",
+                    "/wiki/Wittenberge",
+                    "/wiki/Berlin"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q1055",
+                        "label": "Hamburg"
+                    },
+                    {
+                        "entity id": "Q541956",
+                        "label": "Wittenberge"
+                    },
+                    {
+                        "entity id": "Q64",
+                        "label": "Berlin"
+                    }
+                ]
+            ],
+            [
+                "Sylter Strand",
+                [
+                    "/wiki/Sylt"
+                ],
+                [
+                    {
+                        "entity id": "Q21008",
+                        "label": "Sylt municipality"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "26",
+                []
+            ],
+            [
+                "2082-2083",
+                []
+            ],
+            [
+                "Hamburg - Hannover - Kassel - W\u00fcrzburg - Ansbach - Augsburg - Munich - Freilassing - Berchtesgaden",
+                [
+                    "/wiki/Hamburg",
+                    "/wiki/Hannover",
+                    "/wiki/Kassel",
+                    "/wiki/W\u00fcrzburg",
+                    "/wiki/Ansbach",
+                    "/wiki/Augsburg",
+                    "/wiki/Munich",
+                    "/wiki/Freilassing",
+                    "/wiki/Berchtesgaden"
+                ],
+                [
+                    {
+                        "entity id": "Q1055",
+                        "label": "Hamburg"
+                    },
+                    {
+                        "entity id": "Q1715",
+                        "label": "Hanover"
+                    },
+                    {
+                        "entity id": "Q2865",
+                        "label": "Kassel"
+                    },
+                    {
+                        "entity id": "Q2999",
+                        "label": "W\u00fcrzburg"
+                    },
+                    {
+                        "entity id": "Q14859",
+                        "label": "Ansbach"
+                    },
+                    {
+                        "entity id": "Q2749",
+                        "label": "Augsburg"
+                    },
+                    {
+                        "entity id": "Q1726",
+                        "label": "Munich"
+                    },
+                    {
+                        "entity id": "Q278352",
+                        "label": "Freilassing"
+                    },
+                    {
+                        "entity id": "Q278221",
+                        "label": "Berchtesgaden"
+                    }
+                ]
+            ],
+            [
+                "K\u00f6nigssee",
+                [
+                    "/wiki/K\u00f6nigssee"
+                ],
+                [
+                    {
+                        "entity id": "Q156715",
+                        "label": "K\u00f6nigssee"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "26",
+                []
+            ],
+            [
+                "2084-2085",
+                []
+            ],
+            [
+                "Hamburg - Hannover - Kassel - W\u00fcrzburg - Ansbach - Augsburg - Oberstdorf",
+                [
+                    "/wiki/Hamburg",
+                    "/wiki/Hannover",
+                    "/wiki/Kassel",
+                    "/wiki/W\u00fcrzburg",
+                    "/wiki/Ansbach",
+                    "/wiki/Augsburg",
+                    "/wiki/Oberstdorf"
+                ],
+                [
+                    {
+                        "entity id": "Q1055",
+                        "label": "Hamburg"
+                    },
+                    {
+                        "entity id": "Q1715",
+                        "label": "Hanover"
+                    },
+                    {
+                        "entity id": "Q2865",
+                        "label": "Kassel"
+                    },
+                    {
+                        "entity id": "Q2999",
+                        "label": "W\u00fcrzburg"
+                    },
+                    {
+                        "entity id": "Q14859",
+                        "label": "Ansbach"
+                    },
+                    {
+                        "entity id": "Q2749",
+                        "label": "Augsburg"
+                    },
+                    {
+                        "entity id": "Q266230",
+                        "label": "Oberstdorf"
+                    }
+                ]
+            ],
+            [
+                "Nebelhorn",
+                [
+                    "/wiki/Nebelhorn"
+                ],
+                [
+                    {
+                        "entity id": "Q696067",
+                        "label": "Nebelhorn"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "26",
+                []
+            ],
+            [
+                "2170-2171 , 2190-2191 , 2193",
+                []
+            ],
+            [
+                "Westerland - Hamburg - Hannover - Kassel - Gie\u00dfen - Frankfurt",
+                [
+                    "/wiki/Westerland,_Germany",
+                    "/wiki/Hamburg",
+                    "/wiki/Hannover",
+                    "/wiki/Kassel",
+                    "/wiki/Gie\u00dfen",
+                    "/wiki/Frankfurt"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q1055",
+                        "label": "Hamburg"
+                    },
+                    {
+                        "entity id": "Q1715",
+                        "label": "Hanover"
+                    },
+                    {
+                        "entity id": "Q2865",
+                        "label": "Kassel"
+                    },
+                    {
+                        "entity id": "Q3874",
+                        "label": "Giessen"
+                    },
+                    {
+                        "entity id": "Q4024",
+                        "label": "Frankfurt (Oder)"
+                    }
+                ]
+            ],
+            [
+                "Wattenmeer",
+                [
+                    "/wiki/Wattenmeer"
+                ],
+                [
+                    {
+                        "entity id": "Q112258343",
+                        "label": "Wattenmeer"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "26",
+                []
+            ],
+            [
+                "2184",
+                []
+            ],
+            [
+                "Hannover - Hamburg - Rostock - Stralsund - Binz",
+                [
+                    "/wiki/Hannover",
+                    "/wiki/Hamburg",
+                    "/wiki/Rostock",
+                    "/wiki/Stralsund",
+                    "/wiki/Binz"
+                ],
+                [
+                    {
+                        "entity id": "Q1715",
+                        "label": "Hanover"
+                    },
+                    {
+                        "entity id": "Q1055",
+                        "label": "Hamburg"
+                    },
+                    {
+                        "entity id": "Q2861",
+                        "label": "Rostock"
+                    },
+                    {
+                        "entity id": "Q4065",
+                        "label": "Stralsund"
+                    },
+                    {
+                        "entity id": "Q523490",
+                        "label": "Binz"
+                    }
+                ]
+            ],
+            [
+                "Strelasund",
+                [
+                    "/wiki/Strelasund"
+                ],
+                [
+                    {
+                        "entity id": "Q677124",
+                        "label": "Strelasund"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "31",
+                []
+            ],
+            [
+                "2220-2221",
+                []
+            ],
+            [
+                "Fehmarn - Puttgarden - L\u00fcbeck - Hamburg - Bremen - M\u00fcnster - Dortmund - Cologne - Koblenz - Mainz - Frankfurt",
+                [
+                    "/wiki/Fehmarn",
+                    "/wiki/Puttgarden",
+                    "/wiki/L\u00fcbeck",
+                    "/wiki/Hamburg",
+                    "/wiki/Bremen",
+                    "/wiki/M\u00fcnster",
+                    "/wiki/Dortmund",
+                    "/wiki/Cologne",
+                    "/wiki/Koblenz",
+                    "/wiki/Mainz",
+                    "/wiki/Frankfurt"
+                ],
+                [
+                    {
+                        "entity id": "Q3172",
+                        "label": "Fehmarn"
+                    },
+                    {
+                        "entity id": "Q705348",
+                        "label": "Puttgarden"
+                    },
+                    {
+                        "entity id": "Q2843",
+                        "label": "L\u00fcbeck"
+                    },
+                    {
+                        "entity id": "Q1055",
+                        "label": "Hamburg"
+                    },
+                    {
+                        "entity id": "Q24879",
+                        "label": "Bremen"
+                    },
+                    {
+                        "entity id": "Q2742",
+                        "label": "M\u00fcnster"
+                    },
+                    {
+                        "entity id": "Q1295",
+                        "label": "Dortmund"
+                    },
+                    {
+                        "entity id": "Q365",
+                        "label": "Cologne"
+                    },
+                    {
+                        "entity id": "Q3104",
+                        "label": "Koblenz"
+                    },
+                    {
+                        "entity id": "Q1720",
+                        "label": "Mainz"
+                    },
+                    {
+                        "entity id": "Q4024",
+                        "label": "Frankfurt (Oder)"
+                    }
+                ]
+            ],
+            [
+                "Fehmarn",
+                [
+                    "/wiki/Fehmarn"
+                ],
+                [
+                    {
+                        "entity id": "Q3172",
+                        "label": "Fehmarn"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "56",
+                []
+            ],
+            [
+                "2238-2239",
+                []
+            ],
+            [
+                "Warnem\u00fcnde - Rostock - Wittenberge - Stendal - Magdeburg - Halle - Leipzig - Dresden",
+                [
+                    "/wiki/Warnem\u00fcnde",
+                    "/wiki/Rostock",
+                    "/wiki/Wittenberge",
+                    "/wiki/Stendal",
+                    "/wiki/Magdeburg",
+                    "/wiki/Halle,_Saxony-Anhalt",
+                    "/wiki/Leipzig",
+                    "/wiki/Dresden"
+                ],
+                [
+                    {
+                        "entity id": "Q311849",
+                        "label": "Warnem\u00fcnde"
+                    },
+                    {
+                        "entity id": "Q2861",
+                        "label": "Rostock"
+                    },
+                    {
+                        "entity id": "Q541956",
+                        "label": "Wittenberge"
+                    },
+                    {
+                        "entity id": "Q7082",
+                        "label": "Stendal"
+                    },
+                    {
+                        "entity id": "Q1733",
+                        "label": "Magdeburg"
+                    },
+                    {
+                        "entity id": "Q2814",
+                        "label": "Halle (Saale)"
+                    },
+                    {
+                        "entity id": "Q2079",
+                        "label": "Leipzig"
+                    },
+                    {
+                        "entity id": "Q1731",
+                        "label": "Dresden"
+                    }
+                ]
+            ],
+            [
+                "Warnow",
+                [
+                    "/wiki/Warnow"
+                ],
+                [
+                    {
+                        "entity id": "Q3280",
+                        "label": "Warnow"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "30",
+                []
+            ],
+            [
+                "2310-2311",
+                []
+            ],
+            [
+                "Westerland - Hamburg - Bremen - M\u00fcnster - Dortmund - Cologne - Koblenz - Mainz - Frankfurt - Stuttgart",
+                [
+                    "/wiki/Westerland,_Germany",
+                    "/wiki/Hamburg",
+                    "/wiki/Bremen",
+                    "/wiki/M\u00fcnster",
+                    "/wiki/Dortmund",
+                    "/wiki/Cologne",
+                    "/wiki/Koblenz",
+                    "/wiki/Mainz",
+                    "/wiki/Frankfurt",
+                    "/wiki/Stuttgart"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q1055",
+                        "label": "Hamburg"
+                    },
+                    {
+                        "entity id": "Q24879",
+                        "label": "Bremen"
+                    },
+                    {
+                        "entity id": "Q2742",
+                        "label": "M\u00fcnster"
+                    },
+                    {
+                        "entity id": "Q1295",
+                        "label": "Dortmund"
+                    },
+                    {
+                        "entity id": "Q365",
+                        "label": "Cologne"
+                    },
+                    {
+                        "entity id": "Q3104",
+                        "label": "Koblenz"
+                    },
+                    {
+                        "entity id": "Q1720",
+                        "label": "Mainz"
+                    },
+                    {
+                        "entity id": "Q4024",
+                        "label": "Frankfurt (Oder)"
+                    },
+                    {
+                        "entity id": "Q1022",
+                        "label": "Stuttgart"
+                    }
+                ]
+            ],
+            [
+                "Nordfriesland",
+                [
+                    "/wiki/Nordfriesland"
+                ],
+                [
+                    {
+                        "entity id": "Q52334933",
+                        "label": "Nordfriesland"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "30",
+                []
+            ],
+            [
+                "2314-2315",
+                []
+            ],
+            [
+                "Westerland - Hamburg - Bremen - M\u00fcnster - Dortmund - Cologne - Koblenz - Mainz - Frankfurt",
+                [
+                    "/wiki/Westerland,_Germany",
+                    "/wiki/Hamburg",
+                    "/wiki/Bremen",
+                    "/wiki/M\u00fcnster",
+                    "/wiki/Dortmund",
+                    "/wiki/Cologne",
+                    "/wiki/Koblenz",
+                    "/wiki/Mainz",
+                    "/wiki/Frankfurt"
+                ],
+                [
+                    {},
+                    {
+                        "entity id": "Q1055",
+                        "label": "Hamburg"
+                    },
+                    {
+                        "entity id": "Q24879",
+                        "label": "Bremen"
+                    },
+                    {
+                        "entity id": "Q2742",
+                        "label": "M\u00fcnster"
+                    },
+                    {
+                        "entity id": "Q1295",
+                        "label": "Dortmund"
+                    },
+                    {
+                        "entity id": "Q365",
+                        "label": "Cologne"
+                    },
+                    {
+                        "entity id": "Q3104",
+                        "label": "Koblenz"
+                    },
+                    {
+                        "entity id": "Q1720",
+                        "label": "Mainz"
+                    },
+                    {
+                        "entity id": "Q4024",
+                        "label": "Frankfurt (Oder)"
+                    }
+                ]
+            ],
+            [
+                "Deichgraf",
+                [
+                    "/wiki/Deichgraf"
+                ],
+                [
+                    {
+                        "entity id": "Q107427464",
+                        "label": "Deichgraf"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "31",
+                []
+            ],
+            [
+                "2327",
+                []
+            ],
+            [
+                "Fehmarn - Puttgarden - L\u00fcbeck - Hamburg - Bremen - M\u00fcnster - Dortmund - Cologne - Koblenz - Mainz - Frankfurt - W\u00fcrzburg - Nuremberg - Passau",
+                [
+                    "/wiki/Fehmarn",
+                    "/wiki/Puttgarden",
+                    "/wiki/L\u00fcbeck",
+                    "/wiki/Hamburg",
+                    "/wiki/Bremen",
+                    "/wiki/M\u00fcnster",
+                    "/wiki/Dortmund",
+                    "/wiki/Cologne",
+                    "/wiki/Koblenz",
+                    "/wiki/Mainz",
+                    "/wiki/Frankfurt",
+                    "/wiki/W\u00fcrzburg",
+                    "/wiki/Nuremberg",
+                    "/wiki/Passau"
+                ],
+                [
+                    {
+                        "entity id": "Q3172",
+                        "label": "Fehmarn"
+                    },
+                    {
+                        "entity id": "Q705348",
+                        "label": "Puttgarden"
+                    },
+                    {
+                        "entity id": "Q2843",
+                        "label": "L\u00fcbeck"
+                    },
+                    {
+                        "entity id": "Q1055",
+                        "label": "Hamburg"
+                    },
+                    {
+                        "entity id": "Q24879",
+                        "label": "Bremen"
+                    },
+                    {
+                        "entity id": "Q2742",
+                        "label": "M\u00fcnster"
+                    },
+                    {
+                        "entity id": "Q1295",
+                        "label": "Dortmund"
+                    },
+                    {
+                        "entity id": "Q365",
+                        "label": "Cologne"
+                    },
+                    {
+                        "entity id": "Q3104",
+                        "label": "Koblenz"
+                    },
+                    {
+                        "entity id": "Q1720",
+                        "label": "Mainz"
+                    },
+                    {
+                        "entity id": "Q4024",
+                        "label": "Frankfurt (Oder)"
+                    },
+                    {
+                        "entity id": "Q2999",
+                        "label": "W\u00fcrzburg"
+                    },
+                    {
+                        "entity id": "Q2090",
+                        "label": "Nuremberg"
+                    },
+                    {
+                        "entity id": "Q4190",
+                        "label": "Passau"
+                    }
+                ]
+            ],
+            [
+                "L\u00fcbecker Bucht",
+                [
+                    "/wiki/L\u00fcbecker_Bucht"
+                ],
+                [
+                    {
+                        "entity id": "Q700309",
+                        "label": "Bay of L\u00fcbeck"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "35",
+                []
+            ],
+            [
+                "2332 , 2336-2337",
+                []
+            ],
+            [
+                "Emden - Rheine - M\u00fcnster - Gelsenkirchen - Oberhausen - D\u00fcsseldorf - Cologne",
+                [
+                    "/wiki/Emden",
+                    "/wiki/Rheine",
+                    "/wiki/M\u00fcnster",
+                    "/wiki/Gelsenkirchen",
+                    "/wiki/Oberhausen",
+                    "/wiki/D\u00fcsseldorf",
+                    "/wiki/Cologne"
+                ],
+                [
+                    {
+                        "entity id": "Q4174",
+                        "label": "Emden"
+                    },
+                    {
+                        "entity id": "Q3890",
+                        "label": "Rheine"
+                    },
+                    {
+                        "entity id": "Q2742",
+                        "label": "M\u00fcnster"
+                    },
+                    {
+                        "entity id": "Q2765",
+                        "label": "Gelsenkirchen"
+                    },
+                    {
+                        "entity id": "Q2838",
+                        "label": "Oberhausen"
+                    },
+                    {
+                        "entity id": "Q1718",
+                        "label": "D\u00fcsseldorf"
+                    },
+                    {
+                        "entity id": "Q365",
+                        "label": "Cologne"
+                    }
+                ]
+            ],
+            [
+                "Borkum",
+                [
+                    "/wiki/Borkum"
+                ],
+                [
+                    {
+                        "entity id": "Q25082",
+                        "label": "Borkum"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "35",
+                []
+            ],
+            [
+                "2333",
+                []
+            ],
+            [
+                "Cologne - D\u00fcsseldorf - Oberhausen - Gelsenkirchen - M\u00fcnster - Rhine - Emden - Norddeich Mole",
+                [
+                    "/wiki/Cologne",
+                    "/wiki/D\u00fcsseldorf",
+                    "/wiki/Oberhausen",
+                    "/wiki/Gelsenkirchen",
+                    "/wiki/M\u00fcnster",
+                    "/wiki/Rhine",
+                    "/wiki/Emden",
+                    "/wiki/Norddeich_Mole"
+                ],
+                [
+                    {
+                        "entity id": "Q365",
+                        "label": "Cologne"
+                    },
+                    {
+                        "entity id": "Q1718",
+                        "label": "D\u00fcsseldorf"
+                    },
+                    {
+                        "entity id": "Q2838",
+                        "label": "Oberhausen"
+                    },
+                    {
+                        "entity id": "Q2765",
+                        "label": "Gelsenkirchen"
+                    },
+                    {
+                        "entity id": "Q2742",
+                        "label": "M\u00fcnster"
+                    },
+                    {
+                        "entity id": "Q584",
+                        "label": "Rhine"
+                    },
+                    {
+                        "entity id": "Q4174",
+                        "label": "Emden"
+                    },
+                    {
+                        "entity id": "Q7050584",
+                        "label": "Norddeich Mole railway station"
+                    }
+                ]
+            ],
+            [
+                "Nordeney",
+                [
+                    "/wiki/Nordeney"
+                ],
+                [
+                    {}
+                ]
+            ]
+        ],
+        [
+            [
+                "26",
+                []
+            ],
+            [
+                "2355-2356",
+                []
+            ],
+            [
+                "Binz - Stralsund - Rostock - Hamburg - Hannover - Kassel - Gie\u00dfen - Frankfurt",
+                [
+                    "/wiki/Binz",
+                    "/wiki/Stralsund",
+                    "/wiki/Rostock",
+                    "/wiki/Hamburg",
+                    "/wiki/Hannover",
+                    "/wiki/Kassel",
+                    "/wiki/Gie\u00dfen",
+                    "/wiki/Frankfurt"
+                ],
+                [
+                    {
+                        "entity id": "Q523490",
+                        "label": "Binz"
+                    },
+                    {
+                        "entity id": "Q4065",
+                        "label": "Stralsund"
+                    },
+                    {
+                        "entity id": "Q2861",
+                        "label": "Rostock"
+                    },
+                    {
+                        "entity id": "Q1055",
+                        "label": "Hamburg"
+                    },
+                    {
+                        "entity id": "Q1715",
+                        "label": "Hanover"
+                    },
+                    {
+                        "entity id": "Q2865",
+                        "label": "Kassel"
+                    },
+                    {
+                        "entity id": "Q3874",
+                        "label": "Giessen"
+                    },
+                    {
+                        "entity id": "Q4024",
+                        "label": "Frankfurt (Oder)"
+                    }
+                ]
+            ],
+            [
+                "Arkona",
+                [
+                    "/wiki/Cape_Arkona"
+                ],
+                [
+                    {
+                        "entity id": "Q4110",
+                        "label": "Cape Arkona"
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "26",
+                []
+            ],
+            [
+                "2370-2371",
+                []
+            ],
+            [
+                "Hamburg - Hannover - Kassel - Gie\u00dfen - Frankfurt - Mannheim - Karlsruhe - Offenburg - Konstanz",
+                [
+                    "/wiki/Hamburg",
+                    "/wiki/Hannover",
+                    "/wiki/Kassel",
+                    "/wiki/Gie\u00dfen",
+                    "/wiki/Frankfurt",
+                    "/wiki/Mannheim",
+                    "/wiki/Karlsruhe",
+                    "/wiki/Offenburg",
+                    "/wiki/Konstanz"
+                ],
+                [
+                    {
+                        "entity id": "Q1055",
+                        "label": "Hamburg"
+                    },
+                    {
+                        "entity id": "Q1715",
+                        "label": "Hanover"
+                    },
+                    {
+                        "entity id": "Q2865",
+                        "label": "Kassel"
+                    },
+                    {
+                        "entity id": "Q3874",
+                        "label": "Giessen"
+                    },
+                    {
+                        "entity id": "Q4024",
+                        "label": "Frankfurt (Oder)"
+                    },
+                    {
+                        "entity id": "Q2119",
+                        "label": "Mannheim"
+                    },
+                    {
+                        "entity id": "Q1040",
+                        "label": "Karlsruhe"
+                    },
+                    {
+                        "entity id": "Q4044",
+                        "label": "Offenburg"
+                    },
+                    {
+                        "entity id": "Q3834",
+                        "label": "Konstanz"
+                    }
+                ]
+            ],
+            [
+                "Schwarzwald",
+                [
+                    "/wiki/Schwarzwald"
+                ],
+                [
+                    {
+                        "entity id": "Q4204",
+                        "label": "Black Forest"
+                    }
+                ]
+            ]
+        ]
+    ],
+    "section_title": "Named services",
+    "section_text": "Originally , all Intercity services had names , usually named after a famous figure from one of the cities along the route . Nowadays , fewer services are named , usually those that serve the extremities of the rail network . Names are usually taken from a geographical location along the route .",
+    "uid": "Intercity_(Deutsche_Bahn)_1",
+    "intro": "Intercity is the second-highest train classification in Germany, after the ICE. Intercity services are loco-hauled express train services, usually over long-distances. There are Intercity routes throughout Germany, and routes generally operate with a two-hour frequency, with multiple routes giving a more frequent service on core routes. Intercity services are operated by the DB Fernverkehr sector of Deutsche Bahn. The Intercity name was introduced in Germany in 1971, replacing the old F-Zug category, and was the top category of train in Germany until the introduction of the ICEs in the early 1990s. With the proliferation of ICE services, the role of IC trains has diminished slightly, and they have taken on the character of many former InterRegio trains. Nonetheless, Intercity trains still offer a very high standard of speed and comfort - all services convey first class accommodation, and most include catering - usually a Bistro Cafe, but some services include a restaurant. A number of Intercity services serve destinations outside Germany; most of these are under the EuroCity classification."
+}

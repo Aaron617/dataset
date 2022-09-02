@@ -1,0 +1,399 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Goitre",
+    "title": "Goitre",
+    "header": [
+        [
+            "Cause",
+            []
+        ],
+        [
+            "Pathophysiology",
+            []
+        ],
+        [
+            "Resultant thyroid activity",
+            []
+        ],
+        [
+            "Growth pattern",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Iodine deficiency",
+                [
+                    "/wiki/Iodine_deficiency"
+                ],
+                [
+                    {
+                        "entity id": "Q18377123",
+                        "label": "iodine deficiency"
+                    }
+                ]
+            ],
+            [
+                "Hyperplasia of thyroid to compensate for decreased efficacy",
+                [
+                    "/wiki/Hyperplasia"
+                ],
+                [
+                    {
+                        "entity id": "Q835051",
+                        "label": "hyperplasia"
+                    }
+                ]
+            ],
+            [
+                "Can cause hypothyroidism",
+                [
+                    "/wiki/Hypothyroidism"
+                ],
+                [
+                    {
+                        "entity id": "Q16501",
+                        "label": "hypothyroidism"
+                    }
+                ]
+            ],
+            [
+                "Diffuse",
+                []
+            ]
+        ],
+        [
+            [
+                "Congenital hypothyroidism",
+                [
+                    "/wiki/Congenital_hypothyroidism"
+                ],
+                [
+                    {
+                        "entity id": "Q531012",
+                        "label": "congenital hypothyroidism"
+                    }
+                ]
+            ],
+            [
+                "Inborn errors of thyroid hormone synthesis",
+                [
+                    "/wiki/Inborn_errors_of_metabolism",
+                    "/wiki/Thyroid_hormones"
+                ],
+                [
+                    {
+                        "entity id": "Q1758393",
+                        "label": "inherited metabolic disorder"
+                    },
+                    {
+                        "entity id": "Q73613464",
+                        "label": "Thyroid hormones"
+                    }
+                ]
+            ],
+            [
+                "Hypothyroidism",
+                [
+                    "/wiki/Hypothyroidism"
+                ],
+                [
+                    {
+                        "entity id": "Q16501",
+                        "label": "hypothyroidism"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Hashimoto 's thyroiditis",
+                [
+                    "/wiki/Hashimoto's_thyroiditis"
+                ],
+                [
+                    {
+                        "entity id": "Q11094",
+                        "label": "chronic thyroiditis"
+                    }
+                ]
+            ],
+            [
+                "Autoimmune disease in which the thyroid gland is gradually destroyed . Infiltration of lymphocytes",
+                [
+                    "/wiki/Autoimmune_disease",
+                    "/wiki/Lymphocyte"
+                ],
+                [
+                    {
+                        "entity id": "Q8084905",
+                        "label": "autoimmune disease"
+                    },
+                    {
+                        "entity id": "Q715347",
+                        "label": "lymphocyte"
+                    }
+                ]
+            ],
+            [
+                "Hypothyroidism",
+                [
+                    "/wiki/Hypothyroidism"
+                ],
+                [
+                    {
+                        "entity id": "Q16501",
+                        "label": "hypothyroidism"
+                    }
+                ]
+            ],
+            [
+                "Diffuse and lobulated",
+                [
+                    "/wiki/Lobulated"
+                ],
+                [
+                    {
+                        "entity id": "Q52490947",
+                        "label": "Lobulated fibers in neuromuscular diseases."
+                    }
+                ]
+            ]
+        ],
+        [
+            [
+                "Pituitary disease",
+                [
+                    "/wiki/Pituitary_disease"
+                ],
+                [
+                    {
+                        "entity id": "Q7199538",
+                        "label": "pituitary gland disease"
+                    }
+                ]
+            ],
+            [
+                "Hypersecretion of thyroid stimulating hormone , almost always by a pituitary adenoma",
+                [
+                    "/wiki/Thyroid_stimulating_hormone"
+                ],
+                [
+                    {
+                        "entity id": "Q211544",
+                        "label": "thyroid-stimulating hormone"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Diffuse",
+                []
+            ]
+        ],
+        [
+            [
+                "Graves ' disease - also called Basedow syndrome",
+                [
+                    "/wiki/Graves'_disease"
+                ],
+                [
+                    {
+                        "entity id": "Q50357588",
+                        "label": "Graves' disease"
+                    }
+                ]
+            ],
+            [
+                "Autoantibodies ( TSHR-Ab ) that activate the TSH -receptor ( TSHR )",
+                [
+                    "/wiki/Autoantibodies",
+                    "/wiki/Thyroid-stimulating_hormone"
+                ],
+                [
+                    {
+                        "entity id": "Q785022",
+                        "label": "autoantibody"
+                    },
+                    {
+                        "entity id": "Q211544",
+                        "label": "thyroid-stimulating hormone"
+                    }
+                ]
+            ],
+            [
+                "Hyperthyroidism",
+                [
+                    "/wiki/Hyperthyroidism"
+                ],
+                [
+                    {
+                        "entity id": "Q16499",
+                        "label": "hyperthyroidism"
+                    }
+                ]
+            ],
+            [
+                "Diffuse",
+                []
+            ]
+        ],
+        [
+            [
+                "Thyroiditis",
+                [
+                    "/wiki/Thyroiditis"
+                ],
+                [
+                    {
+                        "entity id": "Q11835644",
+                        "label": "thyroiditis"
+                    }
+                ]
+            ],
+            [
+                "Acute or chronic inflammation",
+                [
+                    "/wiki/Inflammation"
+                ],
+                [
+                    {
+                        "entity id": "Q101991",
+                        "label": "inflammation"
+                    }
+                ]
+            ],
+            [
+                "Can be hyperthyroidism initially , but progress to hypothyroidism",
+                [
+                    "/wiki/Hyperthyroidism",
+                    "/wiki/Hypothyroidism"
+                ],
+                [
+                    {
+                        "entity id": "Q16499",
+                        "label": "hyperthyroidism"
+                    },
+                    {
+                        "entity id": "Q16501",
+                        "label": "hypothyroidism"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ]
+        ],
+        [
+            [
+                "Thyroid cancer",
+                [
+                    "/wiki/Thyroid_cancer"
+                ],
+                [
+                    {
+                        "entity id": "Q826522",
+                        "label": "thyroid cancer"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Usually uninodular",
+                []
+            ]
+        ],
+        [
+            [
+                "Benign thyroid neoplasms",
+                [
+                    "/wiki/Thyroid_neoplasm"
+                ],
+                [
+                    {
+                        "entity id": "Q13632630",
+                        "label": "thyroid neoplasm"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Usually hyperthyroidism",
+                [
+                    "/wiki/Hyperthyroidism"
+                ],
+                [
+                    {
+                        "entity id": "Q16499",
+                        "label": "hyperthyroidism"
+                    }
+                ]
+            ],
+            [
+                "Usually uninodular",
+                []
+            ]
+        ],
+        [
+            [
+                "Thyroid hormone insensitivity",
+                [
+                    "/wiki/Thyroid_hormone_insensitivity"
+                ],
+                [
+                    {
+                        "entity id": "Q1515038",
+                        "label": "thyroid hormone resistance syndrome"
+                    }
+                ]
+            ],
+            [
+                "",
+                []
+            ],
+            [
+                "Secretional hyperthyroidism , Symptomatic hypothyroidism",
+                [
+                    "/wiki/Hyperthyroidism",
+                    "/wiki/Hypothyroidism"
+                ],
+                [
+                    {
+                        "entity id": "Q16499",
+                        "label": "hyperthyroidism"
+                    },
+                    {
+                        "entity id": "Q16501",
+                        "label": "hypothyroidism"
+                    }
+                ]
+            ],
+            [
+                "Diffuse",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Causes",
+    "section_text": "Worldwide , the most common cause for goitre is iodine deficiency , commonly seen in countries that scarcely use iodized salt . Selenium deficiency is also considered a contributing factor . In countries that use iodized salt , Hashimoto 's thyroiditis is the most common cause . [ 5 ] Goitre can also result from cyanide poisoning ; this is particularly common in tropical countries where people eat the cyanide-rich cassava root as the staple food . [ 6 ]",
+    "uid": "Goitre_0",
+    "intro": "A goitre, or goiter, is a swelling in the neck resulting from an enlarged thyroid gland. A goitre can be associated with a thyroid that is not functioning properly. Worldwide, over 90% of goitre cases are caused by iodine deficiency. The term is from the Latin gutturia, meaning throat. Most goitres are of a benign nature."
+}

@@ -1,0 +1,695 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_power_stations_in_Finland",
+    "title": "List of power stations in Finland",
+    "header": [
+        [
+            "Name",
+            []
+        ],
+        [
+            "Location",
+            []
+        ],
+        [
+            "Fuel",
+            []
+        ],
+        [
+            "Capacity , MWe",
+            []
+        ],
+        [
+            "Status",
+            []
+        ]
+    ],
+    "data": [
+        [
+            [
+                "Hanasaari Power Station",
+                [
+                    "/wiki/Hanasaari_Power_Station"
+                ],
+                [
+                    {}
+                ]
+            ],
+            [
+                "Helsinki",
+                [
+                    "/wiki/Helsinki"
+                ],
+                [
+                    {
+                        "entity id": "Q1757",
+                        "label": "Helsinki"
+                    }
+                ]
+            ],
+            [
+                "Coal",
+                [
+                    "/wiki/Coal"
+                ],
+                [
+                    {
+                        "entity id": "Q24489",
+                        "label": "coal"
+                    }
+                ]
+            ],
+            [
+                "220",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Kellosaari Power Station",
+                []
+            ],
+            [
+                "Helsinki",
+                [
+                    "/wiki/Helsinki"
+                ],
+                [
+                    {
+                        "entity id": "Q1757",
+                        "label": "Helsinki"
+                    }
+                ]
+            ],
+            [
+                "Fuel Oil",
+                [
+                    "/wiki/Fuel_Oil"
+                ],
+                [
+                    {
+                        "entity id": "Q214199",
+                        "label": "fuel oil"
+                    }
+                ]
+            ],
+            [
+                "118",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Kristiina Power Station",
+                []
+            ],
+            [
+                "Kristinestad",
+                [
+                    "/wiki/Kristinestad"
+                ],
+                [
+                    {
+                        "entity id": "Q659642",
+                        "label": "Kristinestad"
+                    }
+                ]
+            ],
+            [
+                "Coal and Fuel Oil",
+                [
+                    "/wiki/Coal",
+                    "/wiki/Fuel_Oil"
+                ],
+                [
+                    {
+                        "entity id": "Q24489",
+                        "label": "coal"
+                    },
+                    {
+                        "entity id": "Q214199",
+                        "label": "fuel oil"
+                    }
+                ]
+            ],
+            [
+                "450",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Kymij\u00e4rvi 1 Power Station",
+                []
+            ],
+            [
+                "Lahti",
+                [
+                    "/wiki/Lahti"
+                ],
+                [
+                    {
+                        "entity id": "Q28911",
+                        "label": "Lahti"
+                    }
+                ]
+            ],
+            [
+                "Coal , Natural gas and Biogas",
+                [
+                    "/wiki/Coal",
+                    "/wiki/Natural_gas",
+                    "/wiki/Biogas"
+                ],
+                [
+                    {
+                        "entity id": "Q24489",
+                        "label": "coal"
+                    },
+                    {
+                        "entity id": "Q40858",
+                        "label": "natural gas"
+                    },
+                    {
+                        "entity id": "Q171076",
+                        "label": "biogas"
+                    }
+                ]
+            ],
+            [
+                "200",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Lielahti Power Station",
+                []
+            ],
+            [
+                "Tampere",
+                [
+                    "/wiki/Tampere"
+                ],
+                [
+                    {
+                        "entity id": "Q40840",
+                        "label": "Tampere"
+                    }
+                ]
+            ],
+            [
+                "Natural gas",
+                [
+                    "/wiki/Natural_gas"
+                ],
+                [
+                    {
+                        "entity id": "Q40858",
+                        "label": "natural gas"
+                    }
+                ]
+            ],
+            [
+                "147",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Martinlaakso Power Station",
+                []
+            ],
+            [
+                "Vantaa",
+                [
+                    "/wiki/Vantaa"
+                ],
+                [
+                    {
+                        "entity id": "Q127623",
+                        "label": "Vantaa"
+                    }
+                ]
+            ],
+            [
+                "Coal and Natural gas",
+                [
+                    "/wiki/Coal",
+                    "/wiki/Natural_gas"
+                ],
+                [
+                    {
+                        "entity id": "Q24489",
+                        "label": "coal"
+                    },
+                    {
+                        "entity id": "Q40858",
+                        "label": "natural gas"
+                    }
+                ]
+            ],
+            [
+                "195",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Meri-Pori Power Station",
+                []
+            ],
+            [
+                "Pori",
+                [
+                    "/wiki/Pori"
+                ],
+                [
+                    {
+                        "entity id": "Q180233",
+                        "label": "Pori"
+                    }
+                ]
+            ],
+            [
+                "Coal",
+                [
+                    "/wiki/Coal"
+                ],
+                [
+                    {
+                        "entity id": "Q24489",
+                        "label": "coal"
+                    }
+                ]
+            ],
+            [
+                "560",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Mussalo Power Station",
+                []
+            ],
+            [
+                "Kotka",
+                [
+                    "/wiki/Kotka"
+                ],
+                [
+                    {
+                        "entity id": "Q192155",
+                        "label": "Kotka"
+                    }
+                ]
+            ],
+            [
+                "Natural gas and Coal",
+                [
+                    "/wiki/Natural_gas",
+                    "/wiki/Coal"
+                ],
+                [
+                    {
+                        "entity id": "Q40858",
+                        "label": "natural gas"
+                    },
+                    {
+                        "entity id": "Q24489",
+                        "label": "coal"
+                    }
+                ]
+            ],
+            [
+                "313",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Naantali Power Station",
+                []
+            ],
+            [
+                "Naantali",
+                [
+                    "/wiki/Naantali"
+                ],
+                [
+                    {
+                        "entity id": "Q503862",
+                        "label": "Naantali"
+                    }
+                ]
+            ],
+            [
+                "Coal",
+                [
+                    "/wiki/Coal"
+                ],
+                [
+                    {
+                        "entity id": "Q24489",
+                        "label": "coal"
+                    }
+                ]
+            ],
+            [
+                "256",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Naistenlahti Power Station",
+                []
+            ],
+            [
+                "Tampere",
+                [
+                    "/wiki/Tampere"
+                ],
+                [
+                    {
+                        "entity id": "Q40840",
+                        "label": "Tampere"
+                    }
+                ]
+            ],
+            [
+                "Natural gas , Peat , Wood and Fuel Oil",
+                [
+                    "/wiki/Natural_gas",
+                    "/wiki/Peat",
+                    "/wiki/Wood",
+                    "/wiki/Fuel_Oil"
+                ],
+                [
+                    {
+                        "entity id": "Q40858",
+                        "label": "natural gas"
+                    },
+                    {
+                        "entity id": "Q184624",
+                        "label": "peat"
+                    },
+                    {
+                        "entity id": "Q4421",
+                        "label": "forest"
+                    },
+                    {
+                        "entity id": "Q214199",
+                        "label": "fuel oil"
+                    }
+                ]
+            ],
+            [
+                "189",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Nokia Power Station",
+                []
+            ],
+            [
+                "Nokia",
+                [
+                    "/wiki/Nokia"
+                ],
+                [
+                    {
+                        "entity id": "Q1418",
+                        "label": "Nokia"
+                    }
+                ]
+            ],
+            [
+                "Natural gas",
+                [
+                    "/wiki/Natural_gas"
+                ],
+                [
+                    {
+                        "entity id": "Q40858",
+                        "label": "natural gas"
+                    }
+                ]
+            ],
+            [
+                "70",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Salmisaari Power Station",
+                []
+            ],
+            [
+                "Helsinki",
+                [
+                    "/wiki/Helsinki"
+                ],
+                [
+                    {
+                        "entity id": "Q1757",
+                        "label": "Helsinki"
+                    }
+                ]
+            ],
+            [
+                "Coal",
+                [
+                    "/wiki/Coal"
+                ],
+                [
+                    {
+                        "entity id": "Q24489",
+                        "label": "coal"
+                    }
+                ]
+            ],
+            [
+                "160",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Suomenoja Power Station",
+                []
+            ],
+            [
+                "Espoo",
+                [
+                    "/wiki/Espoo"
+                ],
+                [
+                    {
+                        "entity id": "Q47034",
+                        "label": "Espoo"
+                    }
+                ]
+            ],
+            [
+                "Natural gas and Coal",
+                [
+                    "/wiki/Natural_gas",
+                    "/wiki/Coal"
+                ],
+                [
+                    {
+                        "entity id": "Q40858",
+                        "label": "natural gas"
+                    },
+                    {
+                        "entity id": "Q24489",
+                        "label": "coal"
+                    }
+                ]
+            ],
+            [
+                "359",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Tahkoluoto Power Station",
+                []
+            ],
+            [
+                "Pori",
+                [
+                    "/wiki/Pori"
+                ],
+                [
+                    {
+                        "entity id": "Q180233",
+                        "label": "Pori"
+                    }
+                ]
+            ],
+            [
+                "Coal",
+                [
+                    "/wiki/Coal"
+                ],
+                [
+                    {
+                        "entity id": "Q24489",
+                        "label": "coal"
+                    }
+                ]
+            ],
+            [
+                "235",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Vaskiluoto Power Station",
+                []
+            ],
+            [
+                "Vaasa",
+                [
+                    "/wiki/Vaasa"
+                ],
+                [
+                    {
+                        "entity id": "Q125080",
+                        "label": "Vaasa"
+                    }
+                ]
+            ],
+            [
+                "Coal and Fuel Oil",
+                [
+                    "/wiki/Coal",
+                    "/wiki/Fuel_Oil"
+                ],
+                [
+                    {
+                        "entity id": "Q24489",
+                        "label": "coal"
+                    },
+                    {
+                        "entity id": "Q214199",
+                        "label": "fuel oil"
+                    }
+                ]
+            ],
+            [
+                "390",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ],
+        [
+            [
+                "Vuosaari Power Station",
+                []
+            ],
+            [
+                "Helsinki",
+                [
+                    "/wiki/Helsinki"
+                ],
+                [
+                    {
+                        "entity id": "Q1757",
+                        "label": "Helsinki"
+                    }
+                ]
+            ],
+            [
+                "Natural gas",
+                [
+                    "/wiki/Natural_gas"
+                ],
+                [
+                    {
+                        "entity id": "Q40858",
+                        "label": "natural gas"
+                    }
+                ]
+            ],
+            [
+                "630",
+                []
+            ],
+            [
+                "Operational",
+                []
+            ]
+        ]
+    ],
+    "section_title": "Non-renewable -- Fossil fuel",
+    "section_text": "",
+    "uid": "List_of_power_stations_in_Finland_1",
+    "intro": "The following page lists all power stations in Finland."
+}
